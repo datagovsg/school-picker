@@ -1,0 +1,294 @@
+{
+	"code": "1227",
+	"levels": "P",
+	"uen": " T07GS1227A",
+	"logo": "./Medias/Images/Schools/logos/tn_1227.jpg",
+	"name": "Xishan Primary School",
+	"website": "http://www.xishanpri.moe.edu.sg/",
+	"address": "8, Yishun Street 21 (768611)",
+	"telephone": [
+		"67588837"
+	],
+	"fax": [
+		"67588361"
+	],
+	"email": "XISHAN_PS@MOE.EDU.SG",
+	"mrt": [
+		"Yishun MRT"
+	],
+	"bus": "SMRT 800 , 801 from Yishun Interchange ",
+	"GeneralInformation": {
+		"Principal": "Mdm Tang Wai Peng",
+		"Vice Principal": [
+			"Mdm Chua Mei Ling",
+			"Mrs Pawa Mong Jee"
+		],
+		"School Vision": "Every Xishanite, A Lifelong Learner, A Contributing Citizen",
+		"School Mission": "To create opportunities where passions are ignited, potentials discovered and dreams realised.",
+		"School Philosophy, Culture and Ethos": "Our school philosophy that Every Child is important and Every Child Can Learn guides all staff to recognise that every child has his unique strengths and capabilities. We strive to know and grow our pupils to discover their individual  strengths and develop them to reach their fullest potential within a supportive environment.     In line with our Mission, we seek to create opportunities to bring out the best in every child  through varied learning programmes and experiences. Anchored on a strong professional ethos, our teachers build up every child in a caring and nurturing environment with high expectations for our pupils' holistic development, so that every child grows to be a life-long learner and contributing citizen. We seek to build an inviting school where all our pupils appreciate a quality school experience, exhibit the joy of learning and embrace the school values of Self-discipline, Integrity, Resilience and Respect.    The school prides itself in living out a strong community spirit, in line with our motto of \"Love, Care, Share\" following that of our school founding pioneers, through our active community involvement.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"Co-curricular Activities",
+		"English Language",
+		"Foundation Chinese",
+		"Foundation English",
+		"Foundation Malay",
+		"Foundation Mathematics",
+		"Foundation Science",
+		"Foundation Tamil",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Sports & Outdoor Education": "Empowerment through Sports Education"
+		},
+		"Special Student Development Programmes Offered": "The school believes that academic learning and character building are equally important in developing the whole child.     Our Learning for Life Programme (LLP), Empowerment through Sports Education, aims to equip every pupil with mental skills that will shape a positive mindset and be guided by positive habits of mind to demonstrate good values and strong character.  Delivered via our Xishan's Physical Education curriculum and Sports & Games modules, and integrated into the school's total curriculum, pupils' acquisition and practice of mental skills will be manifested through changing attitudes, mindsets and habits, thereby shaping their disposition and build their competencies to meet varied situations that they might encounter in life.      Environmental education is a strong tenet in the school to promote a strong sense of community responsibility, values inculcation and resource conservation."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Scout",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"postalCode": "768611",
+	"coordinates": [
+		103.837908869,
+		1.43368029167
+	],
+	"svy21": [
+		28510.83,
+		46154.6
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 180,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 140,
+		"No. of Applicants in Phase 1": 52,
+		"Places taken up to Phase 1": 52,
+		"Vacancy for Phase 2A1": 88,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 52,
+		"Vacancy for Phase 2A2": 88,
+		"No. of Applicants in Phase 2A2": 12,
+		"Places taken up to Phase 2A2": 63,
+		"Vacancy For Phase 2B": 58,
+		"Vacancy for Phase 2B": 59,
+		"No. of Applicants in Phase 2B": 0
+	},
+	"id": "1227"
+}

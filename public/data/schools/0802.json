@@ -1,0 +1,486 @@
+{
+	"code": "0802",
+	"levels": "J",
+	"uen": " T07GS0802K",
+	"logo": "./Medias/Images/Schools/logos/tn_0802.jpg",
+	"name": "Catholic Junior College",
+	"website": "http://www.cjc.edu.sg",
+	"address": "129, Whitley Road (297822)",
+	"telephone": [
+		"62524083"
+	],
+	"fax": [
+		"62537267"
+	],
+	"email": "catholic_jc@moe.edu.sg",
+	"mrt": [
+		"Toa Payoh MRT",
+		"Novena MRT",
+		"Orchard MRT"
+	],
+	"bus": "105 , 132 , 151 , 153 , 154 , 156 , 186 , 996 , 985 ",
+	"GeneralInformation": {
+		"Principal": "Mdm Chua Suan Gek Phyllis",
+		"Vice Principal": [
+			"Mr Tan Jek Suan",
+			"Mrs Yue-Chang Teck Hui"
+		],
+		"Vice Principal (Admin)": "Mr Gan Thiam Soon Allan",
+		"School Vision": "CJC: a place of excellence in learning and living.",
+		"School Mission": "We cultivate in each young person the skill and attitude to embrace challenges wisely and courageously. We foster a community that cares for the dignity of young people, nurturing them to be men and women of compassion. We broaden their vision so that they become leaders committed to serve in faith and with integrity.",
+		"Type of School": "Government-aided Sch / Co-ed School / Full Day",
+		"Mother Tongue": "Not Available",
+		"Affiliated Schools": [
+			"Assumption English School",
+			"CHIJ Secondary (Toa Payoh)",
+			"CHIJ Katong Convent",
+			"Montfort Secondary School",
+			"St. Anthony's Canossian Secondary School",
+			"St. Gabriel's Secondary School",
+			"CHIJ St. Joseph's Convent",
+			"St. Joseph's Institution",
+			"St. Patrick's School",
+			"CHIJ St. Theresa's Convent",
+			"Hai Sing Catholic School",
+			"Catholic High School",
+			"Holy Innocents' High School",
+			"Maris Stella High School",
+			"CHIJ St. Nicholas Girls' School"
+		]
+	},
+	"SubjectOffered": [
+		"H1 Biology",
+		"H1 Chemistry",
+		"H1 Chinese Language",
+		"H1 Economics",
+		"H1 General Paper",
+		"H1 Geography",
+		"H1 History",
+		"H1 Literature In English",
+		"H1 Malay Language",
+		"H1 Mathematics",
+		"H1 Physics",
+		"H1 Project Work",
+		"H1 Tamil Language",
+		"H2 Biology",
+		"H2 Chemistry",
+		"H2 Chinese Language & Literature",
+		"H2 Computing",
+		"H2 Economics",
+		"H2 Geography",
+		"H2 History",
+		"H2 Knowledge & Inquiry",
+		"H2 Literature In English",
+		"H2 Malay Language & Literature",
+		"H2 Mathematics",
+		"H2 Physics",
+		"H2 Tamil Language & Literature",
+		"H3 Economics",
+		"H3 Essentials Of Modern Physics",
+		"H3 Geography",
+		"H3 History",
+		"H3 Literature In English",
+		"H3 Mathematics",
+		"H3 Pharmaceutical Chemistry",
+		"H3 Proteomics"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Canoeing",
+			"Cross Country",
+			"Fencing",
+			"Football",
+			"Golf",
+			"Gymnastics",
+			"Judo",
+			"Netball",
+			"Rugby",
+			"Shooting",
+			"Swimming / Biathlon",
+			"Ten-Pin Bowling",
+			"Tennis",
+			"Track & Field",
+			"Volleyball"
+		],
+		"Visual and Performing Arts": [
+			"Band - Symphonic",
+			"Choir",
+			"Dance - Modern",
+			"Drama - English",
+			"Ensemble - Guitar",
+			"Film, Sound And Video Society"
+		],
+		"Clubs & Societies": [
+			"Environmental Science Society",
+			"First Aid Club",
+			"Interact Club",
+			"Legion Of Mary",
+			"Mathematics Society",
+			"Nexus Society",
+			"Singapore Youth Flying Club",
+			"Speakers' Ink (Debating)",
+			"St Vincent De Paul Society",
+			"Student Council"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Language Elective Programme (English)"
+		],
+		"Special Student Development Programmes Offered": "Religious / Ethics Programme Overseas Community Projects (10 countries 2008) National Youth Achievement Award (NYAA)  Integrated Leadership Development COL@C : Curriculum Online At CJC"
+	},
+	"AchievementHistory": {
+		"Junior College": {
+			"2014": {
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"2016": {
+				"School Distinction Awards": "SDA"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Cross Country",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Fencing",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Golf",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Shooting (Air Pistol)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Shooting (Air Pistol)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Fencing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Fencing",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Fencing",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Judo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Judo",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - Multi-Lingual",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": []
+		}
+	},
+	"L1R5History": [
+		{
+			"year": "2014",
+			"programme": "Arts",
+			"lower": 2,
+			"upper": 10
+		},
+		{
+			"year": "2014",
+			"programme": "Science/IB",
+			"lower": 2,
+			"upper": 10
+		},
+		{
+			"year": "2014",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2015",
+			"programme": "Arts",
+			"lower": 2,
+			"upper": 10
+		},
+		{
+			"year": "2015",
+			"programme": "Science/IB",
+			"lower": 2,
+			"upper": 10
+		},
+		{
+			"year": "2015",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2016",
+			"programme": "Arts",
+			"lower": 3,
+			"upper": 10
+		},
+		{
+			"year": "2016",
+			"programme": "Science/IB",
+			"lower": 3,
+			"upper": 10
+		},
+		{
+			"year": "2016",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2017",
+			"programme": "Arts",
+			"lower": 5,
+			"upper": 10
+		},
+		{
+			"year": "2017",
+			"programme": "Science/IB",
+			"lower": 2,
+			"upper": 11
+		},
+		{
+			"year": "2017",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		}
+	],
+	"postalCode": "297822",
+	"coordinates": [
+		103.835028842354,
+		1.32455605783221
+	],
+	"svy21": [
+		28190.3351049777,
+		34088.1962013785
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	],
+	"id": "0802"
+}

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="5351.755 586.086 71.065 121.37">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #273246;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Home_Location" data-name="Home Location" transform="translate(4244)">
+    <path id="Path_151" data-name="Path 151" class="cls-1" d="M1430.465,1292.933a35.533,35.533,0,1,0-71.066,0,34.739,34.739,0,0,0,7.985,22.358,168.089,168.089,0,0,0,11.977,15.171s12.576,14.373,12.576,18.964v29.145h2.994l2.4.2v-29.145c0-4.791,13.175-19.164,13.175-19.164a168.141,168.141,0,0,0,11.977-15.171A34.737,34.737,0,0,0,1430.465,1292.933Z" transform="translate(-251.645 -671.314)"/>
+    <g id="Group_67" data-name="Group 67" transform="translate(1127.119 605.25)">
+      <g id="Group_66" data-name="Group 66">
+        <path id="Path_152" data-name="Path 152" class="cls-2" d="M1371.2,1274.8v15.57h23.955V1274.8" transform="translate(-1367.008 -1259.229)"/>
+        <path id="Path_153" data-name="Path 153" class="cls-2" d="M1369.1,1281.772,1385.269,1267l16.369,14.772" transform="translate(-1369.1 -1267)"/>
+        <path id="Path_154" data-name="Path 154" class="cls-2" d="M1380.1,1267.7h4.99v4.991" transform="translate(-1358.142 -1266.303)"/>
+      </g>
+    </g>
+  </g>
+</svg>

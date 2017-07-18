@@ -1,0 +1,19 @@
+branch-defaults:
+  default:
+    environment: datagovsg-school-picker-@TRAVIS_BRANCH
+environment-defaults:
+  master:
+    branch: null
+    repository: null
+global:
+  application_name: datagovsg-school-picker
+  default_ec2_keyname: null
+  default_platform: arn:aws:elasticbeanstalk:ap-southeast-1::platform/Docker running
+    on 64bit Amazon Linux/2.5.2
+  default_region: ap-southeast-1
+  instance_profile: null
+  platform_name: null
+  platform_version: null
+  profile: null
+  sc: git
+  workspace_type: Application

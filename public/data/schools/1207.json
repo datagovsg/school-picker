@@ -1,0 +1,248 @@
+{
+	"code": "1207",
+	"levels": "P",
+	"uen": " T07GS1207B",
+	"logo": "./Medias/Images/Schools/logos/tn_1207.jpg",
+	"name": "Jiemin Primary School",
+	"website": "http://www.jieminpri.moe.edu.sg",
+	"address": "2, Yishun Street 71 (768515)",
+	"telephone": [
+		"67586472"
+	],
+	"fax": [
+		"67559958"
+	],
+	"email": "jiemin_ps@moe.edu.sg",
+	"mrt": [
+		"Yishun MRT"
+	],
+	"bus": "167 , 169 , 171 , 800 , 811 , 812 , 856 , 858 , 859 , 969 , 980 ",
+	"GeneralInformation": {
+		"Principal": "Miss Cheah Poh Lian",
+		"Vice Principal": "Mdm Ho Jun Lynn",
+		"Vice Principal (Admin)": "Mr Wong Wai Hon",
+		"School Vision": "Global Learners, Discerning Citizens",
+		"School Mission": "Nurturing Hearts and Minds",
+		"School Philosophy, Culture and Ethos": "At Jiemin Primary School we aim to equip our students with the 21st century competencies and to build a strong foundation in the Languages, Mathematics and Science.  We are committed to create a supportive, engaging, safe and inclusive environment with the support of parents and the community.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"English Language",
+		"Foundation Chinese",
+		"Foundation English",
+		"Foundation Malay",
+		"Foundation Mathematics",
+		"Foundation Science",
+		"Foundation Tamil",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Baksetball",
+			"Floorball",
+			"Taekwondo",
+			"Tchoukball"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Dance - Chinese",
+			"Dance - Indian",
+			"Dance - Malay",
+			"Ensemble - Angklung/Kulintang"
+		],
+		"Clubs & Societies": [
+			"Library"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Languages": "J-YEAR (Jiemin- Young Editors And Reporters )",
+			"Music & Performing Arts / Visual Arts & Design": "Through JPS Aesthetics – I Discover, I Possess, I Serve"
+		},
+		"Special Student Development Programmes Offered": "Our Journalists in Making, an Applied Learning Programme, aims to develop our students in critical thinking, oral and written communication skills and build their confidence to speak and write on any chosen topic at the class, school or community level. Presentations during recess and at school events are platforms to build students' confidence. Students who would like to learn more about journalism can participate in the Journalists' Club where they learn more about being a journalist through workshops and platforms like reporting real-time news during school events.  Through our Learning for Life Programme, Aesthetics Alive, students learn to draw, play instruments, compose songs and appreciate music and art through our structured Art and Music Curricula. Students are also provided the opportunities to experiment with different musical instruments and dances during recesses. Students who have a flair for dancing and music can also participate in our Performing Arts CCAs such as  Modern Jazz Dance and Angklung Ensemble where more specific skills are taught and students also develop team spirit and leadership qualities.   To help students make informed choices, P4 to P6 students make use of the ECG portal to find out more about themselves and the type of secondary schools that would be suitable for them. P6 students attend a one-day immersion programme at selected secondary schools to provide students with the opportunity to experience secondary school life and better understand about the secondary school curriculum. Career talks and talks by former students are some platforms where our students could find out more about secondary school life and the careers that they are interested in."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": "DA (Character Development)",
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"2015": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2016": {
+				"Development Award": "DA (Character Development)"
+			},
+			"Sports & Games Competition": [],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Boys' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2014",
+					"category": "Girls' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Girls' Brigade",
+					"award": "Bronze"
+				}
+			]
+		}
+	},
+	"postalCode": "768515",
+	"coordinates": [
+		103.830480284,
+		1.42764637911
+	],
+	"svy21": [
+		27684.14,
+		45487.4
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 180,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 140,
+		"No. of Applicants in Phase 1": 70,
+		"Places taken up to Phase 1": 70,
+		"Vacancy for Phase 2A1": 70,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 70,
+		"Vacancy for Phase 2A2": 70,
+		"No. of Applicants in Phase 2A2": 24,
+		"Places taken up to Phase 2A2": 94,
+		"Vacancy For Phase 2B": 43,
+		"Vacancy for Phase 2B": 43,
+		"No. of Applicants in Phase 2B": 9
+	},
+	"id": "1207"
+}

@@ -1,0 +1,406 @@
+{
+	"code": "7005",
+	"levels": "S",
+	"uen": " T07GS7005G",
+	"logo": "./Medias/Images/Schools/logos/tn_7005.jpg",
+	"name": "Geylang Methodist School (Secondary)",
+	"website": "http://www.geylangmethodistsec.moe.edu.sg",
+	"address": "2, Geylang East Central (389705)",
+	"telephone": [
+		"67466503"
+	],
+	"fax": [
+		"67477317"
+	],
+	"email": "gmss@moe.edu.sg",
+	"mrt": [
+		"Aljunied MRT"
+	],
+	"bus": "40 , 62 , 63 , 80 , 100 , 125 , 134 , 153 , 155 , 158 , 180 ",
+	"GeneralInformation": {
+		"Principal": "Mr Wee Tat Chuen",
+		"Vice Principal": [
+			"Mr Eka Tanu",
+			"Mdm Teo Yvonne"
+		],
+		"Vice Principal (Admin)": "Mdm Tan Sor Leng",
+		"School Vision": "Passionate Learners. Courageous Leaders. Caring Citizens.",
+		"School Mission": "With God's help, to be a beacon of light by connecting, nurturing and inspiring GEMS to make a difference.",
+		"School Philosophy, Culture and Ethos": "We strive to inculcate 'integrity, compassion and the desire to learn and bless others' as we build an engaging school to develop all-round students through an empowered staff. Our approach to Character Development is anchored in 'Knowing', 'Doing' and 'Being', and we aim to equip every student with social and emotional competencies and root them in moral values. The school is guided by the principle of 'Building Character through Building Relationships' as we believe that a strong student-teacher bond is pivotal to sound character formation. We encourage our students to be in the position of choice i.e. to be of good character, succeeding in both academic and affective areas, so that more life opportunities would be opened to them. We do this by offering choices to our students, because we value and acknowledge that each individual has different talents and needs. The school's academic programmes are therefore customised to meet students' needs and abilities, stimulate thinking and inspire learning.",
+		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": [
+			"Anglo-Chinese Junior College",
+			"Geylang Methodist School (Primary)"
+		]
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Combined Humanities (S,G)",
+		"Combined Humanities (S,H)",
+		"Combined Humanities (S,L)",
+		"Computer Applications",
+		"Design & Technology",
+		"Elements Of Business Skills",
+		"English Language",
+		"Food & Nutrition",
+		"Food And Consumer Education",
+		"Food Studies, N Level",
+		"Geography",
+		"Higher Chinese",
+		"History",
+		"Literature(E)",
+		"Malay",
+		"Mathematics",
+		"Oecie Physical Education",
+		"Physics",
+		"Principles Of A/C",
+		"Principles Of Accounts",
+		"Science (Chem, Bio)",
+		"Science (Phy, Chem)",
+		"Science (Syll T)"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Football",
+			"Netball",
+			"Softball",
+			"Table Tennis",
+			"Ten-Pin Bowling",
+			"Volleyball"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Girl Guides",
+			"Girls' Brigade",
+			"Npcc"
+		],
+		"Visual and Performing Arts": [
+			"Band - Symphonic",
+			"Choir",
+			"Dance - Chinese",
+			"Drama - English"
+		],
+		"Clubs & Societies": [
+			"Board Games Club",
+			"Green Club",
+			"Media Resource Club",
+			"Multi - Media Society"
+		],
+		"Others": [
+			"House Appointment",
+			"Students' Council"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"STEM": "GeMs_Applied Learning Programme in Science",
+			"Community & Youth Leadership": "Nurturing Confident and Compassionate Leaders via Values-in-Action"
+		},
+		"Special Student Development Programmes Offered": "The school nurtures students' talents, interests, character and leadership qualities via a vibrant CCE curriculum and distinctive programmes, including a 4/5-years progressive Values-in-Action Learning for Life Programme (LLP) with local and overseas service learning experiences, an Applied Learning Programme (ALP) in Environmental Science and Sustainable Living, a vibrant CCA programme spanning 20 CCAs, the Music, Art, Dance and Drama (MADD) enrichment programme, oral communications, varied leadership development opportunities and level camps for all students. Through these, we develop all-round students who strive to contribute to the school and the community.The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"Outstanding Development Award": "ODA (National Education)"
+			},
+			"2015": {
+				"Outstanding Development Award": "ODA (National Education)"
+			},
+			"2016": {
+				"Outstanding Development Award": "ODA (National Education)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - English",
+					"award": "Distinction"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "Girls' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 221,
+			"upper": 241,
+			"lowerAffiliated": 195,
+			"upperAffiliated": 233
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 170,
+			"upper": 195,
+			"lowerAffiliated": 153,
+			"upperAffiliated": 194
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": 148,
+			"upper": 150,
+			"lowerAffiliated": 103,
+			"upperAffiliated": 154
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 225,
+			"upper": 237,
+			"lowerAffiliated": 195,
+			"upperAffiliated": 234
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 179,
+			"upper": 199,
+			"lowerAffiliated": 153,
+			"upperAffiliated": 193
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Technical",
+			"lower": 129,
+			"upper": 151,
+			"lowerAffiliated": 106,
+			"upperAffiliated": 151
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 223,
+			"upper": 237,
+			"lowerAffiliated": 195,
+			"upperAffiliated": 240
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 174,
+			"upper": 196,
+			"lowerAffiliated": 153,
+			"upperAffiliated": 193
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Technical",
+			"lower": 137,
+			"upper": 150,
+			"lowerAffiliated": 106,
+			"upperAffiliated": 149
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 224,
+			"upper": 246,
+			"lowerAffiliated": 195,
+			"upperAffiliated": 244
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Academic",
+			"lower": 182,
+			"upper": 198,
+			"lowerAffiliated": 152,
+			"upperAffiliated": 195
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Technical",
+			"lower": 128,
+			"upper": 153,
+			"lowerAffiliated": 114,
+			"upperAffiliated": 151
+		}
+	],
+	"postalCode": "389705",
+	"coordinates": [
+		103.882673394367,
+		1.31767083360151
+	],
+	"svy21": [
+		33492.7104578754,
+		33326.9177586734
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"id": "7005"
+}

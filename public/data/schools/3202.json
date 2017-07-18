@@ -1,0 +1,432 @@
+{
+	"code": "3202",
+	"levels": "S",
+	"uen": " T07GS3202D",
+	"logo": "./Medias/Images/Schools/logos/tn_3202.jpg",
+	"name": "Broadrick Secondary School",
+	"website": "http://www.broadricksec.moe.edu.sg",
+	"address": "61, Dakota Crescent (399935)",
+	"telephone": [
+		"63445025"
+	],
+	"fax": [
+		"64471427"
+	],
+	"email": "BROADRICK_SS@MOE.EDU.SG",
+	"mrt": [
+		"Dakota MRT"
+	],
+	"bus": "10 , 16 , 30 , 31 , 32 , 33 ",
+	"GeneralInformation": {
+		"Principal": "Mdm Tan Lay Hong",
+		"Vice Principal": [
+			"Mr Christopher Thomas",
+			"Mdm Sutinah Binte Taib"
+		],
+		"Vice Principal (Admin)": "Mr Lek Chun Guan",
+		"School Vision": "A Dynamic School providing Holistic Education",
+		"School Mission": "Nurturing Broadricans to be future-ready learners with Strength of Character",
+		"School Philosophy, Culture and Ethos": "Broadrick's vision is to become a vibrant learning community where Broadricians will be equipped with life skills and knowledge to meet the challenges of a complex and changing environment.  Our educational programmes provide opportunities for every Broadrician to be all-rounded and have the zest to lead a purposeful life.  Broadrick aspires to provide educational programmes to discover and maximise every Broadrician's potential.  In Broadrick, we believe in acknowledging the different peaks of excellence in our students.  We focus on developing self-directed Broadricians who are rooted in values.  We also want to educate Broadricians to embrace the spirit of innovation and enterprise so that they are empowered to take calculated risks and develop the resilience to face future challenges.  Broadricians have a sense of responsibility to contribute to the family, school, community, nation and world with the purpose of making a difference.  They learn to serve and serve to learn from others.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art",
+		"Basic Chinese",
+		"Basic Malay",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Combined Humanities (S,G)",
+		"Combined Humanities (S,H)",
+		"Combined Humanities (S,L)",
+		"Computer Applications",
+		"Design & Technology",
+		"Elements Of Business Skills",
+		"English Language",
+		"Food & Nutrition",
+		"Food And Consumer Education",
+		"Food Studies, N Level",
+		"Geography",
+		"Higher Chinese",
+		"History",
+		"Literature(E)",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Physics",
+		"Principles Of Accounts",
+		"Project Work",
+		"Science (Chem, Bio)",
+		"Science (Phy, Chem)",
+		"Science (Syll T)",
+		"Social Studies",
+		"Tamil",
+		"Tamil N(A)"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Air Rifle / Shooting",
+			"Taekwondo"
+		],
+		"Uniformed Groups": [
+			"Girl Guides",
+			"Ncc (Land)",
+			"Npcc",
+			"Singapore Red Cross Society"
+		],
+		"Visual and Performing Arts": [
+			"Band - Concert",
+			"Dance - Modern",
+			"Drama - English"
+		],
+		"Clubs & Societies": [
+			"Entrepreneur Club",
+			"Environmental Club",
+			"It Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"STEM": "Entrepreneurship in STEM",
+			"Community & Youth Leadership": "Confidence And REsilience (CARE) though Aesthetic, Community and Youth Leadership"
+		},
+		"Special Student Development Programmes Offered": "In broadening and deepening students' learning, Broadrick Secondary School has made significant progress in its journey to develop two distinctive programmes.  In 2014, we are recognised by MOE for our Applied Learning Programme (Entrepreneurship and Innovation) and Learning for Life Programme (Service Learning). Our Entrepreneurship and Innovation Programme is closely aligned to the school's vision of nurturing achievers with strength of character. It also aims to help our students to become inquisitive leaders, and critical and creative thinkers who embrace the spirit of creativity and enterprise. The programme also supports the school's effort to inculcate one of our school values - Enterprise. Through workshops and specific curriculum lessons, our students learn about innovation, design thinking, marketing and examine commercial viability in product designs. Service Learning is our adopted methodology for experiential learning to develop character and 21st century competencies in our students. Our comprehensive Service Learning programme is structured to be part of the school curriculum and every student is given an opportunity to be exposed to rich, authentic learning experiences as they work with others and with the community at large. Through these platforms, we aim to progressively develop important life skills in students, such as critical thinking, communication, leadership and active citizenry."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"Development Award": "PARTNERS (Merit)"
+			},
+			"2015": {
+				"Development Award": "PARTNERS (Merit)"
+			},
+			"2016": {
+				"Development Award": "PARTNERS (Merit)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Shooting (Air Rifle)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Shooting (Air Rifle)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Shooting (Air Rifle)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Shooting (Air Rifle)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Orchestra - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Orchestra - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Orchestra - Chinese",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NCC (Land Boys)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2014",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Land Boys)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Land Boys)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Red Cross",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 238,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 157,
+			"upper": 187,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": 105,
+			"upper": 157,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 189,
+			"upper": 248,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 154,
+			"upper": 187,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Technical",
+			"lower": 95,
+			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 259,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 186,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Technical",
+			"lower": 112,
+			"upper": 153,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 254,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Academic",
+			"lower": 153,
+			"upper": 186,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Technical",
+			"lower": 93,
+			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		}
+	],
+	"postalCode": "399935",
+	"coordinates": [
+		103.886917440944,
+		1.30705051215339
+	],
+	"svy21": [
+		33965.0568118803,
+		32152.5864589345
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"id": "3202"
+}

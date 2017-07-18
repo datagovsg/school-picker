@@ -1,0 +1,104 @@
+{
+	"code": "1259",
+	"levels": "P",
+	"uen": " T12GS0002E",
+	"logo": "./Medias/Images/Schools/logos/tn_1259.jpg",
+	"name": "Punggol Green Primary School",
+	"website": "http://www.punggolgreenpri.moe.edu.sg",
+	"address": "98, Punggol Walk (828772)",
+	"telephone": [
+		"65383011"
+	],
+	"fax": [
+		"65383210"
+	],
+	"email": "admin_punggolgreen_ps@moe.edu.sg",
+	"mrt": [
+		"Punggol MRT"
+	],
+	"GeneralInformation": {
+		"Principal": "Mdm Chua Lay Tin",
+		"Vice Principal": "Mr Goh Chang Chuen",
+		"Vice Principal (Admin)": "Mdm Tan Betty",
+		"School Vision": "Every PGPS Student, A Future-Ready Leader",
+		"School Mission": "Engaging Learners, Nurturing Leaders, Empowering Givers",
+		"School Philosophy, Culture and Ethos": "Our school's emphasis lies beyond academic achievements. We strive to enhance holistic learning and provide a balance between equipping our students with knowledge and developing in them the 21st Century competencies and values that will prepare them as Future-Ready Leaders to thrive in an ever changing future that is uncertain and ambiguous.   In alignment with that vision, Punggol Green Primary has also adopted the FISH! Philosophy to build a positive and dynamic school culture that enhances teaching and learning. Through the practice of the FISH! Philosophy, a safe and playful learning environment is created within the school to enhance personal responsibility and internal motivation amongst staff and students.  Based on FISH! principles, our teachers created four school mascots - Playto, Attie, Makena and Beth to personify these principles for our students to encourage and motivate our students to embrace the FISH! Philosophy as their way of life, the four principles are integrated into various school programmes.  In order to extend this positive culture to our students' homes, their parents are encouraged to participate in the FISH! Inventory so that they can practise these four simple and yet powerful principles of the FISH! Philosophy with their children at home.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"English Language",
+		"Health Education",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Social Studies"
+	],
+	"Cca": {},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Community Service & Student Leadership": "Learning for Life through Environmental Education And Project Work (L.E.A.P.)"
+		},
+		"Special Student Development Programmes Offered": "LLP in Environmental Education - LEAP As our students are the future stewards of our environment that sustains our society and future generations, they need to understand the issues, relationships and interactions between natural and human systems. Hence, our school is currently developing our LLP in Environmental Education - LEAP. The LEAP curriculum intends to heighten students' awareness and knowledge about the environment and develop CCE values through the care and appreciation of nature, and 21st century competencies.  At the end of 6 years of LEAP curriculum in PGPS, we aim to develop our students to become environmentally literate citizens.  School And Parent Partnership (SAPP) Parents play a significant role in support of the child's character and citizenship development. Our parents at PGPS contribute actively through the FISH! Inventory on the demonstration of FISH! Philosophy and school values beyond school. Some of the parents also inspired our students through the \"Our Aspiration\" programme where they shared about the knowledge, skills and values that are vital towards achieving their goals in building their career.   In a child's educational journey, the partnership between school and home cannot be undermined. At PGPS, we recognize the need to constantly engage the parents to work in tandem with them to develop the child to his/her maximum potentials. To provide parents with a fuller picture of their child's holistic development, the school conducts termly tripartite Parent-Teacher-Child Conferences where the students get to demonstrate their learning in various subject areas and share their reflections with their parents and teachers. This allows parents to see and hear from their child, first-hand, what he/she has learnt throughout the semester, providing parents with an all-rounded view of the child's academic and character development. Such student-centric sessions allow the child to assume a more active role in his/her learning."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"Sports & Games Competition": [],
+			"SYF": [
+				{
+					"year": "2015",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				}
+			],
+			"Best Unit Award": []
+		}
+	},
+	"postalCode": "828772",
+	"coordinates": [
+		103.898525408,
+		1.4015109688
+	],
+	"svy21": [
+		35256.6357,
+		42597.579
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	],
+	"specialNeeds": [
+		"PD",
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 270,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 230,
+		"No. of Applicants in Phase 1": 103,
+		"Places taken up to Phase 1": 103,
+		"Vacancy for Phase 2A1": 127,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 103,
+		"Vacancy for Phase 2A2": 127,
+		"No. of Applicants in Phase 2A2": 0,
+		"Places taken up to Phase 2A2": 103,
+		"Vacancy For Phase 2B": 84,
+		"Vacancy for Phase 2B": 84,
+		"No. of Applicants in Phase 2B": 1
+	},
+	"id": "1259"
+}

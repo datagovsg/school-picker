@@ -1,0 +1,395 @@
+{
+	"code": "3049",
+	"levels": "S",
+	"uen": " T07GS3049C",
+	"logo": "./Medias/Images/Schools/logos/tn_3049.jpg",
+	"name": "Loyang Secondary School",
+	"website": "http://www.loyangsec.moe.edu.sg/",
+	"address": "12, Pasir Ris Street 11 (519073)",
+	"telephone": [
+		"65821727"
+	],
+	"fax": [
+		"65810557"
+	],
+	"email": "LOYANG_SS@MOE.EDU.SG",
+	"mrt": [
+		"Pasir Ris MRT"
+	],
+	"bus": "12 , 21 , 39 , 53 , 81 , 359 , 351 ",
+	"GeneralInformation": {
+		"Principal": "Mr Lee Hak Boon",
+		"Vice Principal": "Mdm Ng Bee Ling",
+		"Vice Principal (Admin)": "Mr Ho Seng Fatt",
+		"School Vision": "Loyang Secondary School is a happy and caring school where students achieve their potential, are of robust character and are well prepared for the skilforce of tomorrow.",
+		"School Mission": "To build a team of competent and dedicated staff, working closely with our stakeholders in delivering rigorous and comprehensive academic and character development programmes that bring out the best in every student.",
+		"School Philosophy, Culture and Ethos": "At Loyang Secondary School (LYSS), every child is unique and important. We do everything with love, constantly and purposefully doing whatever it takes to pursue quality service, thus impacting the lives of students in our care with passion.  The school focuses on holistic student development programmes, emphasising on academic value-addedness and character development and a rewarding school experience.  From 2014, the school has initiated the Loyang Experience for all students, with the intent of strengthening student-centricity and accentuating the distinctiveness of LYSS. The Loyang Experience integrates key programmes (such as Teaching and Learning, Character and Citizenship Education and Applied Learning) through common student outcomes and is aimed at strengthening the holistic development of students.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Civics & Moral Education",
+		"Computer Applications",
+		"Design & Technology",
+		"English Language",
+		"Food & Nutrition",
+		"Geography",
+		"Higher Chinese",
+		"History",
+		"Literature(E)",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physics",
+		"Principles Of Accounts",
+		"Science (Syll T)",
+		"Social Studies",
+		"Social Studies N(T)",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Air Rifle",
+			"Basketball",
+			"Floorball",
+			"Football",
+			"Netball"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Girl Guides",
+			"Ncc (Land)",
+			"Npcc"
+		],
+		"Visual and Performing Arts": [
+			"Dance",
+			"Drama",
+			"Symphonic Band"
+		],
+		"Clubs & Societies": [
+			"Debating And Oratorical Society"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Languages & Humanities": "Effective Communicator",
+			"Sports & Outdoor Education": "Sports and Outdoor Education"
+		},
+		"Special Student Development Programmes Offered": "One signature programme in The Loyang Experience is our Applied Learning Programme (ALP), Effective Communication. The hallmark of a confident person is his/her ability to communicate effectively. LYSS has adopted a whole-school approach to the development of students' oral communication skills through promoting the use of good spoken English in daily interaction within and beyond curriculum time. In addition, we believe in creating opportunities for all students to express themselves in the classroom by using pedagogical approaches that promote oral communication as well as providing platforms beyond the classroom for students who show talent in this area. Some of these platforms include Public Speaking, Debates and Drama. With the emphasis on developing 21st Century Competencies in our students and to create an internationalisation experience for our students, all Sec 3 students will have the opportunity to participate in Overseas Education Programme. The school's Uniformed Groups and Performance Arts groups excel in the area of student development. Through a wide array of activities, students of different backgrounds have ample opportunities to interact with each other and build closer bonds. These programmes also contribute significantly to developing individuals of sound character imbued with the school values of Integrity, Resilience, Respect, and Compassion. Other Programmes Offered Include: Elective and Advanced Elective Modules, Conversational Chinese and Malay, Educational and Career Guidance Programme, National Youth Achievement Award Programme, Overseas Education Programme, Public Speaking Programme, Reading Programme, Sports Education Programme, Student Leadership Programme and Swimming Programme. Enrichment Activities Include: Guitar, Guzheng, Ukulele, Tchoukball and Finger Painting."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"Sports & Games Competition": [],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Commendation"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guitar",
+					"award": "Commendation"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - English",
+					"award": "Commendation"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guitar",
+					"award": "Commendation"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - English",
+					"award": "Commendation"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guitar",
+					"award": "Commendation"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2014",
+					"category": "NCC (Land Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Land Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Land Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 221,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 187,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": 105,
+			"upper": 147,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 237,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 187,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Technical",
+			"lower": 103,
+			"upper": 146,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 247,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 195,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Technical",
+			"lower": 98,
+			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 223,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Academic",
+			"lower": 153,
+			"upper": 185,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Technical",
+			"lower": 104,
+			"upper": 155,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		}
+	],
+	"postalCode": "519073",
+	"coordinates": [
+		103.956944585725,
+		1.36658417167241
+	],
+	"svy21": [
+		41758.1067258874,
+		38735.8040275145
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"id": "3049"
+}

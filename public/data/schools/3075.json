@@ -1,0 +1,498 @@
+{
+	"code": "3075",
+	"levels": "S",
+	"uen": " T10GS0002F",
+	"logo": "./Medias/Images/Schools/logos/tn_3075.jpg",
+	"name": "Edgefield Secondary School",
+	"website": "http://edgefieldsec.moe.edu.sg",
+	"address": "36, Punggol Field (828814)",
+	"telephone": [
+		"68839511"
+	],
+	"fax": [
+		"63153120"
+	],
+	"email": "edgefield_ss@moe.edu.sg",
+	"mrt": [
+		"Punggol MRT"
+	],
+	"bus": "3 , 34 , 62 , 82 , 83 , 136 ",
+	"GeneralInformation": {
+		"Principal": "Mr Lee Peck Ping",
+		"Vice Principal": [
+			"Mr Tan Chai Hok",
+			"Mdm Lim Puay Kheng"
+		],
+		"Vice Principal (Admin)": "Mr Ng Boon Tien",
+		"School Vision": "Nurturing Resolute and Compassionate Role Models",
+		"School Mission": "Growing Minds, Glowing Hearts",
+		"School Philosophy, Culture and Ethos": "Guided by the school motto Sincerity and Honour and our core values Moral Courage and Compassion, a dedicated core team of experienced educators has worked to build the school into a premier institution for teaching and learning that is anchored in values and culture. Equipped with the newest facilities and the latest technologies, coupled with curriculum innovation, we are committed to provide the ideal learning environment and experiences for our students as we nurture them into becoming Resolute and Compassionate Role Models at home, in school and in the community. \"A journey of a thousand miles begins with a single step\" - Lao Tzu. Edgefield Secondary and staff look forward to this educational partnership with you and your child in 2017.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Chinese N(A)",
+		"Civics & Moral Education",
+		"Combined Humanities (S,G)",
+		"Combined Humanities (S,H)",
+		"Computer Applications",
+		"Design & Technology",
+		"Elements Of Business Skills",
+		"English Language",
+		"English Language (Syll A)",
+		"English Language (Syll T)",
+		"Food & Nutrition",
+		"Food And Consumer Education",
+		"Geography",
+		"Higher Chinese",
+		"History",
+		"Literature(E)",
+		"Malay",
+		"Malay N(A)",
+		"Mathematics",
+		"Mathematics (Syllabus A)",
+		"Mathematics (Syllabus T)",
+		"Music",
+		"Physical Education",
+		"Physical Science",
+		"Physics",
+		"Project Work",
+		"Science",
+		"Science (Chem, Bio)",
+		"Science (Phy, Bio)",
+		"Social Studies"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Air Pistol/ Shooting",
+			"Badminton",
+			"Basketball",
+			"Golf",
+			"Softball",
+			"Taekwondo",
+			"Volleyball",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Girl Guides",
+			"National Civil Defence Cadet Corps",
+			"Npcc (Sea)",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Band - Concert",
+			"Choir",
+			"Dance - Modern",
+			"Drama - English",
+			"Ensemble - Guzheng",
+			"Ensemble - Harmonica",
+			"Festive Drums"
+		],
+		"Clubs & Societies": [
+			"Robotics Club",
+			"Singapore Youth Flying Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Business & Entrepreneurship": "Growing the Entrepreneurial Mindset (GEM)",
+			"Sports & Outdoor Education": "Character Education Through Taekwondo"
+		},
+		"Special Student Development Programmes Offered": "Applied Learning Programme (ALP) - The school's ALP is a distinctive programme entitled \"Growing the Entrepreneurial Mindset (GEM)\".  Through the programme, students will hone their skills and competencies in finance, business management, marketing and advanced problem solving.  Learning for Life Programme (LLP) - The school's LLP is \"Character Education through Sports anchored on Taekwondo\".  Besides developing healthy bodies, students will imbibe positive values such as benevolence, resilience, courage, self-reliance, quick thinking and respect for others which will also enable them to contribute more effectively to society and have the additional edge to succeed in the competitive globalised world. Compulsory school programmes for all students: Analytical Thinking Skills; ICT via Apple Education Programme; Self Defence via Taekwondo; Speech and Drama Enrichment Programme; Story Telling, Film Appreciation,Creative Writing,  Bicultural Immersion Programme; Innovative Project Work; Challenge Based Learning, National Youth Achievement Award (NYAA); Robotics LEGO Mindstorm, Journalism and Broadcasting Programme, Outward Bound Singapore, Golf Education Programme and Third Language Classes. Other Specific Programmes: Edgefield Scholar / Talent Development Programme; Life Science Enrichment Programme; Mathematics Olympiad Enrichment; Basic Leadership Development Programme; Advanced Leadership Development Programme (to prepare students for higher responsibilities); Calligraphy, Painting & Music Programme; Tan Kah Kee Young Inventors' Programme."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Commendation"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Harmonica",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Harmonica",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Harmonica",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Girl Guides (Coy 2)",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "NPCC (Sea)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2014",
+					"category": "Scout (Unit 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Girl Guides (Coy 2)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NPCC (Sea)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Girl Guides (Coy 2)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Sea)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 220,
+			"upper": 246,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 169,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": 130,
+			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 223,
+			"upper": 250,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 179,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Technical",
+			"lower": 137,
+			"upper": 158,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 224,
+			"upper": 250,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 183,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Technical",
+			"lower": 134,
+			"upper": 152,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 224,
+			"upper": 249,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Academic",
+			"lower": 184,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Technical",
+			"lower": 141,
+			"upper": 158,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		}
+	],
+	"postalCode": "828814",
+	"coordinates": [
+		103.902687385465,
+		1.40059309981827
+	],
+	"svy21": [
+		35719.8105087355,
+		42496.0989190731
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	],
+	"specialNeeds": [
+		"PD",
+		"Mild SEN"
+	],
+	"id": "3075"
+}

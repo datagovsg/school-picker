@@ -1,0 +1,509 @@
+{
+	"code": "7004",
+	"levels": "S",
+	"uen": " T07GS7004L",
+	"logo": "./Medias/Images/Schools/logos/tn_7004.jpg",
+	"name": "CHIJ SECONDARY (TOA PAYOH)",
+	"website": "http://www.chijsec.edu.sg",
+	"address": "626, LORONG 1 TOA PAYOH ( 319764 )",
+	"telephone": [
+		"63534972"
+	],
+	"fax": [
+		"63544573"
+	],
+	"email": "CHIJTPSS@MOE.EDU.SG",
+	"mrt": "TOA PAYOH MRT",
+	"bus": "59 , 141 , 231 ",
+	"GeneralInformation": {
+		"Principal": "MRS KAREN TAY",
+		"Vice Principal": [
+			"MISS CANDICE YVETTE SEET SIEW YAN",
+			"MISS TEO GEOK SIAN"
+		],
+		"Vice Principal (Admin)": "MR HONG HENG YAN",
+		"School Vision": "A Woman of Distinction",
+		"School Mission": "The mission of an Infant Jesus Convent is the creation of a Christ-centred school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of persons who are disadvantaged in any way.",
+		"School Philosophy, Culture and Ethos": "CHIJ Secondary stands as the second oldest girls school in Singapore. Every IJ Girl shares the vision of being A Woman of Distinction, who is a Thinker, Leader, Communicator, confident with humility, principled with compassion and cultured with grace. At CHIJ Secondary, we believe that every IJ Girl matters. As such, we customise our curriculum to meet their needs and talents. With a strong foundation in character and values-education, CHIJ nurtures our girls through a holistic education, with the support of a competent and forward-looking staff. Our strong partnerships with key stakeholders also enable the school to build a strong network of support. We remain, through the years, Simple in Virtue, Steadfast in Duty.",
+		"Type of School": "GOVERNMENT-AIDED SCH / GIRLS' SCHOOL / SINGLE SESSION",
+		"Status of School": "Autonomous",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": [
+			"CATHOLIC JUNIOR COLLEGE",
+			"CHIJ PRIMARY (TOA PAYOH)"
+		]
+	},
+	"SubjectOffered": [
+		"ADDITIONAL MATHEMATICS",
+		"ART 'O' LEVEL",
+		"BIOLOGY",
+		"CHEMISTRY",
+		"CHINESE",
+		"CHINESE B",
+		"COMBINED HUMANITIES (S,G)",
+		"COMBINED HUMANITIES (S,H)",
+		"COMBINED HUMANITIES (S,L)",
+		"ENGLISH LANGUAGE",
+		"FOOD & NUTRITION",
+		"GEOGRAPHY",
+		"HIGHER ART",
+		"HIGHER CHINESE",
+		"HISTORY",
+		"LITERATURE(E)",
+		"MALAY",
+		"MATHEMATICS",
+		"OECIE DRAMA (GCEO)",
+		"PHYSICAL EDUCATION",
+		"PHYSICS",
+		"PRINCIPLES OF A/C",
+		"SCIENCE (CHEM, BIO)",
+		"SCIENCE (PHY, BIO)",
+		"SCIENCE (PHY, CHEM)",
+		"TAMIL"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Athletics",
+			"Badminton",
+			"Basketball",
+			"Gymnastics (Rhythmic)",
+			"Netball",
+			"Squash",
+			"Ten-Pin Bowling",
+			"Tennis"
+		],
+		"Uniformed Groups": [
+			"Girl Guides",
+			"Singapore Red Cross Society"
+		],
+		"Visual and Performing Arts": [
+			"Arts Alive!",
+			"Band (Concert)",
+			"Chinese Ldds",
+			"Choir",
+			"Dance Ensemble",
+			"Guitar Ensemble",
+			"Ij Theater"
+		],
+		"Clubs & Societies": [
+			"Arc (Robotics)",
+			"Chij Youth Mission",
+			"Debating And Oratory Society",
+			"Ij Media Club",
+			"Legion Of Mary",
+			"Outdoor Activities Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"ART ELECTIVE PROGRAMME"
+		],
+		"Special Student Development Programmes Offered": "A choice school, CHIJ Secondary is progressive in its approach whilst remaining steeped in tradition. The IJ Education and Experience is undergirded by the 3Ls@IJ approach which encompasses both the academic and affective domains and focuses on developing students holistically through Learning, Living and Leading. In CHIJ, all lower secondary students experience our in-house drama programme which enable students to realise their creative talents and develop their artistic vision. Our Affective Programmes focus on character development and include the Developmental Leadership Programme, the Values-in-Action programme, self-awareness camps, work attachment programme, and adventure camps. As the South Zone Centre of Excellence for Language and the Arts, CHIJ is home to many strong performing arts groups. At the same time, CHIJ's sports CCA groups have experienced success on the school scene. Our signature IJ Goes Global Programme aims to equip IJ students with a more global perspective and includes Immersion and Twinning Programmes with overseas schools, and the IJ Beacon Programme which focuses on serving the disadvantaged in neighbouring countries."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": "DA (National Education)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"2nd"
+					],
+					[
+						"Gymnastics (Rhythmic)",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"3rd",
+						"1st"
+					],
+					[
+						"Tennis",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Silver",
+					"Red Cross": "Gold"
+				}
+			},
+			"2015": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-"
+					],
+					[
+						"Gymnastics (Rhythmic)",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					],
+					[
+						"Tennis",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Gold",
+					"Red Cross": "Bronze"
+				}
+			},
+			"2016": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-"
+					],
+					[
+						"Gymnastics (Rhythmic)",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Distinction",
+					"Choir": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Silver",
+					"Red Cross": "Gold"
+				}
+			},
+			"2017": {}
+		}
+	},
+	"PsleAggregateHistory": {
+		"2014": {
+			"Express": [
+				"244",
+				"255",
+				"200",
+				"253"
+			],
+			"Normal Academic": [
+				"177",
+				"199",
+				"158",
+				"198"
+			],
+			"Normal Technical": [
+				"None-posted",
+				"None-posted"
+			]
+		},
+		"2015": {
+			"Express": [
+				"243",
+				"249",
+				"200",
+				"252"
+			],
+			"Normal Academic": [
+				"184",
+				"198",
+				"153",
+				"198"
+			]
+		},
+		"2016": {
+			"Express": [
+				"247",
+				"255",
+				"201",
+				"266"
+			],
+			"Normal Academic": [
+				"184",
+				"199",
+				"154",
+				"199"
+			],
+			"Normal Technical": [
+				"109",
+				"143",
+				"128",
+				"149"
+			]
+		},
+		"2017": {
+			"Express": [
+				"243",
+				"260",
+				"200",
+				"260"
+			],
+			"Normal Academic": [
+				"184",
+				"199",
+				"154",
+				"199"
+			],
+			"Normal Technical": [
+				"103",
+				"151",
+				"134",
+				"142"
+			]
+		}
+	},
+	"postalCode": "319764"
+}

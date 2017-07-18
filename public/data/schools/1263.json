@@ -1,0 +1,114 @@
+{
+	"code": "1263",
+	"levels": "P",
+	"uen": " T12GS0008C",
+	"logo": "./Medias/Images/Schools/logos/tn_1263.jpg",
+	"name": "Palm View Primary School",
+	"website": "http://www.palmviewpri.moe.edu.sg",
+	"address": "150, Compassvale Bow (544822)",
+	"telephone": [
+		"65087300"
+	],
+	"fax": [
+		"68754150"
+	],
+	"email": "palmview_ps@moe.edu.sg",
+	"mrt": [
+		"Buangkok MRT"
+	],
+	"bus": "27 , 43 , 109 , 156 , 159 , 161 , 163 , 163M , 550 ",
+	"GeneralInformation": {
+		"Principal": "Mr Chua Kok Yong Clifford",
+		"Vice Principal": [
+			"Mdm Too Siew Han Joyce",
+			"Ms Saadiah Saadon Wylde"
+		],
+		"School Vision": "Curious Minds, Caring Hearts, Creative Spirits",
+		"School Mission": "To develop the whole child to be a force for good in the world",
+		"School Philosophy, Culture and Ethos": "Palm View Primary School believes in the potential of every child. Each is unique, and possesses the capacity to learn, advance and succeed. We believe our children can be inspired towards excellence. As educators, we are guardians of our children's future. To safeguard what is entrusted to us, it is critical that we channel our educational efforts towards developing the whole child to be 21st century learners so that they can be a force for good in the world. This is our mission and calling.  We are guardians of children's curiosity for learning. Children are naturally curious. They question, explore and wonder and so they grow and learn. At PLVPS, we want our children to stay curious and develop an inquisitive spirit that thrives on exploration and discovery. This will better prepare them for an unpredictable world.  We are guardians of children's tender hearts for caring. Growing up in small nucleus families today, we need to nurture children's gentle hearts towards love and care for others. At Palm View, we cultivate, in our children, the virtue of looking out for the needs of others and to care deeply for those who are less fortunate than themselves.   We are guardians of our children's creative spirits. Children possess fertile imagination and view the world through their idiosyncratic lenses. Because creativity requires experimentation and enterprise, our teachers understand the need to promote diversity and multiple perspectives even as they provide a large emotional safety net for our children to manage failures, disappointments and discouragements. When we inspire children to dream big dreams and empower them to believe in themselves and their abilities, they will develop confidence and achieve great things in life.    Curious Minds, Caring Hearts, Creative Spirits... this is our vision for our children.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"English Language",
+		"Malay",
+		"Mathematics",
+		"Physical Education",
+		"Science"
+	],
+	"Cca": {},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Languages": "Act-cellence: Education through Drama Programme"
+		},
+		"Special Student Development Programmes Offered": "ACT-cellence Education through Drama Our P1 and P2 students undergo a Speech and Drama programme to enhance and enrich their learning in English and Mother Tongue. Our students are given the opportunity to showcase their talents to their parents at the end of the programme through the Little Theatre performances. Beyond formal curriculum, drama is used in teaching values and Social and Emotional Learning (SEL) competencies through the school's Programme for Active Learning (PAL-Drama). We have been accorded the Applied Learning Programme (ALP) status for our ACT-cellence Education through Drama.   Palm View Challenge Palm View Challenge is a 6-year school-wide programme designed along different learning experiences aimed at developing children's life skills and values. Students at every level are challenged to complete different tasks, each carefully designed to develop in them desirable character traits for the 21st century.  The tasks range from tree-top adventure, school-based camps, and community projects. These activities are intentionally designed with certain elements of challenge to the children, so that in undergoing these experiences, they will develop character traits of confidence, empathy, resilience, courage, as well as, teamwork and communication.   One of the signature programmes in the Palm View Challenge is the Artizenry Project, which helps the child understand the context of society and culture. Through our collaboration with the Yellow Ribbon Project, students undergo meaning-making of issues using drama strategies, and then, as advocates, make artworks to raise awareness and funds for the cause. We aim to impress upon our children how they can contribute to the betterment of society and in so doing be a force for good in the world."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"Sports & Games Competition": [],
+			"SYF": [
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Distinction"
+				}
+			],
+			"Best Unit Award": []
+		}
+	},
+	"postalCode": "544822",
+	"coordinates": [
+		103.891107732,
+		1.38384505569
+	],
+	"svy21": [
+		34431.1965,
+		40644.1492
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	],
+	"specialNeeds": [
+		"PD",
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 240,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 200,
+		"No. of Applicants in Phase 1": 106,
+		"Places taken up to Phase 1": 106,
+		"Vacancy for Phase 2A1": 94,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 106,
+		"Vacancy for Phase 2A2": 94,
+		"No. of Applicants in Phase 2A2": 1,
+		"Places taken up to Phase 2A2": 107,
+		"Vacancy For Phase 2B": 67,
+		"Vacancy for Phase 2B": 67,
+		"No. of Applicants in Phase 2B": 4
+	},
+	"id": "1263"
+}

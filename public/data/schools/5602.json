@@ -1,0 +1,627 @@
+{
+	"code": "5602",
+	"levels": "P",
+	"uen": " T07GS5602E",
+	"logo": "./Medias/Images/Schools/logos/tn_5602.jpg",
+	"name": "Pei Chun Public School",
+	"website": "http://www.peichunpublic.moe.edu.sg",
+	"address": "580, Toa Payoh East (319133)",
+	"telephone": [
+		"63539450"
+	],
+	"fax": [
+		"63538418"
+	],
+	"email": "PCPS@MOE.EDU.SG",
+	"mrt": [
+		"Braddell MRT",
+		"Toa Payoh MRT"
+	],
+	"bus": "Bus Service 232 , 57 ",
+	"GeneralInformation": {
+		"Principal": "Mr Lim Meng Wei",
+		"Vice Principal": [
+			"Ms Angela Goh Bee Lian",
+			"Miss Adeline Leong Qinghua"
+		],
+		"Vice Principal (Admin)": "Mdm Catherine Tan Hui Ling",
+		"School Vision": "Passionate and Cultured LearnersProactive and Caring Leaders",
+		"School Mission": "Provide a holistic education to nurture responsible citizens and enhance bilingualism to maximize potential",
+		"School Philosophy, Culture and Ethos": "A school started by the community for the community        Established in 1933, Pei Chun Public School was started by a group of Hainanese who wanted to provide an education for the children of the Chinese working class. As the only school in Singapore bearing the word \"public\", the school name clearly signifies the intent of our founders - a school started by the community for the community.  The school became a government-aided school in 1956. In recognition of its consistent records of good PSLE results and a learning environment rich in Chinese language and culture, Pei Chun was accorded the Special Assistance Plan (SAP) status in 1990.   Putting pupils at the heart of all our education processes               The school vision and mission reflect what we firmly believe to be the fundamental outcomes for our pupils at this key stage of their education.  These outcomes encompass all the domains that make up the total person - cognitive, physical, aesthetics, social and moral, leadership and morale.  Above all else, the underpinning tenet is that the development of our pupils is at the heart of all our education processes.   Rich SAP Culture with strong emphasis on Character Building        An established school with rich SAP culture, the school continues to appeal to parents who value a strong bilingual and bicultural learning environment with strong emphasis on character building. Guided by our school values of courtesy, justice, honesty and honour, Pei Chun strives to nurture our pupils to be bilingual and responsible citizens, with a desire to contribute beyond themselves to their family, society and country.            In charting the growth of Pei Chun in the next chapter, the school is committed to providing a quality bilingual education for our pupils, living up to its name and our founders' vision of providing a quality education for the community.",
+		"Type of School": "Government-aided Sch / Co-ed School / Double Session",
+		"Mother Tongue": "Chinese",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"Co-curricular Activities",
+		"English Language",
+		"Foundation English",
+		"Foundation Mathematics",
+		"Health Education",
+		"Higher Chinese",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Let's Play Sports Club",
+			"Swimming",
+			"Table Tennis",
+			"Volleyball",
+			"Wushu And Lion Dance"
+		],
+		"Uniformed Groups": [
+			"Brownies",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Chinese Calligraphy And Ink Brush Painting Club",
+			"Chinese Dance",
+			"Chinese Orchestra",
+			"Choir"
+		],
+		"Clubs & Societies": [
+			"123 Games Club",
+			"Chinese Chess Club",
+			"Peer Tutoring Club",
+			"Science And Gardening Club",
+			"Weiqi"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"SAP"
+		],
+		"School Distinctive Programmes": {
+			"Languages": "Bilingual Media Studies (BMS) Programme",
+			"Sports & Outdoor Education": "Building Character Through Volleyball"
+		},
+		"Special Student Development Programmes Offered": "SAP Flagship Programme - Chinese History and Culture Programme          Our SAP flagship programme brings together Character and Citizenship education (CCE), Chinese History and Culture Programme (CHCP) in a purposeful manner so as to provide an enriched and holistic experience in the learning of Chinese language and culture for our pupils. It adopts a two-pronged approach to ensure mass participation for all P1 to P6 pupils, and at the same time, cater to the learning needs of our pupils who are keen to further develop their interest in the Chinese language.   Applied Learning Programme (ALP) - Bilingual Media Studies Programme        The school leveraged its strength as a SAP school to develop a Bilingual Media Studies Programme (BMSP) as the Applied Learning Programme (ALP) in 2015 so as to enable our pupils to apply academic knowledge and skills in the authentic settings. The learning experiences designed for BMSP essentially help to deepen pupils' learning of the English and Chinese language through practical applications in the areas of media studies and journalism, and develop 21st century competencies such as communication, collaboration and critical thinking skills in our pupils.    Building Life skills through Connecting Pupils with Nature (Leave No Child Inside Project)            The school hopes to strengthen its Character and Citizenship education by equipping our pupils with the life skills that are crucial in preparing them for lifelong learning and learning for life. It is with this focus in mind that the school developed the Connecting Pupils with Nature (Leave No Child Inside) Programme as it believes in the importance of childhood interactions with nature in the holistic development of our pupils. This programme aims to nurture our pupils to be self-directed learners who can appreciate the beauty of the world around them as well as possess healthy minds and bodies with zest for life."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": [
+					"DA (Character Development)",
+					"PARTNERS (Merit)"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"2015": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": [
+					"DA (Character Development)",
+					"PARTNERS (Merit)"
+				]
+			},
+			"2016": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": [
+					"DA (Character Development)",
+					"PARTNERS (Merit)"
+				]
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Orchestra - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Orchestra - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Brownies (Pack 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Brownies (Pack 1)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "Brownies (Pack 1)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "Scout",
+					"award": "Silver"
+				}
+			]
+		}
+	},
+	"postalCode": "319133",
+	"coordinates": [
+		103.855473433,
+		1.33728854118
+	],
+	"svy21": [
+		30465.6,
+		35496.1
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"p1Registration": {
+		"Total Vacancy": 330,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 290,
+		"No. of Applicants in Phase 1": 154,
+		"Places taken up to Phase 1": 154,
+		"Vacancy for Phase 2A1": 136,
+		"No. of Applicants in Phase 2A1": 65,
+		"Places taken up to Phase 2A1": 218,
+		"Vacancy for Phase 2A2": 72,
+		"No. of Applicants in Phase 2A2": 37,
+		"Places taken up to Phase 2A2": 254,
+		"Vacancy For Phase 2B": 38,
+		"Vacancy for Phase 2B": 38,
+		"No. of Applicants in Phase 2B": 14
+	},
+	"id": "5602"
+}

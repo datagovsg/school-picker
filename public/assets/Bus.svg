@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="8683.5 3146.5 24 13">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="Bus" transform="translate(8683.5 3146.5)">
+    <g id="Group_214" data-name="Group 214">
+      <circle id="Ellipse_63" data-name="Ellipse 63" class="cls-1" cx="2" cy="2" r="2" transform="translate(2.5 8.5)"/>
+      <path id="Path_587" data-name="Path 587" class="cls-1" d="M20.5,10.5h3"/>
+      <circle id="Ellipse_64" data-name="Ellipse 64" class="cls-1" cx="2" cy="2" r="2" transform="translate(16.5 8.5)"/>
+      <path id="Path_588" data-name="Path 588" class="cls-1" d="M6.5,10.5h10m6-3.5V.5H2A1.538,1.538,0,0,0,.5,2v8.5h2"/>
+    </g>
+    <path id="Path_589" data-name="Path 589" class="cls-1" d="M4.5,2.3H3.7A1.216,1.216,0,0,0,2.5,3.5V4.7"/>
+    <line id="Line_77" data-name="Line 77" class="cls-1" x2="22" transform="translate(0.5 6.4)"/>
+    <line id="Line_78" data-name="Line 78" class="cls-1" y2="5.5" transform="translate(8.1 0.5)"/>
+    <line id="Line_79" data-name="Line 79" class="cls-1" y2="5.5" transform="translate(15.4 0.5)"/>
+  </g>
+</svg>

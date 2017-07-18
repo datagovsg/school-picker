@@ -1,0 +1,392 @@
+{
+	"code": "1020",
+	"levels": "P",
+	"uen": " T07GS1020C",
+	"logo": "./Medias/Images/Schools/logos/tn_1020.jpg",
+	"name": "Bukit Panjang Primary School",
+	"website": "http://www.bukitpanjangpri.moe.edu.sg",
+	"address": "109, Cashew Road (679676)",
+	"telephone": [
+		"67691912"
+	],
+	"fax": [
+		"67637462"
+	],
+	"email": "BPPS@MOE.EDU.SG",
+	"mrt": [
+		"Choa Chu Kang MRT"
+	],
+	"bus": "75 , 184 ",
+	"GeneralInformation": {
+		"Principal": "Mr Bucktha Seelan",
+		"Vice Principal": "Mdm Goh Puay Hoon Jenny",
+		"Vice Principal (Admin)": "Mr Tan Seng Chuan",
+		"School Vision": "Future Leaders, Concerned Citizens",
+		"School Mission": "Developing our students holistically in a vibrant and caring environment",
+		"School Philosophy, Culture and Ethos": "BPPS firmly believes that every child is a unique individual with the potential to become self-directed learner grounded in the school's values of Respect, Responsibility, Resilience, Gratitude, Integrity and Compassion. We strive to provide a secure, caring and innovative learning environment that embraces the spirit of enterprise with the courage to take calculated risk.   In the academic domain, we are committed to providing student-centric learning experiences that cultivate thinking and promote independent learning in our students.  By purposefully engaging our students to 'think out of the box\", we imbue in them the courage to go beyond their comfort zone. We constantly review our programmes to ensure that they remain relevant, diverse and robust to meet the demands of the educational landscape and cater to our students' needs.   Our student development programmes focuses on inculcation of the school values and aims to create opportunities for our students to discover their talents, build their confidence and master 21st century competencies. We offer a plethora of activities such as level camps, student leadership courses and values in action programmes.    Recognising the importance of staff capacity as the key driver to realise our school's vision and mission, we place strong emphasis on staff training and development. Besides formal training, we also strive to create a collaborative learning culture through level sharing, professional learning communities and focused group discussion.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"Co-curricular Activities",
+		"English Language",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Football",
+			"Hockey",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Scouts",
+			"Singapore Red Cross Society"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Choir",
+			"Dance - Chinese",
+			"Dance - Indian",
+			"Dance - Malay",
+			"Dance - Modern"
+		],
+		"Clubs & Societies": [
+			"Infocom Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Music & Performing Arts": "i2 Can Dance!"
+		},
+		"Special Student Development Programmes Offered": "Learning for Life Programme (LLP) -\"i2can dance\"  The 'i2 Can Dance!' programme aims to foster confidence, resilience, adaptability and graciousness in our students. Our students' horizon are also widened through increased awareness of the different cultures in Singapore and beyond. Such awareness will also promote better understanding and respect for the different ethnic groups in Singapore  Through their participation in the programme, our students also learnt the school values of respect and responsibility, where they are taught to respect the dance form and fellow dancers, to be responsible for their own learning of dance as well as to know what is involved in dance, for instance choreography, technique, costumes and props.  The school takes a three-pronged approach to the i2Can Dance! programme:  Experience - It provides a broad-based learning for all.   Empowerment - It creates opportunities for our pupils to identify their interests and talents and also reflect on their learning and develop to become independent learners through self-assessment.  Enhancement and Excellence - It provides an enhanced experience for students who display dance potential. Talented dancers are given a platform to enhance their skills and develop holistically through overseas exchange programmes.  Values in Action (VIA) The Values in Action (VIA) in BPPS are rich learning experiences to inculcate active citizenship and civic responsibility among our students. VIA in BPPS begins with students learning how to care for oneself and progressively spiral up to caring for the local community. While the students celebrate their achievements of carrying out the VIA tasks, they also reflect on the values they have put into practice.  At the end of six years in BPPS, we believe that with the experiences that our students have gone through, they would be socially responsible citizens who contribute meaningfully to the community."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": "DA (Character Development)",
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"2015": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2016": {
+				"Development Award": "DA (Character Development)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Band-Percussion Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Scout",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"postalCode": "679676",
+	"coordinates": [
+		103.769317461,
+		1.37347139841
+	],
+	"svy21": [
+		20877.46,
+		39497.1
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 240,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 200,
+		"No. of Applicants in Phase 1": 101,
+		"Places taken up to Phase 1": 101,
+		"Vacancy for Phase 2A1": 99,
+		"No. of Applicants in Phase 2A1": 5,
+		"Places taken up to Phase 2A1": 106,
+		"Vacancy for Phase 2A2": 94,
+		"No. of Applicants in Phase 2A2": 47,
+		"Places taken up to Phase 2A2": 153,
+		"Vacancy For Phase 2B": 44,
+		"Vacancy for Phase 2B": 44,
+		"No. of Applicants in Phase 2B": 12
+	},
+	"id": "1020"
+}

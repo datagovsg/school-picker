@@ -1,0 +1,386 @@
+{
+	"code": "3611",
+	"levels": "S",
+	"uen": " T07GS3611K",
+	"logo": "./Medias/Images/Schools/logos/tn_3611.jpg",
+	"name": "UNITY SECONDARY SCHOOL",
+	"website": "http://www.unitysec.moe.edu.sg",
+	"address": "20, CHOA CHU KANG STREET 62 ( 689143 )",
+	"telephone": [
+		"67671070"
+	],
+	"fax": [
+		"67654189"
+	],
+	"email": "UNITY_SS@MOE.EDU.SG",
+	"mrt": "YEW TEE MRT",
+	"bus": "307",
+	"GeneralInformation": {
+		"Principal": "MDM AINI BTE MAAROF",
+		"Vice Principal": [
+			"MR LAU KHEE PHENG",
+			"MR DANIEL ONG POH SOON"
+		],
+		"Vice Principal (Admin)": "MR MOHAMAD AMRAN SHAH BIN ABD RAHIM",
+		"School Vision": "Lifelong Learners, Inspiring Leaders",
+		"School Mission": "To develop Unitians to be resilient and future-ready with the passion to serve and lead",
+		"School Philosophy, Culture and Ethos": "The school places the needs of its students at the centre of its key decision-making and strongly believes that every student is unique, has potential and can be an inspiration to others. The school believes that both academic and character development are important. Through various programmes anchored on the school values of respect, compassion, perseverance, commitment and integrity, all teachers in Unity are committed to empowering students to develop to their fullest potential and to eventually contribute to society. To achieve this, the school believes in providing a joyful, caring and nurturing environment to promote personal, social and intellectual growth of students at all levels.",
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ADDITIONAL MATHEMATICS",
+		"ART",
+		"BIOLOGY",
+		"CHEMISTRY",
+		"CHINESE",
+		"CIVICS & MORAL EDUCATION",
+		"COMBINED HUMANITIES (S,G)",
+		"COMBINED HUMANITIES (S,H)",
+		"COMPUTER APPLICATIONS",
+		"DESIGN & TECHNOLOGY",
+		"ELEMENTS OF BUSINESS SKILLS",
+		"ENGLISH LANGUAGE",
+		"FOOD & NUTRITION",
+		"FOOD AND CONSUMER EDUCATION",
+		"GEOGRAPHY",
+		"HIGHER CHINESE",
+		"HIGHER MALAY",
+		"HIGHER TAMIL",
+		"HISTORY",
+		"LITERATURE(E)",
+		"MALAY",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICS",
+		"PRINCIPLES OF A/C",
+		"SCIENCE",
+		"SCIENCE (CHEM, BIO)",
+		"SCIENCE (PHY, BIO)",
+		"SCIENCE (PHY, CHEM)",
+		"SOCIAL STUDIES",
+		"TAMIL"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Sepak Takraw",
+			"Table Tennis",
+			"Track & Field",
+			"Volleyball"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Girls' Brigade",
+			"Ncc(Air)",
+			"Npcc",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Band - Symphonic",
+			"Choir",
+			"Dance - International",
+			"Orchestra - Indian",
+			"Speech And Drama Society"
+		],
+		"Clubs & Societies": [
+			"Audio & Video/ Pa Club",
+			"Leo Club",
+			"Library"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"STEM": "Inspire through Scientific Innovation and Enterprise",
+			"Sports & Outdoor Education": "Lead through Outdoor and Sporting Adventures"
+		},
+		"Special Student Development Programmes Offered": "Our school is committed to nurturing Unitians to become lifelong learners and inspiring leaders. Key programmes such as the Young Gifted Scientists Programme and Social Scientists and Entrepreneurship Programme integrate learning and stretch the potential of our students in their academic learning.  The school conducts an Applied Learning Programme (ALP) for all its students to develop in them a scientific mindset of innovation and enterprise. The Programme focuses on real-world problem-solving through the application of science and problem-solving processes such as design thinking, scientific methods and research skills. The ALP is conducted in collaboration with tertiary institutions and research agencies. Through the school's Character and Leadership Development curriculum, all students are provided with a variety of platforms and opportunities to hone their character and leadership skills.  In addition, the school conducts a Learning for Life Programme (LLP) to provide opportunities for all students to develop their leadership potential progressively at each level through outdoor and sporting adventure activities.  These include 1 Star Kayaking Certification, Adventure Camps, Camp-craft skills challenges, sports and games modules, recreational sports competition delivered through PE lessons and CCAs. The school administers the DSA-Sec Scheme which admits students competent in Basketball into Secondary 1. Through the scheme, we aim to develop and maximise the potential and talent of our students based on the principles of good sportsmanship and anchored on our school values. The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"2nd",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Indian": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold",
+					"Ncc (Air)": "Gold",
+					"Npcc (Land)": "Silver",
+					"Scout (Unit 1)": "Gold"
+				}
+			},
+			"2015": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"3rd",
+						"3rd"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Indian": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girls' Brigade": "Gold",
+					"Ncc (Air)": "Gold",
+					"Npcc (Land)": "Silver",
+					"Scout (Unit 1)": "Gold"
+				}
+			},
+			"2016": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"3rd",
+						"3rd"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Indian": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold",
+					"Ncc (Air)": "Gold",
+					"Npcc (Land)": "Silver"
+				}
+			},
+			"2017": {}
+		}
+	},
+	"PsleAggregateHistory": {
+		"2014": {
+			"Express": [
+				"222",
+				"248",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"172",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"113",
+				"159",
+				"None-posted"
+			]
+		},
+		"2015": {
+			"Express": [
+				"223",
+				"237",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"175",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"136",
+				"159",
+				"None-posted"
+			]
+		},
+		"2016": {
+			"Express": [
+				"219",
+				"240",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"176",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"113",
+				"158",
+				"None-posted"
+			]
+		},
+		"2017": {
+			"Express": [
+				"215",
+				"244",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"165",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"134",
+				"159",
+				"None-posted"
+			]
+		}
+	},
+	"postalCode": "689143"
+}

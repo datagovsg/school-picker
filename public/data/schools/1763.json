@@ -1,0 +1,318 @@
+{
+	"code": "1763",
+	"levels": "P",
+	"uen": " T07GS1763C",
+	"logo": "./Medias/Images/Schools/logos/tn_1763.jpg",
+	"name": "Hougang Primary School",
+	"website": "http://www.hougangpri.moe.edu.sg/",
+	"address": "1, Hougang St 93 (534238)",
+	"telephone": [
+		"64897445"
+	],
+	"fax": [
+		"64897446"
+	],
+	"email": "HOUGANG_PS@MOE.EDU.SG",
+	"mrt": [
+		"Yio Chu Kang MRT",
+		"Ang Mo Kio MRT"
+	],
+	"bus": "SBS 325 , 88 , 72 , 159 , 156 ",
+	"GeneralInformation": {
+		"Principal": "Mdm Rashidah Bte Abdul Rasip",
+		"Vice Principal": "Miss Liew Pang Hai",
+		"Vice Principal (Admin)": "Mdm Lim Siew Gim",
+		"School Vision": "A Vibrant Institution of Excellence",
+		"School Mission": "Every child to be developed holistically, have global awareness, love Singapore and love to learn",
+		"School Philosophy, Culture and Ethos": "Our philosophy is 'To bring out the best in every child, Together' and we want to bring out the best in every student by working closely with our stakeholders and partners because we firmly believe in the adage that it takes a village to raise a child.   It is also our belief that good character comes before anything else. Hence our foremost concern is that our students excel in character first, before he excels in other areas. Thus our motto 'Excel with Character' is communicated to our students and they subscribe to the fact that even as they excel in other areas, it must be with good character, and if they excel in other areas, but are not of good character, then everything comes to naught.  We have 4 school values to guides our students in developing their character : Care, Integrity, Resilience and Responsibility. We want our students to be kind and show consideration for others, to be honest and truthful, to remain strong and never give up even in the face of challenges and setbacks, and to have the responsibility to take the initiative to act independently and do the right thing.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [],
+	"Cca": {
+		"Physical Sports": [
+			"Football",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Dance - Ballet",
+			"Dance - Chinese",
+			"Dance - Indian",
+			"Dance - Malay",
+			"Ensemble - Angklung/Kulintang",
+			"Ensemble - Guzheng",
+			"Pottery Club"
+		],
+		"Clubs & Societies": [
+			"Green Club - E2k",
+			"Library"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Science": "X-Cell in Science@HGP – eXperiment, eXplore, eXperience",
+			"Sports & Outdoor Education": "Character Development through Outdoor Adventure Education (OAE)"
+		},
+		"Special Student Development Programmes Offered": "Learning for Life Programme : Outdoor Adventure Education (OAE). Our OAE programme provides students with rich hands-on experiences to help them discover their talents, strengths and weaknesses and work towards achieving success. It also builds resilience, perseverance, creativity and courage as students learn to overcome personal challenges. Through OAE, we also inculcate in our students a sense of responsibility for themselves, others as well as nature and the environment. OAE enhances our students' schooling experiences by developing them into rugged, responsible, innovative and confident youths with a 'can-do' spirit to take them into the volatile, uncertain, complex and ambiguous world.   Applied Learning Programme : Science. Our Science programme cultivates in our students a curious and enquiring mind and a passion for lifelong learning. It serves to connect academic knowledge and skills with the real world we are living in. We develop in our students a spirit of scientific inquiry, encouraging them to explore and discover new possibilities. Through hands-on experiences, our students appreciate the importance and pervasiveness of Science in everyday life in the real world. They also learn about the role of man in the eco-system and how our decisions and actions can impact the world. It is through this that they learn to be responsible and make wise and informed decisions that can bring about positive change that benefits all.   Computational Thinking Skills Programme - Coding for Fun. We believe that computational thinking helps to develop logical and creative thinking, and is a good problem-solving tool which can enable our students to become self-directed learners who can be innovators of the future. We embarked on this programme in 2015 and by the end of their 6 years in our school, every child would have been equipped with computational thinking skills."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"PARTNERS (Merit)"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Indian",
+					"award": "Commendation"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Indian",
+					"award": "Commendation"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Brownies (Pack 1)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"postalCode": "534238",
+	"coordinates": [
+		103.88116617,
+		1.37803972165
+	],
+	"svy21": [
+		33324.84,
+		40002.2
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 210,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 170,
+		"No. of Applicants in Phase 1": 90,
+		"Places taken up to Phase 1": 90,
+		"Vacancy for Phase 2A1": 80,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 90,
+		"Vacancy for Phase 2A2": 80,
+		"No. of Applicants in Phase 2A2": 11,
+		"Places taken up to Phase 2A2": 101,
+		"Vacancy For Phase 2B": 55,
+		"Vacancy for Phase 2B": 55,
+		"No. of Applicants in Phase 2B": 26
+	},
+	"id": "1763"
+}

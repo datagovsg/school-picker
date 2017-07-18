@@ -1,0 +1,388 @@
+{
+	"code": "1243",
+	"levels": "P",
+	"uen": " T07GS1243E",
+	"logo": "./Medias/Images/Schools/logos/tn_1243.jpg",
+	"name": "Pasir Ris Primary School",
+	"website": "http://www.pasirrispri.moe.edu.sg",
+	"address": "5, Pasir Ris Street 21 (518968)",
+	"telephone": [
+		"65822606"
+	],
+	"fax": [
+		"65828492"
+	],
+	"email": "prps@moe.edu.sg",
+	"mrt": [
+		"Pasir Ris MRT"
+	],
+	"bus": "3",
+	"GeneralInformation": {
+		"Principal": "Mdm Kok Lai Yoke",
+		"Vice Principal": "Mdm Siti Nazrah Bte Abdul Rahman",
+		"Vice Principal (Admin)": "Mr Tan Boon Seng",
+		"School Vision": "A caring and vibrant learning community with opportunities for all to excel.",
+		"School Mission": "Every Pasirian is nurtured to be a confident, passionate and self-directed learner who is anchored in values.",
+		"School Philosophy, Culture and Ethos": "We believe that - every Child is a Winner. - every Child can Learn and Achieve to the maximum of his potential given the proper guidance and nurturing. - as teachers,  we are in the business of enhancing lives. - we make a great difference in every child's behaviour,  motivation and achievement. - by keeping fit and by taking care of our own health and professional growth,  we can contribute more to our children's growth and development.  - parents are our partners-in-education.  We will work closely with parents and the community to achieve our mission of preparing our children for the challenges of the future.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Chinese",
+		"English Language",
+		"Malay",
+		"Mathematics",
+		"Physical Education",
+		"Science",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Floorball",
+			"Football",
+			"Netball",
+			"Taekwondo",
+			"Wushu"
+		],
+		"Visual and Performing Arts": [
+			"Chinese Speech And Drama Club",
+			"Choir",
+			"Ensemble - Guzheng",
+			"Iexplore - Visual Art"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Community Service & Student Leadership": "Leaders Growing Leaders",
+			"Sports & Outdoor Education": "Floorball Excellence (FLEX)"
+		},
+		"Special Student Development Programmes Offered": "LEARNING FOR LIFE PROGRAMME (LLP) - ILEAD PROGRAMME Pasir Ris Primary believes that there is student leadership potential in every child. The school adopts a progressive 2-pronged approach that aims to develop student leadership for all students and segmented group of student leaders. Students are given opportunities to embark on projects that focus on societal concerns of their choice to equip themselves with problem-solving and decision-making skills to generate solutions creatively.  Students learn that everyone has a part to play in being active and concerned citizens while making the school and the community a better place for everyone.  i-SERIES PROGRAMME Pri 3 to Pri 5 students are given varied learning experiences that can bring out their strengths, interests and talents in four domains - Aesthetics, Cognitive, Leadership and Physical. Teachers' observation, students' feedback and self-assessment are collected at the end of each module to provide useful information about each student's strengths, interests and talents. These information help students recognise what they are good at and facilitate discussions on choices of future secondary schools and career aspirations."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)",
+					"Outstanding PARTNERS"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"2015": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)",
+					"Outstanding PARTNERS"
+				]
+			},
+			"2016": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)",
+					"Outstanding PARTNERS"
+				]
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": []
+		}
+	},
+	"postalCode": "518968",
+	"coordinates": [
+		103.962918865,
+		1.37230842963
+	],
+	"svy21": [
+		42422.94,
+		39368.8
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"p1Registration": {
+		"Total Vacancy": 180,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 140,
+		"No. of Applicants in Phase 1": 63,
+		"Places taken up to Phase 1": 63,
+		"Vacancy for Phase 2A1": 77,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 63,
+		"Vacancy for Phase 2A2": 77,
+		"No. of Applicants in Phase 2A2": 20,
+		"Places taken up to Phase 2A2": 83,
+		"Vacancy For Phase 2B": 49,
+		"Vacancy for Phase 2B": 49,
+		"No. of Applicants in Phase 2B": 25
+	},
+	"id": "1243"
+}

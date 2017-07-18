@@ -1,0 +1,125 @@
+{
+	"code": "1266",
+	"levels": "P",
+	"uen": " T13GS0002K",
+	"logo": "./Medias/Images/Schools/logos/tn_1266.jpg",
+	"name": "Alexandra Primary School",
+	"website": "http://alexandrapri.moe.edu.sg",
+	"address": "2a, Prince Charles Crescent (159016)",
+	"telephone": [
+		"62485400"
+	],
+	"fax": [
+		"62485409"
+	],
+	"email": "alexandra_ps@moe.edu.sg",
+	"mrt": [
+		"Tiong Bahru MRT",
+		"Redhill MRT"
+	],
+	"bus": "51 , 139 , 186 , 970. ",
+	"GeneralInformation": {
+		"Principal": "Mdm Chew Bee Lay",
+		"Vice Principal": [
+			"Miss Chan Yan Hoon",
+			"Mdm Noraini Bte Mansoor"
+		],
+		"School Vision": "Reflective Learner, Empathic Designer and Inspiring Leader.",
+		"School Mission": "We create a caring, safe and stimulating school environment where each child can grow and glow.  We seek to build in our students a strong foundation in literacy and numeracy, as well as equip them with the attitude, values and 21st century skills to be future-ready and to engage the world while remaining rooted to Singapore.",
+		"School Philosophy, Culture and Ethos": "Every child matters, is unique, and has the potential to make a difference.   Every staff member is an asset, has different strengths, and wants to contribute. Every parent and community partner is a valuable contributor in nurturing the child to G.L.O.W.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"English Language",
+		"Health Education",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Rugby",
+			"Softball",
+			"Tchoukball"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Choir",
+			"Dance - International"
+		],
+		"Clubs & Societies": [
+			"Cheerleading Club",
+			"Chess Club",
+			"Environmental Club",
+			"Media Resource And It Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"Special Student Development Programmes Offered": "Cultural Intelligence (CQ) Environmental Education"
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"Sports & Games Competition": [],
+			"SYF": [
+				{
+					"year": "2015",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				}
+			],
+			"Best Unit Award": []
+		}
+	},
+	"postalCode": "159016",
+	"coordinates": [
+		103.824119668,
+		1.29133448213
+	],
+	"svy21": [
+		26976.2403,
+		30414.7271
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	],
+	"specialNeeds": [
+		"PD",
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 210,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 170,
+		"No. of Applicants in Phase 1": 82,
+		"Places taken up to Phase 1": 82,
+		"Vacancy for Phase 2A1": 88,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 81,
+		"Vacancy for Phase 2A2": 89,
+		"No. of Applicants in Phase 2A2": 0,
+		"Places taken up to Phase 2A2": 81,
+		"Vacancy For Phase 2B": 65,
+		"Vacancy for Phase 2B": 65,
+		"No. of Applicants in Phase 2B": 1
+	},
+	"id": "1266"
+}

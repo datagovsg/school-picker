@@ -1,0 +1,237 @@
+{
+	"code": "3059",
+	"levels": "S",
+	"uen": " T07GS3059H",
+	"logo": "./Medias/Images/Schools/logos/tn_3059.jpg",
+	"name": "GREENVIEW SECONDARY SCHOOL",
+	"website": "http://www.greenviewsec.moe.edu.sg",
+	"address": "15, PASIR RIS STREET 21 ( 518969 )",
+	"telephone": [
+		"65836033"
+	],
+	"fax": [
+		"65836034"
+	],
+	"email": "GVSS@MOE.EDU.SG",
+	"mrt": "PASIR RIS MRT",
+	"bus": "3 , 6 , 12 , 17 , 21 , 39 , 53 , 81 , 89 , 109 , 359 , 518 ",
+	"GeneralInformation": {
+		"Principal": "MR NG BOON KIAT",
+		"Vice Principal": "MISS TAN CHOR HIANG",
+		"School Vision": "Every Greenviewan a Passionate Learner, Confident Leader, and Caring Citizen",
+		"School Mission": "Engaging Hearts, Enriching Minds, Developing Character",
+		"School Philosophy, Culture and Ethos": "Guided by our philosophy that 'Every Child is Unique and can Learn', we aim to cultivate moral character in our students, and inspire them to discover their strengths and strive for success. Through our school values of respect, responsibility, resourcefulness and resilience, we develop a growth mindset and caring culture in students, emphasizing self-directedness at leading self and others, in pursuit of excellence for the community. Greenview has a strong tradition in enlisting the support of successful alumni whose sense of loyalty and belonging to the school is evident in their involvement in school committees or planning and execution of activities for current students. At the heart of our students' success is our Greenview family of nurturing teachers and supportive parents who have worked together to engage our students in their learning and make things possible for them.",
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ADDITIONAL MATHEMATICS",
+		"ART",
+		"BIOLOGY",
+		"CHEMISTRY",
+		"CHINESE",
+		"CIVICS & MORAL EDUCATION",
+		"COMBINED HUMANITIES (S,G)",
+		"COMBINED HUMANITIES (S,H)",
+		"COMBINED HUMANITIES (S,L)",
+		"COMPUTER APPLICATIONS",
+		"DESIGN & TECHNOLOGY",
+		"ENGLISH LANGUAGE",
+		"FOOD & NUTRITION",
+		"FOOD AND CONSUMER EDUCATION",
+		"GEOGRAPHY",
+		"HISTORY",
+		"LITERATURE(E)",
+		"MALAY",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"PHYSICS",
+		"PRINCIPLES OF A/C",
+		"SCIENCE",
+		"SCIENCE (CHEM, BIO)",
+		"SCIENCE (PHY, CHEM)",
+		"SOCIAL STUDIES"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Football",
+			"Netball",
+			"Taekwondo"
+		],
+		"Uniformed Groups": [
+			"Ncc (Land)",
+			"Npcc",
+			"Scouts",
+			"St. John Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Choir",
+			"Drama Club",
+			"Malay Dance",
+			"Modern Dance",
+			"Symphonic Band"
+		],
+		"Clubs & Societies": [
+			"Infocom Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"STEM": "Design and Engineering",
+			"Community & Youth Leadership": "Highly Effective Community Leaders"
+		},
+		"Special Student Development Programmes Offered": "Our Highly Effective Youth programme aims to develop the 7 Habits of Highly Effective Teens in our students, in tandem with the Highly Effective Community Leaders programme which empowers them to render useful service to those in need.  All our students participate in the National Youth Achievement Award programme to develop self-reliance, perseverance and a sense of responsibility to themselves, society and nation.  To support this, the Social-Emotional Learning Festival provides avenues (e.g. creative arts, dragon boating, kayaking, rock-climbing, abseiling, trekking, camps and overseas adventure and community service) for students to further hone their interpersonal skills and our Learn to Play Sports programme encourages participation in physical recreation. Our Design and Engineering programme enables students to integrate scientific innovations with human desirability and economic viability and the STAR programme challenges students to stretch themselves in their areas of strengths (e.g. Maths Olympiad, Innovation Programme, Art Elective, Debates, and Humanities and Sciences explorations).  The T3 programme builds teacher-student relationships through weekly discussions and sharing over tea."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Commendation"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Bronze",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2015": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Bronze",
+					"Scout (Unit 1)": "Silver",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2016": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Bronze",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2017": {}
+		}
+	},
+	"PsleAggregateHistory": {
+		"2014": {
+			"Express": [
+				"188",
+				"229",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"154",
+				"189",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"98",
+				"152",
+				"None-posted"
+			]
+		},
+		"2015": {
+			"Express": [
+				"188",
+				"243",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"174",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"110",
+				"157",
+				"None-posted"
+			]
+		},
+		"2016": {
+			"Express": [
+				"195",
+				"226",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"160",
+				"172",
+				"None-posted"
+			]
+		},
+		"2017": {}
+	},
+	"postalCode": "518969"
+}

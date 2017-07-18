@@ -1,0 +1,336 @@
+{
+	"code": "1077",
+	"levels": "P",
+	"uen": " T07GS1077L",
+	"logo": "./Medias/Images/Schools/logos/tn_1077.jpg",
+	"name": "ROSYTH SCHOOL",
+	"website": "http://www.rosyth.moe.edu.sg",
+	"address": "21, Serangoon North Avenue 4 ( 555855 )",
+	"telephone": [
+		"64812273"
+	],
+	"fax": [
+		"64831102"
+	],
+	"email": "rosyth_sch@moe.edu.sg",
+	"mrt": "Ang Mo Kio, Serangoon",
+	"bus": "73 , 315 , 116 ",
+	"GeneralInformation": {
+		"Principal": "MDM ELIS TAN LEE CHING",
+		"Vice Principal": [
+			"MISS HO HWEE MEIN, STELLA",
+			"MR CHAN WENG YEW MARVIN"
+		],
+		"Vice Principal (Admin)": "MR LOH YUH POR",
+		"School Vision": "The School of Tomorrow, Today",
+		"School Mission": "Maximizing potential through the development of mind, body and soul",
+		"School Philosophy, Culture and Ethos": "Rosythians are grounded in the I-CARE values as we develop our strengths and competencies to be 'Ready to Serve'.   We aspire to Learn with Passion, Serve with Compassion and Lead with Vision.",
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ART",
+		"CHINESE",
+		"ENGLISH LANGUAGE",
+		"FOUNDATION ENGLISH",
+		"FOUNDATION MATHEMATICS",
+		"HEALTH EDUCATION",
+		"HIGHER CHINESE",
+		"HIGHER MALAY",
+		"HIGHER TAMIL",
+		"MALAY",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"SCIENCE",
+		"SOCIAL STUDIES",
+		"TAMIL"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Football",
+			"Taekwondo",
+			"Tennis",
+			"Track & Field"
+		],
+		"Uniformed Groups": [
+			"Brownies",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Brass Band",
+			"Choir",
+			"Dance - Chinese",
+			"Dance - Indian",
+			"Dance - Malay",
+			"Orchestra - Chinese"
+		],
+		"Clubs & Societies": [
+			"Advanced Mathematics Enrichment Club",
+			"Chess Club",
+			"Library",
+			"Robotics Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Gifted Education Programme"
+		],
+		"School Distinctive Programmes": {
+			"Science": "Augmenting Science Learning through Innovation",
+			"Music & Performing Arts": "Programme for Aesthetics Integration@Rosyth (PAIR)"
+		},
+		"Special Student Development Programmes Offered": "The school offers distinctive programmes in the areas of Science and the Aesthetics.  Under the auspices of the Applied Learning Programme (ALP) and Learning for Life Programme (LLP), students go through level-wide activities to broaden their learning in the two focused areas.  Those with the aptitude or interest may also progress to our customized activities for more in-depth learning.  In the area of Science, for instance, students go through a range of activities from life-sciences, use of customized gadgets to investigate scientific concepts, to the application of theories in the design of toys.  Platforms have also been provided for students to apply their learning in the creation of toys/artefacts using science concepts, which are subsequently sold to raise funds for selected beneficiaries.    With regard to the development of Aesthetics, students are exposed to voice-training, dance, playing of musical instruments, to the use of ICT for manga art and 2D animations.  Through the programme, students are exposed to an array of alternative platforms to express their thoughts and ideas.  It is hoped that through the wide range of offerings and the strong foundation that is laid, Rosythians will acquire a broad and deep foundation for a lifelong and life-deep learning."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": "BPA (Teaching and Learning)",
+				"Development Award": [
+					"DA (Character Development)",
+					"PARTNERS (Merit)"
+				],
+				"Outstanding Development Award": "ODA (National Education)",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Wushu",
+						"-",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"3rd",
+						"1st",
+						"1st"
+					],
+					[
+						"Tennis",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Orchestra - Chinese": "Distinction"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			},
+			"2015": {
+				"School Distinction Awards": "SDA",
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "ODA (National Education)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"4th",
+						"3rd",
+						"1st"
+					],
+					[
+						"Wushu",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Orchestra - Chinese": "Distinction"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Bronze",
+					"Scout": "Bronze"
+				}
+			},
+			"2016": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"4th",
+						"3rd",
+						"4th"
+					],
+					[
+						"Wushu",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Silver",
+					"Scout": "Bronze"
+				}
+			},
+			"2017": {}
+		}
+	},
+	"postalCode": "555855"
+}

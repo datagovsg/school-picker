@@ -1,0 +1,325 @@
+{
+	"code": "3059",
+	"levels": "S",
+	"uen": " T07GS3059H",
+	"logo": "./Medias/Images/Schools/logos/tn_3059.jpg",
+	"name": "Greenview Secondary School",
+	"website": "http://www.greenviewsec.moe.edu.sg",
+	"address": "15, Pasir Ris Street 21 (518969)",
+	"telephone": [
+		"65836033"
+	],
+	"fax": [
+		"65836034"
+	],
+	"email": "GVSS@MOE.EDU.SG",
+	"mrt": [
+		"Pasir Ris MRT"
+	],
+	"bus": "3 , 6 , 12 , 17 , 21 , 39 , 53 , 81 , 89 , 109 , 359 , 518 ",
+	"GeneralInformation": {
+		"Principal": "Mr Ng Boon Kiat",
+		"Vice Principal": "Miss Tan Chor Hiang",
+		"School Vision": "Every Greenviewan a Passionate Learner, Confident Leader, and Caring Citizen",
+		"School Mission": "Engaging Hearts, Enriching Minds, Developing Character",
+		"School Philosophy, Culture and Ethos": "Guided by our philosophy that 'Every Child is Unique and can Learn', we aim to cultivate moral character in our students, and inspire them to discover their strengths and strive for success. Through our school values of respect, responsibility, resourcefulness and resilience, we develop a growth mindset and caring culture in students, emphasizing self-directedness at leading self and others, in pursuit of excellence for the community. Greenview has a strong tradition in enlisting the support of successful alumni whose sense of loyalty and belonging to the school is evident in their involvement in school committees or planning and execution of activities for current students. At the heart of our students' success is our Greenview family of nurturing teachers and supportive parents who have worked together to engage our students in their learning and make things possible for them.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Civics & Moral Education",
+		"Combined Humanities (S,G)",
+		"Combined Humanities (S,H)",
+		"Combined Humanities (S,L)",
+		"Computer Applications",
+		"Design & Technology",
+		"English Language",
+		"Food & Nutrition",
+		"Food And Consumer Education",
+		"Geography",
+		"History",
+		"Literature(E)",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Physics",
+		"Principles Of A/C",
+		"Science",
+		"Science (Chem, Bio)",
+		"Science (Phy, Chem)",
+		"Social Studies"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Football",
+			"Netball",
+			"Taekwondo"
+		],
+		"Uniformed Groups": [
+			"Ncc (Land)",
+			"Npcc",
+			"Scouts",
+			"St. John Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Choir",
+			"Drama Club",
+			"Malay Dance",
+			"Modern Dance",
+			"Symphonic Band"
+		],
+		"Clubs & Societies": [
+			"Infocom Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"STEM": "Design and Engineering",
+			"Community & Youth Leadership": "Highly Effective Community Leaders"
+		},
+		"Special Student Development Programmes Offered": "Our Highly Effective Youth programme aims to develop the 7 Habits of Highly Effective Teens in our students, in tandem with the Highly Effective Community Leaders programme which empowers them to render useful service to those in need.  All our students participate in the National Youth Achievement Award programme to develop self-reliance, perseverance and a sense of responsibility to themselves, society and nation.  To support this, the Social-Emotional Learning Festival provides avenues (e.g. creative arts, dragon boating, kayaking, rock-climbing, abseiling, trekking, camps and overseas adventure and community service) for students to further hone their interpersonal skills and our Learn to Play Sports programme encourages participation in physical recreation. Our Design and Engineering programme enables students to integrate scientific innovations with human desirability and economic viability and the STAR programme challenges students to stretch themselves in their areas of strengths (e.g. Maths Olympiad, Innovation Programme, Art Elective, Debates, and Humanities and Sciences explorations).  The T3 programme builds teacher-student relationships through weekly discussions and sharing over tea."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"Sports & Games Competition": [
+				{
+					"year": "2015",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - English",
+					"award": "Commendation"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "NCC (Land Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2014",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Land Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "Scout (Unit 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "St John Ambulance Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Land Boys)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 229,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 154,
+			"upper": 189,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": 98,
+			"upper": 152,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 243,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 174,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Technical",
+			"lower": 110,
+			"upper": 157,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 195,
+			"upper": 226,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 160,
+			"upper": 172,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		}
+	],
+	"postalCode": "518969",
+	"coordinates": [
+		103.962762942764,
+		1.36933055696638
+	],
+	"svy21": [
+		42405.605487165,
+		39039.5202101804
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	],
+	"id": "3059"
+}

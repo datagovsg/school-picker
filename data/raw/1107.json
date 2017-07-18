@@ -1,0 +1,133 @@
+{
+	"code": "1107",
+	"levels": "P",
+	"uen": " T07GS1107L",
+	"logo": "./Medias/Images/Schools/logos/tn_1107.jpg",
+	"name": "FUHUA PRIMARY SCHOOL",
+	"website": "http://www.fuhuapri.moe.edu.sg",
+	"address": "65, JURONG EAST STREET 13 ( 609647 )",
+	"telephone": [
+		"65624370"
+	],
+	"fax": [
+		"65639542"
+	],
+	"email": "fhps@moe.edu.sg",
+	"mrt": "JURONG EAST MRT STATION",
+	"bus": "51 , 66 , 66B , 78 , 79 , 97 , 97A , 98 , 105 , 105B , 143 , 176 , 197 , 333 , 334 , 335 , 506 ",
+	"GeneralInformation": {
+		"Principal": "MR PHUA KIA WANG",
+		"Vice Principal": [
+			"MDM TAN SIEW KHIAN FINELLA",
+			"MDM TEO SIEW KHIM"
+		],
+		"School Vision": "EVERY CHILD A LIFELONG LEARNER, RESPONSIBLE LEADER AND GRACIOUS CITIZEN.",
+		"School Mission": "TO CREATE A VIBRANT LEARNING COMMUNITY WHERE EVERY INDIVIDUAL WILL EXPERIENCE SUCCESS.",
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ART",
+		"CHINESE",
+		"CIVICS & MORAL EDUCATION",
+		"ENGLISH LANGUAGE",
+		"FOUNDATION ENGLISH",
+		"FOUNDATION MATHEMATICS",
+		"HEALTH EDUCATION",
+		"HIGHER CHINESE",
+		"HIGHER MALAY",
+		"HIGHER TAMIL",
+		"MALAY",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"SCIENCE",
+		"SOCIAL STUDIES",
+		"TAMIL"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Football",
+			"Netball",
+			"Track & Field"
+		],
+		"Uniformed Groups": [
+			"Brownies",
+			"Girls' Brigade",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Band - Brass",
+			"Choir",
+			"Ensemble - Guzheng",
+			"Ethnic Dance"
+		],
+		"Clubs & Societies": [
+			"Infocomm Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"ICT": "Students As Designers for the 21st Century",
+			"Community Service & Student Leadership": "Environmental Champions @ FHPS Programme"
+		},
+		"Special Student Development Programmes Offered": "ICT INFUSION IN TEACHING AND LEARNING,INQUIRY-BASED LEARNING FOR SCIENCE,LEARNING SUPPORT PROG, LIFE SKILLS PROG, ENABLE PROG, MATHS E-LEARNING PROG, DRAMA CURRICULUM FOR LOWER PRIMARY, LITERATURE TEXTS FOR P3-P6 (HA CLASSES),P1&P2 SWIMMING PROG, PAL FOR P1&2 ANNUAL CAMP FOR P3&P5"
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": [
+					"DA (National Education)",
+					"PARTNERS (Merit)"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"SYF Arts Presentation": {
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Guzheng": "Commendation"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Silver",
+					"Scout": "Gold"
+				}
+			},
+			"2015": {
+				"Development Award": "PARTNERS (Merit)",
+				"SYF Arts Presentation": {
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Guzheng": "Commendation"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			},
+			"2016": {
+				"Development Award": "PARTNERS (Merit)",
+				"SYF Arts Presentation": {
+					"Band-Brass": "Commendation",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			},
+			"2017": {}
+		}
+	},
+	"postalCode": "609647"
+}

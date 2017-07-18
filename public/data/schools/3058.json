@@ -1,0 +1,396 @@
+{
+	"code": "3058",
+	"levels": "S",
+	"uen": " T07GS3058A",
+	"logo": "./Medias/Images/Schools/logos/tn_3058.jpg",
+	"name": "Northland Secondary School",
+	"website": "http://www.northlandsec.moe.edu.sg",
+	"address": "3, Yishun Street 22 (768578)",
+	"telephone": [
+		"62576781"
+	],
+	"fax": [
+		"62573634"
+	],
+	"email": "NORTHLAND_SS@MOE.EDU.SG",
+	"mrt": [
+		"Yishun MRT"
+	],
+	"bus": "811 , 804 , 800 ",
+	"GeneralInformation": {
+		"Principal": "Mdm Tan Siew Woon",
+		"Vice Principal": [
+			"Mr Yip Kok Hoong (Ye Guoxiong)",
+			"Mdm Hoo Wei Che, Delia"
+		],
+		"School Vision": "Motivated Learners, Assets to Community",
+		"School Mission": "Nurturing Minds, Shaping Character, Strengthening Vigour",
+		"School Philosophy, Culture and Ethos": "Northland is a vibrant school, demonstrating dynamic progress and great promise in recent years. Focusing on both academic outcomes and character development, the school is set to advance steadily forward, producing students who are both motivated learners and assets to the community. It endeavours to make every student who walks through its gates a NORTHSTAR - someone who is a guiding light to others in the community, with the attributes of a Concerned Citizen, Creative Artiste, Servant Leader, Caring Friend, Active Sportsman and Critical Thinker. The school believes in engaging all students through strong teacher-student relationships, thus cultivating a culture of care.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Combined Humanities (S,G)",
+		"Combined Humanities (S,H)",
+		"Computer Applications",
+		"Design & Technology",
+		"Elements Of Business Skills",
+		"English Language",
+		"Food & Nutrition",
+		"Geography",
+		"History",
+		"Literature(E)",
+		"Malay",
+		"Mathematics",
+		"Physics",
+		"Science (Chem, Bio)",
+		"Science (Phy, Chem)",
+		"Science (Syll T)",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Floorball",
+			"Hockey",
+			"Netball",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Girl Guides",
+			"Ncc (Land)",
+			"Npcc"
+		],
+		"Visual and Performing Arts": [
+			"Band - Symphonic",
+			"Dance - Indian",
+			"Dance - Malay",
+			"Fusion Arts (Chinese Dance)",
+			"Guzheng"
+		],
+		"Clubs & Societies": [
+			"Infocomm Club (Ava, Photography & Videography)"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"STEM": "Nurturing Self-directed Learners with 21CC Competencies through the Context of Health Sciences & Healthcare Technology",
+			"Sports & Outdoor Education": "Developing Social Emotional Competencies through Sports and Physical Activities"
+		},
+		"Special Student Development Programmes Offered": "The school's Applied Learning Programme aims to nurture critical thinkers & self-directed learners in health sciences & healthcare technology. Through project work, students monitor their health in novel ways, gather data to analyse, propose and present plans to improve their well-being. Students conduct research and design ways to aid the elderly so that they are empowered to live more fulfilling lives. 'Game for Life', the school's Learning for Life Programme, leverages sports and physical activities to empower students with passion, knowledge and skills to lead a healthy life. Students with sporting talent are progressively developed through exposure to competitive sports within and beyond the school. The school has a proud sporting tradition, especially in Hockey and Floorball, with several of its alumni players representing Singapore in international competitions and many others representing sports clubs in local leagues. The King's Pipe Band which consists of Scottish bagpipes and drums performers, is a part of the Boys' Brigade contingent, and has been highly regarded in South East Asia. For an all-round educational experience, the school also offers level camps, Science Research Programme and Internationalisation Programme to Asian countries where students can gain cross-cultural insights."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Girl Guides (Coy 2)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2014",
+					"category": "NCC (Land Boys)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2014",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Land Boys)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Land Boys)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 231,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 155,
+			"upper": 184,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": 112,
+			"upper": 149,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 237,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 188,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Technical",
+			"lower": 96,
+			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 189,
+			"upper": 251,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 184,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Technical",
+			"lower": 99,
+			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 239,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 186,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Technical",
+			"lower": 122,
+			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		}
+	],
+	"postalCode": "768578",
+	"coordinates": [
+		103.840104687784,
+		1.43580183362641
+	],
+	"svy21": [
+		28755.1906478005,
+		46389.1900489945
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"id": "3058"
+}

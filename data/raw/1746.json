@@ -1,0 +1,340 @@
+{
+	"code": "1746",
+	"levels": "P",
+	"uen": " T07GS1746C",
+	"logo": "./Medias/Images/Schools/logos/tn_1746.jpg",
+	"name": "SENG KANG PRIMARY SCHOOL",
+	"website": "http://www.sengkangpri.moe.edu.sg/",
+	"address": "21, COMPASSVALE WALK ( 545166 )",
+	"telephone": [
+		"63840809"
+	],
+	"fax": [
+		"63840839"
+	],
+	"email": "SKPS@MOE.EDU.SG",
+	"mrt": "Sengkang MRT",
+	"bus": "27 , 80 , 82 , 83 , 86 , 87 , 88 , 89 , 119 , 156 , 163 , 371 , 372 & 965 ",
+	"GeneralInformation": {
+		"Principal": "MDM SEAH WHYE CHOO",
+		"Vice Principal": "MDM CHNG HWUI LIN WINEFREDE",
+		"Vice Principal (Admin)": "MR HAMRI BIN A JALIL",
+		"School Vision": "A Vibrant Community of World-Ready Learners",
+		"School Mission": "We aim to nurture our students to be: Confident Communicators;Critical Thinkers;Concerned Citizens.",
+		"School Philosophy, Culture and Ethos": "In Seng Kang Primary School we believe that Everyone is Special, Everyone Can Learn and Everyone Can Serve. Through our Culture of Care and Excellence, we strongly believe that every child that passes through our hands is special and can learn when given the right opportunity, care and coaching to become a world ready learner who love and live life to the best of his or her ability. We take pride in knowing that every SKPS student who walks out of the school has his or her character nurtured through our core values of Confidence, Integrity, Respect and Resilience.",
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ART",
+		"CHINESE",
+		"CIVICS & MORAL EDUCATION",
+		"CO-CURRICULAR ACTIVITIES",
+		"ENGLISH LANGUAGE",
+		"FOUNDATION CHINESE",
+		"FOUNDATION ENGLISH",
+		"FOUNDATION MALAY",
+		"FOUNDATION MATHEMATICS",
+		"FOUNDATION SCIENCE",
+		"HEALTH EDUCATION",
+		"HIGHER CHINESE",
+		"HIGHER MALAY",
+		"MALAY",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"SCIENCE",
+		"SOCIAL STUDIES",
+		"TAMIL"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Hockey",
+			"P3 Modular",
+			"Track & Field"
+		],
+		"Uniformed Groups": [
+			"Brownies",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Ensemble - Handbell/Handchime",
+			"Malay Dance",
+			"Modern Dance"
+		],
+		"Clubs & Societies": [
+			"Chess Club",
+			"English Comes Alive",
+			"It/Media Club",
+			"Library"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"Languages": "Enhanced Spoken English Programme",
+			"Sports & Outdoor Education": "Developing Values and Leadership through Sports Education"
+		},
+		"Special Student Development Programmes Offered": "Seng Kang Primary's Applied Learning Programme - Enhanced Spoken English Programme, develops oral confidence, fosters creativity and strengthens oral proficiency in our students to develop them into articulate, creative and confident speakers. Our whole-school approach to effective communication adopts a 6 year progressive matrix which scaffolds and exposes students to different genres and presentation opportunities like poetry recitations, storytelling, speech and drama. The school's customised Speak \"Right, Be Polite\" packages teach appropriate conversational etiquette to enhance students' daily interaction and social skills.   Our Learning for Life Programme - Developing Values and Leadership through Sports Education -  provides positive sport experiences to develop students' leadership skills, physical, mental and social resilience as well as  instilling values such as respect for self and team in a competitive, safe and enjoyable play environment.     Character and Citizenship Education in SKPS is customised to nurture students holistically through inculcating values and building character in 5 domains - Leadership, Cultural Literacy, Positive Living, Social Awareness, Etiquette, and Citizenship. Our Cultural Literacy Programme supports students in discovering their strengths, abilities and interests through customized Art and Music modules.  Believing that Everyone Can Serve, opportunities are provided for students to assume leadership positions in class and consciously develop their leadership skills through CCA and at school level. Reflections and feedback are used to sharpen students' skills and competencies.    Our Values-In-Action-infused CCA programme provides opportunities for students to serve the community through cultural activities and work in partnerships with organisations such as the Singapore American School (SAS)as part of our exchange programme."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					],
+					[
+						"Hockey",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div"
+					],
+					[
+						"Track & Field",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Handbell / Handchime": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			},
+			"2015": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-"
+					],
+					[
+						"Hockey",
+						"-",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Handbell / Handchime": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			},
+			"2016": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd"
+					],
+					[
+						"Hockey",
+						"-",
+						"3rd",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div"
+					],
+					[
+						"Track & Field",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Handbell / Handchime": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			},
+			"2017": {}
+		}
+	},
+	"postalCode": "545166"
+}

@@ -1,0 +1,359 @@
+{
+	"code": "1199",
+	"levels": "P",
+	"uen": " T07GS1199D",
+	"logo": "./Medias/Images/Schools/logos/tn_1199.jpg",
+	"name": "Zhangde Primary School",
+	"website": "http://www.zhangdepri.moe.edu.sg/",
+	"address": "51, Jalan Membina (169485)",
+	"telephone": [
+		"62740357"
+	],
+	"fax": [
+		"62763042"
+	],
+	"email": "ZHANGDE_PS@MOE.EDU.SG",
+	"mrt": [
+		"Tiong Bahru MRT"
+	],
+	"bus": "16 , 33 , 63 , 123 , 195 , 605 , 851 , 14 , 65 , 147 , 167 , 196 , 197 , 961 ",
+	"GeneralInformation": {
+		"Principal": "Miss Loh Sing Huay",
+		"Vice Principal": "Mdm Chua Leng Yin",
+		"Vice Principal (Admin)": "Miss Chng Shi Hua",
+		"School Vision": "A Learning School with a GIVER3S Heart",
+		"School Mission": "To nurture thinking individuals and gracious citizens",
+		"School Philosophy, Culture and Ethos": "The school's vision of 'A Learning School with a GIVER3S Heart' is progressively realized through the strategic thrusts of Achieving Academic Excellence, Developing Character & Active Citizenry, Developing Staff Capacity and Forging Partnerships. They guide the school in its commitment towards the creation of school experiences that are memorable, enriching and inspiring.   This is in line with the school's mission 'To nurture thinking individuals and gracious citizens' and we are anchored and guided by the school GIVER3S values of: Graciousness, Integrity, Versatility, Empathy, Responsibility, Respect, Resilience and Sincerity.   The school also builds on a culture of care and collaboration for staff.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"Co-curricular Activities",
+		"English Language",
+		"Foundation Chinese",
+		"Foundation English",
+		"Foundation Malay",
+		"Foundation Mathematics",
+		"Foundation Tamil",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Boys' Basketball",
+			"Floorball",
+			"Rope Skipping",
+			"Soccer",
+			"Table Tennis",
+			"Taekwondo",
+			"Volleyball",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Girls' Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Chinese Dance",
+			"Choir",
+			"Malay Dance"
+		],
+		"Clubs & Societies": [
+			"Cooking Club",
+			"Environment Club",
+			"Infocomm Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Science": [
+				"Developing Zhangde GIVER",
+				null,
+				"S Values Through Environment Education"
+			]
+		},
+		"Special Student Development Programmes Offered": "The school believes in the holistic development of the whole child.  Our school's Applied Learning Programme (ALP) - Developing Zhangde GIVER3S Values Through Environment Education aims to instil in our students a love and concern for the environment through the inculcation of our GIVER3S values. The school has developed its own distinctive Environment Education curriculum that provides students with platforms to learn and explore the importance of conserving natural resources. Through these platforms, our school aims to develop future generations of thinking individuals and gracious citizens who take accountability for their own actions and be responsible towards the environment, a key 21st CC competency.   Our P3 - P5 Level Camps are part of the school's structured camp, leadership training and CCE programme. It is aligned with the school's PE & Sports and Outdoor Education Framework and aim to provide our students a holistic education.   The learning experiences for the camps are aligned with our school's Applied Learning Programme (ALP) on 'Developing Zhangde GIVER3S Values Through Environment Education. The learning experiences at the camps aim to educate our students to care for their environment and the world we live in. The camp objectives also ties in with the CCE learning outcomes, where students develop self-awareness and self-management skills to achieve personal well-being and effectiveness. Students also develop social-awareness and interpersonal skills to build and maintain positive relationships.   Values-in-Action (VIA) are learning experiences that support students' development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. VIA fosters student ownership over how they contribute to the community. As part of VIA, students reflect on their experiences, the values they have put into practice, and how they can continue to contribute meaningfully."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"postalCode": "169485",
+	"coordinates": [
+		103.826148952,
+		1.28449814949
+	],
+	"svy21": [
+		27202.08,
+		29658.8
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 210,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 170,
+		"No. of Applicants in Phase 1": 87,
+		"Places taken up to Phase 1": 87,
+		"Vacancy for Phase 2A1": 83,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 87,
+		"Vacancy for Phase 2A2": 83,
+		"No. of Applicants in Phase 2A2": 24,
+		"Places taken up to Phase 2A2": 111,
+		"Vacancy For Phase 2B": 50,
+		"Vacancy for Phase 2B": 50,
+		"No. of Applicants in Phase 2B": 1
+	},
+	"id": "1199"
+}

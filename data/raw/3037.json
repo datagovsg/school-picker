@@ -1,0 +1,226 @@
+{
+	"code": "3037",
+	"levels": "S",
+	"uen": " T07GS3037F",
+	"logo": "./Medias/Images/Schools/logos/tn_3037.jpg",
+	"name": "TAMPINES SECONDARY SCHOOL",
+	"website": "http://www.tampinessec.moe.edu.sg",
+	"address": "252, TAMPINES ST 12 ( 529427 )",
+	"telephone": [
+		"67835423"
+	],
+	"fax": [
+		"67843059"
+	],
+	"email": "TPSS@MOE.EDU.SG",
+	"mrt": "TAMPINES MRT",
+	"bus": "3 , 8 , 15 , 17 , 18 , 20 , 21 , 27 , 28 , 34 , 39 , 59 , 168 , 292 , 518 ",
+	"GeneralInformation": {
+		"Principal": "MR SHANE KWOK POH KEONG",
+		"Vice Principal": [
+			"MRS ROSE CHEN",
+			"MDM SO MUN YEE"
+		],
+		"School Vision": "A caring community of Learners, Thinkers and Leaders",
+		"School Mission": "To provide a well-rounded education in a nurturing environment to prepare Tampinesians for the future",
+		"School Philosophy, Culture and Ethos": "We believe that every child should learn and function in an inclusive, secure, caring, and stimulating environment to inspire a love for learning. As every child has the potential to excel, we, as a school, play the important role of equipping and empowering our students to become confident learners, thinkers and leaders. Additionally, we ensure that Tampinesians learn and practise good values to serve with empathy and caring for the community and nation.",
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ADDITIONAL MATHEMATICS",
+		"ART",
+		"BIOLOGY",
+		"CHEMISTRY",
+		"CHINESE",
+		"COMBINED HUMANITIES (S,G)",
+		"COMBINED HUMANITIES (S,H)",
+		"COMPUTER APPLICATIONS",
+		"DESIGN & TECHNOLOGY",
+		"ELEMENTS OF BUSINESS SKILLS",
+		"ENGLISH LANGUAGE",
+		"FOOD AND CONSUMER EDUCATION",
+		"GEOGRAPHY",
+		"HISTORY",
+		"LITERATURE(E)",
+		"MALAY",
+		"MATHEMATICS",
+		"MUSIC",
+		"MUSIC NT LEVEL",
+		"PHYSICAL EDUCATION",
+		"PHYSICS",
+		"SCIENCE (CHEM, BIO)",
+		"SCIENCE (PHY, CHEM)",
+		"SCIENCE (SYLL T)"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Football",
+			"Netball",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Girl Guides",
+			"Ncc (Land) (Boys)",
+			"Npcc",
+			"St. John Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Dance Dynamics",
+			"English Drama",
+			"Malay Dance",
+			"Modern Chinese Dance",
+			"Photo And Video Club",
+			"Show Choir",
+			"Wind Ensemble"
+		],
+		"Clubs & Societies": [
+			"Infocomm Club",
+			"Maker Faire Club",
+			"Mediatech Club",
+			"Student Council"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"STEM": "Creative Engineering : Inter-disciplinary Authentic Problem Solving",
+			"Music & Performing Arts / Visual Arts & Design": "Creative Expressions: Expressing creatively through visual and performing arts (Arts Education)"
+		},
+		"Special Student Development Programmes Offered": "The school offers a Learning for Life Programme (LLP) 'Creative Expressions: Character Development Through Visual and Performing Arts'. By actively involving students in artistic exposure, artistic creation, and artistic outreach, our LLP forms a core component of the school's co-curriculum. Learning through the arts, our students will embody intellectual curiosity in art-making, tenacity in learning attitude, and steadfast values in collaborative endeavours. Above all, Tampinesians should grow through our LLP to become individuals of good character who are responsible to family, community, and nation. To promote applied learning in the academic domain, the school has an Applied Learning Programme in 'Creative Engineering: Inter-disciplinary Authentic Problem Solving'.  Using the Design Thinking framework, the school aims to integrate problem solving into the disciplines of Mathematics, Science, and Design and Technology. The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond academic programmes, the school offers the Maker Faire Club which promotes innovation and creativity among students in support of our ALP niche in Creative Engineering."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Bronze",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2015": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Distinction"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Bronze",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2016": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Distinction"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2017": {}
+		}
+	},
+	"PsleAggregateHistory": {
+		"2014": {
+			"Express": [
+				"206",
+				"230",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"162",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"133",
+				"158",
+				"None-posted"
+			]
+		},
+		"2015": {
+			"Express": [
+				"206",
+				"232",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"169",
+				"196",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"124",
+				"156",
+				"None-posted"
+			]
+		},
+		"2016": {
+			"Express": [
+				"196",
+				"232",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"170",
+				"197",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"126",
+				"158",
+				"None-posted"
+			]
+		},
+		"2017": {
+			"Express": [
+				"199",
+				"226",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"167",
+				"195",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"129",
+				"159",
+				"None-posted"
+			]
+		}
+	},
+	"postalCode": "529427"
+}

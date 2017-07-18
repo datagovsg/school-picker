@@ -1,0 +1,528 @@
+{
+	"code": "3004",
+	"levels": "S",
+	"uen": " T07GS3004C",
+	"logo": "./Medias/Images/Schools/logos/tn_3004.jpg",
+	"name": "CEDAR GIRLS' SECONDARY SCHOOL",
+	"website": "http://www.cedargirlssec.moe.edu.sg",
+	"address": "1, CEDAR AVENUE ( 349692 )",
+	"telephone": [
+		"62884909"
+	],
+	"fax": [
+		"62820244"
+	],
+	"email": "cedargirlss@moe.edu.sg",
+	"mrt": "WOODLEIGH MRT, POTONG PASIR MRT",
+	"bus": "8 , 61 , 64 , 65 , 66 , 90 , 100 , 135 , 151 , 154 , 155 ",
+	"GeneralInformation": {
+		"Principal": "MDM CHENG HWEE YEANG",
+		"Vice Principal": "MISS SIM SOO LENG AILEEN",
+		"Vice Principal (Admin)": "MDM JUSTINE TAN",
+		"School Vision": "Bringing out the Best in our People: Social Innovators, Passionate Learners",
+		"School Mission": "Nurturing Leaders of Character",
+		"School Philosophy, Culture and Ethos": "With the belief that every Cedarian can become a confident and active citizen, Cedar Girls is committed to providing a high quality all-round education. Beside a well-established 4-year O-Level programme, Cedar Girls also offers the Integrated Programme (IP) under the Victoria-Cedar Alliance (VCA). Our IP students will complete 4 years of secondary education in Cedar Girls before advancing to Victoria Junior College for the A-level curriculum. The VCA IP offers a seamless 6-year programme to students who enjoy independent study and exploratory work. They will have the opportunities to heighten their interest and passion through a challenging and enriched curriculum. In our mission to develop Leaders of Character, we have a comprehensive Character, Citizenship and Leadership Development Programme which inculcates the values, attributes and competencies desired of Cedarians in their journey through life. Cedar Girls has received recognition in both the academic and co-curricular domains for its consistent performance and good teaching and learning processes. Graduating students each year have attributed their resilience to take on challenges, confidence in striking out and motivation to always give of their best to the developmental programmes offered by the school.",
+		"Type of School": "GOVERNMENT SCHOOL / GIRLS' SCHOOL / SINGLE SESSION",
+		"IP Partner Schools": [
+			"VICTORIA SCHOOL",
+			"VICTORIA JUNIOR COLLEGE"
+		],
+		"Status of School": "Autonomous",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ADDITIONAL MATHEMATICS",
+		"ART 'O' LEVEL",
+		"BIOLOGY",
+		"CHEMISTRY",
+		"CHINESE",
+		"CHINESE (SPECIAL PROGRAMME)",
+		"CIVICS & MORAL EDUCATION",
+		"COMBINED HUMANITIES (S,G)",
+		"COMBINED HUMANITIES (S,H)",
+		"COMBINED HUMANITIES (S,L)",
+		"DESIGN & TECHNOLOGY",
+		"ENGLISH LANGUAGE",
+		"FOOD AND CONSUMER EDUCATION",
+		"GEOGRAPHY",
+		"HIGHER CHINESE",
+		"HIGHER MALAY",
+		"HIGHER TAMIL",
+		"HISTORY",
+		"LITERATURE(E)",
+		"MALAY",
+		"MALAY (SPECIAL PROGRAMME)",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"PHYSICS",
+		"SCIENCE (CHEM, BIO)",
+		"SCIENCE (PHY, CHEM)",
+		"TAMIL"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Cross Country",
+			"Netball",
+			"Table Tennis",
+			"Track & Field",
+			"Volleyball"
+		],
+		"Uniformed Groups": [
+			"Girl Guides",
+			"Ncc (Land)",
+			"Npcc",
+			"Singapore Red Cross Society"
+		],
+		"Visual and Performing Arts": [
+			"Band - Symphonic",
+			"Choir",
+			"Dance - Modern",
+			"Ensemble - Guzheng",
+			"Ensemble - Handbell/Handchime"
+		],
+		"Clubs & Societies": [
+			"Eldds (Debate & Advocacy)",
+			"Infocomm Club",
+			"Ldds - Chinese",
+			"Ldds - Indian",
+			"Ldds - Malay"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Integrated Programme - Dual Track School (offers both IP and O Levels)"
+		],
+		"Special Student Development Programmes Offered": "Through the Leaders of Character Programme, all Cedarians are given opportunities to put their values into action via student-initiated community projects so as to nurture and develop them into leaders of character. The Social Innovation Programme is the school's signature programme which aims to nurture Cedarians into social innovators. Through this programme, students' innovative capacity is developed and honed to provide them with the vital skills they need to create breakthrough solutions to address authentic issues faced by the community. With the aim to broaden Cedarians' perspectives, the Beyond Borders Programme provides Cedarians the opportunity to explore learning beyond the shores of Singapore, see the world differently and learn to work collaboratively with local and international partners. Cedarians with special talents are given the opportunity to pursue their passions and interests through the Talent Development Programme. This programme aims to stimulate the students intellectually and cognitively to create new knowledge and stretch their potential."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"School Distinction Awards": "SDA",
+				"Development Award": "DA (National Education)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"2nd",
+						"2nd"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					],
+					[
+						"Cross Country",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					],
+					[
+						"Track & Field",
+						"-",
+						"-",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"4th",
+						"1st"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Distinction",
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Handbell / Handchime": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Gold",
+					"Girl Guides (Coy 2)": "Gold",
+					"Ncc (Land Girls)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Gold"
+				}
+			},
+			"2015": {
+				"School Distinction Awards": "SDA",
+				"Development Award": "DA (National Education)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					],
+					[
+						"Cross Country",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					],
+					[
+						"Track & Field",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"1st"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Handbell / Handchime": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Gold",
+					"Girl Guides (Coy 2)": "Gold",
+					"Ncc (Land Girls)": "Gold",
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Gold"
+				}
+			},
+			"2016": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"3rd"
+					],
+					[
+						"Cross Country",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"1st",
+						"2nd"
+					],
+					[
+						"Track & Field",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Handbell / Handchime": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Gold",
+					"Girl Guides (Coy 2)": "Gold",
+					"Ncc (Land Girls)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Gold"
+				}
+			},
+			"2017": {}
+		}
+	},
+	"PsleAggregateHistory": {
+		"2014": {
+			"Integrated Programme": [
+				"251",
+				"265",
+				"None-posted"
+			],
+			"'O' Level Programme": [
+				"249",
+				"265",
+				"None-posted"
+			]
+		},
+		"2015": {
+			"Integrated Programme": [
+				"252",
+				"267",
+				"None-posted"
+			],
+			"'O' Level Programme": [
+				"248",
+				"264",
+				"None-posted"
+			]
+		},
+		"2016": {
+			"Integrated Programme": [
+				"254",
+				"264",
+				"None-posted"
+			],
+			"'O' Level Programme": [
+				"250",
+				"263",
+				"None-posted"
+			]
+		},
+		"2017": {
+			"Integrated Programme": [
+				"254",
+				"271",
+				"None-posted"
+			],
+			"'O' Level Programme": [
+				"250",
+				"271",
+				"None-posted"
+			]
+		}
+	},
+	"postalCode": "349692"
+}

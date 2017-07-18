@@ -1,0 +1,733 @@
+{
+	"code": "7032",
+	"levels": "S",
+	"uen": " T07GS7032A",
+	"logo": "./Medias/Images/Schools/logos/tn_7032.jpg",
+	"name": "Anglo-Chinese School (Barker Road)",
+	"website": "http://acsbr.net/",
+	"address": "60, Barker Road (309919)",
+	"telephone": [
+		"62561633"
+	],
+	"fax": [
+		"62561366"
+	],
+	"email": "acsbr@moe.edu.sg",
+	"mrt": [
+		"Newton MRT",
+		"Stevens MRT"
+	],
+	"bus": "48 , 66 , 67 , 170 , 171 , 700 , 960 ",
+	"GeneralInformation": {
+		"Principal": "Mr Tan Chong Tze, Peter",
+		"Vice Principal": [
+			"Mrs Aw Meng Yin",
+			"Mr Tan Whye Wee Jeffrey"
+		],
+		"School Vision": "Generations of educated men who are God-fearing and growing in Grace.",
+		"School Mission": "Touch Hearts, Empower Minds, Enrich Souls",
+		"School Philosophy, Culture and Ethos": "Anglo-Chinese School (Barker Road) belongs to the ACS family of schools. Established in 1994 as a school of Hope for our feeder boys who desired a continued ACS education in a secondary school, we have been consistently moving towards our aspiration to be a school of Excellence. As a Methodist institution, we inculcate the core values of Respect, Integrity, Commitment and Excellence in our students. We believe that our students have the potential to excel and provide opportunities for them to do so through a unique ACS(BR) education that nurtures future-ready leaders.  Our double niche areas are in our Applied Learning Programme \"Developing Effective Communicators through Drama, Debates and Public Speaking\" and Lifelong Learning Programme \"Building Character through Sports and Outdoor Education\".  We offer a holistic and broad-based education that strikes a balance between the academic and non-academic, so that we can provide an environment that is happy, enriching and fulfilling.  True to our mission, we aim to touch hearts by creating memories and giving meaning to all that we do, empower minds by sharpening the intellect and broadening perspectives, and enrich souls by growing in faith and serving others. Our product - the ACS(BR) Gentleman.",
+		"Type of School": "Government-aided Sch / Boys' School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": [
+			"Anglo-Chinese Junior College",
+			"Anglo-Chinese School (Junior)",
+			"Anglo-Chinese School (Primary)"
+		]
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art",
+		"Art Na Level",
+		"Art 'O' Level",
+		"Biology",
+		"Chinese",
+		"Chinese B",
+		"Chinese N(A)",
+		"Combined Humanities (S,G)",
+		"Combined Humanities (S,H)",
+		"Combined Humanities (S,L)",
+		"Computer Applications",
+		"Design & Technology",
+		"English Language",
+		"English Language (Syll A)",
+		"English Language (Syll T)",
+		"Food & Nutrition",
+		"Food And Consumer Education",
+		"Geography",
+		"History",
+		"Literature(E)",
+		"Malay",
+		"Malay B",
+		"Malay N(A)",
+		"Mathematics",
+		"Mathematics (Syllabus A)",
+		"Mathematics (Syllabus T)",
+		"Music",
+		"Music 'O' Level",
+		"Physical Education",
+		"Physics",
+		"Principles Of Accounts",
+		"Science",
+		"Science (Phy, Chem)",
+		"Social Studies N(T)",
+		"Tamil",
+		"Tamil B",
+		"Tamil N(A)"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Floorball",
+			"Football",
+			"Handball",
+			"Rugby",
+			"Swimming",
+			"Ten-Pin Bowling",
+			"Tennis",
+			"Water Polo"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Ncc (Sea)",
+			"Npcc",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Chinese Orchestra",
+			"Choir",
+			"Concert Band",
+			"Dance @ Acs",
+			"Drama @ Acs"
+		],
+		"Clubs & Societies": [
+			"Christian Society",
+			"Debates @ Acs",
+			"Infocom Club - Media Resource, Digital Media & Robotics"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Languages & Humanities": "Developing Effective Communicators through Drama, Debates and Public Speaking",
+			"Sports & Outdoor Education": "Building Character through Sports (Basketball, Rugby, Tennis and Water Polo) & Outdoor Education"
+		},
+		"Special Student Development Programmes Offered": "1:1 Learning Programme, Aesthetics Programme, Applied Learning Programme \"Developing Effective Communicators through Drama, Debates and Public Speaking\", Character Development encompassing Spiritual, Enterprise, Citizenship, Personal & Social Lifeskills and Service Learning, Cyber-wellness Programme, Integrated Values-In-Action programme that culminates in C21@ACS(BR) that incorporates VIA and 21st century competencies, Highly Effective Youth! Programme, Level Camps, Lifelong Learning Programme \"Building Character through Sports & Outdoor Education\", Sports Education Programme, Student mentoring by staff, Swimming and Flippa Ball Programme, Study Skills Modules, Talent Development Programme and Whole school Approach to Effective Communication."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"PARTNERS (Merit)"
+				],
+				"Outstanding Development Award": "ODA (National Education)"
+			},
+			"2015": {
+				"Development Award": [
+					"DA (Character Development)",
+					"PARTNERS (Merit)"
+				],
+				"Outstanding Development Award": "ODA (National Education)"
+			},
+			"2016": {
+				"Development Award": [
+					"DA (Character Development)",
+					"PARTNERS (Merit)"
+				],
+				"Outstanding Development Award": "ODA (National Education)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Waterpolo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Waterpolo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Golf",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Waterpolo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Waterpolo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Waterpolo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Orchestra - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Orchestra - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Orchestra - Chinese",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NCC (Sea Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Sea Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Sea Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 236,
+			"upper": 248,
+			"lowerAffiliated": 194,
+			"upperAffiliated": 250
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 173,
+			"upper": 199,
+			"lowerAffiliated": 154,
+			"upperAffiliated": 199
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": null,
+			"upper": null,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": null,
+			"upper": null,
+			"lowerAffiliated": 199,
+			"upperAffiliated": 258
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 193,
+			"upper": 198,
+			"lowerAffiliated": 154,
+			"upperAffiliated": 199
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Technical",
+			"lower": 135,
+			"upper": 159,
+			"lowerAffiliated": 121,
+			"upperAffiliated": 145
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 239,
+			"upper": 248,
+			"lowerAffiliated": 188,
+			"upperAffiliated": 248
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 193,
+			"upper": 199,
+			"lowerAffiliated": 152,
+			"upperAffiliated": 199
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Technical",
+			"lower": 123,
+			"upper": 157,
+			"lowerAffiliated": 126,
+			"upperAffiliated": 154
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 241,
+			"upper": 248,
+			"lowerAffiliated": 188,
+			"upperAffiliated": 247
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Academic",
+			"lower": 187,
+			"upper": 197,
+			"lowerAffiliated": 155,
+			"upperAffiliated": 198
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Technical",
+			"lower": 137,
+			"upper": 159,
+			"lowerAffiliated": 126,
+			"upperAffiliated": 151
+		}
+	],
+	"postalCode": "309919",
+	"coordinates": [
+		103.835772689988,
+		1.31961649151329
+	],
+	"svy21": [
+		28273.1184036601,
+		33542.0043816026
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"id": "7032"
+}

@@ -1,0 +1,114 @@
+{
+	"code": "7807",
+	"levels": "S",
+	"uen": " 201300697M",
+	"logo": "./Medias/Images/Schools/logos/tn_7807.jpg",
+	"name": "Spectra Secondary School",
+	"website": "http://www.spectra.edu.sg",
+	"address": "1, Woodlands Drive 64 (737758)",
+	"telephone": [
+		"64660775"
+	],
+	"fax": [
+		"64623928"
+	],
+	"email": "info@spectra.edu.sg",
+	"mrt": [
+		"Admiralty MRT"
+	],
+	"bus": "904 , 912 , 913 , 962 , 964 , 965 , 969 ",
+	"GeneralInformation": {
+		"Principal": "Mr Krishnan Aravinthan",
+		"Vice Principal": [
+			"Ms Lim Cheng Lian",
+			"Mr How Pui Seng"
+		],
+		"Vice Principal (Admin)": "Mr Lau Khai Meng",
+		"School Vision": "Every student equipped to lead a fulfilling life.",
+		"School Mission": "A community committed to provide an engaging learning experience in a safe and caring environment so as to nurture, develop and prepare every student for work and life.",
+		"School Philosophy, Culture and Ethos": "Our school's name, Spectra, represents the school's philosophy of recognising the spectrum of talents and strengths of our students. It signifies our belief that every child is different and unique. It is our goal to expand the potential of our students. We provide multiple platforms to help every student shine to the brightest. We envision a caring school culture that is affirmative and leverages the strengths of our students. There will be room for students to make mistakes, learn from them and grow, and to become special persons who make a difference to the lives of others. Our school motto, \"Together We Can\", exemplifies the \"kampung\" spirit of togetherness and collective effort. It signals our commitment to working with parents and partners to nurture and develop our students. Hence, we envision our school to be a close-knit community. We see ourselves becoming a self-sustaining and nurturing eco-system that brings out the best in those who work, study and play here.",
+		"Type of School": "Specialised School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Basic Chinese",
+		"Basic Malay",
+		"Basic Tamil",
+		"Character & Citizenship (NT)",
+		"Co-curricular Activities",
+		"English Language (Syll A)",
+		"English Language (Syll T)",
+		"Infocomm Technology (NT)",
+		"Mathematics (Syllabus A)",
+		"Mathematics (Syllabus T)",
+		"Performing Arts",
+		"Physical Education",
+		"Science & Technology",
+		"Science (Syll T)",
+		"Vocational Education"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Athletics",
+			"Basketball",
+			"Floorball",
+			"Football"
+		],
+		"Uniformed Groups": [
+			"Girl Guides",
+			"National Civil Defence Cadet Corps"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Dance Club",
+			"Drama Club",
+			"Music Club"
+		],
+		"Clubs & Societies": [
+			"Av / Video & Photography Club",
+			"Culinary Art Club",
+			"Entrepreneur Club",
+			"Robotics Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"Special Student Development Programmes Offered": "The school's customised Instructional Curriculum is supported by a 1-to-1 computing programme.  Additionally the school offers Vocational Taster Modules (Retail, Hospitality, Mechanical Servicing, Facility Services) in the lower secondary curriculum.  The students specialise in one of these modules and attain the ITE Skills Certificate (ISC) as part of their upper secondary curriculum.  The ISC Programmes provide opportunities for industry experiential attachments.  There is a strong emphasis on Character Development of students in the school.  \"I Believe\" is a four-year character development programme which aims to build students' confidence and social-emotional competencies.  Milestone programmes include Equine-Assisted Learning (EQUAL), Garden-Based Service Learning Programme, Bonding Camp (Sec 1), Adventure Camp (Sec 2), Outward Bound (Sec 3) and Cohort Overseas Cultural Immersion Programmes."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"Sports & Games Competition": [
+				{
+					"year": "2015",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [],
+			"Best Unit Award": []
+		}
+	},
+	"PsleAggregateHistory": [],
+	"postalCode": "737758",
+	"coordinates": [
+		103.804100467487,
+		1.43703750789961
+	],
+	"svy21": [
+		24748.4707526183,
+		46525.8443959001
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	],
+	"id": "7807"
+}

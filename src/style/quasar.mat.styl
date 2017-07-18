@@ -1,0 +1,5169 @@
+/*!
+ * Quasar Framework v0.13.6
+ * (c) 2017 Razvan Stoenescu
+ * Released under the MIT License.
+ */
+$generic-border-radius         ?= 2px
+$generic-input-size            ?= 22px
+$generic-input-border-width    ?= 2px
+$typography-font-family        ?= 'Roboto'
+$toolbar-color                 ?= white
+$toolbar-background            ?= $primary
+$toolbar-active-color          ?= $primary
+$toolbar-faded-color           ?= composite-color($primary)
+$layout-small  ?= 600px
+$layout-medium ?= 920px
+$layout-big    ?= 1280px
+$layout-small-min = 0
+$layout-small-max = $layout-small
+$layout-medium-min = $layout-small-max + 1
+$layout-medium-max = $layout-medium
+$layout-big-min = $layout-medium-max + 1
+$layout-big-max = $layout-big
+$layout-large-min = $layout-big-max + 1
+$layout-large-max = 9999px
+$primary   ?= #027be3
+$secondary ?= #26A69A
+$tertiary  ?= #555
+$positive  ?= #21BA45
+$negative  ?= #DB2828
+$info      ?= #31CCEC
+$warning   ?= #F2C037
+$white     ?= #fff
+$light     ?= #f4f4f4
+$dark      ?= #333
+$faded     ?= #777
+$has-error ?= $negative
+$link-color          ?= lighten($primary, 25%)
+$link-color-active   ?= $primary
+$dimmed-background       ?= rgba(0, 0, 0, .4)
+$light-dimmed-background ?= rgba(255, 255, 255, .6)
+$red = #f44336
+$red-1 = #ffebee
+$red-2 = #ffcdd2
+$red-3 = #ef9a9a
+$red-4 = #e57373
+$red-5 = #ef5350
+$red-6 = #f44336
+$red-7 = #e53935
+$red-8 = #d32f2f
+$red-9 = #c62828
+$red-10 = #b71c1c
+$red-11 = #ff8a80
+$red-12 = #ff5252
+$red-13 = #ff1744
+$red-14 = #d50000
+$pink = #e91e63
+$pink-1 = #fce4ec
+$pink-2 = #f8bbd0
+$pink-3 = #f48fb1
+$pink-4 = #f06292
+$pink-5 = #ec407a
+$pink-6 = #e91e63
+$pink-7 = #d81b60
+$pink-8 = #c2185b
+$pink-9 = #ad1457
+$pink-10 = #880e4f
+$pink-11 = #ff80ab
+$pink-12 = #ff4081
+$pink-13 = #f50057
+$pink-14 = #c51162
+$purple = #9c27b0
+$purple-1 = #f3e5f5
+$purple-2 = #e1bee7
+$purple-3 = #ce93d8
+$purple-4 = #ba68c8
+$purple-5 = #ab47bc
+$purple-6 = #9c27b0
+$purple-7 = #8e24aa
+$purple-8 = #7b1fa2
+$purple-9 = #6a1b9a
+$purple-10 = #4a148c
+$purple-11 = #ea80fc
+$purple-12 = #e040fb
+$purple-13 = #d500f9
+$purple-14 = #aa00ff
+$deep-purple = #673ab7
+$deep-purple-1 = #ede7f6
+$deep-purple-2 = #d1c4e9
+$deep-purple-3 = #b39ddb
+$deep-purple-4 = #9575cd
+$deep-purple-5 = #7e57c2
+$deep-purple-6 = #673ab7
+$deep-purple-7 = #5e35b1
+$deep-purple-8 = #512da8
+$deep-purple-9 = #4527a0
+$deep-purple-10 = #311b92
+$deep-purple-11 = #b388ff
+$deep-purple-12 = #7c4dff
+$deep-purple-13 = #651fff
+$deep-purple-14 = #6200ea
+$indigo = #3f51b5
+$indigo-1 = #e8eaf6
+$indigo-2 = #c5cae9
+$indigo-3 = #9fa8da
+$indigo-4 = #7986cb
+$indigo-5 = #5c6bc0
+$indigo-6 = #3f51b5
+$indigo-7 = #3949ab
+$indigo-8 = #303f9f
+$indigo-9 = #283593
+$indigo-10 = #1a237e
+$indigo-11 = #8c9eff
+$indigo-12 = #536dfe
+$indigo-13 = #3d5afe
+$indigo-14 = #304ffe
+$blue = #2196f3
+$blue-1 = #e3f2fd
+$blue-2 = #bbdefb
+$blue-3 = #90caf9
+$blue-4 = #64b5f6
+$blue-5 = #42a5f5
+$blue-6 = #2196f3
+$blue-7 = #1e88e5
+$blue-8 = #1976d2
+$blue-9 = #1565c0
+$blue-10 = #0d47a1
+$blue-11 = #82b1ff
+$blue-12 = #448aff
+$blue-13 = #2979ff
+$blue-14 = #2962ff
+$light-blue = #03a9f4
+$light-blue-1 = #e1f5fe
+$light-blue-2 = #b3e5fc
+$light-blue-3 = #81d4fa
+$light-blue-4 = #4fc3f7
+$light-blue-5 = #29b6f6
+$light-blue-6 = #03a9f4
+$light-blue-7 = #039be5
+$light-blue-8 = #0288d1
+$light-blue-9 = #0277bd
+$light-blue-10 = #01579b
+$light-blue-11 = #80d8ff
+$light-blue-12 = #40c4ff
+$light-blue-13 = #00b0ff
+$light-blue-14 = #0091ea
+$cyan = #00bcd4
+$cyan-1 = #e0f7fa
+$cyan-2 = #b2ebf2
+$cyan-3 = #80deea
+$cyan-4 = #4dd0e1
+$cyan-5 = #26c6da
+$cyan-6 = #00bcd4
+$cyan-7 = #00acc1
+$cyan-8 = #0097a7
+$cyan-9 = #00838f
+$cyan-10 = #006064
+$cyan-11 = #84ffff
+$cyan-12 = #18ffff
+$cyan-13 = #00e5ff
+$cyan-14 = #00b8d4
+$teal = #009688
+$teal-1 = #e0f2f1
+$teal-2 = #b2dfdb
+$teal-3 = #80cbc4
+$teal-4 = #4db6ac
+$teal-5 = #26a69a
+$teal-6 = #009688
+$teal-7 = #00897b
+$teal-8 = #00796b
+$teal-9 = #00695c
+$teal-10 = #004d40
+$teal-11 = #a7ffeb
+$teal-12 = #64ffda
+$teal-13 = #1de9b6
+$teal-14 = #00bfa5
+$green = #4caf50
+$green-1 = #e8f5e9
+$green-2 = #c8e6c9
+$green-3 = #a5d6a7
+$green-4 = #81c784
+$green-5 = #66bb6a
+$green-6 = #4caf50
+$green-7 = #43a047
+$green-8 = #388e3c
+$green-9 = #2e7d32
+$green-10 = #1b5e20
+$green-11 = #b9f6ca
+$green-12 = #69f0ae
+$green-13 = #00e676
+$green-14 = #00c853
+$light-green = #8bc34a
+$light-green-1 = #f1f8e9
+$light-green-2 = #dcedc8
+$light-green-3 = #c5e1a5
+$light-green-4 = #aed581
+$light-green-5 = #9ccc65
+$light-green-6 = #8bc34a
+$light-green-7 = #7cb342
+$light-green-8 = #689f38
+$light-green-9 = #558b2f
+$light-green-10 = #33691e
+$light-green-11 = #ccff90
+$light-green-12 = #b2ff59
+$light-green-13 = #76ff03
+$light-green-14 = #64dd17
+$lime = #cddc39
+$lime-1 = #f9fbe7
+$lime-2 = #f0f4c3
+$lime-3 = #e6ee9c
+$lime-4 = #dce775
+$lime-5 = #d4e157
+$lime-6 = #cddc39
+$lime-7 = #c0ca33
+$lime-8 = #afb42b
+$lime-9 = #9e9d24
+$lime-10 = #827717
+$lime-11 = #f4ff81
+$lime-12 = #eeff41
+$lime-13 = #c6ff00
+$lime-14 = #aeea00
+$yellow = #ffeb3b
+$yellow-1 = #fffde7
+$yellow-2 = #fff9c4
+$yellow-3 = #fff59d
+$yellow-4 = #fff176
+$yellow-5 = #ffee58
+$yellow-6 = #ffeb3b
+$yellow-7 = #fdd835
+$yellow-8 = #fbc02d
+$yellow-9 = #f9a825
+$yellow-10 = #f57f17
+$yellow-11 = #ffff8d
+$yellow-12 = #ffff00
+$yellow-13 = #ffea00
+$yellow-14 = #ffd600
+$amber = #ffc107
+$amber-1 = #fff8e1
+$amber-2 = #ffecb3
+$amber-3 = #ffe082
+$amber-4 = #ffd54f
+$amber-5 = #ffca28
+$amber-6 = #ffc107
+$amber-7 = #ffb300
+$amber-8 = #ffa000
+$amber-9 = #ff8f00
+$amber-10 = #ff6f00
+$amber-11 = #ffe57f
+$amber-12 = #ffd740
+$amber-13 = #ffc400
+$amber-14 = #ffab00
+$orange = #ff9800
+$orange-1 = #fff3e0
+$orange-2 = #ffe0b2
+$orange-3 = #ffcc80
+$orange-4 = #ffb74d
+$orange-5 = #ffa726
+$orange-6 = #ff9800
+$orange-7 = #fb8c00
+$orange-8 = #f57c00
+$orange-9 = #ef6c00
+$orange-10 = #e65100
+$orange-11 = #ffd180
+$orange-12 = #ffab40
+$orange-13 = #ff9100
+$orange-14 = #ff6d00
+$deep-orange = #ff5722
+$deep-orange-1 = #fbe9e7
+$deep-orange-2 = #ffccbc
+$deep-orange-3 = #ffab91
+$deep-orange-4 = #ff8a65
+$deep-orange-5 = #ff7043
+$deep-orange-6 = #ff5722
+$deep-orange-7 = #f4511e
+$deep-orange-8 = #e64a19
+$deep-orange-9 = #d84315
+$deep-orange-10 = #bf360c
+$deep-orange-11 = #ff9e80
+$deep-orange-12 = #ff6e40
+$deep-orange-13 = #ff3d00
+$deep-orange-14 = #dd2c00
+$brown = #795548
+$brown-1 = #efebe9
+$brown-2 = #d7ccc8
+$brown-3 = #bcaaa4
+$brown-4 = #a1887f
+$brown-5 = #8d6e63
+$brown-6 = #795548
+$brown-7 = #6d4c41
+$brown-8 = #5d4037
+$brown-9 = #4e342e
+$brown-10 = #3e2723
+$brown-11 = #d7ccc8
+$brown-12 = #bcaaa4
+$brown-13 = #8d6e63
+$brown-14 = #5d4037
+$grey = #9e9e9e
+$grey-1 = #fafafa
+$grey-2 = #f5f5f5
+$grey-3 = #eeeeee
+$grey-4 = #e0e0e0
+$grey-5 = #bdbdbd
+$grey-6 = #9e9e9e
+$grey-7 = #757575
+$grey-8 = #616161
+$grey-9 = #424242
+$grey-10 = #212121
+$grey-11 = #f5f5f5
+$grey-12 = #eeeeee
+$grey-13 = #bdbdbd
+$grey-14 = #616161
+$blue-grey = #607d8b
+$blue-grey-1 = #eceff1
+$blue-grey-2 = #cfd8dc
+$blue-grey-3 = #b0bec5
+$blue-grey-4 = #90a4ae
+$blue-grey-5 = #78909c
+$blue-grey-6 = #607d8b
+$blue-grey-7 = #546e7a
+$blue-grey-8 = #455a64
+$blue-grey-9 = #37474f
+$blue-grey-10 = #263238
+$blue-grey-11 = #cfd8dc
+$blue-grey-12 = #b0bec5
+$blue-grey-13 = #78909c
+$blue-grey-14 = #455a64
+$colors ?= {
+  primary: $primary,
+  secondary: $secondary,
+  tertiary: $tertiary,
+  positive: $positive,
+  negative: $negative,
+  warning: $warning,
+  info: $info,
+  light: $light,
+  dark: $dark,
+  white: $white,
+  red: $red,
+  pink: $pink,
+  purple: $purple,
+  deep-purple: $deep-purple,
+  indigo: $indigo,
+  blue: $blue,
+  light-blue: $light-blue,
+  cyan: $cyan,
+  teal: $teal,
+  green: $green,
+  light-green: $light-green,
+  lime: $lime,
+  yellow: $yellow,
+  amber: $amber,
+  orange: $orange,
+  deep-orange: $deep-orange,
+  brown: $brown,
+  grey: $grey,
+  blue-grey: $blue-grey
+}
+active-color($color)
+  if luminosity($color) > .29
+    darken($color, 10%)
+  else
+    lighten($color, 30%)
+light-active-color($color)
+  if luminosity($color) > .29
+    darken($color, 5%)
+  else
+    lighten($color, 20%)
+dark-active-color($color)
+  if luminosity($color) > .1
+    darken($color, 20%)
+  else
+    lighten($color, 20%)
+hover-color($color)
+  if luminosity($color) > .29
+    darken($color, 15%)
+  else
+    lighten($color, 15%)
+strong-active-color($color)
+  if luminosity($color) > .29
+    darken($color, 20%)
+  else
+    lighten($color, 80%)
+composite-color($color)
+  if luminosity($color) > .29
+    darken($color, 35%)
+  else
+    lighten($color, 65%)
+opposite-non-color($color)
+  if luminosity($color) > .29
+    black
+  else
+    white
+max(value1, value2)
+  if value1 <= value2
+    value2
+  else
+    value1
+*, *:before, *:after
+  box-sizing inherit
+  -webkit-tap-highlight-color transparent
+  -moz-tap-highlight-color transparent
+html, body
+  height 100%
+  width 100%
+html, body, #q-app
+  margin 0
+  box-sizing border-box
+input[type='text'], input[type='email'], input[type='search'], input[type='password']
+  -webkit-appearance none
+  -moz-appearance none /* mobile firefox too! */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+main,
+menu,
+nav,
+section,
+summary
+  display block
+audio:not([controls])
+  display none
+  height 0
+abbr[title]
+  border-bottom none
+  text-decoration underline
+  text-decoration underline dotted
+dfn
+  font-style italic
+img
+  border-style none
+svg:not(:root)
+  overflow hidden
+code, kbd, pre, samp
+  font-family monospace, monospace
+  font-size 1em
+hr
+  box-sizing content-box
+  height 0
+  overflow visible
+button,
+input,
+select,
+textarea
+  font inherit
+  margin 0
+optgroup
+  font-weight bold
+button,
+input,
+select
+  overflow visible
+button::-moz-focus-inner, input::-moz-focus-inner
+  border 0
+  padding 0
+button:-moz-focusring, input:-moz-focusring
+  outline 1px dotted ButtonText
+textarea
+  overflow auto
+input[type='search']
+  -webkit-appearance textfield
+input[type='search']::-webkit-search-cancel-button,
+input[type='search']::-webkit-search-decoration
+  -webkit-appearance none
+/*
+ * Remove browser controller for input type="number"
+ */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button
+  -webkit-appearance none
+$ios-statusbar-height ?= 20px
+$z-marginals      ?= 10
+$z-fab            ?= 20
+$z-drawer         ?= 30
+$z-modal          ?= 40
+$z-popover        ?= 50
+$z-tooltip        ?= 60
+$z-toast          ?= 70
+$z-body-dimmed    ?= 100
+$z-absolute       ?= 200
+$shadow-color ?= black
+$shadow-transition ?= box-shadow .28s cubic-bezier(.4, 0, .2, 1)
+$inset-shadow = 0 7px 9px -7px alpha($shadow-color, .7) inset
+$shadow-1 = 0 1px 3px alpha($shadow-color, .12), 0 1px 2px alpha($shadow-color, .24)
+$shadow-2 = 0 3px 6px alpha($shadow-color, .16), 0 3px 6px alpha($shadow-color, .23)
+$shadow-3 = 0 10px 20px alpha($shadow-color, .19), 0 6px 6px alpha($shadow-color, .23)
+$shadow-4 = 0 14px 28px alpha($shadow-color, .25), 0 10px 10px alpha($shadow-color, .22)
+$shadow-5 = 0 19px 38px alpha($shadow-color, .30), 0 15px 12px alpha($shadow-color, .22)
+$shadow-up-1 = 0 -1px 3px alpha($shadow-color, .12), 0 -1px 2px alpha($shadow-color, .24)
+$shadow-up-2 = 0 -3px 6px alpha($shadow-color, .16), 0 -3px 6px alpha($shadow-color, .23)
+$shadow-up-3 = 0 -10px 20px alpha($shadow-color, .19), 0 -6px 6px alpha($shadow-color, .23)
+$shadow-up-4 = 0 -14px 28px alpha($shadow-color, .25), 0 -10px 10px alpha($shadow-color, .22)
+$shadow-up-5 = 0 -19px 38px alpha($shadow-color, .30), 0 -15px 12px alpha($shadow-color, .22)
+$grid-small-gutter  ?= .5rem
+$grid-medium-gutter ?= 1rem
+$grid-big-gutter    ?= 2.5rem
+$grid-large-gutter  ?= 3.5rem
+$form-darker-color    ?= $grey-5
+$form-lighter-color   ?= $grey-3
+$form-active-color    ?= $primary
+$form-border          ?= 3px solid $form-darker-color
+$form-border-radius   ?= $generic-border-radius
+$form-shadow          ?= 0 1px 3px 1px rgba(0, 0, 0, .4)
+$backdrop-opacity     ?= .3
+$backdrop-background  ?= rgba(0, 0, 0, $backdrop-opacity)
+$generic-margin       ?= 5px
+$action-sheet-avatar-padding   ?= .6rem 1.2rem
+$action-sheet-hover-background ?= #d0d0d0
+.q-action-sheet-gallery
+  > div
+    padding $action-sheet-avatar-padding
+    transition all .3s
+    &:hover, &:focus
+      background $action-sheet-hover-background
+      outline 0
+  i, img
+    font-size 2rem
+    margin-bottom 5px
+  .avatar
+    width 50px
+    height 50px
+$loading-background ?= $dimmed-background
+body.with-loading
+  overflow hidden
+.q-loading
+  background $loading-background
+  > div
+    margin 40px 20px 0
+    max-width 450px
+    text-align center
+    text-shadow 0 0 7px black
+.q-toast-container
+  pointer-events none
+  position fixed
+  left 0
+  right 0
+  bottom 0
+  z-index $z-toast
+  will-change transform
+  transform translateY(101%)
+  transition all .3s ease-in
+  &.active
+    transform translateY(0)
+.q-toast
+  pointer-events all
+  padding 0 24px
+  font-size .9rem
+  > img, > i
+    font-size 1.4rem
+    vertical-align middle
+    margin-right 24px
+    max-height 30px
+    max-width 30px
+    border-radius 50%
+  a
+    padding 10px 0 10px 10px
+    text-align center
+    text-transform uppercase
+    &:active
+      color white
+      text-shadow 0 0 5px white
+    i
+      font-size 1.3rem
+.q-toast-message
+  padding 20px 0
+@media (min-width $layout-medium-min)
+  .q-toast
+    display inline-flex !important
+    font-size 1.1rem
+    border-radius $generic-border-radius
+    max-width $layout-medium-min
+    margin 24px auto 24px 24px
+    box-shadow $shadow-3
+    a
+      i
+        font-size 1.6rem
+      &:first-of-type
+        margin-left 30px
+    > img, > i
+      font-size 2rem
+      margin-right 48px
+$breadcrumb-radius    ?= $generic-border-radius
+$breadcrumb-height    ?= 34px
+$breadcrumb-separator ?= 15px
+$breadcrumb-primary   ?= $primary
+$breadcrumb-secondary ?= lighten($breadcrumb-primary, 10%)
+$breadcrumb-hover     ?= $tertiary
+$breadcrumb-active    ?= darken($breadcrumb-hover, 15%)
+ul.breadcrumb
+  list-style none
+  display inline-flex
+  flex-wrap nowrap
+  margin ($breadcrumb-height / 3) 0 0 0
+  padding 0
+  i
+    font-size 1.7em
+  li
+    float left
+    margin-bottom ($breadcrumb-height / 3)
+    a
+      color white
+      display block
+      background $breadcrumb-primary
+      text-decoration none
+      position relative
+      height $breadcrumb-height
+      line-height $breadcrumb-height
+      padding 0 10px 0 5px
+      text-align center
+      margin-right 23px
+    &:nth-child(even) a
+      background $breadcrumb-secondary
+      &:before
+        border-color $breadcrumb-secondary
+        border-left-color transparent
+      &:after
+        border-left-color $breadcrumb-secondary
+    &:first-child a
+      padding-left $breadcrumb-separator
+      border-radius $breadcrumb-radius 0 0 $breadcrumb-radius
+      &:before
+        border 0
+    &:last-child a
+      padding-right $breadcrumb-separator
+      border-radius 0 $breadcrumb-radius $breadcrumb-radius 0
+      &:after
+        border 0
+    a
+      &:before, &:after
+        content ''
+        position absolute
+        top 0
+        bottom 0
+        border 0 solid $breadcrumb-primary
+        border-width ($breadcrumb-height / 2) 10px
+      &:before
+        left (- $breadcrumb-separator)
+        border-left-color transparent
+      &:after
+        left 100%
+        border-color transparent
+        border-left-color $breadcrumb-primary
+      &:active
+        background $breadcrumb-active
+        &:before
+          border-color $breadcrumb-active
+          border-left-color transparent
+        &:after
+          border-left-color $breadcrumb-active
+body.desktop ul.breadcrumb a
+  &:hover
+    background $breadcrumb-hover
+    &:before
+      border-color $breadcrumb-hover
+      border-left-color transparent
+    &:after
+      border-left-color $breadcrumb-hover
+$button-small-font-size     ?= .75rem
+$button-small-icon-size     ?= (1.5 * $button-small-font-size)
+$button-small-padding       ?= 0 .8rem
+$button-small-min-height    ?= 2rem
+$button-small-circular-size ?= 37px
+$button-font-size           ?= .85rem
+$button-icon-size           ?= (1.5 * $button-font-size)
+$button-padding             ?= 0 1rem
+$button-min-height          ?= 2.4rem
+$button-circular-size       ?= 56px
+$button-big-font-size       ?= 1rem
+$button-big-icon-size       ?= (1.3 * $button-big-font-size)
+$button-big-padding         ?= 0 1.4rem
+$button-big-min-height      ?= 3rem
+$button-big-circular-size   ?= 72px
+$button-border-radius       ?= $generic-border-radius
+$button-box-shadow          ?= $shadow-2
+$button-font-weight         ?= 500
+$button-text-transform      ?= uppercase
+$button-margin              ?= 0
+button
+  user-select none
+  display inline
+  outline 0
+  border 0
+  cursor pointer
+  text-decoration none
+  position relative
+  font-style normal
+  text-align center
+  text-overflow ellipsis
+  white-space nowrap
+  vertical-align middle
+  color inherit
+  background transparent
+  line-height 1
+  transition all .12s ease-in
+  -webkit-appearance button
+  border-radius $button-border-radius
+  text-transform $button-text-transform
+  margin $button-margin
+  padding $button-padding
+  min-height $button-min-height
+  font-weight $button-font-weight
+  font-size $button-font-size
+  i
+    font-size $button-icon-size
+  &.small
+    font-size $button-small-font-size
+    padding $button-small-padding
+    min-height $button-small-min-height
+    &:not(.circular) i
+      font-size $button-small-icon-size
+  &.big
+    font-size $button-big-font-size
+    padding $button-big-padding
+    min-height $button-big-min-height
+    &:not(.circular) i
+      font-size $button-big-icon-size
+  &.round
+    border-radius 64px
+    padding 0 2.6rem
+  &.raised
+    box-shadow $shadow-2
+    &:active:not(.disabled)
+      box-shadow $shadow-3
+  &.bordered
+    border 3px solid
+  &.push
+    transition none
+    box-shadow $shadow-2
+    &:active:not(.disabled)
+      border-bottom 0
+      box-shadow none !important
+    &:not(.circular)
+      border-radius 7px
+  for $name, $color in $colors
+    &.{$name}
+      background $color
+      if $name != 'light' && $name != 'white'
+        color white
+      &:active:not(.disabled)
+        background active-color($color) !important
+      &.outline
+        border 1px solid $color
+      &.glossy
+        border-color darken($color, 10%) darken($color, 15%) darken($color, 15%)
+      if $name != 'light' && $name != 'white'
+        &.clear, &.outline
+          color $color
+          &:active:not(.disabled)
+            background $color !important
+      &.bordered
+        border-color active-color($color)
+      &.push
+        border-bottom 3px solid dark-active-color($color)
+  &.glossy
+    border 1px solid
+    background-image linear-gradient(to bottom, rgba(white, .3), rgba(white, 0) 50%, rgba(black, .12) 51%, rgba(black, .04))
+    &:active:not(.disabled)
+      box-shadow inset 0 1px 3px rgba(black, .2), 0 1px rgba(white, .4)
+  &.clear, &.outline
+    background transparent
+    &:active:not(.disabled)
+      color white
+  &.circular
+    text-align center
+    border-radius 50%
+    padding 0
+    height $button-circular-size
+    width $button-circular-size
+    &.small
+      height $button-small-circular-size
+      width $button-small-circular-size
+    &.big
+      height $button-big-circular-size
+      width $button-big-circular-size
+  &.full-width
+    display block
+    margin-left 0
+    margin-right 0
+    border-radius 0
+body.desktop button
+  &.raised
+    &:not(.disabled)
+      &:hover, &:focus
+        box-shadow $shadow-3
+  for $name, $color in $colors
+    &.{$name}:not(.disabled)
+      &:not(.clear)
+        &:hover, &:focus
+          background hover-color($color)
+          &:not(.push)
+            box-shadow $button-box-shadow
+      &.clear
+        &:hover, &:focus
+          background lighten($color, 70%)
+  &.outline
+    &:hover, &:focus
+      color white
+$card-box-shadow         ?= $shadow-1
+$card-border-radius      ?= 2px
+$card-padding-horizontal ?= 16px
+$card-padding-vertical   ?= 13px
+.card
+  width 100%
+  margin-bottom 20px
+  border-radius $card-border-radius
+  box-shadow $card-box-shadow
+  display block
+  overflow hidden
+  position relative
+  > img, .card-media img
+    display block
+    width 100%
+    max-width 100%
+    border 0
+  .video:first-child, .video:first-child iframe
+    border-radius $card-border-radius $card-border-radius 0 0
+  > ul.collapsible
+    margin 0
+  .list
+    border 0
+    border-top 1px solid rgb(224, 224, 224)
+    border-bottom 1px solid rgb(224, 224, 224)
+    > .item:first-child, > .q-collapsible:first-child
+      margin-top 0
+    > .item:last-child, > .q-collapsible:last-child
+      margin-bottom 0
+.card-content
+  line-height 1.4
+  padding $card-padding-vertical $card-padding-horizontal
+.card-title
+  font-size 1.1rem
+  font-weight 500
+  padding $card-padding-horizontal
+  button
+    margin 0
+.card-actions
+  padding $card-padding-vertical $card-padding-horizontal
+  display flex
+  flex-direction row
+  align-items center
+  font-size 80%
+  > *:not(:last-child)
+    padding-right 8px
+.card-media
+  position relative
+  > button
+    margin 0
+    position absolute
+    bottom - ($button-circular-size / 2)
+    right (2 * $card-padding-horizontal)
+.card-no-top-padding
+  padding-top 0 !important
+.card-force-top-padding
+  padding-top $card-padding-vertical !important
+$chat-font-weight                     ?= 300
+$chat-date-color                      ?= #a6a6a6
+$chat-date-font-size                  ?= .8rem
+$chat-you-date-margin                 ?= -20px 10px 0 0
+$chat-other-date-margin               ?= -20px 0 0 10px
+$chat-message-font-size               ?= 1rem
+$chat-message-offset                  ?= 90px
+$chat-message-you-color               ?= #fff
+$chat-message-other-color             ?= #fff
+$chat-message-you-background    ?= $primary
+$chat-message-other-background  ?= $secondary
+$chat-message-pointer-size            ?= 1rem
+$chat-message-pointer-top             ?= 0
+$chat-message-you-pointer-transform   ?= translateX(50%) skew(125deg)
+$chat-message-other-pointer-transform ?= translateX(-50%) skew(55deg)
+$chat-box-shadow                      ?= 0 2px 6px rgba(0, 0, 0, .3)
+.chat-you, .chat-other
+  margin 45px 0 0
+  font-weight $chat-font-weight
+  .chat-user
+    margin -30px 0 0
+    display block
+    img
+      width 65px
+      height 65px
+      border-radius 50%
+      box-shadow $chat-box-shadow
+  .chat-date
+    font-size $chat-date-font-size
+    color $chat-date-color
+  .chat-message
+    display block
+    p
+      display inline-block
+      padding 10px
+      position relative
+      font-size $chat-message-font-size
+      border-radius $generic-border-radius
+      box-shadow $chat-box-shadow
+      &:after
+        content ''
+        background inherit
+        width $chat-message-pointer-size
+        height .6rem
+        position absolute
+        top 0
+.chat-you
+  .chat-user, .chat-date
+    float right
+  .chat-date
+    margin $chat-you-date-margin
+  .chat-message
+    margin 0 $chat-message-offset 0 0
+    text-align right
+    p
+      margin 0 0 0 auto
+      color $chat-message-you-color
+      background $chat-message-you-background
+      text-align left
+      &:after
+        top $chat-message-pointer-top
+        right 1px
+        bottom auto
+        left auto
+        transform $chat-message-you-pointer-transform
+.chat-other
+  .chat-user, .chat-date
+    float left
+  .chat-date
+    margin $chat-other-date-margin
+  .chat-message
+    margin 0 0 0 $chat-message-offset
+    p
+      color $chat-message-other-color
+      background $chat-message-other-background
+      &:after
+        top $chat-message-pointer-top
+        left 1px
+        bottom auto
+        right auto
+        transform $chat-message-other-pointer-transform
+$table-stripe-color          ?= rgba(0, 0, 0, .07)
+$table-highlight-color       ?= rgba(0, 0, 0, .14)
+$table-border                ?= 1px solid rgba(0, 0, 0, .12)
+table.q-table
+  border-spacing 0
+  empty-cells show
+  thead
+    text-align left
+    vertical-align bottom
+    font-weight 700
+  th, td
+    &:first-child
+      border-left-width 0
+    margin 0
+    overflow visible
+    padding .5rem .7rem
+  &.compact
+    th, td
+      padding .1rem .3rem
+  &.loose
+    th, td
+      padding 1rem
+  &.bordered, &.cell-delimiter:not(.responsive):not(.flipped)
+    border $table-border
+  &:not(.responsive):not(.flipped)
+    &.horizontal-delimiter, &.cell-delimiter
+      th, td
+        border-bottom $table-border
+    &.vertical-delimiter, &.cell-delimiter
+      th, td
+        border-left $table-border
+        &:last-child
+          border-right $table-border
+  &.striped-odd, &.striped
+    tbody tr:nth-child(odd)
+      background $table-stripe-color
+  &.striped-even
+    tbody tr:nth-child(even)
+      background $table-stripe-color
+  &.flipped
+    display flex
+    overflow hidden
+    background none
+    thead
+      display flex
+      flex-shrink 0
+      min-width min-content
+    tbody
+      display flex
+      position relative
+      overflow-x auto
+      overflow-y hidden
+    tr
+      display flex
+      flex-direction column
+      min-width min-content
+      flex-shrink 0
+    td, th
+      display block
+    td
+      background-image none !important
+      border-left 0
+    th:not(:last-child),
+    td:not(:last-child)
+      border-bottom 0
+    &.horizontal-delimiter, &.cell-delimiter
+      tr
+        border-left $table-border
+        border-right $table-border
+    &.vertical-delimiter, &.cell-delimiter
+      th, td
+        border-top $table-border
+        &:last-child
+          border-bottom $table-border
+  @media (max-width $layout-small-max)
+    &.responsive:not(.flipped)
+      thead
+        display none
+      tr, td
+        display block
+      tr
+        position relative
+      td:before
+        content attr(data-th)
+        display block
+        text-align left
+        font-weight bold
+      &.horizontal-delimiter
+        tr:not(:last-child)
+          border-bottom $table-border
+      &.cell-delimiter
+        tr
+          border $table-border
+      &.vertical-delimiter, &.cell-delimiter
+        th, td
+          border-left $table-border
+          border-right $table-border
+body.desktop table.q-table.highlight tbody tr
+  transition all .28s ease-in
+  &:hover
+    background $table-highlight-color
+$label-padding-vertical   ?= .3rem
+$label-padding-horizontal ?= .7rem
+$label-border-radius      ?= $generic-border-radius
+$label-before-transform   ?= translateY(-50%) translateX(50%) rotate(-45deg)
+.label
+  display inline-flex
+  flex-direction row
+  align-items center
+  min-width 10px
+  border-radius $label-border-radius
+  padding $label-padding-vertical $label-padding-horizontal
+  line-height 1
+  white-space nowrap
+  text-align center
+  vertical-align middle
+  > .left-detail, > .right-detail
+    display inline-block
+    vertical-align middle
+    height 100%
+    padding $label-padding-vertical ($label-padding-horizontal / 2)
+    margin (- $label-padding-vertical) ($label-padding-horizontal / 2)
+    background rgba(0, 0, 0, .1)
+    opacity .8
+  > .left-detail
+    margin-left - $label-padding-horizontal
+    padding-left $label-padding-horizontal
+    border-radius $label-border-radius 0 0 $label-border-radius
+  > .right-detail
+    margin-right - $label-padding-horizontal
+    padding-right $label-padding-horizontal
+    border-radius 0 $label-border-radius $label-border-radius 0
+  &.circular
+    border-radius 50%
+  &.floating
+    position absolute
+    z-index 2
+    top -.7rem
+    left 100%
+    margin 0 0 0 -1.5rem !important
+    font-size .7rem
+  &.pointing-up, &.pointing-right, &.pointing-down, &.pointing-left
+    position relative
+    &:before
+      content ''
+      background inherit
+      width .6rem
+      height .6rem
+      position absolute
+      transform translateX(-50%) translateY(-50%) rotate(45deg)
+  &.pointing-up
+    margin-top .8rem
+    &:before
+      top 0
+      left 50%
+  &.pointing-down
+    margin-bottom .8rem
+    &:before
+      right auto
+      top 100%
+      left 50%
+  &.pointing-right
+    margin-right .8rem
+    &:before
+      top 50%
+      right 0
+      bottom auto
+      left auto
+      transform translateX(50%) translateY(-50%) rotate(45deg)
+  &.pointing-left
+    margin-left .8rem
+    &:before
+      top 50%
+      left 0
+      bottom auto
+      right auto
+  &.tag
+    position relative
+    margin-left 1rem
+    padding-left 1.5rem
+    padding-right 1rem
+    &:before, &:after
+      content ''
+      position absolute
+      top 50%
+    &:before
+      right 100%
+      transform $label-before-transform
+      background inherit
+      width 1.14rem
+      height 1.14rem
+      transition none
+    &:after
+      left 0
+      margin-top -.25rem
+      background white
+      width .5rem
+      height .5rem
+      box-shadow 0 -1px 1px 0 rgba(0, 0, 0, .3)
+      border-radius 50%
+  &.chip
+    border-radius 16px
+    padding 0 12px
+    height 32px
+    > i.on-right
+      border-radius 50%
+      cursor pointer
+      background rgba(0, 0, 0, .2)
+      padding 3px
+    img, div
+      float left
+      margin 0 8px 0 -12px
+      height 32px
+      width 32px
+      border-radius 50%
+    div
+      line-height 32px
+      background rgba(0, 0, 0, .2)
+$item-primary-secondary-color ?= rgb(117, 117, 117)
+$item-content-label-color     ?= rgba(0, 0, 0, .87)
+$item-label-color             ?= rgba(0, 0, 0, .54)
+.item
+  height 48px
+  position relative
+  display block
+  margin 0
+  padding 0
+  font-size 16px
+  line-height 16px
+  transition all .45s cubic-bezier(.23, 1, .32, 1) 0ms
+  background none
+  &.active, &.router-link-active, &:focus
+    background rgba(0, 0, 0, .2)
+  &:focus
+    outline 0
+  &.item-link
+    cursor pointer
+    &:active
+      background rgba(0, 0, 0, .3)
+  > .item-primary
+    color $item-primary-secondary-color
+  > div.item-primary
+    position absolute
+    top 0
+    margin 4px 12px
+    height 40px
+    width 40px
+    text-align center
+    line-height 40px
+    padding 0
+    border-radius 50%
+    font-size 20px
+    > *
+      margin-top -4px
+      font-size 24px
+      line-height 30px
+  > i.item-primary
+    position absolute
+    top 0
+    margin 12px
+    left 4px
+    height 24px
+    width 24px
+    font-size 24px
+    line-height 24px
+    border-radius 50%
+  > img.item-primary
+    display inline-flex
+    align-items center
+    justify-content center
+    font-size 20px
+    height 40px
+    width 40px
+    position absolute
+    top 4px
+    left 16px
+    user-select none
+    &:not(.thumbnail)
+      border-radius 50%
+  > .item-content
+    padding 16px 0
+    margin-left 16px
+    margin-right 16px
+    position relative
+    &.inset
+      margin-left 72px
+    &.has-secondary
+      margin-right 72px
+    &:not(.no-style)
+      > span, > div > span
+        color $item-content-label-color
+  > .item-primary ~ .item-content
+    margin-left 72px
+  > .item-secondary
+    color $item-primary-secondary-color
+    position absolute
+    top 0
+    margin 12px
+    right 4px
+    height 24px
+    width 40px
+    line-height 24px
+    font-size 24px
+    text-align right
+    &.stamp
+      width 55px
+      margin-left 0
+      text-align right
+      font-size 12px
+      overflow hidden
+      text-overflow ellipsis
+      white-space nowrap
+  > i.item-secondary
+    width 24px
+  > img.item-secondary
+    margin 4px 12px
+    height 40px
+    &:not(.thumbnail)
+      border-radius 50%
+  > *
+    text-align left
+  &:not(.two-lines):not(.three-lines):not(.multiple-lines) > .item-content > div:not(.stacked-label):not(.floating-label):not([class^='q-'])
+    overflow hidden
+    text-overflow ellipsis
+    white-space nowrap
+  &.two-lines
+    height 72px
+    > .item-primary
+      top 14px
+    > img.item-primary
+      top 18px
+    > .item-secondary
+      top 12px
+      &.stamp
+        top 4px
+    > .item-content
+      padding-top 20px
+      padding-bottom 16px
+      &:not(.no-style)
+        > div:not(.stacked-label):not(.floating-label):not([class^='q-'])
+          overflow hidden
+          text-overflow ellipsis
+          white-space nowrap
+        > div:not(:first-of-type):not([class^='q-'])
+          font-size 14px
+          line-height 16px
+          height 16px
+          margin 4px 0 0
+          color $item-label-color
+  &.three-lines
+    height 88px
+    > .item-primary
+      top 14px
+    > .item-secondary:not(.stamp)
+      top 3px
+    > .item-secondary.stamp + .item-secondary
+      top 30px
+    > .item-content
+      padding-top 16px
+      padding-bottom 16px
+      &:not(.no-style)
+        > div:not(.stacked-label):not(.floating-label):not([class^='q-'])
+          overflow hidden
+          text-overflow ellipsis
+        > div:first-of-type:not([class^='q-'])
+          white-space nowrap
+        > div:not(:first-of-type):not([class^='q-'])
+          font-size 14px
+          line-height 18px
+          height 36px
+          margin 4px 0 0
+          color $item-label-color
+          overflow hidden
+          text-overflow ellipsis
+          display -webkit-box
+          -webkit-line-clamp 2
+          -webkit-box-orient vertical
+  &.multiple-lines
+    height auto
+    > .item-content
+      position static
+      padding-top 16px
+  .item-label
+    color $item-label-color !important
+  .item-smaller
+    font-size 14px
+.item + .item,
+.item + .q-collapsible,
+.q-collapsible + .item,
+.q-collapsible + .q-collapsible
+  &.item-delimiter
+    border-top 1px solid rgb(224, 224, 224)
+  &.item-inset-delimiter
+    &:after
+      content ''
+      position absolute
+      top 0
+      left 72px
+      right 0
+      height 1px
+      background rgb(224, 224, 224)
+body.desktop .item.item-link:hover
+  background rgba(0, 0, 0, .2)
+.list
+  text-align left
+  border 1px solid rgb(224, 224, 224)
+  > .item, > .q-collapsible
+    &:first-child
+      margin-top 8px
+    &:last-child
+      margin-bottom 8px
+  hr
+    margin 8px 0
+    height 1px
+    border 0
+    background-color rgb(224, 224, 224)
+    &.inset
+      margin-left 72px
+    &:last-child
+      visibility hidden
+  .list-label
+    color $item-label-color
+    font-size 14px
+    font-weight 500
+    line-height 48px
+    padding-left 16px
+    width 100%
+    &.inset
+      padding-left 72px
+  hr + .list-label
+    margin-top -8px
+  &.striped .item:nth-child(even)
+    background-color rgba(0, 0, 0, .05)
+  &.highlight .item:hover
+    background-color rgba(0, 0, 0, .1)
+  &.item-delimiter
+    .item + .item,
+    .item + .q-collapsible,
+    .q-collapsible + .item,
+    .q-collapsible + .q-collapsible
+      border-top 1px solid rgb(224, 224, 224)
+  &.item-inset-delimiter
+    .item + .item,
+    .item + .q-collapsible,
+    .q-collapsible + .item,
+    .q-collapsible + .q-collapsible
+      &:after
+        content ''
+        position absolute
+        top 0
+        left 72px
+        right 0
+        height 1px
+        background rgb(224, 224, 224)
+$media-avatar-box-shadow    ?= $shadow-1
+img
+  &.responsive
+    max-width 100%
+    height auto
+  &.avatar
+    width 50px
+    height 50px
+    border-radius 50%
+    box-shadow $media-avatar-box-shadow
+    vertical-align middle
+.video
+  position relative
+  padding-bottom 56.25%
+  height 0
+  overflow hidden
+  iframe, object, embed
+    position absolute
+    top 0
+    left 0
+    width 100%
+    height 100%
+$textfield-border-size        ?= 2px
+$textfield-border-style       ?= solid
+$textfield-border-color       ?= $form-lighter-color
+$textfield-focus-border-color ?= $form-active-color
+$textfield-font-size          ?= .9rem
+$label-font-size              ?= $textfield-font-size
+$textfield-padding-horizontal ?= 0
+$textfield-padding-vertical   ?= 8px
+input, textarea, .textfield
+  &:not(.no-style)
+    background none
+    font-size $textfield-font-size
+    max-width 100%
+    margin-bottom 2px
+    padding $textfield-padding-vertical $textfield-padding-horizontal
+    border 0
+    outline 0
+    transition all .3s
+    border-bottom $textfield-border-size $textfield-border-style $textfield-border-color
+    &:focus, &:hover, .active
+      border-bottom $textfield-border-size $textfield-border-style $textfield-focus-border-color
+    &[disabled], &.disabled
+      border-bottom-color darken($form-darker-color, 20%)
+    &[disabled], &.disabled, &[readonly], &.readonly
+      border-bottom-style dotted
+    &.has-error
+      border-bottom $textfield-border-size $textfield-border-style $has-error !important
+label
+  font-size $label-font-size
+.stacked-label, .floating-label
+  position relative
+  display inline-block
+  width 100%
+  label
+    position absolute
+    pointer-events none
+    top 0
+    left 0
+    transform-origin left top
+    color rgba(0, 0, 0, .54)
+.stacked-label
+  label
+    display block
+    transform scale(.8)
+  input
+    padding-top 1.4rem
+  textarea
+    margin-top 1.4rem
+  input:focus + label, textarea:focus + label
+    color $form-active-color
+.floating-label
+  label
+    bottom $textfield-padding-vertical
+    transition transform .15s ease-in-out, color .3s
+  input + label, textarea + label
+    transform translateY(1.7rem) scale(1)
+  input
+    padding-top 1.45rem
+  textarea
+    margin-top 1.45rem
+  input:focus ~ label, input:valid ~ label, textarea:focus ~ label, textarea:valid ~ label
+    transform translateY(0) scale(.8)
+    color $form-active-color
+$timeline-badge-size         ?= 3rem
+$timeline-item-padding       ?= 0 0 1rem
+$timeline-border-width       ?= .2rem
+$timeline-color              ?= $grey-6
+$timeline-light-color        ?= lighten($timeline-color, 50%)
+.timeline
+  position relative
+  width 100%
+  margin 0 auto
+  &:before
+    content ''
+    position absolute
+    top 0
+    height 100%
+    width $timeline-border-width
+    margin-left -2px
+    background $timeline-light-color
+  for $name, $color in $colors
+    &.{$name}
+      .timeline-badge
+        background $color
+      &.incomplete .timeline-badge
+        background lighten($color, 50%)
+      .timeline-date, .timeline-label
+        color $color
+.timeline-badge
+  width $timeline-badge-size
+  height $timeline-badge-size
+  position absolute
+  top 0
+  border-radius 50%
+  color white
+  background $timeline-color
+  display flex
+  align-items center
+  justify-content center
+  overflow hidden
+  box-shadow 0 0 0 $timeline-border-width $timeline-light-color, $shadow-2
+  i
+    font-size 1.1rem
+  img
+    max-width 100%
+.timeline-title, .timeline-date
+  min-height $timeline-badge-size
+  display flex
+  flex-direction column
+  justify-content center
+.timeline-title
+  font-weight 700
+  margin-bottom 1rem
+.timeline-date
+  color $timeline-color
+.timeline-title + .timeline-date
+  min-height 0
+.timeline-label
+  position relative
+  width 100%
+  color $timeline-color
+.timeline-item
+  position relative
+  padding $timeline-item-padding
+  &:last-child
+    padding-bottom 0
+  &.incomplete
+    .timeline-badge
+      background darken($timeline-light-color, 10%) !important
+    .timeline-date, .timeline-title
+      color darken($timeline-light-color, 10%) !important
+@media only screen and (max-width $layout-small-max)
+  .timeline
+    &:before
+      left ($timeline-badge-size / 2)
+  .timeline-item
+    margin-left (1.3 * $timeline-badge-size)
+  .timeline-date
+    position relative
+  .timeline-badge
+    left (-1.3 * $timeline-badge-size)
+@media only screen and (min-width $layout-medium-min)
+  .timeline:before
+    left 50%
+  .timeline-item
+    width 'calc(50% - %s)' % $timeline-badge-size
+    &:nth-child(odd):not(.on-right), &.on-left
+      .timeline-badge
+        right (- $timeline-badge-size / 2 - $timeline-badge-size)
+      .timeline-title
+        text-align right
+      .timeline-date
+        text-align right
+        left 'calc(100% + %s)' % (2 * $timeline-badge-size)
+    &:nth-child(even):not(.on-left), &.on-right
+      margin-left auto
+      .timeline-badge
+        left (- $timeline-badge-size / 2 - $timeline-badge-size)
+      .timeline-date
+        right 'calc(100% + %s)' % (2 * $timeline-badge-size)
+  .timeline-label
+    text-align center
+.q-loading-bar
+  position fixed
+  z-index $z-absolute
+  transition all .2s cubic-bezier(0, 0, .2, 1)
+  &.top
+    top 0
+    width 100%
+  &.bottom
+    bottom 0
+    width 100%
+  &.right
+    top 0
+    right 0
+    bottom 0
+    height 100%
+  &.left
+    top 0
+    left 0
+    bottom 0
+    height 100%
+  .q-loading-bar-inner
+    width 100%
+    height 100%
+    transition height 1s
+$checkbox-size           ?= $generic-input-size
+$checkbox-border-radius  ?= $generic-border-radius
+$checkbox-border-width   ?= $generic-input-border-width
+$checkbox-tick-thickness ?= 2px
+$checkbox-tick-top        = ($checkbox-size / 6)
+$checkbox-tick-left       = ($checkbox-size / 6)
+$checkbox-tick-width      = (.26 * $checkbox-size)
+$checkbox-tick-height     = (.55 * $checkbox-size)
+.q-checkbox
+  display inline-block
+  height $checkbox-size
+  width $checkbox-size
+  vertical-align middle
+  input
+    display none !important
+  input + div
+    position relative
+    &:before
+      border $checkbox-border-width solid $form-darker-color
+    &:before, &:after
+      content ''
+      position absolute
+      top 0
+      left 0
+      width $checkbox-size
+      height $checkbox-size
+      transition all .3s ease
+      border-radius $checkbox-border-radius
+  input:checked + div
+    &:before
+      background $form-active-color
+      border $checkbox-border-width solid $form-active-color
+    &:after
+      top $checkbox-tick-top
+      left $checkbox-tick-left
+      width $checkbox-tick-width
+      height $checkbox-tick-height
+      border-top none
+      border-left none
+      border-right $checkbox-tick-thickness solid white
+      border-bottom $checkbox-tick-thickness solid white
+      transform rotate(45deg)
+      transform-origin 100% 100%
+      border-radius 0
+  for $name, $color in $colors
+    &.{$name} input:checked + div:before
+      background $color
+      border-color $color
+.q-chips
+  min-height 45px
+  padding-bottom 5px
+  transition all .3s
+  cursor text
+  &.readonly
+    .q-chips-input, i
+      display none
+  .q-chips-input
+    display inline-block
+    white-space nowrap
+  input
+    background none
+    border 0
+    color rgba(0, 0, 0, .6)
+    display inline-block
+    height 32px
+    line-height 32px
+    outline 0
+    padding 0
+    width 120px
+  button
+    cursor pointer
+.q-collapsible-sub-item
+  padding 8px 8px 8px 18px
+  .card
+    margin-bottom 0
+.q-collapsible.router-link-active > .item
+  @extend .item.router-link-active
+$datatable-border    ?= 1px solid $grey-4
+$datatable-font-size ?= 85%
+.q-data-table
+  font-size $datatable-font-size
+  border $datatable-border
+  table
+    width 100%
+    table-layout fixed
+    empty-cells hide
+    tr
+      background white
+    td, th
+      text-overflow ellipsis
+      white-space nowrap
+      overflow hidden
+    tbody tr:nth-child(odd)
+      background $grey-3
+    thead tr
+      border-bottom 2px solid $grey-3
+      min-height 56px
+      th
+        color rgba(0, 0, 0, .54)
+        vertical-align middle
+        &.sortable
+          cursor pointer
+    &:not(.responsive) th
+      border-bottom 2px solid $grey-5 !important
+.q-data-table-toolbar
+  padding .25rem .5rem
+  font-weight 300
+  &.upper-toolbar
+    min-height 50px
+  &.bottom-toolbar
+    border-top 2px solid $grey-3
+  > div:not(:first-of-type):not(:last-of-type)
+    margin 0 30px
+  input, .q-picker-textfield
+    border-bottom 0 !important
+  .q-search
+    width auto
+    margin 0 15px 0 0
+  @media (max-width $layout-small-max)
+    flex-wrap wrap-reverse
+    padding 5px 10px
+    button
+      padding 0 5px
+    > div:not(:first-of-type):not(:last-of-type)
+      margin 10px
+.q-data-table-message
+  min-height 64px
+  i
+    font-size 200%
+    margin 10px
+.q-data-table-title
+  letter-spacing .005rem
+  font-size 120%
+  font-weight 300
+.q-data-table-container
+  position relative
+  overflow hidden
+  margin-top 5px
+.q-data-table-head
+  overflow hidden
+.q-data-table-body
+  overflow auto
+.q-data-table-sticky-left, .q-data-table-sticky-right
+  position absolute
+  top 0
+  pointer-events none
+  overflow hidden
+  th, td
+    &:not(.invisible)
+      pointer-events all
+.q-data-table-sticky-left
+  left 0
+.q-data-table-sticky-right
+  right 0
+.q-data-table-spinner
+  margin-top 25px
+.q-data-table-selection
+  color $primary
+  background alpha($primary, 20%)
+$datetime-color          ?= $primary
+$datetime-range-space    ?= 10px
+.q-datetime
+  color rgba(0, 0, 0, .87)
+  font-size 1rem
+  text-align center
+  user-select none
+  line-height initial
+.q-datetime-header
+  color opposite-non-color($datetime-color)
+  background $datetime-color
+.q-datetime-weekdaystring
+  font-size .8rem
+  background rgba(0, 0, 0, .1)
+  padding 5px 0
+.q-datetime-time
+  padding 10px 0
+div + .q-datetime-time
+  padding-top 0
+.q-datetime-ampm
+  font-size .9rem
+.q-datetime-datestring
+  font-size 2.7rem
+  span.small
+    font-size 1.2rem
+.q-datetime-link
+  cursor pointer
+  opacity .6
+  &.active
+    opacity 1
+.q-datetime-clockstring
+  font-size 2.7rem
+.q-datetime-selector
+  height 330px
+  overflow auto
+.q-datetime-animate
+  animation q-scale-in .4s
+.modal .q-datetime-animate
+  animation initial
+.q-datetime-view-day
+  width 250px
+  height 300px
+.q-datetime-weekdays
+  font-size .75rem
+  margin-top 10px
+  margin-bottom 5px
+  div
+    opacity .6
+    width 35px
+    height 35px
+    line-height 35px
+    margin 0
+    padding 0
+    min-width 0
+    min-height 0
+    background transparent
+.q-datetime-days
+  font-size 12px
+  div
+    width 35px
+    height 35px
+    &:not(.q-datetime-fillerday):not(.disabled)
+      border-radius 50%
+      transition all .3s
+      &:hover
+        background $grey-4
+      &.active
+        animation q-pop-in .5s
+        color opposite-non-color($datetime-color)
+        background $datetime-color
+.q-datetime-view-year, .q-datetime-view-month
+  button
+    font-weight normal
+    text-transform capitalize
+    color rgba(0, 0, 0, .87) !important
+    &.active
+      font-size 1.5rem
+      padding-top 1rem
+      padding-bottom 1rem
+      color $primary !important
+.q-datetime-clock
+  width 250px
+  height 250px
+  border-radius 50%
+  background $grey-4
+  padding 24px
+.q-datetime-clock-circle
+  position relative
+  animation q-pop-in .5s
+.q-datetime-clock-center
+  height 6px
+  width 6px
+  top 0
+  margin auto
+  border-radius 50%
+  min-height 0
+  position absolute
+  left 0
+  right 0
+  bottom 0
+  color opposite-non-color($datetime-color)
+  background $datetime-color
+.q-datetime-clock-pointer
+  width 1px
+  height 50%
+  margin 0 auto
+  transform-origin top center
+  min-height 0
+  position absolute
+  left 0
+  right 0
+  bottom 0
+  background $datetime-color
+  span
+    position absolute
+    border-radius 50%
+    width 8px
+    height 8px
+    bottom -8px
+    left 0
+    min-width 0
+    min-height 0
+    transform translate(-50%, -50%)
+    background $datetime-color
+body.desktop .q-datetime-clock-position:not(.active):hover
+  background $grey-2 !important
+.q-datetime-clock-position
+  position absolute
+  min-height 32px
+  width 32px
+  height 32px
+  font-size 12px
+  line-height 32px
+  margin 0
+  padding 0
+  transform translate(-50%, -50%)
+  border-radius 50%
+  &.active
+    color opposite-non-color($datetime-color)
+    background $datetime-color !important
+for $pos in 0..12
+  $degree = (270 + 30 * $pos)
+  .q-datetime-clock-pos-{$pos}
+    top (((1 + sin($degree * 1deg)) * 100%) / 2)
+    left (((1 + cos($degree * 1deg)) * 100%) / 2)
+.q-datetime-range.full-width
+    display flex
+    > div
+      flex 1 1 auto
+    > div + div
+      margin-left $datetime-range-space
+@media (max-width $layout-medium-max)
+  .q-datetime-ampm
+    margin-left 1.5rem
+  .q-datetime-datestring span
+    margin 10px 5px
+    &.small
+      margin-top 1.3rem
+  .q-datetime
+    width 290px
+    &:not(.no-border) .q-datetime-content
+      border-width 0 1px 1px 1px
+      border-style solid
+      border-color $grey-4
+@media (min-width $layout-big-min)
+  .q-datetime-datestring
+    padding 10px 0
+  .q-datetime-ampm
+    margin-top 5px
+    div
+      margin 2px 0
+  .q-datetime-header
+    width 170px
+    position relative
+  .q-datetime-weekdaystring
+    position absolute
+    top 0
+    left 0
+    right 0
+  .q-datetime-content
+    width 290px
+  .q-datetime
+    width 520px
+    &:not(.no-border) .q-datetime-content
+      border-width 1px 1px 1px 0
+      border-style solid
+      border-color $grey-4
+$drawer-width                  ?= 280px
+$drawer-font-size              ?= 1rem
+$drawer-icon-font-size         ?= 1.8rem
+$drawer-background             ?= white
+$drawer-header-font-size       ?= .9rem
+$drawer-screen-width-threshold ?= $layout-big-min
+$drawer-box-shadow             ?= $shadow-3
+.drawer-backdrop
+  display none
+  z-index $z-drawer
+.drawer-opener
+  z-index ($z-marginals + 1)
+  height 100vh
+  width 15px
+.drawer-content
+  z-index $z-drawer
+  position fixed
+  background $drawer-background
+  top 0
+  bottom 0
+  width $drawer-width
+  font-size $drawer-font-size
+  overflow-y auto
+  -webkit-overflow-scrolling touch
+  will-change scroll-position, transform
+  &.left-side
+    left 0
+    transform translateX(- $drawer-width)
+  &.right-side
+    right 0
+    transform translateX($drawer-width)
+body.cordova.platform-ios .drawer-content
+  padding-top $ios-statusbar-height
+.drawer-header
+  overflow hidden
+  position relative
+  margin-bottom 8px
+  padding 16px
+  font-size $drawer-header-font-size
+  > img
+    position absolute
+    top 0
+    bottom 0
+    left -50%
+    width 100%
+    height 100%
+    transform translateX(50%)
+    z-index -1
+  > div
+    color white
+  .avatar img
+    height 64px
+    width 64px
+    margin-bottom 25px
+    border-radius 50%
+.drawer
+  position relative
+  .list
+    margin 0
+  &.active
+    .drawer-backdrop
+      display block
+    .drawer-opener
+      display none
+@media screen and (min-width $drawer-screen-width-threshold)
+  .hide-on-drawer-visible
+    display none !important
+  .drawer:not(.active):not(.swipe-only)
+    flex 0 0 $drawer-width
+    .drawer-content
+      z-index inherit
+      left 0
+      right 0
+      position absolute !important
+      transform translateX(0) !important
+      box-shadow $drawer-box-shadow
+$fab-size       = (1.2 * $button-circular-size)
+$fab-translate  = 2 * $fab-size
+$fab-margin    ?= 5px
+.q-fab
+  height $fab-size
+  width $fab-size
+  position relative
+  vertical-align middle
+  button
+    margin $fab-margin
+  &.opened
+    z-index $z-fab
+    .q-fab-actions
+      opacity 1
+      transform scaleX(1) scaleY(1) translateX(0) translateY(0)
+      pointer-events all
+    .q-fab-icon
+      transform rotate3d(0, 0, 1, 180deg)
+      opacity 0
+    .q-fab-active-icon
+      transform rotate3d(0, 0, 1, 0deg)
+      opacity 1
+    .backdrop
+      display block
+      background rgba(255, 255, 255, .5)
+.q-fab-icon, .q-fab-active-icon
+  position absolute
+  top 18px
+  left 17px
+  transition opacity .4s, transform .4s
+.q-fab-icon
+  opacity 1
+  transform rotate3d(0, 0, 1, 0deg)
+.q-fab-active-icon
+  opacity 0
+  transform rotate3d(0, 0, 1, -180deg)
+.q-fab-actions
+  position absolute
+  margin 0
+  opacity 0
+  transition all .2s ease-in
+  pointer-events none
+  &.right
+    transform scaleX(.4) scaleY(.4) translateX(- $fab-translate)
+    height $fab-size
+    left $fab-size
+    flex-direction row
+  &.left
+    transform scaleX(.4) scaleY(.4) translateX($fab-translate)
+    height $fab-size
+    right $fab-size
+    flex-direction row-reverse
+  &.up
+    transform scaleX(.4) scaleY(.4) translateY($fab-translate)
+    width $fab-size
+    flex-direction column-reverse
+    justify-content center
+    bottom $fab-size
+    right 0
+  &.down
+    transform scaleX(.4) scaleY(.4) translateY(- $fab-translate)
+    width $fab-size
+    flex-direction column
+    justify-content center
+    top $fab-size
+    left 0
+body.platform-ios .q-fab
+  &[class*='absolute-bottom-'], &[class*='fixed-bottom-']
+    transform translate3d(0, -50px, 0)
+.q-gallery
+  width 100%
+  display flex
+  flex-flow row wrap
+  div
+    flex auto
+    width 150px
+    margin 0 12px 12px 0
+    &.q-gallery-main
+      flex-basis 200%
+  img
+    height auto
+    width 100%
+.q-gallery-slider img
+  height auto
+  width 100%
+.q-gallery-slider-overlay
+  position absolute
+  top 0
+  right 0
+  bottom 0
+  left 0
+  width 100%
+  height 100%
+  display none
+  &.active
+    display block
+.q-gallery-slider-quickview
+  position absolute
+  bottom 0
+  left 0
+  right 0
+  will-change transform
+  transition all .3s
+  transform translateY(101%)
+  width 100%
+  height auto
+  max-height 60%
+  overflow auto
+  background black
+  padding-top .5rem
+  padding-bottom 2.2rem
+  box-shadow 0 -3px 6px rgba(0, 0, 0, .16), 0 -5px 6px rgba(0, 0, 0, .23)
+  text-align center
+  &.active
+    transform translateY(0)
+  img
+    opacity .5
+    will-change opacity
+    transition opacity .3s
+    cursor pointer
+  div
+    margin 1px 2px
+    width 100px
+    display inline-block
+    &.active img, img.active
+      opacity 1
+      border 1px solid white
+body.desktop .q-gallery-slider-quickview img:hover
+  opacity 1
+.q-knob, .q-knob > div
+  position relative
+  display inline-block
+.q-knob-label
+  width 100%
+  pointer-events none
+  position absolute
+  left 0
+  right 0
+  top 0
+  bottom 0
+  i
+    font-size 130%
+$layout-toolbar-min-height ?= 50px
+$layout-header-shadow      ?= $shadow-2
+$layout-footer-shadow      ?= $shadow-up-2
+$toolbar-title-font-size   ?= 1.15rem
+$toolbar-padding           ?= 4px 12px
+.layout
+  position absolute
+  top 0
+  right 0
+  bottom 0
+  left 0
+  height 100%
+  width 100%
+  display flex
+  flex-direction column
+  flex-shrink 0
+  > .q-tabs
+    border-radius 0 !important
+.layout-header
+  box-shadow $layout-header-shadow
+.layout-footer
+  box-shadow $layout-footer-shadow
+.layout-content
+  display flex
+  flex 1 1 auto
+  overflow hidden
+  position relative
+.layout-view
+  overflow auto
+  width 100%
+  -webkit-overflow-scrolling touch
+  will-change scroll-position
+.layout-header, .layout-footer
+  color $toolbar-color
+  background $toolbar-background
+  z-index $z-marginals
+  flex-shrink 0
+.toolbar
+  padding $toolbar-padding
+  min-height $layout-toolbar-min-height
+  display flex
+  overflow hidden
+  flex-direction row
+  align-items center
+  justify-content space-between
+  width 100%
+  position relative
+  color $toolbar-color
+  background $toolbar-background
+  for $name, $color in $colors
+    if $name != 'light' && $name != 'white'
+      &.{$name}
+        color white
+        background $color
+        &.inverted
+          color $color
+    if $name == 'light' || $name == 'white'
+      &.{$name}
+        color composite-color($color)
+        background $color
+        &.inverted
+          color $color
+          background composite-color($color)
+  &.inverted
+    background white
+  > button
+    margin 0 .2rem
+    padding .2rem
+    text-shadow none
+    &:active:not(.disabled)
+      color $toolbar-active-color
+  i
+    line-height 1
+.toolbar-content
+  flex 1
+  min-width 0
+  max-width 100%
+.toolbar-title
+  flex 1
+  align-items center
+  font-size $toolbar-title-font-size
+  font-weight 500
+  > div
+    padding 0 12px
+    width 100%
+    text-overflow ellipsis
+    white-space nowrap
+    overflow hidden
+body
+  &.desktop
+    .layout-header, .layout-footer
+      button:hover i
+        animation q-rotate .25s ease-out
+  &.cordova.platform-ios .layout-header > .toolbar:first-child
+    padding-top $ios-statusbar-height
+    min-height ($layout-toolbar-min-height + $ios-statusbar-height)
+.layout-padding
+  @media only screen and (max-width $layout-small-max)
+    padding 1.5rem .5rem
+    &.horizontal
+      padding 0 .5rem
+  @media only screen and (min-width $layout-medium-min) and (max-width $layout-medium-max)
+    padding 1.5rem 2rem
+    margin auto
+    &.horizontal
+      padding 0 2rem
+  @media only screen and (min-width $layout-big-min) and (max-width $layout-big-max)
+    padding 2.5rem 3rem
+    margin auto
+    &.horizontal
+      padding 0 3rem
+  @media only screen and (min-width $layout-large-min)
+    padding 3rem 4rem
+    margin auto
+    &.horizontal
+      padding 0 4rem
+$modal-background        ?= white
+$modal-border-radius     ?= $generic-border-radius
+$modal-width             ?= 80vw
+$modal-max-width         ?= 1000px
+$modal-height            ?= 80vh
+$modal-max-height        ?= 1000px
+$modal-header-font-size  ?= 1.6rem
+$modal-header-padding    ?= 24px 24px 20px 24px
+$modal-header-text-align ?= left
+$modal-body-text-align   ?= left
+$modal-body-color        ?= rgba(0, 0, 0, .5)
+$modal-body-padding      ?= 0 24px 24px 24px
+$modal-slim-body-padding ?= 0 24px
+$modal-scroll-size       ?= 240px
+$modal-buttons-padding   ?= 8px 8px 12px 24px
+body.with-modal
+  overflow hidden !important
+minimized-modal()
+  max-width 80vw
+  max-height 80vh
+maximized-modal()
+  width 100%
+  height 100%
+  max-width 100%
+  max-height 100%
+  border-radius 0
+.modal-content
+  position relative
+  background $modal-background
+  border-radius $modal-border-radius
+  box-shadow $shadow-4
+  overflow-y auto
+  min-width 280px
+  max-height 80vh
+  .layout
+    width 100%
+    height 100%
+.modal
+  z-index $z-modal
+  &.minimized, &.with-backdrop
+    background $dimmed-background
+  &.minimized .modal-content
+    minimized-modal()
+  &.maximized .modal-content
+    maximized-modal()
+.q-modal-enter, .q-modal-leave-active
+  opacity 0
+@media screen and (min-width $layout-medium-min)
+  .modal:not(.maximized)
+    background $dimmed-background
+    &.q-modal-enter .modal-content
+      transform scale(1.2)
+    &.q-modal-leave-active .modal-content
+      transform scale(.8)
+  .modal.maximized
+    &.q-modal-enter, &.q-modal-leave-active
+      .modal-content
+        transform translateX(101%)
+@media screen and (max-width $layout-small-max)
+  .modal:not(.minimized)
+    .modal-content
+      maximized-modal()
+    &.q-modal-enter, &.q-modal-leave-active
+      .modal-content
+        transform translateX(101%)
+  .modal.minimized
+    &.q-modal-enter .modal-content
+      transform scale(1.2)
+    &.q-modal-leave-active .modal-content
+      transform scale(.8)
+.modal, .modal-content
+  transition all .2s ease-in-out
+.modal-header
+  text-align $modal-header-text-align
+  padding $modal-header-padding
+  font-size $modal-header-font-size
+  font-weight 500
+.modal-body
+  padding $modal-body-padding
+.modal-slim-body
+  padding $modal-slim-body-padding
+.modal-body, .modal-slim-body
+  text-align $modal-body-text-align
+  color $modal-body-color
+.small-modal-scroll, .modal-scroll, .big-modal-scroll
+  overflow auto
+  -webkit-overflow-scrolling touch
+  will-change scroll-position
+.small-modal-scroll
+  max-height (.65 * $modal-scroll-size)
+.modal-scroll
+  max-height $modal-scroll-size
+.big-modal-scroll
+  max-height (2 * $modal-scroll-size)
+.modal-buttons
+  padding $modal-buttons-padding
+  justify-content flex-end
+  &.column
+    align-items flex-end
+.q-modal-bottom-enter, .q-modal-bottom-leave-active
+  opacity 0
+  .modal-content
+    transform translateY(101%)
+.q-modal-top-enter, .q-modal-top-leave-active
+  opacity 0
+  .modal-content
+    transform translateY(-101%)
+.q-modal-right-enter, .q-modal-right-leave-active
+  opacity 0
+  .modal-content
+    transform translateX(101%)
+.q-modal-left-enter, .q-modal-left-leave-active
+  opacity 0
+  .modal-content
+    transform translateX(-101%)
+.q-numeric
+  vertical-align middle
+  padding 0 15px
+  margin-left 5px
+  margin-right 5px
+  i
+    cursor pointer
+    font-size 140%
+  input
+    border 0
+    outline 0
+    margin-left 5px
+    margin-right 5px
+    padding 0
+    background none
+    text-align center
+    transition all .25s ease-in
+    min-width 2rem
+    max-width 100%
+    &[type='number']
+      -moz-appearance textfield
+.q-pagination
+  input
+    text-align center
+    -moz-appearance textfield
+  button
+    padding 0 5px !important
+    &.disabled
+      color $faded
+$paralax-text-shadow ?= 0 0 5px white
+.q-parallax
+  position relative
+  width 100%
+  overflow hidden
+.q-parallax-image
+  position absolute
+  top 0
+  right 0
+  bottom 0
+  left 0
+  img
+    visibility hidden
+    position absolute
+    left 50%
+    bottom 0
+    min-width 100%
+    min-height 100%
+    z-index -1
+    &.ready
+      visibility visible
+.q-parallax-text
+  text-shadow $paralax-text-shadow
+$picker-textfield-min-width ?= 100px
+.q-picker-textfield
+  display inline-block
+  vertical-align middle
+  min-width $picker-textfield-min-width
+  position relative
+  padding-right 17px !important
+  white-space nowrap
+  overflow hidden
+  &:after
+    position absolute
+    bottom 8px
+    right 0
+    transform scaleY(.45) scaleX(.85)
+    content '\25BC'
+  .q-picker-textfield-value
+    height 17px
+    color $faded
+  .q-picker-textfield-label
+    width 100%
+    color $faded
+    transition transform .15s ease-in-out, color .3s
+    transform translateY(1rem) scale(1)
+    pointer-events none
+    transform-origin left top
+  &.with-label
+    .q-picker-textfield-value
+      color rgba(0, 0, 0, 0)
+  &.active
+    .q-picker-textfield-value
+      color inherit
+    .q-picker-textfield-label
+      transform translateY(0) scale(.8)
+      color $form-active-color
+$popover-background   ?= white
+$popover-box-shadow   ?= $shadow-1
+.q-popover
+  position fixed
+  box-shadow $popover-box-shadow
+  background $popover-background
+  z-index $z-popover
+  overflow-y auto
+  overflow-x hidden
+.q-progress-button
+  overflow hidden
+  &.active.indeterminate:before
+    content ''
+    position absolute
+    top 0
+    left 0
+    right 0
+    bottom 0
+    background-image linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent)
+    background-size 40px 40px
+    animation q-progress-stripes 2s linear infinite
+.q-progress-button-content
+  transition all .3s
+  transform translateY(0)
+  &.q-progress-button-complete
+    transform translateY(-3.25rem)
+  &.q-progress-button-incomplete
+    transform translateY(2.75rem)
+.q-progress-button-error,
+.q-progress-button-success
+  position absolute
+  text-align center
+  top 0
+  left 50%
+  div
+    min-height 1.275rem
+    line-height 1.275rem
+.q-progress-button-error
+  transform translateX(-50%) translateY(-3rem)
+.q-progress-button-success
+  transform translateX(-50%) translateY(3rem)
+.q-progress-button-filler
+  transition all .3s
+  position absolute
+  left 0
+  top 0
+  bottom 0
+  height 100%
+  background rgba(255, 255, 255, .25)
+  &.q-progress-button-dark-filler
+    background rgba(0, 0, 0, .2)
+$progress-track-height         ?= 4px
+$progress-track-color          ?= rgba(0, 0, 0, .15)
+$progress-default-track-color  ?= $primary
+$progress-border-radius        ?= $generic-border-radius
+$progress-margin               ?= .5rem 0 1rem 0
+$progress-transition           ?= width .3s linear
+$progress-track-desktop-height ?= 15px
+.q-progress
+  position relative
+  height $progress-track-height
+  display block
+  width 100%
+  border-radius $progress-border-radius
+  background-clip padding-box
+  margin $progress-margin
+  overflow hidden
+  &:not(.indeterminate) .q-progress-model
+    position absolute
+    top 0
+    bottom 0
+    background $primary
+    border-radius $progress-border-radius
+    transition $progress-transition
+  &.animate .q-progress-model
+    animation q-progress-stripes 2s linear infinite
+  &.indeterminate
+    .q-progress-buffer
+      display none
+    .q-progress-model
+      background $progress-default-track-color
+      &:before, &:after
+        content ''
+        position absolute
+        background inherit
+        top 0
+        left 0
+        bottom 0
+        will-change left, right
+      &:before
+        animation q-progress-indeterminate 2.1s cubic-bezier(.65, .815, .735, .395) infinite
+      &:after
+        animation q-progress-indeterminate-short 2.1s cubic-bezier(.165, .84, .44, 1) infinite
+        animation-delay 1.15s
+  &.stripe .q-progress-model
+    &, &:before, &:after
+      background-image linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent)
+      background-size 40px 40px
+  for $name, $color in $colors
+    &.{$name} .q-progress-model
+      background-color $color
+.q-progress-track
+  background $progress-track-color
+  left 0
+  top 0
+.q-progress-buffer
+  right 0
+  top 50%
+  transform translateY(-50%)
+  height 4px
+  background $progress-track-color
+  mask url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+Cjxzdmcgd2lkdGg9IjEyIiBoZWlnaHQ9IjQiIHZpZXdQb3J0PSIwIDAgMTIgNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxlbGxpcHNlIGN4PSIyIiBjeT0iMiIgcng9IjIiIHJ5PSIyIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN4IiBmcm9tPSIyIiB0bz0iLTEwIiBkdXI9IjAuNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogIDwvZWxsaXBzZT4KICA8ZWxsaXBzZSBjeD0iMTQiIGN5PSIyIiByeD0iMiIgcnk9IjIiIGNsYXNzPSJsb2FkZXIiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3giIGZyb209IjE0IiB0bz0iMiIgZHVyPSIwLjZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICA8L2VsbGlwc2U+Cjwvc3ZnPgo=")
+.q-progress-track, .q-progress-buffer
+  transition $progress-transition
+  position absolute
+  bottom 0
+body.desktop .q-progress
+  height $progress-track-desktop-height
+@keyframes q-progress-indeterminate
+  0%
+    left -35%
+    right 100%
+  60%
+    left 100%
+    right -90%
+  100%
+    left 100%
+    right -90%
+@keyframes q-progress-indeterminate-short
+  0%
+    left -200%
+    right 100%
+  60%
+    left 107%
+    right -8%
+  100%
+    left 107%
+    right -8%
+@keyframes q-progress-stripes
+  from
+    background-position 40px 0
+  to
+    background-position 0 0
+$pull-to-refresh-color              ?= $primary
+$pull-to-refresh-font-size          ?= 1rem
+$pull-to-refresh-icon-size          ?= 2rem
+.pull-to-refresh
+  position relative
+  max-height 100vh
+.pull-to-refresh-message
+  height 65px
+  color $pull-to-refresh-color
+  font-size $pull-to-refresh-font-size
+  i
+    font-size $pull-to-refresh-icon-size
+    transition all .3s
+$radio-size         ?= $generic-input-size
+$radio-border-width ?= $generic-input-border-width
+.q-radio
+  display inline-block
+  height $radio-size
+  width $radio-size
+  vertical-align middle
+  input
+    display none !important
+  input + div
+    position relative
+    &:before, &:after
+      content ''
+      position absolute
+      top 0
+      left 0
+      border-radius 50%
+      transition .3s ease
+    &:before
+      width $radio-size
+      height $radio-size
+      border $radio-border-width solid $form-darker-color
+    &:after
+      transform scale(0)
+      margin (3 * $radio-border-width)
+      width ($radio-size - 6 * $radio-border-width)
+      height ($radio-size - 6 * $radio-border-width)
+  input:checked + div
+    &:before
+      border $radio-border-width solid $form-active-color
+    &:after
+      background $form-active-color
+      transform scale(1.02)
+  for $name, $color in $colors
+    &.{$name} input:checked + div
+      &:before
+        border-color $color
+      &:after
+        background $color
+$range-height              ?= 36px
+$range-color               ?= $grey-4
+$range-active-color        ?= $form-active-color
+$range-track-height        ?= 2px
+$range-mark-height         ?= 10px
+$range-handle-size         ?= 20px
+$range-handle-radius       ?= 50%
+.q-range-track
+  position absolute
+  top 50%
+  left 0
+  transform translateY(-50%)
+  height $range-track-height
+  width 100%
+  background $range-color
+  &:not(.dragging)
+    transition all .3s ease
+  &.active-track
+    background $range-active-color
+  &.track-draggable.dragging
+    height ($range-track-height * 2)
+    transition height .3s ease
+  &.handle-at-minimum
+    background transparent
+  &.handle-at-maximum
+    background solid
+.q-range-mark
+  position absolute
+  top 50%
+  height $range-mark-height
+  width 2px
+  background $range-color
+  transform translateX(-50%) translateY(-50%)
+.q-range-handle-container
+  position relative
+  height 100%
+  margin-left ($range-handle-size / 2)
+  margin-right ($range-handle-size / 2)
+.q-range-label
+  position relative
+  top - $range-handle-size * .75
+  left -25%
+  padding 8px 0
+  opacity 0
+  text-align center
+  transform translateY(0) scale(.1)
+  transition all .3s ease
+  width (1.5 * $range-handle-size)
+  height (1.5 * $range-handle-size)
+  font-size ($range-handle-size / 2)
+  line-height ($range-handle-size / 3)
+  color white
+  &:before
+    content ''
+    z-index -1
+    position absolute
+    top (- $range-handle-size * .25)
+    left 0
+    width (1.5 * $range-handle-size)
+    height (1.5 * $range-handle-size)
+    background $range-active-color
+    border-radius 50% 50% 50% 0
+    transform rotate(-45deg)
+  &.label-always
+    opacity 1
+    transform translateY(-50%) scale(1)
+.q-range-handle.undraggable>.q-range-label
+  top (- $range-handle-size - ($range-handle-size * .75))
+.q-range-handle
+  position absolute
+  top 50%
+  transform translate3d(-50%, -50%, 0) scale(.67)
+  transform-origin center
+  transition all .3s ease
+  width $range-handle-size
+  height $range-handle-size
+  border-radius $range-handle-radius
+  box-sizing content-box
+  &.dragging
+    transform translate3d(-50%, -50%, 0) scale(1)
+    transition opacity .3s ease, transform .3s ease
+    .q-range-label
+      opacity 1
+      transform translateY(-50%) scale(1)
+  &:not(.undraggable)
+    background $range-active-color
+    &.handle-at-minimum
+      background white
+      border 2px solid $range-color
+      .q-range-label
+        color black
+        &:before
+          background $range-color
+  &.undraggable
+    background transparent
+    &.handle-at-minimum
+      .q-range-label
+        color black
+        &:before
+          background $range-color
+    &:before
+      content ''
+      display block
+      width 0
+      height 0
+      border-top ($range-handle-size / 2) solid transparent
+      border-bottom ($range-handle-size / 2) solid transparent
+.q-range-handle-min.undraggable:before
+  border-left $range-handle-size solid $range-active-color
+  margin-left ($range-handle-size * .35)
+.q-range-handle-min.handle-at-minimum.undraggable:before
+  border-left-color $range-color
+.q-range-handle-max.undraggable:before
+  border-right $range-handle-size solid $range-active-color
+  margin-left ($range-handle-size * -.35)
+.q-range
+  height $range-height
+  width 100%
+  cursor pointer
+  for $name, $color in $colors
+    &.{$name}
+      .q-range-track.active-track,
+      .q-range-handle:not(.handle-at-minimum)
+        background $color
+        .q-range-label
+          &:before
+            background $color
+          if luminosity($color) > .3
+            color black
+  &.has-error
+    .q-range-track
+      background alpha($has-error, 50%)
+    .q-range-track.active-track,
+    .q-range-handle:not(.handle-at-minimum)
+      background $has-error
+$rating-grade-color            ?= $grey-4
+$rating-grade-exselected-color ?= $grey-5
+$rating-active-grade-color     ?= $yellow
+$rating-shadow                 ?= $shadow-1
+.q-rating
+  i
+    color $rating-grade-color
+    text-shadow $rating-shadow
+    position relative
+    cursor default
+  i + i
+    margin-left .3rem
+  i.active
+    color $rating-active-grade-color
+  i.hovered
+    transform scale(1.3)
+  i.exselected
+    color $rating-grade-exselected-color
+  for $name, $color in $colors
+    &.{$name} i.active
+      color $color
+  &.editable i
+    cursor pointer
+.q-search-input-container
+  position relative
+  flex-shrink 1
+  width 100%
+.q-search-icon, .q-search-clear
+  position absolute
+  top 0
+  padding 0
+  margin 0
+  min-height 0
+  width 24px
+  height 100%
+.q-search-icon
+  left 10px
+  pointer-events none
+.q-search-clear
+  right 15px
+.q-search-input
+  padding 0 45px
+  height 38px
+  border-radius $generic-border-radius
+  font-weight 400
+  box-shadow $shadow-1
+  width 100%
+  border 0
+  outline 0
+  font-size 1rem
+  line-height 1
+  background white
+  transition all .2s ease
+.q-search
+  display flex
+  align-items center
+  background inherit
+  width 100%
+  color $grey-5
+  button
+    text-shadow none
+  for $name, $color in $colors
+    &.{$name}
+      if $name != 'light' && $name != 'white'
+        color white
+      .q-search-input
+        background active-color($color)
+        if $name != 'light' && $name != 'white'
+          color white
+          &::-webkit-input-placeholder
+            color $grey-4
+          &::-moz-placeholder
+            color $grey-4
+          &:-ms-input-placeholder
+            color $grey-4
+  &.has-error
+    color opposite-non-color($has-error)
+    .q-search-input
+      background $has-error
+body.desktop .q-search
+  for $name, $color in $colors
+    &.{$name} .q-search-input:hover
+      background light-active-color($color)
+  &.has-error .q-search-input:hover
+      background light-active-color($has-error)
+.q-select-container
+  display inline-block
+  vertical-align middle
+.q-select
+  display inline-block
+  height 2.1875rem
+.q-select-popover label
+  white-space nowrap
+$slider-min-height       ?= 200px
+$slider-padding          ?= 2.3rem
+$slider-arrow-size       ?= 2rem
+$slider-ovelay-color     ?= rgba(0, 0, 0, .3)
+$slider-opacity          ?= .6
+$slider-opacity-active   ?= 1
+$slider-button-size      ?= 1.5rem
+$slider-dots-size        ?= .9rem
+.q-slider
+  overflow hidden
+  &.fullscreen
+    z-index $z-absolute
+.q-slider-inner
+  position relative
+  height 100%
+.q-slider-track
+  white-space nowrap
+  padding 0
+  margin 0
+  will-change transform
+  display flex
+  flex-wrap nowrap
+  height 100%
+  > div
+    flex 0 0 100%
+    min-height $slider-min-height
+    margin 0
+    padding $slider-padding
+    &.centered
+      display flex
+      flex-direction column
+      align-items center
+      justify-content center
+  &.with-arrows
+    > div
+      padding-left 10%
+      padding-right 10%
+  &.with-toolbar
+    > div
+      padding-bottom ($slider-padding + 1rem)
+  &.infinite-left > div:nth-last-child(2)
+    order -1000
+    margin-left -100%
+  &.infinite-right > div:nth-child(2)
+    order 1000
+.q-slider-left-button,
+.q-slider-right-button
+  position absolute
+  top 0
+  bottom 0
+  font-size $slider-arrow-size
+  width 10%
+  max-width 70px
+  pointer-events none
+  i
+    cursor pointer
+    pointer-events all
+    padding 3px
+    border-radius 50%
+    background $slider-ovelay-color
+    opacity $slider-opacity
+    transition opacity .3s
+    &:hover
+      opacity $slider-opacity-active
+.q-slider-left-button
+  left 0
+.q-slider-right-button
+  right 0
+.q-slider-toolbar
+  position absolute
+  bottom 0
+  left 0
+  right 0
+  margin 0
+  opacity $slider-opacity
+  padding .5rem .8rem
+  transition opacity .3s
+  i
+    cursor pointer
+    padding 5px
+    font-size $slider-button-size
+  .q-slider-dots i
+    font-size $slider-dots-size
+.q-spinner
+  vertical-align middle
+$tabs-order                   ?= -9
+$tabs-padding                 ?= 6px 10px
+$tabs-big-screen-side-padding ?= 12px
+$tabs-color                   ?= $toolbar-faded-color
+$tabs-active-color            ?= $toolbar-color
+$tabs-background              ?= $toolbar-background
+$tabs-highlight-color         ?= opposite-non-color($tabs-background)
+$tabs-min-height              ?= 47px
+$tabs-font-size               ?= .95rem
+$tabs-icon-font-size          ?= 1.5rem
+$tabs-font-weight             ?= 500
+$tabs-text-transform          ?= uppercase
+$tabs-border-bottom           ?= 2px solid transparent
+$tabs-active-border-bottom    ?= 2px solid $tabs-active-color
+.q-tabs-scroller
+  overflow hidden
+.q-tab
+  display flex
+  flex-direction column
+  min-height $tabs-min-height
+  padding $tabs-padding
+  cursor pointer
+  transition all .3s
+  white-space nowrap
+  user-select none
+  .q-tabs-icon
+    font-size $tabs-icon-font-size
+  &.active
+    color $tabs-active-color
+    border-bottom $tabs-active-border-bottom
+  &:active
+    background $tabs-highlight-color
+  text-transform $tabs-text-transform
+  border-bottom $tabs-border-bottom
+@media only screen and (max-width $layout-small-max)
+  .q-tab
+    &.hideIcon .q-tabs-icon,
+    &.hideLabel .q-tab-label
+      display none !important
+@media only screen and (max-width $layout-medium-max)
+  .q-tabs:not(.scrollable)
+    .q-tabs-scroller, .q-tab
+      flex 1 1 auto
+@media only screen and (min-width $layout-big-min)
+  .q-tabs:not(.scrollable)
+    padding-left $tabs-big-screen-side-padding
+    padding-right $tabs-big-screen-side-padding
+.q-tabs
+  min-height $tabs-min-height
+  overflow hidden
+  color $tabs-color
+  background $tabs-background
+  font-size $tabs-font-size
+  font-weight $tabs-font-weight
+  transition color .18s ease-in, box-shadow .18s ease-in
+  border-radius $generic-border-radius
+  position relative
+  &:not(.scrollable)
+    .left-scroll, .right-scroll
+      display none !important
+  .left-scroll, .right-scroll
+    position absolute
+    height 100%
+    min-width 25px
+    cursor pointer
+    color white
+    text-shadow 0 0 10px black
+    font-size (1.4 * $tabs-icon-font-size)
+    &.disabled
+      visibility hidden
+  .left-scroll
+    left 0
+  .right-scroll
+    right 0
+  &.inverted
+    background white
+    border-radius 0
+  &.justified
+    .q-tabs-scroller, .q-tab
+      flex 1 1 auto
+  for $name, $color in $colors
+    if $name == 'light' || $name == 'white'
+      &.{$name}
+        color composite-color($color)
+        background $color
+        .q-tab
+          &.active, &:active
+            color $grey-8
+            border-bottom 2px solid $grey-8
+          &:active
+            background $grey-8
+        &.inverted
+          color $color
+          background composite-color($color)
+          .q-tab
+            &.active, &:active
+              color white
+              border-bottom 2px solid white
+            &:active
+              background white
+    if $name != 'light' && $name != 'white'
+      &.{$name}
+        &.inverted
+          color lighten($color, 30%)
+        &:not(.inverted)
+          color composite-color($color)
+          background $color
+        &.inverted .q-tab
+          &.active, &:active
+            color $color
+            border-bottom 2px solid $color
+          &:active
+            background-color $color
+        &:not(.inverted) .q-tab
+          &.active, &:active
+            color white
+            border-bottom 2px solid white
+          &:active
+            background white
+body.mobile .q-tabs-scroller
+  overflow-y hidden
+  overflow-x auto
+  will-change scroll-position
+  -webkit-overflow-scrolling touch
+$toggle-size             ?= $generic-input-size
+$toggle-width-factor     ?= 1.8
+$toggle-height           = $toggle-size
+$toggle-width            = $toggle-width-factor * $toggle-size
+$toggle-handle-size      = $toggle-size
+$toggle-area-width       = $toggle-width
+$toggle-area-active-left = ($toggle-width - $toggle-handle-size)
+.q-toggle
+  display inline-block
+  height $toggle-height
+  width $toggle-width
+  vertical-align middle
+  position relative
+  input
+    display none
+  i
+    color $grey-7
+    line-height $toggle-size
+    font-size (.65 * $toggle-size)
+    position absolute
+    top 0
+    bottom 0
+    left (.25 * $toggle-handle-size)
+    transition all .3s ease
+  div
+    position relative
+    &:before, &:after
+      content ''
+      position absolute
+      transition all .3s ease
+    &:before
+      vertical-align middle
+      top (.15 * $toggle-height)
+      left 0
+      width $toggle-area-width
+      height (.7 * $toggle-height)
+      border-radius 16px
+      background $form-lighter-color
+    &:after
+      border-radius 50%
+      top 0
+      left 2px
+      width $toggle-handle-size
+      height $toggle-handle-size
+      background white
+      box-shadow $form-shadow
+      transform translateX(0)
+  input:checked + div
+    &:before
+      background lighten($form-active-color, 60%)
+    &:after
+      transform translateX(($toggle-area-active-left - 2px))
+      background $form-active-color
+  input:checked ~ i
+    color white
+    transform translateX(($toggle-area-active-left - 1.6px))
+  for $name, $color in $colors
+    &.{$name} input:checked + div
+      &:before
+        background lighten($color, 60%)
+      &:after
+        background $color
+$tooltip-color         ?= #fafafa
+$tooltip-background    ?= #747474
+$tooltip-box-shadow    ?= $shadow-1
+$tooltip-padding       ?= 10px
+$tooltip-border-radius ?= $generic-border-radius
+.q-tooltip
+  position fixed
+  color $tooltip-color
+  background $tooltip-background
+  box-shadow $tooltip-box-shadow
+  z-index $z-tooltip
+  padding $tooltip-padding
+  border-radius $tooltip-border-radius
+  overflow-y auto
+  overflow-x hidden
+  pointer-events none
+$tree-connector-color            ?= #ccc
+$tree-label-padding              ?= 5px
+$tree-label-border-radius        ?= $generic-border-radius
+$tree-highlight-color            ?= inherit
+$tree-highlight-background       ?= $tree-connector-color
+.q-tree
+  li
+    margin 0
+    list-style-type none
+    position relative
+    padding 10px 5px 0
+    &:before
+      content ''
+      position absolute
+      top 0
+      width 1px
+      height 100%
+      right auto
+      left -15px
+      border-left 1px solid $tree-connector-color
+      bottom 50px
+    &:after
+      content ''
+      position absolute
+      top 20px
+      width 20px
+      height 20px
+      right auto
+      left -15px
+      border-top 1px solid $tree-connector-color
+    &:last-child:before
+      height 20px
+
+  > ul > li
+    &:after, &:before
+      border 0
+.q-tree-expandable-item, .q-tree-link
+  display inline-block
+  cursor pointer
+  .q-tree-label:active
+    color $tree-highlight-color
+    background $tree-highlight-background
+.q-tree-expandable-item span:nth-child(2) i
+  color $tree-connector-color
+body.desktop
+  .q-tree-expandable-item, .q-tree-link
+    .q-tree-label:hover
+      color $tree-highlight-color
+      background $tree-highlight-background
+.q-tree-label
+  padding $tree-label-padding
+  border-radius $tree-label-border-radius
+$uploader-font-size          ?= .8rem
+$uploader-progressbar-height ?= 3px
+$uploader-img-max-height     ?= 200px
+$uploader-file-max-width     ?= 200px
+$uploader-failed-color       ?= white
+$uploader-failed-background  ?= $negative
+.q-uploader
+  .card
+    max-width $uploader-file-max-width
+    img
+      max-height $uploader-img-max-height
+  .card-title, .card-content
+    font-size $uploader-font-size
+  .card-content
+    padding 10px
+  input
+    display none
+  .q-progress
+    margin 0
+    height $uploader-progressbar-height !important
+  .q-spinner
+    margin 0 10px
+.q-uploader-failed
+  background $uploader-failed-background
+  color $uploader-failed-color
+  padding 10px 0
+  text-align center
+.text-primary
+  color $primary !important
+.bg-primary
+  background $primary !important
+.text-secondary
+  color $secondary !important
+.bg-secondary
+  background $secondary !important
+.text-tertiary
+  color $tertiary !important
+.bg-tertiary
+  background $tertiary !important
+.text-faded
+  color $faded !important
+.bg-faded
+  background $faded !important
+.text-positive
+  color $positive !important
+.bg-positive
+  background $positive !important
+.text-negative
+  color $negative !important
+.bg-negative
+  background $negative !important
+.text-info
+  color $info !important
+.bg-info
+  background $info !important
+.text-warning
+  color $warning !important
+.bg-warning
+  background $warning !important
+.text-white
+  color white !important
+.bg-white
+  background white !important
+.text-black
+  color black !important
+.bg-black
+  background black !important
+.text-light
+  color $light !important
+.bg-light
+  background $light !important
+.text-dark
+  color $dark !important
+.bg-dark
+  background $dark !important
+.text-red
+  color $red !important
+.text-red-1
+  color $red-1 !important
+.text-red-2
+  color $red-2 !important
+.text-red-3
+  color $red-3 !important
+.text-red-4
+  color $red-4 !important
+.text-red-5
+  color $red-5 !important
+.text-red-6
+  color $red-6 !important
+.text-red-7
+  color $red-7 !important
+.text-red-8
+  color $red-8 !important
+.text-red-9
+  color $red-9 !important
+.text-red-10
+  color $red-10 !important
+.text-red-11
+  color $red-11 !important
+.text-red-12
+  color $red-12 !important
+.text-red-13
+  color $red-13 !important
+.text-red-14
+  color $red-14 !important
+.text-pink
+  color $pink !important
+.text-pink-1
+  color $pink-1 !important
+.text-pink-2
+  color $pink-2 !important
+.text-pink-3
+  color $pink-3 !important
+.text-pink-4
+  color $pink-4 !important
+.text-pink-5
+  color $pink-5 !important
+.text-pink-6
+  color $pink-6 !important
+.text-pink-7
+  color $pink-7 !important
+.text-pink-8
+  color $pink-8 !important
+.text-pink-9
+  color $pink-9 !important
+.text-pink-10
+  color $pink-10 !important
+.text-pink-11
+  color $pink-11 !important
+.text-pink-12
+  color $pink-12 !important
+.text-pink-13
+  color $pink-13 !important
+.text-pink-14
+  color $pink-14 !important
+.text-purple
+  color $purple !important
+.text-purple-1
+  color $purple-1 !important
+.text-purple-2
+  color $purple-2 !important
+.text-purple-3
+  color $purple-3 !important
+.text-purple-4
+  color $purple-4 !important
+.text-purple-5
+  color $purple-5 !important
+.text-purple-6
+  color $purple-6 !important
+.text-purple-7
+  color $purple-7 !important
+.text-purple-8
+  color $purple-8 !important
+.text-purple-9
+  color $purple-9 !important
+.text-purple-10
+  color $purple-10 !important
+.text-purple-11
+  color $purple-11 !important
+.text-purple-12
+  color $purple-12 !important
+.text-purple-13
+  color $purple-13 !important
+.text-purple-14
+  color $purple-14 !important
+.text-deep-purple
+  color $deep-purple !important
+.text-deep-purple-1
+  color $deep-purple-1 !important
+.text-deep-purple-2
+  color $deep-purple-2 !important
+.text-deep-purple-3
+  color $deep-purple-3 !important
+.text-deep-purple-4
+  color $deep-purple-4 !important
+.text-deep-purple-5
+  color $deep-purple-5 !important
+.text-deep-purple-6
+  color $deep-purple-6 !important
+.text-deep-purple-7
+  color $deep-purple-7 !important
+.text-deep-purple-8
+  color $deep-purple-8 !important
+.text-deep-purple-9
+  color $deep-purple-9 !important
+.text-deep-purple-10
+  color $deep-purple-10 !important
+.text-deep-purple-11
+  color $deep-purple-11 !important
+.text-deep-purple-12
+  color $deep-purple-12 !important
+.text-deep-purple-13
+  color $deep-purple-13 !important
+.text-deep-purple-14
+  color $deep-purple-14 !important
+.text-indigo
+  color $indigo !important
+.text-indigo-1
+  color $indigo-1 !important
+.text-indigo-2
+  color $indigo-2 !important
+.text-indigo-3
+  color $indigo-3 !important
+.text-indigo-4
+  color $indigo-4 !important
+.text-indigo-5
+  color $indigo-5 !important
+.text-indigo-6
+  color $indigo-6 !important
+.text-indigo-7
+  color $indigo-7 !important
+.text-indigo-8
+  color $indigo-8 !important
+.text-indigo-9
+  color $indigo-9 !important
+.text-indigo-10
+  color $indigo-10 !important
+.text-indigo-11
+  color $indigo-11 !important
+.text-indigo-12
+  color $indigo-12 !important
+.text-indigo-13
+  color $indigo-13 !important
+.text-indigo-14
+  color $indigo-14 !important
+.text-blue
+  color $blue !important
+.text-blue-1
+  color $blue-1 !important
+.text-blue-2
+  color $blue-2 !important
+.text-blue-3
+  color $blue-3 !important
+.text-blue-4
+  color $blue-4 !important
+.text-blue-5
+  color $blue-5 !important
+.text-blue-6
+  color $blue-6 !important
+.text-blue-7
+  color $blue-7 !important
+.text-blue-8
+  color $blue-8 !important
+.text-blue-9
+  color $blue-9 !important
+.text-blue-10
+  color $blue-10 !important
+.text-blue-11
+  color $blue-11 !important
+.text-blue-12
+  color $blue-12 !important
+.text-blue-13
+  color $blue-13 !important
+.text-blue-14
+  color $blue-14 !important
+.text-light-blue
+  color $light-blue !important
+.text-light-blue-1
+  color $light-blue-1 !important
+.text-light-blue-2
+  color $light-blue-2 !important
+.text-light-blue-3
+  color $light-blue-3 !important
+.text-light-blue-4
+  color $light-blue-4 !important
+.text-light-blue-5
+  color $light-blue-5 !important
+.text-light-blue-6
+  color $light-blue-6 !important
+.text-light-blue-7
+  color $light-blue-7 !important
+.text-light-blue-8
+  color $light-blue-8 !important
+.text-light-blue-9
+  color $light-blue-9 !important
+.text-light-blue-10
+  color $light-blue-10 !important
+.text-light-blue-11
+  color $light-blue-11 !important
+.text-light-blue-12
+  color $light-blue-12 !important
+.text-light-blue-13
+  color $light-blue-13 !important
+.text-light-blue-14
+  color $light-blue-14 !important
+.text-cyan
+  color $cyan !important
+.text-cyan-1
+  color $cyan-1 !important
+.text-cyan-2
+  color $cyan-2 !important
+.text-cyan-3
+  color $cyan-3 !important
+.text-cyan-4
+  color $cyan-4 !important
+.text-cyan-5
+  color $cyan-5 !important
+.text-cyan-6
+  color $cyan-6 !important
+.text-cyan-7
+  color $cyan-7 !important
+.text-cyan-8
+  color $cyan-8 !important
+.text-cyan-9
+  color $cyan-9 !important
+.text-cyan-10
+  color $cyan-10 !important
+.text-cyan-11
+  color $cyan-11 !important
+.text-cyan-12
+  color $cyan-12 !important
+.text-cyan-13
+  color $cyan-13 !important
+.text-cyan-14
+  color $cyan-14 !important
+.text-teal
+  color $teal !important
+.text-teal-1
+  color $teal-1 !important
+.text-teal-2
+  color $teal-2 !important
+.text-teal-3
+  color $teal-3 !important
+.text-teal-4
+  color $teal-4 !important
+.text-teal-5
+  color $teal-5 !important
+.text-teal-6
+  color $teal-6 !important
+.text-teal-7
+  color $teal-7 !important
+.text-teal-8
+  color $teal-8 !important
+.text-teal-9
+  color $teal-9 !important
+.text-teal-10
+  color $teal-10 !important
+.text-teal-11
+  color $teal-11 !important
+.text-teal-12
+  color $teal-12 !important
+.text-teal-13
+  color $teal-13 !important
+.text-teal-14
+  color $teal-14 !important
+.text-green
+  color $green !important
+.text-green-1
+  color $green-1 !important
+.text-green-2
+  color $green-2 !important
+.text-green-3
+  color $green-3 !important
+.text-green-4
+  color $green-4 !important
+.text-green-5
+  color $green-5 !important
+.text-green-6
+  color $green-6 !important
+.text-green-7
+  color $green-7 !important
+.text-green-8
+  color $green-8 !important
+.text-green-9
+  color $green-9 !important
+.text-green-10
+  color $green-10 !important
+.text-green-11
+  color $green-11 !important
+.text-green-12
+  color $green-12 !important
+.text-green-13
+  color $green-13 !important
+.text-green-14
+  color $green-14 !important
+.text-light-green
+  color $light-green !important
+.text-light-green-1
+  color $light-green-1 !important
+.text-light-green-2
+  color $light-green-2 !important
+.text-light-green-3
+  color $light-green-3 !important
+.text-light-green-4
+  color $light-green-4 !important
+.text-light-green-5
+  color $light-green-5 !important
+.text-light-green-6
+  color $light-green-6 !important
+.text-light-green-7
+  color $light-green-7 !important
+.text-light-green-8
+  color $light-green-8 !important
+.text-light-green-9
+  color $light-green-9 !important
+.text-light-green-10
+  color $light-green-10 !important
+.text-light-green-11
+  color $light-green-11 !important
+.text-light-green-12
+  color $light-green-12 !important
+.text-light-green-13
+  color $light-green-13 !important
+.text-light-green-14
+  color $light-green-14 !important
+.text-lime
+  color $lime !important
+.text-lime-1
+  color $lime-1 !important
+.text-lime-2
+  color $lime-2 !important
+.text-lime-3
+  color $lime-3 !important
+.text-lime-4
+  color $lime-4 !important
+.text-lime-5
+  color $lime-5 !important
+.text-lime-6
+  color $lime-6 !important
+.text-lime-7
+  color $lime-7 !important
+.text-lime-8
+  color $lime-8 !important
+.text-lime-9
+  color $lime-9 !important
+.text-lime-10
+  color $lime-10 !important
+.text-lime-11
+  color $lime-11 !important
+.text-lime-12
+  color $lime-12 !important
+.text-lime-13
+  color $lime-13 !important
+.text-lime-14
+  color $lime-14 !important
+.text-yellow
+  color $yellow !important
+.text-yellow-1
+  color $yellow-1 !important
+.text-yellow-2
+  color $yellow-2 !important
+.text-yellow-3
+  color $yellow-3 !important
+.text-yellow-4
+  color $yellow-4 !important
+.text-yellow-5
+  color $yellow-5 !important
+.text-yellow-6
+  color $yellow-6 !important
+.text-yellow-7
+  color $yellow-7 !important
+.text-yellow-8
+  color $yellow-8 !important
+.text-yellow-9
+  color $yellow-9 !important
+.text-yellow-10
+  color $yellow-10 !important
+.text-yellow-11
+  color $yellow-11 !important
+.text-yellow-12
+  color $yellow-12 !important
+.text-yellow-13
+  color $yellow-13 !important
+.text-yellow-14
+  color $yellow-14 !important
+.text-amber
+  color $amber !important
+.text-amber-1
+  color $amber-1 !important
+.text-amber-2
+  color $amber-2 !important
+.text-amber-3
+  color $amber-3 !important
+.text-amber-4
+  color $amber-4 !important
+.text-amber-5
+  color $amber-5 !important
+.text-amber-6
+  color $amber-6 !important
+.text-amber-7
+  color $amber-7 !important
+.text-amber-8
+  color $amber-8 !important
+.text-amber-9
+  color $amber-9 !important
+.text-amber-10
+  color $amber-10 !important
+.text-amber-11
+  color $amber-11 !important
+.text-amber-12
+  color $amber-12 !important
+.text-amber-13
+  color $amber-13 !important
+.text-amber-14
+  color $amber-14 !important
+.text-orange
+  color $orange !important
+.text-orange-1
+  color $orange-1 !important
+.text-orange-2
+  color $orange-2 !important
+.text-orange-3
+  color $orange-3 !important
+.text-orange-4
+  color $orange-4 !important
+.text-orange-5
+  color $orange-5 !important
+.text-orange-6
+  color $orange-6 !important
+.text-orange-7
+  color $orange-7 !important
+.text-orange-8
+  color $orange-8 !important
+.text-orange-9
+  color $orange-9 !important
+.text-orange-10
+  color $orange-10 !important
+.text-orange-11
+  color $orange-11 !important
+.text-orange-12
+  color $orange-12 !important
+.text-orange-13
+  color $orange-13 !important
+.text-orange-14
+  color $orange-14 !important
+.text-deep-orange
+  color $deep-orange !important
+.text-deep-orange-1
+  color $deep-orange-1 !important
+.text-deep-orange-2
+  color $deep-orange-2 !important
+.text-deep-orange-3
+  color $deep-orange-3 !important
+.text-deep-orange-4
+  color $deep-orange-4 !important
+.text-deep-orange-5
+  color $deep-orange-5 !important
+.text-deep-orange-6
+  color $deep-orange-6 !important
+.text-deep-orange-7
+  color $deep-orange-7 !important
+.text-deep-orange-8
+  color $deep-orange-8 !important
+.text-deep-orange-9
+  color $deep-orange-9 !important
+.text-deep-orange-10
+  color $deep-orange-10 !important
+.text-deep-orange-11
+  color $deep-orange-11 !important
+.text-deep-orange-12
+  color $deep-orange-12 !important
+.text-deep-orange-13
+  color $deep-orange-13 !important
+.text-deep-orange-14
+  color $deep-orange-14 !important
+.text-brown
+  color $brown !important
+.text-brown-1
+  color $brown-1 !important
+.text-brown-2
+  color $brown-2 !important
+.text-brown-3
+  color $brown-3 !important
+.text-brown-4
+  color $brown-4 !important
+.text-brown-5
+  color $brown-5 !important
+.text-brown-6
+  color $brown-6 !important
+.text-brown-7
+  color $brown-7 !important
+.text-brown-8
+  color $brown-8 !important
+.text-brown-9
+  color $brown-9 !important
+.text-brown-10
+  color $brown-10 !important
+.text-brown-11
+  color $brown-11 !important
+.text-brown-12
+  color $brown-12 !important
+.text-brown-13
+  color $brown-13 !important
+.text-brown-14
+  color $brown-14 !important
+.text-grey
+  color $grey !important
+.text-grey-1
+  color $grey-1 !important
+.text-grey-2
+  color $grey-2 !important
+.text-grey-3
+  color $grey-3 !important
+.text-grey-4
+  color $grey-4 !important
+.text-grey-5
+  color $grey-5 !important
+.text-grey-6
+  color $grey-6 !important
+.text-grey-7
+  color $grey-7 !important
+.text-grey-8
+  color $grey-8 !important
+.text-grey-9
+  color $grey-9 !important
+.text-grey-10
+  color $grey-10 !important
+.text-grey-11
+  color $grey-11 !important
+.text-grey-12
+  color $grey-12 !important
+.text-grey-13
+  color $grey-13 !important
+.text-grey-14
+  color $grey-14 !important
+.text-blue-grey
+  color $blue-grey !important
+.text-blue-grey-1
+  color $blue-grey-1 !important
+.text-blue-grey-2
+  color $blue-grey-2 !important
+.text-blue-grey-3
+  color $blue-grey-3 !important
+.text-blue-grey-4
+  color $blue-grey-4 !important
+.text-blue-grey-5
+  color $blue-grey-5 !important
+.text-blue-grey-6
+  color $blue-grey-6 !important
+.text-blue-grey-7
+  color $blue-grey-7 !important
+.text-blue-grey-8
+  color $blue-grey-8 !important
+.text-blue-grey-9
+  color $blue-grey-9 !important
+.text-blue-grey-10
+  color $blue-grey-10 !important
+.text-blue-grey-11
+  color $blue-grey-11 !important
+.text-blue-grey-12
+  color $blue-grey-12 !important
+.text-blue-grey-13
+  color $blue-grey-13 !important
+.text-blue-grey-14
+  color $blue-grey-14 !important
+.bg-red
+  background $red !important
+.bg-red-1
+  background $red-1 !important
+.bg-red-2
+  background $red-2 !important
+.bg-red-3
+  background $red-3 !important
+.bg-red-4
+  background $red-4 !important
+.bg-red-5
+  background $red-5 !important
+.bg-red-6
+  background $red-6 !important
+.bg-red-7
+  background $red-7 !important
+.bg-red-8
+  background $red-8 !important
+.bg-red-9
+  background $red-9 !important
+.bg-red-10
+  background $red-10 !important
+.bg-red-11
+  background $red-11 !important
+.bg-red-12
+  background $red-12 !important
+.bg-red-13
+  background $red-13 !important
+.bg-red-14
+  background $red-14 !important
+.bg-pink
+  background $pink !important
+.bg-pink-1
+  background $pink-1 !important
+.bg-pink-2
+  background $pink-2 !important
+.bg-pink-3
+  background $pink-3 !important
+.bg-pink-4
+  background $pink-4 !important
+.bg-pink-5
+  background $pink-5 !important
+.bg-pink-6
+  background $pink-6 !important
+.bg-pink-7
+  background $pink-7 !important
+.bg-pink-8
+  background $pink-8 !important
+.bg-pink-9
+  background $pink-9 !important
+.bg-pink-10
+  background $pink-10 !important
+.bg-pink-11
+  background $pink-11 !important
+.bg-pink-12
+  background $pink-12 !important
+.bg-pink-13
+  background $pink-13 !important
+.bg-pink-14
+  background $pink-14 !important
+.bg-purple
+  background $purple !important
+.bg-purple-1
+  background $purple-1 !important
+.bg-purple-2
+  background $purple-2 !important
+.bg-purple-3
+  background $purple-3 !important
+.bg-purple-4
+  background $purple-4 !important
+.bg-purple-5
+  background $purple-5 !important
+.bg-purple-6
+  background $purple-6 !important
+.bg-purple-7
+  background $purple-7 !important
+.bg-purple-8
+  background $purple-8 !important
+.bg-purple-9
+  background $purple-9 !important
+.bg-purple-10
+  background $purple-10 !important
+.bg-purple-11
+  background $purple-11 !important
+.bg-purple-12
+  background $purple-12 !important
+.bg-purple-13
+  background $purple-13 !important
+.bg-purple-14
+  background $purple-14 !important
+.bg-deep-purple
+  background $deep-purple !important
+.bg-deep-purple-1
+  background $deep-purple-1 !important
+.bg-deep-purple-2
+  background $deep-purple-2 !important
+.bg-deep-purple-3
+  background $deep-purple-3 !important
+.bg-deep-purple-4
+  background $deep-purple-4 !important
+.bg-deep-purple-5
+  background $deep-purple-5 !important
+.bg-deep-purple-6
+  background $deep-purple-6 !important
+.bg-deep-purple-7
+  background $deep-purple-7 !important
+.bg-deep-purple-8
+  background $deep-purple-8 !important
+.bg-deep-purple-9
+  background $deep-purple-9 !important
+.bg-deep-purple-10
+  background $deep-purple-10 !important
+.bg-deep-purple-11
+  background $deep-purple-11 !important
+.bg-deep-purple-12
+  background $deep-purple-12 !important
+.bg-deep-purple-13
+  background $deep-purple-13 !important
+.bg-deep-purple-14
+  background $deep-purple-14 !important
+.bg-indigo
+  background $indigo !important
+.bg-indigo-1
+  background $indigo-1 !important
+.bg-indigo-2
+  background $indigo-2 !important
+.bg-indigo-3
+  background $indigo-3 !important
+.bg-indigo-4
+  background $indigo-4 !important
+.bg-indigo-5
+  background $indigo-5 !important
+.bg-indigo-6
+  background $indigo-6 !important
+.bg-indigo-7
+  background $indigo-7 !important
+.bg-indigo-8
+  background $indigo-8 !important
+.bg-indigo-9
+  background $indigo-9 !important
+.bg-indigo-10
+  background $indigo-10 !important
+.bg-indigo-11
+  background $indigo-11 !important
+.bg-indigo-12
+  background $indigo-12 !important
+.bg-indigo-13
+  background $indigo-13 !important
+.bg-indigo-14
+  background $indigo-14 !important
+.bg-blue
+  background $blue !important
+.bg-blue-1
+  background $blue-1 !important
+.bg-blue-2
+  background $blue-2 !important
+.bg-blue-3
+  background $blue-3 !important
+.bg-blue-4
+  background $blue-4 !important
+.bg-blue-5
+  background $blue-5 !important
+.bg-blue-6
+  background $blue-6 !important
+.bg-blue-7
+  background $blue-7 !important
+.bg-blue-8
+  background $blue-8 !important
+.bg-blue-9
+  background $blue-9 !important
+.bg-blue-10
+  background $blue-10 !important
+.bg-blue-11
+  background $blue-11 !important
+.bg-blue-12
+  background $blue-12 !important
+.bg-blue-13
+  background $blue-13 !important
+.bg-blue-14
+  background $blue-14 !important
+.bg-light-blue
+  background $light-blue !important
+.bg-light-blue-1
+  background $light-blue-1 !important
+.bg-light-blue-2
+  background $light-blue-2 !important
+.bg-light-blue-3
+  background $light-blue-3 !important
+.bg-light-blue-4
+  background $light-blue-4 !important
+.bg-light-blue-5
+  background $light-blue-5 !important
+.bg-light-blue-6
+  background $light-blue-6 !important
+.bg-light-blue-7
+  background $light-blue-7 !important
+.bg-light-blue-8
+  background $light-blue-8 !important
+.bg-light-blue-9
+  background $light-blue-9 !important
+.bg-light-blue-10
+  background $light-blue-10 !important
+.bg-light-blue-11
+  background $light-blue-11 !important
+.bg-light-blue-12
+  background $light-blue-12 !important
+.bg-light-blue-13
+  background $light-blue-13 !important
+.bg-light-blue-14
+  background $light-blue-14 !important
+.bg-cyan
+  background $cyan !important
+.bg-cyan-1
+  background $cyan-1 !important
+.bg-cyan-2
+  background $cyan-2 !important
+.bg-cyan-3
+  background $cyan-3 !important
+.bg-cyan-4
+  background $cyan-4 !important
+.bg-cyan-5
+  background $cyan-5 !important
+.bg-cyan-6
+  background $cyan-6 !important
+.bg-cyan-7
+  background $cyan-7 !important
+.bg-cyan-8
+  background $cyan-8 !important
+.bg-cyan-9
+  background $cyan-9 !important
+.bg-cyan-10
+  background $cyan-10 !important
+.bg-cyan-11
+  background $cyan-11 !important
+.bg-cyan-12
+  background $cyan-12 !important
+.bg-cyan-13
+  background $cyan-13 !important
+.bg-cyan-14
+  background $cyan-14 !important
+.bg-teal
+  background $teal !important
+.bg-teal-1
+  background $teal-1 !important
+.bg-teal-2
+  background $teal-2 !important
+.bg-teal-3
+  background $teal-3 !important
+.bg-teal-4
+  background $teal-4 !important
+.bg-teal-5
+  background $teal-5 !important
+.bg-teal-6
+  background $teal-6 !important
+.bg-teal-7
+  background $teal-7 !important
+.bg-teal-8
+  background $teal-8 !important
+.bg-teal-9
+  background $teal-9 !important
+.bg-teal-10
+  background $teal-10 !important
+.bg-teal-11
+  background $teal-11 !important
+.bg-teal-12
+  background $teal-12 !important
+.bg-teal-13
+  background $teal-13 !important
+.bg-teal-14
+  background $teal-14 !important
+.bg-green
+  background $green !important
+.bg-green-1
+  background $green-1 !important
+.bg-green-2
+  background $green-2 !important
+.bg-green-3
+  background $green-3 !important
+.bg-green-4
+  background $green-4 !important
+.bg-green-5
+  background $green-5 !important
+.bg-green-6
+  background $green-6 !important
+.bg-green-7
+  background $green-7 !important
+.bg-green-8
+  background $green-8 !important
+.bg-green-9
+  background $green-9 !important
+.bg-green-10
+  background $green-10 !important
+.bg-green-11
+  background $green-11 !important
+.bg-green-12
+  background $green-12 !important
+.bg-green-13
+  background $green-13 !important
+.bg-green-14
+  background $green-14 !important
+.bg-light-green
+  background $light-green !important
+.bg-light-green-1
+  background $light-green-1 !important
+.bg-light-green-2
+  background $light-green-2 !important
+.bg-light-green-3
+  background $light-green-3 !important
+.bg-light-green-4
+  background $light-green-4 !important
+.bg-light-green-5
+  background $light-green-5 !important
+.bg-light-green-6
+  background $light-green-6 !important
+.bg-light-green-7
+  background $light-green-7 !important
+.bg-light-green-8
+  background $light-green-8 !important
+.bg-light-green-9
+  background $light-green-9 !important
+.bg-light-green-10
+  background $light-green-10 !important
+.bg-light-green-11
+  background $light-green-11 !important
+.bg-light-green-12
+  background $light-green-12 !important
+.bg-light-green-13
+  background $light-green-13 !important
+.bg-light-green-14
+  background $light-green-14 !important
+.bg-lime
+  background $lime !important
+.bg-lime-1
+  background $lime-1 !important
+.bg-lime-2
+  background $lime-2 !important
+.bg-lime-3
+  background $lime-3 !important
+.bg-lime-4
+  background $lime-4 !important
+.bg-lime-5
+  background $lime-5 !important
+.bg-lime-6
+  background $lime-6 !important
+.bg-lime-7
+  background $lime-7 !important
+.bg-lime-8
+  background $lime-8 !important
+.bg-lime-9
+  background $lime-9 !important
+.bg-lime-10
+  background $lime-10 !important
+.bg-lime-11
+  background $lime-11 !important
+.bg-lime-12
+  background $lime-12 !important
+.bg-lime-13
+  background $lime-13 !important
+.bg-lime-14
+  background $lime-14 !important
+.bg-yellow
+  background $yellow !important
+.bg-yellow-1
+  background $yellow-1 !important
+.bg-yellow-2
+  background $yellow-2 !important
+.bg-yellow-3
+  background $yellow-3 !important
+.bg-yellow-4
+  background $yellow-4 !important
+.bg-yellow-5
+  background $yellow-5 !important
+.bg-yellow-6
+  background $yellow-6 !important
+.bg-yellow-7
+  background $yellow-7 !important
+.bg-yellow-8
+  background $yellow-8 !important
+.bg-yellow-9
+  background $yellow-9 !important
+.bg-yellow-10
+  background $yellow-10 !important
+.bg-yellow-11
+  background $yellow-11 !important
+.bg-yellow-12
+  background $yellow-12 !important
+.bg-yellow-13
+  background $yellow-13 !important
+.bg-yellow-14
+  background $yellow-14 !important
+.bg-amber
+  background $amber !important
+.bg-amber-1
+  background $amber-1 !important
+.bg-amber-2
+  background $amber-2 !important
+.bg-amber-3
+  background $amber-3 !important
+.bg-amber-4
+  background $amber-4 !important
+.bg-amber-5
+  background $amber-5 !important
+.bg-amber-6
+  background $amber-6 !important
+.bg-amber-7
+  background $amber-7 !important
+.bg-amber-8
+  background $amber-8 !important
+.bg-amber-9
+  background $amber-9 !important
+.bg-amber-10
+  background $amber-10 !important
+.bg-amber-11
+  background $amber-11 !important
+.bg-amber-12
+  background $amber-12 !important
+.bg-amber-13
+  background $amber-13 !important
+.bg-amber-14
+  background $amber-14 !important
+.bg-orange
+  background $orange !important
+.bg-orange-1
+  background $orange-1 !important
+.bg-orange-2
+  background $orange-2 !important
+.bg-orange-3
+  background $orange-3 !important
+.bg-orange-4
+  background $orange-4 !important
+.bg-orange-5
+  background $orange-5 !important
+.bg-orange-6
+  background $orange-6 !important
+.bg-orange-7
+  background $orange-7 !important
+.bg-orange-8
+  background $orange-8 !important
+.bg-orange-9
+  background $orange-9 !important
+.bg-orange-10
+  background $orange-10 !important
+.bg-orange-11
+  background $orange-11 !important
+.bg-orange-12
+  background $orange-12 !important
+.bg-orange-13
+  background $orange-13 !important
+.bg-orange-14
+  background $orange-14 !important
+.bg-deep-orange
+  background $deep-orange !important
+.bg-deep-orange-1
+  background $deep-orange-1 !important
+.bg-deep-orange-2
+  background $deep-orange-2 !important
+.bg-deep-orange-3
+  background $deep-orange-3 !important
+.bg-deep-orange-4
+  background $deep-orange-4 !important
+.bg-deep-orange-5
+  background $deep-orange-5 !important
+.bg-deep-orange-6
+  background $deep-orange-6 !important
+.bg-deep-orange-7
+  background $deep-orange-7 !important
+.bg-deep-orange-8
+  background $deep-orange-8 !important
+.bg-deep-orange-9
+  background $deep-orange-9 !important
+.bg-deep-orange-10
+  background $deep-orange-10 !important
+.bg-deep-orange-11
+  background $deep-orange-11 !important
+.bg-deep-orange-12
+  background $deep-orange-12 !important
+.bg-deep-orange-13
+  background $deep-orange-13 !important
+.bg-deep-orange-14
+  background $deep-orange-14 !important
+.bg-brown
+  background $brown !important
+.bg-brown-1
+  background $brown-1 !important
+.bg-brown-2
+  background $brown-2 !important
+.bg-brown-3
+  background $brown-3 !important
+.bg-brown-4
+  background $brown-4 !important
+.bg-brown-5
+  background $brown-5 !important
+.bg-brown-6
+  background $brown-6 !important
+.bg-brown-7
+  background $brown-7 !important
+.bg-brown-8
+  background $brown-8 !important
+.bg-brown-9
+  background $brown-9 !important
+.bg-brown-10
+  background $brown-10 !important
+.bg-brown-11
+  background $brown-11 !important
+.bg-brown-12
+  background $brown-12 !important
+.bg-brown-13
+  background $brown-13 !important
+.bg-brown-14
+  background $brown-14 !important
+.bg-grey
+  background $grey !important
+.bg-grey-1
+  background $grey-1 !important
+.bg-grey-2
+  background $grey-2 !important
+.bg-grey-3
+  background $grey-3 !important
+.bg-grey-4
+  background $grey-4 !important
+.bg-grey-5
+  background $grey-5 !important
+.bg-grey-6
+  background $grey-6 !important
+.bg-grey-7
+  background $grey-7 !important
+.bg-grey-8
+  background $grey-8 !important
+.bg-grey-9
+  background $grey-9 !important
+.bg-grey-10
+  background $grey-10 !important
+.bg-grey-11
+  background $grey-11 !important
+.bg-grey-12
+  background $grey-12 !important
+.bg-grey-13
+  background $grey-13 !important
+.bg-grey-14
+  background $grey-14 !important
+.bg-blue-grey
+  background $blue-grey !important
+.bg-blue-grey-1
+  background $blue-grey-1 !important
+.bg-blue-grey-2
+  background $blue-grey-2 !important
+.bg-blue-grey-3
+  background $blue-grey-3 !important
+.bg-blue-grey-4
+  background $blue-grey-4 !important
+.bg-blue-grey-5
+  background $blue-grey-5 !important
+.bg-blue-grey-6
+  background $blue-grey-6 !important
+.bg-blue-grey-7
+  background $blue-grey-7 !important
+.bg-blue-grey-8
+  background $blue-grey-8 !important
+.bg-blue-grey-9
+  background $blue-grey-9 !important
+.bg-blue-grey-10
+  background $blue-grey-10 !important
+.bg-blue-grey-11
+  background $blue-grey-11 !important
+.bg-blue-grey-12
+  background $blue-grey-12 !important
+.bg-blue-grey-13
+  background $blue-grey-13 !important
+.bg-blue-grey-14
+  background $blue-grey-14 !important
+body
+  min-width 320px
+  font-family $typography-font-family
+  -ms-text-size-adjust 100%
+  -webkit-text-size-adjust 100%
+  -webkit-font-smoothing antialiased
+  -moz-osx-font-smoothing grayscale
+  font-smoothing antialiased
+a
+  color $link-color
+  text-decoration none
+  cursor pointer
+  outline 0
+  transition color .25s
+  &:hover
+    color $link-color-active
+  &:active, &:hover
+    outline-width 0
+h1, h2, h3, h4, h5, h6
+  font-weight 400
+  line-height 110%
+  -webkit-font-smoothing antialised
+h1
+  font-size 4.2rem
+  letter-spacing -.04em
+  margin 2.1rem 0 1.68rem
+  font-weight 300
+h2
+  font-size 3.56rem
+  letter-spacing -.02em
+  margin 1.78rem 0 1.424rem
+h3
+  font-size 2.92rem
+  margin 1.46rem 0 1.168rem
+h4
+  font-size 2.28rem
+  margin 1.14rem 0 .912rem
+h5
+  font-size 1.64rem
+  margin .82rem 0 .656rem
+  -moz-osx-font-smoothing grayscale
+h6
+  font-size 1rem
+  letter-spacing .02em
+  margin .5rem 0 .4rem
+  font-weight 500
+p
+  font-size 1rem
+  letter-spacing 0
+  margin 0 0 1rem
+  line-height 24px
+  padding 0
+  -webkit-font-smoothing antialiased
+  &.caption
+    font-weight 300
+    &:not(:first-child)
+      margin-top 2rem
+.token
+  color opposite-non-color($primary)
+  background alpha($primary, .7)
+  border-radius $generic-border-radius
+  padding 3px 5px
+  font-size 90%
+.uppercase
+  text-transform uppercase
+.lowercase
+  text-transform lowercase
+.capitalize
+  text-transform capitalize
++prefix-classes('text-')
+  .center
+    text-align center
+  .left
+    text-align left
+  .right
+    text-align right
+  .justify
+    text-align justify
+    hyphens auto
+  .italic
+    font-style italic
+  .bold
+    font-weight bold
+.light-paragraph
+  font-weight 300
+.thin-paragraph
+  font-weight 200
+small
+  font-size 80%
+big
+  font-size 170%
+sub
+  bottom -.25em
+sup
+  top -.5em
+.strong
+  font-weight bold
+.emphasize
+  font-style italic
+blockquote
+  padding 10px 20px
+  margin 0 0 20px
+  font-size 17.5px
+  border-left 5px solid $primary
+  &.text-right
+    padding-right 15px
+    padding-left 0
+    border-right 5px solid $primary
+    border-left 0
+    text-align right
+  small
+    display block
+    line-height 1.4
+    color $faded
+    &:before
+      content '\2014 \00A0'
+.quote
+  padding 10px 20px
+  margin 0 0 20px
+  border-left 5px solid $primary
+  &.text-right
+    padding-right 15px
+    padding-left 0
+    border-right 5px solid $primary
+    border-left 0
+    text-align right
+dt
+  font-weight bold
+dd
+  margin-left 0
+dt, dd
+  line-height 1.4
+dl
+  margin-top 0
+  margin-bottom 20px
+  &.horizontal
+    dt
+      float left
+      width 25%
+      clear left
+      text-align right
+      overflow hidden
+      text-overflow ellipsis
+      white-space nowrap
+    dd
+      margin-left 30%
+::-webkit-selection,
+::-moz-selection,
+::selection
+  background $primary
+  color alpha(opposite-non-color($primary), .87)
+textarea::-webkit-selection,
+input::-webkit-selection,
+textarea::-moz-selection,
+input::-moz-selection,
+textarea::selection,
+input::selection
+  background alpha($primary, .4)
+  color alpha(opposite-non-color($primary), .87)
+*:-webkit-full-screen
+  width 100%
+  height 100%
+label
+  user-select none
+  cursor pointer
+.shadow-transition
+  transition $shadow-transition !important
+.shadow-1, .hoverable:hover, .hoverable-1:hover
+  box-shadow $shadow-1 !important
+.shadow-2, .hoverable-2:hover
+  box-shadow $shadow-2 !important
+.shadow-3, .hoverable-3:hover
+  box-shadow $shadow-3 !important
+.shadow-4, .hoverable-4:hover
+  box-shadow $shadow-4 !important
+.shadow-5, .hoverable-5:hover
+  box-shadow $shadow-5 !important
+.shadow-up-1, .hoverable-up:hover, .hoverable-up-1:hover
+  box-shadow $shadow-up-1 !important
+.shadow-up-2, .hoverable-up-2:hover
+  box-shadow $shadow-up-2 !important
+.shadow-up-3, .hoverable-up-3:hover
+  box-shadow $shadow-up-3 !important
+.shadow-up-4, .hoverable-up-4:hover
+  box-shadow $shadow-up-4 !important
+.shadow-up-5, .hoverable-up-5:hover
+  box-shadow $shadow-up-5 !important
+.no-shadow, .shadow-0
+  box-shadow none !important
+.inset-shadow
+  box-shadow $inset-shadow !important
+.flex
+  display flex
+  &.inline
+    display inline-flex
+.row
+  display flex
+  flex-direction row
+  &.inline
+    display inline-flex
+.reverse-row
+  display flex
+  flex-direction row-reverse
+  &.inline
+    display inline-flex
+.column
+  display flex
+  flex-direction column
+  &.inline
+    display inline-flex
+.reverse-column
+  display flex
+  flex-direction column-reverse
+  &.inline
+    display inline-flex
+.flex, .row, .column
+  &.small-gutter
+    margin (- $grid-small-gutter) 0 $grid-small-gutter (- $grid-small-gutter)
+    > div
+      padding $grid-small-gutter 0 0 $grid-small-gutter
+  &.medium-gutter, &.gutter
+    margin (- $grid-medium-gutter) 0 $grid-medium-gutter (- $grid-medium-gutter)
+    > div
+      padding $grid-medium-gutter 0 0 $grid-medium-gutter
+  &.big-gutter
+    margin (- $grid-big-gutter) 0 $grid-big-gutter (- $grid-big-gutter)
+    > div
+      padding $grid-big-gutter 0 0 $grid-big-gutter
+  &.large-gutter
+    margin (- $grid-large-gutter) 0 $grid-large-gutter (- $grid-large-gutter)
+    > div
+      padding $grid-large-gutter 0 0 $grid-large-gutter
+.order-first
+  order -1000
+.order-last
+  order 1000
+for i in 0..10
+  .order-{i}
+    order i
+  .grow-{i}
+    flex-grow i
+  .shrink-{i}
+    flex-shrink i
+.auto
+  flex 1 1 auto
+.offset-0
+  margin-left 0
+for $cols in (1..5)
+  for $parts in (1..$cols)
+    &.width-{$parts}of{$cols}
+      flex 0 1 ($parts / $cols * 100)%
+    &.offset-{$parts}of{$cols}
+      margin-left ($parts / $cols * 100)%
+.sm, .gt-sm, .md, .lt-md, .gt-md, .bg, .lt-bg, .gt-bg, .lg, .lt-lg
+  display none
+.wrap
+  flex-wrap wrap
+.no-wrap
+  flex-wrap nowrap
+.reverse-wrap
+  flex-wrap wrap-reverse
++prefix-classes('justify-')
+  &.start
+    justify-content flex-start
+  &.end
+    justify-content flex-end
+  &.center
+    justify-content center
+  &.between
+    justify-content space-between
+  &.around
+    justify-content space-around
++prefix-classes('items-')
+  &.start
+    align-items flex-start
+  &.end
+    align-items flex-end
+  &.center
+    align-items center
+  &.baseline
+    align-items baseline
+  &.stretch
+    align-items stretch
++prefix-classes('content-')
+  &.start
+    align-content flex-start
+  &.end
+    align-content flex-end
+  &.center
+    align-content center
+  &.between
+    align-content space-between
+  &.around
+    align-content space-around
++prefix-classes('self-')
+  &.start
+    align-self flex-start
+  &.end
+    align-self flex-end
+  &.center
+    align-self center
+  &.baseline
+    align-self baseline
+  &.stretch
+    align-self stretch
+flex-media-query($type)
+  .{$type}
+    display block
+    &.inline
+      display inline-block
+    &.flex
+      display flex
+      &.inline
+        display inline-flex
+  .{$type}-hide
+    display none
+  .{$type}-auto
+    flex 1 1 auto
+  .{$type}-offset-0
+    margin-left 0
+  for $cols in (1..5)
+    for $parts in (1..$cols)
+      .{$type}-width-{$parts}of{$cols}
+        flex 0 1 ($parts / $cols * 100)%
+      .{$type}-offset-{$parts}of{$cols}
+        margin-left ($parts / $cols * 100)%
+  .{$type}-order-first
+    order -1000
+  .{$type}-order-last
+    order 1000
+  for i in 1..10
+    .{$type}-order-{i}
+      order i
+    .{$type}-grow-{i}
+      flex-grow i
+    .{$type}-shrink-{i}
+      flex-shrink i
+  .{$type}-row
+    display flex
+    flex-direction row
+    &.inline
+      display inline-flex
+  .{$type}-reverse-row
+    display flex
+    flex-direction row-reverse
+    &.inline
+      display inline-flex
+  .{$type}-column
+    display flex
+    flex-direction column
+    &.inline
+      display inline-flex
+  .{$type}-reverse-column
+    display flex
+    flex-direction column-reverse
+    &.inline
+      display inline-flex
+  .flex, .row, .column
+    &.{$type}-small-gutter
+      margin (- $grid-small-gutter) 0 $grid-small-gutter (- $grid-small-gutter)
+      > div
+        padding $grid-small-gutter 0 0 $grid-small-gutter
+    &.{$type}-medium-gutter, &.{$type}-gutter
+      margin (- $grid-medium-gutter) 0 $grid-medium-gutter (- $grid-medium-gutter)
+      > div
+        padding $grid-medium-gutter 0 0 $grid-medium-gutter
+    &.{$type}-big-gutter
+      margin (- $grid-big-gutter) 0 $grid-big-gutter (- $grid-big-gutter)
+      > div
+        padding $grid-big-gutter 0 0 $grid-big-gutter
+    &.{$type}-large-gutter
+      margin (- $grid-large-gutter) 0 $grid-large-gutter (- $grid-large-gutter)
+      > div
+        padding $grid-large-gutter 0 0 $grid-large-gutter
+@media only screen and (max-width $layout-small-max)
+  flex-media-query('sm')
+@media only screen and (min-width $layout-medium-min)
+  flex-media-query('gt-sm')
+@media only screen and (min-width $layout-medium-min) and (max-width $layout-medium-max)
+  flex-media-query('md')
+@media only screen and (min-width $layout-big-min)
+  flex-media-query('gt-md')
+@media only screen and (max-width $layout-small-max)
+  flex-media-query('lt-md')
+@media only screen and (min-width $layout-big-min) and (max-width $layout-big-max)
+  flex-media-query('bg')
+@media only screen and (min-width $layout-large-min)
+  flex-media-query('gt-bg')
+@media only screen and (max-width $layout-medium-max)
+  flex-media-query('lt-bg')
+@media only screen and (min-width $layout-large-min)
+  flex-media-query('lg')
+@media only screen and (max-width $layout-big-max)
+  flex-media-query('lt-lg')
+.backdrop
+  display none
+  position fixed
+  top 0
+  right 0
+  bottom 0
+  left 0
+  width 100vw
+  height 100vh
+  background transparent
+  transition background .28s ease-in
+  &.active
+    display block
+    background $backdrop-background
+.background-cover
+  background-repeat no-repeat
+  background-size cover
+  background-position center center
+.no-border
+  border 0 !important
+.round-borders
+  border-radius $generic-border-radius !important
+.generic-margin, .group > *
+  margin 5px
+.no-transition
+  transition none !important
+.non-selectable
+  user-select none !important
+.scroll
+  overflow auto
+  -webkit-overflow-scrolling touch
+  will-change scroll-position
+.no-scroll
+  overflow hidden !important
+.no-pointer-events
+  pointer-events none !important
+.all-pointer-events
+  pointer-events all !important
+.cursor-pointer
+  cursor pointer !important
+.rotate-45
+  transform rotate(45deg)
+.rotate-90
+  transform rotate(90deg)
+.rotate-135
+  transform rotate(135deg)
+.rotate-180
+  transform rotate(180deg)
+.rotate-205
+  transform rotate(205deg)
+.rotate-270
+  transform rotate(270deg)
+.flip-horizontal
+  transform scale(-1, 1)
+.flip-vertical
+  transform scale(1, -1)
+.transition-generic
+  transition all .3s
+.pull-left
+  float left !important
+.pull-right
+  float right !important
+.relative-position
+  position relative !important
+.fixed,
+.fixed-bottom,
+.fixed-left,
+.fixed-right,
+.fixed-top,
+.fixed-top-left,
+.fixed-top-right,
+.fixed-bottom-left,
+.fixed-bottom-right
+  position fixed !important
+.absolute-bottom,
+.absolute-left,
+.absolute-right,
+.absolute-top,
+.absolute-top-left,
+.absolute-top-right,
+.absolute-bottom-left,
+.absolute-bottom-right
+  position absolute !important
+.fixed-top, .absolute-top
+  top 0
+  left 0
+  right 0
+.fixed-right, .absolute-right
+  top 0
+  right 0
+  bottom 0
+.fixed-bottom, .absolute-bottom
+  right 0
+  bottom 0
+  left 0
+.fixed-left, .absolute-left
+  top 0
+  bottom 0
+  left 0
+.fixed-top-left, .absolute-top-left
+  top 0
+  left 0
+.fixed-top-right, .absolute-top-right
+  top 0
+  right 0
+.fixed-bottom-left, .absolute-bottom-left
+  bottom 0
+  left 0
+.fixed-bottom-right, .absolute-bottom-right
+  bottom 0
+  right 0
+.fullscreen
+  position fixed !important
+  top 0
+  right 0
+  bottom 0
+  left 0
++prefix-classes('float-')
+  .left
+    float left !important
+  .right
+    float right !important
++prefix-classes('vertical-')
+  .top
+    vertical-align top !important
+  .middle
+    vertical-align middle !important
+  .bottom
+    vertical-align bottom !important
+&.on-left
+  margin-right .5rem !important
+&.on-right
+  margin-left .5rem !important
+.fit
+  width 100% !important
+  height 100% !important
+.full-height
+  height 100% !important
+.full-width
+  width 100% !important
+  margin-left 0 !important
+  margin-right 0 !important
+.window-height
+  margin-top 0 !important
+  margin-bottom 0 !important
+  height 100vh !important
+.window-width
+  margin-left 0 !important
+  margin-right 0 !important
+  width 100vw !important
+.block
+  display block !important
+.inline-block
+  display inline-block !important
+.q-touch
+  user-select none
+  user-drag none
+  -khtml-user-drag none
+  -webkit-user-drag none
+.q-touch-x
+  touch-action pan-x
+.q-touch-y
+  touch-action pan-y
+.animate-spin, .animate-spin-reverse
+  animation q-spin 2s infinite linear
+.animate-spin-reverse
+  animation-direction reverse
+.animate-blink
+  animation q-blink 1s steps(5, start) infinite
+.animate-pop
+  animation q-pop .2s
+.animate-scale
+  animation q-scale .2s
+.animate-fade
+  animation q-fade .2s
+.animate-bounce
+  animation q-bounce 2s infinite
+@keyframes q-blink
+  to
+    visibility hidden
+@keyframes q-spin
+  0%
+    transform rotate(0deg)
+  100%
+    transform rotate(359deg)
+@keyframes q-pop
+  0%
+    opacity 0
+    transform scale(.7)
+  70%
+    opacity 1
+    transform scale(1.07)
+  100%
+    transform scale(1)
+@keyframes q-fade
+  0%
+    opacity 0
+  100%
+    opacity 1
+@keyframes q-scale
+  0%
+    opacity 0
+    transform scale(.7)
+  100%
+    opacity 1
+    transform scale(1)
+@keyframes q-bounce
+  0%, 20%, 50%, 80%, 100%
+    transform translateY(0)
+  40%
+    transform translateY(-30px)
+  60%
+    transform translateY(-15px)
+.no-margin
+  margin 0 !important
+.no-padding
+  padding 0 !important
+.no-border
+  border 0 !important
+.no-border-radius
+  border-radius 0 !important
+.no-box-shadow
+  box-shadow none !important
+.ellipsis
+  text-overflow ellipsis
+  white-space nowrap
+  overflow hidden
+.readonly, [readonly]
+  &, *
+    cursor not-allowed !important
+    font-style italic !important
+.disabled, [disabled]
+  opacity .6 !important
+  &, *
+    cursor not-allowed !important
+.hidden
+  display none !important
+.invisible
+  visibility hidden !important
+.transparent
+  background transparent !important
+.overflow-auto
+  overflow auto !important
+.overflow-hidden
+  overflow hidden !important
+.dimmed, .light-dimmed
+  &:after
+    content ''
+    position absolute
+    top 0
+    right 0
+    bottom 0
+    left 0
+.dimmed:after
+  background $dimmed-background !important
+.light-dimmed:after
+  background $light-dimmed-background !important
+body
+  &.dimmed, &.light-dimmed
+    &:after
+      z-index $z-body-dimmed !important
+.z-absolute
+  z-index $z-absolute !important
+@keyframes q-highlight
+  0%
+    background $lime-6
+  100%
+    background transparent
+.highlight-and-fade
+  animation q-highlight 2s
+@keyframes q-rotate
+  0%
+    transform rotate(0)
+  25%
+    transform rotate(90deg)
+  50%
+    transform rotate(180deg)
+  75%
+    transform rotate(270deg)
+  100%
+    transform rotate(360deg)
+for type in desktop mobile cordova electron ios mat touch no-touch within-iframe platform-ios platform-android
+  body:not(.{type}) .{type}-only,
+  body.{type} .{type}-hide
+    display none !important
+@media all and (orientation portrait)
+  .orientation-landscape
+    display none !important
+@media all and (orientation landscape)
+  .orientation-portrait
+    display none !important
+$icon-font-family    ?= 'Material Icons'
+$icon-font-weight    ?= normal
+$icon-font-style     ?= normal
+$icon-text-transform ?= none
+$icon-letter-spacing ?= normal
+if $icon-font-family == 'Material Icons'
+  i
+    user-select none
+    display inline-flex
+    box-sizing content-box
+    font-family $icon-font-family
+    font-weight $icon-font-weight
+    font-style $icon-font-style
+    text-transform $icon-text-transform
+    vertical-align middle
+    letter-spacing normal
+    word-wrap normal
+    white-space nowrap
+    direction ltr
+
+    -webkit-font-smoothing antialiased
+
+    text-rendering optimizeLegibility
+
+    -moz-osx-font-smoothing grayscale
+
+    font-feature-settings 'liga'

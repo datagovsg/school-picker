@@ -1,0 +1,283 @@
+{
+	"code": "1166",
+	"levels": "P",
+	"uen": " T07GS1166A",
+	"logo": "./Medias/Images/Schools/logos/tn_1166.jpg",
+	"name": "Jing Shan Primary School",
+	"website": "http://www.jingshanpri.moe.edu.sg",
+	"address": "5, Ang Mo Kio St 52 (569228)",
+	"telephone": [
+		"64566305"
+	],
+	"fax": [
+		"64581619"
+	],
+	"email": "jsps@moe.edu.sg",
+	"mrt": [
+		"Ang Mo Kio MRT"
+	],
+	"bus": "Bus 265",
+	"GeneralInformation": {
+		"Principal": "Mdm Goh Meei Yunn",
+		"Vice Principal": [
+			"Mdm Chan Yee Chin Wilna",
+			"Mdm Toh Guat Hwa Pauline"
+		],
+		"School Vision": "Thinkers. Learners. Leaders.",
+		"School Mission": "To empower every child to realise his full potential through a values-driven holistic education.",
+		"School Philosophy, Culture and Ethos": "Jing Shan Primary School has a long established history of more than 70 years and provides a quality holistic education with strong emphasis the five school values of Loyalty, Integrity, Generosity, Enthusiasm, Respect and Responsibility (LIGER) to prepare our pupils for the future. At Jing Shan, we value each and every child and seek to provide a happy and conducive environment for our pupils to learn and grow.   Teachers have a lasting influence on the lives of the pupils we teach and we play a key role in nurturing our children as we lead, care and inspire them to empower every child to realise his full potential through a values-driven holistic education.  We believe that Every Child Can Learn; Every Child is Unique; and Every Child is Different. These beliefs about how children can learn forms the basis of our school's Culture of Care, Culture of Collaboration and Culture of Learning and enable us to develop our pupils to become \"Thinkers. Learners. Leaders.\"",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"Co-curricular Activities",
+		"English Language",
+		"Foundation Chinese",
+		"Foundation English",
+		"Foundation Malay",
+		"Foundation Mathematics",
+		"Foundation Tamil",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Football"
+		],
+		"Uniformed Groups": [
+			"Brownies",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Dance - Chinese",
+			"Dance - International",
+			"Ensemble - Guzheng"
+		],
+		"Clubs & Societies": [
+			"New Media Club",
+			"Robotics Club"
+		],
+		"Others": [
+			"Prefectorial Board"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Science": "Learning Science – the I3 (Inquiry, ICT & Innovation) Approach",
+			"Visual Arts & Design": "Nurturing Thinkers, Learners and Leaders through Visual Arts and Pottery"
+		},
+		"Special Student Development Programmes Offered": "Jing Shan Primary School is a caring school with an innovative and values-driven curriculum, providing a value-added learning experience to nurture learners into thinking leaders. Our curriculum prepares pupils holistically in the moral, intellectual, physical, social and aesthetic domains.  We have two signature programmes in Visual Arts & Pottery and Science.  Our Applied Learning Programme is distinguished through the I3 Approach (Inquiry, ICT& Innovation), where thinking routines are infused with technology in the learning of Science.  Our Learning for Life Programme is in the area of Visual Arts & Pottery and promotes the learning of critical 21st century competencies through the use of artful thinking routines, a Harvard University's Project Zero initiative, in the in-house curriculum.        We place equal emphasis on character development through a comprehensive Pupil Leadership and Character and Citizenship Education Programme to develop our pupils into values-driven leaders."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"2015": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"2016": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Brownies (Pack 2)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Red Cross",
+					"award": "Bronze"
+				},
+				{
+					"year": "2014",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Brownies (Pack 2)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Brownies (Pack 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Brownies (Pack 2)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Scout",
+					"award": "Silver"
+				}
+			]
+		}
+	},
+	"postalCode": "569228",
+	"coordinates": [
+		103.851810992,
+		1.37189226497
+	],
+	"svy21": [
+		30057.98,
+		39322.4
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 150,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 110,
+		"No. of Applicants in Phase 1": 64,
+		"Places taken up to Phase 1": 64,
+		"Vacancy for Phase 2A1": 46,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 64,
+		"Vacancy for Phase 2A2": 46,
+		"No. of Applicants in Phase 2A2": 22,
+		"Places taken up to Phase 2A2": 86,
+		"Vacancy For Phase 2B": 32,
+		"Vacancy for Phase 2B": 32,
+		"No. of Applicants in Phase 2B": 0
+	},
+	"id": "1166"
+}

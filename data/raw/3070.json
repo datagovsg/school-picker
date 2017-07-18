@@ -1,0 +1,371 @@
+{
+	"code": "3070",
+	"levels": "S",
+	"uen": " T07GS3070K",
+	"logo": "./Medias/Images/Schools/logos/tn_3070.jpg",
+	"name": "PUNGGOL SECONDARY SCHOOL",
+	"website": "http://www.punggolsec.moe.edu.sg",
+	"address": "51, EDGEFIELD PLAINS ( 828870 )",
+	"telephone": [
+		"64897851"
+	],
+	"fax": [
+		"64897859"
+	],
+	"email": "PUNGGOL_SS@MOE.EDU.SG",
+	"mrt": "PUNGGOL MRT, COVE LRT",
+	"bus": "3 , 34 , 62 , 82 , 83 , 85 , 136 , 965 , 386 ",
+	"GeneralInformation": {
+		"Principal": "MR KEH CHIN CHUAN BENEDICT",
+		"Vice Principal": [
+			"MDM CHING LEE HOE",
+			"MR ANITH KUMAR S/O NADESAN"
+		],
+		"School Vision": "Achievers with Character, 21st Century jun zi.",
+		"School Mission": "To provide students with a value-added education and opportunities to acquire knowledge, skills and values to deal confidently with the future.",
+		"School Philosophy, Culture and Ethos": "At Punggol Secondary, we believe that education is a Journey of Self-Discovery where our students discover their strengths, weaknesses and talents and form their moral compass. Our committed teachers help to unleash the potential of our students, develop their talents and work with them to close learning gaps. We create a conducive environment to motivate our students to collaborate with one another and to be self-directed in their learning. We anchor our students deeply in our school values and aim to mould them into 21st Century gentlemen and ladies through a holistic education via the 5 domains - Cognitive, Moral, Physical, Social and Aesthetics. Our envisioned 21st Century student should be a scholar who is passionate in learning, active in physical activities and compassionate towards others, and a refined person capable of appreciating beauty and the Arts.",
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ADDITIONAL MATHEMATICS",
+		"BIOLOGY",
+		"CHEMISTRY",
+		"COMBINED HUMANITIES (S,G)",
+		"COMBINED HUMANITIES (S,H)",
+		"COMPUTER APPLICATIONS",
+		"DESIGN & TECHNOLOGY",
+		"ENGLISH LANGUAGE",
+		"FOOD & NUTRITION",
+		"GEOGRAPHY",
+		"HIGHER CHINESE",
+		"HIGHER MALAY",
+		"HIGHER TAMIL",
+		"LITERATURE(E)",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"PHYSICS",
+		"PRINCIPLES OF A/C",
+		"SCIENCE (PHY, CHEM)",
+		"SOCIAL STUDIES"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Air Rifle / Shooting",
+			"Basketball",
+			"Football",
+			"Netball",
+			"Table Tennis",
+			"Volleyball"
+		],
+		"Uniformed Groups": [
+			"Ncc (Land)",
+			"Npcc",
+			"Scouts",
+			"Singapore Red Cross Society"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Band - Symphonic",
+			"Choir",
+			"Dance - Modern",
+			"Ensemble - Guzheng"
+		],
+		"Clubs & Societies": [
+			"Chess Club",
+			"Chinese Ldds",
+			"English Ldds",
+			"Environment Club",
+			"Multimedia Club",
+			"Tamil Ldds"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"STEM": "School-wide Environment Education",
+			"Community & Youth Leadership": "Serving with values and good habits, developing the 21st century gentlemen/ ladies"
+		},
+		"Special Student Development Programmes Offered": "We believe in inculcating a love for reading across different disciplines through our school-wide morning Reading Programme to enhance exposure and interest in the different subject domains. 1-to-1 Computing with Google Chromebooks was rolled out in 2014 to equip students with 21st Century skills and to promote self-directed learning and collaborative learning. In 2016, the school embarked on our Applied Learning Programme  on Environmental Education. This distinctive programme helps our students connect academic knowledge with the real world. Our structured Aesthetics Programme aims to develop our students into refined young men and women capable of appreciating the Arts or participating in a performance. We have structured our Values-In-Action programmes to provide platforms for our students to demonstrate the school values of Propriety, Righteousness, Integrity, and Self-Respect. Sec 1 students would draw up proposals to improve the school environment; Sec 2 students spread environmental conservation messages as HDB Heartland Ambassadors and connect with the community by leading in learning journeys to Lor Halus and Punggol Ecotown; Sec 3 students conduct service learning activities locally as well as in Malaysia, and the Sec 4/5 students mentor their juniors in fund raising for Teen Challenge and Boy's Town flag day. 'Building Character and School Pride through Volleyball' is a special programme in our school that aims to develop resilience, tenacity, and leadership in our students.  With our specialised and customised training, many of our school team players have qualified to be in school teams in polytechnics and junior colleges."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Bronze",
+					"Red Cross": "Bronze",
+					"Scout (Unit 1)": "Gold"
+				}
+			},
+			"2015": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Volleyball",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - Chinese": "Commendation",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Bronze",
+					"Scout (Unit 1)": "Gold"
+				}
+			},
+			"2016": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"3rd",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - Chinese": "Commendation",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Red Cross": "Bronze",
+					"Scout (Unit 1)": "Gold",
+					"Npcc (Land)": "Silver"
+				}
+			},
+			"2017": {}
+		}
+	},
+	"PsleAggregateHistory": {
+		"2014": {
+			"Express": [
+				"192",
+				"226",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"155",
+				"192",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"110",
+				"157",
+				"None-posted"
+			]
+		},
+		"2015": {
+			"Express": [
+				"200",
+				"245",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"160",
+				"191",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"128",
+				"153",
+				"None-posted"
+			]
+		},
+		"2016": {
+			"Express": [
+				"194",
+				"242",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"162",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"127",
+				"152",
+				"None-posted"
+			]
+		},
+		"2017": {
+			"Express": [
+				"188",
+				"260",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"166",
+				"196",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"131",
+				"153",
+				"None-posted"
+			]
+		}
+	},
+	"postalCode": "828870"
+}

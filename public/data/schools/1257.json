@@ -1,0 +1,176 @@
+{
+	"code": "1257",
+	"levels": "P",
+	"uen": " T11GS0001D",
+	"logo": "./Medias/Images/Schools/logos/tn_1257.jpg",
+	"name": "Frontier Primary School",
+	"website": "http://www.frontierpri.moe.edu.sg",
+	"address": "20, Jurong West Street 61 (648200)",
+	"telephone": [
+		"65789555"
+	],
+	"fax": [
+		"67908596"
+	],
+	"email": "frontier_ps@moe.edu.sg",
+	"mrt": [
+		"Pioneer MRT"
+	],
+	"bus": "241",
+	"GeneralInformation": {
+		"Principal": "Mr Koh Chin Thong, Martin",
+		"Vice Principal": "Mr Syamsul Anwar Bin Awang",
+		"Vice Principal (Admin)": "Mr Goh Gin Howe",
+		"School Vision": "Confident Thinkers. Adaptable Learners.Passionate Leaders.",
+		"School Mission": "We develop every Frontierer to reflect deeply, embrace differences and serve as a role model to overcome future challenges.",
+		"School Philosophy, Culture and Ethos": "We are guided by our philosophy of 'Strong Fundamentals, Future Learning' which underpins the holistic education that Frontier provides to prepare our pupils to thrive in a fast-changing and highly-connected world. We want our pupils to be grounded with strong fundamentals so that they can partake in future learning.  At Frontier, we believe that pupils are at the centre of all that we do. We want to nurture our pupils to grow up to be confident thinkers, adaptable individuals and passionate leaders in the 21st century. We strive to provide holistic education to all our pupils through exciting, engaging and enriching learning experiences. We care about the socio-emotional learning of our pupils so that they care for themselves and others. We keep ourselves abreast of effective teaching and learning strategies and pedagogies through reflective practices and collaboration. Staff also grow ourselves so that we are always able to give our best to our pupils.   Teaching and learning in the school will be deep and mindful. Good learning is not always speedy; it is reflective. We want our pupils to be able to reflect, to discover and even to slow down at times and exercise metacognition. In this way, creativity in pupils and breakthroughs can be fostered and learning deepened.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"English Language",
+		"Foundation Chinese",
+		"Foundation English",
+		"Foundation Malay",
+		"Foundation Mathematics",
+		"Foundation Science",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Rugby",
+			"Softball",
+			"Sport Climbing"
+		],
+		"Uniformed Groups": [
+			"Scouts",
+			"Singapore Red Cross Society"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Choir",
+			"Dance - Chinese",
+			"Danzwhiz",
+			"Ensemble - String"
+		],
+		"Clubs & Societies": [
+			"Library",
+			"Media Resource And It Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Languages": "Frontier’s Approach to Communicative Effectiveness",
+			"Music & Performing Arts": "danceFRONT"
+		},
+		"Special Student Development Programmes Offered": "The school has 5 Key Programmes to achieve our vision for Frontierers:  Frontier's Approach to Communicating Effectively (F@CE) aims to develop our pupils to have effective communication and critical thinking skills, so that they can articulate their knowledge, ideas and thinking clearly and confidently while displaying school values.  Thinking Silhouette is a customised thinking model that helps the school realise our vision of developing our pupils into 'Confident Thinkers'. Each thinking silhouette is a profile of one facet of a person's thinking.   Restorative Practices is the school's approach to inculcate a culture of care and restorative relationships in the school. Frontierers will understand the importance of making responsible personal choices that positively affect their relationships. They are also taught to understand that they have the power to contribute towards building a positive environment.  danceFRONT is the school's approach to deliver Dance and Performing Arts education to Frontierers. The school believes that dance and performing arts develop self-esteem and confidence of participants, as well as self-management from the listening and concentration required during the activity.  exemplary Leaders@Frontier (eLF) aims to harness the leadership potential and develop the leadership skills in every child by providing each with relevant opportunities and training. The core beliefs of eLF are that leadership can be taught and learned, is a developmental process, is a collective activity, and is rooted in service."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"Sports & Games Competition": [],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Strings",
+					"award": "Commendation"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2016",
+					"category": "Red Cross",
+					"award": "Bronze"
+				}
+			]
+		}
+	},
+	"postalCode": "648200",
+	"coordinates": [
+		103.699701741,
+		1.33641298634
+	],
+	"svy21": [
+		13129.847,
+		35399.679
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	],
+	"specialNeeds": [
+		"PD",
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 210,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 170,
+		"No. of Applicants in Phase 1": 103,
+		"Places taken up to Phase 1": 103,
+		"Vacancy for Phase 2A1": 67,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 103,
+		"Vacancy for Phase 2A2": 67,
+		"No. of Applicants in Phase 2A2": 1,
+		"Places taken up to Phase 2A2": 104,
+		"Vacancy For Phase 2B": 53,
+		"Vacancy for Phase 2B": 53,
+		"No. of Applicants in Phase 2B": 26
+	},
+	"id": "1257"
+}

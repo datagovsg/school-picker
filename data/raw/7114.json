@@ -1,0 +1,879 @@
+{
+	"code": "7114",
+	"levels": "S",
+	"uen": " T07GS7114G",
+	"logo": "./Medias/Images/Schools/logos/tn_7114.jpg",
+	"name": "NANYANG GIRLS' HIGH SCHOOL",
+	"website": "http://www.nygh.moe.edu.sg/",
+	"address": "2, LINDEN DRIVE ( 288683 )",
+	"telephone": [
+		"64663275"
+	],
+	"fax": [
+		"64667564"
+	],
+	"email": "NYGHS@MOE.EDU.SG",
+	"mrt": "SIXTH AVENUE MRT, TAN KAH KEE MRT",
+	"bus": "66 , 67 , 74 , 151 , 154 , 156 , 157 , 170 , 171 , 174 , 852 , 961 ",
+	"GeneralInformation": {
+		"Principal": "MDM HENG BOEY HONG",
+		"Vice Principal": [
+			"MRS CHEK-LIM LAM ENG",
+			"MRS WHANG AI LEE"
+		],
+		"School Vision": "Every Nanyang Girl a Respected Member of Society",
+		"School Mission": "We nurture women of character in a bilingual bicultural environment anchored in values on which our school was founded.",
+		"School Philosophy, Culture and Ethos": "Nanyang Girls' High School is a school with a rich tradition and illustrious history. The school was founded in 1917, with the belief that girls deserve to be educated and that, with education, they can make the world a better place for others. This belief is espoused through our school vision, mission and values.   We have a forward-looking, personalised and connected curriculum anchored in values that seek to develop our students to be reflective, responsive and responsible learners, equipped with the knowledge, skills and attributes for the 21st century.  The Nanyang experience engages our students in authentic and relevant learning that allows them to create meaningful, useful and shared outcomes.  The curriculum is personalised, allowing students to exercise choice according to their interest and ability.  Students will be able to make meaningful connections within and between disciplines, and develop a heart for the community by paying forward through active service.   We also keep our students engaged and excited about learning through 1-1 computing.  In addition, through our carefully designed experiential learning opportunities that include the Boarding School Experience at our very own Boarding School and our Global Classroom Programme, we provide our students with a holistic education ready for the globalised future.",
+		"Type of School": "INDEPENDENT SCHOOL / GIRLS' SCHOOL / SINGLE SESSION",
+		"IP Partner Schools": "HWA CHONG INSTITUTION",
+		"Mother Tongue": "Chinese",
+		"Affiliated Schools": "NANYANG PRIMARY SCHOOL"
+	},
+	"SubjectOffered": [
+		"ADVANCED LITERATURE",
+		"ART FOR AEP",
+		"BIOLOGY",
+		"CHEMISTRY",
+		"GEOGRAPHY",
+		"HIGHER CHINESE",
+		"HIGHER MUSIC PROGRAMME",
+		"HISTORY",
+		"INTEGRATED HUMANITIES",
+		"INTEGRATED MATHEMATICS",
+		"LANGUAGE ARTS",
+		"PHYSICS"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Air Rifle & Air Pistol / Shooting",
+			"Artistic Gym/Trampoline",
+			"Badminton",
+			"Basketball",
+			"Judo",
+			"Netball",
+			"Sailing",
+			"Softball",
+			"Swimming",
+			"Table Tennis",
+			"Tennis",
+			"Track & Field",
+			"Volleyball",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Girl Guides",
+			"Npcc",
+			"St. John Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Band - Concert",
+			"Choir",
+			"Dance - Chinese",
+			"Dance - Modern",
+			"Ensemble - Guzheng",
+			"Ensemble - String",
+			"Lion Dance Troupe / Drum Ensemble",
+			"Orchestra - Chinese",
+			"Theatre Club"
+		],
+		"Clubs & Societies": [
+			"Audio & Video/ Pa Club",
+			"Chinese Society",
+			"English Society",
+			"Infocomm Club",
+			"Mind Sports Club",
+			"Nanyang Debate Club",
+			"Nanyang Outdoors"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Integrated Programme",
+			"SAP",
+			"Gifted Education Programme",
+			"ART ELECTIVE PROGRAMME"
+		],
+		"Special Student Development Programmes Offered": "Nanyang Seal of Excellence Talent Development Programme  - Four-Tier Chinese Language and Culture Programme which includes Bicultural Studies (Chinese) and Chinese Language Elective Programme . Humanities Programme . Science and Mathematics Talent Programme . Leadership Development . Art Elective Programme (AEP) . Higher Music Programme (HMP)  Other programmes that further enrich the students' holistic learning experience include: . The Connected Curriculum . The Personalised Curriculum . Global Classroom Programme . Work Experience Programme . Extended Classroom Programme . Boarding School Experience . Conversational Malay . Community Education and Community Leadership Programme . Philosophical Inquiry . Research Programme . Translation . Drama . Conversational Malay  Third Language - NYGH offers Malay Special Programme"
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": [
+					"DA (National Education)",
+					"PARTNERS (Merit)"
+				],
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"3rd",
+						"1st"
+					],
+					[
+						"Sailing",
+						"-",
+						"-",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					],
+					[
+						"Tennis",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"2nd",
+						"2nd"
+					],
+					[
+						"Wushu",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"1st"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Orchestra - Chinese": "Distinction",
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Distinction",
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Strings": "Distinction"
+				},
+				"Best Unit Award": {
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Gold",
+					"Girl Guides (Coy 1)": "Gold",
+					"Girl Guides (Coy 2)": "Silver"
+				}
+			},
+			"2015": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": [
+					"DA (National Education)",
+					"PARTNERS (Merit)"
+				],
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"1st",
+						"2nd"
+					],
+					[
+						"Cross Country",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"3rd"
+					],
+					[
+						"Sailing",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					],
+					[
+						"Tennis",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"-",
+						"-",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"3rd",
+						"2nd"
+					],
+					[
+						"Wushu",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Distinction",
+					"Drama - English": "Distinction",
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Strings": "Distinction",
+					"Orchestra - Chinese": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Gold",
+					"Girl Guides (Coy 2)": "Silver",
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2016": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"2nd",
+						"1st"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"2nd",
+						"2nd"
+					],
+					[
+						"Golf",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"4th"
+					],
+					[
+						"Sailing",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing (Byte)",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					],
+					[
+						"Tennis",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"-",
+						"-",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"4th",
+						"1st"
+					],
+					[
+						"Wushu",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Distinction",
+					"Drama - English": "Distinction",
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Strings": "Distinction",
+					"Orchestra - Chinese": "Distinction",
+					"Art - Category A": "Recognition(Sm)",
+					"Art - Category B": "Recognition(Sm)"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Gold",
+					"Girl Guides (Coy 2)": "Gold",
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2017": {}
+		}
+	},
+	"PsleAggregateHistory": {
+		"2014": {
+			"Express": [
+				"261",
+				"275",
+				"251",
+				"271"
+			]
+		},
+		"2015": {
+			"Express": [
+				"262",
+				"277",
+				"250",
+				"273"
+			]
+		},
+		"2016": {
+			"Express": [
+				"264",
+				"279",
+				"250",
+				"274"
+			]
+		},
+		"2017": {
+			"Express": [
+				"264",
+				"281",
+				"250",
+				"279"
+			]
+		}
+	},
+	"postalCode": "288683"
+}

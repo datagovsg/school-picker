@@ -1,0 +1,256 @@
+{
+	"code": "1174",
+	"levels": "P",
+	"uen": " T07GS1174C",
+	"logo": "./Medias/Images/Schools/logos/tn_1174.jpg",
+	"name": "STAMFORD PRIMARY SCHOOL",
+	"website": "http://www.stamfordpri.moe.edu.sg",
+	"address": "1, VICTORIA LANE ( 198423 )",
+	"telephone": [
+		"62945074"
+	],
+	"fax": [
+		"62919262"
+	],
+	"email": "STAMFORD_PS@MOE.EDU.SG",
+	"mrt": "Bugis MRT Station",
+	"bus": "Along Victoria Street:2 , 7 , 12 , 32 , 33 , 61 , 62 , 63 , 80 , 130 , 133 , 145 , 197 , NR8. ",
+	"GeneralInformation": {
+		"Principal": "MR ONG THIAM HUAT ROBIN",
+		"Vice Principal": [
+			"MDM FAZILAH MARICAR D/O MD ALI M",
+			"MDM LEE PHAIK HAR"
+		],
+		"Vice Principal (Admin)": "MR TAN AIK CHEONG",
+		"School Vision": "Stamfordians of Competence and Character, who Care and Contribute",
+		"School Mission": "Nurturing hearts and engaging minds, enabling Stamfordians to realize their potential and live fully for self and others.",
+		"School Philosophy, Culture and Ethos": "Our school uphold the philosophy of Every Stamfordian Matters.",
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ART",
+		"CHINESE",
+		"CO-CURRICULAR ACTIVITIES",
+		"ENGLISH LANGUAGE",
+		"FOUNDATION ENGLISH",
+		"FOUNDATION MATHEMATICS",
+		"HEALTH EDUCATION",
+		"HIGHER CHINESE",
+		"HIGHER MALAY",
+		"HIGHER TAMIL",
+		"MALAY",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"SCIENCE",
+		"SOCIAL STUDIES",
+		"TAMIL"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Floorball",
+			"Football",
+			"Netball",
+			"Track & Field",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Cub Scouts",
+			"Girls' Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Dance - Chinese"
+		],
+		"Clubs & Societies": [
+			"Environment Club",
+			"Outdoor Activities Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"Sports & Outdoor Education": "Character and Leadership through Sports and Outdoor Education"
+		},
+		"Special Student Development Programmes Offered": "School Distinctive Programme LLP: Character and Leadership through Sports and Outdoor Education   Special Student Development Programme E2K, Talent Development Programme, Globalisation Programme, Public Speaking, Speech and Drama Programme"
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Floorball",
+						"2nd",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Dance - International": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Bronze",
+					"Scout": "Silver"
+				}
+			},
+			"2015": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Floorball",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Dance - International": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Scout": "Silver"
+				}
+			},
+			"2016": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Floorball",
+						"1st",
+						"4th",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Scout": "Bronze"
+				}
+			},
+			"2017": {}
+		}
+	},
+	"postalCode": "198423"
+}

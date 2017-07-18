@@ -1,0 +1,38 @@
+language: python
+cache:
+  pip: true
+  directories:
+    - "node_modules"
+node_js:
+  - "6"
+branches:
+  only:
+    - development 
+    - master
+git:
+  depth: 3
+install:
+  - echo "TRAVIS_BRANCH=$TRAVIS_BRANCH"
+  - nvm install 6
+  - nvm use 6
+  - node --version
+  - export APP_VENV=$PWD/virtualenvironment
+  - virtualenv $APP_VENV
+  - $APP_VENV/bin/pip install --upgrade awsebcli
+  - mkdir -p ~/.aws
+  - echo "[default]" > ~/.aws/config
+  - echo "aws_access_key_id=$AWS_ACCESS_KEY" >> ~/.aws/config
+  - echo "region=$AWS_REGION" >> ~/.aws/config
+  - echo "aws_secret_access_key=$AWS_SECRET_ACCESS_KEY" >> ~/.aws/config
+  - mkdir -p .elasticbeanstalk
+  - sed -i -e "s/@TRAVIS_BRANCH/$TRAVIS_BRANCH/g" eb-config.yml
+  - mv eb-config.yml .elasticbeanstalk/config.yml
+  - export NPM_CONFIG_LOGLEVEL=warn
+  - export NODE_ENV=production
+script:
+  - npm install --production=false
+  - npm run build
+  - $APP_VENV/bin/eb deploy datagovsg-school-picker-$TRAVIS_BRANCH --label $TRAVIS_COMMIT --message "$TRAVIS_COMMIT_MESSAGE" --timeout 15
+notifications:
+  slack:
+    secure: H3qIjbWTnnerP7JlqbLzzKv5j+VbL9orRv+R76bvhshFBl2VtXfUkBgG5VTXhcwcU9a8Af5FtixmVTOw8uOcEZEsDA5H+tIVyVsi+NMEOcSmRPWzyULH/MZqjatZWDpUQ1EbHXO6hdvg+ww/8JduL68Ok3BCWqXyPrlf1lmdXNGuVeY5OpQG0dZ4oj7tiXW1QjNHiesVTb0hivv/W2ka5f1calRlUNar6R2r2XNX6LRpyVSXKMjlesmn7Kz0BG4gWoBdZrSxwJ/Ihe9dWA+d3YJST0i9BpK7BCWfKnnSEdK1Y1yjAGfmaMU8FQYL0iFyuyC7HslsT2tE6MntX0CkM3QIvU7fUgUKCGuaI3jcsUY4sA0a1HBxymka729HZKMRYQzV63Xfx6rw9VveMX7Onid2/QwtE3VV6pgrBfqICdo1dF+sQuLz7wsspNU9AEbwx3eScEas2/akaBOTl8xVwKaihFhQAlJyytQVSnEPbj1L3umsSnLCtbOmV6PRYT23ZHCDDV5BmHAJP5glbc+qDuzBZVZkXG6B1YAFC7cBYE3guIipEQh+VY5VYW/QCvS/BfZ4+e1WXRKEWovU2QTLyxQdfSaYsRiS/AWRFRStWYIWE+C+WSKDRHP4oHghYQo/KJEcmuN6Mr+C2r4SdcWJGoVJ8RmF8SG5kW3uU4L5nXo=

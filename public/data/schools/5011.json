@@ -1,0 +1,453 @@
+{
+	"code": "5011",
+	"levels": "P",
+	"uen": " T07GS5011B",
+	"logo": "./Medias/Images/Schools/logos/tn_5011.jpg",
+	"name": "St. Anthony's Canossian Primary School",
+	"website": "http://www.stanthonyscanossianpri.moe.edu.sg",
+	"address": "1602, Bedok North Ave 4 (469701)",
+	"telephone": [
+		"64492239"
+	],
+	"fax": [
+		"64492146"
+	],
+	"email": "sacps@moe.edu.sg",
+	"mrt": [
+		"Bedok MRT"
+	],
+	"bus": "17",
+	"GeneralInformation": {
+		"Principal": "Mdm Sia Lu-Ming Eugenie",
+		"Vice Principal": [
+			"Mdm Chua Kim Lan Judy",
+			"Mrs Irene Goh Hock Nguan"
+		],
+		"School Vision": "Leaders with a Heart for Others",
+		"School Mission": "To nurture and empower Canossians to be persons of integrity committed to serving God and others",
+		"School Philosophy, Culture and Ethos": "We are guided by the teachings of the school's foundress, St Magdalene of Canossa, that education is about the formation of the heart. We recognise that all our students are equal and our Canossian Brand of Education (CBE) aims to nurture thinkers, form the heart (conscience and values) and empower the life. This will prepare them to assume life responsibilities in this fast-changing and globalised world.   Over the years, our students have performed well in both the academic and non-academic domains. Their success is largely due to our staff who see themselves as Canossian Educators working in close partnership with the families. Our school community is committed to developing our students into graceful and gracious young ladies who are anchored in the School Core Values of Charity, Humility and Forgiveness.",
+		"Type of School": "Government-aided Sch / Girls' School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "St. Anthony's Canossian Secondary School"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"English Language",
+		"Foundation English",
+		"Foundation Mathematics",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Performing Arts",
+		"Physical Education",
+		"Science",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Bowling",
+			"Netball",
+			"Skipping",
+			"Taekwondo",
+			"Tennis (School Team)",
+			"Tennis Recreation",
+			"Track & Field"
+		],
+		"Uniformed Groups": [
+			"Brownies"
+		],
+		"Visual and Performing Arts": [
+			"Artisque Club",
+			"Chinese Dance Syf",
+			"Choir"
+		],
+		"Clubs & Societies": [
+			"Infocom & Photography Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Sports & Outdoor Education": "SACPS is FIT for Life – Building Resilience & Perseverance through Sports & Games",
+			"Music & Performing Arts": "Developing Confidence and Creativity through the Performing Arts"
+		},
+		"Special Student Development Programmes Offered": "The school believes in providing a holistic school curriculum that builds the character and enhances the talents of our students.  The school's Learning for Life Programme in Performing Arts, \"Developing Confidence and Creativity Through the Performing Arts\", integrates the fundamentals of music, movement and drama into the Social Studies and National Education curriculum. Through our systematic Performing Arts curriculum, we foster in our students creativity, an appreciation of the arts and their heritage. The integrated curriculum also develops patriotism and a sense of belonging with an understanding of Singapore's past and appreciation of the present.   The school's other Learning for Life Programme, \"SACPS is FIT for Life - Building Resilience and Perseverance through Sports and Games\", seeks to develop in students the Canossian Attributes of Commitment, Compassion and Cheerfulness by focusing on a spirit of excellence, a culture of caring for team mates and true sportswoman-ship attitudes. All students progressively learn sport skills and participate in outdoor education that helps them develop resilience as part of the self-management and self-efficacy skills we seek to imbue in every student."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": "DA (Character Development)",
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"2015": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2016": {
+				"Development Award": "DA (Character Development)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'D' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'D' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'D' Div"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category C",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": []
+		}
+	},
+	"postalCode": "469701",
+	"coordinates": [
+		103.941344805,
+		1.33486527073
+	],
+	"svy21": [
+		40022.19,
+		35228.4
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	],
+	"specialNeeds": [
+		"PD",
+		"Mild SEN"
+	],
+	"p1Registration": {
+		"Total Vacancy": 180,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 140,
+		"No. of Applicants in Phase 1": 49,
+		"Places taken up to Phase 1": 49,
+		"Vacancy for Phase 2A1": 91,
+		"No. of Applicants in Phase 2A1": 3,
+		"Places taken up to Phase 2A1": 52,
+		"Vacancy for Phase 2A2": 88,
+		"No. of Applicants in Phase 2A2": 12,
+		"Places taken up to Phase 2A2": 64,
+		"Vacancy For Phase 2B": 58,
+		"Vacancy for Phase 2B": 58,
+		"No. of Applicants in Phase 2B": 24
+	},
+	"id": "5011"
+}

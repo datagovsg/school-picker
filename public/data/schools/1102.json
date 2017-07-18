@@ -1,0 +1,328 @@
+{
+	"code": "1102",
+	"levels": "P",
+	"uen": " T07GS1102J",
+	"logo": "./Medias/Images/Schools/logos/tn_1102.jpg",
+	"name": "Damai Primary School",
+	"website": "http://www.damaipri.moe.edu.sg",
+	"address": "50, Bedok Reservoir Crescent (479225)",
+	"telephone": [
+		"64456483"
+	],
+	"fax": [
+		"64499681"
+	],
+	"email": "DAMAI_PS@MOE.EDU.SG",
+	"mrt": [
+		"Bedok MRT"
+	],
+	"bus": "Bus 228 , 66 , 65 , 22 , 21 , 5 and 506 ",
+	"GeneralInformation": {
+		"Principal": "Mdm Lee Lay See/ Mrs Lay See Neufeld",
+		"Vice Principal": "Dr Lee Kok Sonk",
+		"Vice Principal (Admin)": "Mdm Ong Yin Peng Catherine",
+		"School Vision": "A School of Care and Distinction",
+		"School Mission": "Nurturing BrightSPARKs with a Holistic & Inclusive Education",
+		"School Philosophy, Culture and Ethos": "All staff are committed and mission-driven to provide a quality student-centric, values-driven education. Our BrightSPARKs will be happy students who look forward to school and are motivated to learn and work with their peers.  Knowing each student and his needs, the school is able to equip each student with a strong foundation in literacy and numeracy and help each to grow in values, in sports and in the aesthetics.  Working in close partnership with the parents and the community, we seek their support in helping us to bring out the best in our students.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"Co-curricular Activities",
+		"English Language",
+		"Foundation English",
+		"Foundation Mathematics",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Floorball",
+			"Rope Skipping",
+			"Rugby"
+		],
+		"Uniformed Groups": [
+			"Brownies",
+			"Singapore Red Cross Society"
+		],
+		"Visual and Performing Arts": [
+			"Art/Ceramic Club",
+			"Dance - Chinese",
+			"Dance - Malay"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Music & Performing Arts": "Creative Arts at Damai - Igniting Passion, Nurturing Talents, Impacting Lives",
+			"Sports & Outdoor Education": "Damai Champions of Character (D’COACH) Programme"
+		},
+		"Special Student Development Programmes Offered": "Learning for Life Programme (LLP), Programme for Active Learning (PAL), Swimsafer Programme, Math Enrichment Programmes  D'Aesthetics Programme, a Learning for Life Programme (LLP), aims to provide students with the opportunity to learn about and experience the arts. This programme helps to cultivate values such as perseverance, self-discipline and appreciation to help students achieve success in school, work and life. This programme also aims to provide a common ground for cross-cultural competencies to be developed as it encourages expressions and contributes to the overall development of social skills, such as valuing diversity of ideas, respect and confidence building.  Another LLP, D'COACH programme, is a school-wide values-based programme based on the core belief that sporting excellence and character development are inextricably linked. It provides opportunities and platforms for all students to be exposed to team sports. This equips them with attributes, competencies and the confidence to be team players. It aims to not only develop the students' talents and potential to excel in team sports but at the same time, instil valuable character traits and core values.   PAL @ Damai for Primary 1 and 2 students is experiential in nature and incorporates learning in a creative, fun, and enjoyable way. It aims to facilitate a well-rounded development of students through a more balanced curriculum. In addition, students will be able to develop their Social and Emotional Learning (SEL) competencies. Students are provided with broad exposure and experiences through varied activities so that they can discover their interest and aptitudes. They will experience learning activities in four domains - Sports and Games, Outdoor Education, Performing and Visual Arts. Through these activities, students will develop confidence, creativity and collaboration skills which they can apply in their daily interactions."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"2015": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"2016": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Strings",
+					"award": "Commendation"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Strings",
+					"award": "Commendation"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				}
+			],
+			"Best Unit Award": []
+		}
+	},
+	"postalCode": "479225",
+	"coordinates": [
+		103.921182039,
+		1.33560042189
+	],
+	"svy21": [
+		37778.28,
+		35309.6
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 120,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 80,
+		"No. of Applicants in Phase 1": 40,
+		"Places taken up to Phase 1": 40,
+		"Vacancy for Phase 2A1": 40,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 40,
+		"Vacancy for Phase 2A2": 40,
+		"No. of Applicants in Phase 2A2": 11,
+		"Places taken up to Phase 2A2": 51,
+		"Vacancy For Phase 2B": 35,
+		"Vacancy for Phase 2B": 35,
+		"No. of Applicants in Phase 2B": 0
+	},
+	"id": "1102"
+}

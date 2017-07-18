@@ -1,0 +1,452 @@
+{
+	"code": "5636",
+	"levels": "P",
+	"uen": " T07GS5636D",
+	"logo": "./Medias/Images/Schools/logos/tn_5636.jpg",
+	"name": "Chongfu School",
+	"website": "http://www.chongfu.moe.edu.sg/",
+	"address": "170, Yishun Avenue 6 (768959)",
+	"telephone": [
+		"67585527"
+	],
+	"fax": [
+		"62579571"
+	],
+	"email": "CFS@MOE.EDU.SG",
+	"mrt": [
+		"Yishun MRT"
+	],
+	"bus": "Feeder Service 811",
+	"GeneralInformation": {
+		"Principal": "Mdm Foo Mui Chuw",
+		"Vice Principal": [
+			"Mrs Boey Lim Seow Khim",
+			"Mr Tan Sian Yeow Terence"
+		],
+		"Vice Principal (Admin)": "Mdm Tham Lai Peng",
+		"School Vision": "A community of thinkers who are patriotic, gracious and global in outlook.",
+		"School Mission": "Developing pupils in five core areas, namely moral, intellectual, physical, social and aesthetics domains and thereby preparing them for the future.",
+		"School Philosophy, Culture and Ethos": "Founded on 16 April 1915 by a supervisor of schools with the Singapore Hokkien Huay Kuan (SHHK), Chongfu School's (CFS) distinctiveness stems from its rich history and heritage. Being one of the 6 Singapore Hokkien Huay Kuan (SHHK) affiliated schools, it shares a common motto, Sincerity and Perseverance, with other SHHK schools. Upon relocation of its original premises to its current site in Yishun, it began offering all three Mother Tongue Languages, thereby paving the way for Singaporean children of all races to be part of the CFS education experience. Anchoring the pursuit towards holistic education are the school's values (expressed in the acronym GRACIOUSLY).",
+		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"English Language",
+		"Foundation English",
+		"Foundation Mathematics",
+		"Foundation Science",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Athletics",
+			"Floorball",
+			"Table Tennis",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Brownies",
+			"Red Cross",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Dance - Chinese",
+			"Dance - Malay",
+			"Guzheng",
+			"Orchestra - Chinese"
+		],
+		"Clubs & Societies": [
+			"Environmental Club",
+			"Ict Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Sports & Outdoor Education": "Growing Character through Sports and Outdoor EducationLeveraging Sports Education, Outdoor Education and CCE"
+		},
+		"Special Student Development Programmes Offered": "Our Learning for Life Programme (LLP), Growing Character through Sports and Outdoor Education, aims to equip our students with different aspects of character development and life skills. Chongfu's LLP incorporates our Camp iNspire programme which adopts a tiered and differentiated approach to enable students of all six levels to experience camp life, focusing on inculcating life skills and building character in different settings.   With the support from SHHK and collaboration with four other affiliated primary schools, Chongfu has been implementing our school-based Bi-cultural Chinese Elective Programme (BiCEP) since 2007 to nurture a core group of effective bilinguals from P4 to P6 through deeper appreciation of Chinese culture, history and language. In addition to the local camp and an overseas learning journey for immersion that are included in the programme, our students are also exposed to Chinese opera, calligraphy and oratorical performances.  Our Trip for Internationalisation Experience (TIE) programme and networking with overseas schools from China, Hong Kong and Indonesia continues to provide our P4 and P5 students with global awareness, cultural appreciation and new perspectives in terms of learning in classrooms beyond our shores.   CFS envisions a community of gracious individuals who aspire to make a difference in the civic life of the local communities such as MINDS, Lion Befrienders, SWAMI Homes, Food from the Heart. The school leverages its VIA programme to inculcate the school values (GRACIOUSLY) in students and to create a positive social impact.  The school places great emphasis on enhancing Teacher Student Relationships (TSR), values education and the development of students' socio-emotional competencies as part of efforts to enhance the overall quality of school experience."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"School Distinction Awards": "SDA",
+				"Development Award": "DA (Character Development)",
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"2015": {
+				"School Distinction Awards": "SDA",
+				"Development Award": "DA (Character Development)"
+			},
+			"2016": {
+				"School Distinction Awards": "SDA",
+				"Development Award": "DA (Character Development)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Wushu",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Wushu",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Orchestra - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Orchestra - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Scout",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"postalCode": "768959",
+	"coordinates": [
+		103.839070674,
+		1.43846166028
+	],
+	"svy21": [
+		28640.12,
+		46683.3
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 300,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 260,
+		"No. of Applicants in Phase 1": 130,
+		"Places taken up to Phase 1": 130,
+		"Vacancy for Phase 2A1": 130,
+		"No. of Applicants in Phase 2A1": 19,
+		"Places taken up to Phase 2A1": 149,
+		"Vacancy for Phase 2A2": 111,
+		"No. of Applicants in Phase 2A2": 48,
+		"Places taken up to Phase 2A2": 196,
+		"Vacancy For Phase 2B": 52,
+		"Vacancy for Phase 2B": 52,
+		"No. of Applicants in Phase 2B": 30
+	},
+	"id": "5636"
+}

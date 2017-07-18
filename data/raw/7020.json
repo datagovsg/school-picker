@@ -1,0 +1,838 @@
+{
+	"code": "7020",
+	"levels": "SJT",
+	"uen": " T07GS7020D",
+	"logo": "./Medias/Images/Schools/logos/tn_7020.jpg",
+	"name": "ST. JOSEPH'S INSTITUTION",
+	"website": "http://www.sji.edu.sg",
+	"address": "38, Malcolm Road ( 308274 )",
+	"telephone": [
+		"62500022"
+	],
+	"fax": [
+		"62533640"
+	],
+	"email": "contact@sji.edu.sg",
+	"mrt": "Stevens Station DT10 (Downtown line)",
+	"bus": "105 , 132 , 151 , 153 , 154 , 156 , 186 (Outside SJI)  105 , 132 , 151 , 153 , 154 , 156 , 186 , 190 , 700 , 960 , 972 Along Whitley Rd (Opp Tanglin CC/Outside Raffles Town Club) ",
+	"GeneralInformation": {
+		"Principal": "FR ADRIAN AUGUSTUS DANKER",
+		"Vice Principal": [
+			"MDM GOH POH KENN",
+			"MR DOMINIC ANG SWEE KENG",
+			"MDM LOH YOON LIN"
+		],
+		"School Vision": "A mission school of choice, recognised for values-centred education and learning driven by passion, that nurtures persons who make a difference to society.",
+		"School Mission": "Enabling youth in a Lasallian community to learn how to learn and to learn how to live; empowering them to become men and women of integrity and men and women for others.",
+		"School Philosophy, Culture and Ethos": "Lasallian Core Values Faith, our foundation Service, our way and Community, our support. School Slogan/Brand Statement Nurturing Men & Women of Integrity and Men & Women for Others. A Lasallian community nurturing persons of integrity and persons for others. At SJI, we pride ourselves on producing young people of integrity with a strong desire to serve others, especially the poor. Character and faith formation are central to an SJI education.",
+		"Type of School": "INDEPENDENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": [
+			"CATHOLIC JUNIOR COLLEGE",
+			"DE LA SALLE SCHOOL",
+			"ST. JOSEPH'S INSTITUTION JUNIOR",
+			"ST. STEPHEN'S SCHOOL",
+			"ST. ANTHONY'S PRIMARY SCHOOL"
+		]
+	},
+	"SubjectOffered": [
+		"ADDITIONAL MATHEMATICS",
+		"ART",
+		"BIOLOGY",
+		"CHEMISTRY",
+		"CHINESE",
+		"COMPUTER STUDIES",
+		"ENGLISH LANGUAGE",
+		"GEOGRAPHY",
+		"HIGHER CHINESE",
+		"HIGHER MALAY",
+		"HIGHER TAMIL",
+		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"LITERATURE(E)",
+		"MALAY",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"PHYSICS",
+		"TAMIL"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Canoeing/Rowing/Dragon Boat",
+			"Cross Country",
+			"Fencing",
+			"Football",
+			"Hockey",
+			"Judo",
+			"Rugby",
+			"Sailing",
+			"Squash",
+			"Swimming",
+			"Table Tennis",
+			"Tennis",
+			"Track & Field"
+		],
+		"Uniformed Groups": [
+			"Ncc (Land)",
+			"Ncc(Air)",
+			"Npcc",
+			"Scouts",
+			"St. John Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Band - Pipe",
+			"Design Club",
+			"Drama Club",
+			"Guitar Ensemble",
+			"Sji Military Band",
+			"Sji Pipe Band",
+			"Sji Vocal Ensemble"
+		],
+		"Clubs & Societies": [
+			"Chinese Cultural Society",
+			"Computer Club",
+			"Green Club",
+			"Indian Cultural Society",
+			"Infocomm Club",
+			"Legion Of Mary",
+			"Malay Cultural Society",
+			"Robotics Club",
+			"St Vincent De Paul Society",
+			"Young Christian Society"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Integrated Programme - Dual Track School (offers both IP and O Levels)"
+		],
+		"Special Student Development Programmes Offered": "SJI offers both the 4-year 'O'-level programme and a 6-year Integrated Programme (IP) leading to the International Baccalaureate (IB) Diploma at the end of the 6-year programme.  An SJI education aims to educate the whole person by providing a broad-based academic curriculum that is integrated with a comprehensive student development curriculum with a strong emphasis on character and leadership development.  The SJI Education adopts a framework with 3-levels of Learning. Academic Foundations in Level 1 lays the foundations in core subjects such as English Language, Mother Tongue Languages, Humanities, Sciences, Mathematics and the Arts. Academic Extensions in Level 2 provides opportunities for students to further explore their areas of interest in specific subjects/topics. At Level 3 - Sustained Inquiry and Thinking, students will delve deeper into specific areas through a sustained project or in innovative thinking programmes such as ArtScience (in collaboration with Harvard University), Design Thinking and World and Me, a multi-disciplinary programme developed by SJI.  Character and leadership development is nurtured throughout the curriculum, along with SJI's unique Religious, Moral and Social Education programme, co-curricular activities, leadership development opportunities, physical and outdoors education, international experience and overseas residential programmes."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": "DA (Character Development)",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Canoeing",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Fencing",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Distinction",
+					"Ensemble - Guitar": "Distinction"
+				},
+				"Best Unit Award": {
+					"Ncc (Air Boys)": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2015": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Canoeing",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Distinction",
+					"Ensemble - Guitar": "Distinction"
+				},
+				"Best Unit Award": {
+					"Ncc (Air Boys)": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2016": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Fencing",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"3rd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing (Byte)",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Distinction",
+					"Ensemble - Guitar": "Distinction"
+				},
+				"Best Unit Award": {
+					"Ncc (Air Boys)": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2017": {}
+		},
+		"Junior College": {
+			"2014": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Fencing",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				]
+			},
+			"2015": {
+				"SYF Arts Presentation": {
+					"Dance - Indian": "Accomplishment"
+				}
+			},
+			"2016": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Canoeing",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Dance - Indian": "Accomplishment",
+					"Drama - English": "Commendation"
+				}
+			},
+			"2017": {}
+		}
+	},
+	"PsleAggregateHistory": {
+		"2014": {
+			"Integrated Programme": [
+				"250",
+				"265",
+				"None-posted"
+			],
+			"'O' Level Programme": [
+				"245",
+				"257",
+				"238",
+				"259"
+			]
+		},
+		"2015": {
+			"Integrated Programme": [
+				"248",
+				"265",
+				"None-posted"
+			],
+			"'O' Level Programme": [
+				"242",
+				"261",
+				"238",
+				"259"
+			]
+		},
+		"2016": {
+			"Integrated Programme": [
+				"253",
+				"265",
+				"None-posted"
+			],
+			"'O' Level Programme": [
+				"246",
+				"263",
+				"238",
+				"263"
+			]
+		},
+		"2017": {
+			"Integrated Programme": [
+				"253",
+				"274",
+				"None-posted"
+			],
+			"'O' Level Programme": [
+				"245",
+				"259",
+				"238",
+				"258"
+			]
+		}
+	},
+	"L1R5History": {
+		"2014": {
+			"Arts": [
+				"-",
+				"-"
+			],
+			"Science/IB": [
+				"2",
+				"7"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2015": {
+			"Arts": [
+				"-",
+				"-"
+			],
+			"Science/IB": [
+				"2",
+				"6"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2016": {
+			"Arts": [
+				"-",
+				"-"
+			],
+			"Science/IB": [
+				"2",
+				"6"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2017": {
+			"Arts": [
+				"-",
+				"-"
+			],
+			"Science/IB": [
+				"2",
+				"7"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		}
+	},
+	"postalCode": "308274"
+}

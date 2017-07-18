@@ -1,0 +1,383 @@
+{
+	"code": "3307",
+	"levels": "S",
+	"uen": " T07GS3307H",
+	"logo": "./Medias/Images/Schools/logos/tn_3307.jpg",
+	"name": "Yusof Ishak Secondary School",
+	"website": "http://www.yusofishaksec.moe.edu.sg",
+	"address": "11, Bukit Batok Street 25 (658712)",
+	"telephone": [
+		"65009800"
+	],
+	"fax": [
+		"65675502"
+	],
+	"email": "yiss@moe.edu.sg",
+	"mrt": [
+		"Bukit Batok MRT"
+	],
+	"bus": "61 , 66 , 77 , 106 , 157 , 174 , 178 , 506 , 852 , 963 ",
+	"GeneralInformation": {
+		"Principal": "Mdm Koh Hoon Choo Jessie",
+		"Vice Principal": [
+			"Mr Kong Kok Heng Melvin",
+			"Mr Kalvindar Singh"
+		],
+		"School Vision": "The First President School, an institution that nurtures Scholars, Sportsmen and Statesmen.",
+		"School Mission": "To nurture Curiosity, Creativity and Confidence in Yusoffians so that they will be Life-long Learners who Contribute to the Greater Good.",
+		"School Philosophy, Culture and Ethos": "At Yusof Ishak Secondary School, we believe that every child can learn and deserves a holistic education. One of our key strategic thrusts is 'Bringing Out the Best in Every Child' and to imbue in them our school values of 'Resilience, Responsibility, Respect, Confidence, Compassion and Integrity'. Our first class team of staff endeavours to nurture our students towards emulating the attributes of our First President, to be 'Scholars, Sportsmen and Statesmen'.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Combined Humanities (S,G)",
+		"Combined Humanities (S,H)",
+		"Computer Applications",
+		"Design & Technology",
+		"Elements Of Business Skills",
+		"English Language",
+		"Food & Nutrition",
+		"Food And Consumer Education",
+		"Geography",
+		"Higher Chinese",
+		"Higher Malay",
+		"History",
+		"Literature(E)",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Physics",
+		"Science",
+		"Science (Phy, Chem)",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Floorball (Boys)",
+			"Netball (Girls)",
+			"Sepak Takraw (Boys)"
+		],
+		"Uniformed Groups": [
+			"Ncc Land (Boys & Girls)",
+			"Npcc (Boys & Girls)"
+		],
+		"Visual and Performing Arts": [
+			"Art And Design Club",
+			"Band - Symphonic",
+			"Choir",
+			"Dance - Indian",
+			"Dance - Malay",
+			"New Media Club"
+		],
+		"Clubs & Societies": [
+			"Interact Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"STEM": "Programme for Authentic Science, Technology and Environmental Learning",
+			"Music & Performing Arts / Visual Arts & Design": "H2eArts in Tune Programme: History & Heritage through Arts & Music Programme"
+		},
+		"Special Student Development Programmes Offered": "The school hosts the Centre for Teaching & Learning Excellence, a unique collaboration among the Academy of Singapore Teachers (AST), the National Institute of Education (NIE) and the Ministry of Education (MOE). Master Teachers (MTT) are attached to the Centre where they co-plan and co-teach with our teachers as part of in-situ professional development. Our Applied Learning Programme (ALP), PASTEL (Programme for Authentic Science, Technology and Environmental Learning) promotes interest in Science, Technology, Engineering and Mathematics (STEM). Students learn water conservation and water quality analysis methods through fieldwork. They experience programming, use of electronics, building of prototypes and work attachments at post-secondary institutions and industries. Through our Learning for Life Programme (LLP), H2eArts in Tune Programme (History & Heritage through Arts & Music Programme), students are nurtured to develop a keen sense and appreciation of the aesthetics in its various forms and its rich cultural heritage. It comprises exposure to and experiences in the performing arts, music, as well as digital and visual arts. Through the breadth and depth of experience, students develop their strength of character, self-discipline, self-confidence, teamwork and leadership competencies. Students' learning culminate in a biennial performances-cum-exhibition of art work, a school-based platform in collaboration with the community. The annual Student Conference is a platform for our students to share their knowledge and skills in topics of their passion. Teacher Mentors coach students, resulting in confident speakers and quality learning for all. Under the 1:1 Computing Programme, each student, equipped with a Chromebook, is developed as a self-directed and collaborative learner through progressive teaching pedagogies and cyberwellness programme."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Commendation"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Commendation"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NCC (Land Girls)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Land Girls)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Land Girls)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 249,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 187,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": 110,
+			"upper": 148,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 247,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 187,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Technical",
+			"lower": 111,
+			"upper": 150,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 244,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 182,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Technical",
+			"lower": 112,
+			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 257,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 187,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Technical",
+			"lower": 114,
+			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		}
+	],
+	"postalCode": "658712",
+	"coordinates": [
+		103.760032628302,
+		1.34233921440626
+	],
+	"svy21": [
+		19844.0669009183,
+		36054.6887308247
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	],
+	"id": "3307"
+}

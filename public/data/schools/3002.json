@@ -1,0 +1,411 @@
+{
+	"code": "3002",
+	"levels": "S",
+	"uen": " T07GS3002L",
+	"logo": "./Medias/Images/Schools/logos/tn_3002.jpg",
+	"name": "Bartley Secondary School",
+	"website": "http://www.bartleysec.moe.edu.sg",
+	"address": "10, Jalan Bunga Rampai (538403)",
+	"telephone": [
+		"62889013"
+	],
+	"fax": [
+		"62805595"
+	],
+	"email": "bartley_ss@moe.edu.sg",
+	"mrt": [
+		"Bartley MRT"
+	],
+	"bus": "22 , 24 , 28 , 43 , 58 , 62 , 70 , 70M , 76 , 80 , 80A , 93 , 158 ",
+	"GeneralInformation": {
+		"Principal": "Mr Mohd Azhar B Terimo",
+		"Vice Principal": [
+			"Mrs Tan Chye Na",
+			"Mdm Laeu Siew Fung"
+		],
+		"School Vision": "Leaders for Others, Learners for Life",
+		"School Mission": "Empowering every Bartleyan to lead with wisdom, serve with humility and learn with passion.",
+		"School Philosophy, Culture and Ethos": "The school believes that every student has the potential to be developed and that they can and will learn and succeed. Hence, the school provides academic rigour and a robust character development programme that is grounded on our school values (Courage, Optimism, Respect, Excellence), and the principles of the 7 Habits of Highly Effective Youths (7 HEY). This will ensure that Bartleyans graduate with a distinctive character and the skills to navigate the intricacies of life successfully.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art",
+		"Basic Chinese",
+		"Basic Malay",
+		"Basic Tamil",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Chinese B",
+		"Combined Humanities (S,G)",
+		"Combined Humanities (S,H)",
+		"Combined Humanities (S,L)",
+		"Computer Applications",
+		"Design & Technology",
+		"Elements Of Business Skills",
+		"English Language",
+		"Food & Nutrition",
+		"Food And Consumer Education",
+		"Geography",
+		"Higher Chinese",
+		"History",
+		"Literature(E)",
+		"Malay",
+		"Malay B",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Physics",
+		"Principles Of Accounts",
+		"Science",
+		"Science (Chem, Bio)",
+		"Science (Phy, Chem)",
+		"Science (Syll T)",
+		"Social Studies",
+		"Tamil",
+		"Tamil B"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Football",
+			"Netball",
+			"Sepak Takraw",
+			"Volleyball"
+		],
+		"Uniformed Groups": [
+			"Ncc (Land)",
+			"Ncc(Air)",
+			"Npcc",
+			"Red Cross Youth"
+		],
+		"Visual and Performing Arts": [
+			"Choir",
+			"Dance - Modern",
+			"Ensemble - Guzheng"
+		],
+		"Clubs & Societies": [
+			"Merit (Media Resource & It) Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"STEM": "Chemical and Life Sciences (Perfumery)",
+			"Community & Youth Leadership": "i-LEAD @ Bartley"
+		},
+		"Special Student Development Programmes Offered": "The school's Learning for Life Programme (LLP) is on Community Youth Leadership. As part of the LLP, all Bartleyans undergo the Student Leadership Development Programme, coupled with Outdoor Experiential Learning, to nurture them to be courageous, optimistic and responsible leaders of self and for others. The 7 Habits of Highly Effective Youths (7 HEY) programme underpins the school's character development effort. Through this programme, students learn to live out the school's motto of Facta Non Verba (Deeds not Words).   The school's Applied Learning Programme (ALP) is Chemical and Life Sciences (Perfumery). Bartley is the first and only secondary school in Singapore to offer this programme which is an area of study that provides direct application of Science concepts into the creation of a product. It is a conglomeration of chemical, life sciences, engineering and business which excites students to explore STEM (Science, Technology, Engineering, Mathematics) as their future area of specialisation.  The school collaborates with Singapore Science Centre in running the programme.  The Bartley Scholars Programme (BSP) is targeted at higher ability students to stretch and accelerate their learning. Students are exposed to a variety of learning experiences to develop their passion for learning.   The SMILE@Bartley Programme is a mentoring programme for all our graduating students. Students are not only supported emotionally in their journey towards the national examination, but are also guided to make decisions that would have an impact on their next phase of development in institutes of higher learning."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2015": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2016": {
+				"Development Award": "DA (Character Development)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Commendation"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Commendation"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "NCC (Air)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Air)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Air)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Red Cross",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 245,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 158,
+			"upper": 188,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": 116,
+			"upper": 152,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 240,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 187,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Technical",
+			"lower": 101,
+			"upper": 150,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 251,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 153,
+			"upper": 187,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Technical",
+			"lower": 112,
+			"upper": 150,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 224,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 189,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Technical",
+			"lower": 96,
+			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		}
+	],
+	"postalCode": "538403",
+	"coordinates": [
+		103.882806211705,
+		1.33995415587812
+	],
+	"svy21": [
+		33507.4424001062,
+		35790.894505281
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"id": "3002"
+}

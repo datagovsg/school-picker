@@ -1,0 +1,308 @@
+{
+	"code": "1755",
+	"levels": "P",
+	"uen": " T07GS1755A",
+	"logo": "./Medias/Images/Schools/logos/tn_1755.jpg",
+	"name": "East Spring Primary School",
+	"website": "http://www.eastspringpri.moe.edu.sg",
+	"address": "31, Tampines St 33 (529258)",
+	"telephone": [
+		"67866192"
+	],
+	"fax": [
+		"67866649"
+	],
+	"email": "esps@moe.edu.sg",
+	"mrt": [
+		"Tampines MRT"
+	],
+	"bus": "291 , 28 ",
+	"GeneralInformation": {
+		"Principal": "Mdm Ang Gek Leng Alison Amanda",
+		"Vice Principal": [
+			"Mdm Chut Shi Lin",
+			"Mrs Lee-Goh Siew Ling Maria"
+		],
+		"School Vision": "Gracious School, Life-long Learners",
+		"School Mission": "Nurturing Caring Citizens and Independent Learners.",
+		"School Philosophy, Culture and Ethos": "East Spring Primary School believes that every student, also known as E'Light, is unique.  With passion and dedication, we can develop their potential and inspire them to realise their dreams.  Our school culture begins with the taglines, \"Reflect and Grow\", aligned with our school vision of developing life-long learners and \"Others before Self\" which is in line with the school vision and mission of developing caring and gracious individuals.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"English Language",
+		"Foundation English",
+		"Foundation Mathematics",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Football",
+			"Modular Sports",
+			"Volleyball",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Brownies",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Choir",
+			"Dance - Chinese",
+			"Dance - Malay",
+			"Ensemble - Guitar",
+			"Ensemble - Guzheng",
+			"Indian Dance"
+		],
+		"Clubs & Societies": [
+			"Media Resource And It Club",
+			"Science And Technology Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Sports & Outdoor Education": "SPRING for Life – Developing Character through Sports"
+		},
+		"Special Student Development Programmes Offered": "Extensive Reading Programme, Parental Involvement Programmes, Value-In-Action Programmes, Mathe & Science Olympiad Training, Learning Support Programmes (English & Math), Pupil Oracy Programme (POP), Spring for Life Programme, LifeSkills Programme.  The school provides many platforms for E'Lights to guide them towards becoming gracious individuals and life-long learners.  Spring for Life (SFL), the school's Learning for Life Programme (LLP), aims to equip E'Lights with the 21st century skills and be gracious.  One of the signature programmes in SFL is the progressive six-level camps which imbue values, build character and develop new skills in E'Lights.  The programme gives them the opportunities to work in harmony with their peers and make decisions.  It also encourages E'Lights to be resilient, to have the ability to bounce back from challenges and failures and leap forward to peaks of excellence.  The school also ensures that all E'Lights have the opportunity to go through a LifeSkills Programme in preparing them for the future. This programme, which spans across six levels, builds the students' competencies in the social and emotional domains.  For instance, at Primary 3, E'Lights are taught to prepare a simple meal while at Primary 4, they are taught financial literacy skills."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Scout",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "Brownies (Pack 1)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Brownies (Pack 1)",
+					"award": "Bronze"
+				}
+			]
+		}
+	},
+	"postalCode": "529258",
+	"coordinates": [
+		103.961797059,
+		1.35304015256
+	],
+	"svy21": [
+		42298.21,
+		37238.2
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 180,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 140,
+		"No. of Applicants in Phase 1": 63,
+		"Places taken up to Phase 1": 63,
+		"Vacancy for Phase 2A1": 77,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 63,
+		"Vacancy for Phase 2A2": 77,
+		"No. of Applicants in Phase 2A2": 8,
+		"Places taken up to Phase 2A2": 71,
+		"Vacancy For Phase 2B": 55,
+		"Vacancy for Phase 2B": 55,
+		"No. of Applicants in Phase 2B": 0
+	},
+	"id": "1755"
+}

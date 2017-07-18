@@ -1,0 +1,423 @@
+{
+	"code": "3010",
+	"levels": "S",
+	"uen": " T07GS3010B",
+	"logo": "./Medias/Images/Schools/logos/tn_3010.jpg",
+	"name": "Serangoon Secondary School",
+	"website": "http://www.serangoonsec.moe.edu.sg",
+	"address": "11, Upper Serangoon View (534237)",
+	"telephone": [
+		"63851589"
+	],
+	"fax": [
+		"63851635"
+	],
+	"email": "SERANGOON_SS@MOE.EDU.SG",
+	"mrt": [
+		"Hougang MRT"
+	],
+	"bus": "62 , 74 , 102 , 113 , 119 , 136 , 147 , 324 ",
+	"GeneralInformation": {
+		"Principal": "Mdm Tay Siok Hwa",
+		"Vice Principal": [
+			"Mr Chia Chee Weng Richard Chris",
+			"Mrs Chan Tiow Liang Gary"
+		],
+		"School Vision": "Moulding Character, Igniting Passion, Building Community",
+		"School Mission": "We will nurture our StaRs to become active, purposeful and upright citizens, with the passion to learn and excel, working for the good of others and the growth of self",
+		"School Philosophy, Culture and Ethos": "SSS provides Possibilities for students. We practise a culture of Care for our students. With an 89-year history, Serangoon Secondary School has produced many illustrious alumni. Serangoon students are StaRs, developed holistically through comprehensive programmes designed to nurture each child's talents and aspirations and enable each child to excel holistically. Students' learning is guided by innovative teaching methodologies such as the Inquiry-based approach in Science and the Integrated Coursework approach in Craft and Technology. Our students are also provided with rich and diverse learning experiences both locally and overseas. Student Recognition is an integral part of our culture. Upper Secondary students can also strive for the Serangoon StaR awards for overall excellence in various areas. More than 90% of students graduate with at least an NYAA (Bronze) award. We value our partners and we value partnerships to enhance student learning. The Parent Support Group is actively involved in providing support, engaging parents, and networking to enrich students' learning. The school offers Computing and Mobile Robotics as Elective Subjects. Our students hone their leadership skills in working for the good of the community through our LLP niche in Project Ablaze: Harnessing Youth Leadership in the Service of Community. We also ensure our students are future ready, through our ALP niche in Real-world Explorations in ICT. We are committed to ensuring that our StaRs SHINE (our Star Qualities).",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Combined Humanities (S,G)",
+		"Combined Humanities (S,H)",
+		"Computer Applications",
+		"Design & Technology",
+		"Elements Of Business Skills",
+		"English Language",
+		"Food & Nutrition",
+		"Higher Chinese",
+		"History",
+		"Home Economics",
+		"Malay",
+		"Mathematics",
+		"Mobile Robotics",
+		"Oecie Computer Studies (GCEO)",
+		"Physics",
+		"Principles Of A/C",
+		"Science (Phy, Chem)",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Football",
+			"Hockey",
+			"Netball"
+		],
+		"Uniformed Groups": [
+			"Girl Guides",
+			"Ncc (Land)",
+			"Npcc",
+			"Scouts",
+			"Singapore Red Cross Society"
+		],
+		"Visual and Performing Arts": [
+			"Choir",
+			"Contemporary Dance",
+			"Dance - Malay",
+			"Drama - English",
+			"Ensemble - Guzheng",
+			"Orchestra - Chinese",
+			"Symphonic Band"
+		],
+		"Clubs & Societies": [
+			"Audio & Video/ Pa Club",
+			"Infocom Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"STEM": "Real-world Explorations in ICT",
+			"Community & Youth Leadership": "Project Ablaze: Harnessing Student Leadership in the Service of Community"
+		},
+		"Special Student Development Programmes Offered": "1. 'O' Level Computing is offered as an Elective Subject 2. Mobile Robotics is offered as an Elective Subject. 3.  English Excellence to develop Confident Persons - Sec 1 Storytelling, Sec 2 Drama, Sec 3 Debate. 4. Global Students' Programme. 5. Serangoon Student Leadership Development (SSLeaD) incorporating NYAA. 6. Aesthetics Exposure and Enrichment for all students. 7. Character Development. 8. Values in Action, with emphasis on student-initiated activities. 9. LLP Project Ablaze: Harnessing Student Leadership in the Service of Community. 10. ALP: Real-world explorations in ICT. 11. Sports Education Programme. 12. Elective Modules for Normal stream students & Advanced Elective Modules for Express and Normal Academic stream students."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2015": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2016": {
+				"Development Award": "DA (Character Development)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - English",
+					"award": "Commendation"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Orchestra - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guzheng",
+					"award": "Commendation"
+				},
+				{
+					"year": "2015",
+					"category": "Orchestra - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Commendation"
+				},
+				{
+					"year": "2016",
+					"category": "Orchestra - Chinese",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 242,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 188,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": 108,
+			"upper": 156,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 190,
+			"upper": 222,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 184,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Technical",
+			"lower": 109,
+			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 229,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 156,
+			"upper": 193,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Technical",
+			"lower": 118,
+			"upper": 156,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 261,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Academic",
+			"lower": 156,
+			"upper": 197,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Technical",
+			"lower": 121,
+			"upper": 153,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		}
+	],
+	"postalCode": "534237",
+	"coordinates": [
+		103.902138740699,
+		1.37465538827444
+	],
+	"svy21": [
+		35658.8371386677,
+		39628.0344803333
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"id": "3010"
+}
