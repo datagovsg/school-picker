@@ -270,7 +270,7 @@ export default {
   data () {
     return {
       lastUpdated: {
-        p1Registration: '17 July 2017'
+        p1Registration: '18 July 2017'
       },
       medalIcon: {
         Distinction: '/assets/Gold.svg',
