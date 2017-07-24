@@ -303,13 +303,14 @@ export default {
     ...mapGetters(['optionsSelected'])
   },
   method: {
-    ...mapActions(['selectOptions', 'unselectOptions']),
+    ...mapActions(['selectOptions', 'unselectOptions', 'exportOptions']),
     checked (options) {
       return this.optionsSelected({module: 'areas', options})
     },
     select (options, toCheck) {
       if (toCheck) this.selectOptions({module: 'areas', options})
       else this.unselectOptions({module: 'areas', options})
+      this.exportOptions().then(query => this.$router.push({query}))
     }
   }
 }

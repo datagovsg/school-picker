@@ -27,12 +27,12 @@
 
           <template v-if="p1Registration">
             <dt>
-              2017 P1 Registration Exercise&nbsp;
-              <a href="https://www.moe.gov.sg/admissions/primary-one-registration/vacancies"><small>(as at {{lastUpdated.p1Registration}})</small></a>
+              {{p1Registration.year}} {{p1Registration.label}}:
+              &nbsp;<a href="https://www.moe.gov.sg/admissions/primary-one-registration/vacancies"><small>(as at {{p1Registration.lastUpdated}})</small></a>
             </dt>
             <dd>
               <table class="p1-registration">
-                <template v-for="row in p1Registration">
+                <template v-for="row in p1Registration.rows">
                   <template v-if="row.values">
                     <tr v-for="r in row.values" v-if="r.value">
                       <td style="padding-left: 10px;"><em>{{r.label}}</em></td>
@@ -42,6 +42,12 @@
                   <tr v-else-if="row.value" :class="row.class">
                     <td>{{row.label}}</td>
                     <td>{{row.value}}</td>
+                    <q-tooltip v-if="row.title"
+                      anchor="bottom left"
+                      self="top left"
+                      :offset="[10, 5]">
+                      <div>{{row.title}}</div>
+                    </q-tooltip>
                   </tr>
                 </template>
               </table>
@@ -52,7 +58,7 @@
             <dt>{{cutOffPoints.year}} {{cutOffPoints.label}}:</dt>
             <dd>
               <table class="cop-details">
-                <tr v-for="prog in cutOffPoints.results">
+                <tr v-for="prog in cutOffPoints.rows">
                   <td>{{prog.programme}}</td>
                   <td>{{prog.lower}} - {{prog.upper}}</td>
                 </tr>
@@ -64,7 +70,7 @@
             <dt>{{l1r5History.year}} {{l1r5History.label}}:</dt>
             <dd>
               <table class="l1r5-details">
-                <tr v-for="prog in l1r5History.results">
+                <tr v-for="prog in l1r5History.rows">
                   <td>{{prog.programme}}: </td>
                   <td>{{prog.lower}} - {{prog.upper}}</td>
                 </tr>
@@ -269,9 +275,6 @@ export default {
   },
   data () {
     return {
-      lastUpdated: {
-        p1Registration: '21 July 2017'
-      },
       medalIcon: {
         Distinction: '/assets/Gold.svg',
         Accomplishment: '/assets/Silver.svg',
@@ -373,13 +376,13 @@ export default {
       if (this.info.PsleAggregateHistory && this.info.PsleAggregateHistory.length > 0) {
         const info = this.info.PsleAggregateHistory
         const currentYear = maxBy(info, 'year').year
-        const results = info
+        const rows = info
           .filter(row => row.year === currentYear)
           .filter(row => row.lower && row.upper)
         return {
           label: 'S1 Posting Exercise',
           year: currentYear - 1,
-          results
+          rows
         }
       }
     },
@@ -387,13 +390,13 @@ export default {
       if (this.info.L1R5History && this.info.L1R5History.length > 0) {
         const info = this.info.L1R5History
         const currentYear = maxBy(info, 'year').year
-        const results = info
+        const rows = info
           .filter(row => row.year === currentYear)
           .filter(row => row.lower && row.upper)
         return {
           label: 'Joint Admissions Exercise (JAE)',
           year: currentYear,
-          results
+          rows
         }
       }
     },
@@ -522,10 +525,10 @@ export default {
       if (info) {
         const phases = Object.keys(info).filter(key => key.match(/^Places taken up to/)).map(key => key.slice(19))
         const placesTaken = info['Places taken up to ' + max(phases)]
-        return [
+        const rows = [
           {label: 'Total Vacancy', value: info['Total Vacancy'], class: 'text-bold'},
           // {label: 'Reserved for Phase 2B & 2C', value: info['Vacancies Reserved for Phase 2B and 2C']},
-          {label: 'Places Taken So Far', value: placesTaken},
+          {label: 'Places Taken So Far', value: placesTaken, title: 'up until Phase 2B'},
           {
             values: [
               {label: 'Phase 1 applicants', value: getApplicants('Phase 1')},
@@ -538,6 +541,12 @@ export default {
             ]
           }
         ]
+        return {
+          label: 'P1 Registration Exercise',
+          year: '2017',
+          lastUpdated: '21 July 2017',
+          rows
+        }
       }
     }
   }
@@ -545,6 +554,9 @@ export default {
 </script>
 
 <style lang="scss">
+$color-primary: #273246;
+$color-secondary: #F8BD36;
+
 .picker-detail-card {
   margin-bottom: 0;
   font-size: 0.8em;
@@ -682,7 +694,7 @@ export default {
   }
 
   dt {
-    color: #F8BD36;
+    color: $color-secondary;
   }
 
   .cop-details,
@@ -724,5 +736,12 @@ export default {
     width: 8px;
     transform: rotate(45deg);
   }
+}
+
+.q-tooltip {
+  padding: 7px;
+  background-color: $color-primary;
+  font-size: 10px;
+  font-weight: 700;
 }
 </style>
