@@ -1,4 +1,4 @@
-# datagovsg-moe-school-picker
+# datagovsg-school-picker
 A data.gov.sg open-source project
 
 ## Introduction
