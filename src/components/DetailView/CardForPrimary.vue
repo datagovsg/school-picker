@@ -528,7 +528,7 @@ export default {
         const rows = [
           {label: 'Total Vacancy', value: info['Total Vacancy'], class: 'text-bold'},
           // {label: 'Reserved for Phase 2B & 2C', value: info['Vacancies Reserved for Phase 2B and 2C']},
-          {label: 'Places Taken So Far', value: placesTaken, title: 'up until Phase 2B'},
+          {label: 'Places Taken So Far', value: placesTaken, title: 'Up until Phase 2B\nResult of Phase 2C will be out on 2 August 2017'},
           {
             values: [
               {label: 'Phase 1 applicants', value: getApplicants('Phase 1')},
@@ -544,7 +544,7 @@ export default {
         return {
           label: 'P1 Registration Exercise',
           year: '2017',
-          lastUpdated: '21 July 2017',
+          lastUpdated: '26 July 2017',
           rows
         }
       }
@@ -743,5 +743,6 @@ $color-secondary: #F8BD36;
   background-color: $color-primary;
   font-size: 10px;
   font-weight: 700;
+  white-space: pre;
 }
 </style>
