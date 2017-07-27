@@ -13,6 +13,11 @@ In this README, we will go through all stuff you need to understand how the app 
 
 ## Setup
 
+##### Clone
+`git clone https://github.com/datagovsg/school-picker.git`
+
+`cd school-picker`
+
 ##### Install
 `npm install`
 
