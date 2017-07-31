@@ -64,8 +64,7 @@ export default {
 </script>
 
 <style lang="scss">
-$color-primary: #273246;
-$color-secondary: #F8BD36;
+@import "~style/variables.scss";
 
 .filter-more-modal {
   padding: 70px;

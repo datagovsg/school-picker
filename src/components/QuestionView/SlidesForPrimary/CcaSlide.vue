@@ -62,8 +62,7 @@ export default {
 </script>
 
 <style lang="scss">
-$color-primary: #273246;
-$color-border: #626a77;
+@import "~style/variables.scss";
 
 .question-cca {
   h5 {
@@ -74,7 +73,7 @@ $color-border: #626a77;
     margin: 25px 0;
     padding: 20px;
     border-radius: 5px;
-    border: 2px solid $color-border;
+    border: 2px solid $color-input-border;
     height: 50vh;
     overflow-y: auto;
 

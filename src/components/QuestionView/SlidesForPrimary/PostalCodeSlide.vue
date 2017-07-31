@@ -68,8 +68,7 @@ export default {
 </script>
 
 <style lang="scss">
-$color-border: #626a77;
-$color-faded: #EDEDED;
+@import "~style/variables.scss";
 
 .question-postal {
   .container {
@@ -87,7 +86,7 @@ $color-faded: #EDEDED;
       input {
         color: white;
         width: 100%;
-        border: 2px solid #626a77;
+        border: 2px solid $color-input-border;
         border-radius: 5px;
         margin-bottom: 0;
         padding: 15px 20px;

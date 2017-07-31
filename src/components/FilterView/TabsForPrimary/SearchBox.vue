@@ -68,6 +68,7 @@ export default {
 
 <style lang="scss">
 $color-secondary-darker: #F5AE31;
+$color-searchbox: #EF9328;
 
 .picker-searchbox {
   background-color: $color-secondary-darker!important;
@@ -91,7 +92,7 @@ $color-secondary-darker: #F5AE31;
         text-overflow: ellipsis;
         box-shadow: none;
         border-radius: 5px;
-        background-color: #EF9328;
+        background-color: $color-searchbox;
         font-size: 0.9rem;
       }
 

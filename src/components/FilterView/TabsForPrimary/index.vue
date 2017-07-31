@@ -44,9 +44,7 @@ export default {
 </script>
 
 <style lang="scss">
-$color-faded: #EDEDED;
-$color-tertiary: #CECECE;
-$color-border: #B8B8B8;
+@import "~style/variables.scss";
 
 .picker-filter {
   overflow-x: hidden;

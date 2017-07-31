@@ -31,9 +31,7 @@ export default {
 </script>
 
 <style lang="scss">
-$color-primary: #273246;
-$color-secondary: #F8BD36;
-$color-border: #626a77;
+@import "~style/variables.scss";
 
 .question-level {
   h5 {
@@ -61,7 +59,7 @@ $color-border: #626a77;
 
   .item {
     width: 250px;
-    border: 2px solid $color-border;
+    border: 2px solid $color-input-border;
     margin: 10px auto;
     border-radius: 3px;
 

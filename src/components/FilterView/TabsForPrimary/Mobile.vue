@@ -50,8 +50,7 @@ export default {
 </script>
 
 <style lang="scss">
-$color-faded: #EDEDED;
-$color-tertiary: #CECECE;
+@import "~style/variables.scss";
 
 .picker-filter.mobile {
   height: 100%;

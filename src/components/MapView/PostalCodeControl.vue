@@ -87,9 +87,7 @@ export default {
 </script>
 
 <style lang="scss">
-$color-primary: #273246;
-$color-faded: #E8E8E8;
-
+@import "~style/variables.scss";
 
 .postal-code-control {
   z-index: 10;

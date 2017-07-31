@@ -52,7 +52,7 @@ export default {
 </script>
 
 <style lang="scss">
-$color-positive: #30B19C;
+@import "~style/variables.scss";
 
 .picker-nav {
   height: 70px;

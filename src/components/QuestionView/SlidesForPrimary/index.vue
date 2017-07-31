@@ -52,10 +52,7 @@ export default {
 </script>
 
 <style lang="scss">
-$color-primary: #273246;
-$color-secondary: #F8BD36;
-$color-border: #626a77;
-$color-faded: #EDEDED;
+@import "~style/variables.scss";
 
 .slider-container {
     height: inherit;
@@ -122,7 +119,7 @@ $color-faded: #EDEDED;
       float: left;
       background-color: $color-primary;
       color: $color-faded!important;
-      border: 2px solid $color-border;
+      border: 2px solid $color-input-border;
 
       &:hover {
         background-color: white!important;

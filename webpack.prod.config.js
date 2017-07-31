@@ -52,7 +52,10 @@ module.exports = {
   ],
   resolve: {
     extensions: ['.js', '.vue', '.json'],
-    alias: {helpers: path.join(__dirname, '/src/helpers')}
+    alias: {
+      helpers: path.join(__dirname, '/src/helpers'),
+      style: path.join(__dirname, '/src/style')
+    }
   },
   devtool: 'source-map'
 }
