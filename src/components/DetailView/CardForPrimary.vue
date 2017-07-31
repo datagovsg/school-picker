@@ -544,7 +544,7 @@ export default {
         return {
           label: 'P1 Registration Exercise',
           year: '2017',
-          lastUpdated: '27 July 2017',
+          lastUpdated: '28 July 2017',
           rows
         }
       }
