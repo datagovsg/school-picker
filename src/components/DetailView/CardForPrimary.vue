@@ -528,7 +528,12 @@ export default {
         const rows = [
           {label: 'Total Vacancy', value: info['Total Vacancy'], class: 'text-bold'},
           // {label: 'Reserved for Phase 2B & 2C', value: info['Vacancies Reserved for Phase 2B and 2C']},
-          {label: 'Places Taken So Far', value: placesTaken, title: 'Up until Phase 2B\nResult of Phase 2C will be out on 2 August 2017'},
+          {
+            label: 'Places Taken So Far',
+            value: placesTaken,
+            class: placesTaken >= info['Total Vacancy'] && 'fully-booked',
+            title: 'Up until Phase 2C\nResult of Phase 2C(S) will be out on 21 August 2017'
+          },
           {
             values: [
               {label: 'Phase 1 applicants', value: getApplicants('Phase 1')},
@@ -536,7 +541,7 @@ export default {
               {label: 'Phase 2A(2) applicants', value: getApplicants('Phase 2A2')},
               {label: 'Phase 2B applicants', value: getApplicants('Phase 2B')},
               {label: 'Phase 2C applicants', value: getApplicants('Phase 2C')},
-              {label: 'Phase 2C(S) applicants', value: getApplicants('Phase 2CS')},
+              {label: 'Phase 2C(S) applicants', value: getApplicants('Phase 2C Supplementary')},
               {label: 'Phase 3 applicants', value: getApplicants('Phase 3')}
             ]
           }
@@ -544,7 +549,7 @@ export default {
         return {
           label: 'P1 Registration Exercise',
           year: '2017',
-          lastUpdated: '28 July 2017',
+          lastUpdated: '2 August 2017',
           rows
         }
       }
@@ -592,6 +597,14 @@ export default {
         height: 10px;
         margin-right: 5px;
       }
+    }
+
+    .fully-booked > td:last-child::after {
+      content: "full";
+      margin-left: 0.5em;
+      color: red;
+      font-size: 0.8em;
+      font-weight: 500;
     }
   }
 
