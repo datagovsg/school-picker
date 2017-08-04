@@ -53,6 +53,7 @@ import SearchBox from '../FilterView/TabsForPrimary/SearchBox'
 const ListCard = process.env.VERSION === 'preschool' ? CardForPreschool : CardForPrimary
 
 export default {
+  name: 'ListView',
   props: {
     hovered: String
   },

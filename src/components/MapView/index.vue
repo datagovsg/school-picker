@@ -13,6 +13,7 @@ import {toSVY21} from 'sg-heatmap/dist/helpers/geometry'
 import PostalCodeControl from './PostalCodeControl'
 
 export default {
+  name: 'MapView',
   props: {
     schoolId: String,
     hovered: String,

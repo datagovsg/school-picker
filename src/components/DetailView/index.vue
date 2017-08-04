@@ -22,6 +22,7 @@ import CardForPreschool from './CardForPreschool'
 const DetailCard = process.env.VERSION === 'preschool' ? CardForPreschool : CardForPrimary
 
 export default {
+  name: 'DetailView',
   props: {
     schoolId: String,
     selectedTab: String

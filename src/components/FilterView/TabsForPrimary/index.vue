@@ -25,6 +25,7 @@ import MoreOptionsModal from './MoreOptionsModal'
 import SearchBox from './SearchBox'
 
 export default {
+  name: 'FilterView',
   methods: {
     openModal (id) {
       this.$refs[id].$children[0].open()
