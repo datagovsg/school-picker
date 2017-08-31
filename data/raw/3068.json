@@ -1,9 +1,9 @@
 {
 	"code": "3068",
+	"name": "JURONG WEST SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3068F",
 	"logo": "./Medias/Images/Schools/logos/tn_3068.jpg",
-	"name": "JURONG WEST SECONDARY SCHOOL",
 	"website": "http://www.jurongwestsec.moe.edu.sg",
 	"address": "61, JURONG WEST STREET 65 ( 648348 )",
 	"telephone": [
@@ -23,7 +23,7 @@
 		],
 		"School Vision": "A Values-Centred Community where Learning is ignited by Passion, Thinking driven by Innovation and Leading inspired by Service",
 		"School Mission": "To engage the hearts and minds of students to develop them to their full potential enabling them to fulfill their aspirations and contribute as active citizens in society",
-		"School Philosophy, Culture and Ethos": "In our school, we place a premium on the holistic development of students. This is anchored in our strong belief that both academic excellence and character development are pillars of a holistic education. As we develop our students' character, we nurture values and dispositions necessary for excellence in academic pursuits. Whilst we equip our students with knowledge and skills in the academic subjects, we also develop in them the competencies and attitudes to navigate the future. The Jurong West Experience, grounded in Student-Centricity, is premised in our belief that when students have an interest and find enjoyment in what they do, they will do well and find greater motivation to pursue those interests beyond secondary school. The school's value add academic results and strong CCA achievements, particularly in the Uniformed Groups, are testimony to the school's commitment to enable each student to reach his/her full potential. The school has a strong emphasis on Higher Education and Career Guidance. With accurate information on post-secondary pathways students are well placed to make informed choices. Professional development of our staff is a cornerstone in our goal to deliver relevant and engaging lessons and programmes. As a future-oriented and forward looking school, our distinctive LLP and ALP are designed with the future and national initiatives such as smart nation in mind. These programmes offer students an integrative and immersive educational experience beyond a typical curriculum.",
+		"School Philosophy, Culture and Ethos": "In our school, we place a premium on the holistic development of students. This is anchored in our strong belief that both academic excellence and character development are pillars of a holistic education. The school's strong academic and CCA achievements, particularly in the Uniformed Groups, Sports as well as Performing Arts, are testimony to the school's commitment to enable each student to reach his/her full potential. The Jurong West (JW) Experience, grounded in Student-Centricity, is premised in our belief that when students have an interest and find enjoyment in what they do, they will do well and find greater motivation to pursue those interests beyond secondary school. As a future-oriented and forward looking school, our distinctive LLP and ALP are designed with the future and national initiatives such as smart nation in mind. The school offers a wide range of exciting opportunities in both the academic and co-curricular areas through programmes such as Student Work Attachment, Student Leadership, Overseas Student Exchange and Talent Development in English, Mathematics, Science, Art and Sports. The school also offers the Enhanced Art Programme and subjects such as Exercise and Sports Science as well as Computing. The JW experience aims to nurture passionate learners, innovative thinkers and caring leaders whilst equipping students with desired knowledge, skills, values and mind-sets to experience success not just in the present but also in the future.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -38,7 +38,6 @@
 		"CHEMISTRY",
 		"CHINESE",
 		"CHINESE N(A)",
-		"CO-CURRICULAR ACTIVITIES",
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMBINED HUMANITIES (S,L)",
@@ -49,9 +48,11 @@
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
+		"EXERCISE AND SPORTS SCIENCE",
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
+		"HIGHER ART",
 		"HIGHER CHINESE",
 		"HIGHER TAMIL",
 		"HISTORY",
@@ -62,10 +63,9 @@
 		"MATHEMATICS (SYLLABUS A)",
 		"MATHEMATICS (SYLLABUS T)",
 		"MUSIC",
-		"OECIE PHYSICAL EDUCATION",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
-		"PRINCIPLES OF A/C",
+		"PRINCIPLES OF ACCOUNTS",
 		"PROJECT WORK",
 		"SCIENCE",
 		"SCIENCE (CHEM, BIO)",
@@ -73,13 +73,13 @@
 		"SCIENCE (SYLL T)",
 		"SOCIAL STUDIES",
 		"TAMIL",
-		"TAMIL B",
 		"TAMIL N(A)"
 	],
 	"Cca": {
 		"Physical Sports": [
 			"Badminton",
 			"Basketball",
+			"Floorball",
 			"Frisbee",
 			"Hockey",
 			"Netball",
@@ -87,9 +87,9 @@
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
+			"National Cadet Corps",
 			"National Civil Defence Cadet Corps",
-			"Ncc (Land)",
-			"Npcc",
+			"National Police Cadet Corps",
 			"Singapore Red Cross Society"
 		],
 		"Visual and Performing Arts": [
@@ -100,7 +100,7 @@
 		],
 		"Clubs & Societies": [
 			"Audio Video And Information Technology Club",
-			"Ldds - English",
+			"English Literary Drama & Debate Society",
 			"Science Club",
 			"Student Leadership"
 		]
@@ -113,7 +113,7 @@
 			"Aesthetics": "Harnessing Technology, Communication and the Visual Arts in Authentic Contexts",
 			"Community & Youth Leadership": "Developing Character, Leadership and Citizenship"
 		},
-		"Special Student Development Programmes Offered": "Enhanced Art Programme(EAP)-Provides opportunities for talented Art students to develop their talent at higher levels; Learning for Life Programme(LLP)-Community and Youth Leadership that focuses on equipping students with values and life skills by initiating and leading community projects; Applied Learning Programme(ALP)-Equips students with ICT, communication and design skills to solve real life issues; Student Work Attachment Programme(SWAP)-Provides greater exposure to the world of work and an understanding of the type of knowledge and skills needed for industries; Student Leadership Programme; Talent Development Programme(English,Mathematics,Science)-To deepen students' learning and stretch thinking in the disciplines; Shanghai-Singapore Overseas Student Exchange Programme; Eligible N(A) and N(T) students are given the flexibility to take some subjects at a higher level starting from Sec 1, based on their PSLE results. Beyond the start of Sec 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "Enhanced Art Programme(EAP)-Provides opportunities for talented Art students to develop their talent at higher levels; Learning for Life Programme(LLP)-Community and Youth Leadership that focuses on equipping students with values and life skills by initiating and leading community projects; Applied Learning Programme(ALP)-Equips students with ICT, communication and design skills to solve real life issues; Student Work Attachment Programme(SWAP)-Provides exposure to the world of work and an understanding of the type of knowledge and skills needed for different industries; Student Leadership Programme; Talent Development Programme (English, Mathematics, Science, Art and Sports)-To deepen students' learning and stretch thinking in the disciplines; Shanghai-Singapore Overseas Student Exchange Programme; Japan-Singapore Overseas Student Exchange Programme; Member of Parliament Attachment Programme."
 	},
 	"AchievementHistory": {
 		"Secondary": {

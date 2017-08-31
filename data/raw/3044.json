@@ -1,9 +1,9 @@
 {
 	"code": "3044",
+	"name": "BUKIT BATOK SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3044A",
 	"logo": "./Medias/Images/Schools/logos/tn_3044.jpg",
-	"name": "BUKIT BATOK SECONDARY SCHOOL",
 	"website": "http://www.bukitbatoksec.moe.edu.sg",
 	"address": "50, BUKIT BATOK WEST AVE 8 ( 658962 )",
 	"telephone": [
@@ -23,25 +23,22 @@
 		],
 		"School Vision": "A premier school which provides quality holistic education to every BBSSian.",
 		"School Mission": "To nurture BBSSians to be self-directed learners with abundance mentality.",
-		"School Philosophy, Culture and Ethos": "We believe every child is unique and has innate abilities to be developed.  Our school values - RESPECT (Reflection, Enterprise, Self-discipline, Perseverance, Empathy, Creativity, Teamwork), mission and vision, represent our collective passion, dreams and aspirations, and guide us in how we work with our parents, community and partners to realise the full potential of our students.  We endeavour to build a culture of care, self-directedness and compassion amongst staff and students.  At BBSS, children are firmly at the heart of our work and we seek to develop the whole child by providing meaningful and connected learning experiences that will allow every BBSSian to develop the right values, competencies and skills to do well in the 21st century.",
+		"School Philosophy, Culture and Ethos": "We believe every child is unique and has innate abilities to be developed.  Our school values - RESPECT (Reflection, Enterprise, Self-discipline, Perseverance, Empathy, Creativity, Teamwork), mission and vision, represent our collective passion, dreams and aspirations, and guide us in how we work with our parents, community and partners to realise the full potential of our students.  We endeavour to build a culture of care, self-directedness and abundance mentality amongst staff and students.  At BBSS, children are firmly at the heart of our work and we seek to develop the whole child by providing meaningful and connected learning experiences that will allow every BBSSian to develop the right values, competencies and skills to do well in the 21st century.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
 	},
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
-		"ALP",
 		"ART",
 		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BASIC TAMIL",
 		"BIOLOGY",
-		"CHARACTER AND CITIZENSHIP EDUCATION",
 		"CHEMISTRY",
 		"CHINESE",
 		"CHINESE N(A)",
 		"CIVICS & MORAL EDUCATION",
-		"CO-CURRICULAR ACTIVITIES",
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
@@ -54,7 +51,6 @@
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
-		"HISTORY",
 		"LITERATURE(E)",
 		"MALAY",
 		"MALAY (SPECIAL PROGRAMME)",
@@ -79,7 +75,7 @@
 			"Badminton",
 			"Basketball (Boys)",
 			"Cross Country",
-			"Rugby",
+			"Rugby (Boys)",
 			"Softball (Girls)"
 		],
 		"Uniformed Groups": [
@@ -93,15 +89,13 @@
 		"Visual and Performing Arts": [
 			"Band",
 			"Chinese Orchestra",
-			"Choir",
 			"Eldds",
 			"Malay Dance",
-			"Modern Dance"
+			"Modern Dance",
+			"Show Choir"
 		],
 		"Clubs & Societies": [
-			"Health & Fitness Club",
 			"Media Club",
-			"One Earth Club",
 			"Pa Club"
 		]
 	},
@@ -113,7 +107,7 @@
 			"STEM": "Developing Proactive Problem-Solvers who care for our World through STEM",
 			"Community & Youth Leadership": "Developing Community Youth Leadership through Values-in-Action"
 		},
-		"Special Student Development Programmes Offered": "As our foundational programme, we adopted Arthur L. Costa's the Habits of Mind (HOM) to inculcate in BBSSians good learning habits and thinking dispositions so that they can become self-directed, life-long learners.  BBSSians systematically learn the 16 habits through hands-on experiences and then practise these habits daily.  Our LLP is the Community Youth Leadership Programme which aims to nurture RESPECTful Leaders who are confident and self-directed in serving the community with abundance mentality. This programme encompasses the twin pillars of Leadership Development and Values-In-Action (VIA) and provides BBSSians with leadership training experiences like Outward Bound courses and overseas expeditions and opportunities to organise school-wide events like Project Mi and Project Heartwork.  Our ALP is in the area of embedded electronics.  It builds upon the fundamentals of Science, Technology, Engineering and Mathematics (STEM) and aims to develop BBSSians as proactive problem-solvers who care for the world.  This programme focuses on application of sensing technologies in our everyday life."
+		"Special Student Development Programmes Offered": "As our foundational programme, we adopted Arthur L. Costa's the Habits of Mind (HOM) since 2003 to inculcate in BBSSians good learning habits and thinking dispositions that every student should practice daily to be equipped for future challenges as self-directed, life-long learners. Using the pedagogy of Activity-Based Learning, students go through the learning cycle of Taught, Caught and Practice to hone these dispositions. For example, Sec 1s hone the disposition of \"Gathering Data through All Senses\" by going around the school using their 5 senses to increase their power of observation as part of a HOM lesson. Our Learning for Life Programme (LLP) is the Community Youth Leadership (CYL) Programme which aims to nurture RESPECTful Leaders who are confident and self-directed in serving the community with abundance mentality. This programme encompasses the twin pillars of Leadership Development and Values In Action (VIA) to provide BBSSians with leadership training experiences and opportunities to organise community-wide events like Project Mi and Blood Donation Drive, and participate in overseas service learning expeditions like Project Heartwork. Such projects aims to develop dispositions like \"Listening with Understanding and Empathy\" and \"Questioning and Problem Posing\". Our Applied Learning Programme (ALP) is in the area of embedded electronics which builds upon the fundamentals of Science, Technology, Engineering and Mathematics (STEM) to develop BBSSians as proactive problem-solvers who care for the world. Focusing on application of sensing technologies in our everyday life, lower sec students learn to solve self-identified real life problems and interested upper sec students go on to collaborate with school partners to design solutions, participate in competitions, job shadowing and attend STEM related elective modules. By cultivating the disposition of \"Remaining open to Continuous Learning\", we endeavour to prepare the students well for the future."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -167,12 +161,12 @@
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
 				"Development Award": "DA (National Education)",
 				"SYF Arts Presentation": {
-					"Dance - Malay": "Distinction",
 					"Band - Concert": "Accomplishment",
 					"Choir": "Accomplishment",
 					"Dance - International": "Accomplishment",
 					"Drama - English": "Accomplishment",
-					"Orchestra - Chinese": "Distinction"
+					"Orchestra - Chinese": "Distinction",
+					"Dance - Malay": "Distinction"
 				},
 				"Best Unit Award": {
 					"Boys' Brigade": "Gold",

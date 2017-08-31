@@ -1,10 +1,10 @@
 {
 	"code": "3006",
+	"name": "GAN ENG SENG SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3006F",
 	"logo": "./Medias/Images/Schools/logos/tn_3006.jpg",
-	"name": "GAN ENG SENG SCHOOL",
-	"website": "http://www.ganengsengsch.moe.edu.sg/",
+	"website": "http://www.ganengsengsch.moe.edu.sg",
 	"address": "1, HENDERSON ROAD ( 159561 )",
 	"telephone": [
 		"64745594"
@@ -100,7 +100,11 @@
 		"MOE Programmes": [
 			"Not Available"
 		],
-		"Special Student Development Programmes Offered": "The GESS LIFE programme seeks to develop students to be confident and effective student leaders who positively impact their community through the 3D approach - Discovering myself, Developing good habits, and Designing our world. Students discover themselves and develop a better appreciation of one another's uniqueness using the Myers-Briggs Type Indicator assessment. They will learn effective strategies to leverage their strengths and build competencies in other areas, and collaborate with others. The LIFE programme will provide school-wide, cohort and personal opportunities for every student to purposefully apply their knowledge and skills to impact their school and community. The GESS Applied Learning Programme, GESS Probes*, serves to prepare students for their future workplace. It aims to develop future workskills 2020 such as transdisciplinarity, design thinking, and novel and adaptive thinking in students. The programme focuses on STEAM (Science, Technology, Engineering, Aesthetics and Mathematics) as well as the design thinking process. Probes* refers to the underwater probe that students will be tasked to design as part of their learning process. There are two tiers for the programme catering to different needs of the students. The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"School Distinctive Programmes": {
+			"STEM": "GESS Probes Programme",
+			"Community & Youth Leadership": "GESS LIFE Programme"
+		},
+		"Special Student Development Programmes Offered": "The GESS LIFE programme seeks to develop students to be confident and effective student leaders who positively impact their community through the 3D approach - Discovering myself, Developing good habits, and Designing our world. Students discover themselves and develop a better appreciation of one another's uniqueness using the Myers-Briggs Type Indicator assessment. They will learn effective strategies to leverage their strengths and build competencies in other areas, and collaborate with others. The LIFE programme will provide school-wide, cohort and personal opportunities for every student to purposefully apply their knowledge and skills to impact their school and community. The GESS Applied Learning Programme, GESS Probes*, serves to prepare students for their future workplace. It aims to develop future workskills 2020 such as transdisciplinarity, design thinking, and novel and adaptive thinking in students. The programme focuses on STEAM (Science, Technology, Engineering, Aesthetics and Mathematics) as well as the design thinking process. Probes* refers to the underwater probe that students will be tasked to design. They will also learn basic coding as part of their learning process. There are two tiers for the programme catering to different needs of the students."
 	},
 	"AchievementHistory": {
 		"Secondary": {

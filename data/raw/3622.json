@@ -1,9 +1,9 @@
 {
 	"code": "3622",
+	"name": "COMPASSVALE SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3622L",
 	"logo": "./Medias/Images/Schools/logos/tn_3622.jpg",
-	"name": "COMPASSVALE SECONDARY SCHOOL",
 	"website": "http://www.compassvalesec.moe.edu.sg",
 	"address": "51, COMPASSVALE CRESCENT ( 545083 )",
 	"telephone": [
@@ -24,7 +24,7 @@
 		"Vice Principal (Admin)": "MR PHANG CHEE KHENG",
 		"School Vision": "World Ready Youth - Innovative contributors, upright citizens with a global outlook",
 		"School Mission": "We develop our students to their fullest potential through a balanced education and instil in them a passion for living and learning.",
-		"School Philosophy, Culture and Ethos": "In CVSS, we believe there is a star in all our students and help our students find the compass in their lives and realise the star within.  We want all our students to be like the North Star, shining brightly with good character and excellence in both academic and non-academic domains, as a guiding light for the community and the world.  We aim to foster a vibrant learning community with a nurturing school climate through diverse and engaging school programmes with ample opportunities for student participation and student voice. Our culture and ethos are 'Achieve our Best' (every student a 'North Star'); 'Believe in Every Child' (everyone can achieve and all can succeed); 'Care for Every Child' (every teacher guides and mentors each 'North Star' in developing holistically as individuals) and 'Determined to Learn' (every student comes to school with the right attitude for learning and the mindset of high expectations).",
+		"School Philosophy, Culture and Ethos": "In CVSS, we believe there is a star in all our students and help our students find their own compass in life and realise the star within; like the North Star, shining brightly with impeccable character and excellence in both academic and non-academic domains, as a guiding light for the community and the world. We aim to foster a vibrant learning community with a nurturing school climate through diverse and engaging school programmes with ample opportunities for all. Our culture and ethos are 'Achieve our Best' (every student a 'North Star'); 'Believe in Every Child' (everyone can achieve and all can succeed); 'Care for Every Child' (every teacher guides and mentors each 'North Star' in developing holistically as individuals) and 'Determined to Learn' (every student comes to school with the right attitude for learning and the mindset of high expectations).  Our North Star Education Programme offers a total curriculum to develop our students to be world and future-ready, with the right values and 21st century competencies. Our instructional programme is based on i-TEACH Framework for integrated, engaged and assessed learning, with teachers as curriculum innovators, collaborative learners and holistic educators. Our school-wide pedagogies include Inquiry-Based Learning, Thinking Routines, ICT-enabled Active Learning, Self-Directed & Collaborative Learning, Assessment for Learning and Whole School Approach to Effective Communication. We have consistently achieved value-added results through the PrIME (Proactive, Intervention, Motivating & Empowering) framework driven by Academic Excellence (ACE) Committee with strategies such as PEC (Personal Educational & Career) Plan/Aspirational Target Setting, ASPIRE motivational programme, After School Study Programme/Start Right Programme/Teacher Mentors etc.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -35,12 +35,12 @@
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
+		"CHINESE B",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
-		"FOOD AND CONSUMER EDUCATION",
-		"HIGHER CHINESE",
+		"FOOD & NUTRITION",
 		"HUMANITIES (SS, GEOGRAPHY)",
 		"HUMANITIES (SS, HISTORY)",
 		"MALAY",
@@ -51,6 +51,7 @@
 	],
 	"Cca": {
 		"Physical Sports": [
+			"Badminton (B&G)",
 			"Basketball (B&G)",
 			"Floorball (B&G)",
 			"Netball",
@@ -64,15 +65,18 @@
 			"Singapore Red Cross Youth"
 		],
 		"Visual and Performing Arts": [
-			"Band",
 			"Choir",
-			"Dance",
-			"Drama"
+			"Concert Band",
+			"Drama",
+			"Modern Dance"
 		],
 		"Clubs & Societies": [
-			"Environment Club",
+			"Aeronautics",
+			"Environment",
 			"Library",
-			"Pa/Ava/Robotics Club"
+			"Media Resource Library",
+			"Pa/Ava/Robotics",
+			"Videography"
 		]
 	},
 	"SpecialProgrammes": {
@@ -83,7 +87,7 @@
 			"STEM": "Aeronautics for North Stars",
 			"Community & Youth Leadership": "Inspired North Stars Inspire Actions"
 		},
-		"Special Student Development Programmes Offered": "Our North Star Education Programme (NSEP) offers a total curriculum that covers all five domains of student development (physical/cognitive/social/moral/aesthetic) and develops 21st century competencies. Our instructional programme is based on i-TEACH Framework for integrated, engaged and assessed learning, and teachers as curriculum innovators, collaborative learners and holistic educators. The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects.  Our school-wide pedagogies include Assessment for Learning, Thinking Routines, Flipped Classroom and ICT-infused Self-Directed & Collaborative Learning. Our distinctive programmes are (1) Aeronautics Applied Learning Programme (Applications of science and technology in aeronautics industry) and (2) 'Inspired North Stars Inspire Actions' Learning for Life Programme (Community and youth leadership development for all students including overseas VIA projects). Other key school/level wide programmes include (1) Outdoor Education Programme (Cohort/level-wide adventure/cultural immersion camps, adoption of Sengkang Floating Wetland for Science/Environment Education) (2) Practice-Oriented Curriculum (Elective Modules and Advanced Elective Modules for all Sec 3 students to explore post-secondary educational/career options) (3) North Star Scholars Programme (Talent development). Other school/level-wide departmental signature programmes include EL Speech & Drama modules, MTL Web-based Oral Communications modules, Fun Math Programme, Elementz Science Research Programme, 3D Design/Printing, Ready for the World Educational & Career Guidance Programme, Building Resilience through Outdoor Adventure for Normal Course students etc."
+		"Special Student Development Programmes Offered": "We aim to establish our strengths in STEM (Science, Technology, Engineering & Math) and character education through customised curriculum, innovative pedagogies and partnerships with key stakeholders.  Our distinctive programmes are Aeronautics Applied Learning Programme and 'Inspired North Stars Inspire Actions'- Learning for Life Programme in Community and Youth Leadership. Our student development programme is centred on the STAR Programme- Seek out your strength (understanding oneself, social emotional competencies profiling/social-emotional learning, leadership opportunities/development), Take responsibility (responsibility to self/family/school/community/world through values education and values-in-actions community involvement), Adopt an enterprising spirit (developing entrepreneurial dare, learning through failure, project work, outdoor education/adventure camps), Ready for the world (educational and career guidance, information/financial literacy, personal mastery, emotional/adversity/cultural quotient).  Other key school/level wide programmes include (1) Outdoor Education Programmes (Science Outdoor Learning & Experience Programme, cohort/level-wide adventure camps/night cycling, Environment Education/Adoption of Sengkang Floating Wetland) (2) Practice-Oriented Curriculum (Elective Modules and Advanced Elective Modules for all Sec 3 students to explore post-secondary educational/career options) (3) North Star Scholars Programme (Talent development). Other school/level-wide departmental signature programmes include EL Speech & Drama Programme, MTL Oratorical Skills Programme, Fun Math Programme, Craft & Technology 3D Design/Printing, Social Skills Training, Peer Support & Relationship Programme, Teacher-Student Relationship Inventory etc."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -127,18 +131,18 @@
 			},
 			"2016": {
 				"SYF Arts Presentation": {
-					"Dance - International": "Distinction",
-					"Drama - English": "Distinction",
 					"Art - Category B": "Recognition",
 					"Band - Concert": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Drama - English": "Distinction",
 					"Choir": "Distinction"
 				},
 				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
 					"Girl Guides (Coy 1)": "Silver",
 					"Ncc (Air)": "Silver",
 					"Npcc (Land)": "Silver",
-					"Red Cross": "Gold",
-					"Boys' Brigade": "Silver"
+					"Red Cross": "Gold"
 				}
 			},
 			"2017": {}

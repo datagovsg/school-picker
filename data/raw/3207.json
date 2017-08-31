@@ -1,9 +1,9 @@
 {
 	"code": "3207",
+	"name": "DUNMAN SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3207F",
 	"logo": "./Medias/Images/Schools/logos/tn_3207.jpg",
-	"name": "DUNMAN SECONDARY SCHOOL",
 	"website": "http://www.dunmansec.moe.edu.sg",
 	"address": "21, TAMPINES STREET 45 ( 529093 )",
 	"telephone": [
@@ -21,6 +21,7 @@
 			"MR HO KOK SUN KEVIN",
 			"MRS CLAIRE CHO"
 		],
+		"Vice Principal (Admin)": "MR LEE HAN KEONG",
 		"School Vision": "An institution of excellence which nurtures ethical change-makers.",
 		"School Mission": "We are committed to instilling in our students the Five Fundamental Values of:  Discernment in our choice of right from what is not, Discipline in mind, fitness and conduct,  Daring to experiment and forge breakthroughs, Determination to succeed in all that we do And Duty  To serve and better our school, community and nation.",
 		"School Philosophy, Culture and Ethos": "As a high-performing Autonomous School, our value proposition is Dunman Aspires, Builds and Cares.  We Aspire to be better than we ever imagined we could be. We believe in each child's different abilities and his potential to become an inquiring and independent learner who owns his learning outcomes.  We Build people as we are one community. We provide a rigorous and holistic education which nurtures students to excel in lifelong learning. We dare to be innovative and challenge our students and staff to do things differently. We place a premium on character development and positive teacher-student relationships. Together with the strong partnerships forged with parents and stakeholders, we believe that our high-care, high-expectations approach to nurturing the child will develop the necessary skills.  We Care by giving back to others, through instilling in students values and character that will essentially shape them into well-rounded and contributing members of society.",
@@ -46,6 +47,7 @@
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
+		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
@@ -60,6 +62,7 @@
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE",
+		"SCIENCE (PHY, CHEM)",
 		"TAMIL",
 		"TAMIL N(A)"
 	],
@@ -67,6 +70,7 @@
 		"Physical Sports": [
 			"Badminton",
 			"Basketball",
+			"Football",
 			"Netball",
 			"Table Tennis",
 			"Volleyball"
@@ -89,11 +93,7 @@
 		],
 		"Clubs & Societies": [
 			"Green Club",
-			"Infocomm Club",
-			"Interact Club",
-			"Library Council",
-			"Life Sciences Society",
-			"Pa Club"
+			"Infocomm Club"
 		]
 	},
 	"SpecialProgrammes": {

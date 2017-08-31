@@ -1,9 +1,9 @@
 {
 	"code": "3003",
+	"name": "BEATTY SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3003G",
 	"logo": "./Medias/Images/Schools/logos/tn_3003.jpg",
-	"name": "BEATTY SECONDARY SCHOOL",
 	"website": "http://www.beattysec.moe.edu.sg",
 	"address": "1, TOA PAYOH NORTH ( 318990 )",
 	"telephone": [
@@ -13,7 +13,7 @@
 		"62542284"
 	],
 	"email": "BEATTY_SS@MOE.EDU.SG",
-	"mrt": "Braddell MRT, Toa Payoh MRT",
+	"mrt": "BRADDELL MRT, TOA PAYOH MRT",
 	"bus": "28 , 56 , 73 , 88 , 93 , 105 , 153 , 155 , 159 , 163 , 157 , 231 , 232 ",
 	"GeneralInformation": {
 		"Principal": "MR LING KHOON CHOW",
@@ -23,7 +23,7 @@
 		],
 		"School Vision": "A Distinguished Institution of Thinkers, Learners and Contributors",
 		"School Mission": "To nurture Beattyians of Character with a Sense of Purpose and Passion for Life",
-		"School Philosophy, Culture and Ethos": "Established in 1953, Beatty Secondary has nurtured many illustrious Beattyians. Its Alumni boasts of prominent members from the civil service, academia, business and the arts. Beatty Secondary believes in the unique worth of every student and aims to nurture resilient, team-spirited and morally upright individuals with a sense of purpose and passion for life. The broad-based academic and character development programmes offered at Beatty are specially tailored to ignite students' passion and interest in learning. They are also designed to develop and stretch student abilities and talents to the fullest. In all, education in Beatty Secondary seeks to nurture good thinkers and self-directed learners who will become contributing members of society. Underlying these programmes is the care the school provides for the physical, intellectual, social and emotional well-being of each of its charges. Beatty's team of committed and caring staff take pride in their innovative approaches in creating an enriching and supportive learning environment for her students.",
+		"School Philosophy, Culture and Ethos": "Established in 1953, Beatty Secondary has nurtured many illustrious Beattyians. Its Alumni boasts of prominent members from the civil service, academia, business and the arts. Beatty Secondary believes in the unique worth of every student and aims to nurture confident, adaptable, resilient, future-ready and morally upright individuals with a sense of purpose and passion for life. The broad-based academic and character development programmes offered at Beatty Secondary are specially tailored to ignite students' passion, joy and interest in learning. They are also designed to develop and stretch students' abilities and talents to the fullest. Beatty Secondary seeks to nurture deep thinkers and self-directed learners who will become valuable contributors to society. Underlying these programmes is the care we provide to ensure the physical, intellectual, social and emotional well-being of every Beattyian. Our team of committed and caring staff take pride in employing innovative approaches to create an enriching and supportive learning environment for all Beattyians.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -44,9 +44,12 @@
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
+		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
+		"HIGHER MALAY",
+		"HIGHER TAMIL",
 		"HISTORY",
 		"LITERATURE(E)",
 		"MALAY",
@@ -54,16 +57,19 @@
 		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
-		"PRINCIPLES OF A/C",
+		"PRINCIPLES OF ACCOUNTS",
 		"PROJECT WORK",
+		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
+		"SMART ELECTRICAL TECHNOLOGY",
 		"SOCIAL STUDIES",
 		"TAMIL"
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Beatty Badminton Squad",
+			"Badminton",
+			"Canoeing",
 			"Football",
 			"Volleyball",
 			"Wushu"
@@ -71,21 +77,21 @@
 		"Uniformed Groups": [
 			"Boys' Brigade",
 			"Girl Guides",
-			"Ncc (Land)",
-			"Npcc",
+			"National Cadet Corps (Land)",
+			"National Civil Defence Cadet Corps",
+			"National Police Cadet Corps",
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
+			"Chinese Orchestra",
 			"Choir",
 			"Concert Band",
-			"Dance - Indian",
-			"Dance - Malay",
 			"Drama Club",
-			"Orchestra - Chinese"
+			"International Dance",
+			"Malay Dance"
 		],
 		"Clubs & Societies": [
-			"Information Communication Club",
-			"Library Club"
+			"Information Communication Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -93,10 +99,10 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Interdisciplinary": "Beattyians Think. Create. Innovate Programme",
+			"STEM": "Man and the Environment - Teaching 21st Century Competencies through Environmental Education",
 			"Community & Youth Leadership": "Beatty's Leaders for Life Programme"
 		},
-		"Special Student Development Programmes Offered": "In Beatty Secondary, we nurture students to be Thinkers, Learners and Contributors. The school seeks to engage its learners through a varied and effective instructional curriculum and co-curriculum to help them develop the skills and disposition to navigate through life. Beatty's Applied Learning Programme (ALP), Beattyians Think. Create. Innovate Programme provides an excellent integrated platform for students to learn 21st century competencies for eg. in Critical and Inventive Thinking, Information Literacy and Communication and to apply these in real life contexts. To develop Beattyians of Character with a sense of Purpose and Passion for life, the school makes the Character development of students a key focus. Beatty's wide-ranging co-curricular programmes include outdoor adventure camps, the Values in Action programme, cultural exchange programmes with overseas partner schools eg Japan. These programmes serve to imbibe sound values, develop strength of character and socio-emotional competencies in students. Beatty's Learning For Life Programme (LLP), Leaders for Life Programme nurtures every Beattyian with leadership skills and disposition through a structured system of training, mentoring and opportunities at leading. Beatty's Key Programmes: MOE Higher Chinese Centre, Beatty Character & Citizenship Education, Overseas Twinning Programme, ICT Training Programme, Drama-in-curriculum, Subject-based Talent Development Programme, Elective & Advanced Elective Modules, Life Science Programme, Environmental Education."
+		"Special Student Development Programmes Offered": "In Beatty Secondary, we develop students' talents, stretch their potential and prepare them for the future. We inculcate critical thinking skills and problem-solving skills in our students, develop their leadership qualities and provide opportunities for them to gain a global outlook. Anchoring on strong values, we equip them with essential social skills as well as competencies. Our Applied Learning Programme known as \"Beattyians Think. Create. Innovate Programme\" enables Beattyians to develop 21st Century Competencies and apply them in real life contexts. Design Thinking tools and processes are used to teach students to empathise with the needs of the target group, define problems and ideate creative solutions. Our Learning for Life Programme known as \"Beatty's Leaders for Life Programme\" equips Beattyians with leadership skills and creates students with a confident disposition through the Kouzes and Posner's Leadership Challenge model. Students learn and put into practice their leadership competencies guided by mentors. Students are led to embrace a global outlook through overseas cultural exchange programmes with schools from Japan, China and Vietnam. Our Character Development Programmes, which include Outdoor Adventure Camps and Values-in-Action programmes serve to imbibe sound values, develop strength of character and socio-emotional competencies in Beattyians. Our programmes hone character traits like resilience, teamwork, a greater sense of confidence and local rootedness. Beatty Secondary offers Direct School Admission to talented students who display competence and a keen interest in either Wushu or Canoeing. Beatty Secondary offers Higher Chinese and is a MOE designated Higher Chinese Centre."
 	},
 	"AchievementHistory": {
 		"Secondary": {

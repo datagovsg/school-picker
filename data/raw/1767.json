@@ -1,9 +1,9 @@
 {
 	"code": "1767",
+	"name": "WELLINGTON PRIMARY SCHOOL",
 	"levels": "P",
 	"uen": " T07GS1767J",
 	"logo": "./Medias/Images/Schools/logos/tn_1767.jpg",
-	"name": "WELLINGTON PRIMARY SCHOOL",
 	"website": "http://www.wellingtonpri.moe.edu.sg",
 	"address": "10, WELLINGTON CIRCLE ( 757702 )",
 	"telephone": [
@@ -17,7 +17,10 @@
 	"bus": "980 , 856 , 859 ",
 	"GeneralInformation": {
 		"Principal": "MR TSU CHIN SUN GARY",
-		"Vice Principal": "MRS NUR FATIMAH FRAUDER",
+		"Vice Principal": [
+			"MRS NUR FATIMAH FRAUDER",
+			"MDM KONG YEE LOON"
+		],
 		"School Vision": "Becoming a global STAGE to grow World-ready Talents & People.",
 		"School Mission": "To empower every individual, nurture talents and groom leaders.",
 		"School Philosophy, Culture and Ethos": "We believe in developing a Gem in every Wellingtonian. Each Gem has unique qualities that can sparkle under any light source.  Hence we dedicate ourselves to provide a global stage for our Gems so that they can practise what we call \"Learning by doing, doing until we become\". We believe that each unique Gem can be shaped and nurtured to excel in character through the experiential approach to learning. Character is shaped through habitual practices of right values.  As a Wellington Gem, each child will take initiative to act to meet the needs of the world around them. This is why we define leadership as 'taking the initiative to make a difference to the people around us!' Our aim is that by the time each Gem leaves Wellington Primary, he or she would have left a positive mark somewhere in Sembawang, in Singapore or the world.",
@@ -71,8 +74,7 @@
 			"Dance - Indian",
 			"Dance - Malay",
 			"Dance - Sports",
-			"Guzheng Ensemble",
-			"Media Club"
+			"Guzheng Ensemble"
 		],
 		"Clubs & Societies": [
 			"Green Innovation Club",
@@ -84,7 +86,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"ICT": "Promoting Student Enquiry & Independent Learning through New Media",
+			"ICT & Media": "Promoting Student Enquiry & Independent Learning through New Media",
 			"Music & Performing Arts": "Developing Student Talent and Life-long Learning in Dance through ADDAM (Academy of Dance, Drama, Art & Music)"
 		},
 		"Special Student Development Programmes Offered": "Student Leadership Programmes (including Student Ambassador Programme & Student Council);Lifelong Learning Programme in Dance / Aesthetics; Advanced Programmes for Excellence (APEX) in Languages & Math+Sciences; ALP in New Media & Technology including eGame Making"

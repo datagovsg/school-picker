@@ -1,9 +1,9 @@
 {
 	"code": "5026",
+	"name": "SINGAPORE CHINESE GIRLS' PRIMARY SCHOOL",
 	"levels": "PF",
 	"uen": " T07GS5026J",
 	"logo": "./Medias/Images/Schools/logos/tn_5026.jpg",
-	"name": "SINGAPORE CHINESE GIRLS' PRIMARY SCHOOL",
 	"website": "http://www.scgs.moe.edu.sg",
 	"address": "190, DUNEARN ROAD ( 309437 )",
 	"telephone": [
@@ -18,6 +18,7 @@
 	"GeneralInformation": {
 		"Principal": "MDM TAN YUNCHIN EUGENIA",
 		"Vice Principal": "MISS SUSANNA CHAU",
+		"Vice Principal (Admin)": "MDM CHONG PEI SIE",
 		"School Vision": "To be an asset to the country by developing capable women of character and relevance.",
 		"School Mission": "To inspire and develop every pupil to fulfil her fullest potential, according to her individual pace and aspirations, so as to prepare her for meaningful roles in the community.",
 		"Type of School": "GOVERNMENT-AIDED SCH / GIRLS' SCHOOL / SINGLE SESSION",
@@ -120,27 +121,15 @@
 					"Choir": "Distinction",
 					"Dance - Chinese": "Distinction",
 					"Dance - International": "Distinction",
-					"Ensemble - Strings": "Accomplishment",
-					"Ensemble - Handbell / Handchime": "Distinction"
+					"Ensemble - Handbell / Handchime": "Distinction",
+					"Ensemble - Strings": "Accomplishment"
 				},
 				"Best Unit Award": {
 					"Brownies (Pack 2)": "Gold"
 				}
 			},
 			"2017": {}
-		},
-		"Secondary": {
-			"2014": {},
-			"2015": {},
-			"2016": {},
-			"2017": {}
 		}
-	},
-	"PsleAggregateHistory": {
-		"2014": {},
-		"2015": {},
-		"2016": {},
-		"2017": {}
 	},
 	"postalCode": "309437"
 }

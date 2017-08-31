@@ -1,9 +1,9 @@
 {
 	"code": "5020",
+	"name": "FAIRFIELD METHODIST SCHOOL (PRIMARY)",
 	"levels": "P",
 	"uen": " T07GS5020L",
 	"logo": "./Medias/Images/Schools/logos/tn_5020.jpg",
-	"name": "FAIRFIELD METHODIST SCHOOL (PRIMARY)",
 	"website": "http://www.fmsp.moe.edu.sg/",
 	"address": "100, DOVER ROAD ( 139648 )",
 	"telephone": [
@@ -17,10 +17,7 @@
 	"bus": "SBS Bus 14 , 33 , 74 , 166 & 196 ",
 	"GeneralInformation": {
 		"Principal": "MDM LAW LI MEI",
-		"Vice Principal": [
-			"MISS LIAT MEI KUEN GERALDINE SHARON",
-			"MR ANDREW NG SIOK KWANG"
-		],
+		"Vice Principal": "MR ANDREW NG SIOK KWANG",
 		"Vice Principal (Admin)": "MR JAMES CHONG KOK CHIANG",
 		"School Vision": "Leaders of the future pursuing excellence, upholding strong Christian moral values and having a heart to serve",
 		"School Mission": "To provide a holistic education in a Christian environment so as to nurture leaders of good character, equipped to serve God, nation, community and school.",
@@ -372,8 +369,8 @@
 				},
 				"Best Unit Award": {
 					"Boys' Brigade": "Gold",
-					"Red Cross": "Gold",
-					"Girls' Brigade": "Gold"
+					"Girls' Brigade": "Gold",
+					"Red Cross": "Gold"
 				}
 			},
 			"2017": {}

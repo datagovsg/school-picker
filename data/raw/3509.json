@@ -1,9 +1,9 @@
 {
 	"code": "3509",
+	"name": "SERANGOON GARDEN SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3509D",
 	"logo": "./Medias/Images/Schools/logos/tn_3509.jpg",
-	"name": "SERANGOON GARDEN SECONDARY SCHOOL",
 	"website": "http://www.sgs.edu.sg",
 	"address": "21, SERANGOON NORTH AVENUE 1 ( 555889 )",
 	"telephone": [
@@ -31,6 +31,7 @@
 	},
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
+		"ART",
 		"CHEMISTRY",
 		"CHINESE",
 		"COMBINED HUMANITIES (S,G)",
@@ -41,7 +42,6 @@
 		"ENGLISH LANGUAGE",
 		"FOOD & NUTRITION",
 		"HIGHER CHINESE",
-		"HISTORY",
 		"MALAY",
 		"MATHEMATICS",
 		"PHYSICS",
@@ -53,12 +53,12 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Badminton(Boys)",
+			"Badminton",
 			"Basketball(Boys)",
 			"Floorball(Girls)",
 			"Football(Boys)",
 			"Netball",
-			"Table Tennis(Boys)",
+			"Table Tennis",
 			"Wushu"
 		],
 		"Uniformed Groups": [

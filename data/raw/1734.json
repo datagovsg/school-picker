@@ -1,9 +1,9 @@
 {
 	"code": "1734",
+	"name": "QIHUA PRIMARY SCHOOL",
 	"levels": "P",
 	"uen": " T07GS1734F",
 	"logo": "./Medias/Images/Schools/logos/tn_1734.jpg",
-	"name": "QIHUA PRIMARY SCHOOL",
 	"website": "http://www.qihuapri.moe.edu.sg",
 	"address": "5, WOODLANDS STREET 81 ( 738525 )",
 	"telephone": [
@@ -58,10 +58,10 @@
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
-			"Brass Ensemble",
 			"Chinese Orchestra",
 			"Dikir Barat",
-			"Music/Drama/Choir",
+			"Music & Drama",
+			"Percussion Ensemble",
 			"Pottery Club"
 		],
 		"Clubs & Societies": [
@@ -333,12 +333,12 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Choir": "Commendation",
 					"Art - Category B": "Recognition",
 					"Chinese Orchestra-Full Orchestra": "Accomplishment",
 					"Dance - Chinese": "Distinction",
 					"Dance - Indian": "Distinction",
-					"Dance - Malay": "Distinction",
-					"Choir": "Commendation"
+					"Dance - Malay": "Distinction"
 				}
 			},
 			"2017": {}

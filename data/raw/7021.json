@@ -1,9 +1,9 @@
 {
 	"code": "7021",
+	"name": "ST. MARGARET'S SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS7021L",
 	"logo": "./Medias/Images/Schools/logos/tn_7021.jpg",
-	"name": "ST. MARGARET'S SECONDARY SCHOOL",
 	"website": "http://www.stmargaretssec.moe.edu.sg",
 	"address": "111, FARRER ROAD ( 259240 )",
 	"telephone": [
@@ -41,6 +41,7 @@
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMBINED HUMANITIES (S,L)",
+		"DRAMA",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"FOOD & NUTRITION",
@@ -53,7 +54,6 @@
 		"MALAY",
 		"MATHEMATICS",
 		"MUSIC 'O' LEVEL",
-		"OECIE DRAMA (GCEO)",
 		"PHYSICS",
 		"PRINCIPLES OF A/C",
 		"SCIENCE (CHEM, BIO)",
@@ -68,7 +68,6 @@
 			"Fencing",
 			"Floorball",
 			"Netball",
-			"Rhythmic Gymnastics",
 			"Ten-Pin Bowling",
 			"Tennis"
 		],
@@ -445,6 +444,7 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
 					"Art - Category B": "Recognition",
 					"Band - Concert": "Distinction",
 					"Choir": "Distinction",
@@ -453,8 +453,7 @@
 					"Dance - International": "Distinction",
 					"Dance - Malay": "Distinction",
 					"Drama - English": "Distinction",
-					"Ensemble - Strings": "Accomplishment",
-					"Art - Category A": "Recognition"
+					"Ensemble - Strings": "Accomplishment"
 				},
 				"Best Unit Award": {
 					"Girl Guides (Coy 1)": "Silver",

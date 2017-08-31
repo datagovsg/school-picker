@@ -1,9 +1,9 @@
 {
 	"code": "1160",
+	"name": "TEMASEK PRIMARY SCHOOL",
 	"levels": "P",
 	"uen": " T07GS1160C",
 	"logo": "./Medias/Images/Schools/logos/tn_1160.jpg",
-	"name": "TEMASEK PRIMARY SCHOOL",
 	"website": "http://www.temasekpri.moe.edu.sg",
 	"address": "501, BEDOK SOUTH AVE 3 ( 469300 )",
 	"telephone": [
@@ -17,10 +17,7 @@
 	"bus": "229 , 10 , 14 , 13 , 48 , 43 , 506 ",
 	"GeneralInformation": {
 		"Principal": "MR FRANCIS FOO",
-		"Vice Principal": [
-			"MDM RANJIT KAUR D/O MUKHTAR SINGH",
-			"MISS TEO SOOK LIN @ OON SOOK LIN"
-		],
+		"Vice Principal": "MDM RANJIT KAUR D/O MUKHTAR SINGH",
 		"Vice Principal (Admin)": "MR QUAH SIEW SANG",
 		"School Vision": "We aspire to be the vibrant learning campus where pupils learn, lead, serve and grow to become future-ready citizens rooted in values.",
 		"School Mission": "Developing our pupils into responsible and versatile individuals  who will be fired with a passion for life long learning and able to contribute effectively to society.",
@@ -78,7 +75,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"ICT": "RoboALERT (Applicative Learning Experience through Robotics at Temasek)",
+			"Coding": "RoboALERT (Applicative Learning Experience through Robotics at Temasek)",
 			"Sports & Outdoor Education": "SOAR – Sports Opportunities for Active lifestyle and physical Resilience and Sporting Excellence"
 		},
 		"Special Student Development Programmes Offered": "Our Learning Tapestry is a key programme in our curriculum where a problem-based learning approach is taken to foster pupils' critical and creative thinking as they learn various subjects together in current and authentic settings.  The school adopts Stephen Covey's 7 Habits as the foundation and core language for character development. The 7 Habits are universal principles for personal and interpersonal effectiveness and are integrated across all key learning programmes in the school.  Robotics is the school's Applied Learning Programme and opportunities are provided for pupils across all levels to use robotics as a fun and engaging way to solve problems, think creatively and work together in teams to overcome challenges.  SOAR (Sports Opportunities for Active lifestyle and physical Resilience) is the school's Learning for Life Programme. It provides a platform for all pupils to apply the fundamental movement and skills they have learnt in Physical Education during sport events such as Sports Fiesta, Track and Field Carnival and Character through Play. All pupils, regardless of their abilities, are encouraged to enjoy and experience success in sports.  The school has a vibrant Life Science Programme that includes Orchid Hybridization, Aeroponics and gardens that invite pupils to discover and learn science in authentic contexts, such as a butterfly enclosure, edibles garden, garden of character, eco-garden and corridor gardens. We have also collaborated with Science Centre to produce various science learning kits that encourage pupils to adopt an active inquiry approach in investigating scientific concepts."

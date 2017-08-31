@@ -1,10 +1,10 @@
 {
 	"code": "0712",
+	"name": "MERIDIAN JUNIOR COLLEGE",
 	"levels": "J",
 	"uen": " T07GS0712B",
 	"logo": "./Medias/Images/Schools/logos/tn_0712.jpg",
-	"name": "MERIDIAN JUNIOR COLLEGE",
-	"website": "http://www.mjc.moe.edu.sg",
+	"website": "http://meridianjc.moe.edu.sg/",
 	"address": "21, Pasir Ris Street 71 ( 518799 )",
 	"telephone": [
 		"63493660"
@@ -61,7 +61,41 @@
 		"H3 PHARMACEUTICAL CHEMISTRY",
 		"H3 PROTEOMICS"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Archery",
+			"Badminton",
+			"Basketball",
+			"Floorball",
+			"Football",
+			"Paddlers Club",
+			"Rockclimbing",
+			"Shooting",
+			"Squash",
+			"Table Tennis",
+			"Taekwondo",
+			"Tennis",
+			"Volleyball",
+			"Wushu"
+		],
+		"Visual and Performing Arts": [
+			"Band",
+			"Chinese Orchestra",
+			"Choir",
+			"Dance Society",
+			"Drama - English",
+			"Guitar Ensemble",
+			"Photography Club"
+		],
+		"Clubs & Societies": [
+			"Debates Society",
+			"Health And Fitness Club",
+			"Interactive Games Club",
+			"Media Resource Club",
+			"Outdoor Activities Club",
+			"Service Learning Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"

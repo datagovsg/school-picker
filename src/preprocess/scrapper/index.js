@@ -1,6 +1,6 @@
 import fs from 'fs'
-import range from 'lodash/range'
-import max from 'lodash/max'
+import _range from 'lodash/range'
+import _max from 'lodash/max'
 import scrap from './scrapper'
 import aggregate from './aggregator'
 import runTask from './task-runner'
@@ -39,25 +39,25 @@ import {
 //   fs.writeFileSync('data/newSchools.json', JSON.stringify(json, null, '\t'))
 // })
 
-scrapVacancies().then(json => {
-  const vacancies = require('../../../data/vacancies.json')
-  Object.keys(json).forEach(key => {
-    if (key in vacancies) Object.assign(vacancies[key], json[key])
-    else vacancies[key] = json[key]
-  })
-  Object.keys(vacancies).forEach(key => {
-    const school = vacancies[key]
-    if ('No. of Children Registered' in school) {
-      const phases = Object.keys(school).filter(key => key.match(/^Vacancy for/)).map(key => key.slice(12))
-      school['No. of Applicants in ' + max(phases)] = school['No. of Children Registered']
-      delete school['No. of Children Registered']
-    }
-  })
-  const now = new Date()
-  now.setHours(now.getHours() + 8)
-  const suffix = '_' + now.toISOString().slice(0, 10)
-  fs.writeFileSync('data/vacancies.json', JSON.stringify(vacancies, null, '\t'))
-  fs.writeFileSync(`data/backups/vacancies${suffix}.json`, JSON.stringify(vacancies, null, '\t'))
-})
+// scrapVacancies().then(json => {
+//   const vacancies = require('../../../data/vacancies.json')
+//   Object.keys(json).forEach(key => {
+//     if (key in vacancies) Object.assign(vacancies[key], json[key])
+//     else vacancies[key] = json[key]
+//   })
+//   Object.keys(vacancies).forEach(key => {
+//     const school = vacancies[key]
+//     if ('No. of Children Registered' in school) {
+//       const phases = Object.keys(school).filter(key => key.match(/^Vacancy for/)).map(key => key.slice(12))
+//       school['No. of Applicants in ' + _max(phases)] = school['No. of Children Registered']
+//       delete school['No. of Children Registered']
+//     }
+//   })
+//   const now = new Date()
+//   now.setHours(now.getHours() + 8)
+//   const suffix = '_' + now.toISOString().slice(0, 10)
+//   fs.writeFileSync('data/vacancies.json', JSON.stringify(vacancies, null, '\t'))
+//   fs.writeFileSync(`data/backups/vacancies${suffix}.json`, JSON.stringify(vacancies, null, '\t'))
+// })
 
-// runTask([], ['2014', '2015', '2016', '2017'])
+runTask([], ['2014', '2015', '2016', '2017'])

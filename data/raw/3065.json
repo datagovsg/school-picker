@@ -1,11 +1,11 @@
 {
 	"code": "3065",
+	"name": "KRANJI SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3065G",
 	"logo": "./Medias/Images/Schools/logos/tn_3065.jpg",
-	"name": "KRANJI SECONDARY SCHOOL",
 	"website": "http://www.kranjisec.moe.edu.sg",
-	"address": "38, Teck Whye Crescent ( 688945 )",
+	"address": "38, TECK WHYE CRESCENT ( 688945 )",
 	"telephone": [
 		"67662464"
 	],
@@ -344,11 +344,11 @@
 					"Drama - English": "Distinction"
 				},
 				"Best Unit Award": {
-					"Npcc (Land)": "Gold",
-					"St John Ambulance Brigade": "Gold",
 					"Ncc (Land)": "Gold",
 					"Boys' Brigade": "Gold",
-					"Girls' Brigade": "Gold"
+					"Girls' Brigade": "Gold",
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Gold"
 				}
 			},
 			"2017": {}

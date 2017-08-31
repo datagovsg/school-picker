@@ -1,9 +1,9 @@
 {
 	"code": "7307",
+	"name": "MANJUSRI SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS7307E",
 	"logo": "./Medias/Images/Schools/logos/tn_7307.jpg",
-	"name": "MANJUSRI SECONDARY SCHOOL",
 	"website": "http://www.manjusrisec.moe.edu.sg",
 	"address": "20, UBI AVENUE 1 ( 408940 )",
 	"telephone": [
@@ -13,8 +13,8 @@
 		"67454492"
 	],
 	"email": "manjusri_ss@moe.edu.sg",
-	"mrt": "EUNOS MRT, MACPHERSON MRT",
-	"bus": "5 , 8 , 15 , 22 , 25 , 45 , 51 , 55 , 59 , 61 , 63 , 65 , 66 , 93 , 94 , 854 ",
+	"mrt": "EUNOS MRT, MACPHERSON MRT, UBI MRT",
+	"bus": "5 , 8 , 15 , 22 , 25 , 45 , 51 , 55 , 59 , 61 , 63 , 63M , 65 , 66 , 93 , 94 , 854 ",
 	"GeneralInformation": {
 		"Principal": "MR SIM CHONG BOON",
 		"Vice Principal": [
@@ -23,7 +23,7 @@
 		],
 		"School Vision": "Passionate Learners, Compassionate Leaders",
 		"School Mission": "Nurturing Manjusrians who are anchored in values whilst global in perspective",
-		"School Philosophy, Culture and Ethos": "We nurture all Manjusrians to be confident, independent and empathetic persons who are committed to life-long learning and have the moral courage and dedication to serve the community and the nation. We achieve this by ensuring that Manjusrians, as learners and leaders, are able to make decisions based on sound fundamental beliefs and principles. We aspire for them to understand and appreciate the importance and impact of worldwide interconnectedness while remaining rooted to Singapore. Guided by our school motto 'Wisdom, Conduct, Benevolence, Aspiration', we pride ourselves in providing a customised, holistic curriculum to foster both excellence and ethics, and to imbue in our staff and students the values of Respect, Integrity, Care and Excellence. We adapted Building Learning Power to systematically cultivate habits and attitudes in our students so that they become better learners and are able to face difficulty and uncertainty calmly and confidently.",
+		"School Philosophy, Culture and Ethos": "The school nurtures Manjusrians as confident, independent and empathetic persons who are committed to life-long learning and possess the moral courage and purpose to serve our society and nation. We achieve this by ensuring that as learners and leaders, Manjusrians are able to make decisions based on sound fundamental beliefs and principles. Our aspiration is for them to understand and appreciate the impact of global interconnectedness while remaining rooted to Singapore.  Guided by our school motto 'Wisdom, Conduct, Benevolence, Aspiration', we pride ourselves in providing a rigorous yet holistic curriculum to foster both excellence and ethics, and in imbuing staff and students with the values of Respect, Integrity, Care and Excellence.  We will systematically cultivate habits and attitudes in our students so that they become effective learners who able to face challenges calmly and resolutely. The school is supported in its inclusive vision and mission by the Singapore Buddhist Federation.",
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay",
 		"Affiliated Schools": [
@@ -51,11 +51,12 @@
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE (CHEM, BIO)",
-		"SCIENCE (PHY, CHEM)",
-		"SOCIAL STUDIES"
+		"SCIENCE (PHY, CHEM)"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -92,7 +93,7 @@
 			"STEM": "Developing sustainable, safe and secure living spaces through Smart home systems",
 			"Music & Performing Arts": "Learning through the ARTS"
 		},
-		"Special Student Development Programmes Offered": "Since 2014, the school initiated the Building Learning Power approach to integrate character education and academic learning. Through the direct instruction of learning dispositions, students acquire good habits and values. This enables the students to learn better and instil good character in them, preparing them to face difficulty and uncertainty calmly and confidently in the future. Our Applied Learning Programme (ALP) - \"Building a Smart Home with a Big Heart\" aims for students to learn about the science of SMART Technologies, and understand its application in a SMART home system. Students will be required to propose innovative ways on how the safety and security of the elderly can be monitored and improved. This exemplifies the values-driven education of our school to enable students to promote a keen interest in the nation's development towards a more vibrant and caring society for generations to come. Our Learning for Life Programme (LLP) - \"Learning Through the Arts\" aims to develop students' appreciation for various art forms. Students will have opportunities to experience arts as audience and participants and develop an interest and appreciation for the arts. The school started a Taipei Exchange Programme in 2015 to develop students global awareness and cross-cultural skills. There is also Reading Programme to inculcate good reading habits. With these programmes in place, our students are developed holistically and ready to take on challenges in life."
+		"Special Student Development Programmes Offered": "The school has adopted the Building Learning Power approach in integrating character education and academic learning. Through the direct instruction of relevant learning dispositions, students are introduced to good habits and values as a foundation for more effective learning. This will also prepare students to better handle challenges outside the classroom in a calm and confident way.  Our Applied Learning Programme (ALP) - \"Smart Home and Assistive Technologies\" aims for students to learn the science behind SMART Technologies, and understand its application in the modern home.  Students may get to work on innovative ways for how the safety and security of the elderly or handicapped can be enhanced.  This exemplifies the values-driven aspect of our curriculum to enable students to play a part in contributing towards building a more vibrant and caring society. Our Learning for Life Programme (LLP) - \"Learning through the Arts\" aims to develop students' appreciation for various art forms.  Students will have opportunities to experience the arts both as audience and participants; and develop an interest in various forms of cultural expression.  The school has an on-going Taipei Exchange Programme to foster global awareness and cross-cultural skills of students. There is also a whole school approach in the championing of Reading Literacy for personal growth and excellence. With these programmes in place, our students are developed holistically as passionate learners and compassionate leaders."
 	},
 	"AchievementHistory": {
 		"Secondary": {

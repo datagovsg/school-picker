@@ -1,9 +1,9 @@
 {
 	"code": "3228",
+	"name": "DEYI SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3228A",
 	"logo": "./Medias/Images/Schools/logos/tn_3228.jpg",
-	"name": "DEYI SECONDARY SCHOOL",
 	"website": "http://www.deyisec.moe.edu.sg",
 	"address": "1, ANG MO KIO STREET 42 ( 569277 )",
 	"telephone": [
@@ -22,7 +22,7 @@
 			"MDM TAN SHAO MAY"
 		],
 		"School Vision": "Active Learners, Gracious Citizens",
-		"School Mission": "Inspiring Lives, Nurturing Talent, Realising Dreams",
+		"School Mission": "Inspiring Lives, Nurturing Talents, Realising Dreams",
 		"School Philosophy, Culture and Ethos": "Deyi Secondary School is guided by our philosophy that every child entrusted to our care is a gem and our teachers' role is to help each child unleash his potential and fulfil his dream. We endeavour to develop our students to become self-directed learners who actively seek out knowledge and make meaning of what they learn for themselves so that they are better prepared for the challenges of the 21st century. We strive to nurture concerned citizens who exercise self-leadership and civic-mindedness, show respect, and perform acts of kindness for the betterment of society. Our students manifest deep-rooted values through gracious thoughts and actions, and display a global outlook by embracing diversity and differing perspectives.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -31,7 +31,6 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART",
-		"ART NA LEVEL",
 		"ART 'O' LEVEL",
 		"BASIC CHINESE",
 		"BASIC MALAY",
@@ -39,7 +38,6 @@
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"CHINESE N(A)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"DRAMA",
@@ -55,7 +53,6 @@
 		"HUMANITIES (SS, HISTORY)",
 		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"MALAY",
-		"MALAY N(A)",
 		"MATHEMATICS",
 		"MATHEMATICS (SYLLABUS A)",
 		"MATHEMATICS (SYLLABUS T)",
@@ -67,13 +64,12 @@
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
 		"SOCIAL STUDIES",
-		"TAMIL",
-		"TAMIL N(A)"
+		"TAMIL"
 	],
 	"Cca": {
 		"Physical Sports": [
 			"Badminton (Boys)",
-			"Basketball (Girls)",
+			"Basketball",
 			"Football (Girls)",
 			"Odac",
 			"Table Tennis",
@@ -106,7 +102,7 @@
 			"Languages & Humanities": "Languages Alive with Broadcasting and Journalism",
 			"Music & Performing Arts": "Nurturing Confident Communicators and Gracious Citizens through the Arts"
 		},
-		"Special Student Development Programmes Offered": "Deyi's Applied Learning Programme (ALP) -ACTIVE VOICE BROADCAST JOURNALISM- introduces students to the basics of Broadcasting & Journalism, which develops and strengthens language literacy, critical thinking and communication skills. The ALP covers Mass Communication & Media, ICT in Information Gathering, and Writing & Presenting. Students will have a greater engagement with language learning, thus gaining deeper understanding of the uses, impact and influence of language in becoming competent, confident and effective communicators. Complementing the ALP is our Learning for Life Programme which seeks to nurture gracious contributing citizens through our distinctive ARTS EDUCATION with our signature Dance & Drama-in-curriculum modules. As part of our Talent Development Programme, students with a deeper passion and aptitude in Music/Drama are further developed to receive accreditation from reputable international institutions and are eligible to pursue Drama at the O-Levels. Level Camps (NAVIGATION; SYNERGY; CONQUEST; PINNACLE) are part of our CCE programme that provides authentic experiences to acquire and practise school values, as well as develop physical, social and personal skills. Our YOUTH SOCIAL ENTREPRENEURSHIP is another exciting collaborative platform engaging students with social issues and problem-solving skills to help beneficiaries through hands-on community service projects. Along with learning journeys, field trips, experiential learning, and education and career guidance conducted in partnership with the institutes of higher learning, our students are prepared holistically for the 21st century to be ACTIVE Learners and GRACIOUS Citizens. The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "Deyi's Applied Learning Programme (ALP) -ACTIVE VOICE BROADCAST JOURNALISM- introduces students to the basics of Broadcasting & Journalism, which develops and strengthens language literacy, critical thinking and communication skills. The ALP covers Mass Communication & Media, ICT in Information Gathering, and Writing & Presenting. Students will have a greater engagement with language learning, thus gaining deeper understanding of the uses, impact and influence of language in becoming competent, confident and effective communicators. Deyi's AC3TIve Framework also provides impetus to our MIKEMON curriculum innovation project, by adding a fun twist on language acquisition where students engage in pen-it-down and mike-it-up tasks, to foster Joy of Learning across a range of subjects and topics. Complementing the ALP is our Learning for Life Programme which seeks to nurture gracious contributing citizens through our distinctive ARTS EDUCATION with our signature Dance & Drama-in-curriculum modules. As part of our Talent Development Programme, students with a deeper passion and aptitude in Music/Drama are further developed to receive accreditation from reputable international institutions and are eligible to pursue Drama at the O-Levels. Level Camps are part of our CCE programme that provides authentic experiences to acquire and practise school values, as well as develop physical, social and personal skills. Our YOUTH SOCIAL ENTREPRENEURSHIP is another exciting collaborative platform engaging students with social issues and problem-solving skills to help beneficiaries through hands-on community service projects. We believe that every student is a leader and our Student Leadership Development Programme aims to develop them into confident leaders who contribute actively. Along with learning journeys, field trips, experiential learning, and education and career guidance conducted in partnership with the institutes of higher learning, our students are prepared holistically."
 	},
 	"AchievementHistory": {
 		"Secondary": {

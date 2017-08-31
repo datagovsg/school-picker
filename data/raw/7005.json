@@ -1,9 +1,9 @@
 {
 	"code": "7005",
+	"name": "GEYLANG METHODIST SCHOOL (SECONDARY)",
 	"levels": "S",
 	"uen": " T07GS7005G",
 	"logo": "./Medias/Images/Schools/logos/tn_7005.jpg",
-	"name": "GEYLANG METHODIST SCHOOL (SECONDARY)",
 	"website": "http://www.geylangmethodistsec.moe.edu.sg",
 	"address": "2, GEYLANG EAST CENTRAL ( 389705 )",
 	"telephone": [
@@ -23,8 +23,8 @@
 		],
 		"Vice Principal (Admin)": "MDM TAN SOR LENG",
 		"School Vision": "Passionate Learners. Courageous Leaders. Caring Citizens.",
-		"School Mission": "With God's help, to be a beacon of light by connecting, nurturing and inspiring GEMS to make a difference.",
-		"School Philosophy, Culture and Ethos": "We strive to inculcate 'integrity, compassion and the desire to learn and bless others' as we build an engaging school to develop all-round students through an empowered staff. Our approach to Character Development is anchored in 'Knowing', 'Doing' and 'Being', and we aim to equip every student with social and emotional competencies and root them in moral values. The school is guided by the principle of 'Building Character through Building Relationships' as we believe that a strong student-teacher bond is pivotal to sound character formation. We encourage our students to be in the position of choice i.e. to be of good character, succeeding in both academic and affective areas, so that more life opportunities would be opened to them. We do this by offering choices to our students, because we value and acknowledge that each individual has different talents and needs. The school's academic programmes are therefore customised to meet students' needs and abilities, stimulate thinking and inspire learning.",
+		"School Mission": "With God's help, to be a beacon of light by connecting, nurturing and inspiring GeMS to make a difference.",
+		"School Philosophy, Culture and Ethos": "Founded in 1924, the School continues to stay true to its mission by developing passionate learners, courageous leaders and caring citizens who make a difference to the community.  We are a school where lives are connected and meaningful friendships are fostered. We create a caring and conducive environment for learning and teaching, where our students are inspired, lives are touched and ideas germinate and flourish, all for the purpose of making a positive influence or difference to the world around us.  We hope to see every student who graduate become useful members of society, grounded in sound moral principles.",
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
@@ -45,6 +45,9 @@
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
+		"ENGLISH LANGUAGE (SYLL A)",
+		"ENGLISH LANGUAGE (SYLL T)",
+		"EXERCISE AND SPORTS SCIENCE",
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"FOOD STUDIES, N LEVEL",
@@ -54,9 +57,9 @@
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
-		"OECIE PHYSICAL EDUCATION",
+		"MATHEMATICS (SYLLABUS A)",
+		"MATHEMATICS (SYLLABUS T)",
 		"PHYSICS",
-		"PRINCIPLES OF A/C",
 		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
@@ -64,6 +67,7 @@
 	],
 	"Cca": {
 		"Physical Sports": [
+			"Athletics",
 			"Badminton",
 			"Basketball",
 			"Football",
@@ -87,6 +91,7 @@
 		],
 		"Clubs & Societies": [
 			"Board Games Club",
+			"Digital Media Club",
 			"Green Club",
 			"Media Resource Club",
 			"Multi - Media Society"
@@ -104,7 +109,7 @@
 			"STEM": "GeMs_Applied Learning Programme in Science",
 			"Community & Youth Leadership": "Nurturing Confident and Compassionate Leaders via Values-in-Action"
 		},
-		"Special Student Development Programmes Offered": "The school nurtures students' talents, interests, character and leadership qualities via a vibrant CCE curriculum and distinctive programmes, including a 4/5-years progressive Values-in-Action Learning for Life Programme (LLP) with local and overseas service learning experiences, an Applied Learning Programme (ALP) in Environmental Science and Sustainable Living, a vibrant CCA programme spanning 20 CCAs, the Music, Art, Dance and Drama (MADD) enrichment programme, oral communications, varied leadership development opportunities and level camps for all students. Through these, we develop all-round students who strive to contribute to the school and the community.The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "The school nurtures students' talents, interests, character and leadership qualities via a vibrant CCE curriculum and distinctive programmes, including a 4/5 years progressive Learning for Life Programme (LLP) in the area of Community and Youth Leadership. The LLP systematically equips students with critical inquiry skills, public-speaking skills and leadership competencies to prepare them for meaningful local and overseas Values-in-Action and service learning experiences.  The school also has an Applied Learning Programme (ALP) in Environmental Science and Sustainable Living.  We have vibrant CCA programmes spanning 21 CCAs, the Music, Art, Dance and Drama (MADD) enrichment programme and level camps for all students.  Through these, we develop all-round students who strive to contribute to our community."
 	},
 	"AchievementHistory": {
 		"Secondary": {

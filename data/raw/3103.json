@@ -1,9 +1,9 @@
 {
 	"code": "3103",
+	"name": "RIVER VALLEY HIGH SCHOOL",
 	"levels": "SJT",
 	"uen": " T07GS3103J",
 	"logo": "./Medias/Images/Schools/logos/tn_3103.jpg",
-	"name": "RIVER VALLEY HIGH SCHOOL",
 	"website": "http://www.rvhs.moe.edu.sg",
 	"address": "6, BOON LAY AVENUE ( 649961 )",
 	"telephone": [
@@ -87,7 +87,6 @@
 			"Softball",
 			"Table Tennis",
 			"Volleyball",
-			"Volleyball (Girls)",
 			"Wushu"
 		],
 		"Uniformed Groups": [
@@ -128,7 +127,7 @@
 			"Integrated Programme",
 			"SAP"
 		],
-		"Special Student Development Programmes Offered": "The RV Integrated Programme (RV IP) offers a balanced education that seeks to develop every student's interests and talents to their fullest potential across areas of the academics, CCA and leadership. Our Leadership - Character Development Curriculum aims to inculcate sound values and nurture character and leadership in our students through programmes such as the Personal Leadership Programme, Overseas Experiential Learning Programme, Education and Career Guidance Week, National Education and Values in Action as well as our annual leadership seminar. Through our academic Cognitive Interest Development Curriculum, we empower students to be innovative and critical thinkers and prepare them to thrive in higher education. Our signature programmes include the Bicultural Studies Programme and Bicultural Leaders Academy, the Science Leaders Academy, the Mathematics Leaders Academy, the Humanities and Social Studies Leaders Academy and the Construct, Integrate, Differentiate (CID) Programme. Our Co-Curriculum Activities nurture 21st century competencies and develop  interests and talents of students in a full range of sports, performing arts, uniformed groups, clubs and societies."
+		"Special Student Development Programmes Offered": "The RV Integrated Programme (RV IP) offers a balanced education that seeks to develop every student's interests and talents to their fullest potential across areas of the academics, CCA and leadership. Our Leadership - Character Development Curriculum aims to inculcate sound values and nurture character and leadership in our students through programmes such as the Personal Leadership Programme, Overseas Experiential Learning Programme, Education and Career Guidance Week, National Education and Values in Action as well as our annual leadership seminar. Through our academic Cognitive Interest Development Curriculum, most notably our Construct, Integrate, Differentiate (CID) Programme, we empower students to be innovative and critical thinkers and prepare them to thrive in higher education. Our other academic talent development platforms include the Bicultural Studies Programme and Bicultural Leaders Academy, the Science Leaders Academy, the Mathematics Leaders Academy, the Humanities and Social Studies Leaders Academy and the Eco-Sustainability Leaders Academy. Our Co-Curricular Activities nurture 21st century competencies and develop the interests and talents of our students in a full range of sports, performing arts, uniformed groups, clubs and societies."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -713,6 +712,7 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
 					"Art - Category C": "Recognition",
 					"Choir": "Distinction",
 					"Dance - Chinese": "Distinction",
@@ -720,8 +720,7 @@
 					"Drama - English": "Distinction",
 					"Ensemble - Guitar": "Accomplishment",
 					"Ensemble - Strings": "Accomplishment",
-					"Orchestra - Chinese": "Distinction",
-					"Band - Concert": "Distinction"
+					"Orchestra - Chinese": "Distinction"
 				}
 			},
 			"2017": {}

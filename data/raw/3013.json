@@ -1,11 +1,11 @@
 {
 	"code": "3013",
+	"name": "TANJONG KATONG GIRLS' SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3013A",
 	"logo": "./Medias/Images/Schools/logos/tn_3013.jpg",
-	"name": "TANJONG KATONG GIRLS' SCHOOL",
 	"website": "http://www.tkgs.moe.edu.sg",
-	"address": "2, Bedok South Road ( 469268 )",
+	"address": "2, BEDOK SOUTH ROAD ( 469268 )",
 	"telephone": [
 		"63441593",
 		"66441593 (from 2017)"
@@ -15,8 +15,8 @@
 		"64409187(from 2017)"
 	],
 	"email": "tkgs@moe.edu.sg",
-	"mrt": "Bedok MRT Station EW5",
-	"bus": "Bedok South Road :16 , 31 , 38 , 196 , 196A , 197 , 229 New Upper Changi Road:9 , 9A , 24 , 25 , 28 , 31 , 35 , 35M , 222 ",
+	"mrt": "BEDOK MRT",
+	"bus": "2 , 7 , 16 , 24 , 25 , 28 , 30 , 30E , 31 , 32 , 33 , 38 , 40 , 67 , 196 , 197 , 222 , 229 , 401 , 854 ",
 	"GeneralInformation": {
 		"Principal": "MDM WONG YEE MIN MARY",
 		"Vice Principal": [
@@ -43,6 +43,7 @@
 		"COMBINED HUMANITIES (S,H)",
 		"COMBINED HUMANITIES (S,L)",
 		"DESIGN & TECHNOLOGY",
+		"DRAMA",
 		"ENGLISH LANGUAGE",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
@@ -56,7 +57,6 @@
 		"MUSIC",
 		"MUSIC (MEP)",
 		"MUSIC 'O' LEVEL",
-		"OECIE DRAMA (GCEO)",
 		"OECIE ECONOMICS (GCEO)",
 		"PHYSICS",
 		"SCIENCE (CHEM, BIO)",

@@ -1,9 +1,9 @@
 {
 	"code": "5258",
+	"name": "NANYANG PRIMARY SCHOOL",
 	"levels": "P",
 	"uen": " T07GS5258J",
 	"logo": "./Medias/Images/Schools/logos/tn_5258.jpg",
-	"name": "NANYANG PRIMARY SCHOOL",
 	"website": "http://www.nyps.moe.edu.sg",
 	"address": "52, KING'S ROAD ( 268097 )",
 	"telephone": [
@@ -85,7 +85,7 @@
 			"Gifted Education Programme"
 		],
 		"School Distinctive Programmes": {
-			"Mathematics & Innovation & Enterprise": "MIND SPORTS FOR LIFE",
+			"Innovation & Enterprise": "MIND SPORTS FOR LIFE",
 			"Music & Performing Arts": "Building Cultural Quotience Through Dance"
 		},
 		"Special Student Development Programmes Offered": "The \"Learning Cultures through Dance\" Learning for Life Programme in Nanyang Primary School aims to develop our pupils holistically beyond academic excellence by building character with understanding of self, others and cultures and developing peaks of growth and excellence.   Through this programme pupils learn various dance techniques; acquire knowledge related to the history of the dance; discover their potential through individual dance movements and cooperative social interaction; appreciate the aesthetic aspects of performances; gain a deeper understanding and appreciation of the various ethnic groups in Singapore and the different nationalities of the world.  The \"Critical Thinking through Mind Sports\" Applied Learning Programme aims to cultivate in pupils a love for Mind Sports where they learn to find joy and satisfaction in a board game fully embedded with strategy and thinking skills. Through the process of learning and play, pupils acquire life and social-emotional skills; develop strong character traits, cognitive skills and psychological build-up that will serve them well not only during competitions but in daily life situations in the 21st Century.    Through the programme, pupils learn how to interact both on and off the playing board; develop communication, cross-cultural and socio-emotional skills; acquire skills to manage self and relationship; develop thinking skills for Mathematical learning;  acquire key attributes central to the spirit of innovation and enterprise; develop skills in becoming a self-directed learner.  Besides the 2 Signature Programmes, NYPS also offers Appreciating Flora Art; Choir; Chinese Dance; Guzheng; Chinese Orchestra; International Dance; String Ensemble; Ceramic Art; Drawing; Photography; Badminton; Basketball; Football; Table Tennis; Tennis; Track & Field; Swimming; Wushu; Golf; International Chess; Boys' and Girls' Brigade; Scouts; Brownies; Advanced Mathematics Enrichment Club; Green Club; Weiqi."
@@ -612,11 +612,11 @@
 						"-",
 						"-",
 						"-",
+						"4th",
 						"-",
 						"-",
 						"-",
-						"-",
-						"4th"
+						"-"
 					],
 					[
 						"",
@@ -645,11 +645,11 @@
 						"-",
 						"-",
 						"-",
+						"2nd",
 						"-",
 						"-",
 						"-",
-						"-",
-						"2nd"
+						"-"
 					],
 					[
 						"Track & Field",
@@ -676,13 +676,13 @@
 					[
 						"Swimming",
 						"-",
-						"-",
-						"-",
-						"-",
-						"-",
 						"3rd",
 						"1st",
-						"4th"
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
 					],
 					[
 						"Track & Field",

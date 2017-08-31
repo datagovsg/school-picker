@@ -1,9 +1,9 @@
 {
 	"code": "7025",
+	"name": "CHRIST CHURCH SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS7025F",
 	"logo": "./Medias/Images/Schools/logos/tn_7025.jpg",
-	"name": "CHRIST CHURCH SECONDARY SCHOOL",
 	"website": "http://www.christchurchsec.moe.edu.sg",
 	"address": "20, WOODLANDS DRIVE 17 ( 737924 )",
 	"telephone": [
@@ -47,7 +47,6 @@
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"HIGHER CHINESE",
-		"HIGHER MALAY",
 		"HOME ECONOMICS",
 		"LITERATURE(E)",
 		"MALAY",
@@ -99,7 +98,7 @@
 			"STEM": "Developing 21st Century Competencies through an Inquiry approach  in Health Science and Technology",
 			"Sports & Outdoor Education": "Developing Social Emotional Learning Competencies through Outdoor Adventure Learning"
 		},
-		"Special Student Development Programmes Offered": "The school's LLP, Developing Social Emotional Learning Competencies through Outdoor Adventure Learning, provides all students with authentic experiences to hone their Social Emotional Competencies and  demonstrate the school core values of Responsibility, Integrity, Care, Perseverance and Forward-Looking. Through exploring their environment, both local and overseas, they not only challenge themselves but also collaborate with one another to achieve their goals. The programme will bring students out of their comfort zones, allowing them to discover their potential to overcome challenges and build their character.  The school's ALP, Developing 21st Century Competencies through an Inquiry Approach in Health Science and Technology, provides students with the opportunity to apply academic knowledge learnt across disciplines to authentic situations. Students acquire critical and inventive thinking dispositions and communications skills which prepares them for the complexities and challenges faced in the era of innovation and uncertainty. To develop confident and self-directed learners who take responsibility for their own learning, the school engages its students through a blended learning approach, which allows the thoughtful integration of ICT and a rich array of structured learning opportunities.  Key anchor programmes such as the Chingay Project for English and Humanities, Science Lower Seletar Reservoir Project, and Learning Mother Tongue through Drama and experiential learning journeys help to ignite interest and joy in learning. The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "The school's LLP, Developing Social Emotional Learning Competencies through Outdoor Adventure Learning, provides all students with authentic experiences to hone their Social Emotional Competencies and  demonstrate the school core values of Responsibility, Integrity, Care, Perseverance and Forward-Looking. Through exploring their environment, both local and overseas, they not only challenge themselves but also collaborate with one another to achieve their goals. The programme will bring students out of their comfort zones, allowing them to discover their potential to overcome challenges and build their character. The school's ALP, Developing 21st Century Competencies through an Inquiry Approach in Health Science and Technology, provides students with the opportunity to apply academic knowledge learnt across disciplines to authentic situations. Students acquire critical and inventive thinking dispositions and communications skills which prepares them for the complexities and challenges faced in the era of innovation and uncertainty. To develop confident and self-directed learners who take responsibility for their own learning, the school engages its students through a blended learning approach, which allows the thoughtful integration of ICT and a rich array of structured learning opportunities.  Key anchor programmes such as the Chingay Project for English and Humanities, Science Lower Seletar Reservoir Project, and Learning Mother Tongue through Drama and experiential learning journeys help to ignite interest and joy in learning."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -233,11 +232,11 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Band - Concert": "Accomplishment",
 					"Choir": "Distinction",
 					"Dance - International": "Distinction",
 					"Drama - English": "Accomplishment",
-					"Orchestra - Chinese": "Accomplishment"
+					"Orchestra - Chinese": "Accomplishment",
+					"Band - Concert": "Accomplishment"
 				},
 				"Best Unit Award": {
 					"Boys' Brigade": "Gold",

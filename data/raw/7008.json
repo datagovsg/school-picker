@@ -1,11 +1,11 @@
 {
 	"code": "7008",
+	"name": "CHIJ KATONG CONVENT",
 	"levels": "S",
 	"uen": " T07GS7008F",
 	"logo": "./Medias/Images/Schools/logos/tn_7008.jpg",
-	"name": "CHIJ KATONG CONVENT",
 	"website": "http://www.chijkatongconvent.moe.edu.sg",
-	"address": "346, Marine Terrace ( 449150 )",
+	"address": "346, MARINE TERRACE ( 449150 )",
 	"telephone": [
 		"64486433"
 	],
@@ -13,15 +13,15 @@
 		"64494405"
 	],
 	"email": "chijktcs@moe.edu.sg",
-	"mrt": "Potong Pasir, Kallang",
-	"bus": "26 , 61 , 107 , 107M , 546 , 853.  Express Service : 23 , 966 ",
+	"mrt": "KEMBANGAN MRT",
+	"bus": "4N , 13 , 16 , 31 , 36 , 43 , 47 , 48 , 55 , 134 , 135 , 150 , 196 , 196E , 197 , 541 , 763 , 853 ",
 	"GeneralInformation": {
 		"Principal": "MDM CHAN GEK SAN PATRICIA",
 		"Vice Principal": "MDM ONG BEE HOON",
 		"Vice Principal (Admin)": "MR CHEAH KOK KEONG, GEORGE",
 		"School Vision": "A Caring School That Excels.",
 		"School Mission": "The mission of an IJ Convent is the creation of a Christ-centred school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of persons who are disadvantaged in any way.",
-		"School Philosophy, Culture and Ethos": "The CHIJ Katong Convent (KC) brand of education is anchored in building character and developing the whole person. We grow our student leadership, character and citizenship education programmes through meaningful learning experiences from long-term partnerships established with local and overseas organisations. We are committed to striving for excellence in all that we do, stretching academic potential, inculcating strong moral values and nurturing all-round confident and gracious young ladies with hearts of compassion and a keen sense of duty to the community. Our KC Graduate will choose to live a life that matters, guided by our IJ Mission and Motto, growing to become ladies with values and of value to their community and our nation. She is a compassionate servant leader, effective communicator, innovative problem-solver and discerning citizen of the world.",
+		"School Philosophy, Culture and Ethos": "As a Catholic mission school, the CHIJ Katong Convent (KC) brand of education is anchored in building character and developing the whole person. We grow our student leadership, character and citizenship education programmes through meaningful learning experiences from long-term partnerships established with local and overseas organisations. We are committed to striving for excellence in all that we do, stretching academic potential, inculcating strong moral values and nurturing all-round confident and gracious young ladies with hearts of compassion and a keen sense of duty to the community. Our KC Graduate will choose to live a life that matters, guided by our IJ Mission and Motto, growing to become ladies with values and of value to their community and our nation. She is a compassionate servant leader, effective communicator, innovative problem-solver and discerning citizen of the world.",
 		"Type of School": "GOVERNMENT-AIDED SCH / GIRLS' SCHOOL / SINGLE SESSION",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -44,11 +44,13 @@
 		"COMBINED HUMANITIES (S,L)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
+		"DRAMA",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
 		"FOOD & NUTRITION",
+		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HISTORY",
@@ -62,7 +64,6 @@
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE (CHEM, BIO)",
-		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
 		"SOCIAL STUDIES N(T)"
 	],
@@ -73,7 +74,6 @@
 			"Floorball",
 			"Netball",
 			"Ten-Pin Bowling",
-			"Tennis",
 			"Track & Field"
 		],
 		"Uniformed Groups": [
@@ -89,7 +89,7 @@
 			"Orchestra - Chinese"
 		],
 		"Clubs & Societies": [
-			"Debating And Oratorical Society",
+			"Debating Society",
 			"Entrepreneur Club",
 			"Ijym",
 			"Infocomm Club"
@@ -99,7 +99,7 @@
 		"MOE Programmes": [
 			"Not Available"
 		],
-		"Special Student Development Programmes Offered": "The school provides a broad-based student-centric, values-driven curriculum to equip students with the knowledge, skills and attributes to face the challenges of the future. Based on the school's E3 approach, programmes are conceptualised from a differentiated perspective: a good school Experience for all students; Enrichment programmes in line with our school's niche area in Art, Drama and Music at 'O' level for students with interest and aptitude for the subject; and Extended opportunities for the higher ability students to Excel in their area of talent. Our key programmes include Literature for All; Speech and Drama; Enhanced Art Programme; Student Leadership Development; Book and Music Week; Evening of Music, Dance & Drama; Arts Education; Study and Exam Skills Seminar; Level Camps; Level Retreats; Overseas Exchange; Service Learning; Information Literacy; ITE Elective Modules; Polytechnic Advanced Elective Modules; Work Experience and Environment Projects."
+		"Special Student Development Programmes Offered": "The school provides a broad-based student centric, values-driven curriculum to equip students with the knowledge, skills and attributes to face the challenges of the future. Based on the school's E3 approach, programmes are conceptualised from a differentiated tier: a good school Experience for all students, Enrichment programmes across subjects with special emphasis on the school's niche in Literature, Speech and Drama, Art and Music, and Extended opportunities for higher progress students to Excel in their area of talent. These programmes include Speech and Drama, Enhanced Art Programme, Book and Music Week, Arts Education, Level Camps and Retreats, Student Leadership Development, Service Learning, ITE Elective Modules, Polytechnic Advanced Elective Modules and Work Experience."
 	},
 	"AchievementHistory": {
 		"Secondary": {

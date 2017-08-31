@@ -1,9 +1,9 @@
 {
 	"code": "7022",
+	"name": "ST. PATRICK'S SCHOOL",
 	"levels": "S",
 	"uen": " T07GS7022G",
 	"logo": "./Medias/Images/Schools/logos/tn_7022.jpg",
-	"name": "ST. PATRICK'S SCHOOL",
 	"website": "http://www.stpatricks.moe.edu.sg",
 	"address": "490, EAST COAST ROAD ( 429058 )",
 	"telephone": [
@@ -43,7 +43,6 @@
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"CHINESE (SPECIAL PROGRAMME)",
 		"CHINESE B",
 		"CHINESE N(A)",
 		"CIVICS & MORAL EDUCATION",
@@ -70,7 +69,6 @@
 		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
-		"PRINCIPLES OF A/C",
 		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE",
 		"SCIENCE (CHEM, BIO)",
@@ -122,7 +120,7 @@
 			"STEM": "Sports and Health Science",
 			"Music & Performing Arts": "Music Development Programme"
 		},
-		"Special Student Development Programmes Offered": "The school offers Health and Sports Science as its Applied Learning Programme (ALP). The ALP aims to equip students with a better understanding of Sports Science as well as their physical well-being. Topics such as Biomechanics, Physiology and Motor Control are covered. For the Life Long Learning Programme (LLP), the school offers a unique programme in Music. The LLP develops students in their understanding of music as well as develop their character.  Through the pursuit of excellence in music, the students learn discipline, team work, commitment and resilience. Student Leadership Development is another key programme where numerous opportunities are provided for students to exercise and develop their leadership skills. The school also has a Scholars' Development Programme to provide a suitable learning environment that caters for students with higher academic abilities. The students in the Scholars class participate in the Scholars' Development Programme to better equip them with the right skills and mindset for their all-round development. The school is implementing greater flexibility in subject offering at all levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "The school offers Health and Sports Science as its Applied Learning Programme (ALP). The ALP aims to equip students with a better understanding of Sports Science as well as their physical well-being. Topics such as Biomechanics, Physiology and Motor Control are covered. For the Life Long Learning Programme (LLP), the school offers a unique programme in Music. The LLP develops students in their understanding of music as well as develop their character.  Through the pursuit of excellence in music, the students learn discipline, team work, commitment and resilience. Student Leadership Development is another key programme where numerous opportunities are provided for students to exercise and develop their leadership skills. The school also has a Scholars' Development Programme to provide a suitable learning environment that caters for students with higher academic abilities. The students in the Scholars class participate in the Scholars' Development Programme to better equip them with the right skills and mindset for their all-round development."
 	},
 	"AchievementHistory": {
 		"Secondary": {

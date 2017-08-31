@@ -1,9 +1,9 @@
 {
 	"code": "3101",
+	"name": "DUNMAN HIGH SCHOOL",
 	"levels": "SJT",
 	"uen": " T07GS3101F",
 	"logo": "./Medias/Images/Schools/logos/tn_3101.jpg",
-	"name": "DUNMAN HIGH SCHOOL",
 	"website": "http://www.dunmanhigh.moe.edu.sg",
 	"address": "10, TANJONG RHU ROAD ( 436895 )",
 	"telephone": [
@@ -22,7 +22,7 @@
 		"School Vision": "The premier school of Leaders of Honour",
 		"School Mission": "To nurture our students to Care, to Serve, and to Lead",
 		"School Philosophy, Culture and Ethos": "In Dunman High School, we view the twin pillars of a rigorous curriculum and character development as fundamental to the education of our students. This educational ethos is influenced by Confucian philosophy, where the Head, Heart and Hands are important in developing all-rounded individuals and Leaders of Honour who are knowledgeable, with a heart to care and serve others within and beyond the school community.",
-		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / FULL DAY",
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese",
 		"Affiliated Schools": "Not Applicable"
@@ -143,8 +143,6 @@
 			"Environment Club(Senior High)",
 			"Infocomm Club",
 			"Library Society",
-			"Mass Communication Society (Senior High)",
-			"Mass Communication Society(Senior High)",
 			"Publications (Senior High)",
 			"Robotics Club",
 			"Science Society ( Senior High)",
@@ -476,6 +474,17 @@
 						"'C' Div"
 					],
 					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"2nd",
+						"2nd",
+						"2nd",
+						"1st"
+					],
+					[
 						"Badminton",
 						"-",
 						"-",
@@ -507,17 +516,6 @@
 						"-",
 						"-",
 						"-"
-					],
-					[
-						"Table Tennis",
-						"-",
-						"-",
-						"-",
-						"3rd",
-						"2nd",
-						"2nd",
-						"2nd",
-						"1st"
 					],
 					[
 						"Taekwondo (Kyorugi)",

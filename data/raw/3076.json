@@ -1,10 +1,10 @@
 {
 	"code": "3076",
+	"name": "MERIDIAN SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T16GS0001G",
 	"logo": "./Medias/Images/Schools/logos/tn_3076.jpg",
-	"name": "MERIDIAN SECONDARY SCHOOL",
-	"website": "http://www.meridiansec.moe.edu.sg",
+	"website": "http://meridiansec.moe.edu.sg",
 	"address": "31, PASIR RIS STREET 51 ( 518901 )",
 	"telephone": [
 		"65831387"
@@ -14,7 +14,7 @@
 	],
 	"email": "meridian_sec@moe.edu.sg",
 	"mrt": "PASIR RIS MRT",
-	"bus": "81 , 53 , 359 , 518 ",
+	"bus": "39 , 53 , 81 , 89 , 109 , 359 , 403 , 518 ",
 	"GeneralInformation": {
 		"Principal": "MDM TAN HWEE TSIAN HILDA",
 		"Vice Principal": [
@@ -75,11 +75,10 @@
 			"Drama & Debating Society",
 			"Malay Dance",
 			"Meridian Nusantara Orchestra",
-			"Modern Dance",
 			"Symphonic Band"
 		],
 		"Clubs & Societies": [
-			"Media Club (Photography & Videography)",
+			"Infocomm Club",
 			"Robotics Club"
 		]
 	},
@@ -88,7 +87,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Aesthetics": "Visual Communication",
+			"Aesthetics": "Aesthetics",
 			"Community & Youth Leadership": "Community and Youth Leadership"
 		},
 		"Special Student Development Programmes Offered": "Our Growing Leaders programme in the area of student leadership is our Learning for Life Programme (LLP). We believe that every student has the potential to become a confident leader of sound character through the structured, differentiated, and meaningful experiences provided in the student leadership programme. Our Applied Learning Programme (ALP) in Visual Communication offers a spread of enriched Arts-related programmes that equip students with the skills and knowledge of how visual images, texts and contexts can be used creatively to communicate powerful messages to their intended audience through programmes such as photo-journalism and video-making. The Enhanced Art Programme, a special Art curriculum for selected students who demonstrate a high level of interest in visual art, provides them with opportunities to learn a wide variety of art-making techniques from master artists and overseas immersion programmes. Developing Innovative Learners through Design Thinking (DT) is another signature programme where students actively seek to understand problems faced by users and develop innovative solutions using the DT approach. The Values In Action programme for Sec 3 students allows them to initiate, lead and work in groups to carry out a year-long service learning project to serve the community. The Co-curricular Activities programme nurtures talents and shapes character by providing opportunities for students to hone leadership skills, build team and school spirit, and cultivate an appreciation for the outdoors and the aesthetics. The teaching and learning programme caters to the diverse talents and abilities of students with programmes to stretch or support students' learning such as the Maths Olympiad and Humanities Scholars' programme. The Internationalisation Programme enables students to develop a global outlook and be culturally savvy."

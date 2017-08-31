@@ -1,9 +1,9 @@
 {
 	"code": "5027",
+	"name": "METHODIST GIRLS' SCHOOL (PRIMARY)",
 	"levels": "PF",
 	"uen": " T07GS5027E",
 	"logo": "./Medias/Images/Schools/logos/tn_5027.jpg",
-	"name": "METHODIST GIRLS' SCHOOL (PRIMARY)",
 	"website": "http://www.mgs.sch.edu.sg",
 	"address": "11, Blackmore Drive ( 599986 )",
 	"telephone": [
@@ -106,19 +106,7 @@
 				}
 			},
 			"2017": {}
-		},
-		"Secondary": {
-			"2014": {},
-			"2015": {},
-			"2016": {},
-			"2017": {}
 		}
-	},
-	"PsleAggregateHistory": {
-		"2014": {},
-		"2015": {},
-		"2016": {},
-		"2017": {}
 	},
 	"postalCode": "599986"
 }

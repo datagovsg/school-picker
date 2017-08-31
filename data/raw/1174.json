@@ -1,9 +1,9 @@
 {
 	"code": "1174",
+	"name": "STAMFORD PRIMARY SCHOOL",
 	"levels": "P",
 	"uen": " T07GS1174C",
 	"logo": "./Medias/Images/Schools/logos/tn_1174.jpg",
-	"name": "STAMFORD PRIMARY SCHOOL",
 	"website": "http://www.stamfordpri.moe.edu.sg",
 	"address": "1, VICTORIA LANE ( 198423 )",
 	"telephone": [
@@ -17,10 +17,7 @@
 	"bus": "Along Victoria Street:2 , 7 , 12 , 32 , 33 , 61 , 62 , 63 , 80 , 130 , 133 , 145 , 197 , NR8. ",
 	"GeneralInformation": {
 		"Principal": "MR ONG THIAM HUAT ROBIN",
-		"Vice Principal": [
-			"MDM FAZILAH MARICAR D/O MD ALI M",
-			"MDM LEE PHAIK HAR"
-		],
+		"Vice Principal": "MDM LEE PHAIK HAR",
 		"Vice Principal (Admin)": "MR TAN AIK CHEONG",
 		"School Vision": "Stamfordians of Competence and Character, who Care and Contribute",
 		"School Mission": "Nurturing hearts and engaging minds, enabling Stamfordians to realize their potential and live fully for self and others.",

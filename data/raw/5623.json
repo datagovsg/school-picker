@@ -1,9 +1,9 @@
 {
 	"code": "5623",
+	"name": "PEI HWA PRESBYTERIAN PRIMARY SCHOOL",
 	"levels": "P",
 	"uen": " T07GS5623L",
 	"logo": "./Medias/Images/Schools/logos/tn_5623.jpg",
-	"name": "PEI HWA PRESBYTERIAN PRIMARY SCHOOL",
 	"website": "http://www.peihwapresbyterianpri.moe.edu.sg/",
 	"address": "7, PEI WAH AVENUE ( 597610 )",
 	"telephone": [
@@ -81,7 +81,11 @@
 			"SAP"
 		],
 		"School Distinctive Programmes": {
-			"Languages": "Competent, Confident Communicators (C³) – A 6 year progressive programme.",
+			"Languages": [
+				"Competent, Confident Communicators (C",
+				null,
+				") – A 6 year progressive programme."
+			],
 			"Sports & Outdoor Education": "STAR (Self-defence, Track & field, Adventure and Racquet games) @ PHPPS"
 		},
 		"Special Student Development Programmes Offered": "Chinese Arts Programme (CAP) for P1 - P6; Art and music lessons are taught in Chinese for P1 - P3 Leadership development for all"
@@ -393,15 +397,15 @@
 				],
 				"SYF Arts Presentation": {
 					"Art - Category C": "Recognition",
-					"Choir": "Distinction",
 					"Dance - Chinese": "Distinction",
 					"Dance - International": "Accomplishment",
 					"Ensemble - Guitar": "Accomplishment",
-					"Ensemble - Guzheng": "Accomplishment"
+					"Ensemble - Guzheng": "Accomplishment",
+					"Choir": "Distinction"
 				},
 				"Best Unit Award": {
-					"Girls' Brigade": "Gold",
-					"Boys' Brigade": "Gold"
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold"
 				}
 			},
 			"2017": {}

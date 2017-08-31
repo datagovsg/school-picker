@@ -1,9 +1,9 @@
 {
 	"code": "5608",
+	"name": "KHENG CHENG SCHOOL",
 	"levels": "P",
 	"uen": " T07GS5608C",
 	"logo": "./Medias/Images/Schools/logos/tn_5608.jpg",
-	"name": "KHENG CHENG SCHOOL",
 	"website": "http://www.khengcheng.moe.edu.sg/",
 	"address": "15, LORONG 3 TOA PAYOH ( 319580 )",
 	"telephone": [
@@ -69,7 +69,12 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Interdisciplinary": "C3 at KCS  - Chess for Critical Thinking, Chess for Confidence Building, and Chess for All"
+			"Interdisciplinary": [
+				"C",
+				null,
+				" at KCS  - Chess for Critical Thinking, Chess for Confidence Building, and Chess for All"
+			],
+			"Community Service & Student Leadership": "Student Voice & Advocacy (SVA) @ KCS"
 		},
 		"Special Student Development Programmes Offered": "Learning for Life Programme (LLP): Student Voice Advocacy@KCS The LLP in Kheng Cheng School is an innovative approach in enabling the young digital natives of today, living as citizens in a globalized world, to believe that they have a voice to make a positive difference beyond themselves for their families, school or community. It allows for the students to design and implement Values-In-Action community service projects, independently, as a class. The school aims to develop students as critical thinkers and compassionate leaders through the school-wide LLP programme which begins even as early as Primary 1. Teachers take on the role as facilitators to guide the design of these student-led projects, with thinking routines to structure the planning and implementation.   International Chess for Primary 1&2 International Chess is a niche programme in the school. In additional to hosting annual zonal competitions in this area for primary school students, the school has put in place programmes to enhance the awareness and skills of International Chess for all students in Primary 1 and 2. We believe that an early start to strategy and thinking games such as this would enable them to sharpen and deepen their thinking processes, while mastering the life skills sportsmanship and collaboration at the same time.   Programme for Active Learning (PAL) The PAL programme emphasizes the socio-emotional competencies that the school seeks to imbue in the Primary 1 and 2 students, through collaborative and modular segments such as outdoor education and aesthetic activities, which promote teamwork and collaborative skills in the students."
 	},

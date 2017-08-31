@@ -1,9 +1,9 @@
 {
 	"code": "3058",
+	"name": "NORTHLAND SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3058A",
 	"logo": "./Medias/Images/Schools/logos/tn_3058.jpg",
-	"name": "NORTHLAND SECONDARY SCHOOL",
 	"website": "http://www.northlandsec.moe.edu.sg",
 	"address": "3, YISHUN STREET 22 ( 768578 )",
 	"telephone": [
@@ -13,7 +13,7 @@
 		"62573634"
 	],
 	"email": "NORTHLAND_SS@MOE.EDU.SG",
-	"mrt": "Yishun",
+	"mrt": "YISHUN MRT",
 	"bus": "811 , 804 , 800 ",
 	"GeneralInformation": {
 		"Principal": "MDM TAN SIEW WOON",
@@ -21,9 +21,9 @@
 			"MR YIP KOK HOONG (YE GUOXIONG)",
 			"MDM HOO WEI CHE, DELIA"
 		],
-		"School Vision": "Motivated Learners, Assets to Community",
-		"School Mission": "Nurturing Minds, Shaping Character, Strengthening Vigour",
-		"School Philosophy, Culture and Ethos": "Northland is a vibrant school, demonstrating dynamic progress and great promise in recent years. Focusing on both academic outcomes and character development, the school is set to advance steadily forward, producing students who are both motivated learners and assets to the community. It endeavours to make every student who walks through its gates a NORTHSTAR - someone who is a guiding light to others in the community, with the attributes of a Concerned Citizen, Creative Artiste, Servant Leader, Caring Friend, Active Sportsman and Critical Thinker. The school believes in engaging all students through strong teacher-student relationships, thus cultivating a culture of care.",
+		"School Vision": "Learners Who Share, Citizens Who Care, Leaders Who Dare",
+		"School Mission": "Nurturing Character, Inspiring Learning",
+		"School Philosophy, Culture and Ethos": "A merged school since 2017, Northland Secondary offers a new beginning of personal growth and holistic learning. The school believes that learning is a lifelong pursuit that requires discipline, responsibility and self-directedness. To this end, school programmes are all-round, values-driven and anchored on strong fundamentals. It nurtures in students habits of reading, reflection and critical thinking, all of which stand them in good stead in an increasingly complex and ever-changing environment. Northland Secondary also promotes a culture of care by building positive relationships based on respect and empathy for others. The school uses the metaphor of the Northstar to communicate our firm belief in our students' ability and potential, as well as the purpose of our work as educators. Consistent in brilliance, unwavering through different seasons of life, we aim to develop each Northstar to be a Critical Thinker, an Active Sportsman, a Servant Leader, a Concerned Citizen, a Creative Artiste and A Caring Friend.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -41,20 +41,24 @@
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"FOOD & NUTRITION",
+		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HISTORY",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
-		"SOCIAL STUDIES",
+		"SOCIAL STUDIES N(T)",
 		"TAMIL"
 	],
 	"Cca": {
 		"Physical Sports": [
+			"Badminton",
 			"Basketball",
 			"Floorball",
 			"Hockey",
@@ -65,6 +69,7 @@
 			"Boys' Brigade",
 			"Girl Guides",
 			"Ncc (Land)",
+			"Ncc(Air)",
 			"Npcc"
 		],
 		"Visual and Performing Arts": [
@@ -72,9 +77,11 @@
 			"Dance - Indian",
 			"Dance - Malay",
 			"Fusion Arts (Chinese Dance)",
-			"Guzheng"
+			"Guzheng",
+			"Multi Cultural Artiste Club"
 		],
 		"Clubs & Societies": [
+			"Heart Club",
 			"Infocomm Club (Ava, Photography & Videography)"
 		]
 	},
@@ -83,10 +90,10 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"STEM": "Nurturing Self-directed Learners with 21CC Competencies through the Context of Health Sciences & Healthcare Technology",
-			"Sports & Outdoor Education": "Developing Social Emotional Competencies through Sports and Physical Activities"
+			"STEM": "Nurture Critical Thinkers & Self-directed Learners though Health Sciences & Healthcare Technology",
+			"Sports & Outdoor Education": "Game for Life – Developing Social Emotional Competencies through Sports and Physical Activities"
 		},
-		"Special Student Development Programmes Offered": "The school's Applied Learning Programme aims to nurture critical thinkers & self-directed learners in health sciences & healthcare technology. Through project work, students monitor their health in novel ways, gather data to analyse, propose and present plans to improve their well-being. Students conduct research and design ways to aid the elderly so that they are empowered to live more fulfilling lives. 'Game for Life', the school's Learning for Life Programme, leverages sports and physical activities to empower students with passion, knowledge and skills to lead a healthy life. Students with sporting talent are progressively developed through exposure to competitive sports within and beyond the school. The school has a proud sporting tradition, especially in Hockey and Floorball, with several of its alumni players representing Singapore in international competitions and many others representing sports clubs in local leagues. The King's Pipe Band which consists of Scottish bagpipes and drums performers, is a part of the Boys' Brigade contingent, and has been highly regarded in South East Asia. For an all-round educational experience, the school also offers level camps, Science Research Programme and Internationalisation Programme to Asian countries where students can gain cross-cultural insights."
+		"Special Student Development Programmes Offered": "The school's Applied Learning Programme aims to nurture critical thinkers & self-directed learners in health sciences & healthcare technology. Through project work, students monitor their health in novel ways, gather data to analyse, propose and present plans to improve their well-being. Students conduct research and design ways to aid the elderly so that they are empowered to live more fulfilling lives. 'Game for Life', the school's Learning for Life Programme, leverages sports and physical activities to empower students with passion, knowledge and skills to lead a healthy life. Students with sporting talent are progressively developed through exposure to competitive sports within and beyond the school. The school has a proud sporting tradition, especially in Hockey and Floorball, with several of its alumni players representing Singapore in international competitions and many others representing sports clubs in local leagues. The King's Pipe Band which consists of Scottish bagpipes and drums performers, is a part of the Boys' Brigade contingent, and has been highly regarded in South East Asia. For an all-round educational experience, the school also offers school-based enrichment programmes, such as the Science Research Programme, local and overseas community outreach projects, with Secondary 3 Northland Overseas Values-In-Action (NOVIA) as a signature programme to broaden students' horizons as they share and serve in a cross-cultural context."
 	},
 	"AchievementHistory": {
 		"Secondary": {

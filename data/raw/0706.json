@@ -1,9 +1,9 @@
 {
 	"code": "0706",
+	"name": "VICTORIA JUNIOR COLLEGE",
 	"levels": "J",
 	"uen": " T07GS0706C",
 	"logo": "./Medias/Images/Schools/logos/tn_0706.jpg",
-	"name": "VICTORIA JUNIOR COLLEGE",
 	"website": "http://www.victoriajc.moe.edu.sg/",
 	"address": "20, MARINE VISTA ( 449035 )",
 	"telephone": [
@@ -97,6 +97,7 @@
 			"Hockey",
 			"Netball",
 			"Rockclimbing",
+			"Sailing",
 			"Soccer",
 			"Softball",
 			"Swimming",
@@ -446,41 +447,6 @@
 						"'A' Div"
 					],
 					[
-						"Football",
-						"2nd",
-						"1st",
-						"-",
-						"-"
-					],
-					[
-						"Hockey",
-						"1st",
-						"1st",
-						"-",
-						"-"
-					],
-					[
-						"Track & Field",
-						"3rd",
-						"1st",
-						"-",
-						"-"
-					],
-					[
-						"Volleyball",
-						"1st",
-						"3rd",
-						"-",
-						"-"
-					],
-					[
-						"Wushu",
-						"3rd",
-						"2nd",
-						"-",
-						"-"
-					],
-					[
 						"Badminton",
 						"-",
 						"4th",
@@ -514,10 +480,44 @@
 						"3rd",
 						"-",
 						"-"
+					],
+					[
+						"Football",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"3rd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"3rd",
+						"2nd",
+						"-",
+						"-"
 					]
 				],
 				"SYF Arts Presentation": {
-					"Orchestra - Chinese": "Distinction",
 					"Art - Category C": "Recognition(Sm)",
 					"Band - Concert": "Distinction",
 					"Choir": "Distinction",
@@ -527,7 +527,8 @@
 					"Ensemble - Guitar": "Distinction",
 					"Ensemble - Guzheng": "Distinction",
 					"Ensemble - Harmonica": "Distinction",
-					"Ensemble - Strings": "Distinction"
+					"Ensemble - Strings": "Distinction",
+					"Orchestra - Chinese": "Distinction"
 				}
 			},
 			"2017": {}

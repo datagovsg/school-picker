@@ -1,10 +1,10 @@
 {
 	"code": "3607",
+	"name": "SENG KANG SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3607C",
 	"logo": "./Medias/Images/Schools/logos/tn_3607.jpg",
-	"name": "SENG KANG SECONDARY SCHOOL",
-	"website": "http://www.sengkangsec.moe.edu.sg/",
+	"website": "http://www.sengkangsec.moe.edu.sg",
 	"address": "10, COMPASSVALE LANE ( 545090 )",
 	"telephone": [
 		"63887258"
@@ -13,7 +13,7 @@
 		"63887254"
 	],
 	"email": "skss@moe.edu.sg",
-	"mrt": "SENG KANG MRT, RANGGUNG LRT",
+	"mrt": "SENGKANG MRT, RANGGUNG LRT",
 	"bus": "27 , 80 , 85 , 86 , 87 , 89 , 89E , 163 , 163M , 372 ",
 	"GeneralInformation": {
 		"Principal": "MR KOH YIAK KHENG",
@@ -41,6 +41,7 @@
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
+		"EXERCISE AND SPORTS SCIENCE",
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
@@ -49,7 +50,6 @@
 		"MALAY",
 		"MATHEMATICS",
 		"MUSIC",
-		"OECIE PHYSICAL EDUCATION",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"SCIENCE (CHEM, BIO)",

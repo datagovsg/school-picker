@@ -1,9 +1,9 @@
 {
 	"code": "3050",
+	"name": "XINMIN SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3050L",
 	"logo": "./Medias/Images/Schools/logos/tn_3050.jpg",
-	"name": "XINMIN SECONDARY SCHOOL",
 	"website": "http://www.xinminss.edu.sg",
 	"address": "11, HOUGANG AVENUE 8 ( 538789 )",
 	"telephone": [
@@ -17,10 +17,7 @@
 	"bus": "25 , 55 , 70 , 72 , 73 , 74 , 88 , 101 , 103 , 112 , 132 , 147 , 156 , 159 , 161 , 165 , 315 , 854 ",
 	"GeneralInformation": {
 		"Principal": "MDM LIM HONG PENG",
-		"Vice Principal": [
-			"MISS GOH BEE LIM MABEL",
-			"MR YONG YIK YEN BENJAMIN"
-		],
+		"Vice Principal": "MR YONG YIK YEN BENJAMIN",
 		"Vice Principal (Admin)": "MR FONG KIM WAH",
 		"School Vision": "Leading Hearts, Leading Minds",
 		"School Mission": "To develop Xinmin students to their full potential, to inculcate in them sound values, as well as a mindset for excellence, and to nurture them to be responsible and caring members of society.",
@@ -364,8 +361,8 @@
 					"Ensemble - Guzheng": "Distinction"
 				},
 				"Best Unit Award": {
-					"Girls' Brigade": "Gold",
 					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold",
 					"Ncc (Land Boys)": "Silver",
 					"Npcc (Land)": "Silver",
 					"St John Ambulance Brigade": "Gold"

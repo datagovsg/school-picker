@@ -1,9 +1,9 @@
 {
 	"code": "1073",
+	"name": "RAFFLES GIRLS' PRIMARY SCHOOL",
 	"levels": "P",
 	"uen": " T07GS1073E",
 	"logo": "./Medias/Images/Schools/logos/tn_1073.jpg",
-	"name": "RAFFLES GIRLS' PRIMARY SCHOOL",
 	"website": "http://www.rafflesgirlspri.moe.edu.sg",
 	"address": "21, Hillcrest Road ( 289072 )",
 	"telephone": [
@@ -455,17 +455,6 @@
 						"Senior"
 					],
 					[
-						"Badminton",
-						"-",
-						"-",
-						"4th",
-						"-",
-						"-",
-						"-",
-						"1st",
-						"2nd"
-					],
-					[
 						"Basketball",
 						"-",
 						"-",
@@ -521,6 +510,17 @@
 						"-"
 					],
 					[
+						"Badminton",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"2nd"
+					],
+					[
 						"",
 						"'A' Div",
 						"'B' Div",
@@ -547,11 +547,11 @@
 						"-",
 						"-",
 						"-",
+						"3rd",
 						"-",
 						"-",
 						"-",
-						"-",
-						"3rd"
+						"-"
 					],
 					[
 						"",
@@ -577,13 +577,13 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Art - Category B": "Recognition",
 					"Band - Concert": "Accomplishment",
 					"Choir": "Accomplishment",
 					"Dance - Chinese": "Distinction",
 					"Dance - Indian": "Distinction",
 					"Dance - International": "Distinction",
-					"Ensemble - Strings": "Distinction"
+					"Ensemble - Strings": "Distinction",
+					"Art - Category B": "Recognition"
 				},
 				"Best Unit Award": {
 					"Girls' Brigade": "Gold"

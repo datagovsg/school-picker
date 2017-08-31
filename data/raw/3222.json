@@ -1,9 +1,9 @@
 {
 	"code": "3222",
+	"name": "YIO CHU KANG SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3222C",
 	"logo": "./Medias/Images/Schools/logos/tn_3222.jpg",
-	"name": "YIO CHU KANG SECONDARY SCHOOL",
 	"website": "http://www.yiochukangsec.moe.edu.sg/",
 	"address": "3063, ANG MO KIO AVENUE 5 ( 569868 )",
 	"telephone": [
@@ -33,10 +33,9 @@
 		"ADDITIONAL MATHEMATICS",
 		"ART NA LEVEL",
 		"ART 'O' LEVEL",
-		"BASIC CHINESE",
+		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"CHINESE B",
 		"CHINESE N(A)",
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
@@ -44,13 +43,13 @@
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
-		"ENGLISH LANGUAGE (SYLL A)",
-		"ENGLISH LANGUAGE (SYLL T)",
+		"EXERCISE AND SPORTS SCIENCE",
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"FOOD STUDIES, N LEVEL",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
+		"HIGHER MALAY",
 		"HISTORY",
 		"LITERATURE(E)",
 		"MALAY",
@@ -58,33 +57,32 @@
 		"MATHEMATICS",
 		"MATHEMATICS (SYLLABUS A)",
 		"MATHEMATICS (SYLLABUS T)",
-		"OECIE PHYSICAL EDUCATION",
+		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
-		"PRINCIPLES OF A/C",
 		"PRINCIPLES OF ACCOUNTS",
-		"SCIENCE",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
+		"SMART ELECTRICAL TECHNOLOGY",
 		"SOCIAL STUDIES N(T)",
 		"TAMIL",
 		"TAMIL N(A)"
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Badminton",
-			"Basketball",
-			"Floorball",
-			"Netball"
+			"Badminton (Boys & Girls)",
+			"Basketball (Boys)",
+			"Floorball (Boys)",
+			"Netball",
+			"Volleyball (Boys)"
 		],
 		"Uniformed Groups": [
 			"National Civil Defence Cadet Corps",
 			"National Police Cadet Corps",
-			"Singapore Red Cross Society"
+			"Singapore Red Cross Youth"
 		],
 		"Visual and Performing Arts": [
-			"Art And Craft Club",
 			"Band - Symphonic",
 			"Choir",
 			"Dance - Chinese",
@@ -93,8 +91,10 @@
 			"Drama - English"
 		],
 		"Clubs & Societies": [
+			"Aeronautical Club",
 			"Infocomm Club",
-			"Library"
+			"Mechatronics & Robotics Club",
+			"Media Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -105,7 +105,7 @@
 			"STEM": "Developing inquiring minds and creative learners through Arduino",
 			"Music & Performing Arts": "Character Development through the Arts, Media and Design"
 		},
-		"Special Student Development Programmes Offered": "The Learning for Life Programme (LLP-Character Development through Arts, Media & Design) provides: (i) Arts Foundation classes including Drama, Choir, Band and Dance and (ii) Enrichment classes including Drama, Hip Hop, 3D Animation, Film Video, Robotics, Interior Design and Mechatronics. The Applied Learning Programme (ALP-Developing Inquiring Minds and Creative Learners through Arduino) provides students with opportunities to see connections between academic knowledge and skills in the real world. Through ALP, students learn to develop innovative ideas and solutions for real-life problems. Other programmes include After-School Engagement Programme, Assertiveness Training Programme, Family Matters@School Programme, National Youth Achievement Award Programme, Philosophy for Children (P4C), Service Learning and Student Leadership. The school's curricular innovations include Bicultural Twinning and Immersion Exchange Programmes, Inquiry-based Learning, Normal (Technical) Learning Journeys and Work Attachment Programme."
+		"Special Student Development Programmes Offered": "The school's Learning for Life Programme (LLP) aims to grow strong character and leadership through Arts, Media & Design. The programme features the YCK Arts Foundation classes that provide a wide range of opportunities for creative expression in singing, dance, drama and playing an instrument. Through the design of these activities, students develop confidence, nurture a deeper appreciation of the arts and acquire important collaborative and people skills to lead self and others. Beyond the performing arts, the LLP also has talent development programmes to take the students deeper into creative areas related to technology such as 3D Animation, Videography, Interior Design and Robotics. The school offers an Applied Learning Programme (ALP) to nurture inquiring minds and inventive thinkers through technology. In this programme, students are introduced to technologies and learn to develop innovative ideas and integrated solutions for real-life problems in the community. The ALP gives students opportunities to explore the connections between problem-solving skills needed in the real world and academic knowledge related to Science, Technology, Engineering and Mathematics (STEM). Importantly, the ALP encourages students to stay curious and learn about how technology can be applied in new ways to improve the quality of life around us."
 	},
 	"AchievementHistory": {
 		"Secondary": {

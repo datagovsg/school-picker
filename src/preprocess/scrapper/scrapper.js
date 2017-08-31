@@ -24,9 +24,6 @@ export default function scrap (endpoint, options) {
 
       return endpoint ? parsers[endpoint](json) : parseContactInfo(json)
     })
-    .catch(err => {
-      console.error(err.stack)
-    })
 }
 
 function getUrl (page, query) {

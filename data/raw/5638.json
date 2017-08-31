@@ -1,9 +1,9 @@
 {
 	"code": "5638",
+	"name": "ANGLO-CHINESE SCHOOL (PRIMARY)",
 	"levels": "P",
 	"uen": " T07GS5638G",
 	"logo": "./Medias/Images/Schools/logos/tn_5638.jpg",
-	"name": "ANGLO-CHINESE SCHOOL (PRIMARY)",
 	"website": "http://www.acspri.moe.edu.sg/",
 	"address": "50, BARKER ROAD ( 309918 )",
 	"telephone": [
@@ -90,7 +90,8 @@
 			"Gifted Education Programme"
 		],
 		"School Distinctive Programmes": {
-			"Sports & Outdoor Education": "All Can Swim: Building Character Through Swimming"
+			"Sports & Outdoor Education": "Building Character Through Sports",
+			"Music & Performing Arts/ Visual Arts & Design": "The Arts at ACS(P)"
 		},
 		"Special Student Development Programmes Offered": "To achieve the ACS(P) brand of education, beyond the regular curriculum, the school has CCAs,  Signature Programmes, as well as two niche programmes in swimming and bowling. In addition, we offer the Gifted Education Programme for the intellectually gifted.   In line with our vision to produce Gentlemen of Character, the school has our 6-year Pastoral Care programme that focuses on the explicit teaching of our iHOPEFUL values. Our boys are taught these values from Primary 1 so that they are nurtured as iHOPEFUL Leaders, at home, in school and in the community. In purposefully applying our iHOPEFUL values, we have a 6-year Values-in-Action (VIA) programme for our boys to demonstrate the iHOPEFUL values through various meaningful contexts.   To nurture Gentlemen of Capability, our ACS(P) school experience goes beyond what our boys learn in the school curriculum. Our enrichment programmes cater to all boys to develop our boys in areas like Arts Appreciation, Coding, or Drama. All our boys are also encouraged to take at least one CCA to allow them to try out new CCAs, discover their passion and interests, and learn new skills. Other distinctive programmes include our Mother-Tongue Language Fun Day for Primary 1 and 2 boys and the E2K Science and Mathematics Programmes. Our niche programmes - swimming and bowling, develop our boys' knowledge, skills and understanding in both fields and nurture in them 21st century skills like teamwork.   To nurture Gentlemen of Creativity, creativity tools such as SCAMPER and Making Thinking Visible have been infused into the curriculum to foster critical and creative thinking. School-wide opportunities to promote creativity are provided in the form of the Conducive Learning Environment Challenge where every class works as a team to make their learning space a creative, clean and conducive one."
 	},
@@ -555,11 +556,11 @@
 					[
 						"Swimming",
 						"-",
-						"-",
-						"-",
-						"-",
-						"-",
 						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
 						"-",
 						"-"
 					],
@@ -576,12 +577,12 @@
 					],
 					[
 						"Swimming",
-						"-",
-						"-",
-						"-",
-						"-",
 						"1st",
 						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
 						"-",
 						"-"
 					]
@@ -590,8 +591,8 @@
 					"Art - Category A": "Recognition",
 					"Choir": "Accomplishment",
 					"Dance - International": "Distinction",
-					"Ensemble - Strings": "Accomplishment",
-					"Ensemble - Guitar": "Distinction"
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Strings": "Accomplishment"
 				},
 				"Best Unit Award": {
 					"Boys' Brigade": "Gold",

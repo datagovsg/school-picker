@@ -1,10 +1,10 @@
 {
 	"code": "3511",
+	"name": "TANGLIN SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3511H",
 	"logo": "./Medias/Images/Schools/logos/tn2_3511.jpg",
-	"name": "TANGLIN SECONDARY SCHOOL",
-	"website": "http://www.tanglinsec.moe.edu.sg/",
+	"website": "http://www.tanglinsec.moe.edu.sg",
 	"address": "301, WEST COAST ROAD ( 127391 )",
 	"telephone": [
 		"64248200"
@@ -23,7 +23,7 @@
 		],
 		"School Vision": "Leaders of the Future, Pride of the Community",
 		"School Mission": "A caring school with an innovative and engaging curriculum, TSS equips our students with the skills for active lifelong learning and inculcates in them core values that will guide them to succeed in a changing world.",
-		"School Philosophy, Culture and Ethos": "Guided by our philosophy, 'Everyone Is Unique, All Can Succeed', and the vision of developing our students to become 'Leaders of the Future, Pride of the Community', we are committed to delivering an innovative and engaging curriculum that equips students with the 21st Century skills of lifelong learning and values of R3IC2 (Respect, Responsibility, Resilience, Integrity, Care, Curiosity to Learn) to succeed in a changing world. TSS aims to nurture students to be confident thinkers and communicators with the capacity to solve authentic problems, positively influence others and demonstrate care for the community.",
+		"School Philosophy, Culture and Ethos": "Guided by our philosophy 'Everyone Is Unique, All Can Succeed', we provide students with rich opportunities to discover and pursue their passion so that they can define success in multiple ways. We strive towards a culture of active learning, ensuring students experience joy in learning that drive their self-directedness. To prepare students for the VUCA (Volatile, Uncertain, Complex, Ambiguous) world, we value the spirit of exploration, cultivating in students the capacity to think critically, creatively and inventively to solve problems. We want them to persevere through challenges and have the flexibility to seize opportunities. All these are grounded on the values of Respect, Responsibility, Resilience, Integrity, Care and Curiosity to Learn that ensure students work collaboratively, exercise leadership and grow to become contributing members of the community.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -31,7 +31,6 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART",
-		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
 		"CIVICS & MORAL EDUCATION",
@@ -78,11 +77,11 @@
 			"St. John Brigade"
 		],
 		"Visual and Performing Arts": [
-			"Band And Combo Band",
+			"Chinese Dance",
+			"Concert Band",
 			"Contemporary Dance",
-			"Dance Esemble",
-			"Ensemble - Guzheng",
-			"Ensemble - Percussion"
+			"Guzheng Ensemble",
+			"Percussion Ensemble"
 		],
 		"Clubs & Societies": [
 			"Infocomm Club"
@@ -96,7 +95,7 @@
 			"Languages & Humanities": "Tanglin P.L.U.S. (Perspectives and Literacies to Understand Society)",
 			"Music & Performing Arts / Visual Arts & Design": "S4 THROUGH THE ARTS @ TANGLIN SECONDARY SCHOOL (TSS)"
 		},
-		"Special Student Development Programmes Offered": "Leveraging on our strong partnerships with the polytechnics and our tradition of providing an engineering-based education, we provide our students the opportunity to pursue applied subjects such as Electronics, as well as Elective and Advanced Elective Modules. Students of different abilities also have the opportunity to offer subjects such as Additional Mathematics and Literature (English), on top of the Pure Sciences. Through our Applied Learning Programme (ALP), Tanglin P.L.U.S (Perspectives and Literacies to Understand Society), we aim to establish a distinctive programme in the Humanities. Tanglin P.L.U.S aims to complement the school's existing strengths in Mathematics, Science and Applied Subjects by equipping students with a deeper understanding of national and global issues that will ensure our students receive a well-rounded education which equally values skills of empathy, perspective-taking, diplomacy and public relations. For Lifelong Learning Programme (LLP), TSS leverages on its strengths in the Aesthetics to enable it to launch an enhanced Arts education programme for its students, S4 Through the Arts @ TSS Programme. S4 Through the Arts @ TSS Programme offers our students a 3-year programme that introduces the four arts forms (Music, Art, Drama and Dance) through General Music Programme (GMP), General Art Programme (GAP), Print-to-Screen-to-Stage Programme and a structured Aesthetics Education Programme (AEP) that includes dance and the learning of a musical instrument. For those with passion and interest in the arts, they can also join the Performing Arts Co-Curricular Activities, or opt for Elective Module (EM) and Advanced Elective Module (AEM) in the performing arts. Our customised four-year Student Leadership Development Programme ensures that our students are equipped with the leadership skills and competencies so that they become compassionate leaders who are ready to serve society."
+		"Special Student Development Programmes Offered": "The TSS curriculum is designed to provide students with rich learning opportunities to maximise their potential in the academic and co-curricular areas for future-readiness. Students can pursue subjects such as Electronics, Literature (English) and Art, on top of Pure Sciences and Additional Mathematics. Our Applied Learning Programme, Tanglin PLUS, is a distinctive programme which gives focus to the Humanities. It is aimed at developing students to become informed persons, critical thinkers, confident and effective communicators. Tanglin PLUS takes the learning of Geography, History and Social Studies beyond the classroom, enabling students to apply their knowledge and skills to real-life contexts such as in habitat enhancement programmes in the Singapore Botanic Gardens and community programmes that promote Singapore's unity and security. Tanglin PLUS complements the school's existing strengths in Mathematics, Science and Applied Subjects. For its Lifelong Learning Programme (LLP), TSS is proud to offer the Arts Programme, focusing on Music, Dance and Visual Arts. Students begin with a broad-based exposure to various musical, dance and visual art forms before opting for talent development electives to deepen their skills in show choir, dance, guitar or the visual arts. In collaboration with NAFA and NAC, the Arts Programme also provides students the exposure to the local arts scene and the career opportunities it has to offer. In TSS, it is always about growing leaders. Our customised four-year Student Leadership Development Programme ensures that students are equipped with the leadership skills and competencies so that they become compassionate leaders who are ready to serve society. The partnerships with National University of Singapore, Nanyang Technological University and Singapore Institute of Technology enable us to offer leadership mentoring programmes that inspire our students to set high goals for themselves and strive for excellence."
 	},
 	"AchievementHistory": {
 		"Secondary": {

@@ -1,9 +1,9 @@
 {
 	"code": "3201",
+	"name": "AHMAD IBRAHIM SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3201H",
 	"logo": "./Medias/Images/Schools/logos/tn_3201.jpg",
-	"name": "AHMAD IBRAHIM SECONDARY SCHOOL",
 	"website": "http://www.ahmadibrahimsec.moe.edu.sg",
 	"address": "751, YISHUN AVENUE 7 ( 768928 )",
 	"telephone": [
@@ -23,7 +23,7 @@
 		],
 		"School Vision": "Every AI student, a young lady or gentleman who cares, learns and excels for AI and for nation",
 		"School Mission": "To grow students with strength of character, nurture inquiring and disciplined minds, inspire courage to lead and serve",
-		"School Philosophy, Culture and Ethos": "Ahmad Ibrahim Secondary School believes in building strong academic foundations and instilling academic resilience to prepare students well for their post-secondary education.  We seek to build up towards a culture of excellence and strong purpose to foster a positive school identity.  Our teachers work as a team to nurture every AI student to be a young gentleman or lady who cares, learns and excels for AI and for nation.  The school is committed to preparing our students to be life, work and world ready.  Our character education focuses on inculcation of the core values of AI RISE (Resilience, Integrity, Steadfastness, Excellence) with Care, Courage and Gratitude.  Students are provided with various opportunities to discover, explore and develop their interests and leadership skill.  The school takes pride in its academic and co-curricular programmes that provide quality learning experience to support the holistic development of every student.",
+		"School Philosophy, Culture and Ethos": "Ahmad Ibrahim Secondary School believes in building strong academic foundations and instilling academic resilience to prepare students well for their post-secondary education.  We seek to build up towards a culture of excellence and strong purpose to foster a positive school identity.  Our teachers work as a team to nurture every AI student to be a young lady or gentleman who cares, learns and excels for AI and for nation.  The school is committed to preparing our students to be life, work and world ready.  Our character education focuses on inculcation of the core values of Resilience, Integrity, Steadfastness, Excellence, Care, Courage and Gratitude.  Students are provided with various opportunities to discover, explore and develop their interests and leadership skills.  The school takes pride in its academic and co-curricular programmes that provide quality learning experience to support the holistic development of every student.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -38,7 +38,6 @@
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
-		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
@@ -49,6 +48,7 @@
 		"MALAY",
 		"MATHEMATICS",
 		"MUSIC",
+		"MUSIC 'O' LEVEL",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
@@ -80,8 +80,8 @@
 			"Oratorical Debate & Drama Society"
 		],
 		"Clubs & Societies": [
-			"Infocomm And New Age Media",
-			"Leo Club"
+			"Green Service Club",
+			"Infocomm And New Age Media Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -92,7 +92,7 @@
 			"Languages & Humanities": "Critical Social Inquiry and Media Literacy",
 			"Sports & Outdoor Education": "Character Development through Outdoor Learning Experience (OLE)"
 		},
-		"Special Student Development Programmes Offered": "Character Development through Outdoor Learning Experience (OLE): Our Learning for Life Programme (LLP) is a broad-based developmental programme that spans from Sec 1 to 3, with extended opportunities for students with special interest in outdoor activities to be trained as OLE ambassadors.  It provides students with authentic, real world experiences to learn to work as a team and build their mental and emotional strength, self and collective leadership through taking on physical challenges.  OLE also promotes environmental appreciation through outdoor activities. Critical Social Inquiry (CSI) and Media Literacy: Our Applied Learning Programme (ALP) takes a multi-disciplinary approach where students extend their learning from existing curriculum subjects such as Languages, Humanities, Sciences and CCE using a critical media literacy lens. Students explore key issues that are related to the society e.g. social, ethical and environmental issues, and present their perspectives through various media forms.  The programme is guided by the 3Es approach-EXPLICATE for heightened awareness, EXPERIENCE for all and ENGAGEMENT for students anchored on values and reflection. Enhanced Music Programme (EMP):  EMP allows students to develop their passion and interest in music.  It is a two-year programme in upper secondary with visits to music performances and music master classes, culminating in the pursuit of O-Level Music or Higher Music.  There is also an accompanying two-year Music Preparatory Course (MPC) for lower sec students with music interest and talent. Student-initiated Service Learning Programme: To inspire courage to lead and serve, every class takes part in a structured 10-week programme to identify the need of a community to serve, plan and implement a service learning project.  Outstanding students are identified and nominated for A*STAR Award cum Research Exposure Programme, NAC Talent Development Programme so as to further develop and stretch their potential."
+		"Special Student Development Programmes Offered": "1. Character Development through Outdoor Learning Experience (OLE): Our Learning for Life Programme (LLP) is a broad-based developmental programme that spans from Sec 1 to 3, with extended opportunities for students with special interest in outdoor activities to be trained as OLE leaders.  It provides students with authentic, real world experiences to learn teamwork, build mental and emotional strength, develop self and collective leadership through taking on physical challenges.  OLE also promotes environmental appreciation through outdoor activities.  2. Critical Social Inquiry (CSI) and Media Literacy: Our Applied Learning Programme (ALP) takes a multi-disciplinary approach where students extend their learning from existing curriculum subjects such as Languages, Humanities, Sciences and CCE using a critical media literacy lens. Students explore key issues that are related to the society e.g. social, ethical and environmental issues, and present their perspectives through various media forms.  3. Enhanced Music Programme (EMP):  EMP allows students to develop their passion and interest in music.  It is a two-year programme in upper secondary with visits to music performances and music master classes, culminating in the pursuit of O-Level Music or Higher Music.  There is also an accompanying two-year Music Preparatory Course (MPC) for lower sec students with music interest and talent. 4. Student-initiated Service Learning Programme: To inspire courage to lead and serve, every class takes part in a structured 10-week programme to identify the need of a community to serve, plan and implement a service learning project.  5. With the school's firm belief in academic resilience and stretching student potential, outstanding students are identified and nominated for various stretch programmes which include journalism training, creative writing camp, Science Innovations projects."
 	},
 	"AchievementHistory": {
 		"Secondary": {

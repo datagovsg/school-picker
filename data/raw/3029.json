@@ -1,10 +1,10 @@
 {
 	"code": "3029",
+	"name": "CLEMENTI TOWN SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3029D",
 	"logo": "./Medias/Images/Schools/logos/tn_3029.jpg",
-	"name": "CLEMENTI TOWN SECONDARY SCHOOL",
-	"website": "http://www.clementitownsec.moe.edu.sg/",
+	"website": "http://www.clementitownsec.moe.edu.sg",
 	"address": "10, CLEMENTI AVE 3 ( 129904 )",
 	"telephone": [
 		"67777362"
@@ -24,40 +24,54 @@
 		"Vice Principal (Admin)": "MDM ONG POH CHOO DORIS",
 		"School Vision": "To be a vibrant community of learners, with the heart to value every individual and the spirit to serve and to excel.",
 		"School Mission": "To develop in every Clementeen the passion to learn, the confidence to lead, and the humility to serve",
-		"School Philosophy, Culture and Ethos": "In our CTSS journey towards excellence, we believe that every Clementeen can aspire and grow in character, citizenship and academic ability. We constantly strive to imbue the ABC (ACTIVE, BRIGHT and CARING) traits in all Clementeens. We partner parents and the community to inculcate the core values of the school, 'Adaptability, Self-Discipline, Perseverance, Integrity and Respect' (ASPIRE) in every Clementeen. In the development of our staff, we focus on building Professional Learning Communities within the school to promote innovation and collegiality among staff. We believe that teachers hold the key to unlock the hearts and minds of our students, while leaders are the catalysts of change. The school thus strives for a high standard of professionalism, hones professional practice and enhances staff engagement to help our staff stay connected to our shared purpose.",
+		"School Philosophy, Culture and Ethos": "In our CTSS journey towards excellence, we believe that every Clementeen can aspire and grow in character, citizenship and skills. Within a caring environment, we constantly strive to imbue the ABC (ACTIVE, BRIGHT and CARING) traits in all Clementeens. We partner parents and the community to inculcate the core values of the school, 'Adaptability, Self-Discipline, Perseverance, Integrity, Respect and Empathy' (ASPIRE) in every Clementeen, so that they can be Future-Ready. In the development of our staff, we focus on building a passionate, innovative and engaged team, with a strong culture of lifelong learning and collegiality. We believe that teachers hold the key to unleashing the passion and potential of our students, while leaders are the catalysts of change.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
 	},
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
+		"ART",
+		"BASIC CHINESE",
+		"BASIC MALAY",
+		"BASIC TAMIL",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"CHINESE B",
+		"CHINESE (SPECIAL PROGRAMME)",
 		"CHINESE N(A)",
-		"CO-CURRICULAR ACTIVITIES",
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
+		"COMPUTING",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
+		"ENGLISH LANGUAGE (SYLL A)",
+		"ENGLISH LANGUAGE (SYLL T)",
 		"FOOD & NUTRITION",
+		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
 		"HIGHER TAMIL",
+		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
 		"LITERATURE(E)",
 		"MALAY",
+		"MALAY N(A)",
 		"MATHEMATICS",
+		"MATHEMATICS (SYLLABUS A)",
+		"MATHEMATICS (SYLLABUS T)",
 		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
-		"TAMIL"
+		"TAMIL",
+		"TAMIL N(A)"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -76,8 +90,8 @@
 			"St. John Brigade"
 		],
 		"Visual and Performing Arts": [
+			"Art Club",
 			"Band - Symphonic",
-			"Choir",
 			"Dance - Chinese",
 			"Dance - Indian",
 			"Dance - Malay",
@@ -97,7 +111,7 @@
 			"STEM": "CODE: COmputing to Discover and Empower",
 			"Community & Youth Leadership": "Leadership Development through Uniformed Groups"
 		},
-		"Special Student Development Programmes Offered": "CTSS places a strong emphasis on character education and firmly believes in providing a holistic education to every student. With our strong foundation in Uniformed Groups (UGs), CTSS seeks to achieve the vision 'Every Cadet, A Leader' through our Learning for Life Programme (LLP), which develops leadership qualities in Clementeens through a structured UG experience. Acclaimed character development programmes such as 7 Habits for Highly Effective Youths (featured in Stephen Covey's book 'The Leader in Me'), Normal Technical REAL (Reflective, Experiential, Authentic and Leadership) Curriculum, Student Leadership and National Education Programmes and Service-Learning nurture 21st Century Competencies and resilience in our students. The school's Teaching and Learning framework guides teachers in the design, delivery and development of our teaching practices which would shape our students' learning experiences. The emphasis on Rigour, Relevance and Relationship guide a segmentised approach to deliver the core curriculum to all, give support to weaker students, and develop those with unique talents. Special programmes, such as Drama-in-Curriculum, Science and Maths Talent Development Programes and LOTM (Learning on the Move) using technology, are put in place to foster authentic experiential learning.  The school's Applied Learning Programme (ALP), C.O.D.E. (Computing to Discover and Empower), helps our students thrive in the digital age by equipping them with computational thinking and programming skills.  The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "CTSS places a strong emphasis on providing a holistic education to every student. We focus on inculcating values, skills and dispositions in our students that will place them in good stead to thrive with passion and purpose in the future. Our key student development programmes are as follows:  With our strong foundation in Uniformed Groups (UGs), CTSS seeks to achieve the vision 'Every Cadet, A Leader' through our Learning for Life Programme (LLP), which develops leadership qualities in Clementeens through a structured UG experience and yearly cohort camps. Other character development programmes include the 7 Habits for Highly Effective Youths (featured in Stephen Covey's book 'The Leader in Me'), the Normal Technical REAL (Reflective, Experiential, Authentic, Leadership) Curriculum, and a structured and well-planned Service Learning programme for all students.  The school's Teaching and Learning framework emphasises Rigour, Relevance and Relationship. A segmentised approach is taken to deliver the core curriculum to all, give support to weaker students, and develop those with unique talents. Special programmes include Drama-in-Curriculum, Science Talent Development Programme and Project Work.  The school's Applied Learning Programme (ALP), C.O.D.E. (Computing to Discover and Empower), helps our students thrive in the digital age by equipping them with computational thinking and programming skills. The school also offers O-level Computing as an applied subject."
 	},
 	"AchievementHistory": {
 		"Secondary": {

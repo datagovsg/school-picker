@@ -1,9 +1,9 @@
 {
 	"code": "3019",
+	"name": "YUHUA SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3019K",
 	"logo": "./Medias/Images/Schools/logos/tn_3019.jpg",
-	"name": "YUHUA SECONDARY SCHOOL",
 	"website": "http://www.yuhuasec.moe.edu.sg",
 	"address": "35, JURONG WEST STREET 41 ( 649406 )",
 	"telephone": [
@@ -18,7 +18,6 @@
 	"GeneralInformation": {
 		"Principal": "MISS NG SOOK KIT",
 		"Vice Principal": "MISS YUEN CHAI LIN",
-		"Vice Principal (Admin)": "MRS KOMATHI SUPPIAH",
 		"School Vision": "A Future-Ready School That Inspires Excellence",
 		"School Mission": "Honour Learning, Strengthen Character, Awaken Talents, Inspire Dreams",
 		"School Philosophy, Culture and Ethos": "We firmly believe that education must be forward-looking and robust, recognising that the future, for which Yuhuans are being prepared for, is dynamic, unpredictable and difficult to imagine. Leveraging on the culture of care, learning and excellence, we envision our school to be a learning organisation that empowers staff and nurtures students holistically by equipping them with the competencies and dispositions to thrive in the future. Our school philosophy, \"Every Student, Our Responsibility\" undergirds our commitment to honour learning by instilling in Yuhuans the responsibility and commitment to life-long learning so as to adapt to changes and new situations; strengthen character by inculcating the values of graciousness and integrity, awaken talents by harnessing their strengths to strive towards attaining purposeful goals with passion and resilience, inspire dreams by stretching Yuhuans potential to lead new frontiers and innovate in pursuit of excellence.",
@@ -28,6 +27,7 @@
 	},
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
+		"ART",
 		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BASIC TAMIL",
@@ -35,25 +35,21 @@
 		"CHEMISTRY",
 		"CHINESE",
 		"CIVICS & MORAL EDUCATION",
-		"CO-CURRICULAR ACTIVITIES",
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
+		"COMBINED HUMANITIES (S,L)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELECTRONICS",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
-		"ENGLISH LANGUAGE (SYLL A)",
-		"ENGLISH LANGUAGE (SYLL T)",
 		"FOOD & NUTRITION",
+		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
-		"HOME ECONOMICS",
-		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
-		"MATHEMATICS (SYLLABUS A)",
-		"MATHEMATICS (SYLLABUS T)",
+		"MOBILE ROBOTICS",
 		"MUSIC",
 		"MUSIC 'O' LEVEL",
 		"PHYSICAL EDUCATION",
@@ -62,8 +58,8 @@
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
-		"SMART ELECTRICAL TECHNOLOGY",
 		"SOCIAL STUDIES",
+		"SOCIAL STUDIES N(T)",
 		"TAMIL"
 	],
 	"Cca": {
@@ -85,7 +81,8 @@
 			"Dance - Chinese",
 			"Dance - Indian",
 			"Dance - Malay",
-			"Harmonica Band"
+			"Harmonica Band",
+			"Stagewright"
 		],
 		"Clubs & Societies": [
 			"Infocomm Photography",
@@ -102,7 +99,7 @@
 			"Business & Entrepreneurship": "Integrated Events and Project Management",
 			"Music & Performing Arts": "MELODY- Music Empowered Learners, Our Dynamic Yuhuans"
 		},
-		"Special Student Development Programmes Offered": "In tandem with providing multiple pathways and inspiring Yuhuans to pursue their interests in applied areas of learning, two applied subjects, Smart Electrical Technology and Electronics, will be introduced in 2017. Yuhuans will acquire skills and knowledge in the fields of automation technology and fundamentals of electronics through experiential and practice-based learning. Using an integrative and progressive approach in curricular design, our Flagship Programmes such as Literacy Enhancement Through Timed English Reading, Math Cube, Interdisciplinary Scientific Exploratory and Experiential Learning and the ApT Reader (Mother Tongue Languages) aim to make learning visible that engenders a greater level of engagement among Yuhuans. Complementing the curriculum is our Applied Learning Programme (ALP) in Integrated Project and Events Management (I-PRESENT) which helps Yuhuans develop thinking skills, stretch their imagination and apply knowledge in authentic settings. Yuhuans are exposed to higher learning through the offering of events and projects management-related Advanced Elective Modules (AEMs) by polytechnics and through collaboration with community and industry partners. Our Learning-for-Life Programme (LLP), MELODY (Music-Empowered Learners, Our Dynamic Yuhuans) harnesses our long-standing tradition of musical excellence to nurture the attributes of creativity, precision, teamwork, discipline and confidence in every Yuhuan. The music curriculum allows Yuhuans to experience diverse genres, styles and rhythms of music and showcase their talents at various platforms. Musically talented Yuhuans can offer Music at O levels under the Enhanced Music Programme. Our yCARE module, an integration of CCE, VIA, ICT and Project Work, the Cohort Leadership programmes and Life Skills modules further imbue in Yuhuans values and equip them with the 21 century competencies and skills."
+		"Special Student Development Programmes Offered": "In tandem with providing multiple pathways and inspiring Yuhuans to pursue their interests, Electronics and Mobile Robotics are introduced as applied subjects. Yuhuans will acquire skills and knowledge in fundamentals of electronics and fields of mechatronics engineering through experiential and practice-based learning. Using an integrative and progressive approach in curricular design, our Flagship Programmes such as Literacy Enhancement Through Timed English Reading, Math Cube, Interdisciplinary Scientific Exploratory and Experiential Learning and the ApT Reader (Mother Tongue Languages) aim to make learning visible and engender a greater level of engagement in learning. Complementing the curriculum is our Applied Learning Programme (ALP) in Integrated Project and Events Management (I-PRESENT) which helps Yuhuans develop thinking skills and apply knowledge in authentic settings. Yuhuans are exposed to higher learning through the offering of events and projects management-related Advanced Elective Modules by polytechnics and collaboration with community and industry partners. Our Learning-for-Life Programme (LLP), MELODY (Music-Empowered Learners, Our Dynamic Yuhuans) harnesses our long-standing tradition of musical excellence to nurture the attributes of creativity, precision, teamwork, discipline and confidence in every Yuhuan. The music curriculum allows Yuhuans to experience diverse genres of music and showcase their talents at various platforms. Musically talented Yuhuans can offer GCE O Level Music under the Enhanced Music Programme. Our yCARE module, an integration of CCE, VIA, ICT and Project Work, the Cohort Leadership programmes and Life Skills modules further imbues in Yuhuans values and equip them with the 21 century competencies and skills."
 	},
 	"AchievementHistory": {
 		"Secondary": {

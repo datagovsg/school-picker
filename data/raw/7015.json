@@ -1,9 +1,9 @@
 {
 	"code": "7015",
+	"name": "ST. ANDREW'S SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS7015A",
 	"logo": "./Medias/Images/Schools/logos/tn_7015.jpg",
-	"name": "ST. ANDREW'S SECONDARY SCHOOL",
 	"website": "http://www.standrewssec.moe.edu.sg",
 	"address": "15, FRANCIS THOMAS DRIVE ( 359342 )",
 	"telephone": [
@@ -40,6 +40,7 @@
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
+		"ELECTRONICS",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"FOOD AND CONSUMER EDUCATION",
@@ -72,8 +73,7 @@
 			"Boys' Brigade",
 			"Ncc (Land)",
 			"Npcc",
-			"Scouts",
-			"St. John Brigade"
+			"Scouts"
 		],
 		"Visual and Performing Arts": [
 			"Band - Military",
@@ -95,7 +95,7 @@
 			"STEM": "WISE Saints Engineering Design Programme",
 			"Sports & Outdoor Education": "Saints Rugby for Life"
 		},
-		"Special Student Development Programmes Offered": "St Andrew's Secondary offers customised programmes to cater to students with varied interests and strengths. The RKS Adams programme stretches our Express students who are academically strong. The Jacob's Ladder programme engages students in the Normal (Academic) stream to build a strong learning disposition. The Marshall Plan develops students in the Normal Technical stream with the life-skills to leverage their potential. Our Applied Learning programme, an Engineering Design programme, grows Saints with problem solving skills using the Design Thinking process. Saints get to identify themselves as engineers and are inspired with creative energies to design solutions to authentic issues. At the Lower Secondary level, Saints are equipped with 21st Century competencies and grounded with WISE and TRUE values. In key programmes like the Saints Millenium Race, the Young Scientist programme and the Oral History project, Saints learn in real world contexts and delve deep into understanding, and applying the underlying issues behind problems, considering the ethical and practical aspects of each possible solution in decisions they make. At Upper Secondary level, Saints embark on project-based learning via the Elective subjects they pursue. This encourages discovery, exploratory learning and problem solving so that they can better understand how the various subjects help them make sense of their world and prepare them for work. Our distinctive Rugby for Life programme leverages on the school's 80-year tradition in this rugged and disciplined sport. Saints undertake a variety of Values-in-action projects (local and overseas), to serve the community around them and beyond, often with a sports or outdoor education dimension."
+		"Special Student Development Programmes Offered": "St Andrew's Secondary offers customised programmes to cater to students with varied interests and strengths. The RKS Adams programme stretches our Express students who are academically strong. The Jacob's Ladder programme engages students in the Normal (Academic) stream to build a strong learning disposition. The Marshall Plan develops students in the Normal Technical stream with the life-skills to leverage their potential. Our Applied Learning programme, an Engineering Design programme, grows Saints with problem solving skills using the Design Thinking process. Saints get to identify themselves as engineers and are inspired with creative energies to design solutions to authentic issues. At the Lower Secondary level, Saints are equipped with 21st Century competencies and grounded with WISE and TRUE values. In key programmes like the Saints Millenium Race, the Young Scientist programme and the Oral History project, Saints learn in real world contexts and delve deep into understanding, and applying the underlying issues behind problems, considering the ethical and practical aspects of each possible solution in decisions they make. At Upper Secondary level, Saints embark on project-based learning via the Elective subjects they pursue. This encourages discovery, exploratory learning and problem solving so that they can better understand how the various subjects help them make sense of their world and prepare them for work. Our distinctive Rugby for Life programme leverages on the school's long standing tradition in this rugged and disciplined sport. Saints undertake a variety of Values-in-action projects (local and overseas), to serve the community around them and beyond, often with a sports or outdoor education dimension."
 	},
 	"AchievementHistory": {
 		"Secondary": {

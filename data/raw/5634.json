@@ -1,9 +1,9 @@
 {
 	"code": "5634",
+	"name": "HOLY INNOCENTS' PRIMARY SCHOOL",
 	"levels": "P",
 	"uen": " T07GS5634A",
 	"logo": "./Medias/Images/Schools/logos/tn_5634.jpg",
-	"name": "HOLY INNOCENTS' PRIMARY SCHOOL",
 	"website": "http://www.holyinnocentspri.moe.edu.sg/",
 	"address": "4300, Ang Mo Kio Avenue 5 ( 569869 )",
 	"telephone": [
@@ -62,17 +62,15 @@
 			"Art And Craft Club",
 			"Chinese Dance",
 			"Chinese Orchestra",
-			"Chinese Speech And Drama Elite",
 			"Choir",
-			"English Drama"
+			"Drama Club"
 		],
 		"Clubs & Societies": [
-			"E2k",
-			"Environment Club",
 			"Infocomm Club",
 			"Library",
 			"Outdoor Education Club",
 			"Robotics Club",
+			"Science Club",
 			"Weiqi Club"
 		]
 	},
@@ -81,7 +79,7 @@
 			"SAP"
 		],
 		"School Distinctive Programmes": {
-			"ICT": "Digiminds@HIPS",
+			"Coding": "Digiminds@HIPS",
 			"Music & Performing Arts": "ARTistry@HIPS"
 		},
 		"Special Student Development Programmes Offered": "a)The Total Curriculum Framework This framework maps out a curriculum which encompasses the 3 aspects of a child's education: Character, Culture and Curriculum, and focuses on quality teaching and character development. Guiding the delivery of key programmes is the 3E (Experience, Enrich, Excel) Approach which caters to all pupils at the \"Experience\" level, targeted pupils at the \"Enrich\" level, and providing the identified talent pool opportunities to Excel.  b) Flagship Programmes in Performing and Cultural Arts  As a SAP school, Holy Innocents' Primary is committed to nurture bilingual and bi-cultural pupils with a deeper understanding of the Chinese Language and a passion for Chinese culture. The learning of the Chinese Language is enriched through the structured Flagship Performing Arts Programme which includes Kuaibanshu, Puppetry, Chinese Opera and Speech and Drama. The programme seeks to develop in pupils confidence in language expression. The outward expression of their language ability is supported by the appreciation of Chinese culture through the Cultural Arts Programme modules of Wushu, Weiqi, Tea Art, Chinese Calligraphy and playing the Erhu.   c)  Learning for Life Programme (LLP) The Learning for Life Programme (LLP), Artistry@HIPS is a 6-year Aesthetics programme that encompasses Embracing Culture, Enriching Diversity and Experiencing the World. Working in tandem with the SAP Flagship Performing Arts and the Chinese Cultural Arts Programmes, it strives to nurture every pupil to be a confident individual of sound character through experiential learning of the arts.   d) Applied Learning Programme (ALP) The school has also put in place a school-wide approach of Applied Learning Programme in Digiminds@HIPS which focuses on the development of critical thinking skills and collaborative learning in pupils through the implementation of HIPS Design Thinking Project and HIPS Robotics Learning."
@@ -269,8 +267,8 @@
 				"SYF Arts Presentation": {
 					"Art - Category C": "Recognition",
 					"Chinese Orchestra-Full Orchestra": "Accomplishment",
-					"Ensemble - Guzheng": "Accomplishment",
-					"Dance - Chinese": "Distinction"
+					"Dance - Chinese": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
 				},
 				"Best Unit Award": {
 					"Brownies (Pack 1)": "Gold",

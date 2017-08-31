@@ -16,6 +16,7 @@ export default async function aggregate (base, years) {
   json['SpecialProgrammes'] = await scrap('SpecialProgrammes', {schoolCode: base.code})
   json['AchievementHistory'] = {}
   for (let lvl of base.levels.split('')) {
+    if (!(lvl in levelNames)) continue
     json['AchievementHistory'][levelNames[lvl]] = await Promise.all(
       years.map(y => scrap('AchievementHistory', {schoolCode: base.code, schoolLevel: lvl, awardYear: y}))
     ).then(arr => arr.reduce((j, v, i) => Object.assign(j, {[years[i]]: v}), {}))

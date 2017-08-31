@@ -1,9 +1,9 @@
 {
 	"code": "3021",
+	"name": "BENDEMEER SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3021C",
 	"logo": "./Medias/Images/Schools/logos/tn_3021.jpg",
-	"name": "BENDEMEER SECONDARY SCHOOL",
 	"website": "http://www.bendemeersec.moe.edu.sg",
 	"address": "1, ST WILFRED ROAD ( 327919 )",
 	"telephone": [
@@ -31,15 +31,17 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART",
+		"ART NA LEVEL",
+		"ART 'O' LEVEL",
+		"BASIC CHINESE",
+		"BASIC MALAY",
+		"BASIC TAMIL",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CHINESE N(A)",
 		"CO-CURRICULAR ACTIVITIES",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
-		"COMPUTER STUDIES",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
@@ -48,19 +50,28 @@
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"FOOD STUDIES, N LEVEL",
+		"GEOGRAPHY",
 		"HIGHER TAMIL",
+		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
 		"LITERATURE(E)",
 		"MALAY",
+		"MALAY N(A)",
 		"MATHEMATICS",
+		"MATHEMATICS (SYLLABUS A)",
+		"MATHEMATICS (SYLLABUS T)",
 		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
-		"PRINCIPLES OF A/C",
+		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
-		"SOCIAL STUDIES",
-		"TAMIL"
+		"SCIENCE (SYLL T)",
+		"SOCIAL STUDIES N(T)",
+		"TAMIL",
+		"TAMIL N(A)"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -96,7 +107,7 @@
 			"STEM": "Making Health Science Alive through Authentic Problem-Based Learning",
 			"Community & Youth Leadership": "Developing Student Leadership Through Service Learning"
 		},
-		"Special Student Development Programmes Offered": "The school's Applied Learning Programme (ALP), 'Making Science Alive through Authentic Problem Based Learning', helps students develop an appreciation of concepts and principles related to Health Science. Our Learning for Life Programme (LLP) focusses on Developing Student Leadership through Service Learning, where students are given opportunities to collaborate and lead their peers in level Values-in-Action (VIA) projects.  The school's collaboration with the Kolam Ayer Youth Executive Committee in the 'Dialogue with Minister' Series gives Bendemeerians the opportunity to voice their views on issues affecting their community. The school's internationalisation programme gives every student the opportunity to travel abroad. The Sequoia and NTcipate Life programmes are specially customised to engage N(A) and N(T) students through experiential learning experiences to discover their aspirations and fulfil their potential. Learning is engaging in and out of the classroom as teachers adopt research-based teaching methodologies, such as inquiry-based, problem-based, and cooperative and collaborative learning, to deepen and enrich students' understanding and equip them with 21st century competencies. Innovative programmes include our Dramaworkz programme which uses drama to develop confident and expressive speakers, and BackPackLIVE!, a project which uses a web-based integrated learning and assessment system to enhance students' competencies in comprehension and critical thinking skills in the learning of the Mother Tongue language. Students' interests and talents are further developed through programmes like the Mathematics Learning Trail, the Maths Olympiad and the Design Skills Enrichment for D&T students. Co-curricular experiences such as the Career Guidance Programme, complements the curriculum in providing a holistic education. Through this programme, students are able to visit various industries in the aviation, health science, and service industries."
+		"Special Student Development Programmes Offered": "The school's Applied Learning Programme (ALP), 'Making Science Alive through Authentic Problem Based Learning', helps students develop an appreciation of concepts and principles related to Health Science. Our Learning for Life Programme (LLP) focuses on Developing Student Leadership through Service Learning, where students are given opportunities to collaborate and lead their peers in level Values-in-Action (VIA) projects.  The school's collaboration with the Kolam Ayer Youth Executive Committee in the 'Dialogue with Minister' Series gives Bendemeerians the opportunity to voice their views on issues affecting their community. The school's internationalisation programme gives every student the opportunity to travel abroad. The Sequoia and NTcipate Life programmes are specially customised to engage N(A) and N(T) students through experiential learning experiences to discover their aspirations and fulfil their potential. Learning is engaging in and out of the classroom as teachers adopt research-based teaching methodologies, such as inquiry-based, problem-based, and cooperative and collaborative learning, to deepen and enrich students' understanding and equip them with 21st century competencies. Innovative programmes include our Dramaworkz programme which uses drama to develop confident and expressive speakers. Students' interests and talents are further developed through programmes like the Mathematics Learning Trail, the Maths Olympiad and the Design Skills Enrichment for D&T students. Co-curricular experiences such as the Education and Career Guidance Programme, complement the curriculum in providing a holistic education. Through this programme, students are able to visit the aviation, health science, and service industries."
 	},
 	"AchievementHistory": {
 		"Secondary": {

@@ -1,9 +1,9 @@
 {
 	"code": "3620",
+	"name": "WESTWOOD SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3620H",
 	"logo": "./Medias/Images/Schools/logos/tn_3620.jpg",
-	"name": "WESTWOOD SECONDARY SCHOOL",
 	"website": "http://www.westwoodsec.moe.edu.sg",
 	"address": "11, JURONG WEST STREET 25 ( 648350 )",
 	"telephone": [
@@ -47,6 +47,7 @@
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
+		"EXERCISE AND SPORTS SCIENCE",
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
@@ -59,8 +60,8 @@
 		"MATHEMATICS (SYLLABUS A)",
 		"MATHEMATICS (SYLLABUS T)",
 		"OECIE ECONOMICS (GCEO)",
-		"OECIE PHYSICAL EDUCATION",
 		"PHYSICS",
+		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
@@ -89,8 +90,7 @@
 			"Choir",
 			"Dance - Modern",
 			"Eldds",
-			"Guitar Ensemble",
-			"Orchestra - Chinese"
+			"Guitar Ensemble"
 		],
 		"Clubs & Societies": [
 			"Ava Club",

@@ -5,14 +5,20 @@ import schoolList from '../../../data/schoolList.json'
 const defaultYearRange = range(2005, 2018).map(v => v.toString())
 
 export default function runTask (indexes, years = defaultYearRange) {
-  indexes.forEach((n, i) => {
+  const debug = []
+  Promise.all(indexes.map((n, i) => {
     const base = schoolList[n]
     if (!base) return
-    queue.push().then(() => {
+    return queue.push().then(() => {
       const counter = indexes.length - i
       if (counter % 10 === 0) console.log(counter)
-      aggregate(base, years)
-    }).catch(console.error)
+      return aggregate(base, years)
+    }).catch(err => {
+      console.error(err)
+      debug.push(n)
+    })
+  })).then(() => {
+    if (debug.length > 0) console.log('Not successful:', debug)
   })
 }
 

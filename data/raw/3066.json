@@ -1,10 +1,10 @@
 {
 	"code": "3066",
+	"name": "JUYING SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3066C",
 	"logo": "./Medias/Images/Schools/logos/tn_3066.jpg",
-	"name": "JUYING SECONDARY SCHOOL",
-	"website": "http://www.juyingss.moe.edu.sg",
+	"website": "http://juyingsec.moe.edu.sg",
 	"address": "33, JURONG WEST STREET 91 ( 649038 )",
 	"telephone": [
 		"63089898"
@@ -31,15 +31,24 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART",
+		"ART NA LEVEL",
+		"ART 'O' LEVEL",
+		"BASIC CHINESE",
+		"BASIC MALAY",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
+		"CHINESE B",
+		"CHINESE N(A)",
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
+		"COMBINED HUMANITIES (S,L)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
+		"ENGLISH LANGUAGE (SYLL A)",
+		"ENGLISH LANGUAGE (SYLL T)",
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
@@ -47,17 +56,22 @@
 		"HISTORY",
 		"LITERATURE(E)",
 		"MALAY",
+		"MALAY B",
+		"MALAY N(A)",
 		"MATHEMATICS",
+		"MATHEMATICS (SYLLABUS A)",
+		"MATHEMATICS (SYLLABUS T)",
 		"MOBILE ROBOTICS",
 		"MUSIC",
 		"PHYSICS",
-		"PRINCIPLES OF A/C",
+		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
-		"SOCIAL STUDIES"
+		"SOCIAL STUDIES",
+		"SOCIAL STUDIES N(T)"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -92,7 +106,7 @@
 			"Languages & Humanities": "Developing Confident & Competent Communicators through Oracy Skills Programme",
 			"Music & Performing Arts": "Performing Arts : “iACE@Juying” ( I Appreciate, I Create, I Exhibit at Juying)"
 		},
-		"Special Student Development Programmes Offered": "Applied Learning Programme (ALP): The school's ALP aims to develop students to be competent and confident communicators. Students undergo a series of oracy programmes from Sec 1 to Sec 3 such as storytelling (Sec 1), drama (Sec 2) and debate (Sec 3). A Speaker's Corner, set up in the canteen, provides an additional platform to encourage students to confidently address their fellow schoolmates during recess on issues they are concerned about. Learning for Life Programme (LLP): The school's LLP, iACE@Juying (I Appreciate, I Create, I Exhibit @ Juying), which is part of the school's Aesthetics Programme, aims to provide students with opportunities to experience and explore different dance genres and play different musical instruments such as the ukulele and guzheng. Through these learning experiences which promote positive attitudes and self-expression, students develop character and values, and strengthen their people skills. Sec 3 Overseas Values-in-Action: As part of the school's approach in developing our students to be gracious and useful citizens, all Sec 3 students are given the opportunity to carry out service learning projects in a country of their choice (e.g. China, Cambodia, Indonesia, Thailand, Vietnam). This learning platform provides them with a rich learning experience and inculcates the school's values, R3IGHT."
+		"Special Student Development Programmes Offered": "Applied Learning Programme (ALP): Develops students to be competent and confident communicators. Students undergo a series of oracy programmes from Sec 1 to Sec 3 such as storytelling (Sec 1), drama (Sec 2) and debate (Sec 3). A Speaker's Corner, set up in the canteen, provides an additional platform to encourage students to confidently address their fellow schoolmates during recess on issues they are concerned about. Learning for Life Programme (LLP): iACE@Juying (I Appreciate, I Create, I Exhibit @ Juying), which is part of the school's Aesthetics Programme, provides students with opportunities to experience and explore different dance genres and play different musical instruments such as the ukulele and guzheng. Through these learning experiences which promote positive attitudes and self-expression, students develop character and values, and strengthen their people skills. Sec 3 Overseas Values-in-Action: As part of the school's approach in developing our students to be gracious and useful citizens, all Sec 3 students are given the opportunity to plan and carry out service learning projects in a country of their choice (e.g. China, Cambodia, Indonesia, Thailand, Vietnam). This learning platform provides them with a rich learning experience and inculcates the school's values, R3IGHT."
 	},
 	"AchievementHistory": {
 		"Secondary": {

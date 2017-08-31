@@ -1,9 +1,9 @@
 {
 	"code": "1071",
+	"name": "QUEENSTOWN PRIMARY SCHOOL",
 	"levels": "P",
 	"uen": " T07GS1071B",
 	"logo": "./Medias/Images/Schools/logos/tn_1071.jpg",
-	"name": "QUEENSTOWN PRIMARY SCHOOL",
 	"website": "http://www.queenstownpri.moe.edu.sg",
 	"address": "310, MARGARET DR ( 149303 )",
 	"telephone": [
@@ -66,15 +66,14 @@
 			"Dance - Chinese",
 			"Dance - Indian",
 			"Dance - Malay",
-			"International Dance - Ballet",
+			"International Dance",
 			"Orchestra - Chinese",
 			"Visual Art Club"
 		],
 		"Clubs & Societies": [
-			"Green Club",
-			"Info Comm",
-			"Mathematics Club (Senior & Junior)",
-			"Mrl",
+			"Info Communication Club",
+			"Mathematics Club",
+			"Science & Green Club",
 			"Weiqi Club"
 		]
 	},

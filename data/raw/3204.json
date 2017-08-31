@@ -1,9 +1,9 @@
 {
 	"code": "3204",
+	"name": "BUKIT PANJANG GOVT. HIGH SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3204G",
 	"logo": "./Medias/Images/Schools/logos/tn_3204.jpg",
-	"name": "BUKIT PANJANG GOVT. HIGH SCHOOL",
 	"website": "http://www.bpghs.moe.edu.sg",
 	"address": "7, CHOA CHU KANG AVE 4 ( 689809 )",
 	"telephone": [
@@ -17,8 +17,10 @@
 	"bus": "300 , 983 ",
 	"GeneralInformation": {
 		"Principal": "MDM CHAN WAN SIONG",
-		"Vice Principal": "MR DARREN CHONG WAI KI",
-		"Vice Principal (Admin)": "MR WONG LIH JIA",
+		"Vice Principal": [
+			"MR DARREN CHONG WAI KI",
+			"MISS TAN PEIRU"
+		],
 		"School Vision": "Every BPian a passionate learner, an inspiring leader",
 		"School Mission": "To ignite the joy of learning through a holistic education and develop leaders with a heart to serve",
 		"School Philosophy, Culture and Ethos": "BPGHS offers a student-focussed environment that is responsive to the needs and expectations of BPians, providing opportunities for each to develop his/ her talent and passion as well as to stretch his/ her potential.  The school expects all BPians to uphold school values and sets high expectations for them in terms of academic performance and character education.  Through an engaging curriculum, BPians are equipped with the confidence to be self-directed learners who are determined to excel by pursuing learning passionately.  Through an enriching co-curriculum, BPians are equipped with the qualities and competencies to inspire and lead others to serve the school and the community.",
@@ -36,14 +38,11 @@
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"CHINESE B",
-		"CHINESE N(A)",
 		"CIVICS & MORAL EDUCATION",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
-		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
@@ -59,7 +58,6 @@
 		"LITERATURE IN MALAY",
 		"LITERATURE(E)",
 		"MALAY",
-		"MALAY N(A)",
 		"MATHEMATICS",
 		"MATHEMATICS (SYLLABUS A)",
 		"MATHEMATICS (SYLLABUS T)",

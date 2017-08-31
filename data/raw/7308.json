@@ -1,9 +1,9 @@
 {
 	"code": "7308",
+	"name": "PRESBYTERIAN HIGH SCHOOL",
 	"levels": "S",
 	"uen": " T07GS7308A",
 	"logo": "./Medias/Images/Schools/logos/tn_7308.jpg",
-	"name": "PRESBYTERIAN HIGH SCHOOL",
 	"website": "http://www.presbyterian.moe.edu.sg",
 	"address": "5209, ANG MO KIO AVENUE 6 ( 569845 )",
 	"telephone": [
@@ -41,6 +41,7 @@
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ENGLISH LANGUAGE",
+		"EXERCISE AND SPORTS SCIENCE",
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
@@ -52,7 +53,6 @@
 		"MUSIC NT LEVEL",
 		"MUSIC 'O' LEVEL",
 		"OECIE ECONOMICS (GCEO)",
-		"OECIE PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE (CHEM, BIO)",
@@ -96,7 +96,7 @@
 			"STEM": "Forensic & Pharmaceutical Science",
 			"Community & Youth Leadership": "PHS Student Leadership Development Programme"
 		},
-		"Special Student Development Programmes Offered": "The school leverages on its Learning for Life Programme (LLP) to support its vision to develop students to be 'Promise-Keepers, Hope-Builders and Servant-Leaders'. All students will undergo customised LLP modules which are based on the Servant-Leadership model by Robert Greenleaf. In tandem with the school's Character First Programme, PHS seeks to harness the potential in every student to be the best that he/she can be. For Community Youth Leadership (CYL), the focus is on providing students with opportunities to be leaders of empathy as they lead in serving the community with a purpose. These programmes collectively develop the mental, physical and emotional wellness to give our students a firm foundation from which they can optimise their performance in their academic pursuit, CCAs and other school activities. The school's Applied Learning Programme (ALP) in Forensic & Pharmaceutical Science seeks to engage and excite our students in the learning of Science and enable students to experience how Science is applied in real life.  Through forensic science, the ALP taps on students' interest in learning the Science behind crime scene processing, through an array of hands-on activities.  Students will also be taught to appreciate the ethics behind forensic science. The school is implementing greater flexibility in subject offering at lower secondary levels.  Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "The school leverages on its Learning for Life Programme (LLP) to support its vision to develop students to be 'Promise-Keepers, Hope-Builders and Servant-Leaders'. All students will undergo customised LLP modules which are based on the Servant-Leadership model by Robert Greenleaf. In tandem with the school's Character First Programme, PHS seeks to harness the potential in every student to be the best that he/she can be. For Community Youth Leadership (CYL), the focus is on providing students with opportunities to be leaders of empathy as they lead in serving the community with a purpose. These programmes collectively develop the mental, physical and emotional wellness to give our students a firm foundation from which they can optimise their performance in their academic pursuit, CCAs and other school activities. The school's Applied Learning Programme (ALP) in Forensic & Pharmaceutical Science seeks to engage and excite our students in the learning of Science and enable students to experience how Science is applied in real life.  Through forensic science, the ALP taps on students' interest in learning the Science behind crime scene processing, through an array of hands-on activities.  Students will also be taught to appreciate the ethics behind forensic science."
 	},
 	"AchievementHistory": {
 		"Secondary": {

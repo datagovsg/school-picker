@@ -1,9 +1,9 @@
 {
 	"code": "1254",
+	"name": "ANCHOR GREEN PRIMARY SCHOOL",
 	"levels": "P",
 	"uen": " T07GS1254F",
 	"logo": "./Medias/Images/Schools/logos/tn_1254.jpg",
-	"name": "ANCHOR GREEN PRIMARY SCHOOL",
 	"website": "http://www.anchorgreenpri.moe.edu.sg",
 	"address": "31, Anchorvale Drive ( 544969 )",
 	"telephone": [
@@ -58,8 +58,8 @@
 		"Visual and Performing Arts": [
 			"Art Club",
 			"Choir",
-			"Guzheng",
-			"Handbells",
+			"Guzheng Ensemble",
+			"Handbells Ensemble",
 			"Modern Dance",
 			"Photography"
 		],
@@ -76,7 +76,7 @@
 		],
 		"School Distinctive Programmes": {
 			"Community Service & Student Leadership": "Inculcating Attitudes and Habits to Conserve the Environment through Environmental Education",
-			"Music & Performing Arts / Visual Arts & Design": "A.G.P.S Arts (Aspire, Grow, Passion and Serve through the Arts)"
+			"Music & Performing Arts/ Visual Arts & Design": "A.G.P.S Arts (Aspire, Grow, Passion and Serve through the Arts)"
 		},
 		"Special Student Development Programmes Offered": "SLEEC (Serve and Lead through Environment Education) is a programme designed to raise awareness about caring for the environment and building an eco-conscious culture among its students and staff. Over the years, structured school-wide as well as level-wide programmes have been put in place, leveraging its strong foundation in environmental education, with the aim of nurturing in our students the desired character, talent and skills in which they would be able to apply later on in life.  The desired student outcomes of SLEEC are: - To inculcate the values of graciousness in our students through building the sense of responsibility in them in contributing towards the environment. - To impart the skills and knowledge in caring for the environment and raise greater sense of environmental awareness amongst the students.  - To equip the students with the 21st Century Competencies to serve and lead the community through environmental education.   The A.G.P.S. Arts (Aspire, Grow, Passion and Serve through the Arts) is designed to build upon our pupils' knowledge, skills and love for the arts, nurturing their creative expressions, enriching their social, cultural and heritage awareness and ultimately grow them to be confident, critical and creative learners and active contributors to society. This programme aims to arrive at the following student outcomes and have our pupils gain 21st CC as they: 1) See inter-relationships among ideas, adapt, generate and create new ideas and products 2)    Are encouraged to express their thoughts, form opinions and appreciate differing perspectives 3)    Have an overall development of social skills - value diversity in ideas, confidence building 4)    Foster appreciation of Singapore's cultural heritage 5)    Strengthen understanding of own national identity and ethnic culture"
 	},
@@ -268,17 +268,6 @@
 						"Senior"
 					],
 					[
-						"Netball",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"3rd",
-						"3rd"
-					],
-					[
 						"Basketball",
 						"-",
 						"-",
@@ -288,13 +277,24 @@
 						"-",
 						"-",
 						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"3rd"
 					]
 				],
 				"SYF Arts Presentation": {
-					"Ensemble - Handbell / Handchime": "Accomplishment",
-					"Ensemble - Guzheng": "Accomplishment",
 					"Art - Category C": "Recognition",
-					"Dance - International": "Accomplishment"
+					"Dance - International": "Accomplishment",
+					"Ensemble - Handbell / Handchime": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
 				}
 			},
 			"2017": {}

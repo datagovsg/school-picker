@@ -1,9 +1,9 @@
 {
 	"code": "7001",
+	"name": "ANGLO-CHINESE SCHOOL (INDEPENDENT)",
 	"levels": "SJT",
 	"uen": " T07GS7001A",
 	"logo": "./Medias/Images/Schools/logos/tn_7001.jpg",
-	"name": "ANGLO-CHINESE SCHOOL (INDEPENDENT)",
 	"website": "http://www.acsindep.moe.edu.sg",
 	"address": "121, DOVER ROAD ( 139650 )",
 	"telephone": [
@@ -24,9 +24,9 @@
 			"MISS CHOCK SIEW HWA",
 			"MDM YONG LEE HAR"
 		],
-		"School Vision": "Years 1-4: A Scholar, Officer and Gentleman ; Catalyst for Change, for God and Humanity.  Years 5 -6: A Scholar, Leader and Global Citizen ; Catalyst for Change, for God and Humanity.",
+		"School Vision": "Years 1-4: A Scholar, Officer and Gentleman ; Catalyst for Change, for God and Humanity.  Years 5-6: A Scholar, Leader and Global Citizen ; Catalyst for Change, for God and Humanity.",
 		"School Mission": "To be a beacon of truth and light, a world-class institution through the holistic development of our students",
-		"School Philosophy, Culture and Ethos": "Founded in 1886, our school's core purpose is to nurture our students to be catalysts for change with Godly values and robust character, equipped and willing to serve and lead in the family, nation and the global community. A Methodist institution, the school places a strong focus on all-round, values-centric development, anchored in a school environment of family and community. Every Year 1-4 student participates in 2 CCAs (a Uniformed Group and either a Sports, Club/Society or Performing Arts Group).",
+		"School Philosophy, Culture and Ethos": "Founded in 1886, our school's core purpose is to nurture our students to be catalysts for change with Godly values and robust character, equipped and willing to serve and lead in the family, nation and the global community. A Methodist institution, the school places a strong focus on all-rounded, values-centric development, anchored in a school environment of family and community. Every Year 1-4 student participates in 2 CCAs (a Uniformed Group and a Sports/ Club/Society/Performing Arts Group).",
 		"Type of School": "INDEPENDENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"IP Partner Schools": "METHODIST GIRLS' SCHOOL (SECONDARY)",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -68,6 +68,7 @@
 		"Physical Sports": [
 			"Air Rifle / Shooting",
 			"Badminton",
+			"Basketball",
 			"Canoeing & Dragon Boat Racing Team",
 			"Cricket",
 			"Cross Country",
@@ -130,8 +131,7 @@
 		],
 		"Others": [
 			"Prefectorial Board",
-			"Student Council",
-			"Students' Council"
+			"Student Council"
 		]
 	},
 	"SpecialProgrammes": {

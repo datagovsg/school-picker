@@ -1,9 +1,9 @@
 {
 	"code": "3037",
+	"name": "TAMPINES SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3037F",
 	"logo": "./Medias/Images/Schools/logos/tn_3037.jpg",
-	"name": "TAMPINES SECONDARY SCHOOL",
 	"website": "http://www.tampinessec.moe.edu.sg",
 	"address": "252, TAMPINES ST 12 ( 529427 )",
 	"telephone": [
@@ -23,7 +23,7 @@
 		],
 		"School Vision": "A caring community of Learners, Thinkers and Leaders",
 		"School Mission": "To provide a well-rounded education in a nurturing environment to prepare Tampinesians for the future",
-		"School Philosophy, Culture and Ethos": "We believe that every child should learn and function in an inclusive, secure, caring, and stimulating environment to inspire a love for learning. As every child has the potential to excel, we, as a school, play the important role of equipping and empowering our students to become confident learners, thinkers and leaders. Additionally, we ensure that Tampinesians learn and practise good values to serve with empathy and caring for the community and nation.",
+		"School Philosophy, Culture and Ethos": "We believe that every child should learn and function in an inclusive, secure, caring, and stimulating environment to inspire a love for learning. As every child has the potential to excel, we, as a school, play the important role of equipping and empowering our students to become confident learners, thinkers and leaders. Additionally, we ensure that Tampinesians learn and practise good values to serve with empathy and care for the community and nation.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -42,6 +42,7 @@
 		"ENGLISH LANGUAGE",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
+		"HIGHER CHINESE",
 		"HISTORY",
 		"LITERATURE(E)",
 		"MALAY",
@@ -81,8 +82,7 @@
 		"Clubs & Societies": [
 			"Infocomm Club",
 			"Maker Faire Club",
-			"Mediatech Club",
-			"Student Council"
+			"Mediatech Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -93,7 +93,7 @@
 			"STEM": "Creative Engineering : Inter-disciplinary Authentic Problem Solving",
 			"Music & Performing Arts / Visual Arts & Design": "Creative Expressions: Expressing creatively through visual and performing arts (Arts Education)"
 		},
-		"Special Student Development Programmes Offered": "The school offers a Learning for Life Programme (LLP) 'Creative Expressions: Character Development Through Visual and Performing Arts'. By actively involving students in artistic exposure, artistic creation, and artistic outreach, our LLP forms a core component of the school's co-curriculum. Learning through the arts, our students will embody intellectual curiosity in art-making, tenacity in learning attitude, and steadfast values in collaborative endeavours. Above all, Tampinesians should grow through our LLP to become individuals of good character who are responsible to family, community, and nation. To promote applied learning in the academic domain, the school has an Applied Learning Programme in 'Creative Engineering: Inter-disciplinary Authentic Problem Solving'.  Using the Design Thinking framework, the school aims to integrate problem solving into the disciplines of Mathematics, Science, and Design and Technology. The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond academic programmes, the school offers the Maker Faire Club which promotes innovation and creativity among students in support of our ALP niche in Creative Engineering."
+		"Special Student Development Programmes Offered": "The school offers a Learning for Life Programme (LLP) 'Creative Expressions: Character Development Through Visual and Performing Arts'. By actively involving students in artistic exposure, artistic creation, and artistic outreach, our LLP forms a core component of the school's co-curriculum. Learning through the arts, our students will embody intellectual curiosity in art-making, tenacity in learning attitude, and steadfast values in collaborative endeavours. Above all, Tampinesians should grow through our LLP to become individuals of good character who are responsible to family, community, and nation. To promote applied learning in the academic domain, the school has an Applied Learning Programme in 'Creative Engineering: Inter-disciplinary Authentic Problem Solving'.  Using the Design Thinking framework, the school aims to integrate problem solving into the disciplines of Mathematics, Science, and Design and Technology."
 	},
 	"AchievementHistory": {
 		"Secondary": {

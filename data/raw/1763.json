@@ -1,9 +1,9 @@
 {
 	"code": "1763",
+	"name": "HOUGANG PRIMARY SCHOOL",
 	"levels": "P",
 	"uen": " T07GS1763C",
 	"logo": "./Medias/Images/Schools/logos/tn_1763.jpg",
-	"name": "HOUGANG PRIMARY SCHOOL",
 	"website": "http://www.hougangpri.moe.edu.sg/",
 	"address": "1, HOUGANG ST 93 ( 534238 )",
 	"telephone": [
@@ -13,8 +13,8 @@
 		"64897446"
 	],
 	"email": "HOUGANG_PS@MOE.EDU.SG",
-	"mrt": "Ang Mo Kio, Yio Chu Kang",
-	"bus": "SBS 325 , 88 , 72 , 159 , 156 ",
+	"mrt": "Ang Mo Kio, Buangkok, Hougang, Yio Chu Kang",
+	"bus": "SBS 43 , 72 , 88 , 101 , 109 , 116 , 156 , 159 , 325 ",
 	"GeneralInformation": {
 		"Principal": "MDM RASHIDAH BTE ABDUL RASIP",
 		"Vice Principal": "MISS LIEW PANG HAI",
@@ -26,26 +26,52 @@
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
 	},
-	"SubjectOffered": [],
+	"SubjectOffered": [
+		"ART",
+		"CHINESE",
+		"CO-CURRICULAR ACTIVITIES",
+		"ENGLISH LANGUAGE",
+		"FOUNDATION CHINESE",
+		"FOUNDATION ENGLISH",
+		"FOUNDATION MALAY",
+		"FOUNDATION MATHEMATICS",
+		"FOUNDATION SCIENCE",
+		"HIGHER MALAY",
+		"HIGHER TAMIL",
+		"MALAY",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"SCIENCE",
+		"SOCIAL STUDIES",
+		"TAMIL"
+	],
 	"Cca": {
 		"Physical Sports": [
 			"Football",
+			"Hockey",
+			"Volleyball",
 			"Wushu"
 		],
 		"Uniformed Groups": [
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Band - Brass",
 			"Dance - Ballet",
 			"Dance - Chinese",
 			"Dance - Indian",
 			"Dance - Malay",
+			"Drama Club",
 			"Ensemble - Angklung/Kulintang",
 			"Ensemble - Guzheng",
 			"Pottery Club"
 		],
 		"Clubs & Societies": [
-			"Green Club - E2k",
+			"Chess Club",
+			"Green Club - Environment",
+			"Infocomm Club-Coding",
 			"Library"
 		]
 	},

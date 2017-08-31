@@ -1,10 +1,10 @@
 {
 	"code": "3203",
+	"name": "BUKIT MERAH SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3203L",
 	"logo": "./Medias/Images/Schools/logos/tn_3203.jpg",
-	"name": "BUKIT MERAH SECONDARY SCHOOL",
-	"website": "http://www.bukitmerahsec.moe.edu.sg/",
+	"website": "http://www.bukitmerahsec.moe.edu.sg",
 	"address": "10, LENGKOK BAHRU ( 159050 )",
 	"telephone": [
 		"64748934"
@@ -13,17 +13,17 @@
 		"64744122"
 	],
 	"email": "bmss@moe.edu.sg",
-	"mrt": "Redhill MRT Station",
-	"bus": "14 , 32 , 33 , 63 , 64 , 120 , 132 , 139 , 145 , 147 , 196 , 197 , 855 , 961 ",
+	"mrt": "REDHILL MRT",
+	"bus": "14 , 32 , 33 , 63 , 64 , 120 , 123 , 132 , 139 , 145 , 147 , 153 , 196 , 197 , 198 , 765 , 855 , 961 ",
 	"GeneralInformation": {
 		"Principal": "MR CHENG GHEE HOCK TIMOTHY",
 		"Vice Principal": [
 			"MR APOLLOS INDUCHOODAN S/O R A P",
 			"MDM HO GEOK LAN"
 		],
-		"School Vision": "A Caring and Vibrant Institute that Inspires Learning for Growth and Excellence.",
-		"School Mission": "To nurture Resilient Merahans with Character and Heart.",
-		"School Philosophy, Culture and Ethos": "Bukit Merah Secondary School (BMSS) prides itself on cultivating a caring environment and establishing positive expectations to bring out the best in our students.  We are committed to fostering respectful relationships and providing opportunities for active participation so as to imbue students with the school values, 'Wisdom in making sound decisions, Integrity in word and deed, Self-discipline in conduct, Empathy for others; and Respect for self and others'. The school offers a balanced curriculum that emphasises academic rigour and value-addedness, character development and citizenship education. We had previously been conferred the NAC National Arts Education Glow Award as well as MOE awards for Character Development, and Sustained Achievement in both Sports and Uniformed Groups for our efforts in providing an all-round educational experience.",
+		"School Vision": "Every Merahan a resilient, caring and self-directed learner",
+		"School Mission": "To Nurture Resilient Merahans with Character and Heart",
+		"School Philosophy, Culture and Ethos": "Bukit Merah Secondary School (BMSS) prides itself on cultivating a caring environment and establishing positive expectations to bring out the best in our students.  We are committed to fostering respectful relationships and providing opportunities for active participation so as to imbue students with the school values, 'Respect for self and others, Integrity in word and deed, Self-discipline in conduct, and Empathy for others'. The school offers a balanced curriculum that emphasises academic rigour and value-addedness, character development and citizenship education. We believe in developing students' talents through a comprehensive Aesthetics Education Programme. Our achievements in Aesthetics, Sports and Uniformed Groups have helped provide our students with an all-round educational experience.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -32,6 +32,8 @@
 		"ADDITIONAL MATHEMATICS",
 		"BASIC CHINESE",
 		"BASIC MALAY",
+		"BASIC TAMIL",
+		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
 		"CHINESE B",
@@ -66,7 +68,9 @@
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, BIO)",
 		"SCIENCE (PHY, CHEM)",
-		"SOCIAL STUDIES"
+		"SOCIAL STUDIES",
+		"TAMIL",
+		"TAMIL N(A)"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -87,6 +91,7 @@
 		],
 		"Clubs & Societies": [
 			"Ava Club",
+			"Design And Innovation Club",
 			"Infocomm And Robotics Club",
 			"Library Society",
 			"Student Activity Club",
@@ -98,10 +103,10 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"STEM": "Design Thinking in Digital Media & Engineering",
-			"Sports & Outdoor Education": "Character Education through Sports"
+			"STEM": "Creative Robotics and Engineering",
+			"Sports & Outdoor Education": "Character Development & Leadership through Sports"
 		},
-		"Special Student Development Programmes Offered": "I. Curriculum Enhancement: BMSS students have performed well in Mathematics and Science.  This has been the result of teachers exploring new pedagogy and stretching student capacity through curricular enrichment activities. Examples of these include the use of 3D Media for the teaching of Science and Interactive SMART boards in Mathematics. Our students participate annually in University of New South Wales International Competition for Mathematics & Science, Singapore Mathematics Olympiads, workshops at Singapore Science Centre and Advanced Elective Modules (Clean Energy, Polymer Science) at local polytechnics.  The school also champions reading literacy. In collaboration with the National Library Board, we have embarked on a whole-school effort to promote reading as a habit among students. II. Co-Curricular Initiatives: To develop 21st century competencies, we have distinctive programmes including (1) Applied Learning through use of Digital Media to tackle authentic real-life problems; (2) Merahan Leadership Challenge: a student-led event to plan and execute a one-day out-of-school curriculum with a national education thematic focus for their respective classes; (3) Experiential Learning Programme: leveraging outdoor education to build peer relationships and inculcate values; (4) Aesthetics Education: series of visual and performing arts workshops conducted for one level of students that culminates in an end-of-term performance; (5) Character Development through Sports (e.g. Floorball).  This serves as a key platform to develop life-skills by promoting teamwork, self-discipline and the pursuit of excellence.  All students will be taught team sports during PE lessons and their skills are developed progressively at the different levels."
+		"Special Student Development Programmes Offered": "I. Curriculum Enhancement: over the years, BMSS students have performed well in Mathematics and Science.  This has been the result of teachers exploring new pedagogy in Professional Learning Teams and stretching student capacity through curricular enrichment activities. Examples include engaging Science project work tasks at the lower secondary level and the use of manipulatives in Mathematics teaching. Our students participate annually in competitions for Mathematics & Science, including the Singapore Mathematics Olympiad, workshops at Singapore Science Centre and Advanced Elective Modules (with a science focus) at local polytechnics.  The school also champions reading literacy. In collaboration with the National Library Board, we have embarked on a whole-school effort to promote reading as a habit among students. We emerged first runner-up in the NLB 2017 Reading Excellence Award. II. Co-Curricular Initiatives: To develop 21st century competencies, we have distinctive programmes including (1) Applied Learning Program: Creative Robotics and Engineering. The focus on Science and Technology, including basic programming, will equip students with skills to tackle authentic real-life problems; (2) The START RIGHT programme to begin the academic year on the right foci; (3) GROW Week curriculum,  which integrates beyond-the-classroom activities for the holistic development of every child; (4) Experiential Learning Programme: leveraging outdoor education to build peer relationships and inculcate values; (5) Aesthetics Education Programme: a series of visual and performing arts workshops that culminates in an end-of-term performance; (6) Learning for Life Programme: Character Development & Leadership Through Sports, which develops life-skills by promoting teamwork, self-discipline and the pursuit of excellence.  Student leaders will have the opportunity to grow and hone their skills experientially."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -288,9 +293,9 @@
 					"Drama - English": "Accomplishment"
 				},
 				"Best Unit Award": {
-					"Ncc (Land Boys)": "Gold",
 					"St John Ambulance Brigade": "Gold",
-					"Scout (Unit 1)": "Gold"
+					"Scout (Unit 1)": "Gold",
+					"Ncc (Land Boys)": "Gold"
 				}
 			},
 			"2017": {}

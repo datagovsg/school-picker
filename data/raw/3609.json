@@ -1,10 +1,10 @@
 {
 	"code": "3609",
+	"name": "EAST SPRING SECONDARY SCHOOL",
 	"levels": "S",
 	"uen": " T07GS3609F",
 	"logo": "./Medias/Images/Schools/logos/tn_3609.jpg",
-	"name": "EAST SPRING SECONDARY SCHOOL",
-	"website": "http://www.eastspringsec.moe.edu.sg/",
+	"website": "http://www.eastspringsec.moe.edu.sg",
 	"address": "30, TAMPINES STREET 34 ( 529231 )",
 	"telephone": [
 		"65873805"
@@ -13,17 +13,17 @@
 		"65873804"
 	],
 	"email": "esss@moe.edu.sg",
-	"mrt": "TAMPINES MRT",
-	"bus": "3 , 4 , 9 , 12 , 17 , 19 , 21 , 28 , 29 , 37 , 59 , 81 , 291 ",
+	"mrt": "TAMPINES MRT, TAMPINES EAST MRT",
+	"bus": "3 , 4 , 9 , 12 , 17 , 19 , 21 , 28 , 29 , 34 , 37 , 39 , 59 , 81 , 291 , 518 ",
 	"GeneralInformation": {
 		"Principal": "MR TEOH TEIK HOE",
 		"Vice Principal": [
 			"MRS MOHINDER SINGH (MDM PREGASS KAUR)",
 			"MR ANG JOHNNY"
 		],
-		"School Vision": "Creative Learners  Upright Citizens Global Thinkers",
+		"School Vision": "Creative Learners, Upright Citizens, Global Thinkers",
 		"School Mission": "To nurture East Springians to be confident, vibrant, compassionate and responsible adults who are able to contribute as citizens and as individuals.",
-		"School Philosophy, Culture and Ethos": "East Spring Secondary have a nurturing, synergistic and innovative staff culture. Teachers exercise the duty of care and professionalism in teaching and learning to develop students to their fullest potential. Our staff are collegial and collaborative, working collectively and interdependently towards common goals for continuous improvement and excellence. With the focus on developing staff capacity to enhance professional competencies, we journeyed into Professional Learning Teams as an avenue for teacher collaboration to meet the learning needs of students and improve student outcomes. Teachers enhance their pedagogical capacity and instructional competency through teacher training in instructional strategies and reflective practices. The Instructional Programme (IP) Departments are empowered to experiment with practices that will promote more engaged learning. East Spring Secondary strives to develop every student's ability and talent to the fullest to benefit the self, community and nation. We prepare our students for the 21st century by cultivating innovation and creativity, as well as competencies such as leadership, team working skills and cross cultural literacy. Through these programmes, East Spring provides diverse experiences for all-round development of its students. Our students will emerge as creative learners, upright citizens and global thinkers. The expectations set for the staff and students are best expressed with the tagline Aim High, Act Now, encapsulating the school belief that much can be achieved with the right values of R3ISE, Excel and Innovate.",
+		"School Philosophy, Culture and Ethos": "East Spring Secondary School embraces a nurturing, synergistic and innovative staff culture. Teachers exercise duty of care and professionalism to develop students to their fullest potential in the total curriculum. Our staff are collegial and collaborative, working collectively and interdependently towards common goals for continuous improvement and excellence. To build staff capacity in their pedagogical and instructional competency, the school plans and intentionally put in place professional development sessions and reflective practices. The Instructional Programme (IP) Departments are empowered to experiment with practices to deepen student engagement in learning. The school strives to develop every student's ability and talent to the fullest to benefit the self, community and nation. We prepare our students for the 21st century by cultivating innovation and creativity, as well as competencies such as leadership and cross cultural literacy. Through these programmes, East Spring provides diverse experiences for all-round development of her student to emerge as creative learners, upright citizens and global thinkers. The expectations set for staff and students are best expressed with the tagline Aim High, Act Now, encapsulating the school belief anchored upon the school's R3ISE values.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -39,18 +39,20 @@
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
-		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
+		"HIGHER CHINESE",
+		"HIGHER MALAY",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
+		"MUSIC NT LEVEL",
 		"PHYSICS",
 		"PRINCIPLES OF A/C",
-		"SCIENCE (PHY, BIO)",
-		"SCIENCE (PHY, CHEM)"
+		"SCIENCE (PHY, CHEM)",
+		"TAMIL"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -77,6 +79,7 @@
 		],
 		"Clubs & Societies": [
 			"Audio & Video/ Pa Club",
+			"Green Club",
 			"Journalism Club"
 		],
 		"Others": [
@@ -91,7 +94,7 @@
 			"STEM": "Harnessing Energy for Real Life Applications",
 			"Community & Youth Leadership": "Every Student a Leader"
 		},
-		"Special Student Development Programmes Offered": "The school's Holistic Education, Character and Citizenship Education (HDCCE) framework is designed based on 21st century learner competencies and the desired student outcomes of a confident person, self-directed learner, concerned citizen, and active contributor to society. The Global Thinkers Programme nurtures East Springians to be globally-conscious about international issues, develop a cosmopolitan mindset through experiencing the rich diversity of cultures, and gain cross-cultural competencies to prepare them for a globalised economy. The school's Applied Learning Programme (ALP) on Harnessing Energy for Real Life Application, focuses on acquisition and application of scientific knowledge of Energy and Skills to real life situations in work, recreation and living. This unique programme allow students to acquire and apply critical thinking skills and develop dispositions of an inquiring mind. The school also seeks to develop student leadership skills through our Distinctive Programme, named Community Youth Leadership (CYL) under the Learning for Life Programme (LLP). The programme is designed for students to lead, inspire and remain centred on core values. The tiered approach equips student with fundamental and differentiated leadership skills through formal training and experiential learning opportunities, delve deeper into honing higher-order leadership demands and sharpen students' capacity to be effective all-round leaders.  The school offers Direct School Admission(DSA) for our Distinctive Programme CYL."
+		"Special Student Development Programmes Offered": "The school's Holistic Education, Character and Citizenship Education (HDCCE) framework is designed based on 21st century learner competencies and the desired student outcomes of a confident person, self-directed learner, concerned citizen, and active contributor. The Global Thinkers Programme nurtures East Springians to be globally-conscious about international issues, developing a cosmopolitan mindset through experiencing the rich diversity of cultures. The school's Applied Learning Programme (ALP) on Harnessing Energy for Real Life Application, focuses on acquisition and application of scientific knowledge and skills in real life situations to work, live and play. This unique programme allows students to acquire and apply critical thinking skills and develop dispositions of an inquiring mind. The school also seeks to develop student leadership skills through our distinctive Community Youth Leadership (CYL) Programme under the Learning for Life Programme (LLP). The programme is designed for students to lead, inspire and remain centred on core values. The tiered approach equips student with fundamental and differentiated leadership skills through formal training and experiential learning opportunities. The school offers Direct School Admission(DSA) for her distinctive programme, CYL."
 	},
 	"AchievementHistory": {
 		"Secondary": {

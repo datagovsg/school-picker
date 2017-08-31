@@ -1,9 +1,9 @@
 {
 	"code": "1238",
+	"name": "KEMING PRIMARY SCHOOL",
 	"levels": "P",
 	"uen": " T07GS1238B",
 	"logo": "./Medias/Images/Schools/logos/tn_1238.jpg",
-	"name": "KEMING PRIMARY SCHOOL",
 	"website": "http://www.kemingpri.moe.edu.sg",
 	"address": "90, BUKIT BATOK EAST AVENUE 6 ( 659762 )",
 	"telephone": [
@@ -22,8 +22,8 @@
 			"MDM ANG CHAI TING, JESSIE"
 		],
 		"School Vision": "Enlightened Students, Enriched Citizens",
-		"School Mission": "Connecting Hearts, Engaging Minds                                                                                                                                                                                                                         We strive to build quality relationships so that our learners will want to learn. We believe in (1) accepting every individual, (2) acknowledging his/her abilities and talents, and (3) helping him/her to progress in a learning pathway that best meets his/her needs.",
-		"School Philosophy, Culture and Ethos": "Keming Primary School is a school with humble beginnings and an illustrious history. Established in 1935 by public-spirited and philanthropic pioneers with an unyielding belief in education, we overcame many challenges to become today's vibrant and forward-looking school. Ours is a heart-warming story steeped in community spirit, resourcefulness and resilience.    Today, Keming continues to stand firm in our belief to work together with the community to provide a holistic education to our students to develop them to their full potential so that they will \"Grow and Glow\" to become good and useful citizens who make positive contributions to society.   Specifically, we believe in guiding and helping our students to develop their Moral, Aesthetic, Physical, Intellectual, Emotional and Social (MA PIES) domains to the full.  Keming aims to:  (1)     develop character by anchoring our students with the R3ICH values and equipping them with Social Emotional (SE) competencies,  (2)   build a strong foundation in literacy and numeracy skills as well as inculcate the spirit of scientific inquiry and equipping our students with the 21st Century competencies for future education, employment and citizenship.",
+		"School Mission": "Connecting Hearts, Engaging Minds",
+		"School Philosophy, Culture and Ethos": "We believe that (1) Every child can learn, whatever his starting point.  We will help each child find success in learning.  (2)  Every child is unique. Each child will therefore succeed in different ways.  (3)  Every child needs different attributes to succeed in the future.  We will nurture the whole child.   We provide a caring and supportive environment for our students with a focus on connecting hearts and engaging minds.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -35,6 +35,7 @@
 		"ENGLISH LANGUAGE",
 		"FOUNDATION ENGLISH",
 		"FOUNDATION MATHEMATICS",
+		"FOUNDATION SCIENCE",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
@@ -61,11 +62,14 @@
 		],
 		"Visual and Performing Arts": [
 			"Art Club",
-			"Chinese Dance",
-			"International Dance"
+			"Chinese Dance"
 		],
 		"Clubs & Societies": [
+			"Chess Club - International",
+			"Debate",
 			"Infocomm Club",
+			"Kids Cook",
+			"Numeracy Club",
 			"Science Club"
 		]
 	},
@@ -76,7 +80,7 @@
 		"School Distinctive Programmes": {
 			"Sports & Outdoor Education": "Sports4All@Keming: Character Development through Sports"
 		},
-		"Special Student Development Programmes Offered": "We believe in student-centric and values-driven education  Our Learning for Life Programme (LLP) - Character Development through Sports - aims to build our students' character and develop values such as resilience in collaborative settings through Wushu and other sports.  An integrated platform for students to learn 21st Century competencies, our Inter-disciplinary Project Work develops our students in critical thinking and oral communication skills.  To promote active citizenry in our students to make a difference to lives of others in the community, our school-wide Student Leadership Development Programme provides platforms for students to voice their opinions and involves them in school improvement projects.  Our Overseas Learning Journeys aim to widen the horizon of our students, leading them to become future global citizens who are able to appreciate different cultures through authentic learning experiences with their counterparts from neighbouring countries.  Our Talent Development Programme identifies and provides opportunities to develop our students' areas of strength in different domains so as to maximise their potential.  Together with partners, our Values in Action Programme provides opportunities to raise our students' awareness of the environment and sustainable living by  engaging them in the 4Rs (Recycle, Reuse, Reduce and Refuse) and simple acts of taking care of their classroom, school environment and the community.  LOVE@Keming is a comprehensive school-wide Character Education Programme that develops our students' moral and performance character as well as Social Emotional competencies so that they will strive to \"always do the right thing\" and \"give of their best\".  Our Aesthetics Programme - Arts4All@Keming - aims to develop our students to appreciate the arts and be actively engaged in arts activities. This is achieved by exposing our students to different art forms and creating platforms to showcase their talents and build confidence."
+		"Special Student Development Programmes Offered": "Learning comes alive for Kemingnites through Authentic Learning@Keming.   Learning Beyond School - Students go for two or more learning journeys a year.  These learning journeys help make meaning of what they learn in the classroom as they experience different places, people and environments.  An example is the visit to a shopping mall by the P1 students.  Students learn the value of money and the basics of budgeting as they plan their purchases within the constraints given.  The joy of learning is evident as the students, guided by parent volunteers and their teachers, make new discoveries together. Learning by Doing - We provide opportunities for students to engage in hands-on and collaborative learning to evoke their curiosity and apply their learning. P1 and P2 students engage in hands-on activities such as bubble-blowing, ice-cream decoration and food tasting.  P3 to P6 students, on the other hand, engage in project work to enable them to make meaningful connections of what they have learnt.   Cultivating the Student Voice - To build confident and effective leaders who contribute actively to society, platforms are created to cultivate the student voice and encourage self-expression and participation. My School My Voice, a shared space in the school for students to post their opinions, have witnessed contemplations over various issues.  ARTS4U is a platform where students sign up to showcase their talents. During Kids Buzz, students present on a topic of their choice and invite questions from the audience. These activities get the students# creative juices flowing and develop their confidence.  Student leaders also participate in school improvement through student-initiated projects. The Exhale-ration Fair is when P6 students are given the opportunity to explore in teams, innovative ideas within set conditions.  The process invokes the entrepreneurial dare within the students and pushes the boundaries of their thinking."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -280,21 +284,21 @@
 					],
 					[
 						"Wushu",
-						"-",
-						"-",
-						"-",
-						"-",
 						"4th",
 						"2nd",
 						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
 						"-"
 					]
 				],
 				"SYF Arts Presentation": {
 					"Art - Category A": "Recognition",
 					"Chinese Orchestra-Full Orchestra": "Accomplishment",
-					"Dance - Chinese": "Distinction",
-					"Dance - Malay": "Accomplishment"
+					"Dance - Malay": "Accomplishment",
+					"Dance - Chinese": "Distinction"
 				}
 			},
 			"2017": {}
