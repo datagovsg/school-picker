@@ -1,9 +1,9 @@
 {
 	"code": "3043",
+	"name": "Bowen Secondary School",
 	"levels": "S",
 	"uen": " T07GS3043E",
 	"logo": "./Medias/Images/Schools/logos/tn_3043.jpg",
-	"name": "Bowen Secondary School",
 	"website": "http://www.bowensec.moe.edu.sg",
 	"address": "2, Lorong Napiri (547529)",
 	"telephone": [
@@ -15,9 +15,10 @@
 	"email": "BOWEN_SS@MOE.EDU.SG",
 	"mrt": [
 		"Serangoon MRT",
-		"Hougang MRT"
+		"Hougang MRT",
+		"Sengkang MRT"
 	],
-	"bus": "70 , 73 , 103 , 109 , 156 , 854 , 25 , 74 , 74E , 76 , 112 , 132 , 147 , 165 , 55 ",
+	"bus": "43 , 70 , 73 , 103 , 109 , 156 , 854 , 25 , 74 , 74E , 76 , 112 , 132 , 147 , 165 , 55 ",
 	"GeneralInformation": {
 		"Principal": "Mr Liu Earnler",
 		"Vice Principal": [
@@ -26,7 +27,7 @@
 		],
 		"School Vision": "Every Bowenian a Passionate Learner, Leader and Champion.",
 		"School Mission": "Nurturing Learning. Developing Character. Inspiring Service.",
-		"School Philosophy, Culture and Ethos": "In Bowen Secondary School we are committed to cultivating a mind-set of life-long learning, strength of character and service to others in our students. We also aspire for Bowenians to uphold the school values of, 'Respect, Responsibility, Compassion, Resilience, Teamwork and Excellence'. There is a culture of care in Bowen where teachers not only teach but also guide every Bowenian to reach for excellence. Bowen's school motto, 'I Believe, Therefore I Am' exemplifies our belief that our students will fulfil their aspirations when they believe in their own abilities and are determined to strive for excellence.",
+		"School Philosophy, Culture and Ethos": "Bowen aspires to cultivate life-long learning, strength of character and service to others in all our students.  In Bowen, there is a strong culture of care where teachers nurture and guide every Bowenian to grow and to reach for excellence.  Bowen's flagship ChANgeMaker programme nurtures a spirit of service and empathy in every Bowenian, with authentic opportunities every year to learn, to serve, and to engage in design thinking.  Bowen's motto, 'I Believe, Therefore I Am' reflects our belief that our students can fulfil their aspirations when they believe in their abilities and strive for excellence.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -75,7 +76,6 @@
 		"Physical Sports": [
 			"Badminton",
 			"Basketball",
-			"Cross Country",
 			"Football",
 			"Netball",
 			"Table Tennis",
@@ -107,7 +107,7 @@
 			"Business & Entrepreneurship": "Nurturing Creativity, Empathy and Enterprise through Social Entrepreneurship",
 			"Community & Youth Leadership": "Developing Community Youth Leadership through VIA – Journey to Become RESPECTful Leaders"
 		},
-		"Special Student Development Programmes Offered": "Students benefit from the school's holistic education which is designed to provide a rigorous and engaging academic curriculum as well as develop students' character through the various CCAs and the Service Learning programme. Bowen challenges students to do well academically, while providing opportunities for them to be fully engaged in learning through creative programmes such as LifeLit, a drama-infused language arts programme for Lower Secondary students. The school's strong CCA culture provides a well-balanced and comprehensive co-curricular programme that helps the students to grow into well-rounded individuals. Under the school's Community Youth Leaders (CYL) programme, community service is offered as a platform for students to inspire, and be inspired, by engaging in service to others. The school was accorded the Community Youth Leadership pilot school status by the National Youth Council, as well as the Learning for Life Programme (LLP) status by MOE in 2014. The school's Social Entrepreneurship Programme (SEP) seeks to nurture creativity, encourage a spirit of enterprise and build empathy, thus preparing students to be entrepreneurs and intrapreneurs in the future. The SEP teaches students to use the tools of Design Thinking to approach challenges and opportunities to create suitable solutions. The school was accorded the Applied Learning Programme (ALP) status in 2016. The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "Bowen champions holistic education, where students are challenged to strive for excellence through both academic programmes and character development programmes.  Bowen engages students in learning through creative programmes such as LifeLit, a drama-infused English Language programme for Lower Secondary students, and authentic fieldwork such as annual Historical and Geographical Investigations to sites of historical and geographical interest.  Our year-round Aforte programme broadens the learning opportunities for Normal stream students through enrichment and elective modules to help them aspire to the future.  Our strong CCA culture provides a well-balanced and comprehensive co-curricular programme that helps the students to grow into all-rounded individuals.  Our flagship ChANgeMaker systematically provides authentic opportunities for students to engage in meaningful service, utilising Design Thinking protocol to better meet the needs of the beneficiaries.  ChANgeMaker trains students in both social enterprise and community youth leadership, which are two areas under which students can be admitted to Bowen under Direct School Admission."
 	},
 	"AchievementHistory": {
 		"Secondary": {

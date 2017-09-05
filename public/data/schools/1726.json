@@ -1,9 +1,9 @@
 {
 	"code": "1726",
+	"name": "Juying Primary School",
 	"levels": "P",
 	"uen": " T07GS1726D",
 	"logo": "./Medias/Images/Schools/logos/tn_1726.jpg",
-	"name": "Juying Primary School",
 	"website": "http://www.juyingpri.moe.edu.sg/",
 	"address": "31, Jurong West Street 91 (649037)",
 	"telephone": [
@@ -145,6 +145,11 @@
 				},
 				{
 					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
 					"category": "Dance - International",
 					"award": "Accomplishment"
 				},
@@ -152,11 +157,6 @@
 					"year": "2016",
 					"category": "Dance - Malay",
 					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [

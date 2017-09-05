@@ -1,9 +1,9 @@
 {
 	"code": "1268",
+	"name": "Angsana Primary School",
 	"levels": "P",
 	"uen": " T14GS0006K",
 	"logo": "./Medias/Images/Schools/logos/tn_1268.jpg",
-	"name": "Angsana Primary School",
 	"website": "http://www.angsanapri.moe.edu.sg",
 	"address": "3, Tampines Street 22 (529366)",
 	"telephone": [
@@ -65,7 +65,6 @@
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
-			"Band - Concert",
 			"Choir",
 			"International Dance"
 		],
@@ -79,6 +78,10 @@
 		]
 	},
 	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Coding": "Nurturing Problem Solvers through Computational Thinking",
+			"Community Service & Student Leadership": "Nurturing and Developing 21st Century Leaders through Enrichment and Lifeskills (ENL) Programmes"
+		},
 		"Special Student Development Programmes Offered": "We aim to develop leadership qualities and skills among students, so as to provide them with an edge in overcoming future challenges and thrive in the changing global landscape. We aim to nurture our charges to be positive influencers in life and in their relationships with others. Our two-tiered student leadership development programme focuses on personal mastery, teamwork and responsible citizenship, as well as leadership development to serve the school and community. In alignment with our mission, we teach 21st century competencies.  Students will learn basic computational thinking (CT) concepts and attitudes through interdisciplinary themes in our \"Nurturing Problem Solvers through CT\" programme. They will have opportunities to learn coding and apply makerspace ideas to tinker and make robots. Our \"Code for Fun\" programme is supported by IDA under the Code@SG movement. To equip students with skills to manage themselves and relate well with others, we run a progressive lifeskills programme from P1 to P6.   They learn important social and emotional competencies, namely self-awareness, social awareness, self-management, relationship management and responsible decision making, through outdoor camps and authentic learning experiences."
 	},
 	"AchievementHistory": {

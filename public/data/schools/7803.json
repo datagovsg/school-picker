@@ -1,9 +1,9 @@
 {
 	"code": "7803",
+	"name": "Northlight School",
 	"levels": "S",
 	"uen": " 200615271H",
 	"logo": "./Medias/Images/Schools/logos/tn_7803.jpg",
-	"name": "Northlight School",
 	"website": "http://www.nls.edu.sg",
 	"address": "151, Towner Road (327830)",
 	"telephone": [
@@ -19,21 +19,44 @@
 	"bus": "21 , 125 , 130 , 139 , 145 , 13 , 23 , 31 , 64 , 65 , 133 , 147 , 857 , 985 ",
 	"GeneralInformation": {
 		"Principal": "Mr Martin Tan Siew Kin",
-		"Vice Principal": [
-			"Mr Raj Kumar S/o V Sivalingam",
-			"Ms Yeo Lay Choo Jayvin"
-		],
+		"Vice Principal": "Mr Raj Kumar S/o V Sivalingam",
 		"Vice Principal (Admin)": "Miss Amanda Loh",
 		"School Vision": "A choice school of youth prepared for life and living.",
 		"School Mission": "To provide an engaging career-oriented and values-focused education for youth in preparing them for lifelong learning and employability.",
+		"School Philosophy, Culture and Ethos": "NorthLight School aims to provide an engaging education for youth and prepare them for lifelong learning and employability.  The school adopts an experiential approach in teaching and learning. Emphasis is given to nurturing the students' socio-emotional development by recognising their achievements, encouraging peer support, and creating conditions to promote self esteem.  At NorthLight School, every student is SPECIAL, has TALENTS, ASPIRATION and RESILIENCE.  A choice school to prepare youth for life and living, NorthLight School seeks to nurture confident, motivated and morally upright students. Graduates of the school will be dynamic and enterprising, enjoy lifelong learning, and make positive contributions to the community.",
 		"Type of School": "Specialised School / Co-ed School / Full Day",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
 	},
 	"SubjectOffered": [],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Floorball",
+			"Football",
+			"Netball",
+			"Sepak Takraw",
+			"Silat",
+			"Table Tennis",
+			"Track & Field"
+		],
+		"Uniformed Groups": [
+			"Girl Guides",
+			"National Civil Defence Cadet Corps"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Drama Club",
+			"Photo & Video Club"
+		],
+		"Clubs & Societies": [
+			"Gardening Club",
+			"It Club"
+		]
+	},
 	"SpecialProgrammes": {
-		"Special Student Development Programmes Offered": "NorthLight Programme, Sports & Wellness Programme, Arts Appreciation Programme,Language & Literacy Programme, 'Math Works for Us!' Programme, ICT Literacy Programme, Vocational Training Programme, Industrial Attachment Programme, Pre-employment Skills Training Programme"
+		"Special Student Development Programmes Offered": "NorthLight Programme, Sports & Wellness Programme, Arts Appreciation Programme, Language & Literacy Programme, 'Math Works for Us!' Programme, ICT Literacy Programme, Vocational Training Programme, Industrial Attachment Programme, Pre-employment Skills Training Programme"
 	},
 	"AchievementHistory": {
 		"Secondary": {

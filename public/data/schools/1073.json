@@ -1,9 +1,9 @@
 {
 	"code": "1073",
+	"name": "Raffles Girls' Primary School",
 	"levels": "P",
 	"uen": " T07GS1073E",
 	"logo": "./Medias/Images/Schools/logos/tn_1073.jpg",
-	"name": "Raffles Girls' Primary School",
 	"website": "http://www.rafflesgirlspri.moe.edu.sg",
 	"address": "21, Hillcrest Road (289072)",
 	"telephone": [
@@ -394,36 +394,6 @@
 				},
 				{
 					"year": "2016",
-					"category": "Badminton",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
 					"category": "Basketball",
 					"subCategory": [
 						"Zone",
@@ -504,6 +474,36 @@
 				},
 				{
 					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
 					"category": "Gymnastics (Rhythmic)",
 					"subCategory": [
 						"National",
@@ -516,7 +516,7 @@
 					"year": "2016",
 					"category": "Swimming",
 					"subCategory": [
-						"Zone",
+						"National",
 						"Girls",
 						"'B' Div"
 					],
@@ -606,11 +606,6 @@
 				},
 				{
 					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
 				},
@@ -638,6 +633,11 @@
 					"year": "2016",
 					"category": "Ensemble - Strings",
 					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
 				}
 			],
 			"Best Unit Award": [

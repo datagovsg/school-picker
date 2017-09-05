@@ -1,9 +1,9 @@
 {
 	"code": "3604",
+	"name": "Woodlands Ring Secondary School",
 	"levels": "S",
 	"uen": " T07GS3604D",
 	"logo": "./Medias/Images/Schools/logos/tn_3604.jpg",
-	"name": "Woodlands Ring Secondary School",
 	"website": "http://www.woodlandsringsec.moe.edu.sg",
 	"address": "10, Woodlands Ring Road (738239)",
 	"telephone": [
@@ -25,7 +25,7 @@
 		],
 		"School Vision": "Every WRS Student is Worthy, Resilient and Selfless",
 		"School Mission": "Nurturing Self-Directed, Confident and Caring Learners",
-		"School Philosophy, Culture and Ethos": "We believe that each student is unique and whose potential can be maximised so as to contribute selflessly to society. In line with its culture of learning, the school focusses on holistic, values-driven, student development programmes to engage the hearts and minds of its learners. The school is committed to providing its students with a safe and conducive learning environment to pursue their interests and strive for excellence. Staff and students are encouraged to live out the school motto: Work hard and smart, Rise to every challenge, Serve the school and community.",
+		"School Philosophy, Culture and Ethos": "We believe that each student is unique and whose potential can be maximised so as to contribute selflessly to society. In line with our culture of learning, the school focusses on holistic, values-driven, student development programmes to engage the hearts and minds of our learners. We are committed to providing our students with a safe and conducive learning environment to pursue their interests and strive for excellence. Staff and students are encouraged to live out the school motto: Work hard and smart, Rise to every challenge, Serve the school and community.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -38,8 +38,6 @@
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
 		"Computer Applications",
 		"Design & Technology",
 		"Elements Of Business Skills",
@@ -48,6 +46,9 @@
 		"Food And Consumer Education",
 		"Geography",
 		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In English)",
 		"Literature(E)",
 		"Malay",
 		"Mathematics",
@@ -75,13 +76,13 @@
 			"St. John Brigade"
 		],
 		"Visual and Performing Arts": [
+			"Band - Symphonic",
 			"Chinese Dance",
 			"Choir",
 			"Dance - Contemporary",
 			"English Drama Club",
 			"Guzheng Ensemble",
-			"Malay Dance",
-			"Symphonic Band"
+			"Malay Dance"
 		],
 		"Clubs & Societies": [
 			"Ava/Photography Club",
@@ -94,7 +95,7 @@
 			"STEM": "The Robotics Education & Enterprise (TREE)",
 			"Community & Youth Leadership": "Student Leadership Development through Involvement in the Community Programme"
 		},
-		"Special Student Development Programmes Offered": "Character and Citizenship Education is the common thread that binds both the core and co-curriculum programmes in WRS.  The school's Applied Learning Programme - Robotics Education - ensures that every student is put through a Robotics-infused Design & Technology curriculum at lower secondary. Robotics Education instils in students a curiosity to learn through experimentation, questioning, problem-solving and risk-taking. It provides integration of learning across disciplines which include Science, Technology, Engineering and Mathematics (STEM), and develops in students the ability to make connections with real-life problems. As an extension of their learning and to provide our students early exposure to possible post-secondary courses of study and future work opportunities, the school will be offering an ITE-Applied Subject Mobile Robotics to our Secondary 3NT students in 2017. A Drama-in-Curriculum programme is introduced for lower secondary students to develop oracy and self-confidence through creative expression of their ideas and imagination. One special feature in the co-curriculum is Outdoor Education. Secondary 2 students attend a CCE camp during which they are given opportunities to demonstrate their understanding of the six NE messages and hone their social emotional competencies. Secondary 3 students learn more about resilience during a four-day camp by Outward Bound Singapore on Pulau Ubin. The school's Learning for Life Programme - Student Leadership Development through Involvement in the Community - aims to instil in students the purpose of caring for and leading others in the community through their involvement in community outreach activities. By working with partners, both locally and overseas, the programme is designed to help students better appreciate what they have and live out the school values of 'Responsibility, Respect & Resilience' and motto 'Serve the School and Community'."
+		"Special Student Development Programmes Offered": "We adopt a Values-based and Student-centric focussed curriculum with our Strategic Thrusts of Engaged Learning and Character Excellence as the common threads that bind both the academic and co-curricular programmes in WRS. True to our philosophy that every student is unique and can contribute to society, we strive to inculcate critical thinking and future-ready skills. The school's Applied Learning Programme, The Robotics Education & Enterprise  [TREE], instils in students a curiosity to learn through experimentation, questioning, problem-solving and risk-taking. Dedicated to providing authentic and engaging experiences, TREE integrates learning across disciplines such as Science, Technology, Engineering and Mathematics (STEM), and develops in students the ability to make connections with real-life problems. As an extension of learning and early exposure to possible post-secondary courses of study and future work opportunities, the school is offering Applied Subjects such as Mobile Robotics to Upper Secondary students. With an emphasis on building confidence and strengthening effective communication, programmes such as Drama-in-Curriculum and Career Presentation Programmes are introduced to develop Oracy and Self-Confidence through creative expression. Our Learning for Life Programme, Student Leadership Development through Involvement in the Community, aims to instil the purpose of caring for and leading others in the community through their involvement in community outreach activities. By working with partners, both locally and overseas, the programme is designed to help students better appreciate what they have and live out the school values of 'Responsibility, Respect & Resilience' and motto 'Serve the School and Community'. As part of our Resilience programme, our Sec 2 students attend a CCE camp during which they are given opportunities to demonstrate and hone their SE competencies and our Sec 3 students learn about team challenges and adaptation through OBS."
 	},
 	"AchievementHistory": {
 		"Secondary": {

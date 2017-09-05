@@ -1,10 +1,10 @@
 {
 	"code": "3046",
+	"name": "Hougang Secondary School",
 	"levels": "S",
 	"uen": " T07GS3046D",
 	"logo": "./Medias/Images/Schools/logos/tn_3046.jpg",
-	"name": "Hougang Secondary School",
-	"website": "http://www.hougangsec.moe.edu.sg/",
+	"website": "http://www.hougangsec.moe.edu.sg",
 	"address": "2, Hougang Street 93 (534256)",
 	"telephone": [
 		"63851990"
@@ -17,7 +17,7 @@
 		"Hougang MRT",
 		"Buangkok MRT"
 	],
-	"bus": "43 , 88 , 101 , 109 , 156 , 159 , 161 , 325 ",
+	"bus": "43 , 88 , 101 , 109 , 156 , 159 , 161 , 325 , 329 ",
 	"GeneralInformation": {
 		"Principal": "Mr Arivazhagan Manickam",
 		"Vice Principal": [
@@ -26,7 +26,7 @@
 		],
 		"School Vision": "Grateful Children. Respectful Pupils. Compassionate Citizens",
 		"School Mission": "Care. Lead. Inspire. Partner",
-		"School Philosophy, Culture and Ethos": "Founded in 2001, Hougang Secondary School (HS) provides an all-round education for Hougeans to pursue their strengths and passions. As a school of distinction, HS is recognised for having best practices in Student All-Round Development, Character and Citizenship Education (CCE), and Teaching & Learning. With a strong belief that \"Every Student Counts\", HS places strong emphasis on character and values education. The school is committed to nurture every Hougean into a Grateful Child, Respectful Pupil and Compassionate Citizen (GRC) who will make the difference in their life journey even after they have left the gates of HS. There are opportunities for our students to be imbued with GRC values through values-driven CCAs that cater to the different needs and interests of the students. Gratitude - HS teaches every Hougean to show acts of appreciation as their successes are the joint effort of their parents, teachers and the community. Respect - HS teaches every Hougean the value of respecting themselves and others. Compassion - HS teaches every Hougean to serve the real needs of the community through regular weekly service. More than 80% of our Hougeans are Service Leaders.",
+		"School Philosophy, Culture and Ethos": "Founded in 2001, Hougang Secondary School (HS) provides an all-round education for Hougeans to pursue their strengths and passions. As a school of distinction, HS is recognised for having best practices in Student All- Round Development, Character and Citizenship Education (CCE), and Teaching & Learning. With a strong belief that \"Every Student Counts\", HS places strong emphasis on character and values education. The school is committed to nurture every Hougean into a Grateful Child, Respectful Pupil and Compassionate Citizen (GRC) who will make the difference in their life journey even after they have left the gates of HS. There are opportunities for our students to be imbued with GRC values through values-driven CCAs that cater to the different needs and interests of the students. Gratitude - HS teaches every Hougean to show acts of appreciation as their successes are the joint effort of their parents, teachers and the community. Respect - HS teaches every Hougean the value of respecting themselves and others. Compassion - HS teaches every Hougean to serve the real needs of the community through regular service.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -63,7 +63,8 @@
 			"Floorball",
 			"Football",
 			"Judo",
-			"Netball"
+			"Netball",
+			"Wushu"
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
@@ -82,6 +83,9 @@
 			"Ensemble - Angklung/Kulintang",
 			"Ensemble - Gamelan",
 			"Ensemble - Guzheng"
+		],
+		"Clubs & Societies": [
+			"Pa Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -89,7 +93,7 @@
 			"Languages & Humanities": "English Communication Skills through Authentic Learning",
 			"Community & Youth Leadership": "GRC (Gratitude, Respect & Compassion) in Action"
 		},
-		"Special Student Development Programmes Offered": "HS has a strong conviction in character excellence as the school believes that strong values will provide students the impetus towards academic excellence. Therefore, the school's Learning for Life Programme - Community Youth Leadership programme, \"GRC in Action, A Hougean Way of Life\", provides a sustained and enhanced values education progressively over 4/5 years. Leveraging the 3Es approach to VIA (Enrich Minds, Encourage Hearts, Engage Hands), students take ownership of their involvement by understanding the needs of the community, co-constructing with and mentoring their peers to bring about awareness, action and advocacy in a community need. One signature event is the Secondary 3 Overseas Service Learning where students plan and serve in countries in the region. In order to nurture our Hougeans to be confident speakers, the school has embarked on an exciting journey in our Applied Learning Programme, \"English Communication Skills through Authentic Learning\" to promote communication skills using real life learning platforms. By furnishing our students with authentic settings and problems, they will be able to acquire useful and portable communication skills. The programme includes broadcasting, public speaking, debates, drama and journalism. HS provides a robust Teaching & Learning curriculum that focuses on experiential learning. Programmes include ICT-based multimedia project work: blogs, audio and video podcasts, learning journeys, learning experiences through critical reading, creative writing and strategic oral communication workshops, Sec 1 Math Trail, Sec 2 Maths Magic, HS Math Talent Programme, ELEMENTZ Science Research Conference and Exhibition, Funtasia (Science Fun Day), IHL Outreach Programme to University and Polytechnics, Humanities Inquiry Learning (Social Studies, Elective Geography/History), Earth Week, Life Run Carnival, Sec 2 Adventure Camp, Sports Education Programme, Inter-class Games, Interdisciplinary Project Work and SciTechHuMatics."
+		"Special Student Development Programmes Offered": "HS has a strong conviction in character excellence as the school believes that strong values will provide students the impetus towards academic excellence. Therefore, the school's Learning for Life Programme-Community Youth Leadership programme, \"GRC in Action, A Hougean Way of Life\", provides a sustained and enhanced values education progressively over 4/5 years. Leveraging on the Service Learning approach, students take ownership of their involvement by understanding the needs of a community, co-constructing with and mentoring their peers to bring about awareness, action and advocacy in the chosen community need. One signature programme is the Sec 3 Overseas Service Learning trip during which students gain global awareness through cross-cultural exposure and serving local community in ASEAN countries. In order to nurture our Hougeans to be confident and competent speakers, the school has embarked on an exciting journey in our Applied Learning Programme \"English Communication Skills through Authentic Learning\" to promote communication skills using real life learning platforms. By furnishing our students with authentic settings and problems, they will be able to acquire useful and transferable communication skills. The programme includes broadcasting, public speaking, debates, drama and journalism. HS provides a robust Teaching & Learning curriculum that focuses on experiential learning. Programmes include ICT-based multimedia project work: blogs, audio and video podcasts, learning journeys, learning experiences through critical reading, creative writing and strategic oral communication workshops, Sec 1 Math Trail, Sec 2 Maths Magic, HS Math Talent Programme, Funtasia (Science Fun Day), IHL Outreach Programme to University and Polytechnics, Humanities Inquiry Learning (Social Studies, Elective Geography/History), Earth Week, GRC Sports Carnival, Sec 2 Adventure Camp, Sports Education Programme, Inter-class Games, Interdisciplinary Project Work and SciTechHuMatics."
 	},
 	"AchievementHistory": {
 		"Secondary": {

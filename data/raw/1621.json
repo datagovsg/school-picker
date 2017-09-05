@@ -86,6 +86,113 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Soccer",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Malay": "Silver"
+				}
+			},
+			"2007": {
+				"SYF Central Judging": {
+					"Dance - Chinese": "Silver",
+					"Dance - Malay": "Silver",
+					"Choir": "Silver"
+				}
+			},
+			"2008": {
+				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - Malay": "Silver"
+				}
+			},
+			"2009": {
+				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - Malay": "Silver"
+				}
+			},
+			"2010": {
+				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Silver"
+				}
+			},
+			"2011": {
+				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Silver"
+				}
+			},
+			"2012": {
+				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Gold"
+				}
+			},
+			"2013": {
+				"SYF Arts Presentation": {
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Gold"
+				}
+			},
 			"2014": {
 				"SYF Arts Presentation": {
 					"Band - Concert": "Accomplishment",

@@ -1,10 +1,10 @@
 {
 	"code": "3009",
+	"name": "Raffles Institution",
 	"levels": "SJT",
 	"uen": " T07GS3009E",
 	"logo": "./Medias/Images/Schools/logos/tn_3009.jpg",
-	"name": "Raffles Institution",
-	"website": "http://www.ri.edu.sg/",
+	"website": "http://www.ri.edu.sg",
 	"address": "1, Raffles Institution Lane (575954)",
 	"telephone": [
 		"63538830 Year 1-4",
@@ -19,7 +19,7 @@
 		"Bishan MRT",
 		"Marymount MRT"
 	],
-	"bus": "410 , 13 , 52 , 53 , 54 , 55 , 56 , 57 , 58 , 59 , 88 , 128 , 156 , 93 , 157 , 163 , 54 , 74 , 851 , 852 , 130 , 132 , 162 , 165 , 166 , 167 , 855 , 980 ",
+	"bus": "410 , 13 , 50 , 52 , 53 , 54 , 55 , 56 , 57 , 58 , 59 , 74 , 88 , 93 , 128 , 130 , 132 , 156 , 157 , 162 , 163 , 165 , 166 , 167 , 851 , 852 , 855 , 980 ",
 	"GeneralInformation": {
 		"Principal": "Mr Chan Poh Meng",
 		"Vice Principal": [
@@ -31,7 +31,7 @@
 		],
 		"School Vision": "To be the 'Hope of a Better Age', as encapsulated in the school's Latin motto, Auspicium Melioris Aevi.",
 		"School Mission": "Nurturing Thinkers, Leaders and Pioneers of character who serve by leading and lead in serving.",
-		"School Philosophy, Culture and Ethos": "Founded in 1823, Raffles Institution (RI) aims to provide all students with an all-round education that enables them to excel in their many passions and pursuits. Our six-year Raffles Programme (RP) culminates in the GCE A-Level examinations. Graduating students also receive the Raffles Diploma (RD), a criterion-referenced certification which honours student participation and achievements in five key domains: Cognitive, Character and Leadership, Community and Citizenship, Sports and Health, and Arts and Aesthetics. It encourages Rafflesians to develop their particular strengths, talents and needs, as they prepare for life ahead. RI's special focus is on character and leadership development, particularly in giving back to the community. Student and CCA groups are actively involved in Values in Action activities. RI has committed to nurturing leaders who will contribute to the community by having its students explore social issues, exchange ideas, and generate solutions for a more sustainable and equitable future through a range of programmes and activities. In this way, the school inculcates in its students its ethos of being the 'hope of a better age'.",
+		"School Philosophy, Culture and Ethos": "Founded in 1823, Raffles Institution (RI) aims to provide all students with an all-round education that enables them to excel in their many passions and pursuits. Our six-year Raffles Programme (RP) culminates in the GCE A-Level examinations. Graduating students also receive the Raffles Diploma (RD), a criterion-referenced certification which honours student participation and achievements in five key domains: Cognitive, Character and Leadership, Community and Citizenship, Sports and Health, and Arts and Aesthetics. It encourages Rafflesians to develop their particular strengths, talents and needs, as they prepare for life ahead. RI's special focus is on character and leadership development, particularly in giving back to the community. Student and CCA groups are actively involved in Values in Action activities. RI has committed to nurturing leaders who will contribute to the community by having its students explore social issues, exchange ideas, and generate solutions for a more sustainable and equitable future through a range of programmes and activities. In this way, the school inculcates in its students her ethos of being the 'hope of a better age'.",
 		"Type of School": "Independent School / Co-ed School / Single Session",
 		"IP Partner Schools": "Raffles Girls' School (Secondary)",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -42,6 +42,7 @@
 		"Biology",
 		"Chemistry",
 		"Chinese",
+		"Design Thinking",
 		"English Language",
 		"Geography",
 		"Higher Chinese",
@@ -53,12 +54,15 @@
 		"Malay (Special Programme)",
 		"Mathematics",
 		"Music",
+		"Philosophy",
 		"Physics",
+		"Research Education",
 		"Social Studies",
 		"Tamil"
 	],
 	"Cca": {
 		"Physical Sports": [
+			"Air Rifle / Air Pistol",
 			"Badminton",
 			"Basketball",
 			"Cricket",
@@ -83,8 +87,10 @@
 			"Boys' Brigade",
 			"Ncc (Land)",
 			"Npcc",
+			"Raffles 01 & 02 Scouts",
 			"Raffles Scouts",
-			"Red Cross"
+			"Red Cross",
+			"Red Cross Youth"
 		],
 		"Visual and Performing Arts": [
 			"Guitar Ensemble",
@@ -110,6 +116,10 @@
 			"Raffles Debaters",
 			"Raffles Publications",
 			"Science Club"
+		],
+		"Others": [
+			"House Appointment",
+			"Prefectorial Board"
 		]
 	},
 	"SpecialProgrammes": {
@@ -119,7 +129,7 @@
 			"Language Elective Programme (English)",
 			"Music Elective Programme"
 		],
-		"Special Student Development Programmes Offered": "Character & Leadership Education Programme, Regional Studies Programme (RSP), Raffles Academy (for students with an exceptional aptitude in specific subjects), Gap Semester (a self-directed curriculum where students receive structured mentoring and gain knowledge of both local issues and global solutions), Raffles Leadership Programme, Raffles Science Institute (e.g. in-house research electives, external research attachments), E W Barker Institute of Sports (Sports Science Programme), RI Lecture Series (a Cabinet Minister is invited to speak to students) and RI Ambassador Series (an ambassador is invited to speak to students)."
+		"Special Student Development Programmes Offered": "Character & Leadership Education Programme, Regional Studies Programme (RSP), Raffles Academy (for students with an exceptional aptitude in specific subjects), GAP Semester (a self-directed curriculum where students receive structured mentoring and gain knowledge of both local issues and global solutions), Raffles Boarding Programme, Raffles Science Institute (e.g. in-house research electives, external research attachments), E W Barker Institute of Sports (Sports Science Programme), RI Lecture Series (a Cabinet Minister is invited to speak to students) and RI Ambassador Series (an ambassador is invited to speak to students)."
 	},
 	"AchievementHistory": {
 		"Secondary": {

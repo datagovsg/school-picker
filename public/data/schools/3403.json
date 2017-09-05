@@ -1,9 +1,9 @@
 {
 	"code": "3403",
+	"name": "Teck Whye Secondary School",
 	"levels": "S",
 	"uen": " T07GS3403D",
 	"logo": "./Medias/Images/Schools/logos/tn_3403.jpg",
-	"name": "Teck Whye Secondary School",
 	"website": "http://www.teckwhyesec.moe.edu.sg",
 	"address": "31, Teck Whye Crescent (688848)",
 	"telephone": [
@@ -42,7 +42,6 @@
 		"Chinese",
 		"Chinese B",
 		"Chinese N(A)",
-		"Co-curricular Activities",
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
 		"Computer Applications",
@@ -51,9 +50,7 @@
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
-		"Food & Nutrition",
 		"Food And Consumer Education",
-		"Food Studies, N Level",
 		"Malay",
 		"Malay N(A)",
 		"Mathematics",
@@ -62,7 +59,6 @@
 		"Physical Education",
 		"Physics",
 		"Principles Of A/C",
-		"Science",
 		"Science (Chem, Bio)",
 		"Science (Phy, Chem)",
 		"Science (Syll T)",
@@ -105,7 +101,7 @@
 			"STEM": "Re-designing the Future with Materials Science",
 			"Sports & Outdoor Education": "Sports and Sportsmanship Programme @ TWSS (Experience, Expose, Excel)"
 		},
-		"Special Student Development Programmes Offered": "Teck Whye Secondary School offers the Applied Learning Programme (ALP) which provides opportunities for students to learn interesting STEM (Science Technology Engineering Mathematics) applications in the area of Material Sciences and Engineering.  Students will learn more about material properties, integration with Robotics and applications in the context of Defence Science. The emphasis is on the design thinking, connecting knowledge from across disciplines, stretching the imagination and applying these in authentic settings and real world contexts. In the area of Co-Curriculum, excellent platforms are provided for our students to develop strength of character, values and inculcate the Growth Mindset to overcome challenges that come their way in life. It is with this that we have structured our Learning for Life Programme (LLP) for our students - the Sports Experience, the Sports Development and Sports Excellence. In particular, our strong Hockey programme - \"Nurturing Sports Stars of Tomorrow through Hockey\" seeks to further develop the skills of our students in the sport to lead and contribute at the national levels. Throughout these programmes, our students participate in and develop their passion and aptitude in the respective sports and activities. Sportsmanship values, character and attitudes are constantly emphasised.  Other key programmes offered include Leadership Development Programme, Dance Programme, Sec 3 Adventure and Leadership Camp and Talent Development Programme. The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "Teck Whye Secondary School offers the Applied Learning Programme (ALP) which provides opportunities for students to learn interesting STEM (Science Technology Engineering Mathematics) applications in the area of Material Sciences and Engineering.  Students will learn more about material properties, integration with Robotics and applications in the context of Defence Science. The emphasis is on the design thinking, connecting knowledge from across disciplines, stretching the imagination and applying these in authentic settings and real world contexts. In the area of Co-Curriculum, excellent platforms are provided for our students to develop strength of character, values and inculcate the Growth Mindset to overcome challenges that come their way in life. It is with this that we have structured our Learning for Life Programme (LLP) for our students - the Sports Experience, the Sports Development and Sports Excellence. In particular, our strong Hockey programme - \"Nurturing Sports Stars of Tomorrow through Hockey\" seeks to further develop the skills of our students in the sport to lead and contribute at the national levels. Throughout these programmes, our students participate in and develop their passion and aptitude in the respective sports and activities. Sportsmanship values, character and attitudes are constantly emphasised.  Other key programmes offered include Leadership Development Programme, Drama Programme, Sec 3 Adventure and Leadership Camp and Talent Development Programme."
 	},
 	"AchievementHistory": {
 		"Secondary": {

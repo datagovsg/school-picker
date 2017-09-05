@@ -111,6 +111,154 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
+			"2005": {},
+			"2006": {
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc": "Bronze"
+				}
+			},
+			"2007": {
+				"SYF Central Judging": {
+					"Dance - Chinese": "Bronze",
+					"Drama - English": "Bronze"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Bronze"
+				}
+			},
+			"2008": {
+				"SYF Central Judging": {
+					"Dance - Chinese": "Bronze",
+					"Drama - English": "Bronze"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Bronze"
+				}
+			},
+			"2009": {
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Drama - English": "Silver"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Npcc": "Bronze"
+				}
+			},
+			"2010": {
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Drama - English": "Silver"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Bronze",
+					"Red Cross": "Bronze"
+				}
+			},
+			"2011": {
+				"Outstanding Development Award": "ODA (National Education)",
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Bronze",
+					"Drama - English": "Silver"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc (Land)": "Bronze",
+					"Red Cross": "Bronze"
+				}
+			},
+			"2012": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - International": "Bronze",
+					"Drama - English": "Silver",
+					"Dance - Indian": "Silver"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Bronze",
+					"Red Cross": "Bronze"
+				}
+			},
+			"2013": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Commendation",
+					"Drama - English": "Commendation"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver"
+				}
+			},
 			"2014": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -314,6 +462,157 @@
 		}
 	},
 	"PsleAggregateHistory": {
+		"2005": {
+			"Express": [
+				"188",
+				"232",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"None-posted",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"63",
+				"111",
+				"None-posted"
+			]
+		},
+		"2006": {
+			"Express": [
+				"188",
+				"230",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"None-posted",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"73",
+				"100",
+				"None-posted"
+			]
+		},
+		"2007": {
+			"Express": [
+				"188",
+				"229",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"113",
+				"117",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"75",
+				"108",
+				"None-posted"
+			]
+		},
+		"2008": {
+			"Express": [
+				"188",
+				"234",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"120",
+				"131",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"72",
+				"109",
+				"None-posted"
+			]
+		},
+		"2009": {
+			"Express": [
+				"188",
+				"265",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"113",
+				"128",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"78",
+				"108",
+				"None-posted"
+			]
+		},
+		"2010": {
+			"Express": [
+				"190",
+				"246",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"195",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"87",
+				"152",
+				"None-posted"
+			]
+		},
+		"2011": {
+			"Express": [
+				"188",
+				"241",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"190",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"72",
+				"149",
+				"None-posted"
+			]
+		},
+		"2012": {
+			"Express": [
+				"188",
+				"220",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"194",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"116",
+				"159",
+				"None-posted"
+			]
+		},
+		"2013": {
+			"Express": [
+				"188",
+				"239",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"118",
+				"151",
+				"None-posted"
+			]
+		},
 		"2014": {
 			"Express": [
 				"188",

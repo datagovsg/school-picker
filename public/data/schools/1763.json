@@ -1,9 +1,9 @@
 {
 	"code": "1763",
+	"name": "Hougang Primary School",
 	"levels": "P",
 	"uen": " T07GS1763C",
 	"logo": "./Medias/Images/Schools/logos/tn_1763.jpg",
-	"name": "Hougang Primary School",
 	"website": "http://www.hougangpri.moe.edu.sg/",
 	"address": "1, Hougang St 93 (534238)",
 	"telephone": [
@@ -15,9 +15,11 @@
 	"email": "HOUGANG_PS@MOE.EDU.SG",
 	"mrt": [
 		"Yio Chu Kang MRT",
-		"Ang Mo Kio MRT"
+		"Ang Mo Kio MRT",
+		"Hougang MRT",
+		"Buangkok MRT"
 	],
-	"bus": "SBS 325 , 88 , 72 , 159 , 156 ",
+	"bus": "SBS 43 , 72 , 88 , 101 , 109 , 116 , 156 , 159 , 325 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Rashidah Bte Abdul Rasip",
 		"Vice Principal": "Miss Liew Pang Hai",
@@ -29,26 +31,52 @@
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
 	},
-	"SubjectOffered": [],
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Co-curricular Activities",
+		"English Language",
+		"Foundation Chinese",
+		"Foundation English",
+		"Foundation Malay",
+		"Foundation Mathematics",
+		"Foundation Science",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
 	"Cca": {
 		"Physical Sports": [
 			"Football",
+			"Hockey",
+			"Volleyball",
 			"Wushu"
 		],
 		"Uniformed Groups": [
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Band - Brass",
 			"Dance - Ballet",
 			"Dance - Chinese",
 			"Dance - Indian",
 			"Dance - Malay",
+			"Drama Club",
 			"Ensemble - Angklung/Kulintang",
 			"Ensemble - Guzheng",
 			"Pottery Club"
 		],
 		"Clubs & Societies": [
-			"Green Club - E2k",
+			"Chess Club",
+			"Green Club - Environment",
+			"Infocomm Club-Coding",
 			"Library"
 		]
 	},

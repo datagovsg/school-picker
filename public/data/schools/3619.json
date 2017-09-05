@@ -1,10 +1,10 @@
 {
 	"code": "3619",
+	"name": "Kent Ridge Secondary School",
 	"levels": "S",
 	"uen": " T07GS3619L",
 	"logo": "./Medias/Images/Schools/logos/tn_3619.jpg",
-	"name": "Kent Ridge Secondary School",
-	"website": "http://www.kentridgesec.moe.edu.sg/",
+	"website": "http://www.kentridgesec.moe.edu.sg",
 	"address": "147, West Coast Road (127368)",
 	"telephone": [
 		"67731127"
@@ -92,6 +92,7 @@
 			"Drama Club"
 		],
 		"Clubs & Societies": [
+			"Debate Society",
 			"Earth Club",
 			"Infocomm And Robotics Club",
 			"Media Club",
@@ -103,7 +104,7 @@
 			"STEM": "Developing Computational Thinking through Robotics",
 			"Sports & Outdoor Education": "Outdoor Education for Development of Leadership Skills"
 		},
-		"Special Student Development Programmes Offered": "At Kent Ridge, we are committed to providing a holistic education for all our students anchored on our school values of Fitness of Mind and Body; Integrity in Word and Deed; Respect for Self, Community and Environment and Excellence in All Our Endeavours. The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects. Students will also have opportunities to take part in key programmes including: Character and Citizenship Education with a focus on personal and social life-skills; Learning for Life Programme (Sports and Outdoor Education); Applied Learning Programme (Robotics); Values-in-Action Programme; National Education; Student Leadership Development; Elective Modules; Advanced Elective Modules; Career Guidance; Internationalisation Programme; Subject-based Enrichment Modules; Family Matters! programmes; after school engagement programmes."
+		"Special Student Development Programmes Offered": "At Kent Ridge, we are committed to providing a holistic education for all our students anchored on our school values of Fitness of Mind and Body; Integrity in Word and Deed; Respect for Self, Community and Environment and Excellence in All Our Endeavours. Students will have opportunities to take part in key programmes including: Character and Citizenship Education with a focus on personal and social life-skills; Learning for Life Programme (Sports and Outdoor Education); Applied Learning Programme (Robotics); Values-in-Action Programme; National Education; Student Leadership Development; Elective Modules; Advanced Elective Modules; Career Guidance; Internationalisation Programme; Subject-based Enrichment Modules; Family Matters! programmes; After School Engagement programmes."
 	},
 	"AchievementHistory": {
 		"Secondary": {

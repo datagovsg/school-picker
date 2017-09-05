@@ -1,9 +1,9 @@
 {
 	"code": "1145",
+	"name": "Blangah Rise Primary School",
 	"levels": "P",
 	"uen": " T07GS1145F",
 	"logo": "./Medias/Images/Schools/logos/tn_1145.jpg",
-	"name": "Blangah Rise Primary School",
 	"website": "http://www.blangahrisepri.moe.edu.sg/",
 	"address": "91, Telok Blangah Heights (109100)",
 	"telephone": [
@@ -56,6 +56,9 @@
 	],
 	"Cca": {},
 	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Sports & Outdoor Education": "The RISE3 (Explore, Empower, Enrich) Outdoor Experience"
+		},
 		"Special Student Development Programmes Offered": "The Blangah Rise Experience  The school offers a unique Blangah Rise education experience that is customized to the needs of each child. Based on the Skillful Teaching pedagogical approach, each lesson design is based on principles of learning and incorporates ways of managing attention, discipline and motivation of the learner.   The lesson design also considers the learning experiences and we differentiate our instructions based on the individual readiness and interests of each child. Hence a child who might require greater support will be given more scaffolding to build up his or her competencies. The learning experience is also further enhanced through blended learning strategies with the use of ICT tools, such as iPads, where students at their own pace could acquire or create new knowledge.  As part of inculcating the love and joy for learning, students have a voice in shaping the way they learn and we give them space to create and to tinker. We share their learning and creations proudly as we display their efforts in class and throughout the school.   In addition, the school designed numerous experiences to develop each child holistically and acquire strong fundamentals in literacy, numeracy, character, knowledge and 21st century competencies. Such experiences often take advantage of our close proximity to the Southern Ridges and Sentosa where we conduct trails for the public or provide entrepreneur opportunities as the children man stalls in Sentosa to raise funds for charity. Our children also have the opportunity to acquire digital media skills as they will be provided with digital cameras for photography and videography that will provide them with another medium of expression. Through our Programme for Active Learning, our children acquire social-emotional competencies to exercise better self-management and responsible decision making."
 	},
 	"AchievementHistory": {

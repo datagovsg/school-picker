@@ -1,9 +1,9 @@
 {
 	"code": "5623",
+	"name": "Pei Hwa Presbyterian Primary School",
 	"levels": "P",
 	"uen": " T07GS5623L",
 	"logo": "./Medias/Images/Schools/logos/tn_5623.jpg",
-	"name": "Pei Hwa Presbyterian Primary School",
 	"website": "http://www.peihwapresbyterianpri.moe.edu.sg/",
 	"address": "7, Pei Wah Avenue (597610)",
 	"telephone": [
@@ -83,7 +83,11 @@
 			"SAP"
 		],
 		"School Distinctive Programmes": {
-			"Languages": "Competent, Confident Communicators (C³) – A 6 year progressive programme.",
+			"Languages": [
+				"Competent, Confident Communicators (C",
+				null,
+				") – A 6 year progressive programme."
+			],
 			"Sports & Outdoor Education": "STAR (Self-defence, Track & field, Adventure and Racquet games) @ PHPPS"
 		},
 		"Special Student Development Programmes Offered": "Chinese Arts Programme (CAP) for P1 - P6; Art and music lessons are taught in Chinese for P1 - P3 Leadership development for all"
@@ -420,11 +424,6 @@
 				},
 				{
 					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
 					"category": "Dance - Chinese",
 					"award": "Distinction"
 				},
@@ -442,6 +441,11 @@
 					"year": "2016",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -467,12 +471,12 @@
 				},
 				{
 					"year": "2016",
-					"category": "Girls' Brigade",
+					"category": "Boys' Brigade",
 					"award": "Gold"
 				},
 				{
 					"year": "2016",
-					"category": "Boys' Brigade",
+					"category": "Girls' Brigade",
 					"award": "Gold"
 				}
 			]

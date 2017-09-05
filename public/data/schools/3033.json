@@ -1,9 +1,9 @@
 {
 	"code": "3033",
+	"name": "Bedok North Secondary School",
 	"levels": "S",
 	"uen": " T07GS3033L",
 	"logo": "./Medias/Images/Schools/logos/tn_3033.jpg",
-	"name": "Bedok North Secondary School",
 	"website": "http://www.bedoknorthsec.moe.edu.sg",
 	"address": "20, Jalan Damai (419612)",
 	"telephone": [
@@ -66,7 +66,7 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Floorball Boys/Girls"
+			"Floorball"
 		],
 		"Uniformed Groups": [
 			"Ncc (Land)"

@@ -1,9 +1,9 @@
 {
 	"code": "1249",
+	"name": "Beacon Primary School",
 	"levels": "P",
 	"uen": " T07GS1249C",
 	"logo": "./Medias/Images/Schools/logos/tn_1249.jpg",
-	"name": "Beacon Primary School",
 	"website": "http://www.beaconpri.moe.edu.sg",
 	"address": "36, Bukit Panjang Ring Road (679944)",
 	"telephone": [
@@ -139,11 +139,6 @@
 				},
 				{
 					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
 					"category": "Art - Category A",
 					"award": "Recognition(Sm)"
 				},
@@ -161,6 +156,11 @@
 					"year": "2016",
 					"category": "Dance - Malay",
 					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [

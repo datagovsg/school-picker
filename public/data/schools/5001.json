@@ -1,9 +1,9 @@
 {
 	"code": "5001",
+	"name": "Anglo-Chinese School (Junior)",
 	"levels": "P",
 	"uen": " T07GS5001H",
 	"logo": "./Medias/Images/Schools/logos/tn_5001.jpg",
-	"name": "Anglo-Chinese School (Junior)",
 	"website": "http://www.acsj.moe.edu.sg",
 	"address": "16, Winstedt Road (227988)",
 	"telephone": [
@@ -647,7 +647,7 @@
 					"year": "2016",
 					"category": "Swimming",
 					"subCategory": [
-						"Zone",
+						"National",
 						"Boys",
 						"'B' Div"
 					],
@@ -657,7 +657,7 @@
 					"year": "2016",
 					"category": "Swimming",
 					"subCategory": [
-						"Zone",
+						"National",
 						"Boys",
 						"'C' Div"
 					],
@@ -667,7 +667,7 @@
 					"year": "2016",
 					"category": "Swimming",
 					"subCategory": [
-						"Zone",
+						"National",
 						"Boys",
 						"'D' Div"
 					],

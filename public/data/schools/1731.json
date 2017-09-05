@@ -1,9 +1,9 @@
 {
 	"code": "1731",
+	"name": "Xingnan Primary School",
 	"levels": "P",
 	"uen": " T07GS1731G",
 	"logo": "./Medias/Images/Schools/logos/tn_1731.jpg",
-	"name": "Xingnan Primary School",
 	"website": "http://www.xingnanpri.moe.edu.sg",
 	"address": "5, Jurong West Street 91 (649036)",
 	"telephone": [
@@ -62,22 +62,23 @@
 			"Volleyball"
 		],
 		"Uniformed Groups": [
-			"Scouts"
+			"Scouts & Girl Guides"
 		],
 		"Visual and Performing Arts": [
-			"Art And Craft Club",
 			"Band - Brass",
 			"Choir",
 			"Dance - Chinese",
 			"Dance - Indian",
 			"Dance - International",
-			"Dance - Malay",
-			"Pottery Club"
+			"Malay Dance",
+			"Pottery Club",
+			"Visual Art"
 		],
 		"Clubs & Societies": [
 			"Diabolo",
 			"Environmental Club",
-			"Infocom Club"
+			"Health And Fitness Club",
+			"Infocomm Club"
 		]
 	},
 	"SpecialProgrammes": {

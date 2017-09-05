@@ -17,10 +17,7 @@
 	"bus": "21 , 125 , 130 , 139 , 145 , 13 , 23 , 31 , 64 , 65 , 133 , 147 , 857 , 985 ",
 	"GeneralInformation": {
 		"Principal": "MR MARTIN TAN SIEW KIN",
-		"Vice Principal": [
-			"MR RAJ KUMAR S/O V SIVALINGAM",
-			"MS YEO LAY CHOO JAYVIN"
-		],
+		"Vice Principal": "MR RAJ KUMAR S/O V SIVALINGAM",
 		"Vice Principal (Admin)": "MISS AMANDA LOH",
 		"School Vision": "A choice school of youth prepared for life and living.",
 		"School Mission": "To provide an engaging career-oriented and values-focused education for youth in preparing them for lifelong learning and employability.",
@@ -64,6 +61,174 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
+			"2005": {},
+			"2006": {},
+			"2007": {},
+			"2008": {},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				]
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				]
+			},
+			"2011": {
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)",
+					"Outstanding PARTNERS"
+				],
+				"Achievement Award": "CHERISH Award"
+			},
+			"2012": {
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)",
+					"Outstanding PARTNERS"
+				]
+			},
+			"2013": {
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)",
+					"Outstanding PARTNERS"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				]
+			},
 			"2014": {
 				"Outstanding Development Award": [
 					"ODA (Character Development)",
@@ -135,6 +300,15 @@
 		}
 	},
 	"PsleAggregateHistory": {
+		"2005": {},
+		"2006": {},
+		"2007": {},
+		"2008": {},
+		"2009": {},
+		"2010": {},
+		"2011": {},
+		"2012": {},
+		"2013": {},
 		"2014": {},
 		"2015": {},
 		"2016": {},

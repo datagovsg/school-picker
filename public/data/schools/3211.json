@@ -1,10 +1,10 @@
 {
 	"code": "3211",
+	"name": "Jurong Secondary School",
 	"levels": "S",
 	"uen": " T07GS3211B",
 	"logo": "./Medias/Images/Schools/logos/tn_3211.jpg",
-	"name": "Jurong Secondary School",
-	"website": "http://www.jurongsec.moe.edu.sg/",
+	"website": "http://www.jurongsec.moe.edu.sg",
 	"address": "31, Yuan Ching Road (618652)",
 	"telephone": [
 		"62655980"
@@ -21,7 +21,7 @@
 		"Principal": "Mdm Tan Yok Ching Ruby",
 		"Vice Principal": "Mr Sheik Alaudin B Mohd Ismail",
 		"Vice Principal (Admin)": "Miss Koh Mui Gek",
-		"School Vision": "Learn with Purpose Serve with Passion Lead with Heart",
+		"School Vision": "Learn with Purpose   Serve with Passion   Lead with Heart",
 		"School Mission": "Nurturing Hearts, Enriching Minds -  With the Community, For the Community.",
 		"School Philosophy, Culture and Ethos": "Jurong Secondary School (JSS) was founded in 1963 at the request of community leaders to our Founding Prime Minister, Mr Lee Kuan Yew, when he made his first visit to the Jurong Constituency. Originally named Jurong Integrated Secondary School, the school offered both the English and Chinese streams. That JSS became widely known for its rich Chinese heritage and strong community partnerships stemmed from this unique history. Since its founding, JSS honours its commitment to the community by offering an all-round education for our students. Innovative programmes guided by our school values of Loyalty, Industry, Sincerity, and Love were introduced to nurture our students' character and cultivate thinking and independent learning, enabling them to pursue excellence in all that they do and grow as concerned citizens with a heart for and who contribute meaningfully back to the community. As a pioneer of the FutureSchool@Singapore project, our school leverages ICT to design a student-centric learning experience that emphasises acquisition of 21st century competencies.",
 		"Type of School": "Government School / Co-ed School / Single Session",
@@ -46,12 +46,12 @@
 		"Literature(E)",
 		"Malay",
 		"Mathematics",
+		"Mobile Robotics",
 		"Music",
 		"Physical Education",
 		"Physics",
-		"Principles Of A/C",
+		"Principles Of Accounts",
 		"Science (Chem, Bio)",
-		"Science (Phy, Bio)",
 		"Science (Phy, Chem)",
 		"Social Studies",
 		"Tamil"
@@ -74,11 +74,11 @@
 			"Singapore Red Cross Society"
 		],
 		"Visual and Performing Arts": [
-			"Asian Languages & Cultural Club",
+			"Asian Languages & Culture Club",
 			"Band - Symphonic",
 			"Choir",
+			"Contemporary Dance",
 			"English Drama Club",
-			"I.Dance.Ity",
 			"Media And Visual Arts",
 			"Orchestra - Chinese"
 		],
@@ -93,7 +93,7 @@
 			"Languages & Humanities": "Environmental Studies: An Inter-disciplinary Approach To Sustainable Living",
 			"Sports & Outdoor Education": "Sports For Life: Leading a Sporty and Sporting Lifestyle"
 		},
-		"Special Student Development Programmes Offered": "In JSS, we value every student, believing that they can contribute meaningfully to the society in all that they do. Our Special Programmes are designed to nurture their hearts and minds, in order for them to become contributing members of the society.   In the area of character development, building on our heritage of sporting excellence, sports was identified as the driver for our Learning for Life Programme (LLP). It leverages participation in sports to build students' physical fitness and nurture strong character and desired values. Project [COM]passion, which seeks to grow in our students an appreciation of the needs of the less fortunate in the community, is a platform for them to take initiative to plan and implement meaningful improvement projects to benefit the school and community. And to encourage our students to discover and explore interest areas beyond the core curriculum yet offer them insights on possible post-secondary and career options, the taught modules under our InSPire Programme takes into account emerging trends in different industries.  To complement our students' academic development, we offer our Environmental Studies Applied Learning Program (ALP) and 4-year talent based Research Scholarship Programme. While the former promotes critical thinking through exploration of environmental issues and study of environmental sustainability, the latter provides opportunities for our students to broaden their perspectives about social issues and cultivate good team dynamics and skills necessary to positively impact the community in future.   The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "In JSS, we value every student, believing that they can contribute meaningfully to the society in all that they do. Our Special Programmes are designed to nurture their hearts and minds, in order for them to become contributing members of the society.   In the area of character development, building on our heritage of sporting excellence, sports was identified as the driver for our Learning for Life Programme (LLP). It leverages participation in sports to build students' physical fitness and nurture strong character and desired values. Project [COM]passion, which seeks to grow in our students an appreciation of the needs of the less fortunate in the community, is a platform for them to take initiative to plan and implement meaningful improvement projects to benefit the school and community. And to encourage our students to discover and explore interest areas beyond the core curriculum yet offer them insights on possible post-secondary and career options, the taught modules under our InSPire Programme takes into account emerging trends in different industries.  To complement our students' academic development, we offer our Environmental Studies Applied Learning Program (ALP) and 4-year talent based Research Scholarship Programme. While the former promotes critical thinking through exploration of environmental issues and study of environmental sustainability, the latter provides opportunities for our students to broaden their perspectives about social issues and cultivate good team dynamics and skills necessary to positively impact the community in future."
 	},
 	"AchievementHistory": {
 		"Secondary": {

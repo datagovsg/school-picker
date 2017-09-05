@@ -1,9 +1,9 @@
 {
 	"code": "1246",
+	"name": "Farrer Park Primary School",
 	"levels": "P",
 	"uen": " T07GS1246D",
 	"logo": "./Medias/Images/Schools/logos/tn_1246.jpg",
-	"name": "Farrer Park Primary School",
 	"website": "http://www.farrerparkpri.moe.edu.sg",
 	"address": "2, Farrer Park Road (217567)",
 	"telephone": [
@@ -20,7 +20,6 @@
 	"GeneralInformation": {
 		"Principal": "Miss Cheong Hwee Khim",
 		"Vice Principal": "Mr Ramesh Mukundhan",
-		"Vice Principal (Admin)": "Mdm Phila Anne Tan Ah Lek",
 		"School Vision": "Fountain of Knowledge - A Confident Person who is able to learn, unlearn, relearn. Heart of Gold - A Caring Leader who is able to listen, empathise, serve.",
 		"School Mission": "Creating Opportunities,  Accepting Challenges, Nurturing Character",
 		"School Philosophy, Culture and Ethos": "In Farrer Park Primary School (FPPS), we believe that every child must grow up to be gentle and humble in spirit, generous in compassion, always gracious and respectful towards others.  He must agrow up, a dignified individual and a caring leader who contributes actively to the community in his own capacity. We believe that every child must develop the spirit of adventure to explore and pursue his interests, his talents, and his imagination, his sense of curiosity and wonder.  He must also develop his cognitive and linguistic abilities to express his thoughts and opinions confidently and critically.  Importantly, he must grow up with the disposition and ability to learn, unlearn and relearn so that he will be well placed in secondary school, and for the future. We believe that every child must find joy in learning and be inspired to be the best that he can be, and to achieve the best that he can in his learning. He should set high expectations for himself in his pursuits of his interests and talents and find his sense of purpose and meaningfulness in what he wishes to do or to grow up to become. We believe that every child learns best when the environment is safe and nurturing; and he is free to express himself: his needs, his aspirations, his thoughts and his feelings. The learning environment should also encourage him to interact with one another through which he learns to appreciate diverse perspectives and ideas, the needs of others and itheir interests. We believe in the growth mindset that the child can achieve far more than what we can imagine because every child can learn and find success, given the right conditions. We will affirm every child's efforts to learn and guide him in his pursuits.  We believe that success is defined more than mere grades or scores; it is about developing the whole child. As educators in FPPS, every child that passes through our hands is special; each different, each with hopes and dreams, everyone important.",
@@ -55,7 +54,10 @@
 	"Cca": {
 		"Physical Sports": [
 			"Badminton",
-			"Basketball"
+			"Basketball",
+			"Swimming",
+			"Tchoukball",
+			"Tennis"
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
@@ -63,9 +65,12 @@
 		],
 		"Visual and Performing Arts": [
 			"Art  Club",
-			"Brass Band"
+			"Brass Band",
+			"Dance Club",
+			"Drama Club"
 		],
 		"Clubs & Societies": [
+			"Environmental Club",
 			"Infocomm Club"
 		],
 		"Others": [

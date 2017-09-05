@@ -1,9 +1,9 @@
 {
 	"code": "3204",
+	"name": "Bukit Panjang Govt. High School",
 	"levels": "S",
 	"uen": " T07GS3204G",
 	"logo": "./Medias/Images/Schools/logos/tn_3204.jpg",
-	"name": "Bukit Panjang Govt. High School",
 	"website": "http://www.bpghs.moe.edu.sg",
 	"address": "7, Choa Chu Kang Ave 4 (689809)",
 	"telephone": [
@@ -19,8 +19,10 @@
 	"bus": "300 , 983 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Chan Wan Siong",
-		"Vice Principal": "Mr Darren Chong Wai Ki",
-		"Vice Principal (Admin)": "Mr Wong Lih Jia",
+		"Vice Principal": [
+			"Mr Darren Chong Wai Ki",
+			"Miss Tan Peiru"
+		],
 		"School Vision": "Every BPian a passionate learner, an inspiring leader",
 		"School Mission": "To ignite the joy of learning through a holistic education and develop leaders with a heart to serve",
 		"School Philosophy, Culture and Ethos": "BPGHS offers a student-focussed environment that is responsive to the needs and expectations of BPians, providing opportunities for each to develop his/ her talent and passion as well as to stretch his/ her potential.  The school expects all BPians to uphold school values and sets high expectations for them in terms of academic performance and character education.  Through an engaging curriculum, BPians are equipped with the confidence to be self-directed learners who are determined to excel by pursuing learning passionately.  Through an enriching co-curriculum, BPians are equipped with the qualities and competencies to inspire and lead others to serve the school and the community.",
@@ -38,14 +40,11 @@
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Chinese B",
-		"Chinese N(A)",
 		"Civics & Moral Education",
 		"Computer Applications",
 		"Design & Technology",
 		"Elements Of Business Skills",
 		"English Language",
-		"English Language (Syll A)",
 		"English Language (Syll T)",
 		"Food & Nutrition",
 		"Food And Consumer Education",
@@ -61,7 +60,6 @@
 		"Literature In Malay",
 		"Literature(E)",
 		"Malay",
-		"Malay N(A)",
 		"Mathematics",
 		"Mathematics (Syllabus A)",
 		"Mathematics (Syllabus T)",

@@ -1,10 +1,10 @@
 {
 	"code": "3015",
+	"name": "Whitley Secondary School",
 	"levels": "S",
 	"uen": " T07GS3015D",
 	"logo": "./Medias/Images/Schools/logos/tn_3015.jpg",
-	"name": "Whitley Secondary School",
-	"website": "http://www.whitleysec.moe.edu.sg/",
+	"website": "http://www.whitleysec.moe.edu.sg",
 	"address": "30, Bishan Street 24 (579747)",
 	"telephone": [
 		"64561336"
@@ -105,10 +105,8 @@
 		],
 		"Clubs & Societies": [
 			"Broadcasting Club",
-			"Green Club",
 			"Infocomm Club",
-			"Innovation And Enterprise Club",
-			"Library"
+			"Innovation And Enterprise Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -116,7 +114,7 @@
 			"Languages": "Speech Communication Arts",
 			"Community & Youth Leadership": "Active Citizenship for Social Change"
 		},
-		"Special Student Development Programmes Offered": "We are committed to creating the Whitley Experience which is focused on building a strong foundation for academic success and developing students' interests and strengths through core academic and student development programmes.  The school's Learning for Life Programme, \"Active Citizenship for Social Change\", seeks to nurture active concerned citizens. Focussed on building empathy and ownership of societal issues, it provides opportunities for every Whitleyan to hone his skills in design thinking to better understand the needs of the community, co-construct solutions or advocate for social causes.  The school's Applied Learning Programme, \"Speech Communication Arts\", nurtures students to be confident and self-directed learners with a curriculum that enhances communication skills through speech and art forms such as public speaking and drama. We have a Talent Development Programme to nurture students' academic strengths, providing training opportunities such as Author-in-Residence, debating and Olympiad trainings, and challenging students to excel through participation in competitions and projects. Another key element of our school programmes is our focus on leadership development and building of qualities such as resilience, team work, empathy, sound planning, among others. This is done through our cohort camps, student leaders programme and Overseas Service Learning. We are implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "We are committed to creating the Whitley Experience which is focused on building a strong foundation for academic success and developing students' interests and strengths through core academic and student development programmes.  The school's Learning for Life Programme, \"Active Citizenship for Social Change\", seeks to nurture active concerned citizens. Focused on building empathy and ownership of societal issues, it provides opportunities for every Whitleyan to hone his skills in design thinking to better understand the needs of the community, co-construct solutions or advocate for social causes.  The school's Applied Learning Programme, \"Speech Communication Arts\", nurtures students to be confident and self-directed learners with a curriculum that enhances communication skills through speech and art forms such as public speaking and drama. We have a Talent Development Programme to nurture students' academic strengths, providing training opportunities such as Author-in-Residence, debating and Olympiad training, and challenging students to excel through participation in competitions and projects. Another key element of our school programmes is our focus on leadership development and building of qualities such as resilience, team work, empathy, sound planning, among others. This is done through our cohort camps, student leaders programme and Overseas Service Learning."
 	},
 	"AchievementHistory": {
 		"Secondary": {

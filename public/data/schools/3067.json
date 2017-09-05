@@ -1,10 +1,10 @@
 {
 	"code": "3067",
+	"name": "West Spring Secondary School",
 	"levels": "S",
 	"uen": " T07GS3067K",
 	"logo": "./Medias/Images/Schools/logos/tn_3067.jpg",
-	"name": "West Spring Secondary School",
-	"website": "http://www.westspringsec.moe.edu.sg/",
+	"website": "http://www.westspringsec.moe.edu.sg",
 	"address": "61, Senja Road (677737)",
 	"telephone": [
 		"68920369"
@@ -43,6 +43,7 @@
 		"Elements Of Business Skills",
 		"English Language",
 		"Food & Nutrition",
+		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
 		"History",
@@ -51,9 +52,11 @@
 		"Malay",
 		"Mathematics",
 		"Music",
+		"Physical Education",
 		"Physics",
 		"Principles Of A/C",
 		"Project Work",
+		"Science",
 		"Science (Chem, Bio)",
 		"Science (Phy, Chem)"
 	],
@@ -61,7 +64,6 @@
 		"Physical Sports": [
 			"Badminton",
 			"Football",
-			"Healthy Lifestyle (Oosh) Club",
 			"Netball",
 			"Shooting",
 			"Volleyball"
@@ -93,7 +95,7 @@
 			"Languages & Humanities": "MeLit - Critical Thinking and Effective Communication through Media Literacy",
 			"Sports & Outdoor Education": "FOCUS (Finding, Optimising, Communicating, Understanding Sports)"
 		},
-		"Special Student Development Programmes Offered": "The school is implementing greater flexibility in subject offering at lower secondary levels.  Eligible N(A)and N(T)  students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results.  Beyond the start of Secondary 1, students can also do so if they do well in those subjects. The school offers 'Critical Thinking and Effective Communication Through Media Literacy' (MeLIT) as its Applied Learning Programme and 'Finding, Optimising, Communicating and Understanding Sports' (FOCUS) as its Learning for Life Programme. MeLIT is a three-year programme which incorporates various elements of the Humanities Instructional Programme to develop students' skills of evaluating sources, and creating media products to deliver specific messages. FOCUS emphasises broad-based development for students in terms of core values, fundamental skills and physical competencies which provide a strong foundation for the learning, participation and enjoyment of a wide variety of physical activities and sports. To nurture students into Global Citizens of Character and Learning, all Sec 1 students attend a Character Development Camp, all Sec 2 students participate in an Adventure Camp and all Sec 3 students carry out Overseas Values-in-Action (VIA) projects. There are opportunities for Student Leaders to take part in student exchange programmes with schools in Cambodia, India, Taiwan and Australia. In addition, students take part in Integrated Humanities and CCE Learning Journeys, CCE Lectures, Harmony@Senja (Integrated VIA/CCE Programme) and Leadership Development Programmes. Co-curricular programmes include a 2-year ICT Programme, Swimming, Advanced Elective Modules for Sec 3 students, Elective Modules for Sec 2, 3 and 4 NT students, as well as work experience/attachment."
+		"Special Student Development Programmes Offered": "The school offers 'Critical Thinking and Effective Communication Through Media Literacy' (MeLIT) as its Applied Learning Programme and 'Finding, Optimising, Communicating and Understanding Sports' (FOCUS) as its Learning for Life Programme. MeLIT is a three-year programme which incorporates various elements of the Humanities Instructional Programme to develop students' skills of evaluating sources, and creating media products to deliver specific messages. FOCUS emphasises broad-based development for students in terms of core values, fundamental skills and physical competencies which provide a strong foundation for the learning, participation and enjoyment of a wide variety of physical activities and sports. To nurture students into Global Citizens of Character and Learning, all Sec 1 students attend a Character Development Camp, all Sec 2 students participate in an Adventure Camp and all Sec 3 students carry out Overseas Values-in-Action (VIA) projects. There are opportunities for Student Leaders to take part in student exchange programmes with schools in Cambodia, India, Taiwan and Australia. In addition, students take part in Integrated Humanities and CCE Learning Journeys, CCE Lectures, Harmony@Senja (Integrated VIA/CCE Programme) and Leadership Development Programmes. Co-curricular programmes include a 2-year ICT Programme, Swimming, Advanced Elective Modules for Sec 3 students, Elective Modules for Sec 2, 3 and 4 NT students, as well as work experience/attachment."
 	},
 	"AchievementHistory": {
 		"Secondary": {

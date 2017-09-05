@@ -1,10 +1,10 @@
 {
 	"code": "3231",
+	"name": "Ping Yi Secondary School",
 	"levels": "S",
 	"uen": " T07GS3231A",
 	"logo": "./Medias/Images/Schools/logos/tn_3231.jpg",
-	"name": "Ping Yi Secondary School",
-	"website": "http://www.pingyisec.moe.edu.sg/",
+	"website": "http://www.pingyisec.moe.edu.sg",
 	"address": "61, Chai Chee Street (468980)",
 	"telephone": [
 		"64489580"
@@ -37,7 +37,6 @@
 		"Chinese",
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
-		"Combined Humanities (S,L)",
 		"Computer Applications",
 		"Design & Technology",
 		"English Language",
@@ -61,6 +60,7 @@
 	"Cca": {
 		"Physical Sports": [
 			"Basketball",
+			"Cricket",
 			"Netball",
 			"Sepak Takraw",
 			"Tchoukball"
@@ -72,9 +72,12 @@
 		],
 		"Visual and Performing Arts": [
 			"Angklung/Kulintang",
-			"Band - Display/Marching",
+			"Band - Display/Percussion",
 			"Choir",
 			"Dance Society"
+		],
+		"Clubs & Societies": [
+			"Infocom Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -82,7 +85,7 @@
 			"STEM": "Design Education and Aeronautical Engineering",
 			"Community & Youth Leadership": "Leadership through CCE"
 		},
-		"Special Student Development Programmes Offered": "Design and Aeronautical Engineering @ Ping Yi (our distinctive applied learning programme) provides our students the opportunity to be trained extensively in design protocol, a design process skillset that gives students a structured approach towards enhancing their critical thinking skills in design principles and developing ideas and solutions. They learn the Art and Science of Flight: from Aerodynamics (the theory of flight), to Aeronautics (the movement of planes in the air) and Aircraft Design (flying with style). Design and aeronautical fundamentals have also been integrated into the Maths and Science curriculum to deepen students understanding. In partnership with Polytechnics and industry partners, and through our Young Designer series of authentic learning experiences and workshops, our students experience the challenges of design and production in a fun and dynamic way. Elements of entrepreneurship are introduced to allow students to conduct feasibility and scalability studies, and to communicate their proposals effectively.  Our Leadership through Character and Citizenship Education (our distinctive life-long learning programme) programme provides opportunities for our students to develop desired character traits like resilience, tenacity, initiative, team spirit and an orientation towards excellence. Annual level camps, values in action activities, work experience, local and overseas service learning, the NYAA platform and leadership modules provide ample opportunities for students to further develop their competencies and to serve the community. The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "Design and Aeronautical Engineering @ Ping Yi (our distinctive applied learning programme) provides our students the opportunity to be trained extensively in design protocol, a design process skillset that gives students a structured approach towards enhancing their critical thinking skills in design principles and developing ideas and solutions. They learn the Art and Science of Flight: from Aerodynamics (the theory of flight), to Aeronautics (the movement of planes in the air) and Aircraft Design (flying with style). Design and aeronautical fundamentals have also been integrated into the Maths and Science curriculum to deepen students understanding. In partnership with Polytechnics and industry partners, and through our Young Designer series of authentic learning experiences and workshops, our students experience the challenges of design and production in a fun and dynamic way. Elements of entrepreneurship are introduced to allow students to conduct feasibility and scalability studies, and to communicate their proposals effectively.  Our Leadership through Character and Citizenship Education (our distinctive life-long learning programme) programme provides opportunities for our students to develop desired character traits like resilience, tenacity, initiative, team spirit and an orientation towards excellence. Annual level camps, values in action activities, work experience, local and overseas service learning, the NYAA platform and leadership modules provide ample opportunities for students to further develop their competencies and to serve the community."
 	},
 	"AchievementHistory": {
 		"Secondary": {

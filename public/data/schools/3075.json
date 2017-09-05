@@ -1,9 +1,9 @@
 {
 	"code": "3075",
+	"name": "Edgefield Secondary School",
 	"levels": "S",
 	"uen": " T10GS0002F",
 	"logo": "./Medias/Images/Schools/logos/tn_3075.jpg",
-	"name": "Edgefield Secondary School",
 	"website": "http://edgefieldsec.moe.edu.sg",
 	"address": "36, Punggol Field (828814)",
 	"telephone": [
@@ -24,9 +24,9 @@
 			"Mdm Lim Puay Kheng"
 		],
 		"Vice Principal (Admin)": "Mr Ng Boon Tien",
-		"School Vision": "Nurturing Resolute and Compassionate Role Models",
+		"School Vision": "Collaborative Innovators, Compassionate Leaders",
 		"School Mission": "Growing Minds, Glowing Hearts",
-		"School Philosophy, Culture and Ethos": "Guided by the school motto Sincerity and Honour and our core values Moral Courage and Compassion, a dedicated core team of experienced educators has worked to build the school into a premier institution for teaching and learning that is anchored in values and culture. Equipped with the newest facilities and the latest technologies, coupled with curriculum innovation, we are committed to provide the ideal learning environment and experiences for our students as we nurture them into becoming Resolute and Compassionate Role Models at home, in school and in the community. \"A journey of a thousand miles begins with a single step\" - Lao Tzu. Edgefield Secondary and staff look forward to this educational partnership with you and your child in 2017.",
+		"School Philosophy, Culture and Ethos": "At Edgefield, we believe in nurturing our students to be 'Future Ready'. Framed by Five Minds for the Future, our curriculum nurtures Innovators who collaborate actively with others to design and develop creative solutions to problems, and resilient in facing setbacks and challenges. They are also Compassionate Leaders who are inclusive, with the moral courage to do what is right in contributing positively to the society. Built by a dedicated team of experienced educators, and equipped with the newest facilities and the latest technologies, the Edgefield Community prides itself for its curriculum innovation in providing the ideal learning environment and experiences for our students. As Lao Tzu says \"A journey of a thousand miles begins with a single step\", Edgefield Secondary and staff looks forward to this educational partnership with you and your child in 2018.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -63,9 +63,10 @@
 		"Physical Science",
 		"Physics",
 		"Project Work",
-		"Science",
 		"Science (Chem, Bio)",
 		"Science (Phy, Bio)",
+		"Science (Phy, Chem)",
+		"Science (Syll T)",
 		"Social Studies"
 	],
 	"Cca": {
@@ -73,7 +74,6 @@
 			"Air Pistol/ Shooting",
 			"Badminton",
 			"Basketball",
-			"Golf",
 			"Softball",
 			"Taekwondo",
 			"Volleyball",
@@ -90,7 +90,7 @@
 			"Band - Concert",
 			"Choir",
 			"Dance - Modern",
-			"Drama - English",
+			"English Literary Drama And Debate Society",
 			"Ensemble - Guzheng",
 			"Ensemble - Harmonica",
 			"Festive Drums"
@@ -105,7 +105,7 @@
 			"Business & Entrepreneurship": "Growing the Entrepreneurial Mindset (GEM)",
 			"Sports & Outdoor Education": "Character Education Through Taekwondo"
 		},
-		"Special Student Development Programmes Offered": "Applied Learning Programme (ALP) - The school's ALP is a distinctive programme entitled \"Growing the Entrepreneurial Mindset (GEM)\".  Through the programme, students will hone their skills and competencies in finance, business management, marketing and advanced problem solving.  Learning for Life Programme (LLP) - The school's LLP is \"Character Education through Sports anchored on Taekwondo\".  Besides developing healthy bodies, students will imbibe positive values such as benevolence, resilience, courage, self-reliance, quick thinking and respect for others which will also enable them to contribute more effectively to society and have the additional edge to succeed in the competitive globalised world. Compulsory school programmes for all students: Analytical Thinking Skills; ICT via Apple Education Programme; Self Defence via Taekwondo; Speech and Drama Enrichment Programme; Story Telling, Film Appreciation,Creative Writing,  Bicultural Immersion Programme; Innovative Project Work; Challenge Based Learning, National Youth Achievement Award (NYAA); Robotics LEGO Mindstorm, Journalism and Broadcasting Programme, Outward Bound Singapore, Golf Education Programme and Third Language Classes. Other Specific Programmes: Edgefield Scholar / Talent Development Programme; Life Science Enrichment Programme; Mathematics Olympiad Enrichment; Basic Leadership Development Programme; Advanced Leadership Development Programme (to prepare students for higher responsibilities); Calligraphy, Painting & Music Programme; Tan Kah Kee Young Inventors' Programme."
+		"Special Student Development Programmes Offered": "(1) Applied Learning Programme (ALP) - \"Growing the Entrepreneurial Mindset (GEM)\". The programme inculcates in students entrepreneurial traits such as resilience, alertness to opportunities, creativity, and hone their skills in financial/ business management, marketing and advanced problem solving. (2) Learning for Life Programme (LLP) - \"Character Education through Sports anchored on Taekwondo\". Besides developing healthy bodies and self-defence life skill, students develop positive values such as resilience, courage, self-reliance, quick thinking and respect for others. (3) School wide programme: Thinking and Research Programme (includes Analytical Thinking Skills, Creative problem solving); ICT via Apple Education Programme; Challenge Based Learning; Language Arts Programme (including Speech and Drama, Storytelling, Film Appreciation and Creative Writing), Internationalization Programme; Robotics LEGO Mindstorm, Journalism and Broadcasting, Basic Leadership Development Programme, Outward Bound Singapore, Golf Education Programme, Conversational Chinese/ Malay and Third Language classes. (4) Other specific Programmes: Edgefield Scholar / Talent Development Programme; National Youth Achievement Award (NYAA); Life Science Enrichment Programme; Mathematics Olympiad Enrichment; Advanced Leadership Development Programme (based on Kouzes and Posner The Leadership Challenge model); Sustainable Development, Calligraphy, Painting & Music Programme; Tan Kah Kee Young Inventors' Programme."
 	},
 	"AchievementHistory": {
 		"Secondary": {

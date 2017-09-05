@@ -1,9 +1,9 @@
 {
 	"code": "3012",
+	"name": "Commonwealth Secondary School",
 	"levels": "S",
 	"uen": " T07GS3012E",
 	"logo": "./Medias/Images/Schools/logos/tn_3012.jpg",
-	"name": "Commonwealth Secondary School",
 	"website": "http://www.commonwealthsec.moe.edu.sg",
 	"address": "698, West Coast Road (608784)",
 	"telephone": [
@@ -27,7 +27,7 @@
 		"Vice Principal (Admin)": "Mdm Shabnam Lena",
 		"School Vision": "A community of passionate learners who spark imagination, illuminate new frontiers and inspire change for a better world.",
 		"School Mission": "Nurturing Commonwealthians as Champions of Today and Leaders of Tomorrow.",
-		"School Philosophy, Culture and Ethos": "Commonwealth Secondary School (CWSS) believes that students learn best and are most fulfilled when the school nurtures every aspect of their person, and provides rich and authentic learning environments. As such, CWSS offers students our unique \"C3\" Curriculum. This comprises an innovative Character Education programme which emphasises Servant Leadership and Growth Mindset to instill strong values and productive habits, grounded in the school's WEALTH values (Warmth, Enterprise, Adventurousness, Loyalty, Tenacity and Honour). The school also offers a well-established programme of academic Content, which applies principles of Differentiated Instruction to support students of differing needs to master key skills and concepts for each subject, and provides them with opportunities to apply their knowledge in authentic ways. In addition, the school has also implemented a school-wide approach to encouraging Creativity which aims to give every student hands-on opportunities to express and nurture their creative ability, through avenues such as programming, robotics, design, as well as our outstanding visual and performing arts programmes.",
+		"School Philosophy, Culture and Ethos": "Commonwealth Secondary School (CWSS) believes that students learn best and are most fulfilled when the school nurtures every aspect of their person, and provides rich and authentic learning environments. As such, CWSS offers students our unique \"C3\" Curriculum. This comprises an innovative Character Education programme which emphasises Servant Leadership and Growth Mindset to instill strong values and productive habits, grounded in the school's WEALTH values (Warmth, Enterprise, Adventurousness, Loyalty, Tenacity and Honour). The school also offers a well-established programme of academic content, which applies principles of Differentiated Instruction to support students of differing needs to master key skills and concepts for each subject, and provides them with opportunities to apply their knowledge in authentic ways. In addition, the school has also implemented a school-wide approach to encouraging Creativity which aims to give every student hands-on opportunities to express and nurture their creative ability, through avenues such as programming, robotics, design, as well as our outstanding visual and performing arts programmes.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -36,15 +36,21 @@
 	"SubjectOffered": [
 		"Additional Mathematics",
 		"Art",
+		"Art Na Level",
+		"Art 'O' Level",
 		"Biology",
 		"Chemistry",
 		"Chinese",
 		"Combined Humanities (S,H)",
 		"Computer Applications",
+		"Computing",
 		"Design & Technology",
 		"Elements Of Business Skills",
 		"English Language",
+		"English Language (Syll A)",
+		"English Language (Syll T)",
 		"Food & Nutrition",
+		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
 		"Higher Malay",
@@ -53,9 +59,12 @@
 		"Literature(E)",
 		"Malay",
 		"Mathematics",
+		"Mathematics (Syllabus A)",
+		"Mathematics (Syllabus T)",
+		"Music",
 		"Physical Education",
 		"Physics",
-		"Principles Of A/C",
+		"Principles Of Accounts",
 		"Science (Phy, Chem)",
 		"Science (Syll T)",
 		"Social Studies N(T)",
@@ -64,11 +73,11 @@
 	"Cca": {
 		"Physical Sports": [
 			"Badminton",
-			"Basketball",
+			"Basketball (Boys)",
 			"Cross Country",
 			"Dragon Boat",
-			"Football",
-			"Netball"
+			"Netball",
+			"Soccer (Boys)"
 		],
 		"Uniformed Groups": [
 			"Girl Guides",
@@ -84,15 +93,18 @@
 			"Dance - Chinese",
 			"Dance - Indian",
 			"Dance - Malay",
-			"Drama - English"
+			"Drama - English",
+			"Urban Nature"
 		],
 		"Clubs & Societies": [
 			"Bits And Atoms",
+			"Culinary Club",
+			"Eco Club",
 			"New Media"
 		]
 	},
 	"SpecialProgrammes": {
-		"Special Student Development Programmes Offered": "1.Design Thinking programme to develop human-centred problem-solvers with valuable skills and mindsets including need-finding, ideation, empathy and prototyping. 2. Environmental Education programme which nurtures advocates and activists for a sustainable future. 3. Maker Education programme which develops 21st Century Skills by encouraging students to tinker, create artefacts using a wide range of fabrication technology, and share their creations with others. 4. Cohort Camps for all students to foster leadership skills, e.g. confidence, collaboration and resilience. 5. Student Leadership Development programme providing opportunities for students of different strengths to grow as Servant Leaders. 6. The school offers Computing as an \"O\" Level subject starting from 2017."
+		"Special Student Development Programmes Offered": "1.Design Thinking programme to develop human-centred problem-solvers with valuable skills and mindsets including need-finding, ideation, empathy and prototyping. 2. Environmental Education programme which nurtures advocates and activists for a sustainable future. 3. Maker Education programme which develops 21st Century Skills by encouraging students to tinker, create artefacts using a wide range of fabrication technology, and share their creations with others. 4. Cohort Camps for all students to foster leadership skills, e.g. confidence, collaboration and resilience. 5. Student Leadership Development programme providing opportunities for students of different strengths to grow as Servant Leaders. 6. The school offers Computing as an \"O\" Level subject starting from 2017. 7. At Sec 3 level, the school offers a unique design-focused subject combination. In addition to seven academic subjects, students opting for this combination will take a Design Elective programme which will teach them to apply design thinking to solve real-world problems, in collaboration with the school's partner organisations"
 	},
 	"AchievementHistory": {
 		"Secondary": {

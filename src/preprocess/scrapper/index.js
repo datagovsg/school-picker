@@ -12,7 +12,7 @@ import {
   scrapVacancies
 } from './additionalScrappers'
 
-// import {SHUFFLED_INDEXES} from './constants'
+import {defaultYearRange} from './constants'
 
 // scrap('', {schoolCode: '1759'})
 //   .then(json => {
@@ -60,4 +60,4 @@ import {
 //   fs.writeFileSync(`data/backups/vacancies${suffix}.json`, JSON.stringify(vacancies, null, '\t'))
 // })
 
-runTask([], ['2014', '2015', '2016', '2017'])
+runTask([], defaultYearRange)

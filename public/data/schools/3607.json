@@ -1,10 +1,10 @@
 {
 	"code": "3607",
+	"name": "Seng Kang Secondary School",
 	"levels": "S",
 	"uen": " T07GS3607C",
 	"logo": "./Medias/Images/Schools/logos/tn_3607.jpg",
-	"name": "Seng Kang Secondary School",
-	"website": "http://www.sengkangsec.moe.edu.sg/",
+	"website": "http://www.sengkangsec.moe.edu.sg",
 	"address": "10, Compassvale Lane (545090)",
 	"telephone": [
 		"63887258"
@@ -13,7 +13,9 @@
 		"63887254"
 	],
 	"email": "skss@moe.edu.sg",
-	"mrt": [],
+	"mrt": [
+		"Sengkang MRT"
+	],
 	"bus": "27 , 80 , 85 , 86 , 87 , 89 , 89E , 163 , 163M , 372 ",
 	"GeneralInformation": {
 		"Principal": "Mr Koh Yiak Kheng",
@@ -41,6 +43,7 @@
 		"Design & Technology",
 		"Elements Of Business Skills",
 		"English Language",
+		"Exercise And Sports Science",
 		"Food & Nutrition",
 		"Food And Consumer Education",
 		"Geography",
@@ -49,7 +52,6 @@
 		"Malay",
 		"Mathematics",
 		"Music",
-		"Oecie Physical Education",
 		"Physical Education",
 		"Physics",
 		"Science (Chem, Bio)",

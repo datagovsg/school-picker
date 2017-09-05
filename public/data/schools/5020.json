@@ -1,9 +1,9 @@
 {
 	"code": "5020",
+	"name": "Fairfield Methodist School (Primary)",
 	"levels": "P",
 	"uen": " T07GS5020L",
 	"logo": "./Medias/Images/Schools/logos/tn_5020.jpg",
-	"name": "Fairfield Methodist School (Primary)",
 	"website": "http://www.fmsp.moe.edu.sg/",
 	"address": "100, Dover Road (139648)",
 	"telephone": [
@@ -21,10 +21,7 @@
 	"bus": "SBS Bus 14 , 33 , 74 , 166 & 196 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Law Li Mei",
-		"Vice Principal": [
-			"Miss Liat Mei Kuen Geraldine Sharon",
-			"Mr Andrew Ng Siok Kwang"
-		],
+		"Vice Principal": "Mr Andrew Ng Siok Kwang",
 		"Vice Principal (Admin)": "Mr James Chong Kok Chiang",
 		"School Vision": "Leaders of the future pursuing excellence, upholding strong Christian moral values and having a heart to serve",
 		"School Mission": "To provide a holistic education in a Christian environment so as to nurture leaders of good character, equipped to serve God, nation, community and school.",
@@ -432,12 +429,12 @@
 				},
 				{
 					"year": "2016",
-					"category": "Red Cross",
+					"category": "Girls' Brigade",
 					"award": "Gold"
 				},
 				{
 					"year": "2016",
-					"category": "Girls' Brigade",
+					"category": "Red Cross",
 					"award": "Gold"
 				}
 			]

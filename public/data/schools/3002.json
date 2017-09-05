@@ -1,9 +1,9 @@
 {
 	"code": "3002",
+	"name": "Bartley Secondary School",
 	"levels": "S",
 	"uen": " T07GS3002L",
 	"logo": "./Medias/Images/Schools/logos/tn_3002.jpg",
-	"name": "Bartley Secondary School",
 	"website": "http://www.bartleysec.moe.edu.sg",
 	"address": "10, Jalan Bunga Rampai (538403)",
 	"telephone": [
@@ -14,6 +14,7 @@
 	],
 	"email": "bartley_ss@moe.edu.sg",
 	"mrt": [
+		"Tai Seng MRT",
 		"Bartley MRT"
 	],
 	"bus": "22 , 24 , 28 , 43 , 58 , 62 , 70 , 70M , 76 , 80 , 80A , 93 , 158 ",
@@ -64,7 +65,7 @@
 		"Science (Chem, Bio)",
 		"Science (Phy, Chem)",
 		"Science (Syll T)",
-		"Social Studies",
+		"Social Studies N(T)",
 		"Tamil",
 		"Tamil B"
 	],
@@ -83,12 +84,15 @@
 			"Red Cross Youth"
 		],
 		"Visual and Performing Arts": [
+			"Band-Concert",
 			"Choir",
-			"Dance - Modern",
-			"Ensemble - Guzheng"
+			"Dance-Modern",
+			"Ensemble-Guzheng"
 		],
 		"Clubs & Societies": [
-			"Merit (Media Resource & It) Club"
+			"Entrepreneur Club",
+			"Merit (Media Resource & It) Club",
+			"Service Learning Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -96,7 +100,7 @@
 			"STEM": "Chemical and Life Sciences (Perfumery)",
 			"Community & Youth Leadership": "i-LEAD @ Bartley"
 		},
-		"Special Student Development Programmes Offered": "The school's Learning for Life Programme (LLP) is on Community Youth Leadership. As part of the LLP, all Bartleyans undergo the Student Leadership Development Programme, coupled with Outdoor Experiential Learning, to nurture them to be courageous, optimistic and responsible leaders of self and for others. The 7 Habits of Highly Effective Youths (7 HEY) programme underpins the school's character development effort. Through this programme, students learn to live out the school's motto of Facta Non Verba (Deeds not Words).   The school's Applied Learning Programme (ALP) is Chemical and Life Sciences (Perfumery). Bartley is the first and only secondary school in Singapore to offer this programme which is an area of study that provides direct application of Science concepts into the creation of a product. It is a conglomeration of chemical, life sciences, engineering and business which excites students to explore STEM (Science, Technology, Engineering, Mathematics) as their future area of specialisation.  The school collaborates with Singapore Science Centre in running the programme.  The Bartley Scholars Programme (BSP) is targeted at higher ability students to stretch and accelerate their learning. Students are exposed to a variety of learning experiences to develop their passion for learning.   The SMILE@Bartley Programme is a mentoring programme for all our graduating students. Students are not only supported emotionally in their journey towards the national examination, but are also guided to make decisions that would have an impact on their next phase of development in institutes of higher learning."
+		"Special Student Development Programmes Offered": "The school's Learning for Life Programme (LLP) is on Community Youth Leadership. As part of the LLP, all Bartleyans undergo the Student Leadership Development Programme, coupled with Outdoor Experiential Learning, to nurture them to be courageous, optimistic and responsible leaders of self and for others. The 7 Habits of Highly Effective Youths (7 HEY) programme underpins the school's character development effort. Through this programme, students learn to live out the school's motto of Facta Non Verba (Deeds not Words).  The school's Applied Learning Programme (ALP) is Chemical and Applied Sciences (Fragrance). Bartley is the first and only secondary school in Singapore to offer this programme which is an area of study that provides direct application of Science concepts into the creation of a product. It is a conglomeration of chemistry, applied sciences, engineering and business which excites students to explore STEM (Science, Technology, Engineering, Mathematics) as their future area of specialisation.  The school collaborates with Singapore Science Centre in running the programme. The partnership with A*STAR and Takasago International (S'pore) Pte Ltd deepens and broadens our students' mind in the areas of STEM and business.   The Bartley Scholars Programme (BSP) is targeted at higher ability students to stretch and accelerate their learning. Students are exposed to a variety of learning experiences to develop their passion for learning.  The SMILE@Bartley Programme is a mentoring programme for all our graduating students. Students are not only supported emotionally in their journey towards the national examination, but are also guided to make decisions that would have an impact on their next phase of development in institutes of higher learning."
 	},
 	"AchievementHistory": {
 		"Secondary": {

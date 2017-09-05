@@ -1,10 +1,10 @@
 {
 	"code": "7102",
+	"name": "Catholic High School",
 	"levels": "PSF",
 	"uen": " T07GS7102K",
 	"logo": "./Medias/Images/Schools/logos/tn_7102.jpg",
-	"name": "Catholic High School",
-	"website": "http://www.catholichigh.moe.edu.sg/",
+	"website": "http://www.catholichigh.moe.edu.sg",
 	"address": "9, Bishan Street 22 (579767)",
 	"telephone": [
 		"64582177 (Secondary)",
@@ -30,7 +30,7 @@
 		"Vice Principal (Admin)": "Mr Tan Perry",
 		"School Vision": "The Catholic High student is a leader, gentleman and bilingual scholar of high integrity and robust character, who is passionate about life, learning and service to others.",
 		"School Mission": "To establish Catholic High School as a school of distinction in innovative and challenging programmes, a forerunner in character building and a beacon for the mindset of excellence, firmly built upon the foundation of Christian values.",
-		"School Philosophy, Culture and Ethos": "Founded in 1935 by the late Rev. Fr. Edward Becheras, Catholic High School is one of Singapore's highly regarded institutions under the auspices of the Catholic Archdiocese. As a Special Assistance Plan (SAP) school, CHS is grounded in the philosophy of bilingualism and biculturalism. As a Catholic mission school, love is the motivation behind all our actions. We ensure there is Joy of Learning in school life, and that students develop a Mindset of Excellence. The school's core values underpin every member's attitude, actions and aspirations. Our heritage, alumni and parent support group are the strengths that our school draws upon for our model of education, where every student is a Leader, Gentleman and Bilingual Scholar in the making. Offering the unique dual-track model with both the O-Level and Integrated Programmes, the CHS experience offers a curriculum strong in academic distinction, leadership and character development, and sports and aesthetics excellence. Our IP students will spend their first 4 years in CHS before progressing to the new Eunoia Junior College to complete the IP.",
+		"School Philosophy, Culture and Ethos": "Founded in 1935 by the late Rev. Fr. Edward Becheras, Catholic High School is one of Singapore's highly regarded institutions under the auspices of the Catholic Archdiocese. As a Special Assistance Plan (SAP) school, CHS is grounded in the philosophy of bilingualism and biculturalism. As a Catholic mission school, love is the motivation behind all our actions. We ensure there is Joy of Learning in school life, and that students develop a Mindset of Excellence. The school's core values underpin every member's attitude, actions and aspirations. Our heritage, alumni and parent support group are the strengths that our school draws upon for our model of education, where every student is a Leader, Gentleman and Bilingual Scholar in the making. Offering the unique dual-track model with both the O-Level and Integrated Programmes, the CHS experience offers a curriculum strong in academic distinction, leadership and character development, and sports and aesthetics excellence. Our IP students will spend their first 4 years in CHS before progressing to Eunoia Junior College to complete the IP.",
 		"Type of School": "Government-aided Sch / Boys' School / Single Session",
 		"IP Partner Schools": [
 			"CHIJ St. Nicholas Girls' School",
@@ -51,22 +51,28 @@
 		"Biology",
 		"Chemistry",
 		"Chinese",
+		"Design & Technology",
 		"English Language",
+		"Exercise And Sports Science",
+		"Food And Consumer Education",
 		"Geography",
+		"Higher Art",
 		"Higher Chinese",
 		"Higher Music",
 		"History",
-		"Home Economics",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In English)",
 		"Literature In Chinese",
 		"Literature(E)",
 		"Mathematics",
+		"Music",
 		"Music (MEP)",
 		"Music 'O' Level",
-		"Oecie Physical Education",
 		"Passion Pursuit",
 		"Physical Education",
 		"Physics",
-		"Social Studies",
+		"Science",
 		"World Readiness Programme"
 	],
 	"Cca": {
@@ -89,7 +95,7 @@
 			"Ncc(Air)",
 			"Npcc",
 			"Scouts",
-			"St John Ambulance Brigade"
+			"St John Brigade"
 		],
 		"Visual and Performing Arts": [
 			"Dance - Modern",
@@ -100,9 +106,6 @@
 			"Symphony Band"
 		],
 		"Clubs & Societies": [
-			"Chess Club - International",
-			"Debating & Oratorical Club",
-			"Debating And Oratorical Society",
 			"Ion",
 			"Nucleii",
 			"Robotics Club"

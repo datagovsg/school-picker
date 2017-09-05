@@ -1,9 +1,9 @@
 {
 	"code": "1265",
+	"name": "West Spring Primary School",
 	"levels": "P",
 	"uen": " T13GS0001C",
 	"logo": "./Medias/Images/Schools/logos/tn_1265.jpg",
-	"name": "West Spring Primary School",
 	"website": "http://www.westspringpri.moe.edu.sg",
 	"address": "60, Bukit Panjang Ring Road (679946)",
 	"telephone": [
@@ -17,7 +17,10 @@
 	"bus": "920 , 922 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Phan Swee Lin Sherin Jacinta",
-		"Vice Principal": "Mdm Nur Sabariah Bte Mohd Ibrahim",
+		"Vice Principal": [
+			"Mdm Nur Sabariah Bte Mohd Ibrahim",
+			"Mdm Peck Seok Hoon"
+		],
 		"School Vision": "Learners driven by Passion ,  Leaders guided by Values",
 		"School Mission": "At West Spring Primary School, we provide opportunities for West Springers to realise and reach their potential whilst developing good character and citizenship.",
 		"School Philosophy, Culture and Ethos": "West Spring Primary was established in 2014. We are guided by our philosophy that a positive learning environment that provides opportunities for students to experience big and small successes can be attained through meaningful learning and character development opportunities. This belief is captured through the school song that encourages students to be \"thankful for this day [where they] will have joy in [their] hearts and love in [their] souls as [they] work towards [their] goals\". We believe students enjoy coming to school when they are able to experience small and big successes.   Through this belief, the school's approach to teaching and learning includes taking a refreshing approach to make learning a joy, engaging and effective in mastering the skills and developing the disposition and attitude that will keep them open to lifelong learning.    The students' joy in coming to school is due to the hard work of the school community of committed teachers, staff and very supportive parents and partners who believe in the school's vision. The school community aspires for excellence in our pursuits.",
@@ -38,6 +41,9 @@
 	],
 	"Cca": {},
 	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Science": "Sustaining the Earth with Applied Solutions (SEAS)"
+		},
 		"Special Student Development Programmes Offered": "The school believes in nurturing both the academic potential of our students and their character development.  The school adopts the PLAY (Purposeful Learning Activities for the Young) approach to Teaching and Learning. This approach engages students through Cognitive PLAY, Physical PLAY, Object PLAY, Dramatic PLAY and ICT PLAY. This approach helps a child move from kindergarten to lower primary and continue to flourish.  Building upon the PLAY approach in lower primary, the school provides an integrated platform for students to develop critical and inventive thinking skills through the STEM (Science, Technology, Engineering and Mathematics) approach to teaching and learning. The early introduction of scientific and engineering thinking through the use of LEGO and Scientists@PLAY in Primary 1 and 2 provides the foundation on which the STEM approach builds upon. All Primary 3 and 4 students experience coding for fun as part of their modular CCA among other programmes that allow them a hands-on approach to problem solving and inventive thinking.  CHARM - Character Matters - is the school's signature character development programme for all students. These values-based lessons include engaging activities for students to visualise and experience how to demonstrate good values and behaviour. Other Character and Citizenship Education programmes include the following: -Six Kinds of Best hands-on programme based on David Koutsoukis' vision of helping young people develop good values and contribute to society -ACTIVATE (Action to Inculcate the Values of Teamwork) to help students develop good habits for life. This is nurtured when students clean up after themselves at recess and at the end of the school day and also at home with their family. -Friend of Singa Ambassadors to promote kindness among schoolmates -Cultivating Leaders of Values (CLOVE) programme to develop our students holistically using the Jim Kouzes and Barry Posner's The Five Practices of Exemplary Leadership"
 	},
 	"AchievementHistory": {

@@ -1,9 +1,9 @@
 {
 	"code": "7004",
+	"name": "CHIJ Secondary (Toa Payoh)",
 	"levels": "S",
 	"uen": " T07GS7004L",
 	"logo": "./Medias/Images/Schools/logos/tn_7004.jpg",
-	"name": "CHIJ Secondary (Toa Payoh)",
 	"website": "http://www.chijsec.edu.sg",
 	"address": "626, Lorong 1 Toa Payoh (319764)",
 	"telephone": [
@@ -37,31 +37,42 @@
 	},
 	"SubjectOffered": [
 		"Additional Mathematics",
+		"Art For AEP",
 		"Art 'O' Level",
+		"Basic Chinese",
+		"Basic Malay",
+		"Basic Tamil",
 		"Biology",
 		"Chemistry",
 		"Chinese",
 		"Chinese B",
+		"Chinese N(A)",
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
 		"Combined Humanities (S,L)",
+		"Computer Applications",
 		"English Language",
+		"English Language (Syll A)",
 		"Food & Nutrition",
+		"Food And Consumer Education",
 		"Geography",
-		"Higher Art",
 		"Higher Chinese",
 		"History",
 		"Literature(E)",
 		"Malay",
+		"Malay N(A)",
 		"Mathematics",
+		"Mathematics (Syllabus A)",
 		"Oecie Drama (GCEO)",
 		"Physical Education",
 		"Physics",
-		"Principles Of A/C",
+		"Principles Of Accounts",
+		"Science",
 		"Science (Chem, Bio)",
 		"Science (Phy, Bio)",
 		"Science (Phy, Chem)",
-		"Tamil"
+		"Tamil",
+		"Tamil N(A)"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -70,7 +81,6 @@
 			"Basketball",
 			"Gymnastics (Rhythmic)",
 			"Netball",
-			"Squash",
 			"Ten-Pin Bowling",
 			"Tennis"
 		],
@@ -90,7 +100,6 @@
 		"Clubs & Societies": [
 			"Arc (Robotics)",
 			"Chij Youth Mission",
-			"Debating And Oratory Society",
 			"Ij Media Club",
 			"Legion Of Mary",
 			"Outdoor Activities Club"
@@ -100,7 +109,7 @@
 		"MOE Programmes": [
 			"Art Elective Programme"
 		],
-		"Special Student Development Programmes Offered": "A choice school, CHIJ Secondary is progressive in its approach whilst remaining steeped in tradition. The IJ Education and Experience is undergirded by the 3Ls@IJ approach which encompasses both the academic and affective domains and focuses on developing students holistically through Learning, Living and Leading. In CHIJ, all lower secondary students experience our in-house drama programme which enable students to realise their creative talents and develop their artistic vision. Our Affective Programmes focus on character development and include the Developmental Leadership Programme, the Values-in-Action programme, self-awareness camps, work attachment programme, and adventure camps. As the South Zone Centre of Excellence for Language and the Arts, CHIJ is home to many strong performing arts groups. At the same time, CHIJ's sports CCA groups have experienced success on the school scene. Our signature IJ Goes Global Programme aims to equip IJ students with a more global perspective and includes Immersion and Twinning Programmes with overseas schools, and the IJ Beacon Programme which focuses on serving the disadvantaged in neighbouring countries."
+		"Special Student Development Programmes Offered": "CHIJ Secondary is progressive in its approach whilst remaining steeped in tradition. The IJ Education and Experience is undergirded by the 3Ls@IJ approach which encompasses both the academic and affective domains and focuses on developing students holistically through Learning, Living and Leading. In CHIJ, all lower secondary students experience our in-house drama programme which enable students to realise their creative talents and develop their artistic vision. Our Affective Programmes focus on character development and include the Developmental Leadership Programme, the Values-in-Action programme, self-awareness camps, work attachment programme, and adventure camps. As the South Zone Centre of Excellence for Language and the Arts, CHIJ is home to many strong performing arts groups. At the same time, CHIJ's sports CCA groups have experienced success on the school scene. Our signature IJ Goes Global Programme aims to equip IJ students with a more global perspective and includes Immersion and Twinning Programmes with overseas schools, and the IJ Beacon Programme which focuses on serving the disadvantaged in neighbouring countries."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -506,7 +515,7 @@
 				},
 				{
 					"year": "2016",
-					"category": "Dance - International",
+					"category": "Choir",
 					"award": "Distinction"
 				},
 				{
@@ -526,7 +535,7 @@
 				},
 				{
 					"year": "2016",
-					"category": "Choir",
+					"category": "Dance - International",
 					"award": "Distinction"
 				}
 			],

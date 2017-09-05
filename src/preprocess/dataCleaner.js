@@ -14,6 +14,8 @@ const vacancies = require('../../data/vacancies.json')
 let mrtStations = require('nearest-mrt/data/processed/mrt_stations.json').data
 mrtStations = Object.keys(mrtStations).map(name => name.replace(/ MRT STATION$/, ''))
 
+const filteredYears = ['2014', '2015', '2016', '2017']
+
 files.forEach(file => {
   try {
     const raw = require('../../data/raw/' + file)
@@ -38,18 +40,19 @@ files.forEach(file => {
         'SYF': cleanSYF(rawAchievement),
         'Best Unit Award': cleanBUA(rawAchievement)
       }
-      for (let year in rawAchievement) {
-        const toOmit = [
-          'Sports & Games Competition',
-          'SYF Central Judging',
-          'SYF Arts Presentation',
-          'Best Unit Award'
-        ]
+      const toOmit = [
+        'Sports & Games Competition',
+        'SYF Central Judging',
+        'SYF Arts Presentation',
+        'Best Unit Award'
+      ]
+      filteredYears.forEach(year => {
+        if (!(year in rawAchievement)) return
         const yearAchievement = omit(rawAchievement[year], toOmit)
         if (!isEmpty(yearAchievement)) {
           processed['AchievementHistory'][lvl][year] = yearAchievement
         }
-      }
+      })
     }
     Object.assign(processed, locations[raw.code])
     if (raw.name in specialNeeds) processed.specialNeeds = specialNeeds[raw.name]
@@ -132,8 +135,8 @@ function cleanSubjects (input) {
 
 function cleanPSLE (input) {
   const rows = []
-  const years = Object.keys(input)
-  years.forEach(year => {
+  filteredYears.forEach(year => {
+    if (!(year in input)) return
     const yearCutoff = input[year]
     if (isEmpty(yearCutoff)) return
     const programmes = Object.keys(yearCutoff)
@@ -166,8 +169,8 @@ function cleanPSLE (input) {
 
 function cleanL1R5 (input) {
   const rows = []
-  const years = Object.keys(input)
-  years.forEach(year => {
+  filteredYears.forEach(year => {
+    if (!(year in input)) return
     const yearCutoff = input[year]
     if (isEmpty(yearCutoff)) return
     const programmes = Object.keys(yearCutoff)
@@ -181,8 +184,8 @@ function cleanL1R5 (input) {
 
 function cleanSSSC (input) {
   const rows = []
-  const years = Object.keys(input)
-  years.forEach(year => {
+  filteredYears.forEach(year => {
+    if (!(year in input)) return
     const yearSSSC = input[year]['Sports & Games Competition']
     if (!yearSSSC) return
 
@@ -212,8 +215,8 @@ function cleanSSSC (input) {
 
 function cleanSYF (input) {
   const rows = []
-  const years = Object.keys(input)
-  years.forEach(year => {
+  filteredYears.forEach(year => {
+    if (!(year in input)) return
     const yearSYF = input[year]['SYF Central Judging'] || input[year]['SYF Arts Presentation']
     if (!yearSYF) return
     const categories = Object.keys(yearSYF)
@@ -226,8 +229,8 @@ function cleanSYF (input) {
 
 function cleanBUA (input) {
   const rows = []
-  const years = Object.keys(input)
-  years.forEach(year => {
+  filteredYears.forEach(year => {
+    if (!(year in input)) return
     const yearBUA = input[year]['Best Unit Award']
     if (!yearBUA) return
     const categories = Object.keys(yearBUA)

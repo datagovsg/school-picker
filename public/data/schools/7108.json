@@ -1,9 +1,9 @@
 {
 	"code": "7108",
+	"name": "Holy Innocents' High School",
 	"levels": "S",
 	"uen": " T07GS7108H",
 	"logo": "./Medias/Images/Schools/logos/tn_7108.jpg",
-	"name": "Holy Innocents' High School",
 	"website": "http://www.holyinnocentshigh.moe.edu.sg",
 	"address": "1191, Upper Serangoon Road (534786)",
 	"telephone": [
@@ -109,7 +109,7 @@
 			"Languages": "Journalism and Broadcasting -- Developing Critical Thinkers and Confident Communicators",
 			"Community & Youth Leadership": "Good Samaritan Programme"
 		},
-		"Special Student Development Programmes Offered": "We offer the Applied Learning Programme in 'Journalism & Broadcasting' in Chinese and English to develop critical thinking skills, communication skills,and global and social awareness. Through their voices, our students can influence society and build a nation that is compassionate, caring and forward-looking. The programme further provides a good foundation for those interested in pursuing a career in the media industry. The school also offers a Learning for Life Programme (Good Samaritan Programme) which focuses on community and youth leadership development. We believe our students are able to lead by example, and can lead others in both actions and thoughts. The Good Samaritan Programme is slanted towards providing service to the community in the form of Values In Action projects across levels. Students also have opportunities to work with external agencies in planning for community projects, and organising the school's Teens Conference. Students can build their strengths through other academic and co-curricular programmes: the Science Research Programme, Mathematics Olympiad, Advanced Elective Modules, Elective Modules for Normal Academic and Normal Technical students, NTerprise Programme, Religious & Moral Education, Overseas Values In Action Programme, Level Camps, Sports Carnival, Road Run, Level Games, etc. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "We offer the Applied Learning Programme in 'Journalism & Broadcasting' to develop critical thinking skills, communication skills,and global and social awareness. Through their voices, our students can influence society and build a nation that is compassionate, caring and forward-looking. The programme further provides a good foundation for those interested in pursuing a career in the media industry. The school also offers a Learning for Life Programme (Good Samaritan Programme) which focuses on community and youth leadership development. We believe our students are able to lead by example, and can lead others in both actions and thoughts. The Good Samaritan Programme is slanted towards providing service to the community in the form of Values In Action projects across levels. Students also have opportunities to work with external agencies in planning for community projects, and organising the school's Teens Conference. Students can build their strengths through other academic and co-curricular programmes: the Science Research Programme, Mathematics Olympiad, Advanced Elective Modules, Elective Modules for Normal Academic and Normal Technical students, NTerprise Programme, Religious & Moral Education, Overseas Values In Action Programme, Level Camps, Sports Carnival, Road Run, Level Games, etc."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -196,6 +196,11 @@
 				},
 				{
 					"year": "2016",
+					"category": "Orchestra - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
 				},
@@ -212,11 +217,6 @@
 				{
 					"year": "2016",
 					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
 					"award": "Distinction"
 				}
 			],
@@ -258,22 +258,22 @@
 				},
 				{
 					"year": "2016",
-					"category": "NCC (Land Boys)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
 					"category": "Scout (Unit 1)",
 					"award": "Silver"
 				},
 				{
 					"year": "2016",
 					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Land Boys)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
 					"award": "Gold"
 				}
 			]

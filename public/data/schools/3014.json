@@ -1,9 +1,9 @@
 {
 	"code": "3014",
+	"name": "Victoria School",
 	"levels": "S",
 	"uen": " T07GS3014H",
 	"logo": "./Medias/Images/Schools/logos/tn_3014.jpg",
-	"name": "Victoria School",
 	"website": "http://www.victoria.moe.edu.sg",
 	"address": "2, Siglap Link (448880)",
 	"telephone": [
@@ -17,7 +17,7 @@
 		"Bedok MRT",
 		"Paya Lebar MRT"
 	],
-	"bus": "31 , 36 , 43 , 48 , 55 , 76 , 135 , 155 , 196 , 197 ",
+	"bus": "31 , 36 , 43 , 47 , 48 , 55 , 76 , 135 , 155 , 196 , 196E , 197 , 401 , 541 , 763 , 853 , 853C , 4N ",
 	"GeneralInformation": {
 		"Principal": "Mr Lim Boon Kong Andrew",
 		"Vice Principal": [
@@ -27,7 +27,7 @@
 		"Vice Principal (Admin)": "Mdm Cham Szu May Sylvia",
 		"School Vision": "Every Victorian is a Gentleman, Professional and Sportsman who makes tangible contributions to his family, work, community and nation.",
 		"School Mission": "To groom upright and balanced individuals with leadership qualities.",
-		"School Philosophy, Culture and Ethos": "Established in 1876, Victoria School (VS) is an all-boys school that is strong in spirit, rich in tradition and provides a broad-based holistic education. Our staff and students are guided by our school motto Nil Sine Labore (Nothing Without Labour) in the pursuit of performance excellence. The Victorian Spirit, the sense of pride and belonging to the school, encapsulates the camaraderie, fighting spirit and desire by every Victorian to be the best that he can be. VS is a dual-track school offering the 4-year 'O' level Programme and the 6-year Victoria-Cedar Alliance Integrated Programme (VCA IP) jointly with Cedar Girls' Secondary School (CGSS) and our affiliated college, Victoria Junior College (VJC). Every Victorian will be developed in character and leadership, in the cognitive, physical and aesthetics domains, and in service to the community. Through a broad-based rigorous curriculum and an inviting school environment that fosters thinking, creativity and teamwork, our Victorians are nurtured into young gentlemen who are upright and balanced leaders.",
+		"School Philosophy, Culture and Ethos": "Established in 1876, Victoria School (VS) is an all-boys school that is strong in spirit, rich in tradition and provides a broad-based holistic education. Our staff and students are guided by our school motto Nil Sine Labore (Nothing Without Labour) in the pursuit of performance excellence. The Victorian Spirit, the sense of pride and belonging to the school, encapsulates the camaraderie, fighting spirit and desire by every Victorian to be the best that he can be. VS is a dual-track school offering the 4-year 'O' level Programme, and the 6-year Victoria-Cedar Alliance Integrated Programme (VCA IP) developed jointly with Cedar Girls' Secondary School (CGSS) and our affiliated college, Victoria Junior College (VJC). Every Victorian will be developed in character and leadership, in the cognitive, physical and aesthetics domains, and in service to the community. Through a broad-based rigorous curriculum and an inviting school environment that fosters thinking, creativity and teamwork, our Victorians are nurtured into young gentlemen who are upright and balanced leaders.",
 		"Type of School": "Government School / Boys' School / Single Session",
 		"IP Partner Schools": [
 			"Cedar Girls' Secondary School",
@@ -40,7 +40,6 @@
 	"SubjectOffered": [
 		"Additional Mathematics",
 		"Art",
-		"Art For AEP",
 		"Bahasa Indonesia",
 		"Biology",
 		"Chemistry",
@@ -51,6 +50,7 @@
 		"Combined Humanities (S,H)",
 		"Design & Technology",
 		"English Language",
+		"Exercise And Sports Science",
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Art",
@@ -63,7 +63,6 @@
 		"Malay (Special Programme)",
 		"Mathematics",
 		"Music",
-		"Oecie Physical Education",
 		"Physical Education",
 		"Physics",
 		"Science",
@@ -73,6 +72,7 @@
 		"Physical Sports": [
 			"Badminton",
 			"Cricket",
+			"Cross Country",
 			"Floorball",
 			"Football",
 			"Hockey",
@@ -82,7 +82,6 @@
 			"Tennis",
 			"Track & Field",
 			"Volleyball",
-			"Vs Cross Country",
 			"Wushu"
 		],
 		"Uniformed Groups": [
@@ -95,15 +94,15 @@
 		],
 		"Visual and Performing Arts": [
 			"Chinese Orchestra",
-			"Drama - English",
-			"Photography Club",
-			"Vs Choir",
-			"Vs Concert Band"
+			"Choir",
+			"Concert Band",
+			"English Drama",
+			"Photography Club"
 		],
 		"Clubs & Societies": [
-			"Av Club",
+			"Audio Visual Club",
 			"Chess Club",
-			"Debating And Oratorical Society",
+			"Debate Society",
 			"Infocomm Club"
 		]
 	},
@@ -113,7 +112,7 @@
 			"Gifted Education Programme",
 			"Art Elective Programme"
 		],
-		"Special Student Development Programmes Offered": "Recognised as an institution with a strong tradition in sports, the uniformed groups and the aesthetics, VS leverages on its student development curriculum to develop students holistically. Guided by the school-based EDGE (Experience, Develop, Grow, Excel) Framework, the programmes are designed to ensure age-appropriateness. CCAs provide the platform for students to develop friendship, teamwork and commitment to the school, community and nation. Signature programmes include the following: Character and Leadership Programme helps our students chart their leadership development; Beyond Borders Programme (including local and overseas learning experiences) develops our students' perspectives and cross-cultural skills, Social Innovation Programme develops community-centredness and passion to serve the community; Electives Programme provides for breadth of learning; and Talent Development Programme challenges our students intellectually."
+		"Special Student Development Programmes Offered": "Recognised as an institution with a strong tradition in sports, the uniformed groups and the aesthetics, VS leverages on its student development curriculum to develop students holistically. Guided by the school-based EDGE (Experience, Develop, Grow, Excel) framework, the programmes are designed to ensure age-appropriateness. CCAs provide the platform for students to develop friendship, teamwork and commitment to the school, community and nation. Signature programmes include the following: Character and Leadership Programme helps our students chart their leadership development; Beyond Borders Programme (including local and overseas learning experiences) develops our students' perspectives and cross-cultural skills, Social Innovation Programme develops community-centredness and passion to serve the community; Electives provide for breadth of learning; and Talent Development Programme challenges our students intellectually."
 	},
 	"AchievementHistory": {
 		"Secondary": {

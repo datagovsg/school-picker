@@ -1,9 +1,9 @@
 {
 	"code": "3047",
+	"name": "Nan Hua High School",
 	"levels": "S",
 	"uen": " T07GS3047L",
 	"logo": "./Medias/Images/Schools/logos/tn_3047.jpg",
-	"name": "Nan Hua High School",
 	"website": "http://www.nanhuahigh.moe.edu.sg",
 	"address": "41, Clementi Avenue 1 (129956)",
 	"telephone": [
@@ -369,26 +369,6 @@
 				},
 				{
 					"year": "2016",
-					"category": "Cross Country",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Cross Country",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
 					"category": "Badminton",
 					"subCategory": [
 						"Zone",
@@ -426,6 +406,26 @@
 						"'C' Div"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Cross Country",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Cross Country",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
 				},
 				{
 					"year": "2016",

@@ -26,7 +26,7 @@ const queue = {
   eoq: Promise.resolve(),
   push () {
     this.eoq = this.eoq
-      .then(() => new Promise(resolve => setTimeout(resolve, 2000)))
+      .then(() => new Promise(resolve => setTimeout(resolve, 5000)))
     return this.eoq
   }
 }

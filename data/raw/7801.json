@@ -56,6 +56,120 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
+			"2005": {},
+			"2006": {},
+			"2007": {
+				"SYF Central Judging": {
+					"Dance - International": "Silver"
+				}
+			},
+			"2008": {
+				"SYF Central Judging": {
+					"Dance - International": "Silver"
+				},
+				"Best Unit Award": {
+					"Scout (Unit 1)": "Bronze"
+				}
+			},
+			"2009": {
+				"SYF Central Judging": {
+					"Dance - International": "Gold",
+					"Drama - English": "Bronze",
+					"Ensemble - Gamelan": "Silver",
+					"Ensemble - Strings": "Bronze"
+				},
+				"Best Unit Award": {
+					"Scout (Unit 1)": "Silver"
+				}
+			},
+			"2010": {
+				"SYF Central Judging": {
+					"Dance - International": "Gold",
+					"Drama - English": "Bronze",
+					"Ensemble - Gamelan": "Silver",
+					"Ensemble - Strings": "Bronze"
+				},
+				"Best Unit Award": {
+					"Scout (Unit 1)": "Silver"
+				}
+			},
+			"2011": {
+				"SYF Central Judging": {
+					"Dance - International": "Silver",
+					"Ensemble - Strings": "Bronze"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Bronze",
+					"Scout (Unit 1)": "Silver"
+				}
+			},
+			"2012": {
+				"SYF Central Judging": {
+					"Dance - International": "Silver",
+					"Ensemble - Strings": "Bronze"
+				},
+				"Best Unit Award": {
+					"Scout (Unit 1)": "Silver",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			},
+			"2013": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Dance - International": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Gamelan": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout (Unit 1)": "Silver"
+				}
+			},
 			"2014": {
 				"SYF Arts Presentation": {
 					"Dance - International": "Distinction",
@@ -94,6 +208,41 @@
 			"2017": {}
 		},
 		"Junior College": {
+			"2005": {},
+			"2006": {},
+			"2007": {},
+			"2008": {},
+			"2009": {},
+			"2010": {
+				"SYF Central Judging": {
+					"Drama - English": "Silver"
+				}
+			},
+			"2011": {
+				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Drama - English": "Silver",
+					"Ensemble - Gamelan": "Silver",
+					"Ensemble - Strings": "Silver",
+					"Orchestra - Chinese": "Bronze"
+				}
+			},
+			"2012": {
+				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Drama - English": "Bronze",
+					"Ensemble - Gamelan": "Silver",
+					"Ensemble - Strings": "Silver",
+					"Orchestra - Chinese": "Bronze"
+				}
+			},
+			"2013": {
+				"SYF Arts Presentation": {
+					"Drama - English": "Bronze",
+					"Ensemble - Strings": "Accomplishment",
+					"Orchestra - Chinese": "Distinction"
+				}
+			},
 			"2014": {
 				"SYF Arts Presentation": {
 					"Art - Category C": "Recognition",
@@ -122,12 +271,30 @@
 		}
 	},
 	"PsleAggregateHistory": {
+		"2005": {},
+		"2006": {},
+		"2007": {},
+		"2008": {},
+		"2009": {},
+		"2010": {},
+		"2011": {},
+		"2012": {},
+		"2013": {},
 		"2014": {},
 		"2015": {},
 		"2016": {},
 		"2017": {}
 	},
 	"L1R5History": {
+		"2005": {},
+		"2006": {},
+		"2007": {},
+		"2008": {},
+		"2009": {},
+		"2010": {},
+		"2011": {},
+		"2012": {},
+		"2013": {},
 		"2014": {},
 		"2015": {},
 		"2016": {},

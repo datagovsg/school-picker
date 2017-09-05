@@ -1,9 +1,9 @@
 {
 	"code": "3070",
+	"name": "Punggol Secondary School",
 	"levels": "S",
 	"uen": " T07GS3070K",
 	"logo": "./Medias/Images/Schools/logos/tn_3070.jpg",
-	"name": "Punggol Secondary School",
 	"website": "http://www.punggolsec.moe.edu.sg",
 	"address": "51, Edgefield Plains (828870)",
 	"telephone": [
@@ -40,10 +40,10 @@
 		"Design & Technology",
 		"English Language",
 		"Food & Nutrition",
-		"Geography",
 		"Higher Chinese",
 		"Higher Malay",
 		"Higher Tamil",
+		"History",
 		"Literature(E)",
 		"Mathematics",
 		"Music",
@@ -51,7 +51,8 @@
 		"Physics",
 		"Principles Of A/C",
 		"Science (Phy, Chem)",
-		"Social Studies"
+		"Social Studies",
+		"Tamil"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -89,7 +90,7 @@
 			"STEM": "School-wide Environment Education",
 			"Community & Youth Leadership": "Serving with values and good habits, developing the 21st century gentlemen/ ladies"
 		},
-		"Special Student Development Programmes Offered": "We believe in inculcating a love for reading across different disciplines through our school-wide morning Reading Programme to enhance exposure and interest in the different subject domains. 1-to-1 Computing with Google Chromebooks was rolled out in 2014 to equip students with 21st Century skills and to promote self-directed learning and collaborative learning. In 2016, the school embarked on our Applied Learning Programme  on Environmental Education. This distinctive programme helps our students connect academic knowledge with the real world. Our structured Aesthetics Programme aims to develop our students into refined young men and women capable of appreciating the Arts or participating in a performance. We have structured our Values-In-Action programmes to provide platforms for our students to demonstrate the school values of Propriety, Righteousness, Integrity, and Self-Respect. Sec 1 students would draw up proposals to improve the school environment; Sec 2 students spread environmental conservation messages as HDB Heartland Ambassadors and connect with the community by leading in learning journeys to Lor Halus and Punggol Ecotown; Sec 3 students conduct service learning activities locally as well as in Malaysia, and the Sec 4/5 students mentor their juniors in fund raising for Teen Challenge and Boy's Town flag day. 'Building Character and School Pride through Volleyball' is a special programme in our school that aims to develop resilience, tenacity, and leadership in our students.  With our specialised and customised training, many of our school team players have qualified to be in school teams in polytechnics and junior colleges."
+		"Special Student Development Programmes Offered": "We believe in inculcating a love for reading across different disciplines through our school-wide morning Reading Programme to enhance exposure and interest in the different subject domains. We rolled out 1-to-1 Computing with Google Chromebooks in 2014 to equip our students with 21st Century skills and to promote self-directed and collaborative learning. The school was designated as a Google Reference School by Google Singapore this year. We embarked on our Applied Learning Programme  on Environmental Education in 2016. This distinctive programme helps our students connect academic knowledge with the real world. In the same year, we also started our Learning for Life Programme on Community Youth Leadership where we structured our Values-In-Action programmes to provide platforms for our students to demonstrate the school values of Propriety, Righteousness, Integrity, and Self-Respect. Sec 1 students would draw up proposals to improve the school environment; Sec 2 students spread environmental conservation messages as HDB Heartland Ambassadors and connect with the community by leading in learning journeys to Lor Halus and Punggol Ecotown; Sec 3 students conduct service learning activities locally  and the Sec 4/5 students mentor their juniors in fund raising for Teen Challenge and Boy's Town flag day. Our structured Aesthetics Programme aims to develop our students into refined young men and women capable of appreciating the Arts or participating in a performance. 'Building Character and School Pride through Volleyball' is a special programme in our school that aims to develop resilience, tenacity, and leadership in our students.  With our specialised and customised training, many of our school team players have qualified to be in school teams in polytechnics and junior colleges."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -338,6 +339,11 @@
 				},
 				{
 					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
 					"category": "NCC (Land Boys)",
 					"award": "Silver"
 				},
@@ -350,11 +356,6 @@
 					"year": "2016",
 					"category": "Scout (Unit 1)",
 					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Silver"
 				}
 			]
 		}

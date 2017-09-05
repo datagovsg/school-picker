@@ -1,9 +1,9 @@
 {
 	"code": "1267",
+	"name": "Northoaks Primary School",
 	"levels": "P",
 	"uen": " T13GS0003F",
 	"logo": "./Medias/Images/Schools/logos/tn_1267.jpg",
-	"name": "Northoaks Primary School",
 	"website": "http://www.northoakspri.moe.edu.sg",
 	"address": "61, Sembawang Drive (757622)",
 	"telephone": [
@@ -42,6 +42,9 @@
 	],
 	"Cca": {},
 	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Innovation & Enterprise": "Curriculum Integration through Innovation@Northoakes (CI=I@northoakes)"
+		},
 		"Special Student Development Programmes Offered": "We develop our child through our Special Student Development Programme - The Leader in Me - where we focus on the 7 Habits of Highly Effective People to build lifeskills in our students. Every child can be a leader and through the programme, we teach our children to be a leader of themselves, be proactive in learning and demonstrating the school core values.  \"Project Heart\" is a two-week programme to reinforce the school core values. Through \"I choose to be a bucker filler\" and \"the five languages of love\", our children go through activities to learn and internalize the school core values.   \"HEART Vits\" targeting at the lower primary students aims to inculcate in children the school values through story-reading. The school is adopting the Curriculum Integration through Innovation (CI+I)@Northoaks to enable authentic learning by introducing \"real world\" skills in connection with integrated academic knowledge to the students. In the VUCA world, as challenges may swing a person to move from his/her values; CI+I@Northoaks will also want to reconcile the want to innovate with the need to be rooted in moral principles.  The school recognises the importance and meaning in integrating curriculum to deepen student learning. Innovation, which is a way of thinking that involves the ideation of new ideas, processes and/or products that are of value, will be the overarching concept used to integrate IP and non-IP curriculum. The school will introduce CI+I through the 6-year of Primary education and children will go through, progressively, the innovation protocol.  In the area of Arts, our children get to do the works of great artists like Kusama, Acrimboldo, Keith Haring. Not only do they present works based on these artists, they are also given opportunities for art appreciation and critique."
 	},
 	"AchievementHistory": {

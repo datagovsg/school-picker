@@ -1,9 +1,9 @@
 {
 	"code": "3101",
+	"name": "Dunman High School",
 	"levels": "SJT",
 	"uen": " T07GS3101F",
 	"logo": "./Medias/Images/Schools/logos/tn_3101.jpg",
-	"name": "Dunman High School",
 	"website": "http://www.dunmanhigh.moe.edu.sg",
 	"address": "10, Tanjong Rhu Road (436895)",
 	"telephone": [
@@ -26,7 +26,7 @@
 		"School Vision": "The premier school of Leaders of Honour",
 		"School Mission": "To nurture our students to Care, to Serve, and to Lead",
 		"School Philosophy, Culture and Ethos": "In Dunman High School, we view the twin pillars of a rigorous curriculum and character development as fundamental to the education of our students. This educational ethos is influenced by Confucian philosophy, where the Head, Heart and Hands are important in developing all-rounded individuals and Leaders of Honour who are knowledgeable, with a heart to care and serve others within and beyond the school community.",
-		"Type of School": "Government School / Co-ed School / Full Day",
+		"Type of School": "Government School / Co-ed School / Single Session",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese",
 		"Affiliated Schools": "Not Applicable"
@@ -147,8 +147,6 @@
 			"Environment Club(Senior High)",
 			"Infocomm Club",
 			"Library Society",
-			"Mass Communication Society (Senior High)",
-			"Mass Communication Society(Senior High)",
 			"Publications (Senior High)",
 			"Robotics Club",
 			"Science Society ( Senior High)",
@@ -531,6 +529,56 @@
 				},
 				{
 					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
 					"category": "Badminton",
 					"subCategory": [
 						"Zone",
@@ -638,56 +686,6 @@
 						"'C' Div"
 					],
 					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Table Tennis",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
 				},
 				{
 					"year": "2016",

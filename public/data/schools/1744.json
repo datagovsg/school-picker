@@ -1,9 +1,9 @@
 {
 	"code": "1744",
+	"name": "Admiralty Primary School",
 	"levels": "P",
 	"uen": " T07GS1744L",
 	"logo": "./Medias/Images/Schools/logos/tn_1744.jpg",
-	"name": "Admiralty Primary School",
 	"website": "http://www.admiraltypri.moe.edu.sg/",
 	"address": "11, Woodlands Circle (738907)",
 	"telephone": [
@@ -77,6 +77,7 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
+			"Music & Performing Arts": "Appreciating Diversity and Building Cross-Cultural Skills Programme",
 			"Community Service & Student Leadership": "High Performance Mind-set for Personal Leadership"
 		},
 		"Special Student Development Programmes Offered": "With globalization, it is important for our students to achieve global awareness and learn cross-cultural skills that allow them to reach out beyond the main races in Singapore to understand and work with whoever lives and work here. To achieve this goal, our Learning for Life programme on Appreciating Diversity and Building Cross-Cultural Skills helps imbue in our students the right attitude towards cultural differences, knowledge of different cultural practices and worldviews, and skills. The result will be students with an ability to understand, communicate, and effectively interact with people across cultures within and from outside of Singapore. This will strengthen our students' ability to become more involved in Singapore society that now spans even more cultural groups Our pupils develop their skills in critical thinking, communication and self-directed learning - core competencies in the 21st century.  Performance character values such as resilience and grit serve to develop personal effectiveness that allows our children to take on challenges, work hard and to confront their deficiencies and correct them. We have a 4-year performance character programme with explicit teachings of the values and skills complemented with authentic learning experiences for our children to put all that they have learned to practice. Fostering a culture of excellence will begin with the emphasis and expectation of Best Effort from every child and setting of learning goals, academic or behavior, in the classrooms and co-curricular activities.    Our children will join an ever-changing world where to maintain career satisfaction and job security, they must remain relevant; that is the ability to provide practical, pertinent contributions to whatever team they are in and whoever they are working with. Relevance will be about making an impact and a difference and we teach our children from a young age to be relevant and to stay relevant."
@@ -286,16 +287,6 @@
 				},
 				{
 					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
 					"category": "Dance - Indian",
 					"award": "Distinction"
 				},
@@ -313,6 +304,16 @@
 					"year": "2016",
 					"category": "Dance - Chinese",
 					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -338,12 +339,12 @@
 				},
 				{
 					"year": "2016",
-					"category": "Brownies (Pack 1)",
+					"category": "Scout",
 					"award": "Silver"
 				},
 				{
 					"year": "2016",
-					"category": "Scout",
+					"category": "Brownies (Pack 1)",
 					"award": "Silver"
 				}
 			]

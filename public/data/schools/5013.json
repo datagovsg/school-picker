@@ -1,9 +1,9 @@
 {
 	"code": "5013",
+	"name": "St. Margaret's Primary School",
 	"levels": "P",
 	"uen": " T07GS5013E",
 	"logo": "./Medias/Images/Schools/logos/tn_5013.jpg",
-	"name": "St. Margaret's Primary School",
 	"website": "http://www.stmargaretspri.moe.edu.sg",
 	"address": "99, Wilkie Road (228091)",
 	"telephone": [
@@ -66,7 +66,11 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Music & Performing Arts": "Dance A.L.I.V.E!: Dance for Agility, Life, Ingenuity, Versatility and Expression",
-			"Sports & Outdoor Education": "Netball A.C2.E: Netball for All, Netball for Continuity and Character, Netball for Excellence"
+			"Sports & Outdoor Education": [
+				"Sports A. C",
+				null,
+				". E: Sports for All; Sports for Continuity & Character; Sports for Excellence"
+			]
 		},
 		"Special Student Development Programmes Offered": "To enable every SMPS pupil to be an engaged and values-centred learner, the school has in place a robust instructional programme that has enabled it to help pupils achieve good PSLE results, equal to or above those of her comparable schools. This is complemented by a wide range of enrichment programmes, learning journeys and CCAs, of which two are recognised as niche of excellence (Netball) and Learning for Life Programme (Dance). The school works closely with Chapel of Christ the King, Singapore Anglican Community Services and other community partners to provide wide opportunities for a holistic education for pupils. From our surveys of P1 parents, many have chosen SMPS because of her Character Development Program. This augers well for the school's intention to position itself to be known as one that nurtures confident girls with character who aim to contribute to society  Some of the Key Programmes in the school include the following: - Learning Support Programmes   - Talent Management Programmes  - Mother Tongue Languages Cultural Week - Niche programmes: Netball and Dance - Gymnastics and Dance Programmes incorporated into PE lessons - Music Programme: includes Basic Music Theory and learning how to play instruments, e.g. recorder, ukulele and harmonica. - Primary 4 Outdoor Adventure Camp - Student Leadership Programme - Internationalization Programmes - Cultural Immersion Programme and P5 Internationalization trip"
 	},

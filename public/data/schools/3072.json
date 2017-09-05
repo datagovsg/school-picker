@@ -1,10 +1,10 @@
 {
 	"code": "3072",
+	"name": "Admiralty Secondary School",
 	"levels": "S",
 	"uen": " T07GS3072B",
 	"logo": "./Medias/Images/Schools/logos/tn_3072.jpg",
-	"name": "Admiralty Secondary School",
-	"website": "http://www.admiraltysec.moe.edu.sg/",
+	"website": "http://www.admiraltysec.moe.edu.sg",
 	"address": "31, Woodlands Crescent (737916)",
 	"telephone": [
 		"63651733",
@@ -26,7 +26,7 @@
 		],
 		"School Vision": "Values-Centric, Thinking School",
 		"School Mission": "Empowering Admirals to Actualise Their Aspirations",
-		"School Philosophy, Culture and Ethos": "Guided by our philosophy of 'Every Child Can Learn, Want to Learn and Can Achieve', we are committed to nurture every student into a confident, concerned, self-directed and contributing Admiral. We offer a student-centric, values-driven education to nurture our students in the cognitive, physical, aesthetics, social, moral and leadership domains so that our students can succeed in life and contribute to society. We believe that it takes a village to raise a child. Our dedicated team of caring educators is committed to partnering parents and the community to bring out the best in every child.",
+		"School Philosophy, Culture and Ethos": "Guided by our philosophy of 'Every Admiral, a Leader', we are committed to nurture every student into a confident, concerned, self-directed and contributing Admiral. Through the ADSS Total Curriculum, we provide a student-centric, values-driven education to nurture our students in the cognitive, physical, aesthetics, social, moral and leadership domains so that our students can succeed in life and contribute to society. We believe that it takes a village to raise a child. Our dedicated team of caring educators is committed to partnering parents and the community to bring out the best in every child.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -40,10 +40,8 @@
 		"Chemistry",
 		"Chinese",
 		"Chinese N(A)",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
-		"Combined Humanities (SS,LM)",
 		"Computer Applications",
+		"Computing",
 		"Design & Technology",
 		"Elements Of Business Skills",
 		"English Language",
@@ -55,6 +53,9 @@
 		"Higher Chinese",
 		"Higher Malay",
 		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In Malay)",
 		"Literature(E)",
 		"Malay",
 		"Malay N(A)",
@@ -62,10 +63,8 @@
 		"Mathematics (Syllabus A)",
 		"Mathematics (Syllabus T)",
 		"Music",
-		"Oecie Computer Studies (GCEO)",
 		"Physical Education",
 		"Physics",
-		"Principles Of A/C",
 		"Principles Of Accounts",
 		"Science",
 		"Science (Chem, Bio)",
@@ -105,7 +104,7 @@
 			"STEM": "Design Thinking Through Innovation and Technology",
 			"Community & Youth Leadership": "Nurturing Mindful Leaders through Community Outreach"
 		},
-		"Special Student Development Programmes Offered": "Design Thinking is used as an anchor pedagogical approach to inculcate in our students the ability to create and innovate using various technologies. Through the Design Thinking process, we seek to stretch the imagination of our students, empowering them to appreciate the relevance and value of what they are learning in the academic curriculum. To further augment students' motivation and purpose in learning new knowledge and skills, Admirals are put through a leadership programme with involvement in community outreach projects. Overseas learning experiences are organised to raise students' cross-cultural skills and to deepen their commitment and rootedness to Singapore. These include cohort trips which are organised to complement existing cultural exchange, twinning and immersion programmes."
+		"Special Student Development Programmes Offered": "Design Thinking is used as an anchor pedagogical approach to inculcate in our students the ability to solve problem and innovate using various technologies. With the use Design Thinking protocol in the Applied Learning Programme (ALP) for Robotics and Coding, we seek to stretch the imagination of our students, empowering them to appreciate the relevance and value of what they are learning in the academic curriculum. To further augment students' motivation and purpose in learning new knowledge and skills, Admirals are also put through a Learning for Life Programme (LLP) with a focus on leadership practices and involvement in community outreach projects. Overseas learning experiences are organised to raise students' cross-cultural understanding and to deepen their commitment and rootedness to Singapore. These include cohort trips which are organised to complement existing cultural exchange with twinning and immersion programmes."
 	},
 	"AchievementHistory": {
 		"Secondary": {

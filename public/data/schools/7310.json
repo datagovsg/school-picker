@@ -1,9 +1,9 @@
 {
 	"code": "7310",
+	"name": "Ngee Ann Secondary School",
 	"levels": "S",
 	"uen": " T07GS7310E",
 	"logo": "./Medias/Images/Schools/logos/tn_7310.jpg",
-	"name": "Ngee Ann Secondary School",
 	"website": "http://www.ngeeannsec.moe.edu.sg",
 	"address": "1, Tampines Street 32 (529283)",
 	"telephone": [
@@ -15,9 +15,10 @@
 	"email": "nass@moe.edu.sg",
 	"mrt": [
 		"Tampines MRT",
-		"Simei MRT"
+		"Simei MRT",
+		"Tampines East MRT"
 	],
-	"bus": "3 , 4 , 8 , 9 , 12 , 17 , 18 , 19 , 21 , 28 , 34 , 37 , 38 , 39 , 81 , 291 , 291P , 293 , 293P , 518 , 552 ",
+	"bus": "3 , 4 , 8 , 9 , 12 , 17 , 18 , 19 , 21 , 28 , 29 , 34 , 37 , 38 , 39 , 59 , 81 , 291 , 293 , 518 , 552 ",
 	"GeneralInformation": {
 		"Principal": "Mr Lim Tsun Khee Albert",
 		"Vice Principal": "Mr Leong Tshun Khong Paul",
@@ -42,6 +43,7 @@
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
 		"Computer Applications",
+		"Computing",
 		"Design & Technology",
 		"Elements Of Business Skills",
 		"English Language",
@@ -83,20 +85,20 @@
 			"Chinese Orchestra",
 			"Choir",
 			"Concert Band",
-			"Eldds",
+			"English Drama",
 			"International Dance",
 			"Jam Band",
-			"Multimedia And Infocomm Club",
 			"Photography Club",
 			"String Ensemble"
 		],
 		"Clubs & Societies": [
 			"Horticulture Club",
-			"International Chess"
+			"International Chess",
+			"Multimedia And Infocomm Club"
 		]
 	},
 	"SpecialProgrammes": {
-		"Special Student Development Programmes Offered": "Ngee Ann Secondary offers a plethora of learning experiences to develop our students to be global citizens of the future. To encourage self-directed learning, our school offers 1-to-1 computing where students bring a personal learning device for lessons. Our SPARKS Talent Development Programme stretches students with potential in Mathematics and Science. Students who have a flair for the English Language are challenged and developed through our Humanities (CHAMPS) Programme. As a school offering the Enhanced Art Programme, we develop in students a love for and mastery of art and design. Other unique student experiences offered by the school include learning about Social Etiquette & Fine Dining, Programming, Innovation & Entrepreneurship Training, and Traditional Chinese Medicine. Our students acquire leadership skills through local and overseas Adventure Camps and Leadership Training Camps. Students also have opportunities to participate in overseas exchanges and cultural programmes for global exposure, as well as international competitions. We provide a range of platforms for students to discover their talents in sports and the performing arts, including lunchtime concerts and NASlympics."
+		"Special Student Development Programmes Offered": "Ngee Ann Secondary offers a plethora of learning experiences to develop our students to be global citizens of the future. To encourage self-directed learning, our school offers 1-to-1 computing where students bring a personal learning device for lessons. Our SPARKS Talent Development Programme stretches students with potential in Mathematics and Science. Students who have a flair for the English Language are challenged and developed through our Humanities (CHAMPS) Programme. As a school offering the Enhanced Art Programme, we develop in students a love for and mastery of art and design. Other unique student experiences offered by the school include learning about Social Etiquette & Fine Dining, Programming, Innovation & Entrepreneurship Training, and Traditional Chinese Medicine. Our students acquire leadership skills through Adventure Camps and Leadership Training Camps. Students also have opportunities to participate in overseas exchanges and cultural programmes for global exposure, as well as international competitions."
 	},
 	"AchievementHistory": {
 		"Secondary": {

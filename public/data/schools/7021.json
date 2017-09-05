@@ -1,9 +1,9 @@
 {
 	"code": "7021",
+	"name": "St. Margaret's Secondary School",
 	"levels": "S",
 	"uen": " T07GS7021L",
 	"logo": "./Medias/Images/Schools/logos/tn_7021.jpg",
-	"name": "St. Margaret's Secondary School",
 	"website": "http://www.stmargaretssec.moe.edu.sg",
 	"address": "111, Farrer Road (259240)",
 	"telephone": [
@@ -43,6 +43,7 @@
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
 		"Combined Humanities (S,L)",
+		"Drama",
 		"Elements Of Business Skills",
 		"English Language",
 		"Food & Nutrition",
@@ -55,7 +56,6 @@
 		"Malay",
 		"Mathematics",
 		"Music 'O' Level",
-		"Oecie Drama (GCEO)",
 		"Physics",
 		"Principles Of A/C",
 		"Science (Chem, Bio)",
@@ -70,7 +70,6 @@
 			"Fencing",
 			"Floorball",
 			"Netball",
-			"Rhythmic Gymnastics",
 			"Ten-Pin Bowling",
 			"Tennis"
 		],
@@ -490,6 +489,11 @@
 				},
 				{
 					"year": "2016",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
 					"category": "Art - Category B",
 					"award": "Recognition"
 				},
@@ -532,11 +536,6 @@
 					"year": "2016",
 					"category": "Ensemble - Strings",
 					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
 				}
 			],
 			"Best Unit Award": [

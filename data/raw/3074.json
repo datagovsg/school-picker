@@ -96,6 +96,102 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
+			"2005": {},
+			"2006": {},
+			"2007": {
+				"SYF Central Judging": {
+					"Ensemble - Angklung / Kulintang": "Bronze",
+					"Orchestra - Chinese": "Bronze"
+				}
+			},
+			"2008": {
+				"SYF Central Judging": {
+					"Ensemble - Angklung / Kulintang": "Bronze",
+					"Orchestra - Chinese": "Bronze"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Silver"
+				}
+			},
+			"2009": {
+				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Dance - International": "Bronze",
+					"Drama - English": "Bronze",
+					"Ensemble - Angklung / Kulintang": "Bronze",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Silver"
+				}
+			},
+			"2010": {
+				"SYF Central Judging": {
+					"Art & Craft (Silver)": "1 Award",
+					"Choir": "Bronze",
+					"Dance - International": "Bronze",
+					"Drama - English": "Bronze",
+					"Ensemble - Angklung / Kulintang": "Bronze",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Silver"
+				}
+			},
+			"2011": {
+				"Achievement Award": "AA (Academic Value-added) (Special/Express)",
+				"SYF Central Judging": {
+					"Art & Craft (Silver)": "1 Award",
+					"Choir": "Silver",
+					"Dance - International": "Silver",
+					"Drama - English": "Silver",
+					"Ensemble - Angklung / Kulintang": "Silver",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Gold"
+				}
+			},
+			"2012": {
+				"Sustained Achievement Award": "SAA (Uniformed Groups)",
+				"SYF Central Judging": {
+					"Art & Craft (Gold)": "2 Awards",
+					"Choir": "Silver",
+					"Dance - International": "Silver",
+					"Drama - English": "Silver",
+					"Ensemble - Angklung / Kulintang": "Silver",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Gold"
+				}
+			},
+			"2013": {
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)"
+				],
+				"Sustained Achievement Award": "SAA (Uniformed Groups)",
+				"SYF Arts Presentation": {
+					"Art & Craft (Gold)": "2 Awards",
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Accomplishment",
+					"Orchestra - Chinese": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Gold"
+				}
+			},
 			"2014": {
 				"SYF Arts Presentation": {
 					"Choir": "Distinction",
@@ -143,6 +239,143 @@
 		}
 	},
 	"PsleAggregateHistory": {
+		"2005": {},
+		"2006": {
+			"Express": [
+				"188",
+				"234",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"157",
+				"196",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"88",
+				"112",
+				"None-posted"
+			]
+		},
+		"2007": {
+			"Express": [
+				"188",
+				"251",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"116",
+				"116",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"72",
+				"115",
+				"None-posted"
+			]
+		},
+		"2008": {
+			"Express": [
+				"189",
+				"239",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"113",
+				"118",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"67",
+				"106",
+				"None-posted"
+			]
+		},
+		"2009": {
+			"Express": [
+				"192",
+				"235",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"119",
+				"128",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"82",
+				"110",
+				"None-posted"
+			]
+		},
+		"2010": {
+			"Express": [
+				"192",
+				"241",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"157",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"93",
+				"158",
+				"None-posted"
+			]
+		},
+		"2011": {
+			"Express": [
+				"194",
+				"247",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"157",
+				"186",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"114",
+				"151",
+				"None-posted"
+			]
+		},
+		"2012": {
+			"Express": [
+				"195",
+				"230",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"159",
+				"192",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"124",
+				"159",
+				"None-posted"
+			]
+		},
+		"2013": {
+			"Express": [
+				"194",
+				"224",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"160",
+				"190",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"129",
+				"153",
+				"None-posted"
+			]
+		},
 		"2014": {
 			"Express": [
 				"199",

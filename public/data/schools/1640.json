@@ -1,9 +1,9 @@
 {
 	"code": "1640",
+	"name": "Boon Lay Garden Primary School",
 	"levels": "P",
 	"uen": " T07GS1640C",
 	"logo": "./Medias/Images/Schools/logos/tn_1640.jpg",
-	"name": "Boon Lay Garden Primary School",
 	"website": "http://www.boonlaygardenpri.moe.edu.sg",
 	"address": "20, Boon Lay Drive (649930)",
 	"telephone": [
@@ -27,7 +27,7 @@
 		"School Vision": "The Garden where diversity blossoms",
 		"School Mission": "Together we nurture for a better future",
 		"School Philosophy, Culture and Ethos": "In Boon Lay Garden Primary School - the Garden where diversity blossoms, we believe that every child is unique and deserves a vibrant learning environment to pursue his/her passion, discover strengths and maximize potential.  We aim to nurture students who are Future Ready with Strong Fundamentals - each a Thinker, Leader and Contributor imbued in values and equipped with knowledge, skills and competencies.    We embrace all our students who come from diverse backgrounds and demonstrate the culture of care by providing them a safe and nurturing environment. Teachers establish positive teacher-student relationships so that they feel secured and happy. This positive bond with the students creates supportive spaces for their learning and well-being.     We believe in developing students who are rooted in values. The school's character education programme anchored on our CAREs values (Cooperation, A* Attitude, Respect, Effort Leading to Success in Everything We Do) aims to nurture students who exhibit these values in the school and beyond. Teachers demonstrate CAREs values for students to observe and learn from examples.    We are a school that seeks to maximize the diverse talents and interests of each child by providing a total learning experience in the cognitive, social moral, aesthetic and leadership domains. We inspire our students to achieve their dreams. We create a vibrant learning institution where both students and staff are holistically developed to be the best they can be to embrace the future.",
-		"Type of School": "Government School / Co-ed School / Double Session",
+		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
 	},
@@ -73,12 +73,14 @@
 			"Malay Dance"
 		],
 		"Clubs & Societies": [
+			"Av Club",
 			"Games Club"
 		]
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Interdisciplinary": "Thinking curriculum through Habits of Mind @ BLGPS - Developing Self-directed Learners"
+			"Interdisciplinary": "Thinking curriculum through Habits of Mind @ BLGPS - Developing Self-directed Learners",
+			"Community Service & Student Leadership": "Environment Education at Boon Lay Garden Primary School"
 		},
 		"Special Student Development Programmes Offered": "Applied Learning Programme - Habits of Mind (HOM) The school embarked on HOM to enable students to go through thinking processes and display thinking dispositions to become self-directed learners. Students acquire knowledge and skills during the explicit teaching of HOM. The games approach is used to teach these habits and inject the element of fun. Video clips, group activities and reflections provide a myriad of learning experiences. Students also engage in activities conducted during pre-assembly sessions and continue the fun of learning beyond the curriculum by using board games. These habits are further integrated in the academic and non-academic subjects to enable students to internalize and display the thinking dispositions of self-directed learners.  Learning Buffet Learning Buffet is a platform where students immerse themselves in the Hi-5 experience-Intellectual, Technological, Art and Cultural, Life-skills and Leadership. The school transforms into borderless classrooms where students have the autonomy to select and attend workshops based on their interests. Hands-on learning experiences enable them to discover their strengths and ignite their curiosity.   Innovators' Hatter Day Innovators' Hatter Day-a day of ideation which allows students to think and come out with creative solutions to authentic problems. Students are presented with innovative modifications of everyday items to expose them to authentic problems and solutions. This progresses to Hatter Challenge where they are encouraged to identify challenges around them, brainstorm ideas and build prototypes as part of the solutions.  On this day, students showcase their Inter-disciplinary Project Work (IPW) by presenting their research-based solutions to current and anticipated problems. This prepares them to become future-ready problem solvers. Concurrent to the IPW exhibition is Innocube-a Thinking Hub where students use recycled materials to illustrate and share ideas on environmental problems."
 	},

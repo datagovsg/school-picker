@@ -1,9 +1,9 @@
 {
 	"code": "3063",
+	"name": "Jurongville Secondary School",
 	"levels": "S",
 	"uen": " T07GS3063D",
 	"logo": "./Medias/Images/Schools/logos/tn_3063.jpg",
-	"name": "Jurongville Secondary School",
 	"website": "http://www.jurongvillesec.moe.edu.sg",
 	"address": "202, Jurong East Avenue 1 (609790)",
 	"telephone": [
@@ -25,7 +25,7 @@
 			"Mr Koh Yong Hwee"
 		],
 		"School Vision": "Everyone Empowered and Enlightened",
-		"School Mission": "To nurture our students to be dynamic learners, gracious and concerned citizens, empowered to lead and serve.",
+		"School Mission": "To nurture our students into lifelong learners anchored in PRIDE values, to lead and to serve",
 		"School Philosophy, Culture and Ethos": "We are guided by our philosophy 'Everyone can Learn, Everyone can Achieve and Everyone can Contribute' in our efforts to nurture our students to be empowered and enlightened. We offer a student-centric, values-driven education that helps our students to enjoy their school experience as well as to pursue their passion and interests for life-long learning. Over the years, our students have done well in both the academic and non-academic domains. Our school community strongly believes in the school motto 'Beyond Self' in leading the school towards achieving our vision. Our students' success is due to the hard work of a nurturing team of dedicated teachers, supportive parents, alumni and community.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -36,6 +36,7 @@
 		"Art",
 		"Basic Chinese",
 		"Basic Malay",
+		"Basic Tamil",
 		"Biology",
 		"Chemistry",
 		"Chinese",
@@ -72,7 +73,6 @@
 		"Smart Electrical Technology",
 		"Social Studies",
 		"Tamil",
-		"Tamil B",
 		"Tamil N(A)"
 	],
 	"Cca": {
@@ -110,7 +110,7 @@
 			"STEM": "Science in Health and Wellness – An Interdisciplinary Approach",
 			"Sports & Outdoor Education": "Sports for Life"
 		},
-		"Special Student Development Programmes Offered": "Jurongville Secondary provides a range of programmes to inculcate values and prepare our students for life. The school's two distinctive programmes are \"Sports for Life\" and \"Real World Learning Through Electronics\" programmes. \"Sports for Life\" is the school's Learning for Life programme. It exposes students to a variety of sports electives, empowers them to be leaders and enables those with talent to excel in a particular sport. The programme builds on the school's active sporting culture to allow all students to learn a wide range of sports and games, so that they develop positive attitudes towards a healthy lifestyle and are ready for active sports participation even beyond schooling years. Through the programme, students also learn to organise sports events and acquire useful skills, both in sports and in more generic domains. The school has also formed networks with many sporting associations and clubs to provide opportunities for students who demonstrate talent in these areas to train with these clubs. Values and life skills are taught explicitly through the school's \"Sports for Life\". This unique character development approach in complemented by a strong service learning and empowerment orientation of the school, where programmes like Values-in-Action (local & overseas), Level Camps, and the JVS Leadership Development Programme serve as authentic platforms for character building in all its students. Through our Applied Learning Programme, 'Real World Learning Through Electronics', we provide opportunities for our students to engage in authentic tasks and to acquire 21st Century Competencies. Students will learn and understand concepts and issues related to electronics, and work in teams to apply concepts learnt to solve electronic-related tasks. The infusion of Electronics Education into the curriculum is designed to achieve synergistic learning outcomes for students."
+		"Special Student Development Programmes Offered": "At Jurongville Secondary School, we believe in preparing our students for life. The school envisions each student to be a concerned citizen and a caring leader within and beyond the school community. Through the CCE and Leadership Curriculum, we engage our students in learning, achieving and contributing beyond self towards a larger community. There are two core programmes that allow students to exhibit Values in Action: the Overseas Service Learning (OSL) in countries such as Cambodia and Indonesia, and Values-in-Action (VIA) programmes. We believe that every student have potential and can be developed.  Thus, in Jurongville Secondary School, we provide a comprehensive and holistic curriculum and strive to provide learning opportunities for the varying needs and interests of our students. As such, Jurongville Secondary prides itself in offering 2 distinctive programmes, 'Real-World Learning Through Electronics' and 'Sports for Life'. In the Applied Learning Programme, 'Real-World Learning Through Electronics', all students receive opportunities to learn electronics and apply their learning in real-world settings. Lower Secondary students design electronic games and assistive technologies to help the community such as toys, walking sticks and LED shoes. Upper Secondary students have the opportunity to specialise in programmes that suit their strengths and interests. These include taking up the O-level Applied Subject, 'Electronics', ITE Applied Subject, 'Smart Electrical Technology'. 'Sports for Life' is a whole-school approach to character building through sports. Here, we teach students that the building of positive relationships is key to learning and growth. Besides DSA Sports in Tchoukball, Football and Netball, the students get to choose and enjoy a variety of sports in their PE lessons through games electives. Beyond PE curriculum, students could also opt for sports CCAs like Basketball, Sailing, Badminton, Sepak Takraw."
 	},
 	"AchievementHistory": {
 		"Secondary": {

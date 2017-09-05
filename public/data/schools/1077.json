@@ -1,9 +1,9 @@
 {
 	"code": "1077",
+	"name": "Rosyth School",
 	"levels": "P",
 	"uen": " T07GS1077L",
 	"logo": "./Medias/Images/Schools/logos/tn_1077.jpg",
-	"name": "Rosyth School",
 	"website": "http://www.rosyth.moe.edu.sg",
 	"address": "21, Serangoon North Avenue 4 (555855)",
 	"telephone": [
@@ -304,7 +304,7 @@
 					"year": "2016",
 					"category": "Wushu",
 					"subCategory": [
-						"Zone",
+						"National",
 						"Girls",
 						"Junior"
 					],
@@ -314,7 +314,7 @@
 					"year": "2016",
 					"category": "Wushu",
 					"subCategory": [
-						"Zone",
+						"National",
 						"Girls",
 						"Senior"
 					],

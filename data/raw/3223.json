@@ -95,6 +95,150 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
+			"2005": {},
+			"2006": {
+				"Best Unit Award": {
+					"Npcc": "Silver",
+					"Scout": "Silver",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			},
+			"2007": {
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Gold",
+					"Dance - Malay": "Silver",
+					"Ensemble - Guzheng": "Gold"
+				},
+				"Best Unit Award": {
+					"Npcc": "Silver",
+					"Scout": "Silver",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			},
+			"2008": {
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Gold",
+					"Dance - Malay": "Silver",
+					"Ensemble - Guzheng": "Gold"
+				},
+				"Best Unit Award": {
+					"Npcc (Land)": "Silver",
+					"Scout (Unit 1)": "Gold"
+				}
+			},
+			"2009": {
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Gold",
+					"Dance - Malay": "Gold",
+					"Drama - English": "Bronze",
+					"Ensemble - Guzheng": "Gold"
+				},
+				"Best Unit Award": {
+					"Npcc": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			},
+			"2010": {
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Gold",
+					"Dance - Malay": "Gold",
+					"Drama - English": "Bronze",
+					"Ensemble - Guzheng": "Gold"
+				},
+				"Best Unit Award": {
+					"Npcc (Land)": "Silver",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			},
+			"2011": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": "AA (Academic Value-added) (Special/Express)",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Uniformed Groups)"
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - Malay": "Silver",
+					"Ensemble - Guzheng": "Gold",
+					"Drama - English": "Bronze"
+				},
+				"Best Unit Award": {
+					"Npcc (Land)": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			},
+			"2012": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Uniformed Groups)"
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - Malay": "Silver",
+					"Drama - English": "Bronze",
+					"Ensemble - Guzheng": "Gold"
+				},
+				"Best Unit Award": {
+					"Npcc (Land)": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2013": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": [
+					"AA (Academic Value-added) (Special/Express)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Uniformed Groups)"
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction",
+					"Dance - Chinese": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Npcc (Land)": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
 			"2014": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -156,6 +300,159 @@
 		}
 	},
 	"PsleAggregateHistory": {
+		"2005": {
+			"Express": [
+				"188",
+				"250",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"157",
+				"193",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"71",
+				"105",
+				"None-posted"
+			]
+		},
+		"2006": {
+			"Express": [
+				"200",
+				"231",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"161",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"87",
+				"112",
+				"None-posted"
+			]
+		},
+		"2007": {
+			"Express": [
+				"208",
+				"231",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"163",
+				"194",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"85",
+				"114",
+				"None-posted"
+			]
+		},
+		"2008": {
+			"Express": [
+				"210",
+				"231",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"171",
+				"195",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"94",
+				"112",
+				"None-posted"
+			]
+		},
+		"2009": {
+			"Express": [
+				"215",
+				"239",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"172",
+				"196",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"92",
+				"109",
+				"None-posted"
+			]
+		},
+		"2010": {
+			"Express": [
+				"215",
+				"236",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"172",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"97",
+				"153",
+				"None-posted"
+			]
+		},
+		"2011": {
+			"Express": [
+				"216",
+				"241",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"157",
+				"196",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"124",
+				"156",
+				"None-posted"
+			]
+		},
+		"2012": {
+			"Express": [
+				"214",
+				"228",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"169",
+				"192",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"126",
+				"158",
+				"None-posted"
+			]
+		},
+		"2013": {
+			"Express": [
+				"216",
+				"229",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"165",
+				"192",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"128",
+				"154",
+				"None-posted"
+			]
+		},
 		"2014": {
 			"Express": [
 				"212",

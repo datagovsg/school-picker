@@ -1,9 +1,9 @@
 {
 	"code": "7105",
+	"name": "Chung Cheng High School (Yishun)",
 	"levels": "S",
 	"uen": " T07GS7105J",
 	"logo": "./Medias/Images/Schools/logos/tn_7105.jpg",
-	"name": "Chung Cheng High School (Yishun)",
 	"website": "http://www.chungchenghighyishun.moe.edu.sg",
 	"address": "11, Yishun Street 61 (768547)",
 	"telephone": [
@@ -48,6 +48,7 @@
 		"Combined Humanities (S,L)",
 		"Combined Humanities (SS,LC)",
 		"Computer Applications",
+		"Computing",
 		"Design & Technology",
 		"Elements Of Business Skills",
 		"English Language",
@@ -66,7 +67,6 @@
 		"Mathematics (Syllabus A)",
 		"Mathematics (Syllabus T)",
 		"Music",
-		"Oecie Computer Studies (GCEO)",
 		"Physical Education",
 		"Physics",
 		"Principles Of A/C",
@@ -104,7 +104,6 @@
 			"Ava Club",
 			"Entrepreneur Club",
 			"Green Club",
-			"Peer Support Leaders",
 			"Student Council"
 		]
 	},
@@ -113,7 +112,7 @@
 			"STEM": "Developing Analytical, Research, Communication and Interpersonal Skills through Food Science and Technology",
 			"Music & Performing Arts": "Developing Values Through Aesthetics"
 		},
-		"Special Student Development Programmes Offered": "The school is implementing greater flexibility in subject offering at lower secondary levels.  Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results.  Beyond the start of Secondary 1, students can also do so if they do well in those subjects. The school's Learning for Life Programme 'Developing Character by understanding Chinese culture and values through Aesthetics' imbues in all students a deeper understanding and appreciation of Chinese culture, values and philosophy through music and the arts.  They will develop critical thinking skills and advanced skills in communication, interpretation and perception related to music and the arts.  It complements the school-designed Dizigui curriculum that includes the teaching of Chinese morals and values to all our students. The school's Applied Learning Programme 'Developing Analytical, Research, Communication and Interpersonal Skills through Food Science and Technology' equips our students with the scientific knowledge and skills, as well as 21st century competencies, to develop an interest in the area of food processing, security and safety, focusing on developing scientific literacy in our students."
+		"Special Student Development Programmes Offered": "The school's Learning for Life Programme 'Developing Character by understanding Chinese culture and values through Aesthetics' imbues in all students a deeper understanding and appreciation of Chinese culture, values and philosophy through music and the arts.  They will develop critical thinking skills and advanced skills in communication, interpretation and perception related to music and the arts.  It complements the school-designed Dizigui curriculum that includes the teaching of Chinese morals and values to all our students. The school's Applied Learning Programme 'Developing Analytical, Research, Communication and Interpersonal Skills through Food Science and Technology' equips our students with the scientific knowledge and skills, as well as 21st century competencies, to develop an interest in the area of food processing, security and safety, focusing on developing scientific literacy in our students."
 	},
 	"AchievementHistory": {
 		"Secondary": {

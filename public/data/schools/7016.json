@@ -1,9 +1,9 @@
 {
 	"code": "7016",
+	"name": "St. Anthony's Canossian Secondary School",
 	"levels": "S",
 	"uen": " T07GS7016H",
 	"logo": "./Medias/Images/Schools/logos/tn_7016.jpg",
-	"name": "St. Anthony's Canossian Secondary School",
 	"website": "http://www.stanthonyscanossiansec.moe.edu.sg",
 	"address": "1600, Bedok North Avenue 4 (469700)",
 	"telephone": [
@@ -26,7 +26,7 @@
 		"Vice Principal (Admin)": "Miss Chew Ping Ping Grace",
 		"School Vision": "A passionate learning community that embraces innovation and excellence within a culture of compassion.",
 		"School Mission": "To nurture and empower Canossians through a holistic curriculum to be persons of integrity committed to serve God and others.",
-		"School Philosophy, Culture and Ethos": "The 'Formation of the Heart' is central to our education programme. We focus on the holistic development of students to enable them to reach their full potential and, at the same time, develop the attitudes and habits that will make them good women committed to God, compassionate to all and cheerful in service to others. Also central to a Canossian Education is the person-centeredness of the teacher and learner. The teachers and students respect the dignity of each person - irrespective of their intellectual, emotional, social and cultural background. We believe in nurturing our students in an atmosphere of warmth and affection, yet showing firmness when necessary, so that they will grow in self-discipline and experience joy in learning and growing. Brain-Based Learning has been deployed as a whole-school approach to teaching and learning as we believe that learning should be in accordance with the way the brain is naturally designed to learn.",
+		"School Philosophy, Culture and Ethos": "The 'Formation of the Heart' is central to our education programme. We focus on the holistic development of students to enable them to reach their full potential and, at the same time, develop the attitudes and habits that will make them good women committed to God, compassionate to all and cheerful in service to others. Also central to a Canossian Education is the person-centeredness of the teacher and learner. The teachers and students respect the dignity of each person - irrespective of their intellectual, emotional, social and cultural background. We believe in nurturing our students in an atmosphere of warmth and affection, yet showing firmness when necessary, so that they will grow in self-discipline and experience joy in learning. Brain-Based Learning has been deployed as a whole-school approach to teaching and learning as we believe that learning should be in accordance with the way the brain is naturally designed to learn.",
 		"Type of School": "Government-aided Sch / Girls' School / Single Session",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -50,6 +50,7 @@
 		"Combined Humanities (S,L)",
 		"Computer Applications",
 		"Design & Technology",
+		"Drama",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
@@ -64,7 +65,6 @@
 		"Mathematics (Syllabus A)",
 		"Mathematics (Syllabus T)",
 		"Music",
-		"Oecie Drama (GCEO)",
 		"Physical Education",
 		"Physics",
 		"Principles Of Accounts",
@@ -85,7 +85,7 @@
 		],
 		"Uniformed Groups": [
 			"Girl Guides",
-			"St John Ambulance Brigade"
+			"St. John Brigade"
 		],
 		"Visual and Performing Arts": [
 			"Band - Concert",
@@ -107,7 +107,7 @@
 		]
 	},
 	"SpecialProgrammes": {
-		"Special Student Development Programmes Offered": "Performing Arts Education, which is delivered as part of the lower secondary curriculum for all students, aims to develop students with a good foundation in music and drama, as well as to promote an appreciation for the arts and aesthetics. Through this programme, students develop problem-solving abilities and thinking skills like analysing, synthesising and evaluating. This helps them identify, appreciate and deepen their understanding of the art forms of our different ethnic and other national communities. Different modes of assessment have been used to measure the level of cognitive and affective development in the subject. Various platforms, such as the Performing Arts Showcases and Arts Alive! Concerts, have also been organised for students to display their talents by performing to the school community and stakeholders. The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "Performing Arts Education, which is delivered as part of the lower secondary curriculum for all students, aims to develop students with a good foundation in music and drama, as well as to promote an appreciation for the arts and aesthetics. Through this programme, students develop problem-solving abilities and thinking skills like analysing, synthesising and evaluating. This helps them identify, appreciate and deepen their understanding of the art forms of our different ethnic and other national communities. Different modes of assessment have been used to measure the level of cognitive and affective development in the subject. Various platforms, such as the Performing Arts Showcases and Arts Alive! Concerts, have also been organised for students to display their talents by performing to the school community and stakeholders."
 	},
 	"AchievementHistory": {
 		"Secondary": {

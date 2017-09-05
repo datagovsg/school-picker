@@ -1,9 +1,9 @@
 {
 	"code": "1740",
+	"name": "North View Primary School",
 	"levels": "P",
 	"uen": " T07GS1740E",
 	"logo": "./Medias/Images/Schools/logos/tn_1740.jpg",
-	"name": "North View Primary School",
 	"website": "http://www.northviewpri.moe.edu.sg",
 	"address": "210, Yishun Avenue 6 (768960)",
 	"telephone": [
@@ -153,6 +153,11 @@
 				},
 				{
 					"year": "2016",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
 					"category": "Choir",
 					"award": "Accomplishment"
 				},
@@ -170,11 +175,6 @@
 					"year": "2016",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [

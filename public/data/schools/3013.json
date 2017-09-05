@@ -1,9 +1,9 @@
 {
 	"code": "3013",
+	"name": "Tanjong Katong Girls' School",
 	"levels": "S",
 	"uen": " T07GS3013A",
 	"logo": "./Medias/Images/Schools/logos/tn_3013.jpg",
-	"name": "Tanjong Katong Girls' School",
 	"website": "http://www.tkgs.moe.edu.sg",
 	"address": "2, Bedok South Road (469268)",
 	"telephone": [
@@ -18,7 +18,7 @@
 	"mrt": [
 		"Bedok MRT"
 	],
-	"bus": "Bedok South Road :16 , 31 , 38 , 196 , 196A , 197 , 229 New Upper Changi Road:9 , 9A , 24 , 25 , 28 , 31 , 35 , 35M , 222 ",
+	"bus": "2 , 7 , 16 , 24 , 25 , 28 , 30 , 30E , 31 , 32 , 33 , 38 , 40 , 67 , 196 , 197 , 222 , 229 , 401 , 854 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Wong Yee Min Mary",
 		"Vice Principal": [
@@ -45,6 +45,7 @@
 		"Combined Humanities (S,H)",
 		"Combined Humanities (S,L)",
 		"Design & Technology",
+		"Drama",
 		"English Language",
 		"Food And Consumer Education",
 		"Geography",
@@ -58,7 +59,6 @@
 		"Music",
 		"Music (MEP)",
 		"Music 'O' Level",
-		"Oecie Drama (GCEO)",
 		"Oecie Economics (GCEO)",
 		"Physics",
 		"Science (Chem, Bio)",

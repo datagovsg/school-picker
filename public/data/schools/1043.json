@@ -1,9 +1,9 @@
 {
 	"code": "1043",
+	"name": "Teck Whye Primary School",
 	"levels": "P",
 	"uen": " T07GS1043A",
 	"logo": "./Medias/Images/Schools/logos/tn_1043.jpg",
-	"name": "Teck Whye Primary School",
 	"website": "http://www.teckwhyepri.moe.edu.sg",
 	"address": "11, Teck Whye Walk (688261)",
 	"telephone": [
@@ -47,10 +47,38 @@
 		"Social Studies",
 		"Tamil"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Athletics",
+			"Basketball",
+			"Football",
+			"Hockey",
+			"Sepak Takraw",
+			"Table Tennis",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Brownies",
+			"Cadet Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Choir",
+			"Dance - Chinese",
+			"Dance - Malay",
+			"Idesign Club",
+			"Speech And Drama Club"
+		],
+		"Clubs & Societies": [
+			"Infocomm Club - Photography",
+			"Saving Gaia"
+		],
+		"Others": [
+			"Student Leadership"
+		]
+	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"ICT": "Media Whiz Kids!",
+			"ICT & Media": "Media Whiz Kids!",
 			"Community Service & Student Leadership": "I-LEAD, I-SERVE – Leadership through and as Service"
 		},
 		"Special Student Development Programmes Offered": "Teck Whye Primary's Applied Learning Programme (ALP) is entitled 'Media Whiz Kids!', a media and media literacy-based programme. The programme aims to enable our students to apply the knowledge and skills acquired in Languages, Technology, Art and Music to authentic and meaningful contexts.  Specialised media programmes will support those with talents and a keen interest through our various CCAs such as the Infocomm Club, iDesign Club, and Speech and Drama Club. The ALP is intended to develop confident students who can put across their thoughts and ideas verbally and in written form in both digital and non-digital platforms, and are able to harness relevant tools and media to enhance communication. Programming to promote computational thinking will also be introduced to students as part of this ALP.  Our Learning for Life Programme (LLP), entitled 'I Lead, I Serve', is a leadership development programme which adapts Kouzes and Posner's five practices of exemplary leadership to guide the development of leadership competencies. Stories will be used as a primary means to raise awareness of leadership skills and dilemmas. The programme is centred on a core belief that leadership is about service to others and students will be involved in a range of learning experiences which will vary in complexity depending on their ages and leadership roles.  The school's CHAMP programme emphasises the development of character and students will have the opportunity to reflect and act on the school values. Parents are also encouraged to be involved as part of this programme.  Our students also undergo a variety of other special programmes as part of the school curriculum. These include structured Arts development from P1-6 where they will learn about musical instruments such as the Ukulele and digital keyboards, and art forms such as Manga, Chinese Painting and Batik Painting. Sports programmes such as Tennis, Archery and Bowling are also provided to broaden our students' experiences."

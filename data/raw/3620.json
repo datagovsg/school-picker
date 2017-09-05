@@ -111,6 +111,191 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Bronze",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2007": {
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Ensemble - Guitar": "Silver",
+					"Ensemble - Guzheng": "Bronze"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc": "Bronze",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			},
+			"2008": {
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Ensemble - Guitar": "Silver",
+					"Ensemble - Guzheng": "Bronze"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Bronze",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			},
+			"2009": {
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Ensemble - Guitar": "Silver",
+					"Ensemble - Guzheng": "Bronze"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Bronze",
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc": "Silver",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2010": {
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Ensemble - Guitar": "Silver",
+					"Ensemble - Guzheng": "Bronze"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Bronze",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2011": {
+				"Development Award": "DA (Character Development)",
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Uniformed Groups)"
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Ensemble - Guitar": "Gold",
+					"Ensemble - Guzheng": "Bronze"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Bronze",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2012": {
+				"Development Award": "DA (Character Development)",
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Uniformed Groups)"
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Ensemble - Guitar": "Gold",
+					"Ensemble - Guzheng": "Bronze"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Silver",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2013": {
+				"Development Award": "DA (Character Development)",
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Uniformed Groups)"
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Silver",
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
 			"2014": {
 				"Development Award": "DA (Character Development)",
 				"SYF Arts Presentation": {
@@ -161,6 +346,159 @@
 		}
 	},
 	"PsleAggregateHistory": {
+		"2005": {
+			"Express": [
+				"197",
+				"230",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"165",
+				"190",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"65",
+				"110",
+				"None-posted"
+			]
+		},
+		"2006": {
+			"Express": [
+				"200",
+				"240",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"165",
+				"195",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"90",
+				"112",
+				"None-posted"
+			]
+		},
+		"2007": {
+			"Express": [
+				"206",
+				"253",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"167",
+				"196",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"95",
+				"111",
+				"None-posted"
+			]
+		},
+		"2008": {
+			"Express": [
+				"206",
+				"240",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"171",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"97",
+				"116",
+				"None-posted"
+			]
+		},
+		"2009": {
+			"Express": [
+				"211",
+				"246",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"172",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"68",
+				"110",
+				"None-posted"
+			]
+		},
+		"2010": {
+			"Express": [
+				"209",
+				"244",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"174",
+				"197",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"79",
+				"155",
+				"None-posted"
+			]
+		},
+		"2011": {
+			"Express": [
+				"211",
+				"236",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"153",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"78",
+				"158",
+				"None-posted"
+			]
+		},
+		"2012": {
+			"Express": [
+				"210",
+				"251",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"165",
+				"194",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"115",
+				"153",
+				"None-posted"
+			]
+		},
+		"2013": {
+			"Express": [
+				"210",
+				"239",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"164",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"126",
+				"151",
+				"None-posted"
+			]
+		},
 		"2014": {
 			"Express": [
 				"208",

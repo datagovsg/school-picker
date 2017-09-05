@@ -1,9 +1,9 @@
 {
 	"code": "5026",
+	"name": "Singapore Chinese Girls' Primary School",
 	"levels": "PF",
 	"uen": " T07GS5026J",
 	"logo": "./Medias/Images/Schools/logos/tn_5026.jpg",
-	"name": "Singapore Chinese Girls' Primary School",
 	"website": "http://www.scgs.moe.edu.sg",
 	"address": "190, Dunearn Road (309437)",
 	"telephone": [
@@ -22,6 +22,7 @@
 	"GeneralInformation": {
 		"Principal": "Mdm Tan Yunchin Eugenia",
 		"Vice Principal": "Miss Susanna Chau",
+		"Vice Principal (Admin)": "Mdm Chong Pei Sie",
 		"School Vision": "To be an asset to the country by developing capable women of character and relevance.",
 		"School Mission": "To inspire and develop every pupil to fulfil her fullest potential, according to her individual pace and aspirations, so as to prepare her for meaningful roles in the community.",
 		"Type of School": "Government-aided Sch / Girls' School / Single Session",
@@ -169,13 +170,13 @@
 				},
 				{
 					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Accomplishment"
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Distinction"
 				},
 				{
 					"year": "2016",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -205,14 +206,8 @@
 					"award": "Gold"
 				}
 			]
-		},
-		"Secondary": {
-			"Sports & Games Competition": [],
-			"SYF": [],
-			"Best Unit Award": []
 		}
 	},
-	"PsleAggregateHistory": [],
 	"postalCode": "309437",
 	"coordinates": [
 		103.827976504,

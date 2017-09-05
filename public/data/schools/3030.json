@@ -1,9 +1,9 @@
 {
 	"code": "3030",
+	"name": "Temasek Secondary School",
 	"levels": "S",
 	"uen": " T07GS3030A",
 	"logo": "./Medias/Images/Schools/logos/tn_3030.jpg",
-	"name": "Temasek Secondary School",
 	"website": "http://www.temaseksec.moe.edu.sg",
 	"address": "600, Upper East Coast Road (465561)",
 	"telephone": [
@@ -17,7 +17,7 @@
 		"Tanah Merah MRT",
 		"Bedok MRT"
 	],
-	"bus": "10 , 10e , 13 , 14 , 43 , 46 , 229 , 506 , 531 , 853 ",
+	"bus": "10 , 10E , 13 , 14 , 25 , 43 , 46 , 229 , 506 , 531 , 853 ",
 	"GeneralInformation": {
 		"Principal": "Mrs Chia Minn Dayna",
 		"Vice Principal": [
@@ -42,6 +42,7 @@
 		"Combined Humanities (S,H)",
 		"Combined Humanities (S,L)",
 		"Computer Applications",
+		"Computing",
 		"Design & Technology",
 		"Elements Of Business Skills",
 		"English Language",
@@ -58,9 +59,9 @@
 		"Music Nt Level",
 		"Oecie Economics (GCEO)",
 		"Physics",
-		"Principles Of A/C",
 		"Principles Of Accounts",
-		"Science (Phy, Chem)"
+		"Science (Phy, Chem)",
+		"Tamil"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -90,7 +91,7 @@
 		]
 	},
 	"SpecialProgrammes": {
-		"Special Student Development Programmes Offered": "With our school's Student Development Vision of \"Every Temasekian, A Caring Leader\", all students undergo a journey of growth in personal mastery and leadership through a structured 4-year leadership course. This course empowers them with the know-how to care for, take charge and succeed in their academic pursuits and character development. Students who demonstrate potential and interest, are further developed to lead in various school-level and community-based activities as CCA leaders and/or leaders in one of the five student leadership groups. These experiences allow them to apply their leadership skills and life-skills as well as develop empathy and care for others. Students with strong academic and leadership inclinations can also participate in the 4-year Talent Development@Temasek programme. Recognising that our students need to be ready to navigate and thrive in a culturally-diverse 21st century workplace and world, all Temasekians are developed in Cross-Cultural Awareness (C2A) through a specially designed and integrated school-based curriculum. Students are first introduced to C2A in Secondary 1 via Project Culture which piques their curiosity to learn about various components of culture. Through the Secondary 2 Camp Culture as well as a range of other academic and co-curriculum platforms, students also progressively learn to observe, appreciate and interpret different cultural practices and behaviours. These learning culminate in experiential opportunities such as overseas learning trips, collaborations with local international schools and work attachments where students apply their knowledge and skills to work with people from other cultures. The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "With our school's Student Development Vision of \"Every Temasekian, A Caring Leader\", all students undergo a journey of growth in personal mastery and leadership through a structured 4-year leadership course. This course empowers them with the attitude and aptitude to succeed in their academic pursuits and character development. Students who demonstrate potential and interest, are further developed to lead in various school-level and community-based activities as CCA leaders and/or leaders in one of the five student leadership groups. These experiences allow them to apply their leadership skills as well as develop empathy for others. Students with strong academic and leadership inclinations can also participate in the Temasek IGNIS programme-a talent development programme for students to deepen inquiry, problem-solving and communication skills. To navigate and thrive in a culturally-diverse 21st century workplace and world, all Temasekians are developed in Cross-Cultural Awareness (C2A) through a specially designed and integrated school-based curriculum. Students are introduced to C2A in Secondary 1 via Project Culture which piques their curiosity to learn about various components of culture. Through the Secondary 2 Camp Culture as well as a range of other academic and co-curriculum platforms, students progressively learn to observe, appreciate and interpret different cultural practices and behaviours. The learning culminates in experiential opportunities such as overseas learning trips, collaborations with local international schools and work attachments where students apply their knowledge and skills to work with people from other cultures."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -320,17 +321,17 @@
 				},
 				{
 					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
 					"category": "NCC (Land Boys)",
 					"award": "Gold"
 				},
 				{
 					"year": "2016",
 					"category": "NCDCC",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
 					"award": "Gold"
 				}
 			]

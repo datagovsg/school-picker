@@ -1,9 +1,9 @@
 {
 	"code": "3617",
+	"name": "Zhenghua Secondary School",
 	"levels": "S",
 	"uen": " T07GS3617H",
 	"logo": "./Medias/Images/Schools/logos/tn_3617.jpg",
-	"name": "Zhenghua Secondary School",
 	"website": "http://www.zhenghuasec.moe.edu.sg",
 	"address": "91, Senja Road (677741)",
 	"telephone": [
@@ -64,6 +64,7 @@
 		"Science",
 		"Science (Chem, Bio)",
 		"Science (Phy, Chem)",
+		"Science (Syll T)",
 		"Social Studies"
 	],
 	"Cca": {
@@ -85,10 +86,10 @@
 		"Visual and Performing Arts": [
 			"Art Club",
 			"Band - Symphonic",
-			"Chinese Drums",
 			"Choir",
 			"Dance - Modern",
 			"Drama Club",
+			"Drums Ensemble",
 			"Ensemble - Handbell/Handchime"
 		],
 		"Clubs & Societies": [
@@ -106,7 +107,7 @@
 			"STEM": "Interdisciplinary Research & Problem Solving",
 			"Sports & Outdoor Education": "Outdoor Education for Character & Leadership Development"
 		},
-		"Special Student Development Programmes Offered": "Learning for Life Programme (Outdoor Education), Applied Learning Programme (Game Design & Simulation and Robotics), Talent Development Programmes in Math (Math Olympiad), Science (Research), English (Debate), Developing Confidence in Public Speaking Programme and Mother Tongue Languages (Higher Mother Tongue), Problem & Inquiry Based Learning, Geography Field Studies, ICT Project Work, Lower Secondary Science Project, Character, Leadership & Citizenship  Programme, Normal Technical Achievers Programme, Normal Academic Excellence Programme, Reading Programme, and Overseas Exchanges. The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "Learning for Life Programme (Outdoor Education), Applied Learning Programme (Game Design & Simulation and Robotics), Talent Development Programmes in Math (Math Olympiad), Science (Research), English (Debate), Developing Confidence in Public Speaking Programme and Mother Tongue Languages (Higher Mother Tongue), Problem & Inquiry Based Learning, Geography Field Studies, ICT Project Work, Lower Secondary Science Project, Character, Leadership & Citizenship  Programme, Normal Technical Achievers Programme, Normal Academic Excellence Programme, Reading Programme, and Overseas Exchanges."
 	},
 	"AchievementHistory": {
 		"Secondary": {

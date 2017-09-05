@@ -1,9 +1,9 @@
 {
 	"code": "7101",
+	"name": "Anglican High School",
 	"levels": "S",
 	"uen": " T07GS7101C",
 	"logo": "./Medias/Images/Schools/logos/tn_7101.jpg",
-	"name": "Anglican High School",
 	"website": "http://www.anglicanhigh.moe.edu.sg",
 	"address": "600, Upper Changi Road (487012)",
 	"telephone": [
@@ -16,7 +16,7 @@
 	"mrt": [
 		"Tanah Merah MRT"
 	],
-	"bus": "2 , 9 , 12 , 14 , 24 , 31 , 35 , 38 , 45 ",
+	"bus": "2 , 9 , 12 , 14 , 24 , 31 , 35 , 38 , 45 , 47 , 48 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Lee Wee Lin Maureen",
 		"Vice Principal": [
@@ -94,7 +94,7 @@
 		"MOE Programmes": [
 			"SAP"
 		],
-		"Special Student Development Programmes Offered": "The following programmes are offered to all students: The AHS CHAMPS (Cognitive, Headship, Aesthetics, Moral, Physical and Social) Talent Development Programme is a holistic four-year programme comprising curriculum electives and diverse opportunities for students to develop leadership competencies and specialised skills. The Anglican Critical Thinking Skills (ACTS) Curriculum, Design Thinking Programme, Appreciation of Chinese Culture Programme, Dynamic Science, Innovative Thinkers Self-Directed Learners & Collaborative Researchers (i-ScoRe) Programme, Overseas Learning Programme, Student Leadership Programme, IGNITE Elective Modules, and tiered Arts Education Programme further provide for the holistic development of all students. Learning at AHS is enhanced by the purposeful integration of ICT, tapping on its affordances to develop 21st century competencies in all students."
+		"Special Student Development Programmes Offered": "In Anglican High School (AHS) where 'Talents Soar', the students are developed holistic through the four-year CHAMPS (Cognitive, Headship, Aesthetics, Moral, Physical and Social) Talent Development Programme. The Anglican Critical Thinking Skills (ACTS) is infused in the curriculum to develop critical thinkers. Every student is schooled in Design Thinking through the Innovative Thinkers Self-Directed Learners & Collaborative Researchers (i-ScoRe) Programme where students develop solutions for the under-privileged in the community. Students' interests in STEM are nurtured through Dynamic Science, Robotics and Coding programmes. Learning beyond the classroom is inspired through the IGNITE Elective Modules and cross-disciplinary projects (GEMS). As a SAP school, the Appreciation of Chinese (ACE) programme develops bi-culturally confident global citizens. The AHS student is a servant leader and this philosophy drives the structured Overseas Learning Programme and Student Leadership Development Programme. The Arts Education Programme develops students in their aesthetic talents. A highly personalised ECG programme guides students in preparing themselves to be future-ready."
 	},
 	"AchievementHistory": {
 		"Secondary": {

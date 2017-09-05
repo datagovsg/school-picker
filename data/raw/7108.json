@@ -114,6 +114,143 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
+			"2005": {},
+			"2006": {
+				"Best Unit Award": {
+					"Npcc": "Silver",
+					"Scout": "Silver",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2007": {
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Gold",
+					"Dance - International": "Bronze",
+					"Drama - English": "Gold",
+					"Orchestra - Chinese": "Bronze"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc": "Bronze",
+					"Scout": "Gold",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2008": {
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Gold",
+					"Dance - International": "Bronze",
+					"Drama - English": "Gold",
+					"Orchestra - Chinese": "Bronze"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc (Land)": "Bronze",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2009": {
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - International": "Gold",
+					"Drama - English": "Bronze",
+					"Orchestra - Chinese": "Bronze"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc": "Bronze",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2010": {
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - International": "Gold",
+					"Drama - English": "Bronze",
+					"Orchestra - Chinese": "Bronze"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Bronze",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2011": {
+				"Development Award": "DA (Character Development)",
+				"Achievement Award": "AA (Academic Value-added) (Special/Express)",
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Gold",
+					"Dance - International": "Bronze",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc (Land)": "Bronze",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2012": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Academic Value-added) (Special/Express)",
+					"SAA (Aesthetics)"
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Gold",
+					"Dance - International": "Bronze",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Silver",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2013": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Academic Value-added) (Special/Express)",
+					"SAA (Aesthetics)",
+					"SAA (Uniformed Groups)"
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Orchestra - Chinese": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Silver",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
 			"2014": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -220,6 +357,186 @@
 		}
 	},
 	"PsleAggregateHistory": {
+		"2005": {
+			"Express": [
+				"217",
+				"248",
+				"188",
+				"237"
+			],
+			"Normal Academic": [
+				"173",
+				"190",
+				"153",
+				"186"
+			],
+			"Normal Technical": [
+				"95",
+				"105",
+				"75",
+				"106"
+			]
+		},
+		"2006": {
+			"Express": [
+				"224",
+				"249",
+				"188",
+				"252"
+			],
+			"Normal Academic": [
+				"179",
+				"190",
+				"152",
+				"187"
+			],
+			"Normal Technical": [
+				"98",
+				"107",
+				"58",
+				"110"
+			]
+		},
+		"2007": {
+			"Express": [
+				"226",
+				"242",
+				"188",
+				"239"
+			],
+			"Normal Academic": [
+				"182",
+				"193",
+				"152",
+				"198"
+			],
+			"Normal Technical": [
+				"106",
+				"112",
+				"67",
+				"112"
+			]
+		},
+		"2008": {
+			"Express": [
+				"222",
+				"245",
+				"188",
+				"247"
+			],
+			"Normal Academic": [
+				"182",
+				"198",
+				"155",
+				"187"
+			],
+			"Normal Technical": [
+				"91",
+				"106",
+				"78",
+				"111"
+			]
+		},
+		"2009": {
+			"Express": [
+				"222",
+				"243",
+				"188",
+				"243"
+			],
+			"Normal Academic": [
+				"183",
+				"197",
+				"154",
+				"187"
+			],
+			"Normal Technical": [
+				"100",
+				"111",
+				"89",
+				"107"
+			]
+		},
+		"2010": {
+			"Express": [
+				"219",
+				"235",
+				"190",
+				"241"
+			],
+			"Normal Academic": [
+				"181",
+				"189",
+				"153",
+				"187"
+			],
+			"Normal Technical": [
+				"101",
+				"148",
+				"88",
+				"149"
+			]
+		},
+		"2011": {
+			"Express": [
+				"218",
+				"235",
+				"188",
+				"239"
+			],
+			"Normal Academic": [
+				"181",
+				"198",
+				"152",
+				"187"
+			],
+			"Normal Technical": [
+				"128",
+				"151",
+				"89",
+				"150"
+			]
+		},
+		"2012": {
+			"Express": [
+				"219",
+				"233",
+				"189",
+				"252"
+			],
+			"Normal Academic": [
+				"182",
+				"196",
+				"152",
+				"187"
+			],
+			"Normal Technical": [
+				"129",
+				"156",
+				"95",
+				"151"
+			]
+		},
+		"2013": {
+			"Express": [
+				"223",
+				"237",
+				"189",
+				"237"
+			],
+			"Normal Academic": [
+				"185",
+				"196",
+				"152",
+				"188"
+			],
+			"Normal Technical": [
+				"136",
+				"158",
+				"114",
+				"151"
+			]
+		},
 		"2014": {
 			"Express": [
 				"225",

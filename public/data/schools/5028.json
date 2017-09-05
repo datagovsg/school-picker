@@ -1,9 +1,9 @@
 {
 	"code": "5028",
+	"name": "Nan Chiau Primary School",
 	"levels": "P",
 	"uen": " T07GS5028A",
 	"logo": "./Medias/Images/Schools/logos/tn_5028.jpg",
-	"name": "Nan Chiau Primary School",
 	"website": "http://www.ncps.moe.edu.sg",
 	"address": "50, Anchorvale Link (545080)",
 	"telephone": [
@@ -82,7 +82,7 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"ICT": "Applied Learning@NCPS through Project Work",
+			"Interdisciplinary": "Applied Learning@NCPS through Project Work",
 			"Sports & Outdoor Education": "Enhancing physical, cognitive, moral and social growth through basketball"
 		},
 		"Special Student Development Programmes Offered": "The vision of becoming an 'innovative school' with 'passionate learners of integrity' provides the impetus for Student-centric 21st Century Competencies (21CC) Curriculum which includes programmes for academic and non-academic development of our students.  The school customises its curriculum and provides a wide range of learning experiences.  Differentiated support in the form of strategies and programmes to cater to differing student readiness is in place, such as Extended Learning Support (ELS) programme and Bi-Cultural Chinese Elective Programme (BiCEP).  In the academic domain, the school offers ICT-enabled learning platforms promoting collaborative learning and development of self-directed learners in the learning of academic subjects, such as I.M Learning (English), MyCLOUD (Chinese Language), Seamless Learning (Science), RC2 (Mathematics) and Idea Garden (Social Studies).  Applied Learning@NCPS focuses on the inculcation of thinking skills, ICT skills and cyber-wellness. It builds on the foundation of knowledge and skills acquired from the core curriculum into specifically designed modules for all students to develop in them 21CC.  The non-academic development of the students is achieve through school-wide programmes offered to all students. The students Values in Action (VIA) programmes support students' development as responsible citizens through the application of skills, values and knowledge acquired.  Student leadership development is the school's effort to develop every student to be a leader. Opportunities and platforms will be provided for students to serve the school and community either as individuals or members of a CCA or as Prefects.  To further cultivate students' development in the Civic Literacy, Global Awareness and Cross-cultural Skills (CGC), the school offers the Cultural Awareness Programme (CAP) which students are exposed to interactions with students from oversea visiting the school or visiting oversea schools at Primary 5."
@@ -172,7 +172,7 @@
 					"year": "2016",
 					"category": "Wushu",
 					"subCategory": [
-						"Zone",
+						"National",
 						"Boys",
 						"Junior"
 					],
@@ -182,7 +182,7 @@
 					"year": "2016",
 					"category": "Wushu",
 					"subCategory": [
-						"Zone",
+						"National",
 						"Boys",
 						"Senior"
 					],
@@ -192,7 +192,7 @@
 					"year": "2016",
 					"category": "Wushu",
 					"subCategory": [
-						"Zone",
+						"National",
 						"Girls",
 						"Junior"
 					],

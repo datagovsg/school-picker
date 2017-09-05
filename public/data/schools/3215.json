@@ -1,9 +1,9 @@
 {
 	"code": "3215",
+	"name": "Outram Secondary School",
 	"levels": "S",
 	"uen": " T07GS3215H",
 	"logo": "./Medias/Images/Schools/logos/tn_3215.jpg",
-	"name": "Outram Secondary School",
 	"website": "http://www.outramsec.moe.edu.sg",
 	"address": "3, York Hill (168622)",
 	"telephone": [
@@ -13,7 +13,9 @@
 		"62352337"
 	],
 	"email": "OSS@MOE.EDU.SG",
-	"mrt": [],
+	"mrt": [
+		"Outram Park MRT"
+	],
 	"bus": "174 , 123 , 16 , 175 , 195 , 33 , 5 , 63 , 75 , 851 , 970 , 123 , 186 , 51 , 64 ",
 	"GeneralInformation": {
 		"Principal": "Mr Boo Hian Kok",
@@ -21,7 +23,6 @@
 			"Miss Tan Ee Ling Ellen",
 			"Mr Lim Pang Chuang"
 		],
-		"Vice Principal (Admin)": "Mr Koh Chuan Seng",
 		"School Vision": "Outram - A Hallmark of Distinction",
 		"School Mission": "To nurture individuals with a true Outramian SPIRIT",
 		"School Philosophy, Culture and Ethos": "The school sets out to accomplish the mission of nurturing every individual with a true Outramian SPIRIT. It is committed to the provision of an education that is strongly anchored in developing values and character. For each child that joins Outram, we seek to inculcate in them the school values, 'Sense of belonging - to the school, society and nation, Perseverance, Integrity, Responsibility, Industriousness and Teamwork (SPIRIT)'  The school motto, 'Labor Omnia Vincit', signifies the importance of 'Labour Conquers All'. The motto highlights the school's belief that through hard work, one can overcome difficulties encountered in life. Success in any area requires our students to exercise self-discipline and diligence as well as make necessary sacrifices so as to accomplish tasks set before them.",
@@ -41,7 +42,6 @@
 		"Chinese",
 		"Chinese B",
 		"Chinese N(A)",
-		"Civics & Moral Education",
 		"Co-curricular Activities",
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
@@ -55,7 +55,6 @@
 		"Higher Chinese",
 		"Literature(E)",
 		"Malay",
-		"Malay B",
 		"Malay N(A)",
 		"Mathematics",
 		"Mathematics (Syllabus A)",
@@ -63,15 +62,14 @@
 		"Music",
 		"Oecie Business Studies",
 		"Physics",
-		"Principles Of A/C",
 		"Principles Of Accounts",
+		"Retail Operations",
 		"Science",
 		"Science (Chem, Bio)",
 		"Science (Phy, Chem)",
 		"Science (Syll T)",
 		"Social Studies N(T)",
 		"Tamil",
-		"Tamil B",
 		"Tamil N(A)"
 	],
 	"Cca": {
@@ -106,7 +104,7 @@
 			"Business & Entrepreneurship": "Excellence Through Business and Enterprise",
 			"Sports & Outdoor Education": "Sports for Life"
 		},
-		"Special Student Development Programmes Offered": "In line with the vision of a 'Good School', we believe in providing our students with rich, rigorous and diverse learning experiences. Besides motivating them with interesting, hands-on activities during instructional programmes, emphasis is also placed on Character and Citizenship Education via CCAs, Social Emotional Learning (SEL), National Education (NE), Assembly and Enrichment Programmes. The formal and informal curriculum offered to all students includes Character for Life (C4L), Arts for Life (A4L) and Sports for Life programmes, and OPEL, an interdisciplinary project which sets out to develop all students in values, aesthetics, and thinking skills. As OSS has a long, reputable history in the area of commerce and accounting, our Applied Learning Programme (ALP) is Excellence through Business and Enterprise (B&E). We offer a wide range of business-related courses such as Business Studies, Principles of Accounting, Retail Operations and Advanced Elective Modules (AEMs) in areas such as Marketing in Action, Essentials of Marketing, Theme Park and Attractions, and Introduction to Tourism and Hospitality.  The School has a Learning for Life (LLP) programme delivered through the Sports for Life framework which comprises three domains, namely Mass Participation, Sports Engagement, and Talent Development. Students are nurtured holistically through the values inculcated through Sports to become well-developed youths of the 21st century. The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "In line with the vision of a 'Good School', we believe in providing our students with rich, rigorous and diverse learning experiences. Besides motivating them with interesting, hands-on activities during instructional programmes, emphasis is also placed on Character and Citizenship Education via CCAs, Social Emotional Learning (SEL), National Education (NE), Assembly and Enrichment Programmes. The formal and informal curriculum offered to all students includes Character for Life (C4L), Arts for Life (A4L) and Sports for Life programmes, and OPEL, an interdisciplinary project which sets out to develop all students in values, aesthetics, and thinking skills. As OSS has a long, reputable history in the area of commerce and accounting, our Applied Learning Programme (ALP) is Excellence through Business and Enterprise (B&E). We offer a wide range of business-related courses such as Business Studies, Principles of Accounting, Retail Operations and Advanced Elective Modules (AEMs) in areas such as Marketing in Action, Essentials of Marketing, Theme Park and Attractions, and Introduction to Tourism and Hospitality.  The School has a Learning for Life (LLP) programme delivered through the Sports for Life framework which comprises three domains, namely Mass Participation, Sports Engagement, and Talent Development. Students are nurtured holistically through the values inculcated through Sports to become well-developed youths of the 21st century."
 	},
 	"AchievementHistory": {
 		"Secondary": {

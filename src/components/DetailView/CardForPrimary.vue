@@ -524,8 +524,8 @@ export default {
         }
       }
       if (info) {
-        const phases = Object.keys(info).filter(key => key.match(/^Places taken up to/)).map(key => key.slice(19))
-        const placesTaken = info['Places taken up to ' + max(phases)]
+        // const phases = Object.keys(info).filter(key => key.match(/^Places taken up to/)).map(key => key.slice(19))
+        // const placesTaken = info['Places taken up to ' + max(phases)]
         const rows = [
           {label: 'Total Vacancy', value: info['Total Vacancy'], class: 'text-bold'},
           // {label: 'Reserved for Phase 2B & 2C', value: info['Vacancies Reserved for Phase 2B and 2C']},

@@ -1,9 +1,9 @@
 {
 	"code": "3050",
+	"name": "Xinmin Secondary School",
 	"levels": "S",
 	"uen": " T07GS3050L",
 	"logo": "./Medias/Images/Schools/logos/tn_3050.jpg",
-	"name": "Xinmin Secondary School",
 	"website": "http://www.xinminss.edu.sg",
 	"address": "11, Hougang Avenue 8 (538789)",
 	"telephone": [
@@ -19,10 +19,7 @@
 	"bus": "25 , 55 , 70 , 72 , 73 , 74 , 88 , 101 , 103 , 112 , 132 , 147 , 156 , 159 , 161 , 165 , 315 , 854 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Lim Hong Peng",
-		"Vice Principal": [
-			"Miss Goh Bee Lim Mabel",
-			"Mr Yong Yik Yen Benjamin"
-		],
+		"Vice Principal": "Mr Yong Yik Yen Benjamin",
 		"Vice Principal (Admin)": "Mr Fong Kim Wah",
 		"School Vision": "Leading Hearts, Leading Minds",
 		"School Mission": "To develop Xinmin students to their full potential, to inculcate in them sound values, as well as a mindset for excellence, and to nurture them to be responsible and caring members of society.",
@@ -436,12 +433,12 @@
 				},
 				{
 					"year": "2016",
-					"category": "Girls' Brigade",
+					"category": "Boys' Brigade",
 					"award": "Gold"
 				},
 				{
 					"year": "2016",
-					"category": "Boys' Brigade",
+					"category": "Girls' Brigade",
 					"award": "Gold"
 				},
 				{

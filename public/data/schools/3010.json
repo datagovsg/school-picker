@@ -1,9 +1,9 @@
 {
 	"code": "3010",
+	"name": "Serangoon Secondary School",
 	"levels": "S",
 	"uen": " T07GS3010B",
 	"logo": "./Medias/Images/Schools/logos/tn_3010.jpg",
-	"name": "Serangoon Secondary School",
 	"website": "http://www.serangoonsec.moe.edu.sg",
 	"address": "11, Upper Serangoon View (534237)",
 	"telephone": [
@@ -39,6 +39,7 @@
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
 		"Computer Applications",
+		"Computing",
 		"Design & Technology",
 		"Elements Of Business Skills",
 		"English Language",
@@ -49,7 +50,6 @@
 		"Malay",
 		"Mathematics",
 		"Mobile Robotics",
-		"Oecie Computer Studies (GCEO)",
 		"Physics",
 		"Principles Of A/C",
 		"Science (Phy, Chem)",

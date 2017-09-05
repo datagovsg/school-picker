@@ -1,9 +1,9 @@
 {
 	"code": "1621",
+	"name": "New Town Primary School",
 	"levels": "P",
 	"uen": " T07GS1621L",
 	"logo": "./Medias/Images/Schools/logos/tn_1621.jpg",
-	"name": "New Town Primary School",
 	"website": "http://www.newtownpri.moe.edu.sg/",
 	"address": "300, Tanglin Halt Road (148812)",
 	"telephone": [
@@ -78,6 +78,9 @@
 		]
 	},
 	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Community Service & Student Leadership": "A Leader in Every Child"
+		},
 		"Special Student Development Programmes Offered": "Student Leadership Programme In NTPS, we put values education at the centre of what we do. Based on our school motto \"Ready to Serve\", our 6-year Student Leadership Programme is grounded in character as the core foundation. A key feature of the programme is the opportunity for all students to take up a leadership position.  The range of leadership opportunities, varying in skills and impact, include Line Monitors at the lower primary level, Subject Monitors at the middle primary and House Leaders at the upper primary level. As we believe that leadership is about making a positive difference in one's sphere of influence, our student leaders engage in projects that create a positive social change in the home (P1&2), school (P3&4) and the community (P5&6). Guided by the framework of the leadership gurus, Kouzes & Posner, our students learn The 5 Practices of Exemplary Leadership - \"Model the Way\", \"Inspire a Shared Vision\", \"Challenge the Process\", \"Enable Others to Act\" and \"Encourage the Heart\". Through the trainings and opportunities, our students develop self and team leadership skills as they work with one another toward their shared goals.  Learn@NTPS Our curriculum nurtures a sense of wonder in our students. Apart from building a strong foundation in literacy and numeracy, we encourage students to explore and develop their interests. They include: Speech & Drama, \"How Things Work\", Math Olympiads and Excellence-2000 (Math & Science enrichment programme). Our students have experimented with the different ways a boat can be constructed, and explored the different vegetables Singapore could grow in times of food shortage.  Through our \"Cultural Connections Programme\" with schools in China and Southeast Asia, they have learnt to appreciate the diversity of different cultures. Our 22 CCAs, ranging from Robotics, International Dance, to Netball and Red Cross, have enabled our students to develop sportsmanship, appreciate beauty and find a voice."
 	},
 	"AchievementHistory": {

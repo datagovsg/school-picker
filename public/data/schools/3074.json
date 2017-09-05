@@ -1,9 +1,9 @@
 {
 	"code": "3074",
+	"name": "Greendale Secondary School",
 	"levels": "S",
 	"uen": " T07GS3074E",
 	"logo": "./Medias/Images/Schools/logos/tn_3074.jpg",
-	"name": "Greendale Secondary School",
 	"website": "http://www.greendalesec.moe.edu.sg",
 	"address": "51, Edgedale Plains (828866)",
 	"telephone": [
@@ -91,7 +91,7 @@
 			"STEM": "SMART Living: Design. Code. Build",
 			"Sports & Outdoor Education": "Character Development through Outdoor and Adventure Education"
 		},
-		"Special Student Development Programmes Offered": "For 2018, the school will be offering a Talent Development Programme which offers selected students an enhanced academic experience, centred on the 3E approach of 'Exposure, Extension and Excellence'. This programme will expose the students to knowledge and skills beyond the current curriculum, extend this new learning into the further understanding and creation of new knowledge and pursuing excellence in the subject discipline. Eligible N(A) and N(T) students can also offer some subjects at a higher level starting from Secondary 1, based on their PSLE results. Another curriculum highlight is the school's Applied Learning Programme (ALP) in 'Design, Technology and Engineering' (DTE). Here, students develop in-depth specialised knowledge in engineering and technology, while acquiring critical and inventive thinking skills concurrently. Students will learn how to Design, Code and Build through exposure to Computer Aided Design software and Arduino programming language. There will also be opportunities for them to rapid prototype their ideas through the use of 3D printers and laser cutters. Students will acquire key 21st century skills such as design thinking, problem-solving strategies as well as creative and critical thinking techniques to solve real-world problems. In the Learning For Life programme (LLP), the school delivers an Outdoor and Adventure Education programme that develops students in their character attributes and specific skillsets through concrete experiences and challenges. Students step out of their comfort zones to develop personal qualities of resilience, initiative and self-reliance, and competencies in leadership and teamwork. They also acquire a range of skills in outdoor activities (e.g. kayaking, rock-climbing, orienteering). All students participate in a level camp every year to develop their physical, social, leadership and personal skills through integrated outdoor and adventure activity."
+		"Special Student Development Programmes Offered": "We believe that every child is unique and talented. Our Talent Development Programme (TDP) offers our students an enhanced learning experience, centred on the 3E approach of 'Exposure, Extension and Excellence'. Students are Exposed to and engaged through different learning experiences and platforms, Their learning is Extended through deepened knowledge and skills acquisition via specific and special enrichment and master classes, and finally students will be able to pursue and achieve Excellence in the cognitive, aesthetics, sporting and life skills domains through targeted activities such as national competitions etc. Through the school's Applied Learning Programme (ALP) in 'Design, Technology and Engineering', students develop in-depth knowledge in engineering and technology, while acquiring critical and inventive thinking skills concurrently. Students will learn how to Design, Code and Build through exposure to Computer Aided Design software and Arduino programming language. There will also be opportunities for them to rapid prototype their ideas through the use of 3D printers and laser cutters. Through the ALP, students will acquire 21st century skills such as design thinking, problem-solving strategies as well as creative and critical thinking techniques to solve real-world problems. In the school's Learning For Life programme (LLP), the school delivers an Outdoor and Adventure Education programme that develops students in their character attributes and specific skillsets through concrete experiences and challenges. Students step out of their comfort zones to develop qualities of resilience, initiative and self-reliance, and competencies in leadership and teamwork. They acquire a range of skills in outdoor activities (e.g. kayaking, rock-climbing, orienteering), building them up as confident leaders. All students also participate in a level camp every year to develop their physical, social, leadership and personal skills."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -149,6 +149,11 @@
 				},
 				{
 					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
 					"category": "Art - Category B",
 					"award": "Recognition"
 				},
@@ -170,11 +175,6 @@
 				{
 					"year": "2016",
 					"category": "Orchestra - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
 					"award": "Accomplishment"
 				}
 			],

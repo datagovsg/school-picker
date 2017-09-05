@@ -1,9 +1,9 @@
 {
 	"code": "3040",
+	"name": "Bukit View Secondary School",
 	"levels": "S",
 	"uen": " T07GS3040F",
 	"logo": "./Medias/Images/Schools/logos/tn_3040.jpg",
-	"name": "Bukit View Secondary School",
 	"website": "http://www.bukitviewsec.moe.edu.sg",
 	"address": "16, Bukit Batok Street 21 (659633)",
 	"telephone": [
@@ -16,7 +16,7 @@
 	"mrt": [
 		"Bukit Batok MRT"
 	],
-	"bus": "173",
+	"bus": "173 , 189 , 990 ",
 	"GeneralInformation": {
 		"Principal": "Mr Vasuthevan S/o K Ramamurthy",
 		"Vice Principal": [
@@ -97,7 +97,7 @@
 			"STEM": "Clean Energy and Environmental Technology",
 			"Music & Performing Arts": "Learning the Arts, Living the Values -- Character Education through Drama"
 		},
-		"Special Student Development Programmes Offered": "BVSS leverages its niche on Environmental Science and Sustainable Living to develop the Applied Learning Programme (ALP) on 'Clean Energy and Environmental Technology'. This ALP is part of the BVSS-designed Junior OUtstanding Leaders in Energy for Sustainability (JOULES) Programme where it aims to inculcate students with the knowledge and experience in the area of environment and sustainable energy as well as emphasizing the development of environmental student leadership. All students are part of the JOULES programme where they will undergo tier 1 programme in lower secondary and selected students in tier 2 programme in their upper secondary.    As part of STEM (Science, Technology, Engineering and Mathematics) education, BVSS also focusses on developing students through the Coding and Computational Thinking Infused (CACTUS) Curriculum. This is the school's deliberate approach to integrate coding programmes into different subjects through multiple platforms. This allows students to transfer the CACTUS skills learnt to other disciplines subjects ranging from Computing, Math, Science, ALP and Citizenship and Character Education.  BVSS delivers its Learning for Life (LLP) - 'Learning the Arts, Living the Values - Character Education through Drama' via Literature and Social Studies lessons for lower secondary students.  This complements the robust school-wide and developmental CCE Programme which includes cohort and modular leadership training, life-skills training and Education Career Guidance.   Learning at BVSS is centred on providing and designing engaging experiences through authentic and meaningful learning tasks. Our 5E Curriculum Approach coupled with WRAITEC Thinking tool as well as harnessing ICT affordances provides students with an enriching and engaging learning environment. Our 1-1 Personal Learning Device programme also enhances self-directed and collaborative learning."
+		"Special Student Development Programmes Offered": "Learning at BVSS is centred on providing an exciting range of learning experiences to develop students' passions and prepare them to be future ready. Every Secondary 1 learner will be allocated a Chromebook to allow for 1-to-1 Personal Learning Device (PLD) enabled learning. BVSS believes in developing students who take ownership of their learning and collaborate effectively with others. BVSS focuses on Science, Technology, Engineering and Math (STEM) Education and the school's Applied Learning Programme on Clean Energy and Environmental Technology comes alive with fun-filled hands on activities. In Secondary 1, students build solar cars and race them. Secondary 2 students learn to assemble a water-sensing robot that can test the purity of water, which they put to test in the school's eco-garden. In Secondary 3, they attend STEM workshops organised by polytechnics. This is part of the school's Junior OUtstanding Leaders in Energy for Sustainability (JOULES) Programme which aims to inculcate students with the knowledge and experience in the area of environment and sustainable energy as well as emphasizing the development of environmental student leadership. Drama class is offered to all lower Secondary students as part of the school's Learning the Arts, Living the Values - Character Education through Drama- Learning for Life Programme. The curriculum is co-designed with professional artistes and students learn drama techniques including improvisation and role-playing. Drama helps students develop confidence and gives them a dramatic, yet safe outlet to express themselves. All lower secondary students go through Coding and Computational Thinking Infused (CACTUS) Curriculum. They are introduced to the world of coding, robots and technology through fun and engaging hands-on learning experiences. CACTUS is designed to develop students' computational thinking, problem-solving and logical thinking skills."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -173,11 +173,6 @@
 				},
 				{
 					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
 					"category": "Art - Category B",
 					"award": "Recognition"
 				},
@@ -200,6 +195,11 @@
 					"year": "2016",
 					"category": "Dance - International",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - English",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [

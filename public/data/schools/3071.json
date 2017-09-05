@@ -1,9 +1,9 @@
 {
 	"code": "3071",
+	"name": "North Vista Secondary School",
 	"levels": "S",
 	"uen": " T07GS3071F",
 	"logo": "./Medias/Images/Schools/logos/tn_3071.jpg",
-	"name": "North Vista Secondary School",
 	"website": "http://www.northvistasec.moe.edu.sg",
 	"address": "11, Rivervale Link (545081)",
 	"telephone": [
@@ -21,12 +21,12 @@
 	"GeneralInformation": {
 		"Principal": "Mrs Regina Lee",
 		"Vice Principal": [
-			"Mdm Wong Fui Chin",
-			"Mr Mohamed Nasim S/o Abdul Rahim"
+			"Mr Mohamed Nasim S/o Abdul Rahim",
+			"Mdm Wong Fui Chin"
 		],
 		"School Vision": "A School of Choice for Citizens of the Future",
 		"School Mission": "We are committed to providing Vistarians with a holistic education that will equip them with the necessary values, knowledge and skills to meet challenges of the future",
-		"School Philosophy, Culture and Ethos": "The Vistarian Experience! includes programmes from both the Academic and Affective wings. A World of Possibilities realizes the governing philosophy of the Affective and Academic Wings which is to Engage, Excite and Enrich (3Es) each Vistarian during the years spent in the school. The Academic programme includes the core and elective subjects while the Affective programme includes values and character education through CCE lessons, student leadership and the various CCAs that the school has to offer. Differentiated Instruction has been adopted as the core pedagogical approach in the school as departments aim to cater to the different interests, abilities and needs of our students.",
+		"School Philosophy, Culture and Ethos": "The Vistarian Experience!, guided by the philosophy of A World of Possibilities, ensures that all Vistarians receive an all-round education. North Vista Secondary provides a balance education through its Academic and Affective programmes to nurture Inquiring Thinkers, Responsible Risk Takers and Caring Individuals who are equipped to face the challenges of a globalized world. The Academic programme includes the core and elective subjects while the Affective programme includes values and character education through CCE lessons, student leadership and the various CCAs that the school has to offer. Differentiated Instruction (DI) has been adopted as the core pedagogical approach in the school as departments aim to cater to the different interests, abilities and needs of our students.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -46,6 +46,7 @@
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll T)",
+		"Exercise And Sports Science",
 		"Food & Nutrition",
 		"Food And Consumer Education",
 		"Geography",
@@ -81,15 +82,12 @@
 			"Choir",
 			"Dance - Chinese",
 			"Dance - Modern",
-			"Drama - Chinese",
 			"Drama - English",
 			"Ensemble - String"
 		],
 		"Clubs & Societies": [
 			"Infocomm Club",
-			"Key Club",
-			"Odac",
-			"Tritouch Club"
+			"Odac"
 		]
 	},
 	"SpecialProgrammes": {
@@ -97,7 +95,7 @@
 			"STEM": "Investigative Science in Health & Sports",
 			"Visual Arts & Design": "Nurturing Creative Problem Solvers through the Arts & Design"
 		},
-		"Special Student Development Programmes Offered": "Academic and Affective programmes nurture Vistarians to be confident and competent individuals; ready to love, learn and serve with passion in a globalised world.  The Academic Programme ensures that all students receive an all-round education which is Exciting, Enriching and Engaging. To meet this objective, the learning environment in the school is challenging, diverse, interactive and supportive with dedicated staff that work for the betterment of each student. Through its Affective Programmes such as the Leadership Programme, the NV Goes Global Programme and Character Education Programmes, students are offered a broad range of experiences and encourage their interest in and outside of the academic domain both within and beyond our shores.  The school's Applied Learning Programme (ALP) entitled Investigative Science in Health and Sports, develops students' interest in learning through investigative science. It provides students with platforms to learn and apply their knowledge in the area of forensics. Students are taught the skills of research and use the techniques of molecular gastronomy to prepare nutrition bars for athletes.  The Learning for Life Programme (LLP) - Nurturing Creative Problem Solvers through the Arts and Design - aims to develop active citizens who are able to empathize with, and respond creatively to, the needs of the community. Students gain authentic and experiential learning experiences through Vista Week which provides them with a week of culture, adventure and reflection. Terrific Thursdays and Fabulous Fridays also offer students a myriad of learning opportunities beyond the classroom. The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects."
+		"Special Student Development Programmes Offered": "Academic and Affective programmes nurture Vistarians to be confident and competent individuals; ready to contribute with passion in a globalised world. Cutting edge curriculum approaches are a key feature in the Academic Programmes of the school and are employed in all subjects to make teaching and learning Exciting, Enriching and Engaging.  Approaches like Assessment for Learning, Inquiry-Based Learning and Story-telling allow students a stronger grasp of subjects like English Language, Humanities, and the Arts. Experiential Learning opportunities provided in collaboration with the polytechnics which offer Advanced Elective Modules complement learning in the Sciences.  The school also offers Exercise and Sports Science as a GCE O-Level Subject for students keen on pursuing their studies in sports science. Through its Affective Programmes such as the Leadership Programme, the NV Goes Global Programme and Character Education Programmes, students are offered a broad range of experiences both within and beyond our shores. The school's Applied Learning Programme (ALP), Investigative Science in Health and Sports, develops students' interest in learning through investigative science and forensics. The Learning for Life Programme (LLP), Nurturing Creative Problem Solving through Arts and Design, aims to develop active citizens who are able to empathise with, and respond creatively to the needs of the community. Students gain authentic learning experiences through Vista Week which provides them with a week of culture, adventure and reflection. Enrichment programmes are carried out on Terrific Thursdays and Fabulous Fridays during which Vistarians leave the comfort of their classrooms for learning experiences that are catered to their varied talents and interests."
 	},
 	"AchievementHistory": {
 		"Secondary": {

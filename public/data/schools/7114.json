@@ -1,10 +1,10 @@
 {
 	"code": "7114",
+	"name": "Nanyang Girls' High School",
 	"levels": "S",
 	"uen": " T07GS7114G",
 	"logo": "./Medias/Images/Schools/logos/tn_7114.jpg",
-	"name": "Nanyang Girls' High School",
-	"website": "http://www.nygh.moe.edu.sg/",
+	"website": "http://www.nygh.moe.edu.sg",
 	"address": "2, Linden Drive (288683)",
 	"telephone": [
 		"64663275"
@@ -26,7 +26,7 @@
 		],
 		"School Vision": "Every Nanyang Girl a Respected Member of Society",
 		"School Mission": "We nurture women of character in a bilingual bicultural environment anchored in values on which our school was founded.",
-		"School Philosophy, Culture and Ethos": "Nanyang Girls' High School is a school with a rich tradition and illustrious history. The school was founded in 1917, with the belief that girls deserve to be educated and that, with education, they can make the world a better place for others. This belief is espoused through our school vision, mission and values.   We have a forward-looking, personalised and connected curriculum anchored in values that seek to develop our students to be reflective, responsive and responsible learners, equipped with the knowledge, skills and attributes for the 21st century.  The Nanyang experience engages our students in authentic and relevant learning that allows them to create meaningful, useful and shared outcomes.  The curriculum is personalised, allowing students to exercise choice according to their interest and ability.  Students will be able to make meaningful connections within and between disciplines, and develop a heart for the community by paying forward through active service.   We also keep our students engaged and excited about learning through 1-1 computing.  In addition, through our carefully designed experiential learning opportunities that include the Boarding School Experience at our very own Boarding School and our Global Classroom Programme, we provide our students with a holistic education ready for the globalised future.",
+		"School Philosophy, Culture and Ethos": "Nanyang Girls' High School has a rich tradition and illustrious history. Founded in 1917, the school has remained true to her goal in nurturing well-educated ladies who will contribute to society. Given the school's rich tradition in bicultural education, NYGH prides herself in providing a holistic education, allowing all girls to thrive in a globalised world.  Our curriculum is anchored in values that seek to develop our students to be reflective, responsive and responsible learners, equipped with the knowledge, skills and attributes for the future. The Nanyang experience engages our students in authentic and relevant learning that guides them to create meaningful, useful and shared outcomes. The curriculum allows students to make meaningful connections within and between disciplines, and develop a heart for the community by paying forward through active service. We also keep our students engaged and excited about learning through 1-1 computing. In addition, through our carefully designed experiential learning opportunities that include the Boarding School Experience at our very own Boarding School and our Global Classroom Programme, we provide our students with a holistic education ready for the globalised future.",
 		"Type of School": "Independent School / Girls' School / Single Session",
 		"IP Partner Schools": "Hwa Chong Institution",
 		"Mother Tongue": "Chinese",
@@ -44,6 +44,7 @@
 		"Integrated Humanities",
 		"Integrated Mathematics",
 		"Language Arts",
+		"Malay (Special Programme)",
 		"Physics"
 	],
 	"Cca": {
@@ -96,7 +97,7 @@
 			"Gifted Education Programme",
 			"Art Elective Programme"
 		],
-		"Special Student Development Programmes Offered": "Nanyang Seal of Excellence Talent Development Programme  - Four-Tier Chinese Language and Culture Programme which includes Bicultural Studies (Chinese) and Chinese Language Elective Programme . Humanities Programme . Science and Mathematics Talent Programme . Leadership Development . Art Elective Programme (AEP) . Higher Music Programme (HMP)  Other programmes that further enrich the students' holistic learning experience include: . The Connected Curriculum . The Personalised Curriculum . Global Classroom Programme . Work Experience Programme . Extended Classroom Programme . Boarding School Experience . Conversational Malay . Community Education and Community Leadership Programme . Philosophical Inquiry . Research Programme . Translation . Drama . Conversational Malay  Third Language - NYGH offers Malay Special Programme"
+		"Special Student Development Programmes Offered": "Nanyang Seal of Excellence Talent Development Programme  - Four-Tier Chinese Language and Culture Programme which includes Bicultural Studies (Chinese) and Chinese Language Elective Programme . Humanities Programme . Science and Mathematics Talent Programme . Leadership Development . Art Elective Programme (AEP) . Higher Music Programme (HMP)  Other programmes that further enrich the students' holistic learning experience include: . Global Classroom Programme . Interdisciplinary Studies . Work Experience Programme . Extended Classroom Programme . Boarding School Experience . Conversational Malay . Community Education and Community Leadership Programme . Philosophical Inquiry . Research Programme . Translation . Drama . Conversational Malay  Third Language - NYGH offers Malay Special Programme"
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1252,6 +1253,16 @@
 				},
 				{
 					"year": "2016",
+					"category": "Art - Category A",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2016",
 					"category": "Band - Concert",
 					"award": "Distinction"
 				},
@@ -1294,16 +1305,6 @@
 					"year": "2016",
 					"category": "Orchestra - Chinese",
 					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
 				}
 			],
 			"Best Unit Award": [

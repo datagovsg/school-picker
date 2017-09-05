@@ -1,10 +1,10 @@
 {
 	"code": "3008",
+	"name": "Raffles Girls' School (Secondary)",
 	"levels": "S",
 	"uen": " T07GS3008J",
 	"logo": "./Medias/Images/Schools/logos/tn_3008.jpg",
-	"name": "Raffles Girls' School (Secondary)",
-	"website": "http://www.rgs.edu.sg/",
+	"website": "http://www.rgs.edu.sg",
 	"address": "20, Anderson Road (259978)",
 	"telephone": [
 		"67371845"
@@ -34,32 +34,34 @@
 		"Affiliated Schools": "Not Applicable"
 	},
 	"SubjectOffered": [
-		"Additional Mathematics",
+		"Area Studies (Southeast Asia)",
 		"Art",
 		"Biology",
 		"Chemistry",
 		"Chinese",
+		"Design & Technology",
 		"English Language",
+		"Food & Design",
 		"Geography",
 		"Higher Chinese",
 		"Higher Malay",
 		"Higher Tamil",
 		"History",
+		"Inquiry & Advocacy",
 		"Literature(E)",
 		"Malay",
-		"Music (MEP)",
+		"Mathematics And Additional Mathematics",
+		"Music",
 		"Physical Education",
 		"Physics",
+		"Science (Lower Secondary)",
 		"Tamil"
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Artistic Gymnastics",
 			"Badminton",
 			"Basketball",
 			"Fencing",
-			"Golf",
-			"Judo",
 			"Netball",
 			"Rhythmic Gymnastics",
 			"Sailing",
@@ -68,7 +70,6 @@
 			"Squash",
 			"Swimming",
 			"Table Tennis",
-			"Ten-Pin Bowling",
 			"Tennis",
 			"Track And Cross Country",
 			"Trampoline Gymnastics"
@@ -84,21 +85,17 @@
 			"Angklung Ensemble",
 			"Art And Craft Club",
 			"Band Symphonic",
-			"Chinese  Drama",
 			"Chinese Orchestra",
 			"Choir",
+			"Cultural Dance",
 			"Dance International",
-			"English Drama",
+			"Drama (English & Chinese)",
 			"Guitar Ensemble",
-			"Handbell Ensemble (Raffles Ringers)",
-			"Indian Dance",
-			"Indian Orchestra",
-			"Malay Dance",
-			"Photographic Society",
-			"Strings Ensemble (Raffles Strings)"
+			"Handbell Ensemble",
+			"Photographic Society"
 		],
 		"Clubs & Societies": [
-			"Cogitare (Mathematics & Science)",
+			"Cogitare (Science)",
 			"Debate And Oratorical Society",
 			"Infocom Club",
 			"Raffles Mind Sports",
@@ -111,7 +108,7 @@
 			"Gifted Education Programme",
 			"Music Elective Programme"
 		],
-		"Special Student Development Programmes Offered": "Providing a holistic education, our six-year Raffles Programme (Y1-4 in RGS and Y5-6 in RI) that bypasses the GCE O Level Examinations, features an enriched and accelerated curriculum that nurtures high-ability learners. At the end of Y6, RGS girls graduate not only with the GCE A Level Examination certificate, but also with the Raffles Diploma - designed to recognise the peaks of excellence in five domains: Cognitive, Character & Leadership, Community & Citizenship, Sports & Health, and Arts & Aesthetics.   Student Development develops the personal capacity of RGS girls and nurtures them to be individuals who are conscious of their responsibility to family, community and nation. Their disposition is developed through the inculcation of knowledge, competencies and values through the Character and Leadership Education (CLE) programme. The CLE Programme empowers our girls to be: good stewards of their lives by heightening their self-awareness through reflection and equipping them with self-management and interpersonal skills; active and socially responsible citizens by promoting school and community involvement; reflective and visionary leaders by equipping them with a habit for introspection, decision-making with foresight and a spirit of teamwork.   Special programmes offered include: Third Languages (Arabic, French, German, Japanese, Spanish, Chinese/Malay Special Programmes); Music Elective Programme; Special Art Programme; Regional Studies Programme; Research Studies Programme (featuring Odyssey of the Mind and Future Problem Solving Programme - Community Problem Solving Programme); Raffles Academy (Literature, History, Geography, Mathematics, Chemistry, Biology, Physics, Higher Chinese Language) catering to girls with special talents; Mentorship Programmes in Science, Mathematics, Humanities and Creative Writing; Language Immersion Programme; Values-in-Action Programme; Student Leadership Development Programme; Work Experience Programme."
+		"Special Student Development Programmes Offered": "Providing a holistic education, our 6-year Raffles Programme (Y1-4 in RGS and Y5-6 in RI) bypasses the GCE O Level Examinations, featuring an enriched and accelerated curriculum that nurtures high-ability learners. At the end of Y6, RGS girls graduate not only with the GCE A Level Examination certificate, but also with the Raffles Diploma - designed to recognise the peaks of excellence in five domains: Cognitive, Character & Leadership, Community & Citizenship, Sports & Health, and Arts & Aesthetics.   Student Development develops the personal capacity of RGS girls and nurtures them to be individuals who are conscious of their responsibility to family, community and nation. Their disposition is developed through the inculcation of knowledge, competencies and values through the Character and Leadership Education (CLE) programme. The CLE Programme empowers our girls to be: good stewards of their lives by heightening their self-awareness through reflection and equipping them with self-management and interpersonal skills; active and socially responsible citizens by promoting school and community involvement; reflective and visionary leaders by equipping them with a habit for introspection, decision-making with foresight and a spirit of teamwork.   Special programmes offered include: Third Languages (Arabic, French, German, Japanese, Spanish, Chinese/Malay Special Programmes); Music Elective Programme; Special Art Programme; Regional Studies Programme; Research Studies Programme (featuring Odyssey of the Mind and Future Problem Solving Programme); Raffles Academy - Course Work and Research Modules - that nurtures girls with special talents and interests; Mentorship Programmes in Science, Mathematics, Humanities and Creative Writing; Language Immersion, Values-in-Action, Student Leadership Development, Work Experience, and Education & Career Guidance Programmes."
 	},
 	"AchievementHistory": {
 		"Secondary": {
