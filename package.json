@@ -7,11 +7,11 @@
     "start": "npm run start-server",
     "dev": "npm run watch-server & npm run dev-server",
     "start-server": "node dist/server.js",
-    "watch-server": "babel-watch src/server.js",
-    "dev-server": "BABEL_ENV=webpack2 webpack-dev-server --config ./webpack.config.js --colors --progress",
+    "watch-server": "BABEL_ENV=server babel-watch src/server.js",
+    "dev-server": "webpack-dev-server --config ./webpack.config.js --colors --progress",
     "build": "npm run babel && npm run webpack",
-    "babel": "mkdir -p dist/ && babel src/server.js -o dist/server.js && babel src/helpers/ -d dist/helpers/",
-    "webpack": "BABEL_ENV=webpack2 webpack --config ./webpack.prod.config.js --colors --progress",
+    "babel": "mkdir -p dist/ && BABEL_ENV=server babel src/server.js -o dist/server.js && BABEL_ENV=server babel src/helpers/ -d dist/helpers/",
+    "webpack": "webpack --config ./webpack.prod.config.js --colors --progress",
     "deploy": "docker build -t yongjun21/datagovsg-school-picker . && heroku container:push web",
     "test": "standard src/**/*.js"
   },
@@ -32,23 +32,15 @@
   "homepage": "https://github.com/yongjun21/datagovsg-school-picker#readme",
   "babel": {
     "presets": [
-      "es2015",
+      ["es2015", {"modules": false}],
       "stage-2"
     ],
     "plugins": [
       "transform-runtime"
     ],
     "env": {
-      "webpack2": {
-        "presets": [
-          [
-            "es2015",
-            {
-              "modules": false
-            }
-          ],
-          "stage-2"
-        ]
+      "server": {
+        "plugins": ["transform-es2015-modules-commonjs"]
       }
     }
   },
