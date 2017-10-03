@@ -22,21 +22,16 @@ app.use(express.static(root))
 app.get('/nearby-school', function (req, res) {
   function getNearbySchools (token) {
     const query = Object.assign({token}, req.query)
-    const url = 'https://www.onemap.sg/schooldataAPI/Services.svc/getSchools?' + querystring.stringify(query)
+    const url = 'https://developers.onemap.sg/publicapi/schooldataAPI/querySchools?' + querystring.stringify(query)
     return fetch(url)
       .then(res => res.json())
       .then(json => {
-        let results
-        if ('SearchResults' in json) {
-          results = json.SearchResults.slice(1)
-        } else {
-          const msg = json.Results && json.Results[0] && json.Results[0].Results
-          if (msg === 'No result found.') results = []
-          else throw new Error(msg)
-        }
+        if (json.error) throw new Error(json.error)
+        const results = json.SearchResults
         const oneKm = []
         const twoKm = []
         results.forEach(match => {
+          if (!match.SCHOOLNAME) return
           const school = schoolList.find(row => row.name.toUpperCase() === match.SCHOOLNAME.toUpperCase())
           if (school) {
             if (match.DIST_CODE === '1') oneKm.push(school.id)

@@ -123,7 +123,7 @@ const store = new Vuex.Store({
     locateAddress (context, postalCode) {
       context.commit('setPostalCode', postalCode)
       context.commit('setLocation', null)
-      const url = 'https://developers.onemap.sg/commonapi/search?searchVal=' + postalCode + '&returnGeom=Y&getAddrDetails=N'
+      const url = 'https://developers.onemap.sg/commonapi/search?searchVal=' + postalCode + '&returnGeom=Y&getAddrDetails=Y'
       return window.fetch(url)
         .then(res => res.json())
         .then(json => {
@@ -131,7 +131,8 @@ const store = new Vuex.Store({
             const match = json.results[0]
             const lnglat = [+match.LONGITUDE, +match.LATITUDE]
             context.commit('setLocation', lnglat)
-            return context.dispatch('fetchTravelTime', lnglat)
+            context.dispatch('fetchTravelTime', lnglat)
+            return match
           }
         }).catch(err => {
           console.error(err)

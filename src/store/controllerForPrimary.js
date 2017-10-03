@@ -89,8 +89,12 @@ export function importOptionsForPrimary (context, query) {
   })
 
   if (query.postalCode && query.postalCode.match(/^\d{6}$/)) {
-    context.dispatch('locateAddress', query.postalCode)
-    context.dispatch('homeSchoolDistance/queryOnemap', {postalCode: query.postalCode})
+    context.dispatch('locateAddress', query.postalCode).then(match =>
+      context.dispatch('homeSchoolDistance/queryOnemap', {
+        postalCode: query.postalCode,
+        blkNo: match.BLK_NO
+      })
+    )
   } else {
     context.commit('setPostalCode', null)
     context.commit('setLocation', null)

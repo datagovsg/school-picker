@@ -44,7 +44,6 @@ export default {
       'exportOptions',
       'resetOptions'
     ]),
-    ...mapActions('homeSchoolDistance', ['queryOnemap']),
     setDistance (val) {
       if (val !== this.distance) this.$store.commit('setDistance', val)
       else this.$store.commit('setDistance', null)

@@ -1,6 +1,5 @@
 import fs from 'fs'
 import fetch from 'node-fetch'
-import {fromSVY21} from 'sg-heatmap/dist/helpers/geometry'
 import {CustomHeatmap} from '../helpers/geospatial'
 import {onemapApi} from '../helpers/api'
 
@@ -59,7 +58,7 @@ function normalize (str) {
 
 export function getPrimarySchoolLocations () {
   function fetchSchools (token) {
-    const url = 'https://www.onemap.sg/schooldataAPI/Services.svc/searchSchools?token=' + token
+    const url = 'https://developers.onemap.sg/publicapi/schooldataAPI/retrieveAllSchools?token=' + token
     return fetch(url).then(res => res.json()).then(json => {
       if (!('SearchResults' in json)) throw new Error()
       return json.SearchResults.slice(1)
@@ -73,11 +72,9 @@ export function getPrimarySchoolLocations () {
     data.forEach(location => {
       const match = schoolList.find(school => school.name === location.SCHOOLNAME)
       if (!match) return
-      let [lng, lat] = fromSVY21([+location.SCH_X_ADDR, +location.SCH_Y_ADDR])
-      lng = +(lng.toString().slice(0, 13))
-      lat = +(lat.toString().slice(0, 13))
+      const coordinates = [+location.LONGITUDE, +location.LATITUDE]
       const svy21 = [+location.SCH_X_ADDR, +location.SCH_Y_ADDR]
-      Object.assign(locations[match.code], {coordinates: [lng, lat], svy21})
+      Object.assign(locations[match.code], {coordinates, svy21})
     })
 
     fs.writeFileSync('data/locations.json', JSON.stringify(locations))

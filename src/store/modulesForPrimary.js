@@ -1,6 +1,5 @@
 import {optionsSelected} from 'helpers/util'
 import {capitalize} from 'helpers/text'
-import {toSVY21} from 'sg-heatmap/dist/helpers/geometry'
 
 export const homeSchoolDistance = {
   namespaced: true,
@@ -15,16 +14,16 @@ export const homeSchoolDistance = {
     }
   },
   actions: {
-    queryOnemap (context, {postalCode, lnglat}) {
+    queryOnemap (context, {postalCode, blkNo}) {
       context.commit('setData', {oneKm: [], twoKm: []})
       let url = window.location.origin + '/nearby-school'
-      if (postalCode) url += '?postalCode=' + postalCode
-      else if (lnglat) url += '?location=' + toSVY21(lnglat).join(',')
-      else return
-      return window.fetch(url)
-        .then(res => res.json())
-        .then(json => context.commit('setData', json.result))
-        .catch(err => console.error(err))
+      if (postalCode && blkNo) {
+        url += `?postalcode=${postalCode}&hbn=${blkNo}`
+        return window.fetch(url)
+          .then(res => res.json())
+          .then(json => context.commit('setData', json.result))
+          .catch(err => console.error(err))
+      }
     }
   }
 }

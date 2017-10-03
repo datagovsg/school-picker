@@ -68,9 +68,11 @@ export default {
       if (this.value && this.validated) {
         // if valid postal code is provided
         this.locateAddress(this.value)
-          .then(() => this.exportOptions())
+          .then(match =>
+            this.queryOnemap({postalCode: this.value, blkNo: match.BLK_NO}),
+            this.exportOptions()
+          )
           .then(query => this.$router.replace({query}))
-        this.queryOnemap({postalCode: this.value})
       } else {
         this.reset()
       }
