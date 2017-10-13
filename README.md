@@ -38,8 +38,8 @@ npm install
 cd ../../
 
 # run preprocess scripts
-babel-node src/preprocess/dataCleaner.js
-babel-node src/preprocess/indexer.js
+BABEL_ENV=server babel-node src/preprocess/dataCleaner.js
+BABEL_ENV=server babel-node src/preprocess/indexer.js
 ```
 
 If you do not need to recompile travel time estimation, dev-dependency `osrm` can be omitted from `src/preprocess/package.json` to avoid installation error. Otherwise, refer to [this](https://github.com/Project-OSRM/osrm-backend/wiki/Building-OSRM#os-x-enable_masonoff) or [this](https://github.com/Project-OSRM/osrm-backend/wiki/Building-on-Ubuntu) for debugging instruction.

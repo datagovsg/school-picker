@@ -55,7 +55,13 @@ files.forEach(file => {
       })
     }
     Object.assign(processed, locations[raw.code])
-    if (raw.name in specialNeeds) processed.specialNeeds = specialNeeds[raw.name]
+    if (raw.code in specialNeeds.secondary) {
+      processed.specialNeeds = specialNeeds.secondary[raw.code]
+    }
+    if (specialNeeds.handicap.indexOf(raw.name) > -1) {
+      processed.specialNeeds = processed.specialNeeds || []
+      if (processed.specialNeeds.indexOf('PD') === -1) processed.specialNeeds.push('PD')
+    }
     if (raw.levels.indexOf('P') > -1) {
       processed.specialNeeds = processed.specialNeeds || []
       processed.specialNeeds.push('Mild SEN')

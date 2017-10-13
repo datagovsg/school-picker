@@ -34,7 +34,7 @@ export function getFilteredForPrimary (state, getters) {
       if (state.specialNeeds.selected.length > 0) {
         const selected = state.specialNeeds.selected
         match = match && selected.some(need => {
-          if (need === 'HL') return 'HL.NAO' in school.specialNeeds || 'HL.TC' in school.specialNeeds
+          if (need === 'HL') return 'HL.Signing' in school.specialNeeds || 'HL.Oral' in school.specialNeeds
           return need in school.specialNeeds
         })
       }

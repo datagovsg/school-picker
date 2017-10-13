@@ -2,15 +2,15 @@ import fetch from 'node-fetch'
 import {html2json} from 'html2json'
 
 export function scrapSpecialNeeds () {
-  const url = 'https://www.moe.gov.sg/education/programmes/support-for-children-special-needs'
+  const url = 'https://www.moe.gov.sg/education/programmes/resources-to-support-mainstream-students-with-special-needs'
   return fetch(url, {headers: {'Accept-Encoding': 'gzip,deflate'}})
     .then(res => res.text())
     .then(html => {
       html = html.replace(/\r?\n|\r/g, '').replace(/>\s+</g, '><')
 
       const tables = [
-        html.match(/<table id="table-1".*<\/table>/)[0],
-        html.match(/<table>.*<\/table>/)[0]
+        html.match(/<table>.*<\/table>/)[0],
+        ...html.match(/<table id="table-1".*?<\/table>/g)
       ]
 
       const jsons = tables.map(html2json)
@@ -21,26 +21,29 @@ export function scrapSpecialNeeds () {
     })
 }
 
-function parseSpecialNeeds ([table1, table2]) {
-  const result = {}
-  table1
-    .child[0].child[1].child
-    .map(c => c.child.map(c => c.child[0].text))
-    .forEach(row => {
-      const key = row[0].toUpperCase()
-      const value = []
-      if (row[2] === '✔ TC') value.push('HL.TC')
-      else if (row[2] === '✔ NAO') value.push('HL.NAO')
-      if (row[3] === '✔') value.push('VI')
-      if (row[4] === '✔') value.push('PD')
-      if (row[5] === '✔') value.push('Mild SEN')
-      if (value.length > 0) result[key] = value
-    })
-  table2
+function parseSpecialNeeds ([handicap, ...tables]) {
+  const result = {secondary: {}, handicap: []}
+  tables.forEach(table => {
+    table.child[0].child[0].child.slice(1)
+      .map(c => c.child.slice(-6))
+      .map(c => c.map(c => c.child[0].text))
+      .forEach(row => {
+        const key = row[1]
+        const value = []
+        if (row[2].indexOf('Signing') > -1) value.push('HL.Signing')
+        else if (row[2].indexOf('Oral') > -1) value.push('HL.Oral')
+        if (row[3] !== '&nbsp;') value.push('VI')
+        if (row[4] !== '&nbsp;') value.push('PD')
+        if (row[5] !== '&nbsp;') value.push('Mild SEN')
+        if (value.length > 0) result.secondary[key] = value
+      })
+  })
+  handicap
     .child[0].child[0].child.slice(1)
     .map(c => c.child.map(c => c.child[0].text))
     .forEach(row => {
-      result[row[0].toUpperCase()] = ['PD']
+      const key = row[0].toUpperCase().replace(/ +/g, ' ')
+      result.handicap.push(key)
     })
 
   return result

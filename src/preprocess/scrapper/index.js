@@ -5,6 +5,7 @@ import scrap from './scrapper'
 import aggregate from './aggregator'
 import runTask from './task-runner'
 import {
+  scrapSpecialNeeds,
   scrapRelocatedSchools,
   scrapMergerSchools,
   scrapNewSchools,
@@ -19,13 +20,13 @@ import {defaultYearRange} from './constants'
 //     fs.writeFileSync('data/tmp.json', JSON.stringify(json, null, '\t'))
 //   })
 
-// scrapSpecialNeeds().then(json => {
-//   fs.writeFileSync('data/specialNeeds.json', JSON.stringify(json, null, '\t'))
-// })
+scrapSpecialNeeds().then(json => {
+  fs.writeFileSync('data/specialNeeds.json', JSON.stringify(json, null, '\t'))
+})
 
-// scrapStudentCare().then(json => {
-//   fs.writeFileSync('data/studentCare.json', JSON.stringify(json, null, '\t'))
-// })
+scrapStudentCare().then(json => {
+  fs.writeFileSync('data/studentCare.json', JSON.stringify(json, null, '\t'))
+})
 
 // scrapRelocatedSchools().then(json => {
 //   fs.writeFileSync('data/relocatedSchools.json', JSON.stringify(json, null, '\t'))
@@ -60,4 +61,4 @@ import {defaultYearRange} from './constants'
 //   fs.writeFileSync(`data/backups/vacancies${suffix}.json`, JSON.stringify(vacancies, null, '\t'))
 // })
 
-runTask([], defaultYearRange)
+// runTask([], defaultYearRange)
