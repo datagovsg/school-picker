@@ -110,6 +110,10 @@
 				"Development Award": "DA (Character Development)",
 				"Outstanding Development Award": "ODA (National Education)"
 			},
+			"2017": {
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "ODA (National Education)"
+			},
 			"Sports & Games Competition": [
 				{
 					"year": "2014",
@@ -190,6 +194,46 @@
 						"'B' Div"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -240,6 +284,16 @@
 				},
 				{
 					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
 					"category": "Dance - Malay",
 					"award": "Distinction"
 				}
@@ -297,6 +351,26 @@
 				},
 				{
 					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Sea Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
 					"category": "NPCC (Land)",
 					"award": "Silver"
 				}

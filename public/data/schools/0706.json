@@ -21,11 +21,16 @@
 	"GeneralInformation": {
 		"Principal": "Miss Ek Soo Ben",
 		"Vice Principal": [
-			"Mr Singh Gurusharan S/o M Singh",
+			"Mr Gurusharan Singh S/o M Singh",
 			"Mr Cheong Tien Beng"
 		],
 		"Vice Principal (Admin)": "Mdm Chua Nga Woon",
-		"School Vision": "LiVE like a Victorian - Legendary Spirit - Visionary Leadership - Extraordinary Service",
+		"School Vision": [
+			"LiVE like a Victorian",
+			"- Legendary Spirit",
+			"- Visionary Leadership",
+			"- Extraordinary Service"
+		],
 		"School Mission": "To ignite the imagination of all Victorians to create the future with conviction, courage and compassion",
 		"Type of School": "Government School / Co-ed School / Full Day",
 		"IP Partner Schools": [
@@ -58,7 +63,6 @@
 		"H2 Art",
 		"H2 Biology",
 		"H2 Chemistry",
-		"H2 China Studies In Chinese",
 		"H2 China Studies In English",
 		"H2 Economics",
 		"H2 French Language",
@@ -88,7 +92,7 @@
 		"Nus-a*star-vjc Science Research (Chem)",
 		"Nus-a*star-vjc Science Research (Math)",
 		"Nus-a*star-vjc Science Research (Phy)",
-		"Smu Game Theory & Competition"
+		"Smu Game Theory"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -126,6 +130,7 @@
 			"Symphonic Band"
 		],
 		"Clubs & Societies": [
+			"Astronomy Club",
 			"Bizclub",
 			"Chinese Society",
 			"Debates",
@@ -190,6 +195,12 @@
 					"BPA (Student All-Round Development)",
 					"BPA (Teaching and Learning)"
 				],
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)"
+				]
+			},
+			"2017": {
 				"Outstanding Development Award": [
 					"ODA (Character Development)",
 					"ODA (National Education)"
@@ -715,6 +726,156 @@
 						"'A' Div"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Cricket",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Cross Country",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Cross Country",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -881,6 +1042,56 @@
 				{
 					"year": "2016",
 					"category": "Orchestra - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Harmonica",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guitar",
 					"award": "Distinction"
 				}
 			],

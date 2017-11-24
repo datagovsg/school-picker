@@ -87,7 +87,7 @@
 			"Science": "Augmenting Science Learning through Innovation",
 			"Music & Performing Arts": "Programme for Aesthetics Integration@Rosyth (PAIR)"
 		},
-		"Special Student Development Programmes Offered": "The school offers distinctive programmes in the areas of Science and the Aesthetics.  Under the auspices of the Applied Learning Programme (ALP) and Learning for Life Programme (LLP), students go through level-wide activities to broaden their learning in the two focused areas.  Those with the aptitude or interest may also progress to our customized activities for more in-depth learning.  In the area of Science, for instance, students go through a range of activities from life-sciences, use of customized gadgets to investigate scientific concepts, to the application of theories in the design of toys.  Platforms have also been provided for students to apply their learning in the creation of toys/artefacts using science concepts, which are subsequently sold to raise funds for selected beneficiaries.    With regard to the development of Aesthetics, students are exposed to voice-training, dance, playing of musical instruments, to the use of ICT for manga art and 2D animations.  Through the programme, students are exposed to an array of alternative platforms to express their thoughts and ideas.  It is hoped that through the wide range of offerings and the strong foundation that is laid, Rosythians will acquire a broad and deep foundation for a lifelong and life-deep learning."
+		"Special Student Development Programmes Offered": "The school offers distinctive programmes in the areas of Science and the Aesthetics.  Under the auspices of the Applied Learning Programme (ALP) and Learning for Life Programme (LLP), students go through level-wide activities to broaden their learning in the two focused areas.  Those with the aptitude or interest may also progress to our customized activities for more in-depth learning."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -107,6 +107,9 @@
 				"Outstanding Development Award": "ODA (National Education)"
 			},
 			"2016": {
+				"School Distinction Awards": "SDA"
+			},
+			"2017": {
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
@@ -319,6 +322,76 @@
 						"Senior"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -441,6 +514,51 @@
 					"year": "2016",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -468,6 +586,16 @@
 					"year": "2016",
 					"category": "Scout",
 					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Brownies (Pack 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Scout",
+					"award": "Silver"
 				}
 			]
 		}

@@ -127,6 +127,9 @@
 			"2016": {
 				"School Distinction Awards": "SDA"
 			},
+			"2017": {
+				"School Distinction Awards": "SDA"
+			},
 			"Sports & Games Competition": [
 				{
 					"year": "2014",
@@ -195,6 +198,16 @@
 						"National",
 						"Girls",
 						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
 					],
 					"award": "4th"
 				}
@@ -294,6 +307,41 @@
 					"year": "2016",
 					"category": "Orchestra - Chinese",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Brass Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Wind Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -341,6 +389,21 @@
 					"year": "2016",
 					"category": "St John Ambulance Brigade",
 					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCDCC",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "St John Ambulance Brigade",
+					"award": "Bronze"
 				}
 			]
 		}

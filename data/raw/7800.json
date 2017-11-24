@@ -56,7 +56,7 @@
 		"MOE Programmes": [
 			"Not Available"
 		],
-		"Special Student Development Programmes Offered": "Academy sports: Badminton, Bowling, Fencing, Football, Golf, Netball, Shooting, Swimming, Table Tennis and Track and Field   Other sports currently offered: Archery, Equestrian, Gymnastic, Sailing, Silat, Synchromised Swimming, Tennis and Triathlon"
+		"Special Student Development Programmes Offered": "Academy sports: Badminton, Bowling, Fencing, Football, Golf, Netball, Shooting, Swimming, Table Tennis and Track and Field "
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1734,7 +1734,164 @@
 					]
 				]
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"1st",
+						"2nd",
+						"1st",
+						"1st",
+						"1st",
+						"1st",
+						"1st",
+						"1st"
+					],
+					[
+						"Fencing",
+						"1st",
+						"1st",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"2nd"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"2nd",
+						"1st",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"1st",
+						"2nd",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"3rd",
+						"3rd",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"1st",
+						"2nd",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"3rd",
+						"2nd",
+						"2nd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				]
+			}
 		},
 		"Junior College": {
 			"2005": {},
@@ -1884,7 +2041,73 @@
 					]
 				]
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Fencing",
+						"4th",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"2nd",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				]
+			}
 		}
 	},
 	"PsleAggregateHistory": {

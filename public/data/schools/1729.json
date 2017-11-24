@@ -25,7 +25,15 @@
 		],
 		"School Vision": "Firm Foundations, Future Learnings",
 		"School Mission": "To build a firm foundation in each child, enabling him to grow, serve and excel.",
-		"School Philosophy, Culture and Ethos": "The heart of learning in Northland Primary School NPS) is encapsulated in our vision:Firm Foundations, Future Learnings. The vision takes reference from MOE's direction to better prepare our students for the 21st century world.  Building a Firm Foundation in Every Child At NPS, we seek to provide our students with a strong academic foundation that is rooted in deep understanding. It is based on our core beliefs that learning for understanding makes learning more meaningful and academic learning must extend beyond examination results and the knowledge of just facts and skills.  Besides nurturing our students to strive for their personal best, we believe that a holistic education will serve the needs of our students in the future. We actively seek to mould our students to become critical thinkers and lifelong learners so that they can appreciate the present and thrive in any endeavour in the future.  Enabling Every Child to Grow, Serve and Excel NPS places a strong emphasis in inculcating sound moral and social values in our students. Our five core values of Compassion, Lifelong Learning, Integrity, Teamwork and Excellence serve as a compass to guide all Northlanders in their thoughts and actions. Students are taught to demonstrate their love and concern for others and their environment through numerous platforms set up for them, like the Values-In-Action and Student-Initiated projects. One example is the completion of Acts of Kindness cards by students to remind themselves to make a conscious effort to show kindness to others.  Here in NPS, on top of the progressive and differentiated student-centric curriculum, we offer an array of structured enrichment programmes from co-curricular programmes like International Chess Club to fun-filled activities during recess (like Art & Craft; Information Communication Technology infused Games; storytelling sessions), as well as daily pre-assembly talks and learning journeys that expose students to learning beyond the classrooms.",
+		"School Philosophy, Culture and Ethos": [
+			"The heart of learning in Northland Primary School NPS) is encapsulated in our vision:Firm Foundations, Future Learnings. The vision takes reference from MOE's direction to better prepare our students for the 21st century world.",
+			"Building a Firm Foundation in Every Child",
+			"At NPS, we seek to provide our students with a strong academic foundation that is rooted in deep understanding. It is based on our core beliefs that learning for understanding makes learning more meaningful and academic learning must extend beyond examination results and the knowledge of just facts and skills.",
+			"Besides nurturing our students to strive for their personal best, we believe that a holistic education will serve the needs of our students in the future. We actively seek to mould our students to become critical thinkers and lifelong learners so that they can appreciate the present and thrive in any endeavour in the future.",
+			"Enabling Every Child to Grow, Serve and Excel",
+			"NPS places a strong emphasis in inculcating sound moral and social values in our students. Our five core values of Compassion, Lifelong Learning, Integrity, Teamwork and Excellence serve as a compass to guide all Northlanders in their thoughts and actions. Students are taught to demonstrate their love and concern for others and their environment through numerous platforms set up for them, like the Values-In-Action and Student-Initiated projects. One example is the completion of Acts of Kindness cards by students to remind themselves to make a conscious effort to show kindness to others.",
+			"Here in NPS, on top of the progressive and differentiated student-centric curriculum, we offer an array of structured enrichment programmes from co-curricular programmes like International Chess Club to fun-filled activities during recess (like Art & Craft; Information Communication Technology infused Games; storytelling sessions), as well as daily pre-assembly talks and learning journeys that expose students to learning beyond the classrooms."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -85,7 +93,7 @@
 			"Interdisciplinary": "Skilling the Mind; Empowering the Thinking",
 			"Music & Performing Arts": "My Story, My Stage – Acquiring an identity and voice as one shares his stories, imagines and explores."
 		},
-		"Special Student Development Programmes Offered": "Our two distinctive programmes: Learning for Life Programme (LLP) and Applied Learning Programme (ALP) were awarded by MOE in 2014 and 2016 respectively.   Northland's LLP, My Story, My Stage (MSMS), leverages two domains well-loved by our learners, Music and Drama.  It aims to provide Northlanders with a safe environment and a spectrum of fun activities to develop core confidence in their identity and voice. It seeks to encourage and channel creativity to the exploration of reality and beauty of many life issues. MSMS aims to encourage every Northlander to find his purpose and passion through \"his individual story on the stage\".  Music works on the principle of exploration and it facilitates teamwork instinctively.  Drama allows for one's imaginative and communicative aspects to develop naturally through the improvisations pieces and sharing of individual narratives.    Northland's ALP is a thinking programme called Skilling the Mind; Empowering the Thinking. The suite of thinking programmes is mapped across different subjects and levels. It endeavours to refine our students' thinking ability as they progress through the six years in Northland.  Through this programme, students will learn a host of different thinking skills that enable them to think critically, analytically, creatively and reflectively.  Enrichment thinking programmes include Chess for P1, Project Work for P3 to P5 and Coding for P3 and P4.  Informed by research, the school-wide thinking programme aspires to help students acquire thinking as a lifelong habit so as to serve them in their growing years beyond Northland.  It ventures to cultivate in our students a structured approach towards thinking, and imbue in them a body of intellectual traits so that our students may approach thinking in the right spirit and develop greater confidence in themselves.  Equipped with these traits and skills, we believe our students will become more confident."
+		"Special Student Development Programmes Offered": "Our two distinctive programmes: Learning for Life Programme (LLP) and Applied Learning Programme (ALP) were awarded by MOE in 2014 and 2016 respectively. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -107,6 +115,9 @@
 			"2016": {
 				"School Distinction Awards": "SDA"
 			},
+			"2017": {
+				"School Distinction Awards": "SDA"
+			},
 			"Sports & Games Competition": [
 				{
 					"year": "2014",
@@ -125,6 +136,16 @@
 						"Zone",
 						"Boys",
 						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
 					],
 					"award": "4th"
 				}
@@ -214,9 +235,60 @@
 					"year": "2016",
 					"category": "Ensemble - Strings",
 					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guitar",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Strings",
+					"award": "Commendation"
 				}
 			],
-			"Best Unit Award": []
+			"Best Unit Award": [
+				{
+					"year": "2017",
+					"category": "Scout",
+					"award": "Silver"
+				}
+			]
 		}
 	},
 	"postalCode": "769026",

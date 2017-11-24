@@ -22,8 +22,15 @@
 		"Principal": "Mr Lo Khee Tian Mark",
 		"Vice Principal": "Mr Ang Kheng San Cecil",
 		"Vice Principal (Admin)": "Mr Chan Kwang How Bernard",
-		"School Vision": "Home of Servant Leaders Who Bring Life To The Nations",
-		"School Mission": "Making Lives and Waking Hearts To Serve The Coming Days Family-Society-Eternity",
+		"School Vision": [
+			"Home of Servant Leaders",
+			"Who Bring Life To The Nations"
+		],
+		"School Mission": [
+			"Making Lives and Waking Hearts",
+			"To Serve The Coming Days",
+			"Family-Society-Eternity"
+		],
 		"Type of School": "Government-aided Sch / Co-ed School / Full Day",
 		"Mother Tongue": "Not Available",
 		"Affiliated Schools": [
@@ -388,6 +395,46 @@
 						"'A' Div"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -510,6 +557,41 @@
 					"year": "2016",
 					"category": "Orchestra - Chinese",
 					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Mixed Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []

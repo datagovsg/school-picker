@@ -18,8 +18,8 @@
 	"GeneralInformation": {
 		"Principal": "MDM S SAROJA",
 		"Vice Principal": [
-			"MRS SIEW- TSAI JUNE WAH",
-			"MR SHERWIN CHENG SAN SHIAN"
+			"MDM TSAI JUNE WAH",
+			"MISS WEE MEI YEN JANICE"
 		],
 		"School Vision": "A Kent Ridgean has the Heart of a Saint, the Passion of an Inventor, and the Will of an Olympian.",
 		"School Mission": "Kent Ridge Secondary nurtures the heart, ignites the passion and strengthens the will of all Kent Ridgeans to become individuals of exemplary character.",
@@ -603,7 +603,67 @@
 					"Npcc (Land)": "Bronze"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Ncdcc": "Bronze",
+					"Npcc (Land)": "Silver"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

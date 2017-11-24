@@ -19,7 +19,7 @@
 		"Principal": "MDM RASIDAH BTE RAHIM",
 		"Vice Principal": [
 			"MR ONG KAH HUI VICTOR",
-			"MISS WEE MEI YEN JANICE"
+			"MR CHUA PUAY WEE ERIC"
 		],
 		"School Vision": "Leaders for Tomorrow, Anchored in Values, Committed to Serve.",
 		"School Mission": "To nurture all Queenstownians to R2ISE as future-ready leaders, actively contributing to society.",
@@ -579,7 +579,69 @@
 					"Scout (Unit 1)": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Silver",
+					"Scout (Unit 1)": "Gold",
+					"Red Cross": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

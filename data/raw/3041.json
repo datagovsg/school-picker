@@ -21,7 +21,11 @@
 			"MDM LOH SOI HONG MICHELLE",
 			"MDM MASAYU BINTE MAHMUD"
 		],
-		"School Vision": "Weave - quality teaching, learning & values Dream - the best Lead - to inspire",
+		"School Vision": [
+			"Weave - quality teaching, learning & values",
+			"Dream - the best",
+			"Lead - to inspire"
+		],
 		"School Mission": "Nurturing Caring, Confident and Creative individuals equipped to face life's challenges.",
 		"School Philosophy, Culture and Ethos": "A School Distinction Award and Singapore Quality Class school, the school is committed to achieving its mission, 'Nurturing caring, confident and creative individuals equipped to face life's challenges'. Through the school motto 'Wisdom and Truth', the school seeks to imbue in each student the school values, represented in the acronym WISDOM, which stands for: Working with others, Integrity, PerSeverance, Dedication, LOyalty and Mindset of excellence. The school strongly believes that quality staff, and strong partnerships with alumni, parents, community and educational partners are the foundation for organisational excellence. The students' many achievements in the Academics, Sports, Performing Arts and Uniform Groups are a testament to the impact of our programmes and commitment in equipping them with the values, skills and knowledge to excel even when students may or may not have the background or prerequisites. The school's best practices on Teaching & Learning, Student-all-round Development, Character & Citizenship education and Staff Well-being & Development signifies that the school is committed in grooming our students to be confident and ready for the ever changing economic and social landscape.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
@@ -100,7 +104,7 @@
 			"STEM": "Real Food, Real Science",
 			"Community & Youth Leadership": "Active Glocal Citizens Programme"
 		},
-		"Special Student Development Programmes Offered": "The school runs two distinctive school programmes in the Applied Learning Programme entitled \"Real Food, Real Science\" and the Learning for Life Programme entitled \"Active Glocal Citizens\".   The Real Food, Real Science Programme is customised for different courses and allows our students to apply the skills they learnt in investigative experiences in Food Science to create healthier food and/or provide services in the Food and Beverage Industry. Our programme hinges on Design Thinking process to enable our students in being the creative problem-solver. The signature modules in Drink-making (Sec 1), Hub Cafe@WDL (NT), Food Preservation and Arduino (Sec 2). The skills and techniques are put to application at Sec 3 for those who have gained an interest in pursuing Food Science through job shadowing and competitions.  The Active Glocal Citizens Programme provides training in social innovation and entrepreneurship at lower secondary level with local Values-in-Action as the context for application. It culminates in Secondary 3 when our students apply the skills in the cohort overseas Values-in-Action expeditions to ASEAN countries. The programme aspires to prepare our students to be future contributors in the form of community youth leaders.   Like us on our Facebook page (https://www.facebook.com/woodlandssecondarysch) or follow our Instagram account @woodlandssec for up-to-date information on the learning experiences of our students."
+		"Special Student Development Programmes Offered": "The school runs two distinctive school programmes in the Applied Learning Programme entitled \"Real Food, Real Science\" and the Learning for Life Programme entitled \"Active Glocal Citizens\". "
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -949,7 +953,82 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Drama - Multi-Lingual": "Accomplishment",
+					"Ensemble - Guitar": "Commendation"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Gold",
+					"Girl Guides (Coy 1)": "Bronze"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

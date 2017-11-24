@@ -26,7 +26,10 @@
 		"Vice Principal (Admin)": "Mr Lek Chun Guan",
 		"School Vision": "A Dynamic School providing Holistic Education",
 		"School Mission": "Nurturing Broadricans to be future-ready learners with Strength of Character",
-		"School Philosophy, Culture and Ethos": "Broadrick's vision is to become a vibrant learning community where Broadricians will be equipped with life skills and knowledge to meet the challenges of a complex and changing environment.  We educate the whole child and ensure that learning is developmentally appropriate to increase confidence and motivation for learning.  Our educational programmes provide opportunities for every Broadrician to be all-rounded and have the zest to lead a purposeful life.  In Broadrick, we focus on developing self-directed Broadricians who are rooted in values.  We also want to educate Broadricians to embrace the spirit of innovation and enterprise so that they are empowered to take calculated risks and develop the resilience to face future challenges.  Teachers are key and students are our focus.  Establishing quality relationships with our stakeholders is crucial to nurture students entrusted in our care.  Broadricians have a sense of responsibility to contribute to the family, school, community, nation and world with the purpose of making a difference.  They learn to serve and serve to learn from others.",
+		"School Philosophy, Culture and Ethos": [
+			"Broadrick's vision is to become a vibrant learning community where Broadricians will be equipped with life skills and knowledge to meet the challenges of a complex and changing environment.  We educate the whole child and ensure that learning is developmentally appropriate to increase confidence and motivation for learning.",
+			"Our educational programmes provide opportunities for every Broadrician to be all-rounded and have the zest to lead a purposeful life.  In Broadrick, we focus on developing self-directed Broadricians who are rooted in values.  We also want to educate Broadricians to embrace the spirit of innovation and enterprise so that they are empowered to take calculated risks and develop the resilience to face future challenges.  Teachers are key and students are our focus.  Establishing quality relationships with our stakeholders is crucial to nurture students entrusted in our care.  Broadricians have a sense of responsibility to contribute to the family, school, community, nation and world with the purpose of making a difference.  They learn to serve and serve to learn from others."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -97,7 +100,7 @@
 			"STEM": "ENERGISE (Energy in Environmental Science and Sustainable Education)",
 			"Community & Youth Leadership": "Confidence And REsilience (CARE) though Aesthetics, Community and Youth Leadership"
 		},
-		"Special Student Development Programmes Offered": "We are recognised by MOE for \"Entrepreneurship in STEM\", which is an applied learning programme that help our students to become inquisitive leaders, critical and creative thinkers who embrace the spirit of creativity and enterprise.  Through school-based Science curriculum, students are involved in inquiry-based projects in collaboration with partners from Science Centre and Nanyang Polytechnic.  Students also learn about design thinking, marketing and examine commercial viability in product designs.  Enrichment activities include hands-on experience in constructing prototype and the Broadrick Digital Intelligence (DI) Programme, making our students to be part of a new generation of digital natives.  In our Learning for Life Programme, we nurture Confidence And REsilience (CARE) through Aesthetics, Community and Youth Leadership.  Service Learning is our adopted methodology for experiential learning to develop character and 21st century competencies in our students.  Our comprehensive Service Learning and Aesthetics programmes are structured into the school curriculum and every student is given an opportunity to be exposed to rich, authentic learning experiences as they work with others and with the community at large.  Through these platforms, we aim to progressively develop important life skills in students, such as critical thinking, communication, leadership and active citizenry."
+		"Special Student Development Programmes Offered": "We are recognised by MOE for \"Entrepreneurship in STEM\", which is an applied learning programme that help our students to become inquisitive leaders, critical and creative thinkers who embrace the spirit of creativity and enterprise.  Through school-based Science curriculum, students are involved in inquiry-based projects in collaboration with partners from Science Centre and Nanyang Polytechnic.  Students also learn about design thinking, marketing and examine commercial viability in product designs.  Enrichment activities include hands-on experience in constructing prototype and the Broadrick Digital Intelligence (DI) Programme, making our students to be part of a new generation of digital natives."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -180,6 +183,26 @@
 						"'B' Div"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -247,6 +270,21 @@
 					"year": "2016",
 					"category": "Orchestra - Chinese",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -307,6 +345,26 @@
 				},
 				{
 					"year": "2016",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Land Boys)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "Red Cross",
 					"award": "Gold"
 				}

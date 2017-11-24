@@ -21,7 +21,15 @@
 		"Vice Principal (Admin)": "MR WANG TAI WEE",
 		"School Vision": "Caring Hearts, Enriched Minds, Determined Spirits",
 		"School Mission": "To nurture Concordians with Character and Passion for learning to face life's challenges.",
-		"School Philosophy, Culture and Ethos": "The school believes that Every Concordian is An Engaged Learner and has provided platforms to enable our students to contribute, excel and to showcase their talents as Every Individual Matters.   Through the programmes and efforts, the school strives to nurture our students with the essential 21st century competencies. The school builds a network of quality partnerships as we are firm believers of the adage that it takes a village to raise a child.  We want them to enjoy their schooling experiences, build strong foundations in knowledge, values and character and discover their passion in life.  We  aspire to develop Concordians who are upright and resilient and who possess the ability to boldly take on the challenges in life and contribute selflessly to the school and society.    The school has a unique iGIVE culture, which centres itself on building the character of its students. In iGIVE: * Graciousness is to have the respect, harmony, care and abundance mentality to be able to work and support as a team. * Integrity is to stay true to our mission, to go the extra mile, be responsible and accountable in actions and have the courage to stand up for what is right. * Vibrancy is to cater to differentiated needs via providing a variety of platforms to learn, exhibit and excel, and to celebrate together with dignity and pride. * Enterprise is to be daring to innovate and embark on calculated risks with a constructive mindset to learn and strive for peaks of excellence.",
+		"School Philosophy, Culture and Ethos": [
+			"The school believes that Every Concordian is An Engaged Learner and has provided platforms to enable our students to contribute, excel and to showcase their talents as Every Individual Matters. ",
+			"Through the programmes and efforts, the school strives to nurture our students with the essential 21st century competencies. The school builds a network of quality partnerships as we are firm believers of the adage that it takes a village to raise a child.  We want them to enjoy their schooling experiences, build strong foundations in knowledge, values and character and discover their passion in life.  We  aspire to develop Concordians who are upright and resilient and who possess the ability to boldly take on the challenges in life and contribute selflessly to the school and society.  ",
+			"The school has a unique iGIVE culture, which centres itself on building the character of its students. In iGIVE:",
+			"* Graciousness is to have the respect, harmony, care and abundance mentality to be able to work and support as a team.",
+			"* Integrity is to stay true to our mission, to go the extra mile, be responsible and accountable in actions and have the courage to stand up for what is right.",
+			"* Vibrancy is to cater to differentiated needs via providing a variety of platforms to learn, exhibit and excel, and to celebrate together with dignity and pride.",
+			"* Enterprise is to be daring to innovate and embark on calculated risks with a constructive mindset to learn and strive for peaks of excellence."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -54,7 +62,7 @@
 			"Interdisciplinary": "E3 Reasoning (Enable, Enrich and Empower) @ Concord",
 			"Sports & Outdoor Education": "Values-Based Learning through Outdoor Education"
 		},
-		"Special Student Development Programmes Offered": "Approved and endorsed by MOE since 2014, the school leverages its Applied Learning Programme(E3 Reasoning) and Learning for Life Programme(Outdoor Education) to nurture holistic learners who are New-World Ready.  E3 Reasoning Concord places a premium on enabling them to think, discern and make informed decisions in life. Our E3 Reasoning is a unique initiative which aims to Enable, Enrich and Empower our students to analyse, infer, draw conclusions and generate new understanding based on Learner-Centred Pedagogy. Students are taught to rationalize and think visibly through our customized weekly lessons with progressive games, problem solving scenarios, Experiential Learning and Teachable Moments. The school has mapped out a progressive 6-year milestones plan to guide the delivery and attainment of the intended outcomes. As our students learn in fun ways, they also acquire the essential skills which will provide them with a good start in their journey ahead.  Outdoor Education Anchored on Gilbertson's OE Model and Longfellow's Outdoor Pedagogies, our curriculum offers opportunities for students to explore and apply skills learnt in an authentic environment. Our comprehensive curriculum is organised under 5 broad-based domains(Discovery, Sports, Nature, Camp and Training), which reinforces the development of values and character. Our students will learn skills such as navigation and tent-pitching and undergo Simulated Caving Experience, Rock Climbing and Kayaking, and are well placed to develop ruggedness, resilience, confidence and a heightened sense of appreciation and awareness for the environment. Students will learn to navigate, abseil independently and appreciate nature via carefully planned activities throughout their journey in the school.  As a place for purposeful learning that equips students for the future, Concord is a choice school for all aspiring children. Caring Hearts, Enriched Minds and Determined Spirits - that's the hallmark of Concordians!"
+		"Special Student Development Programmes Offered": "Approved and endorsed by MOE since 2014, the school leverages its Applied Learning Programme(E3 Reasoning) and Learning for Life Programme(Outdoor Education) to nurture holistic learners who are New-World Ready."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -795,7 +803,75 @@
 					"Scout": "Silver"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Sepak Takraw",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "689814"

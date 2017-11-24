@@ -108,7 +108,7 @@
 		"School Distinctive Programmes": {
 			"Sports & Outdoor Education": "The Marist Sports & Life Skills Experience"
 		},
-		"Special Student Development Programmes Offered": "The Marcellin Programme, anchored in Marist values is a 10-year programme which seeks to build the character and values in Marists. The main components of the programme expose students to authentic learning experiences to hone their preparation for the unknown future and the application of their own learning to be of service within the school and to the wider community, undergirded by values education.  The Bicultural Marists Programme nurtures bilingual Marists who are able to relate to others in both English and Mandarin effectively. The Student Immersion in Twinning Schools in Xi'An offers students an experience of student life in Xi'An and the use of the Chinese language in an authentic environment. The customised Cultural Appreciation Programme nurtures the interest of Marists in Chinese culture.   The Learning for Life Programme in Outdoor Education and Sports offer experiences via P3 Camp, P4 Exploratory Camp and P5 Adventure Camp, giving the students an experience of outdoor living in a community and honing their skills in relating to others. These experiences are extended into the Values & Life-skills Education Programme and activities include the Sec 1 Orientation Camp, Sec 2 Adventure Camp, Sec 3 Team Building Camp and Outdoor Expeditions. All students participating in Sports CCA are exposed to rigorous training. The inculcation of values are embedded in the OE activities, as well as the Values & Life-skills Education Programme.   The cognitive enrichment activities extend the students' learning and these include the E2K Programme, Singapore Mathematics and Science Olympiad, Science Research Programme, Leadership Development Programme, Public Speaking Programme, School Ambassadors to develop Effective Communicators, Digital Video Production and Scratch Programming. These complement classroom learning and also serve as platforms for the application of classroom learning."
+		"Special Student Development Programmes Offered": "The Marcellin Programme, anchored in Marist values is a 10-year programme which seeks to build the character and values in Marists. The main components of the programme expose students to authentic learning experiences to hone their preparation for the unknown future and the application of their own learning to be of service within the school and to the wider community, undergirded by values education."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -1934,7 +1934,151 @@
 					"Scout": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			}
 		},
 		"Secondary": {
 			"2005": {
@@ -3148,7 +3292,100 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"3rd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Drama - Chinese": "Distinction"
+				},
+				"Best Unit Award": {
+					"Ncc (Sea Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

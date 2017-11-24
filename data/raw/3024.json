@@ -24,7 +24,15 @@
 		"Vice Principal (Admin)": "MISS TAN HUI HUI JEANIE",
 		"School Vision": "A Learner, A Leader, An Explorer",
 		"School Mission": "Nurturing Life-long Learners, Empowering Them to Lead, Inspiring Them to Explore",
-		"School Philosophy, Culture and Ethos": "Every child matters in Fuchun. Our dedicated team of teachers exercise discipline with care because we believe in preparing our students not just for examinations, but for life. We are proud of our culture of care and emphasis is placed on building the school values of Integrity, Camaraderie, Adaptability, Responsibility and Excellence (ICARE) through our teaching and co-curriculum. Our students develop resilience through the high standards we expect of them in everything that they do. Every student is teachable and can excel. We ensure that the needs of learners of various abilities are catered for through our customised teaching and learning programmes, including the use of information and communication technologies. Our academic framework, ACE3 (Assessment, Collaboration, Engagement, Experimentation and Experience),  allows this through various modes of assessment, including formative assessments, enabling our students in collaboration, and the engagement of our learners through a rich curriculum, delving in experimentation and learning through experience. To this end, we work closely with our community partners, institutes of higher learning and members of our Parents Support Group who are encouraged to be actively involved in their children's joy of learning.",
+		"School Philosophy, Culture and Ethos": [
+			"Every child matters in Fuchun. Our dedicated team of teachers exercise discipline with care because we believe in preparing our students not",
+			"just for examinations, but for life. We are proud of our culture of care and emphasis is placed on building the school values of Integrity,",
+			"Camaraderie, Adaptability, Responsibility and Excellence (ICARE) through our teaching and co-curriculum. Our students",
+			"develop resilience through the high standards we expect of them in everything that they do. Every student is teachable and can excel. We ensure",
+			"that the needs of learners of various abilities are catered for through our customised teaching and learning programmes, including the use of",
+			"information and communication technologies. Our academic framework, ACE3 (Assessment, Collaboration, Engagement, Experimentation and Experience),  allows this through various modes of assessment, including formative assessments, enabling our students in collaboration, and the engagement of our learners through a rich curriculum, delving in experimentation and learning through experience. To this end, we work closely with our community partners, institutes of higher learning and members of our Parents",
+			"Support Group who are encouraged to be actively involved in their children's joy of learning."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -101,7 +109,7 @@
 			"STEM": "Innovations in Science & Technology for Sustain-Ability",
 			"Music & Performing Arts": "Values Through Dance"
 		},
-		"Special Student Development Programmes Offered": "Your child is unique, blessed with talents and fired with passion in his or her interests which is why, within our framework of holistic development, we provide a host of exciting opportunities to maximise the potential of your child through various Talent Identification Programmes. We offer two distinctive programmes - the Applied Learning Programme (ALP), 'Innovations in Science and Technology for SustainAbility' to engage students in simulation, modelling and mBot, and the Learning for Life Programme (LLP), 'Values Through Dance', which students develop character through dance and other performing arts in school. To nurture life-long LEARNERS, we introduce interdisciplinary project work at Lower Secondary, task-based assessments and Values-In-Action projects at Upper Secondary to imbue life skills and 21st Century skills.  Our student LEADERS are active contributors to community work. Fuchun Secondary offers all students opportunities to develop their leadership skills and confidence building workshops. Believers in the green cause can participate in our environmental programme that has earned various accolades including the SEC's highest achievement, the Lotus Award, and the NEA's 3R Gold Award. Aligned to our vision of every student an EXPLORER, our students enjoy opportunities to learn beyond the classroom and participate in overseas trips in their 4-5 years in Fuchun Secondary."
+		"Special Student Development Programmes Offered": "Your child is unique, blessed with talents and fired with passion in his or her interests which is why, within our framework of holistic development, we provide a host of exciting opportunities to maximise the potential of your child through various Talent Identification Programmes. We offer two distinctive programmes - the Applied Learning Programme (ALP), 'Innovations in Science and Technology for SustainAbility' to engage students in simulation, modelling and mBot, and the Learning for Life Programme (LLP), 'Values Through Dance', which students develop character through dance and other performing arts in school. To nurture life-long LEARNERS, we introduce interdisciplinary project work at Lower Secondary, task-based assessments and Values-In-Action projects at Upper Secondary to imbue life skills and 21st Century skills. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -884,7 +892,29 @@
 					"Npcc (Land)": "Silver"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Commendation",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides (Coy 1)": "Gold",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land)": "Silver",
+					"Npcc (Land)": "Silver"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

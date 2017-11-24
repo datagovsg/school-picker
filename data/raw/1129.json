@@ -21,7 +21,16 @@
 		"Vice Principal (Admin)": "MDM LEE KEE MENG",
 		"School Vision": "Lifelong Learners, Rooted in Values",
 		"School Mission": "Nurture every individual to be a self-directed learner with strong moral values",
-		"School Philosophy, Culture and Ethos": "Our philosophy: We believe that all children can learn and achieve when they are given the right environment and support  Culture: PRIDE P: Passion (Love for self, family, nation and learning) R: Resilience (Keep trying and never give up) I: Integrity (Think, speak and live right) D: Diligence (Work hard in all that I do) E: Empathy (Think, feel, do good for others)  We want to build a culture of PRIDE among our pupils in line with the 21st CC skills as well as our vision and mission statement. We want our pupils to develop Passion - a strong love for people around them and to also feel that sense of love and rootedness to Singapore. In addition, that love should also be extended to learning. We want pupils to have a desire to continually seek out knowledge and use that knowledge to benefit others and society. We also want to develop in our pupils the values of Resilience to face challenges and be adaptable to the changing world around them, always putting in their best effort and seeking solutions to various obstacles and problems they may encounter. We also hope to nurture upright and moral citizens of Singapore who will have integrity, being honest and truthful in all circumstances. Diligence is also key in helping our pupils achieve their goals and in so doing, they would appreciate that there is value in hard work. We also want to nurture the value of Empathy in our pupils - to help them consider the needs of the people around them, to open their eyes to the community in which they live in and to awaken in them a realisation that they can impact and make a difference in the lives of the people around them.",
+		"School Philosophy, Culture and Ethos": [
+			"Our philosophy: We believe that all children can learn and achieve when they are given the right environment and support",
+			"Culture: PRIDE",
+			"P: Passion (Love for self, family, nation and learning)",
+			"R: Resilience (Keep trying and never give up)",
+			"I: Integrity (Think, speak and live right)",
+			"D: Diligence (Work hard in all that I do)",
+			"E: Empathy (Think, feel, do good for others)",
+			"We want to build a culture of PRIDE among our pupils in line with the 21st CC skills as well as our vision and mission statement. We want our pupils to develop Passion - a strong love for people around them and to also feel that sense of love and rootedness to Singapore. In addition, that love should also be extended to learning. We want pupils to have a desire to continually seek out knowledge and use that knowledge to benefit others and society. We also want to develop in our pupils the values of Resilience to face challenges and be adaptable to the changing world around them, always putting in their best effort and seeking solutions to various obstacles and problems they may encounter. We also hope to nurture upright and moral citizens of Singapore who will have integrity, being honest and truthful in all circumstances. Diligence is also key in helping our pupils achieve their goals and in so doing, they would appreciate that there is value in hard work. We also want to nurture the value of Empathy in our pupils - to help them consider the needs of the people around them, to open their eyes to the community in which they live in and to awaken in them a realisation that they can impact and make a difference in the lives of the people around them."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -67,7 +76,7 @@
 			"Community Service & Student Leadership": "Every Bendemeerian, A Leader who Cares and Shares",
 			"Music & Performing Arts": "Bendemeer’s TEMPO (Towards Enhancement of Music and Performing Arts Opportunities)"
 		},
-		"Special Student Development Programmes Offered": "Bendemeer Primary believes in the holistic development of pupils and using BLOOM as our guiding principle, we aim to provide opportunities for all students to achieve and excel. BLOOM stands for:  B: Building up confidence L: Learning in and beyond the classroom  O: Opportunities for success O: Opportunities for all M: Meeting pupils' holistic needs  Teaching and learning takes place in and beyond the classroom, leveraging on ICT to enhance mastery and acquisition of skills and knowledge. Pupils also learn and deepen their knowledge through our life science programme, environment education and the incorporation of games to excite and sustain interest in learning. Support programmes are also available to help pupils maximise their potential and close learning gaps. The school has also built new learning areas - eco garden, bouldering wall, NE corner to enrich pupils' learning experiences beyond the classroom.   We also believe that every pupil in Bendemeer can be a leader and we have a customised student leadership programme which spans 6 years. Pupils are given leadership opportunities in class, CCAs and are also taught self and team leadership skills. Platforms are also provided for pupils to work and communicate with their friends to apply the skills learnt. These leadership skills include goal and target setting, effective communication skills and critical thinking and problem-solving skills.   Our modular CCA programme has been specially designed to help pupil acquire essential life skills as well as to provide broad based exposure in both sports and aesthetics. Every pupil would be given the opportunity to learn in-line skating, fencing as well as ethnic dance forms and various instruments in their time in Bendemeer Primary. We believe that the development of these skills are just as important and ensure that pupils are healthy physically, mentally and emotionally."
+		"Special Student Development Programmes Offered": "Bendemeer Primary believes in the holistic development of pupils and using BLOOM as our guiding principle, we aim to provide opportunities for all students to achieve and excel. BLOOM stands for:"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -885,7 +894,80 @@
 					"Scout": "Silver"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Silver",
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "339948"

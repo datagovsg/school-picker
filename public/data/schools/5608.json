@@ -23,7 +23,11 @@
 		"Vice Principal (Admin)": "Mr Chionh Boon Soo",
 		"School Vision": "A dynamic community of compassionate leaders and critical thinkers",
 		"School Mission": "Empowering every child to lead and impact the community, and be ready for the future.",
-		"School Philosophy, Culture and Ethos": "Roots to Anchor, Wings to Fly Kheng Cheng School believes that every student deserves a chance to learn and grow, well and strong, in both their studies and in character. We want our students to have strong roots in their values, for their families and the larger community. It is the strong roots that would enable them to weather the storms of life; present and future.   We also aspire for the students to have wings to fly, beyond their current circumstance and mindsets about themselves. We want the students go beyond the limits and boundaries they have set in their minds for and about themselves. We believe that the school would have succeeded, if we are able to develop our students to surpass us in all that we are, and do. We believe that if we put care in our thoughts, deeds and work as a school community, the labour in every endeavour will not be in vain.",
+		"School Philosophy, Culture and Ethos": [
+			"Roots to Anchor, Wings to Fly",
+			"Kheng Cheng School believes that every student deserves a chance to learn and grow, well and strong, in both their studies and in character. We want our students to have strong roots in their values, for their families and the larger community. It is the strong roots that would enable them to weather the storms of life; present and future. ",
+			"We also aspire for the students to have wings to fly, beyond their current circumstance and mindsets about themselves. We want the students go beyond the limits and boundaries they have set in their minds for and about themselves. We believe that the school would have succeeded, if we are able to develop our students to surpass us in all that we are, and do. We believe that if we put care in our thoughts, deeds and work as a school community, the labour in every endeavour will not be in vain."
+		],
 		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay",
 		"Affiliated Schools": "Not Applicable"
@@ -75,7 +79,7 @@
 			],
 			"Community Service & Student Leadership": "Student Voice & Advocacy (SVA) @ KCS"
 		},
-		"Special Student Development Programmes Offered": "Learning for Life Programme (LLP): Student Voice Advocacy@KCS The LLP in Kheng Cheng School is an innovative approach in enabling the young digital natives of today, living as citizens in a globalized world, to believe that they have a voice to make a positive difference beyond themselves for their families, school or community. It allows for the students to design and implement Values-In-Action community service projects, independently, as a class. The school aims to develop students as critical thinkers and compassionate leaders through the school-wide LLP programme which begins even as early as Primary 1. Teachers take on the role as facilitators to guide the design of these student-led projects, with thinking routines to structure the planning and implementation.   International Chess for Primary 1&2 International Chess is a niche programme in the school. In additional to hosting annual zonal competitions in this area for primary school students, the school has put in place programmes to enhance the awareness and skills of International Chess for all students in Primary 1 and 2. We believe that an early start to strategy and thinking games such as this would enable them to sharpen and deepen their thinking processes, while mastering the life skills sportsmanship and collaboration at the same time.   Programme for Active Learning (PAL) The PAL programme emphasizes the socio-emotional competencies that the school seeks to imbue in the Primary 1 and 2 students, through collaborative and modular segments such as outdoor education and aesthetic activities, which promote teamwork and collaborative skills in the students."
+		"Special Student Development Programmes Offered": "Learning for Life Programme (LLP): Student Voice Advocacy@KCS"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -93,6 +97,9 @@
 				]
 			},
 			"2016": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2017": {
 				"Development Award": "DA (Character Development)"
 			},
 			"Sports & Games Competition": [
@@ -215,6 +222,56 @@
 						"Senior"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -292,6 +349,31 @@
 					"year": "2016",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -308,6 +390,16 @@
 				{
 					"year": "2016",
 					"category": "Red Cross",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Scout",
 					"award": "Silver"
 				}
 			]

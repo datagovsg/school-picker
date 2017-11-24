@@ -19,10 +19,7 @@
 	"bus": "48 , 93 , 153 , 165 , 174 , 186 , 855 , 961 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Lee Lin Yee",
-		"Vice Principal": [
-			"Mr Tan King Ming",
-			"Miss Lim Hui Kheng Linda"
-		],
+		"Vice Principal": "Miss Lim Hui Kheng Linda",
 		"School Vision": "A Community of Learners Growing and Glowing for God.",
 		"School Mission": "To provide an All-Round Education in a Christ-centred Environment to nurture Confident, Creative and Caring Young Ladies who will serve God, the Country and the Community.",
 		"School Philosophy, Culture and Ethos": "Founded in 1842, St. Margaret's Secondary School is an autonomous mission school that strives to develop every girl to her fullest potential by equipping her with the skills, knowledge and attributes to become a confident, creative and caring young lady with sound values. We provide a value-added education with emphasis on the cognitive, character and aesthetics development of each girl. Our enriching curriculum and co-curriculum have brought about many value-added outcomes in student learning and development.",
@@ -121,6 +118,10 @@
 				"Outstanding Development Award": "ODA (Character Development)"
 			},
 			"2016": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": "BPA (Student All-Round Development)"
+			},
+			"2017": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": "BPA (Student All-Round Development)"
 			},
@@ -384,6 +385,76 @@
 						"'C' Div"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Fencing",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Fencing",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Gymnastics (Rhythmic)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -536,6 +607,56 @@
 					"year": "2016",
 					"category": "Ensemble - Strings",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - Multi-Lingual",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -608,6 +729,26 @@
 					"year": "2016",
 					"category": "Red Cross",
 					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Red Cross",
+					"award": "Gold"
 				}
 			]
 		}

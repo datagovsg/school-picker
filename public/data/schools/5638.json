@@ -19,14 +19,21 @@
 	"bus": "Bus 48 , 66 , 67 , 170 , 171 , 603 , 700 ",
 	"GeneralInformation": {
 		"Principal": "Mr Koh Sung Yi Arene",
-		"Vice Principal": [
-			"Mdm Tan Geok Pek Grace-Khoo",
-			"Mdm Wendy Seng Gek Cheng"
-		],
+		"Vice Principal": "Mdm Wendy Seng Gek Cheng",
 		"Vice Principal (Admin)": "Mdm Eileen Seow Lay Yen",
 		"School Vision": "Every ACSian a young man of character, capability and creativity.",
 		"School Mission": "ACS (Primary) believes in providing an all-round education in an environment which seeks to bring out the potential in every pupil to the fullest, and to develop in him a strong moral character, imbued with Christian values and principles to guide and prepare him for life ahead.",
-		"School Philosophy, Culture and Ethos": "The Anglo-Chinese School (ACS), a Methodist Institution, was founded on 1st March 1886 by Bishop William F Oldham, with 13 pupils in a small shophouse in Chinatown. Since 1886, ACS(P) has delivered an all-round education anchored on Christian principles and our Founder's vision which is rooted in Academic Achievement, Strength of Character and Christian Service.  WE BELIEVE THAT GOD IS OUR STRENGTH AND OUR PROVIDER We continue the tradition set by our founder to seek God and honour Him in all that we do, and to be faithful in our call as educators and stewards at developing our young charges holistically.  WE BELIEVE IN MOULDING AND NURTURING OUR BOYS TO BE THEIR BEST The ACSian lies at the heart of our endeavours, as we provide an all-round development for all our boys that is represented by the ACS(P) brand of education. We have programmes distinctive to the ACS(P) education experience that develops our boys in the Affective, Cognitive, Social and Physical domains, so that we can develop in them the four Traits of an ACSian- an iHOPEFUL* Leader, a Creative Learner, an Effective Communicator and a Community Collaborator.  WE BELIEVE IN PARTNERSHIPS TO DO OUR BEST FOR OUR BOYS Integral to our efforts at providing the ACS(P) brand of education are our partners. We believe that partnerships enable the school to realise our common goals. Thus, every partnership that the school harnesses develops our boys in the ACS(P) brand of education. At ACS(P), we CARE-Coach, Affirm, Relate and Enthuse; it is an approach to engender a culture of innovation, care and excellence and it defines our interactions with our students, colleagues and stakeholders.  Our school's motto, The Best Is Yet To Be, encapsulates our aspirations to continually strive for excellence. With the strong traditions of our institution, we will continue to live up to our motto, for the glory of God.   *iHOPEFUL stands for integrity, humility, obedience, perseverance, empathy, faithfulness, unity and loyalty",
+		"School Philosophy, Culture and Ethos": [
+			"The Anglo-Chinese School (ACS), a Methodist Institution, was founded on 1st March 1886 by Bishop William F Oldham, with 13 pupils in a small shophouse in Chinatown. Since 1886, ACS(P) has delivered an all-round education anchored on Christian principles and our Founder's vision which is rooted in Academic Achievement, Strength of Character and Christian Service.",
+			"WE BELIEVE THAT GOD IS OUR STRENGTH AND OUR PROVIDER",
+			"We continue the tradition set by our founder to seek God and honour Him in all that we do, and to be faithful in our call as educators and stewards at developing our young charges holistically.",
+			"WE BELIEVE IN MOULDING AND NURTURING OUR BOYS TO BE THEIR BEST",
+			"The ACSian lies at the heart of our endeavours, as we provide an all-round development for all our boys that is represented by the ACS(P) brand of education. We have programmes distinctive to the ACS(P) education experience that develops our boys in the Affective, Cognitive, Social and Physical domains, so that we can develop in them the four Traits of an ACSian- an iHOPEFUL* Leader, a Creative Learner, an Effective Communicator and a Community Collaborator.",
+			"WE BELIEVE IN PARTNERSHIPS TO DO OUR BEST FOR OUR BOYS",
+			"Integral to our efforts at providing the ACS(P) brand of education are our partners. We believe that partnerships enable the school to realise our common goals. Thus, every partnership that the school harnesses develops our boys in the ACS(P) brand of education. At ACS(P), we CARE-Coach, Affirm, Relate and Enthuse; it is an approach to engender a culture of innovation, care and excellence and it defines our interactions with our students, colleagues and stakeholders. ",
+			"Our school's motto, The Best Is Yet To Be, encapsulates our aspirations to continually strive for excellence. With the strong traditions of our institution, we will continue to live up to our motto, for the glory of God.",
+			" *iHOPEFUL stands for integrity, humility, obedience, perseverance, empathy, faithfulness, unity and loyalty"
+		],
 		"Type of School": "Government-aided Sch / Boys' School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
@@ -95,7 +102,7 @@
 			"Sports & Outdoor Education": "Building Character Through Sports",
 			"Music & Performing Arts/ Visual Arts & Design": "The Arts at ACS(P)"
 		},
-		"Special Student Development Programmes Offered": "To achieve the ACS(P) brand of education, beyond the regular curriculum, the school has CCAs,  Signature Programmes, as well as two niche programmes in swimming and bowling. In addition, we offer the Gifted Education Programme for the intellectually gifted.   In line with our vision to produce Gentlemen of Character, the school has our 6-year Pastoral Care programme that focuses on the explicit teaching of our iHOPEFUL values. Our boys are taught these values from Primary 1 so that they are nurtured as iHOPEFUL Leaders, at home, in school and in the community. In purposefully applying our iHOPEFUL values, we have a 6-year Values-in-Action (VIA) programme for our boys to demonstrate the iHOPEFUL values through various meaningful contexts.   To nurture Gentlemen of Capability, our ACS(P) school experience goes beyond what our boys learn in the school curriculum. Our enrichment programmes cater to all boys to develop our boys in areas like Arts Appreciation, Coding, or Drama. All our boys are also encouraged to take at least one CCA to allow them to try out new CCAs, discover their passion and interests, and learn new skills. Other distinctive programmes include our Mother-Tongue Language Fun Day for Primary 1 and 2 boys and the E2K Science and Mathematics Programmes. Our niche programmes - swimming and bowling, develop our boys' knowledge, skills and understanding in both fields and nurture in them 21st century skills like teamwork.   To nurture Gentlemen of Creativity, creativity tools such as SCAMPER and Making Thinking Visible have been infused into the curriculum to foster critical and creative thinking. School-wide opportunities to promote creativity are provided in the form of the Conducive Learning Environment Challenge where every class works as a team to make their learning space a creative, clean and conducive one."
+		"Special Student Development Programmes Offered": "To achieve the ACS(P) brand of education, beyond the regular curriculum, the school has CCAs,  Signature Programmes, as well as two niche programmes in swimming and bowling. In addition, we offer the Gifted Education Programme for the intellectually gifted. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -108,6 +115,9 @@
 				"Outstanding Development Award": "Outstanding PARTNERS"
 			},
 			"2016": {
+				"School Distinction Awards": "SDA"
+			},
+			"2017": {
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
@@ -540,6 +550,166 @@
 						"'D' Div"
 					],
 					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Taekwondo (Kyorugi)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'D' Div"
+					],
+					"award": "1st"
 				}
 			],
 			"SYF": [
@@ -622,6 +792,31 @@
 					"year": "2016",
 					"category": "Ensemble - Strings",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -652,6 +847,16 @@
 				},
 				{
 					"year": "2016",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "Scout",
 					"award": "Gold"
 				}

@@ -113,7 +113,7 @@
 			"STEM": "Developing Analytical, Research, Communication and Interpersonal Skills through Food Science and Technology",
 			"Music & Performing Arts": "Developing Values Through Aesthetics"
 		},
-		"Special Student Development Programmes Offered": "The school's Learning for Life Programme 'Developing Character by understanding Chinese culture and values through Aesthetics' imbues in all students a deeper understanding and appreciation of Chinese culture, values and philosophy through music and the arts.  They will develop critical thinking skills and advanced skills in communication, interpretation and perception related to music and the arts.  It complements the school-designed Dizigui curriculum that includes the teaching of Chinese morals and values to all our students. The school's Applied Learning Programme 'Developing Analytical, Research, Communication and Interpersonal Skills through Food Science and Technology' equips our students with the scientific knowledge and skills, as well as 21st century competencies, to develop an interest in the area of food processing, security and safety, focusing on developing scientific literacy in our students."
+		"Special Student Development Programmes Offered": "The school's Learning for Life Programme 'Developing Character by understanding Chinese culture and values through Aesthetics' imbues in all students a deeper understanding and appreciation of Chinese culture, values and philosophy through music and the arts.  They will develop critical thinking skills and advanced skills in communication, interpretation and perception related to music and the arts.  It complements the school-designed Dizigui curriculum that includes the teaching of Chinese morals and values to all our students."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -829,7 +829,80 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-"
+					],
+					[
+						"Wushu",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Multi-Lingual": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Best Unit Award": {
+					"Ncc (Air Boys)": "Bronze",
+					"Npcc (Land)": "Bronze",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

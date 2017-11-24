@@ -16,12 +16,17 @@
 	"mrt": "King Albert Park MRT",
 	"bus": "66 , 67 , 74 , 151 , 154 , 157 , 170 , 171 , 174 ",
 	"GeneralInformation": {
-		"Principal": "MISS NG WUN HAR GRACE",
+		"Principal": "GRACE NG WUN HAR",
 		"Vice Principal": "MISS YAP FOON LYN",
 		"Vice Principal (Admin)": "MR YIP WAI CHOONG",
 		"School Vision": "Godly women of Excellence with a heart of Love. The school focus is the MGS girl. She has global perspective but is anchored in values and able to make a positive difference to her environment and community. She is confident in various situations, has a passion for life and embraces challenges. She contributes to her community by setting standards of excellence - in values and in life. She will lead in the field where her calling and talent is, to advance thinking, action and voice as she wholeheartedly contributes with heart, head and hands.",
 		"School Mission": "To educate every girl in A Christian environment in order that she may Master, Grow and Serve in every phase of her life. Every MGS girl is uniquely created by God, precious. We consider the female psyche in what we do. Our ethos and culture is Christian; the values we live by and which we imbue are based on the Bible. The motto resonates in generations of MGS girls and embodies the attitude and motivation which distinguish them. Each phase in life brings new dimension of understanding, learning and growth; educating her considers all these phases and our values, attitudes and skills will stand her in good stead.",
-		"School Philosophy, Culture and Ethos": "MGS puts the student first in all decisions and actions taken. It uses Bronfenbrenner's Ecological Systems Theory (where the interactions between groups, aspects and levels of the Community are organically intertwined, affecting the student) to guide how stakeholders are engaged so they can work with the school to support the child. SLs engage actively with different segments of the school population to ensure the relevance of the VMV, and alignment to national aspirations and stakeholder expectations. Clear articulation of these to the community ensures understanding for the whole school to move together in the same direction. The vision and shared belief is that every girl has strengths and talents to be developed, and this is done in an engaging and safe learning environment.  The school has a rich Christian heritage and long history. The school consciously preserves this legacy and ensures that MGS capitalises on its strengths to meet challenges in a fast-changing educational landscape, to be an institution of good repute, meeting the needs of students, staff and stakeholders.  Vision sharing and distributed leadership encourages buy-in and inspires collaborative effort from stakeholders. Everyone owns the school and are change-makers. SLs are committed to school improvement and expectations of excellence are set and shared throughout the year.  MGS is inclusive and integrated when collaborating and networking with the wider community to increase the capacity of the school, moving it towards excellence. It proactively draws on strengths of stakeholder and partner groups to supplement school efforts, ensuring that the interests of these groups are guarded and relationships sustained and strengthened. The school helps girls develop sensitivity and awareness of her surroundings and collaborate to provide opportunities for them to contribute to the community. It believes in Servant Leadership - every girl is a leader at different levels and serves whom she leads.",
+		"School Philosophy, Culture and Ethos": [
+			"MGS puts the student first in all decisions and actions taken. It uses Bronfenbrenner's Ecological Systems Theory (where the interactions between groups, aspects and levels of the Community are organically intertwined, affecting the student) to guide how stakeholders are engaged so they can work with the school to support the child. SLs engage actively with different segments of the school population to ensure the relevance of the VMV, and alignment to national aspirations and stakeholder expectations. Clear articulation of these to the community ensures understanding for the whole school to move together in the same direction. The vision and shared belief is that every girl has strengths and talents to be developed, and this is done in an engaging and safe learning environment.",
+			"The school has a rich Christian heritage and long history. The school consciously preserves this legacy and ensures that MGS capitalises on its strengths to meet challenges in a fast-changing educational landscape, to be an institution of good repute, meeting the needs of students, staff and stakeholders.",
+			"Vision sharing and distributed leadership encourages buy-in and inspires collaborative effort from stakeholders. Everyone owns the school and are change-makers. SLs are committed to school improvement and expectations of excellence are set and shared throughout the year.",
+			"MGS is inclusive and integrated when collaborating and networking with the wider community to increase the capacity of the school, moving it towards excellence. It proactively draws on strengths of stakeholder and partner groups to supplement school efforts, ensuring that the interests of these groups are guarded and relationships sustained and strengthened. The school helps girls develop sensitivity and awareness of her surroundings and collaborate to provide opportunities for them to contribute to the community. It believes in Servant Leadership - every girl is a leader at different levels and serves whom she leads."
+		],
 		"Type of School": "GOVERNMENT-AIDED SCH / GIRLS' SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "METHODIST GIRLS' SCHOOL (SECONDARY)"
@@ -54,7 +59,7 @@
 		"School Distinctive Programmes": {
 			"Languages": "Language and Communication"
 		},
-		"Special Student Development Programmes Offered": "1. Sophia Blackmore Academy - school-based high ability programmes  (i) English-enriched classes (Media Literacy Programme, Future Problem-solving Programme) (ii) Math & Science-enriched classes (Innovation Programme; E2K)  (iii) All-enriched classes   Young Authors' Programme and Literature Programme is extended to all classes  2. Applied Learning Programmes for Language & Communications  3. GEL+ Programme - incorporating Character First! Lessons  4. Student Leadership Development is offered to all pupils  5. MGS Milestone Programmes:  (i)P1 Picnic (ii)P2 Musical Theatre & Swimming Programme (iii)P3 Treetops Adventure (iv)P4 Adventure Camp (v)P5 ROCs (Reality Outside Classrooms) (vi)P6 Graduation Service, Party & Legacy"
+		"Special Student Development Programmes Offered": "1. Sophia Blackmore Academy - school-based high ability programmes "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -214,7 +219,21 @@
 					"Girls' Brigade": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Ensemble - Handbell / Handchime": "Accomplishment",
+					"Ensemble - Strings": "Distinction"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Gold",
+					"Girls' Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "599986"

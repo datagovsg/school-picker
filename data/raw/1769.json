@@ -75,7 +75,7 @@
 			"Music & Performing Arts": "Values Inculcation through the Aesthetics",
 			"Visual Arts & Design": "21st Century Competencies through Visual Arts"
 		},
-		"Special Student Development Programmes Offered": "The school is committed towards building a robust and innovative curriculum to cater to every child's diverse needs and talents.   Our \"Values Inculcation Through Dancesports Programme\" is one of the two officially recognised Learning for Life Programmes (LLP) in the school. Dancesport combines the artistry of dance with athletic prowess in order to produce a truly captivating performance on the parquet. All our students are given the opportunities to learn basic ballroom dancing including cha-cha, jive, waltz and tango.  In the process, our students grow to be gracious, socially competent, collaborative team players imbued with integrity and respect and ready to give back to community and society.    Our second LLP, \"Developing 21st Century Competencies Through Photography\" beckons the dreamers, the explorers and the adventurers of today to embark on a journey of self-discovery and photo-journalism. Our pupils' works are filled with stories that capture the broad spectrum of life in our school, our island city and abroad - some creative and hilarious, others thought-provoking and emotionally heart-wrenching.   Our Outdoor Education Programme (OE), an integral part of our holistic education,  aims to develop students' love for outdoor activities, outdoor life skills, environmental awareness as well as provide rich learning experiences for building self-confidence, resilience, ruggedness and tenacity in our pupils, in addition to nurturing teamwork and leadership skills.  Through our EduAct in Environment programme, we aim to heighten environmental consciousness in both staff and students through involving them in recycling activities and other green programmes. Appreciating nature not only has therapeutic benefits, it can also foster a sense of belonging to the Nation - to be part of the land is a definitive, emotional bonding that is important in the process of nation-building."
+		"Special Student Development Programmes Offered": "The school is committed towards building a robust and innovative curriculum to cater to every child's diverse needs and talents. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -656,7 +656,73 @@
 					"Ensemble - Angklung / Kulintang": "Accomplishment"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Accomplishment",
+					"Dance - Indian": "Distinction"
+				}
+			}
 		}
 	},
 	"postalCode": "828869"

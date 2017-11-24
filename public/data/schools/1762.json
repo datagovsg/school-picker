@@ -23,9 +23,47 @@
 			"Mrs Ong Chwee Eng Nee Lim",
 			"Mdm Wong Wei Yong"
 		],
-		"School Vision": "Reflective Learners, Gracious Citizens  As Reflective Learners, all YTPS pupils are nurtured to be:  - confident and articulate - curious about learning yet discerning - resourceful adaptable  As Gracious Citizens, all YTPS pupils demonstrate the school values of Integrity, Responsibility, Respect, Perseverance and Care.",
-		"School Mission": "Engaging Minds, Touching Hearts, Inspiring Growth The school mission guides our teachers in: - cultivating the interest and passion for learning in the pupils - developing critical thinkers and self-directed learners - grounding our pupils firmly in strong moral values - developing every pupil in the domains of citizenship, creativity, leadership, action and service - seeing possibilities in every child; that every child can and wants to learn - do everything possible to provide every pupil with rich and meaningful experiences - inspiring every pupil to develop to his/her fullest potential.",
-		"School Philosophy, Culture and Ethos": "YTPS Philosophy of Teaching  -Every child has intrinsic worth. -Every child can and wants to learn. -Every child can contribute as a gracious and responsible citizen of the world  Teachers develop every pupil through the design and delivery of an Empowering Curriculum that: -provides space for pupils to discover their strengths and talents -is rigorous and engaging -provides rich and meaningful experiences -provides rich opportunities for the pupils to develop in the domains of Cognitive, Aesthetics, Moral & Social, Physical and Leadership -develops every pupil to be a Reflective Learner, Gracious Citizen   School Culture of Care and Innovation  Nurtured in a culture of care and innovation, teachers are competent, committed and caring individuals who: -work together in synergy,  to create and innovate -are empowered to identify, customise and use varied strategies to develop every pupil to be a Reflective Learner, Gracious Citizen.  Ethos All staff are familiar with the school compass which provides direction and focus for all as they carry out their roles and responsibilities in YTPS. The school compass comprises the following: -School Vision -School Mission -School Values  -School Philosophy",
+		"School Vision": [
+			"Reflective Learners, Gracious Citizens",
+			"As Reflective Learners, all YTPS pupils are nurtured to be: ",
+			"- confident and articulate",
+			"- curious about learning yet discerning",
+			"- resourceful adaptable",
+			"As Gracious Citizens, all YTPS pupils demonstrate the school values of Integrity, Responsibility, Respect, Perseverance and Care."
+		],
+		"School Mission": [
+			"Engaging Minds, Touching Hearts, Inspiring Growth",
+			"The school mission guides our teachers in:",
+			"- cultivating the interest and passion for learning in the pupils",
+			"- developing critical thinkers and self-directed learners",
+			"- grounding our pupils firmly in strong moral values",
+			"- developing every pupil in the domains of citizenship, creativity, leadership, action and service",
+			"- seeing possibilities in every child; that every child can and wants to learn",
+			"- do everything possible to provide every pupil with rich and meaningful experiences",
+			"- inspiring every pupil to develop to his/her fullest potential."
+		],
+		"School Philosophy, Culture and Ethos": [
+			"YTPS Philosophy of Teaching",
+			"-Every child has intrinsic worth.",
+			"-Every child can and wants to learn.",
+			"-Every child can contribute as a gracious and responsible citizen of the world",
+			"Teachers develop every pupil through the design and delivery of an Empowering Curriculum that:",
+			"-provides space for pupils to discover their strengths and talents",
+			"-is rigorous and engaging",
+			"-provides rich and meaningful experiences",
+			"-provides rich opportunities for the pupils to develop in the domains of Cognitive, Aesthetics, Moral & Social, Physical and Leadership",
+			"-develops every pupil to be a Reflective Learner, Gracious Citizen",
+			"School Culture of Care and Innovation",
+			"Nurtured in a culture of care and innovation, teachers are competent, committed and caring individuals who:",
+			"-work together in synergy,  to create and innovate",
+			"-are empowered to identify, customise and use varied strategies to develop every pupil to be a Reflective Learner, Gracious Citizen.",
+			"Ethos",
+			"All staff are familiar with the school compass which provides direction and focus for all as they carry out their roles and responsibilities in YTPS. The school compass comprises the following:",
+			"-School Vision",
+			"-School Mission",
+			"-School Values ",
+			"-School Philosophy"
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -55,7 +93,7 @@
 			"Interdisciplinary": "D.R.E.A.M.@Yew Tee (Developing Reflective Learners, Empowering Creative Minds)",
 			"Sports & Outdoor Education": "Holistic Enriching and Rewarding Outdoor Education & Sports (HEROES) @ YTPS"
 		},
-		"Special Student Development Programmes Offered": "The YTPS Total Curriculum Framework guides the staff in planning, implementing and evaluating learning opportunities for pupils holistically. The twin components of KNL (Knowledge skills, Numeracy and Literacy) and CCLAS (Citizenship, Creativity, Leadership, Action and Service) emphasise the holistic and balanced approach to education adopted by the school. The 3E (Engage, Explain and Evaluate) and 3A (Awareness, Attitude and Activate) approaches are adopted by the KNL and CCLAS component respectively.  At YTPS, Character and Citizenship Education (CCE) is delivered through CCLAS. CCLAS is adapted from the International Baccalaureate Diploma and the National Youth Achievement Award. Each domain in CCLAS is aligned to a specific subject in the formal curriculum, for example, Social Studies for the Citizenship domain.  Additionally, there is one distinctive programme under each component of the Total Curriculum Framework; the Applied Learning Programme (ALP) under KNL and Learning for Life Programme (LLP) under the Action domain of CCLAS.  Our ALP, D.R.E.A.M. (Developing Reflective learners, Empowering creAtive Minds)@YTPS, focuses on knowledge acquisition as well as skills like collaborative learning, communication and independent learning.. Through Project Work, pupils use the Creative Problem Solving tool to go beyond conventional thinking and arrive at novel and useful solutions to a problem posed in an authentic and meaningful manner. Carried out from P1 to P6, each Project Work is anchored on a core subject. This allows pupils to acquire knowledge of the subject content through a process of co-construction, collaboration and experiential learning.  Our LLP, entitled HEROES@YTPS, provides Holistic Enriching and Rewarding Outdoor Education & Sports experiences for every pupil at Yew Tee Primary. Pupils have the opportunity to participate in learning activities including Programme for Active Learning (PAL), adventure camps, CCAs and the Sports Fiesta."
+		"Special Student Development Programmes Offered": "The YTPS Total Curriculum Framework guides the staff in planning, implementing and evaluating learning opportunities for pupils holistically. The twin components of KNL (Knowledge skills, Numeracy and Literacy) and CCLAS (Citizenship, Creativity, Leadership, Action and Service) emphasise the holistic and balanced approach to education adopted by the school. The 3E (Engage, Explain and Evaluate) and 3A (Awareness, Attitude and Activate) approaches are adopted by the KNL and CCLAS component respectively."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -77,6 +115,46 @@
 						"National",
 						"Girls",
 						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
 					],
 					"award": "4th"
 				}
@@ -161,6 +239,31 @@
 					"year": "2016",
 					"category": "Ensemble - Strings",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -176,6 +279,11 @@
 				},
 				{
 					"year": "2016",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "Boys' Brigade",
 					"award": "Gold"
 				}

@@ -104,7 +104,7 @@
 			"Business & Entrepreneurship": "Excellence Through Business and Enterprise",
 			"Sports & Outdoor Education": "Sports for Life"
 		},
-		"Special Student Development Programmes Offered": "In line with the vision of a 'Good School', we believe in providing our students with rich, rigorous and diverse learning experiences. Besides motivating them with interesting, hands-on activities during instructional programmes, emphasis is also placed on Character and Citizenship Education via CCAs, Social Emotional Learning (SEL), National Education (NE), Assembly and Enrichment Programmes. The formal and informal curriculum offered to all students includes Character for Life (C4L), Arts for Life (A4L) and Sports for Life programmes, and OPEL, an interdisciplinary project which sets out to develop all students in values, aesthetics, and thinking skills. As OSS has a long, reputable history in the area of commerce and accounting, our Applied Learning Programme (ALP) is Excellence through Business and Enterprise (B&E). We offer a wide range of business-related courses such as Business Studies, Principles of Accounting, Retail Operations and Advanced Elective Modules (AEMs) in areas such as Marketing in Action, Essentials of Marketing, Theme Park and Attractions, and Introduction to Tourism and Hospitality.  The School has a Learning for Life (LLP) programme delivered through the Sports for Life framework which comprises three domains, namely Mass Participation, Sports Engagement, and Talent Development. Students are nurtured holistically through the values inculcated through Sports to become well-developed youths of the 21st century."
+		"Special Student Development Programmes Offered": "In line with the vision of a 'Good School', we believe in providing our students with rich, rigorous and diverse learning experiences. Besides motivating them with interesting, hands-on activities during instructional programmes, emphasis is also placed on Character and Citizenship Education via CCAs, Social Emotional Learning (SEL), National Education (NE), Assembly and Enrichment Programmes."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -160,6 +160,26 @@
 						"'B' Div"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Waterpolo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Waterpolo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -197,6 +217,16 @@
 					"year": "2016",
 					"category": "Orchestra - Chinese",
 					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Wind Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -239,6 +269,16 @@
 					"year": "2016",
 					"category": "NPCC (Land)",
 					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Land Boys)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Silver"
 				}
 			]
 		}

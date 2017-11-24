@@ -21,7 +21,13 @@
 		"Vice Principal (Admin)": "Mr Chua Guan Hwa",
 		"School Vision": "Engaged Learners, Caring LeadersWe envision our staff and students to be Engaged Learners, Caring Leaders: values-centered persons with a lifelong passion for learning, driven by their sense of responsibility and public-spiritedness to come forth to lead. They lead graciously, with Integrity and humility, never asking anything in return. They constantly think about how to apply what they have learnt to serve others and contribute to the development of a gracious and inclusive society.",
 		"School Mission": "To nurture Lifelong Learners; Gracious, Responsible and Public-Spirited in thoughts and deeds",
-		"School Philosophy, Culture and Ethos": "We are guided by our philosophy of 'Every Child, A Gift' to pursue holistic excellence for our students so that every child is the best gift to his/her parents, school and society. Academically, our pursuit of Excellence is driven by our mission \"To nurture lifelong learners\". We know that when our students are engaged academically, they will develop a lifelong passion for learning and excellent academic performance is a natural result of this. We use instructional strategies that engage our students, enable higher order thinking and facilitate the responsibility of learning to be gradually released from the teacher to the student so that students learn collaboratively and become self-directed learners. Our teachers employ formative assessment strategies to better modify their lessons to meet the needs of students. They access rich technology-based resources to enrich lessons for our young digital natives. In the physical and aesthetics domains, we customise the curriculum to enable our students to acquire lifelong Sports, Art and Music skills. We enliven students' Physical, Art and Music education experiences through student-centric approaches. We leverage on good teaching practices to foster the development of 21st Century Competencies. We understand that the foundation of our students' growth and accomplishments must be built upon a strong Learning and Caring School Culture. Therefore, we strengthen the competency of our staff to achieve professional excellence through useful learning spaces and enhance our staff capacity to innovate and lead. We build on good staff relationship to develop strong, caring and effective leadership at all levels. We continue to learn so that we will always improve. Public-Spiritedness is our motivation for this meaningful work in education. We pursue excellence because it is driven by our desire to serve. We humbly remember that our accomplishments are a result of the efforts we have put in and the support from parents and partners.",
+		"School Philosophy, Culture and Ethos": [
+			"We are guided by our philosophy of 'Every Child, A Gift' to pursue holistic excellence for our students so that every child is the best gift to his/her parents, school and society.",
+			"Academically, our pursuit of Excellence is driven by our mission \"To nurture lifelong learners\". We know that when our students are engaged academically, they will develop a lifelong passion for learning and excellent academic performance is a natural result of this. We use instructional strategies that engage our students, enable higher order thinking and facilitate the responsibility of learning to be gradually released from the teacher to the student so that students learn collaboratively and become self-directed learners. Our teachers employ formative assessment strategies to better modify their lessons to meet the needs of students. They access rich technology-based resources to enrich lessons for our young digital natives.",
+			"In the physical and aesthetics domains, we customise the curriculum to enable our students to acquire lifelong Sports, Art and Music skills. We enliven students' Physical, Art and Music education experiences through student-centric approaches. We leverage on good teaching practices to foster the development of 21st Century Competencies.",
+			"We understand that the foundation of our students' growth and accomplishments must be built upon a strong Learning and Caring School Culture. Therefore, we strengthen the competency of our staff to achieve professional excellence through useful learning spaces and enhance our staff capacity to innovate and lead. We build on good staff relationship to develop strong, caring and effective leadership at all levels. We continue to learn so that we will always improve.",
+			"Public-Spiritedness is our motivation for this meaningful work in education. We pursue excellence because it is driven by our desire to serve. We humbly remember that our accomplishments are a result of the efforts we have put in and the support from parents and partners."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -84,7 +90,7 @@
 		"School Distinctive Programmes": {
 			"Community Service & Student Leadership": "NE2+ (positive): Nurturing Ethical and Effective Leaders with Positive mind-sets"
 		},
-		"Special Student Development Programmes Offered": "Learning for Life Programme (LLP): The school's LLP: NE2+ aims to Nurture Ethical and Effective Leaders with Positive Mind-sets. The programme consists of 3 components. The first component integrates two of our signature values-based initiatives: Funtastick Harmony Programme (Citizenship Programme) and 'My Journey To A True Heart' (Character Development Programme) to develop students' Moral and Civic characters through multiple platforms of student-involved activities such as Field-Based Learning Journeys and VIAs. These 2 programmes provide the foundation to develop \"Ethical Leaders\".   The second component of the LLP focuses on the concept of \"Effective Leaders\". The school has adopted Positive Psychology's PERMA (Positive Emotions, Engagement, Relationships, Meaning and purpose, and Accomplishments) model of well-being as a means to develop students' Performance character and facilitate the acquisition of social and emotional competencies through a school-wide resilience-based programme.  The final component of the LLP focuses on leadership traits and behaviours that develop students with the right Moral, Civic and Performance characters to lead and serve. The school has adopted Kouzes and Posner's Five Practices of Exemplary Leadership as outcomes for the GRPS Student Leadership programme. Through this, we aim to inculcate in all students the commitment to Model the Way, the passion to Inspire a Shared Vision, have the creative spirit to Challenge the Process, foster collaboration that Enable Others to Act and have the graciousness to Encourage the Heart.   As the three components come together in the LLP, the students, as Ethical and Effective Leaders,  will be equipped with the values and competencies that will guide and prepare them for the globalised VUCA world that we live in, while staying rooted and true to Singapore. They will truly become our school vision: Engaged Learners, Caring Leaders."
+		"Special Student Development Programmes Offered": "Learning for Life Programme (LLP):"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -96,6 +102,9 @@
 				"Outstanding Development Award": "ODA (National Education)"
 			},
 			"2016": {
+				"Outstanding Development Award": "ODA (National Education)"
+			},
+			"2017": {
 				"Outstanding Development Award": "ODA (National Education)"
 			},
 			"Sports & Games Competition": [
@@ -235,6 +244,41 @@
 					"year": "2016",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Brass",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -280,6 +324,21 @@
 				},
 				{
 					"year": "2016",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "Scout",
 					"award": "Silver"
 				}

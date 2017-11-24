@@ -65,6 +65,9 @@
 			"2016": {
 				"School Distinction Awards": "SDA"
 			},
+			"2017": {
+				"School Distinction Awards": "SDA"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
@@ -116,6 +119,21 @@
 					"year": "2016",
 					"category": "Ensemble - Strings",
 					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -143,6 +161,11 @@
 					"year": "2016",
 					"category": "Scout (Unit 1)",
 					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Scout (Unit 1)",
+					"award": "Silver"
 				}
 			]
 		},
@@ -151,6 +174,9 @@
 				"School Distinction Awards": "SDA"
 			},
 			"2016": {
+				"School Distinction Awards": "SDA"
+			},
+			"2017": {
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [],
@@ -202,6 +228,31 @@
 				},
 				{
 					"year": "2016",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Gamelan",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
 					"category": "Ensemble - Strings",
 					"award": "Accomplishment"
 				}

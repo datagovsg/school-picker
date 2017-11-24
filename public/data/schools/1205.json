@@ -21,7 +21,7 @@
 		"Principal": "Mdm Chandrika D/o Gopal",
 		"Vice Principal": [
 			"Mr Chong Choong Hian",
-			"Mdm Leow Siew Lee Shirley (Mrs Quek)"
+			"Mrs Shirley Quek"
 		],
 		"Vice Principal (Admin)": "Mdm Goh Lian Choo",
 		"School Vision": "An Innovative School of Discerning Learners and Caring Leaders",
@@ -266,6 +266,76 @@
 						"Senior"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Softball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Softball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
 				}
 			],
 			"SYF": [
@@ -348,6 +418,31 @@
 					"year": "2016",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -385,6 +480,16 @@
 					"year": "2016",
 					"category": "Girls' Brigade",
 					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Bronze"
 				}
 			]
 		}

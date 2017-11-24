@@ -71,7 +71,7 @@
 			"Sports & Outdoor Education": "Park View Sports Experiential Programme",
 			"Community Service & Student Leadership": "Leader in Me"
 		},
-		"Special Student Development Programmes Offered": "We are the Centre of Excellence (COE) East Zone for Sports (Primary). To complement this commitment to the promotion of sports, our first LLP is in Sports Experiential Education. Under this LLP which adopts the Expose-Experience-Excel approach, elements of sports education, including the teaching of sports values and emphasis on taking responsibility for one's own health and well-being, plays out strongly in the curriculum.   We also have a second LLP, Leader in Me, which aims to nurture students with sound character and with a sense of responsibility. Under Leader in Me which adopts the ASK approach, the main focus at the first rung of leadership is to give leadership exposure to All students by providing leadership platforms and structured leadership training through school wide opportunities such as class committee leaders. Students demonstrating capacity to take on higher leadership roles are appointed into the Service Learning Councils (SLCs) while highest-performing leaders form the Key Leaders, the peak of student leadership in the school."
+		"Special Student Development Programmes Offered": "We are the Centre of Excellence (COE) East Zone for Sports (Primary). To complement this commitment to the promotion of sports, our first LLP is in Sports Experiential Education. Under this LLP which adopts the Expose-Experience-Excel approach, elements of sports education, including the teaching of sports values and emphasis on taking responsibility for one's own health and well-being, plays out strongly in the curriculum. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -721,7 +721,63 @@
 					"Scout": "Silver"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"4th",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "519524"

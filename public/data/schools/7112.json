@@ -102,7 +102,7 @@
 			"STEM": "Science Research Programme",
 			"Music & Performing Arts": "Literary Arts (Bilingual) -- Enhancing Expression, Creativity and Aesthetics Appreciation (ECAA) through the ARTS"
 		},
-		"Special Student Development Programmes Offered": "Our SAP Bicultural & Flagship Programme is designed with the theoretical underpinning of Howard Gardner's \"Five Minds for the Future\", with an additional unique sixth mind, the 'Bicultural Mind'. The programme aims to groom future leaders who are bilingual and well versed in the Chinese language and culture, and have a deep appreciation of other cultures so that they are able to make strong and meaningful connections with the World. These objectives are also strengthened by our Global Classroom Programme which broadens our students' minds through the 4 domains: Bicultural Learning, Talent Development, Service Learning and Immersion & Exchange. NCzens are thus groomed to be world-ready, and to possess the meritorious Cultural Intelligence. The Learning for Life Programme (LLP) provides a unique cognitive-aesthetic domain of learning through Drama-in-Education, Public Speaking, Debate, Puppetry and Creative Lyrical Composition. The Programme encourages students' self-expression, nurtures their aesthetics appreciation and allows them to learn to embrace cultural diversity. In the Applied Learning Programme (ALP), students explore using Arduino Microcontroller in health Science and technology. Students also learn Science research skills to deepen their Disciplined Mind in Science.The school-wide Service Learning Programme provides opportunities for NCzens to learn to lead, serve and inspire others."
+		"Special Student Development Programmes Offered": "Our SAP Bicultural & Flagship Programme is designed with the theoretical underpinning of Howard Gardner's \"Five Minds for the Future\", with an additional unique sixth mind, the 'Bicultural Mind'. The programme aims to groom future leaders who are bilingual and well versed in the Chinese language and culture, and have a deep appreciation of other cultures so that they are able to make strong and meaningful connections with the World. These objectives are also strengthened by our Global Classroom Programme which broadens our students' minds through the 4 domains: Bicultural Learning, Talent Development, Service Learning and Immersion & Exchange. NCzens are thus groomed to be world-ready, and to possess the meritorious Cultural Intelligence."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -133,7 +133,27 @@
 				"Development Award": "DA (Character Development)",
 				"Outstanding Development Award": "ODA (National Education)"
 			},
-			"Sports & Games Competition": [],
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "ODA (National Education)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				}
+			],
 			"SYF": [
 				{
 					"year": "2014",
@@ -274,6 +294,56 @@
 					"year": "2016",
 					"category": "Orchestra - Chinese",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -334,6 +404,26 @@
 				},
 				{
 					"year": "2016",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "Scout (Unit 1)",
 					"award": "Gold"
 				}

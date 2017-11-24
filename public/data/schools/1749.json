@@ -25,7 +25,12 @@
 		],
 		"School Vision": "A vibrant school of choice where character shines and talents soar.",
 		"School Mission": "To nurture caring hearts, creative minds and confident individuals.",
-		"School Philosophy, Culture and Ethos": "White Sands Primary School believes in developing to the fullest the character and cognitive domains of our pupils. We endeavor to nurture future ready citizens who are grounded in the values of Care, Respect, Responsibility, Resilience, Rallying Together and Excellence. For children to have their unique talents and abilities developed to their fullest potential, a rich learning experience is provided to develop caring hearts, creative minds and confident individuals.   Contributing towards the school's holistic development of our pupils is the strong partnership with our parents and the community as we believe that it takes a village to raise a child. The school enjoys a good reputation in the community for the quality of all-round education it provides, distinctive for the good discipline and vibrant tone. This is affirmed through the need for the school to conduct balloting in the annual P1 registration exercise.   Key success factors which contribute to the positive learning outcomes of the pupils include customization of teaching and learning approaches that cater to pupils of different abilities. This customized approach allows for every pupil to learn at a suitable pace, starting from the foundation years. The strong learning support that has been put in place ensures that no child is left behind in the pursuit of excellence.   The school believes in building strong Teacher-Student relationship. This is made possible through the strong Character and Citizenship Education, which includes signature programmes such as heart-to-heart sessions between staff and pupils. All teachers, key personnel, school leaders are involved not only in the heart-to-heart sessions but in 'adopting' pupils so that they can feel belong and cared for in the school.",
+		"School Philosophy, Culture and Ethos": [
+			"White Sands Primary School believes in developing to the fullest the character and cognitive domains of our pupils. We endeavor to nurture future ready citizens who are grounded in the values of Care, Respect, Responsibility, Resilience, Rallying Together and Excellence. For children to have their unique talents and abilities developed to their fullest potential, a rich learning experience is provided to develop caring hearts, creative minds and confident individuals. ",
+			"Contributing towards the school's holistic development of our pupils is the strong partnership with our parents and the community as we believe that it takes a village to raise a child. The school enjoys a good reputation in the community for the quality of all-round education it provides, distinctive for the good discipline and vibrant tone. This is affirmed through the need for the school to conduct balloting in the annual P1 registration exercise. ",
+			"Key success factors which contribute to the positive learning outcomes of the pupils include customization of teaching and learning approaches that cater to pupils of different abilities. This customized approach allows for every pupil to learn at a suitable pace, starting from the foundation years. The strong learning support that has been put in place ensures that no child is left behind in the pursuit of excellence. ",
+			"The school believes in building strong Teacher-Student relationship. This is made possible through the strong Character and Citizenship Education, which includes signature programmes such as heart-to-heart sessions between staff and pupils. All teachers, key personnel, school leaders are involved not only in the heart-to-heart sessions but in 'adopting' pupils so that they can feel belong and cared for in the school."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -76,7 +81,7 @@
 		"School Distinctive Programmes": {
 			"ICT & Media": "Digital Media in Aesthetics & Languages"
 		},
-		"Special Student Development Programmes Offered": "The annual HeArts Shine programme is a key highlight in the school calendar. It showcases pupils' talents and their participation in values-in-action. Pupils also demonstrate their creativity by planning and making interesting games that made use of re-cycled materials. All monies raised through the HeArts Shine programme are channeled towards the needs of needy pupils.   The school Applied Learning Programme (ALP in Digital Media) is a key feature that contributes to the vibrant environment, especially in Art and Music. Other than the aesthetics, pupils are exposed to processes such as story-boarding and working in teams as budding journalists. Other than the ALP in Digital Media, the school is well-known for its outstanding performance in the CCA in performing arts and key sports.  Our pupils are also exposed to various form of outdoor education from Primary 3 onwards. These grade-specific programmes include day & stay-in camps and kayaking which aim to develop ruggedness and resilience in pupils.   All pupils in the Upper Primary levels participate in Transdisciplinary Project Work to develop 21 Century Competencies and life-long skills - values that are imbued through level specific Values-In-Action activities. Selected upper primary pupils participate in the Global Outreach Programme, which provides them with the authentic learning experience to learn and appreciate foreign cultures whilst deepening their sense of rootedness to Singapore."
+		"Special Student Development Programmes Offered": "The annual HeArts Shine programme is a key highlight in the school calendar. It showcases pupils' talents and their participation in values-in-action. Pupils also demonstrate their creativity by planning and making interesting games that made use of re-cycled materials. All monies raised through the HeArts Shine programme are channeled towards the needs of needy pupils. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -122,6 +127,36 @@
 						"Junior"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
 				}
 			],
 			"SYF": [
@@ -244,6 +279,46 @@
 					"year": "2016",
 					"category": "Ensemble - Guzheng",
 					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -259,6 +334,11 @@
 				},
 				{
 					"year": "2016",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
 					"category": "Scout",
 					"award": "Silver"
 				}

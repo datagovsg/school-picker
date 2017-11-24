@@ -719,7 +719,21 @@
 					"Scout (Unit 1)": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Development Award": "DA (Character Development)",
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Accomplishment",
+					"Band-Wind Ensemble": "Accomplishment",
+					"Dance - International": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc (Land)": "Silver",
+					"Scout (Unit 1)": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

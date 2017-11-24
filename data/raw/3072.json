@@ -291,7 +291,21 @@
 					"Red Cross": "Bronze"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Ncdcc": "Silver",
+					"Npcc (Land)": "Bronze",
+					"Red Cross": "Silver"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

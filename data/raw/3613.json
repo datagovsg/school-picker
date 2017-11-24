@@ -113,7 +113,7 @@
 			"Languages & Humanities": "Crestian Communicators of the 21st Century",
 			"Music & Performing Arts": "Nurturing Crestian Leaders of Tomorrow through Music and the Performing Arts"
 		},
-		"Special Student Development Programmes Offered": "The school's Applied Learning Programme (ALP), Crestian Communicators of the 21st Century, aims to develop Crestians to be confident and effective communicators. All students learn effective oral and written communication through its NICE and SPICE programme and Spontaneous and Critical Writing Programme. Students also apply the skills learnt through storytelling, news reporting, broadcasting, drama and persuasive communication. Our public speaking programme trains our students to think on their feet and present lucid and sound arguments. These skills are important in today's globalised world. The school is the Music Satellite of East Zone Centre of Excellence for Creative Arts and Nurturing Crestian Learners of Tomorrow through Music and the Performing Arts is its Learning for Life Programme (LLP). The school offers Music at O and NT Level, as well as develops students' potential in music through its customised General Music Programme. All our students learn instrumental, ensemble and music arranging skills and play at least 3 musical instruments. They also get opportunities to showcase their talents such as at recess concerts and Crestians Got Talent Competition. Through the school's NYAA programme, our students undergo fencing training in which they learn basic footwork, offensive and defensive strategies. They also learn to play the guitar/uklele, and participate in a 3-day 2-night camp where they learn 21st Century Competencies such as critical and inventive thinking, and communication skills.  As part of their service to the community, students plan and execute a Values-in-Action project to raise awareness and funds for a charitable organisation."
+		"Special Student Development Programmes Offered": "The school's Applied Learning Programme (ALP), Crestian Communicators of the 21st Century, aims to develop Crestians to be confident and effective communicators. All students learn effective oral and written communication through its NICE and SPICE programme and Spontaneous and Critical Writing Programme. Students also apply the skills learnt through storytelling, news reporting, broadcasting, drama and persuasive communication. Our public speaking programme trains our students to think on their feet and present lucid and sound arguments. These skills are important in today's globalised world."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -744,7 +744,70 @@
 					"Boys' Brigade": "Silver"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Fencing",
+						"3rd",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Drama - English": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides (Coy 1)": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Ncc (Land Girls)": "Gold",
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

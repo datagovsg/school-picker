@@ -23,7 +23,10 @@
 		"Vice Principal (Admin)": "Mr Ho Seng Fatt",
 		"School Vision": "Loyang Secondary School is a happy and caring school where students achieve their potential, are of robust character and are well prepared for the skilforce of tomorrow.",
 		"School Mission": "To build a team of competent and dedicated staff, working closely with our stakeholders in delivering rigorous and comprehensive academic and character development programmes that bring out the best in every student.",
-		"School Philosophy, Culture and Ethos": "At Loyang Secondary School (LYSS), every child is unique and important. We do everything with love, constantly and purposefully doing whatever it takes to pursue quality service, thus impacting the lives of students in our care with passion.  The school focuses on holistic student development programmes, emphasising on academic value-addedness and character development and a rewarding school experience.  From 2014, the school has initiated the Loyang Experience for all students, with the intent of strengthening student-centricity and accentuating the distinctiveness of LYSS. The Loyang Experience integrates key programmes (such as Teaching and Learning, Character and Citizenship Education and Applied Learning) through common student outcomes and is aimed at strengthening the holistic development of students.",
+		"School Philosophy, Culture and Ethos": [
+			"At Loyang Secondary School (LYSS), every child is unique and important. We do everything with love, constantly and purposefully doing whatever it takes to pursue quality service, thus impacting the lives of students in our care with passion.",
+			"The school focuses on holistic student development programmes, emphasising on academic value-addedness and character development and a rewarding school experience.  From 2014, the school has initiated the Loyang Experience for all students, with the intent of strengthening student-centricity and accentuating the distinctiveness of LYSS. The Loyang Experience integrates key programmes (such as Teaching and Learning, Character and Citizenship Education and Applied Learning) through common student outcomes and is aimed at strengthening the holistic development of students."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -73,7 +76,7 @@
 			"Symphonic Band"
 		],
 		"Clubs & Societies": [
-			"Debating And Oratorical Society"
+			"Debate"
 		]
 	},
 	"SpecialProgrammes": {
@@ -207,6 +210,21 @@
 					"year": "2016",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -267,6 +285,26 @@
 				},
 				{
 					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "NPCC (Land)",
 					"award": "Gold"
 				}

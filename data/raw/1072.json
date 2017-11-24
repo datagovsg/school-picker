@@ -17,11 +17,17 @@
 	"bus": "SBS 123 , 131 , 275 SBS 65 ",
 	"GeneralInformation": {
 		"Principal": "MRS WONG SIEW SHAN",
-		"Vice Principal": "MR LOW MIN CHYE",
+		"Vice Principal": [
+			"MR LOW MIN CHYE",
+			"MR MUHAMMAD FARIZAL BIN UMAR EFFE"
+		],
 		"Vice Principal (Admin)": "MR KWOK KENG LIAN",
 		"School Vision": "A School Where All Work Hard, Play Hard And Make A Mark",
 		"School Mission": "To Develop Each Child Holistically, Equipping Him With Competences For The Future",
-		"School Philosophy, Culture and Ethos": "School Philosophy: We Believe that Every Child is Precious, of Worth and can Learn in an Engaging Environment with Caring and Excellent Teachers  School Culture: Culture of Care and Excellence",
+		"School Philosophy, Culture and Ethos": [
+			"School Philosophy: We Believe that Every Child is Precious, of Worth and can Learn in an Engaging Environment with Caring and Excellent Teachers",
+			"School Culture: Culture of Care and Excellence"
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -60,7 +66,6 @@
 			"Chinese Orchestra",
 			"Choir",
 			"Indian Dance",
-			"Infocomm Club",
 			"Visual Arts"
 		],
 		"Clubs & Societies": [
@@ -76,7 +81,7 @@
 		"School Distinctive Programmes": {
 			"Coding": "Nurturing 21st Century Competencies through Computational Thinking With Design Thinking"
 		},
-		"Special Student Development Programmes Offered": "Applied Learning Programme: Nurturing 21st Century Competencies through Computational Thinking With Design Thinking  Level-Based Personalised Learning, Multi-Disciplinary Project Work and School-Based Curriculum (in ICT)"
+		"Special Student Development Programmes Offered": "Applied Learning Programme: Nurturing 21st Century Competencies through Computational Thinking With Design Thinking"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -919,7 +924,68 @@
 					"Scout": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Chinese": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold",
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "099840"

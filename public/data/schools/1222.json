@@ -21,11 +21,17 @@
 		"Principal": "Mdm Kok Chow Hiong, Jackie",
 		"Vice Principal": [
 			"Mdm Toh Leng Leng",
-			"Mrs Kelly Koh E-Len"
+			"Mrs Kelly Koh E-Len",
+			"Mdm Lim Tzyy Shiuan"
 		],
+		"Vice Principal (Admin)": "Mdm Ong Siew Ling",
 		"School Vision": "A healthy, confident, gracious and morally upright pupil with a passion for learning and love for Singapore.",
 		"School Mission": "To provide a safe and happy environment for our pupils to strive towards excellence.",
-		"School Philosophy, Culture and Ethos": "Gongshang Primary School is a school with a rich tradition and illustrious history. Founded in 1920, the school had its humble beginnings as a night school, known as The Chinese Industrial and Commercial Continuation School which catered to the needs of the young migrants from China, incorporating vocational training into its basic curriculum. Gongshang Primary has continued with the rich traditions of its history, emphasizing a strong Asian tradition and culture.   We believe that every child can thrive in a safe and nurturing environment to become confident, gracious and morally upright pupils who will be able to contribute to society with a sense of purpose and able to meet the challenges of the future. The broad-based and value-added curriculum emphasising on the holistic development of every child is specially tailored to ignite his or her passion and stretch the abilities and talents whilst anchored on the school's core values of Respect, Integrity, Perseverance and Thrift.   Teachers will continue to be at the forefront of pedagogical innovations, harnessing technology and working in close partnership with our key partners, the School Advisory Committee (SAC), Parent Support Group (PSG), the School Alumni as well as other parents to nurture every child to help him or her realise his or her full potential.",
+		"School Philosophy, Culture and Ethos": [
+			"Gongshang Primary School is a school with a rich tradition and illustrious history. Founded in 1920, the school had its humble beginnings as a night school, known as The Chinese Industrial and Commercial Continuation School which catered to the needs of the young migrants from China, incorporating vocational training into its basic curriculum. Gongshang Primary has continued with the rich traditions of its history, emphasizing a strong Asian tradition and culture. ",
+			"We believe that every child can thrive in a safe and nurturing environment to become confident, gracious and morally upright pupils who will be able to contribute to society with a sense of purpose and able to meet the challenges of the future. The broad-based and value-added curriculum emphasising on the holistic development of every child is specially tailored to ignite his or her passion and stretch the abilities and talents whilst anchored on the school's core values of Respect, Integrity, Perseverance and Thrift. ",
+			"Teachers will continue to be at the forefront of pedagogical innovations, harnessing technology and working in close partnership with our key partners, the School Advisory Committee (SAC), Parent Support Group (PSG), the School Alumni as well as other parents to nurture every child to help him or her realise his or her full potential."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay",
 		"Affiliated Schools": "Not Applicable"
@@ -92,6 +98,11 @@
 				"Outstanding Development Award": "ODA (Character Development)"
 			},
 			"2016": {
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Development Award": "DA (National Education)",
+				"Outstanding Development Award": "ODA (Character Development)"
+			},
+			"2017": {
 				"Best Practice Awards": "BPA (Staff Well-Being)",
 				"Development Award": "DA (National Education)",
 				"Outstanding Development Award": "ODA (Character Development)"
@@ -236,6 +247,66 @@
 						"'D' Div"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -323,6 +394,41 @@
 					"year": "2016",
 					"category": "Ensemble - Strings",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -338,6 +444,11 @@
 				},
 				{
 					"year": "2016",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "Scout",
 					"award": "Gold"
 				}

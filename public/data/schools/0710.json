@@ -25,7 +25,10 @@
 		],
 		"Vice Principal (Admin)": "Mdm Shirley Yong Wai Yee",
 		"School Vision": "Leaders and Learners driven by Values and Imagination",
-		"School Mission": "Inspiring all students to have the passion to learn, the heart to serve and the courage to lead",
+		"School Mission": [
+			"Inspiring all students to have",
+			"the passion to learn, the heart to serve and the courage to lead"
+		],
 		"Type of School": "Government School / Co-ed School / Full Day",
 		"Mother Tongue": "Not Available",
 		"Affiliated Schools": "Not Applicable"
@@ -85,14 +88,12 @@
 		"Clubs & Societies": [
 			"Ava Club",
 			"Community Champions Council",
-			"Health & Fitness",
-			"Library Council",
+			"Icraft Club",
 			"Odac",
 			"Pilates",
 			"S*Star",
 			"Srjc Debates",
-			"Student Council",
-			"Yoga"
+			"Student Council"
 		]
 	},
 	"SpecialProgrammes": {
@@ -107,6 +108,9 @@
 				"Development Award": "DA (Character Development)"
 			},
 			"2016": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2017": {
 				"Development Award": "DA (Character Development)"
 			},
 			"Sports & Games Competition": [
@@ -176,6 +180,26 @@
 					"subCategory": [
 						"National",
 						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Girls",
 						"'A' Div"
 					],
 					"award": "2nd"
@@ -269,6 +293,36 @@
 				},
 				{
 					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
 				}

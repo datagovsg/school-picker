@@ -22,7 +22,8 @@
 		"Principal": "Miss Foong Lai Leong",
 		"Vice Principal": [
 			"Mr Quah Siew Kin",
-			"Mdm Yip Sun Yee"
+			"Mdm Yip Sun Yee",
+			"Mr Sim How Chong"
 		],
 		"School Vision": "Premier School, Serving Community",
 		"School Mission": "Nurturing The Whole Fuhuanite",
@@ -92,7 +93,7 @@
 			"STEM": "Forensic Science@Fuhua",
 			"Community & Youth Leadership": "Values in Action, Leadership through Service"
 		},
-		"Special Student Development Programmes Offered": "To cultivate confident and self-directed learners with 21st Century Competencies, the school offers a rigorous and enriched academic curriculum. Special programmes include IGNIS (EL Talent Development Programme), Financial Literacy in Mathematics and Olympiad training in Mathematics and the Sciences, learning journeys and field trips (Humanities), Mother Tongue Fortnight and ICT Skills Modules, among others. The school has also established an Applied Learning Programme (ALP) in Forensic Science which offers experiential learning to help students develop an investigative mindset, a curious outlook and critical thinking skills. Fuhua Robotics Club offers another platform to promote these skills through self-directed problem-based learning. Through research and experiments, the club helps students to learn about robotic engineering and applications. To develop concerned citizens and active contributors, we deliver a robust Character and Citizenship Education (CCE) through our CCAs and formal CCE curriculum. These are integrated with a suite of programmes including leadership development, national education and Values In Action programmes. The school's Learning for Life Programme, \"Leadership Through Service\", provides opportunities to develop our Fuhuanites' leadership potential through service so as to enable them to contribute to the betterment of society as socially responsible citizens. Our Uniformed Groups also serve as a premier vehicle to drive leadership and character development. UG cadets are given opportunities to lead and excel through service and community engagement, locally and overseas."
+		"Special Student Development Programmes Offered": "To cultivate confident and self-directed learners with 21st Century Competencies, the school offers a rigorous and enriched academic curriculum. Special programmes include IGNIS (EL Talent Development Programme), Financial Literacy in Mathematics and Olympiad training in Mathematics and the Sciences, learning journeys and field trips (Humanities), Mother Tongue Fortnight and ICT Skills Modules, among others. The school has also established an Applied Learning Programme (ALP) in Forensic Science which offers experiential learning to help students develop an investigative mindset, a curious outlook and critical thinking skills. Fuhua Robotics Club offers another platform to promote these skills through self-directed problem-based learning. Through research and experiments, the club helps students to learn about robotic engineering and applications."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -279,6 +280,76 @@
 						"'C' Div"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Shooting (Air Pistol)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Shooting (Air Rifle)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Shooting (Air Rifle)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -401,6 +472,46 @@
 					"year": "2016",
 					"category": "Orchestra - Chinese",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -461,6 +572,26 @@
 				},
 				{
 					"year": "2016",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "Scout (Unit 1)",
 					"award": "Gold"
 				}

@@ -18,7 +18,6 @@
 	"GeneralInformation": {
 		"Principal": "MDM TAN YANG FERN",
 		"Vice Principal": [
-			"MR KEITH TAN",
 			"MR TYEBALLY AZIZ",
 			"MR KANG LENG KHIM VINCENT"
 		],
@@ -114,7 +113,7 @@
 			"Languages": "Speech Communication Arts",
 			"Community & Youth Leadership": "Active Citizenship for Social Change"
 		},
-		"Special Student Development Programmes Offered": "We are committed to creating the Whitley Experience which is focused on building a strong foundation for academic success and developing students' interests and strengths through core academic and student development programmes.  The school's Learning for Life Programme, \"Active Citizenship for Social Change\", seeks to nurture active concerned citizens. Focused on building empathy and ownership of societal issues, it provides opportunities for every Whitleyan to hone his skills in design thinking to better understand the needs of the community, co-construct solutions or advocate for social causes.  The school's Applied Learning Programme, \"Speech Communication Arts\", nurtures students to be confident and self-directed learners with a curriculum that enhances communication skills through speech and art forms such as public speaking and drama. We have a Talent Development Programme to nurture students' academic strengths, providing training opportunities such as Author-in-Residence, debating and Olympiad training, and challenging students to excel through participation in competitions and projects. Another key element of our school programmes is our focus on leadership development and building of qualities such as resilience, team work, empathy, sound planning, among others. This is done through our cohort camps, student leaders programme and Overseas Service Learning."
+		"Special Student Development Programmes Offered": "We are committed to creating the Whitley Experience which is focused on building a strong foundation for academic success and developing students' interests and strengths through core academic and student development programmes.  The school's Learning for Life Programme, \"Active Citizenship for Social Change\", seeks to nurture active concerned citizens. Focused on building empathy and ownership of societal issues, it provides opportunities for every Whitleyan to hone his skills in design thinking to better understand the needs of the community, co-construct solutions or advocate for social causes.  The school's Applied Learning Programme, \"Speech Communication Arts\", nurtures students to be confident and self-directed learners with a curriculum that enhances communication skills through speech and art forms such as public speaking and drama."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -928,7 +927,82 @@
 					"Npcc (Land)": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Golf",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"2nd",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides (Coy 1)": "Gold",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

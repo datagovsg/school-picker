@@ -17,10 +17,7 @@
 	"bus": "10 , 14 , 45 ",
 	"GeneralInformation": {
 		"Principal": "MISS PAULINE FUN KAR WHYE",
-		"Vice Principal": [
-			"MR KANG YONG SOON ANDREW",
-			"MR CHEN BING HONG"
-		],
+		"Vice Principal": "MR CHEN BING HONG",
 		"School Vision": "A Value-Added, Quality School",
 		"School Mission": "Build Character, Develop Leaders of Tomorrow (who will) Serve with Conviction",
 		"School Philosophy, Culture and Ethos": "Bedok South Secondary School's motto is Success through Endeavour. We are a value-added, quality school that is committed to engaging and nurturing the whole child through student-centric approaches. The school strives to develop all BDSians to become active members of the society imbued with 21st century competencies and skills. We believe in inculcating the ICARE values (Integrity, Courage, Accountability, Respect, Excellence and Care) in our students to prepare them for life. The value of caring for themselves, their families, friends and the community is a very important part of BDS education and culture.",
@@ -31,11 +28,16 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART",
+		"ART NA LEVEL",
+		"ART 'O' LEVEL",
+		"BASIC CHINESE",
+		"BASIC MALAY",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
+		"CHINESE B",
+		"CHINESE N(A)",
+		"CO-CURRICULAR ACTIVITIES",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
@@ -45,13 +47,21 @@
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
-		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"LITERATURE(E)",
 		"MALAY",
+		"MALAY B",
+		"MALAY N(A)",
 		"MATHEMATICS",
+		"MATHEMATICS (SYLLABUS A)",
+		"MATHEMATICS (SYLLABUS T)",
 		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
+		"PRINCIPLES OF ACCOUNTS",
+		"SCIENCE",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
@@ -574,7 +584,71 @@
 					"Scout (Unit 1)": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Floorball",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Silver",
+					"Ncc (Land Boys)": "Silver",
+					"Ncdcc": "Bronze",
+					"Npcc (Land)": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

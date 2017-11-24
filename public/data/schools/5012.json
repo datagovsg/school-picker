@@ -23,7 +23,14 @@
 		],
 		"School Vision": "A Gabrielite will be God-loving, disciplined, gracious, caring and a life-long learner.",
 		"School Mission": "Shaping Lives for Service to God and Nation.",
-		"School Philosophy, Culture and Ethos": "Core Belief: Loving Each Child as our Own Established as part of the St. Gabriel's School in 1953, the school follows the footsteps of our founder, St. Louis Marie de Montfort, whose belief was to 'Love each child as a son of God'. Staff strives to love each child as our own.   Educational Philosophy : Keeping the Flame Alive, The Gift is Theirs, Giving Pupils a Voice, The Community Connect We are committed to truly educating the students by nurturing in them, the 'flame of inquiry' so that they will be prepared for a life of learning. A suite of effective academic programmes cater to the different learning needs, styles and interests of our pupils - the Inquiry Week, the Louis Marie de Montfort (LMM) class for the academically gifted, and bridging programmes for those who need the support. We believe that every child is 'gifted' and inspire them to discover their potential. A stable of co-curricular activities that is varied and interesting provides an exciting and immersive school experience for students. Each child is given a 'voice' so that they may learn to have a heart for others, through service to God and the nation. We provide opportunities for students to live out the school virtues of Self-discipline, Generosity, Perseverance, Sincerity, Loyalty, Orderliness, Respect and Diligence through opportunities to 'connect with the community'.  Motto : 'Labor Omnia Vincit' (Labour conquers all)  The motto personifies the importance of giving one's best in all endeavours. It is our hope that each student will approach learning with passion and perseverance; that he will form lasting friendships and thus understand the meaning of loyalty, sincerity and fellowship; that he will become socially responsible citizens who would learn from the youngest age how to give of themselves for the greater good; that he will laugh and play and enjoy being a boy. Above all, he must always be mindful of God's grace and presence.",
+		"School Philosophy, Culture and Ethos": [
+			"Core Belief: Loving Each Child as our Own",
+			"Established as part of the St. Gabriel's School in 1953, the school follows the footsteps of our founder, St. Louis Marie de Montfort, whose belief was to 'Love each child as a son of God'. Staff strives to love each child as our own. ",
+			"Educational Philosophy : Keeping the Flame Alive, The Gift is Theirs, Giving Pupils a Voice, The Community Connect",
+			"We are committed to truly educating the students by nurturing in them, the 'flame of inquiry' so that they will be prepared for a life of learning. A suite of effective academic programmes cater to the different learning needs, styles and interests of our pupils - the Inquiry Week, the Louis Marie de Montfort (LMM) class for the academically gifted, and bridging programmes for those who need the support. We believe that every child is 'gifted' and inspire them to discover their potential. A stable of co-curricular activities that is varied and interesting provides an exciting and immersive school experience for students. Each child is given a 'voice' so that they may learn to have a heart for others, through service to God and the nation. We provide opportunities for students to live out the school virtues of Self-discipline, Generosity, Perseverance, Sincerity, Loyalty, Orderliness, Respect and Diligence through opportunities to 'connect with the community'.",
+			"Motto : 'Labor Omnia Vincit' (Labour conquers all) ",
+			"The motto personifies the importance of giving one's best in all endeavours. It is our hope that each student will approach learning with passion and perseverance; that he will form lasting friendships and thus understand the meaning of loyalty, sincerity and fellowship; that he will become socially responsible citizens who would learn from the youngest age how to give of themselves for the greater good; that he will laugh and play and enjoy being a boy. Above all, he must always be mindful of God's grace and presence."
+		],
 		"Type of School": "Government-aided Sch / Boys' School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "St. Gabriel's Secondary School"
@@ -72,7 +79,7 @@
 		"School Distinctive Programmes": {
 			"Community Service & Student Leadership": "Montfortian Leadership Programme (MLP)"
 		},
-		"Special Student Development Programmes Offered": "Academic Learning We offer a differentiated learning programme where students will enjoy school, challenged to do their best by cultivating their innate curiosity. Students enjoy the learning journeys, outdoor lessons, inquiry learning and other authentic learning opportunities. A special curriculum is also offered to academically gifted students - the Louis Marie de Montfort (LMM) class at primary 4 and 5. LMM class students enjoy learning at a more rapid pace, through: - A literature programme; - Mathematics Olympiad that stretches the students' thinking skills; - An enriched Science curriculum, adapted from the MOE's gifted education branch that cultivates interest in scientific phenomena - The higher Mother Tongue Language (Chinese) syllabus; - IvP - innovation programme to cultivate the entrepreneurial spirit and dare. Character Formation We offer the Montfortian Character and Citizenship Education (MCCE), to nurture students to become God-loving, exemplary citizens. The MCCE is a signature programme that incorporates inspirational stories based on our founder, Montfort, Citizenship Education and Social and Emotional Learning competencies. Students are given various opportunities to grow their 'voice' and lead others from the heart, through the Montfortian Leadership Programme (MLP). Students initiate community improvement projects. They have opportunities to participate in overseas immersion programmes and lead in the Values-in-Action projects, in collaboration with the wider community. Life-Skills and Enrichment Programmes Students have opportunities to discover their talents in various ways. We offer: - The Programme for Active Learning (PAL; for students to discover their aptitude and interest in the Sports and Games, Outdoor Activities, Performing Arts (Art, Music/Dance and Drama), available for the primary 1 and 2 students. - A wide range of CCA such as wushu, badminton, football, golf, robotics and many more, available for primary 3 to 6 students."
+		"Special Student Development Programmes Offered": "Academic Learning"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -137,6 +144,16 @@
 				},
 				{
 					"year": "2016",
+					"category": "Band-Brass",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
 					"category": "Band-Brass",
 					"award": "Commendation"
 				}

@@ -92,7 +92,7 @@
 			"STEM": "Health Science & Technology",
 			"Sports & Outdoor Education": "Building Character Through Physical Education & Sports"
 		},
-		"Special Student Development Programmes Offered": "Our Learning for Life Programme is Building Character through Physical Education & Sports. We believe that Physical Education and Sports Education are natural platforms for Character Building and our programme seeks to develop active and healthy students with mental toughness, empathy and character that will enables them to act as role models to promote a healthy lifestyle to their peers, family and the community.  Our Applied Learning Programme is on Health Science and Technology which aims to ignite student interests in the field of electronic through hands-on learning that builds bridge between textbook knowledge and real-world applications. Working in team or individually, students learn about coding skills and microprocessor programming and how it can be applied in the area of health sciences."
+		"Special Student Development Programmes Offered": "Our Learning for Life Programme is Building Character through Physical Education & Sports. We believe that Physical Education and Sports Education are natural platforms for Character Building and our programme seeks to develop active and healthy students with mental toughness, empathy and character that will enables them to act as role models to promote a healthy lifestyle to their peers, family and the community. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1040,7 +1040,81 @@
 					"Girl Guides (Coy 1)": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Development Award": "DA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Commendation",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Silver"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

@@ -25,7 +25,13 @@
 		],
 		"School Vision": "Enlightened Students, Enriched Citizens",
 		"School Mission": "Connecting Hearts, Engaging Minds",
-		"School Philosophy, Culture and Ethos": "We believe that (1) Every child can learn, whatever his starting point.  We will help each child find success in learning.  (2)  Every child is unique. Each child will therefore succeed in different ways.  (3)  Every child needs different attributes to succeed in the future.  We will nurture the whole child.   We provide a caring and supportive environment for our students with a focus on connecting hearts and engaging minds.",
+		"School Philosophy, Culture and Ethos": [
+			"We believe that",
+			"(1) Every child can learn, whatever his starting point.  We will help each child find success in learning. ",
+			"(2)  Every child is unique. Each child will therefore succeed in different ways. ",
+			"(3)  Every child needs different attributes to succeed in the future.  We will nurture the whole child. ",
+			"We provide a caring and supportive environment for our students with a focus on connecting hearts and engaging minds."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -79,7 +85,7 @@
 		"School Distinctive Programmes": {
 			"Sports & Outdoor Education": "Sports4All@Keming: Character Development through Sports"
 		},
-		"Special Student Development Programmes Offered": "Learning comes alive for Kemingnites through Authentic Learning@Keming.   Learning Beyond School - Students go for two or more learning journeys a year.  These learning journeys help make meaning of what they learn in the classroom as they experience different places, people and environments.  An example is the visit to a shopping mall by the P1 students.  Students learn the value of money and the basics of budgeting as they plan their purchases within the constraints given.  The joy of learning is evident as the students, guided by parent volunteers and their teachers, make new discoveries together. Learning by Doing - We provide opportunities for students to engage in hands-on and collaborative learning to evoke their curiosity and apply their learning. P1 and P2 students engage in hands-on activities such as bubble-blowing, ice-cream decoration and food tasting.  P3 to P6 students, on the other hand, engage in project work to enable them to make meaningful connections of what they have learnt.   Cultivating the Student Voice - To build confident and effective leaders who contribute actively to society, platforms are created to cultivate the student voice and encourage self-expression and participation. My School My Voice, a shared space in the school for students to post their opinions, have witnessed contemplations over various issues.  ARTS4U is a platform where students sign up to showcase their talents. During Kids Buzz, students present on a topic of their choice and invite questions from the audience. These activities get the students# creative juices flowing and develop their confidence.  Student leaders also participate in school improvement through student-initiated projects. The Exhale-ration Fair is when P6 students are given the opportunity to explore in teams, innovative ideas within set conditions.  The process invokes the entrepreneurial dare within the students and pushes the boundaries of their thinking."
+		"Special Student Development Programmes Offered": "Learning comes alive for Kemingnites through Authentic Learning@Keming.  "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -103,6 +109,15 @@
 				]
 			},
 			"2016": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": "BPA (Teaching and Learning)",
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)",
+					"PARTNERS (Merit)"
+				]
+			},
+			"2017": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": "BPA (Teaching and Learning)",
 				"Development Award": [
@@ -251,6 +266,76 @@
 						"Junior"
 					],
 					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
 				}
 			],
 			"SYF": [
@@ -313,6 +398,26 @@
 					"year": "2016",
 					"category": "Dance - Chinese",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []

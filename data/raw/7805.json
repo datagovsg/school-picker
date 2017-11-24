@@ -21,7 +21,11 @@
 		"Vice Principal (Admin)": "MR TAN BOON TIONG VINCENT",
 		"School Vision": "A global leader in transforming learning",
 		"School Mission": "To nurture passionate innovators who improve society through real-world applications of science and technology",
-		"School Philosophy, Culture and Ethos": "The School of Science and Technology, Singapore (SST) is a Specialised Independent School that offers a distinctive 4-year GCE O-Level programme with an integrated approach to applied learning. Learning in SST is multi-faceted as students gain a strong foundation of key academic concepts in Science, Technology, Art, Engineering and Mathematics (STEM). The school-wide leverage on Information Communication Technology (ICT) greatly enhances the learning environment and provides the extended learning resources and networks that the digital natives have come to expect. As a FutureSchool, SST aims to be a forerunner in using ICT to support educational programmes and enhance the delivery of its specialised curriculum.  SST caters to students who learn best in an active applied learning environment, where conceptual understandings and transference of disciplinary content knowledge and skills are fostered through cognitively demanding hands-on applications set in real world situations. Sound affective, character and leadership education, national education, and entrepreneurial programmes serve to equip students with the skills and competencies crucial for success in the 21st century and nurture the values-driven and community-responsible person and leader.  This concurrent emphasis on non-academic curricular ensures the cultivation of invaluable life skills and work competencies such as resilience, responsible risk-taking, innovation and entrepreneurial mindset, effective teamwork and communication, and dynamic leadership.",
+		"School Philosophy, Culture and Ethos": [
+			"The School of Science and Technology, Singapore (SST) is a Specialised Independent School that offers a distinctive 4-year GCE O-Level programme with an integrated approach to applied learning. Learning in SST is multi-faceted as students gain a strong foundation of key academic concepts in Science, Technology, Art, Engineering and Mathematics (STEM). The school-wide leverage on Information Communication Technology (ICT) greatly enhances the learning environment and provides the extended learning resources and networks that the digital natives have come to expect. As a FutureSchool, SST aims to be a forerunner in using ICT to support educational programmes and enhance the delivery of its specialised curriculum.",
+			"SST caters to students who learn best in an active applied learning environment, where conceptual understandings and transference of disciplinary content knowledge and skills are fostered through cognitively demanding hands-on applications set in real world situations. Sound affective, character and leadership education, national education, and entrepreneurial programmes serve to equip students with the skills and competencies crucial for success in the 21st century and nurture the values-driven and community-responsible person and leader.",
+			"This concurrent emphasis on non-academic curricular ensures the cultivation of invaluable life skills and work competencies such as resilience, responsible risk-taking, innovation and entrepreneurial mindset, effective teamwork and communication, and dynamic leadership."
+		],
 		"Type of School": "SPECIALISED INDEPENDENT SCHOOL / CO-ED SCHOOL / FULL DAY",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -79,7 +83,7 @@
 		"MOE Programmes": [
 			"Not Available"
 		],
-		"Special Student Development Programmes Offered": "The SST Student Development Programme envisions all its students to be lifelong learners of character who are active local and global citizens and dynamic leaders in service of humanity.  A range of character, leadership and citizenship education programmes and activities are offered to complement and support the rigorous academic programme at SST for a well balanced and holistic education for all. The experiences will be presented through infusion in academic lessons, through Sports and Wellness lesson and co-curricular activity, specially organised service-learning programme such as the Youth Service Programme, Global Citizenship Programme, Interdisciplinary Research Studies, Innovation and Entrepreneurship, as well as leadership platforms such as class executive committees, class committees, Student Council and Peer Support Board."
+		"Special Student Development Programmes Offered": "The SST Student Development Programme envisions all its students to be lifelong learners of character who are active local and global citizens and dynamic leaders in service of humanity."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -179,7 +183,63 @@
 					"Ensemble - Guitar": "Accomplishment"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Fencing",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Choir": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout (Unit 1)": "Bronze"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

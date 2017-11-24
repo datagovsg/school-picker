@@ -84,7 +84,7 @@
 			"Science": "Augmenting Science Learning through Innovation",
 			"Music & Performing Arts": "Programme for Aesthetics Integration@Rosyth (PAIR)"
 		},
-		"Special Student Development Programmes Offered": "The school offers distinctive programmes in the areas of Science and the Aesthetics.  Under the auspices of the Applied Learning Programme (ALP) and Learning for Life Programme (LLP), students go through level-wide activities to broaden their learning in the two focused areas.  Those with the aptitude or interest may also progress to our customized activities for more in-depth learning.  In the area of Science, for instance, students go through a range of activities from life-sciences, use of customized gadgets to investigate scientific concepts, to the application of theories in the design of toys.  Platforms have also been provided for students to apply their learning in the creation of toys/artefacts using science concepts, which are subsequently sold to raise funds for selected beneficiaries.    With regard to the development of Aesthetics, students are exposed to voice-training, dance, playing of musical instruments, to the use of ICT for manga art and 2D animations.  Through the programme, students are exposed to an array of alternative platforms to express their thoughts and ideas.  It is hoped that through the wide range of offerings and the strong foundation that is laid, Rosythians will acquire a broad and deep foundation for a lifelong and life-deep learning."
+		"Special Student Development Programmes Offered": "The school offers distinctive programmes in the areas of Science and the Aesthetics.  Under the auspices of the Applied Learning Programme (ALP) and Learning for Life Programme (LLP), students go through level-wide activities to broaden their learning in the two focused areas.  Those with the aptitude or interest may also progress to our customized activities for more in-depth learning."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -1153,7 +1153,92 @@
 					"Scout": "Bronze"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"3rd",
+						"1st",
+						"4th",
+						"2nd"
+					],
+					[
+						"Tennis",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category C": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Silver",
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "555855"

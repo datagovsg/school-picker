@@ -24,9 +24,21 @@
 			"Miss Sharon Clarissa Lee Hui Chin",
 			"Miss Choong Pei Chin"
 		],
-		"School Vision": "Mindful Learners, Making a Difference Guided by strong values, students will take ownership of their learning and have the courage to change and adapt to the VUCA environment. With the emphasis on Social Emotional Learning (SEL) competencies, students will become lifelong learners through their self-awareness, self-management and social awareness. They will continue to build on their knowledge and skills and apply their learning through relationship management and responsible decision making so as to contribute positively and meaningfully to the family, community and nation.",
-		"School Mission": "Moulding Lives, Inspiring Learning We are committed to:  - Developing students who are rooted in values and morally upright.  - Nurturing staff and students to become self-directed learners and discover their passion for learning within a caring, safe, secure and supportive environment.  - Leading, caring and inspiring our students to be the best that they can be.",
-		"School Philosophy, Culture and Ethos": "We are guided by our 3 beliefs - that 'Every Student Learns', 'Every Staff Cares' and 'Every Partner Supports'. The school places great emphasis on the wellbeing of our students, and our staff are dedicated to ensuring that students' needs are seen to so that they can learn the best way possible. Over the years, the school has forged strong partnerships with both internal and external stakeholders and these partnerships provide strong support for our students.   Through the holistic education offered at MPS, we hope that all staff and students who pass through the gates of MPS will live up to the school's motto of Nobility in Aspiration, Honorable in Character, Excellent in Spirit, and above all, Love.",
+		"School Vision": [
+			"Mindful Learners, Making a Difference",
+			"Guided by strong values, students will take ownership of their learning and have the courage to change and adapt to the VUCA environment. With the emphasis on Social Emotional Learning (SEL) competencies, students will become lifelong learners through their self-awareness, self-management and social awareness. They will continue to build on their knowledge and skills and apply their learning through relationship management and responsible decision making so as to contribute positively and meaningfully to the family, community and nation."
+		],
+		"School Mission": [
+			"Moulding Lives, Inspiring Learning",
+			"We are committed to: ",
+			"- Developing students who are rooted in values and morally upright. ",
+			"- Nurturing staff and students to become self-directed learners and discover their passion for learning within a caring, safe, secure and supportive environment. ",
+			"- Leading, caring and inspiring our students to be the best that they can be."
+		],
+		"School Philosophy, Culture and Ethos": [
+			"We are guided by our 3 beliefs - that 'Every Student Learns', 'Every Staff Cares' and 'Every Partner Supports'. The school places great emphasis on the wellbeing of our students, and our staff are dedicated to ensuring that students' needs are seen to so that they can learn the best way possible. Over the years, the school has forged strong partnerships with both internal and external stakeholders and these partnerships provide strong support for our students. ",
+			"Through the holistic education offered at MPS, we hope that all staff and students who pass through the gates of MPS will live up to the school's motto of Nobility in Aspiration, Honorable in Character, Excellent in Spirit, and above all, Love."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -70,7 +82,7 @@
 			"Sports & Outdoor Education": "Learn, Love, Lead through Sports (3L Sports)",
 			"Music & Performing Arts": "Ethnic Music Appreciation and Talent Development through Angklung, Kulintang and Gamelan Ensemble"
 		},
-		"Special Student Development Programmes Offered": "The school's LLP is in Sports, and the objectives of this LLP are:  - To promote active participation in physical activities and inculcate a lifelong love for sports and the outdoors;  - To build 21st century competencies (21CC), develop character and strengthen racial harmony; and  - To provide avenues for student leadership.   Through the range of learning opportunities provided during PE lessons, sports modules and CCAs, we hope that all students will Learn, Love and Lead through sports. Character and Citizenship Education (CCE), values, 21CC and Social-Emotional Learning (SEL) competencies will also be integrated through these instructional platforms."
+		"Special Student Development Programmes Offered": "The school's LLP is in Sports, and the objectives of this LLP are: "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -268,6 +280,41 @@
 					"year": "2016",
 					"category": "Art - Category C",
 					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Gamelan",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -313,6 +360,16 @@
 				},
 				{
 					"year": "2016",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
 					"category": "Girls' Brigade",
 					"award": "Gold"
 				}

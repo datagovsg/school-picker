@@ -19,14 +19,17 @@
 	"bus": "156 , 159 , 161 , 371 , 372 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Quah Li Ling Mae",
-		"Vice Principal": [
-			"Mr Loh Bin",
-			"Mdm Lim Sheue Tyug"
-		],
+		"Vice Principal": "Mdm Lim Sheue Tyug",
 		"Vice Principal (Admin)": "Mr See Chay Meng",
 		"School Vision": "An innovative school where inspiring educators nurture passionate learners of integrity.",
 		"School Mission": "To foster the cognitive, physical, moral, aesthetic and social growth of Students.",
-		"School Philosophy, Culture and Ethos": "Nan Chiau Primary School is an affiliated school of the Singapore Hokkien Huay Kuan (SHHK). Embracing tradition as a Singapore Hokkien Huay Kuan school, the school emphasises on the four core values of 'Respect', 'Responsibility', 'Sincerity' and 'Perseverance' as it continually looks to prepare its students for the future.  Aligned to SHHK's philosophy, the school is guided by its mission \"To foster the moral, cognitive, physical, social, and aesthetic growth of students\" to achieve its vision \"An innovative school where inspiring educators nurture passionate learners of integrity\".   The school has established systems and structures to support its mission of fostering the holistic growth of its students. Leveraging its passionate and dedicated staff, the school has made Information, Communication and Technology (ICT) its niche, equipping students the necessary competencies and skills for the 21st century by affording ICT in its curriculum.   The school's efforts in leading research through ICT were recognised when it became the North Zone Centre of Excellence for ICT and a Microsoft Mentor School through the Microsoft's Innovative Schools Programme in 2010. This was further cemented with the school's achievement of the FutureSchool status in 2011. The school became one of the Microsoft World Tour Schools in 2012 and Microsoft Showcase Schools in 2014 and 2016 as part of the global Microsoft Partners-in-Learning Innovative Schools Programme.  Over the years, the school has emphasised in holistic education for its students preparing them to be future-ready yet grounded by sound moral values. This effort has been recognised by the Ministry of Education for its Best Practices in Teaching and Learning, Partnership and Staff Well-being & Development and has been conferred the School Distinctive Award in 2016.",
+		"School Philosophy, Culture and Ethos": [
+			"Nan Chiau Primary School is an affiliated school of the Singapore Hokkien Huay Kuan (SHHK). Embracing tradition as a Singapore Hokkien Huay Kuan school, the school emphasises on the four core values of 'Respect', 'Responsibility', 'Sincerity' and 'Perseverance' as it continually looks to prepare its students for the future.",
+			"Aligned to SHHK's philosophy, the school is guided by its mission \"To foster the moral, cognitive, physical, social, and aesthetic growth of students\" to achieve its vision \"An innovative school where inspiring educators nurture passionate learners of integrity\". ",
+			"The school has established systems and structures to support its mission of fostering the holistic growth of its students. Leveraging its passionate and dedicated staff, the school has made Information, Communication and Technology (ICT) its niche, equipping students the necessary competencies and skills for the 21st century by affording ICT in its curriculum. ",
+			"The school's efforts in leading research through ICT were recognised when it became the North Zone Centre of Excellence for ICT and a Microsoft Mentor School through the Microsoft's Innovative Schools Programme in 2010. This was further cemented with the school's achievement of the FutureSchool status in 2011. The school became one of the Microsoft World Tour Schools in 2012 and Microsoft Showcase Schools in 2014 and 2016 as part of the global Microsoft Partners-in-Learning Innovative Schools Programme.",
+			"Over the years, the school has emphasised in holistic education for its students preparing them to be future-ready yet grounded by sound moral values. This effort has been recognised by the Ministry of Education for its Best Practices in Teaching and Learning, Partnership and Staff Well-being & Development and has been conferred the School Distinctive Award in 2016."
+		],
 		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -77,7 +80,7 @@
 			"Chinese Ldds",
 			"Eldds",
 			"Environmental Club",
-			"Inno Science Club"
+			"Innoscience Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -85,7 +88,7 @@
 			"Interdisciplinary": "Applied Learning@NCPS through Project Work",
 			"Sports & Outdoor Education": "Enhancing physical, cognitive, moral and social growth through basketball"
 		},
-		"Special Student Development Programmes Offered": "The vision of becoming an 'innovative school' with 'passionate learners of integrity' provides the impetus for Student-centric 21st Century Competencies (21CC) Curriculum which includes programmes for academic and non-academic development of our students.  The school customises its curriculum and provides a wide range of learning experiences.  Differentiated support in the form of strategies and programmes to cater to differing student readiness is in place, such as Extended Learning Support (ELS) programme and Bi-Cultural Chinese Elective Programme (BiCEP).  In the academic domain, the school offers ICT-enabled learning platforms promoting collaborative learning and development of self-directed learners in the learning of academic subjects, such as I.M Learning (English), MyCLOUD (Chinese Language), Seamless Learning (Science), RC2 (Mathematics) and Idea Garden (Social Studies).  Applied Learning@NCPS focuses on the inculcation of thinking skills, ICT skills and cyber-wellness. It builds on the foundation of knowledge and skills acquired from the core curriculum into specifically designed modules for all students to develop in them 21CC.  The non-academic development of the students is achieve through school-wide programmes offered to all students. The students Values in Action (VIA) programmes support students' development as responsible citizens through the application of skills, values and knowledge acquired.  Student leadership development is the school's effort to develop every student to be a leader. Opportunities and platforms will be provided for students to serve the school and community either as individuals or members of a CCA or as Prefects.  To further cultivate students' development in the Civic Literacy, Global Awareness and Cross-cultural Skills (CGC), the school offers the Cultural Awareness Programme (CAP) which students are exposed to interactions with students from oversea visiting the school or visiting oversea schools at Primary 5."
+		"Special Student Development Programmes Offered": "The vision of becoming an 'innovative school' with 'passionate learners of integrity' provides the impetus for Student-centric 21st Century Competencies (21CC) Curriculum which includes programmes for academic and non-academic development of our students."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -105,6 +108,9 @@
 				]
 			},
 			"2016": {
+				"School Distinction Awards": "SDA"
+			},
+			"2017": {
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
@@ -197,6 +203,26 @@
 						"Junior"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -262,6 +288,26 @@
 				},
 				{
 					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
 				}

@@ -97,7 +97,7 @@
 			"Languages & Humanities": "iTHink -- the HILDAN Approach to Learning the English Language",
 			"Sports & Outdoor Education": "Develop the Whole Person through Sports"
 		},
-		"Special Student Development Programmes Offered": "The school's Applied Learning Programme 'iTHink' integrates the acquisition of Thinking Skills with the learning of the English Language.  Through thinking approaches such as 'Paul's Wheel of Reasoning' and thinking routines like 'See-Think-Wonder', Hildans will be developed to be Critical & Inventive Thinkers and to be more proficient users of the English Language. The Learning for Life Programme (LLP) aims to nurture the Whole Person through Sports via the 3E (Exposure, Experience & Extension) approach to engage the Head (cognitive), Heart (emotion), Body (psychomotor) and Hands (service).  Hildans will acquire not only physical skills through individual and team sports such as Volleyball (the school has emerged National Champion for many years) but also values of integrity, teamwork and resilience to shape them in character.  One of the highlights of the LLP is the OBS Camp. The school offers Direct School Admission through our Sports CCAs."
+		"Special Student Development Programmes Offered": "The school's Applied Learning Programme 'iTHink' integrates the acquisition of Thinking Skills with the learning of the English Language.  Through thinking approaches such as 'Paul's Wheel of Reasoning' and thinking routines like 'See-Think-Wonder', Hildans will be developed to be Critical & Inventive Thinkers and to be more proficient users of the English Language."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -111,6 +111,9 @@
 				"Development Award": "DA (Character Development)"
 			},
 			"2016": {
+				"School Distinction Awards": "SDA"
+			},
+			"2017": {
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
@@ -363,6 +366,116 @@
 						"'C' Div"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -455,6 +568,36 @@
 					"year": "2016",
 					"category": "Ensemble - Handbell / Handchime",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -515,6 +658,26 @@
 				},
 				{
 					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "NCDCC",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "NPCC (Land)",
 					"award": "Gold"
 				}

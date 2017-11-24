@@ -21,7 +21,10 @@
 		"Vice Principal (Admin)": "MR TOH WEE BENG",
 		"School Vision": "Dynamic Thinkers. Inspiring Leaders. Contributing Citizens. One Learning Community.",
 		"School Mission": "Building Character, Nurturing Talents",
-		"School Philosophy, Culture and Ethos": "In Greenridge Secondary School, we believe that every child matters and everyone can \"Learn, Improve and Excel\".  As one learning community with a strong culture of excellence, care, collaboration and reflection, we aim to develop every Greenridgean to be a dynamic thinker, an inspiring leader and a contributing citizen. Our Greenridgeans will develop the capacity for good thinking, the ability to manage self and others well and the resolve to lead their life with a clear sense of purpose and a strong desire to contribute to the larger good of the community and nation.",
+		"School Philosophy, Culture and Ethos": [
+			"In Greenridge Secondary School, we believe that every child matters and everyone can \"Learn, Improve and Excel\". ",
+			"As one learning community with a strong culture of excellence, care, collaboration and reflection, we aim to develop every Greenridgean to be a dynamic thinker, an inspiring leader and a contributing citizen. Our Greenridgeans will develop the capacity for good thinking, the ability to manage self and others well and the resolve to lead their life with a clear sense of purpose and a strong desire to contribute to the larger good of the community and nation."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -571,7 +574,68 @@
 					"Scout (Unit 1)": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Drama - English (2nd Entry)": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Scout (Unit 1)": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

@@ -205,7 +205,17 @@
 					"Scout (Unit 1)": "Silver"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"SYF Arts Presentation": {
+					"Choir": "Distinction",
+					"Dance - Chinese": "Accomplishment",
+					"Drama - English": "Distinction"
+				},
+				"Best Unit Award": {
+					"Scout (Unit 1)": "Silver"
+				}
+			}
 		},
 		"Junior College": {
 			"2005": {},
@@ -267,7 +277,16 @@
 					"Ensemble - Strings": "Accomplishment"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Gamelan": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

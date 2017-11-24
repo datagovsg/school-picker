@@ -24,7 +24,10 @@
 		"Vice Principal (Admin)": "MDM TAY PUA HONG JODIE",
 		"School Vision": "Learning beyond Borders, Caring beyond Self",
 		"School Mission": "We nurture passionate learners, strong in character.",
-		"School Philosophy, Culture and Ethos": "New Town Primary provides a nurturing and holistic education through our unique brand of education that empowers our students to grow into confident, self-directed individuals and caring citizens. Built upon the School's Philosophy that Every Child can Learn and wants to Learn, the school focuses on providing differentiated learning experiences for each and every child to help them discover and hone their many passions and pursuits.  Beyond academic excellence, the school is committed to inculcate sound values in our students to be active contributors to the society. There is a pervasive culture of care in the school with strong emphasis on character development and nurturing a growth mindset. Our students are given opportunities to work in teams. The school has grown over the years and done well in many aspects due to a team of dedicated and caring staff, supportive parents, alumni and the school advisory committee.",
+		"School Philosophy, Culture and Ethos": [
+			"New Town Primary provides a nurturing and holistic education through our unique brand of education that empowers our students to grow into confident, self-directed individuals and caring citizens. Built upon the School's Philosophy that Every Child can Learn and wants to Learn, the school focuses on providing differentiated learning experiences for each and every child to help them discover and hone their many passions and pursuits.",
+			"Beyond academic excellence, the school is committed to inculcate sound values in our students to be active contributors to the society. There is a pervasive culture of care in the school with strong emphasis on character development and nurturing a growth mindset. Our students are given opportunities to work in teams. The school has grown over the years and done well in many aspects due to a team of dedicated and caring staff, supportive parents, alumni and the school advisory committee."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -82,7 +85,7 @@
 		"School Distinctive Programmes": {
 			"Community Service & Student Leadership": "A Leader in Every Child"
 		},
-		"Special Student Development Programmes Offered": "Student Leadership Programme In NTPS, we put values education at the centre of what we do. Based on our school motto \"Ready to Serve\", our 6-year Student Leadership Programme is grounded in character as the core foundation. A key feature of the programme is the opportunity for all students to take up a leadership position.  The range of leadership opportunities, varying in skills and impact, include Line Monitors at the lower primary level, Subject Monitors at the middle primary and House Leaders at the upper primary level. As we believe that leadership is about making a positive difference in one's sphere of influence, our student leaders engage in projects that create a positive social change in the home (P1&2), school (P3&4) and the community (P5&6). Guided by the framework of the leadership gurus, Kouzes & Posner, our students learn The 5 Practices of Exemplary Leadership - \"Model the Way\", \"Inspire a Shared Vision\", \"Challenge the Process\", \"Enable Others to Act\" and \"Encourage the Heart\". Through the trainings and opportunities, our students develop self and team leadership skills as they work with one another toward their shared goals.  Learn@NTPS Our curriculum nurtures a sense of wonder in our students. Apart from building a strong foundation in literacy and numeracy, we encourage students to explore and develop their interests. They include: Speech & Drama, \"How Things Work\", Math Olympiads and Excellence-2000 (Math & Science enrichment programme). Our students have experimented with the different ways a boat can be constructed, and explored the different vegetables Singapore could grow in times of food shortage.  Through our \"Cultural Connections Programme\" with schools in China and Southeast Asia, they have learnt to appreciate the diversity of different cultures. Our 22 CCAs, ranging from Robotics, International Dance, to Netball and Red Cross, have enabled our students to develop sportsmanship, appreciate beauty and find a voice."
+		"Special Student Development Programmes Offered": "Student Leadership Programme"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -228,7 +231,18 @@
 					"Dance - Malay": "Accomplishment"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band-Brass Ensemble": "Accomplishment",
+					"Band-Percussion Ensemble": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment"
+				}
+			}
 		}
 	},
 	"postalCode": "148812"

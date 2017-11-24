@@ -20,7 +20,10 @@
 		"Vice Principal": "MS TNG YA WEN VALERIE",
 		"Vice Principal (Admin)": "MR HSU YU CHIH TOMMY",
 		"School Vision": "A Forward-looking Community of Learners, Thinkers and Leaders",
-		"School Mission": "Nurturing Talents to Achieve Success. The MI mission is to nurture our students to be grounded on the core values of INTEGRITY, RESILIENCE, RESPECT and RESPONSIBILITY, so that they succeed as contributing members of society.  This is done, in partnership with our stakeholders, by providing a variety of programmes and opportunities to students to have a broad-based learning experience and space to pursue their passion and interests.",
+		"School Mission": [
+			"Nurturing Talents to Achieve Success.",
+			"The MI mission is to nurture our students to be grounded on the core values of INTEGRITY, RESILIENCE, RESPECT and RESPONSIBILITY, so that they succeed as contributing members of society.  This is done, in partnership with our stakeholders, by providing a variety of programmes and opportunities to students to have a broad-based learning experience and space to pursue their passion and interests."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / FULL DAY",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable",
@@ -536,7 +539,61 @@
 					"Ensemble - Angklung / Kulintang": "Distinction"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)",
+					"PARTNERS (Merit)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Hockey",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Commendation",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Drama - Chinese": "Commendation",
+					"Drama - English": "Distinction",
+					"Drama - Malay": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Distinction"
+				}
+			}
 		}
 	},
 	"L1R5History": {

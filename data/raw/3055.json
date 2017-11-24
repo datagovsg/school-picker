@@ -20,7 +20,12 @@
 		"Principal": "MR TAN KENG JOO",
 		"Vice Principal": "MRS SHAIMA ANSHAD",
 		"Vice Principal (Admin)": "MR STEVEN ANG",
-		"School Vision": "A Community of Passionate Learners and Compassionate Leaders. As a school, we are a caring community with shared values and purpose. As passionate learners, we are self-directed, resilient and have a love of learning. As compassionate leaders, we are empathetic, humble and act with integrity.",
+		"School Vision": [
+			"A Community of Passionate Learners and Compassionate Leaders.",
+			"As a school, we are a caring community with shared values and purpose.",
+			"As passionate learners, we are self-directed, resilient and have a love of learning.",
+			"As compassionate leaders, we are empathetic, humble and act with integrity."
+		],
 		"School Mission": "To nurture students holistically and develop them to be active citizens.",
 		"School Philosophy, Culture and Ethos": "Character development is a top priority in Chua Chu Kang Sec School. The school believes that a sound and strong character must come first, for it lays the very foundation for success in every endeavour. The school continues to improve its heart-ware to enable all students to imbibe and demonstrate the school values of Managing Self, Putting Others before Self, and Striving to Excel. Students are nurtured to have a passion for learning and the requisite skills to be self-directed and collaborative learners in order to realise their full potential. Students are developed into compassionate leaders to serve the school, community and nation. Through service, they grow and excel. A strong, caring and collaborative culture amongst staff and students uniquely holds the school together.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
@@ -857,7 +862,80 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Gold",
+					"Ncc (Sea Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

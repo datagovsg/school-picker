@@ -24,7 +24,11 @@
 		"Vice Principal (Admin)": "Mdm Tay Yam Eng",
 		"School Vision": "A Caring and Creative Learning Community in the Pursuit of Excellence",
 		"School Mission": "To nurture every child to his best.",
-		"School Philosophy, Culture and Ethos": "First Toa Payoh Primary School (FTPPS) was established in 1968 at Lorong 1, Toa Payoh.  On 2 January 2002, the school was relocated to its current premise at Lorong 8, Toa Payoh. Being the first school in Toa Payoh, the school retained its distinctive name.   FTPPS believes that Every Child Matters and Deserves an Education. It is with this belief that we partner our key stakeholders in our mission to nurture every student in FTPPS to his best potential and to realise the school vision of  a caring and creative learning community in the pursuit of excellence.  In all our endeavours, we anchor in our school values of Respect, Responsibility, Love, Integrity and Perseverance (R2 LIP). The school strives to unleash the potential of every student in FTPPS through joy for learning.",
+		"School Philosophy, Culture and Ethos": [
+			"First Toa Payoh Primary School (FTPPS) was established in 1968 at Lorong 1, Toa Payoh.  On 2 January 2002, the school was relocated to its current premise at Lorong 8, Toa Payoh. Being the first school in Toa Payoh, the school retained its distinctive name.",
+			"FTPPS believes that Every Child Matters and Deserves an Education. It is with this belief that we partner our key stakeholders in our mission to nurture every student in FTPPS to his best potential and to realise the school vision of  a caring and creative learning community in the pursuit of excellence.",
+			"In all our endeavours, we anchor in our school values of Respect, Responsibility, Love, Integrity and Perseverance (R2 LIP). The school strives to unleash the potential of every student in FTPPS through joy for learning."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -69,7 +73,7 @@
 		"School Distinctive Programmes": {
 			"Visual Arts & Design": "FIRST Clicks – Literacy Through Photography (LTP)"
 		},
-		"Special Student Development Programmes Offered": "FTPPS endeavours to deliver a student centric, values driven education to enable them to attain the 4 FTPPS Student Outcomes - a confident person, a self-directed learner, an active contributor and a concerned citizen.  In Literacy through Photography(LTP), which is the school's Learning for Life Programme, we aim to nurture students to be self-directed and confident learners who are ICT savvy and can articulate their thoughts and inspirations through their photographs. LTP also seeks to develop active contributors who can cooperate and collaborate in teams during the photography sessions and nurture concerned citizens who are able to portray green efforts and raise awareness of the environment through photography.  The school believes in \"Every Student, A Leader\" -our guiding principle behind our student leadership programme where we nurture the leadership potential of every child. Our student leadership training programme focuses on equipping our students with the emerging 21st century competencies.  The school has a structured 6-year Values-in-Action(VIA) programme that engages students in authentic experiences. Leveraging the expanding environment approach to maximise learning impact, the programme allows students to learn progressively from first contributing to their homes, then to the school, and finally to the community and beyond.  An experiential approach is adopted for the promotion of nature conservation through our Environmental Education Programme- GoGreen@FTPPS. Students learn about Reduce, Reuse and Recycle through hands-on activities, outdoor camps and collaborative programmes with our stakeholders.  Our Global-Local Exchange Programme aims to give our students a head start in broadening their worldview, developing the ability to work with people from diverse cultural backgrounds and instilling in them a sense of commitment and rootedness to Singapore. Our students have the opportunities to participate in learning journeys to Hong Kong and Malacca."
+		"Special Student Development Programmes Offered": "FTPPS endeavours to deliver a student centric, values driven education to enable them to attain the 4 FTPPS Student Outcomes - a confident person, a self-directed learner, an active contributor and a concerned citizen."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -190,6 +194,16 @@
 						"Senior"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -282,6 +296,41 @@
 					"year": "2016",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -344,6 +393,26 @@
 					"year": "2016",
 					"category": "Scout",
 					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Brownies (Pack 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Gold"
 				}
 			]
 		}

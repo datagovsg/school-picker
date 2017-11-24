@@ -19,10 +19,7 @@
 	"bus": "51 , 66 , 66B , 78 , 79 , 97 , 97A , 98 , 105 , 105B , 143 , 176 , 197 , 333 , 334 , 335 , 506 ",
 	"GeneralInformation": {
 		"Principal": "Mr Phua Kia Wang",
-		"Vice Principal": [
-			"Mdm Tan Siew Khian Finella",
-			"Mdm Teo Siew Khim"
-		],
+		"Vice Principal": "Mdm Teo Siew Khim",
 		"Vice Principal (Admin)": "Mr Chua Gim Hong",
 		"School Vision": "EVERY CHILD A LIFELONG LEARNER, RESPONSIBLE LEADER AND GRACIOUS CITIZEN.",
 		"School Mission": "TO CREATE A VIBRANT LEARNING COMMUNITY WHERE EVERY INDIVIDUAL WILL EXPERIENCE SUCCESS.",
@@ -175,6 +172,36 @@
 					"year": "2016",
 					"category": "Dance - International",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Brass",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -195,6 +222,16 @@
 				},
 				{
 					"year": "2016",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
 					"category": "Scout",
 					"award": "Gold"
 				}

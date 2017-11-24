@@ -70,7 +70,7 @@
 		"School Distinctive Programmes": {
 			"Music & Performing Arts": "MELODY@PEI TONG"
 		},
-		"Special Student Development Programmes Offered": "Melody@Pei Tong (LLP) aims to make learning of music fun and enjoyable so that students will continue to learn and appreciate music throughout their lives. Music lessons are enriched through the \"Engaging with Songs\" programme and creative music-making.   Programme for Active Leaning develops the social and emotional competencies in P1 and P2 students through fun and varied activities.  It is experiential in nature, encompasses learning in a creative way and incorporates values education.  All P3 to P6 students participate in co-curricular activities to allow them to pursue their passions and interests outside the classrooms and provide opportunities for interaction among students from different races, classes and levels.   School leverages technologies to create a stimulating learning experience for students. All classrooms are equipped with Interactive Whiteboards. For P5 and P6, laptops and iPads are used in the wireless environment to promote self-directed and collaborative learning.   CCE A.L.I.V.E! (school-based values education programme), provides opportunities for students to take ownership of their Values in Action experiences through teacher's facilitation and reflections after execution."
+		"Special Student Development Programmes Offered": "Melody@Pei Tong (LLP) aims to make learning of music fun and enjoyable so that students will continue to learn and appreciate music throughout their lives. Music lessons are enriched through the \"Engaging with Songs\" programme and creative music-making. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -127,6 +127,46 @@
 				},
 				{
 					"year": "2016",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
 					"category": "Rugby",
 					"subCategory": [
 						"Zone",
@@ -211,6 +251,31 @@
 					"year": "2016",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -243,6 +308,16 @@
 					"year": "2016",
 					"category": "Girls' Brigade",
 					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Bronze"
 				}
 			]
 		}

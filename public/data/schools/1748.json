@@ -23,7 +23,19 @@
 		],
 		"School Vision": "Passionate Learners, Confident Leaders",
 		"School Mission": "A vibrant school where we strive to do our best",
-		"School Philosophy, Culture and Ethos": "School Philosophy Every West Viewan, A Talented Pupil  School Motto Aim High  Values I-CARE Integrity to uphold   Commitment to learning  Aspiration to achieve Responsibility, our personal growth Excellence, our pursuit",
+		"School Philosophy, Culture and Ethos": [
+			"School Philosophy",
+			"Every West Viewan, A Talented Pupil",
+			"School Motto",
+			"Aim High",
+			"Values",
+			"I-CARE",
+			"Integrity to uphold  ",
+			"Commitment to learning ",
+			"Aspiration to achieve",
+			"Responsibility, our personal growth",
+			"Excellence, our pursuit"
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -66,7 +78,7 @@
 			"Interdisciplinary": "Innovations through Problem Solving Approaches",
 			"Music & Performing Arts": "ACE the Arts (Appreciate, Create, Explore to Excel)"
 		},
-		"Special Student Development Programmes Offered": "STRIVE@WVPS is a signature programme designed for our primary 3 to 6 pupils. It is a school-based modular CCA programme for P3 to P6. It aims to make schooling an exciting and enjoyable experience for pupils. It focuses on real-life experimental learning to develop pupils' character and values. It serves to broaden pupils' learning in authentic settings that can further challenge them to grow and develop. As pupils enjoy learning, they will be motivated and poised to strive for excellence cognitively, aesthetically, physically and socio-emotionally.   The Da Vinci Programme is specially customised for high-achieving learners from P3 to P6 classes. Its main objectives are to develop pupils' intellectual depth and promote higher-order thinking skills. The school sees the importance of developing programmes that cater to the individual needs and abilities of pupils. These pupils who have the potential and ability must be maximised to stretch and achieve their highest level.  As such, these pupils are given an enriched curriculum that is pitched to challenge and stretch them. This enriched curriculum is built on the regular curriculum.  In this school, we believe that every child has potential and is an agent of change; every West Viewan is a Leader. Hence, we sensitise our pupils as caring individuals to the developments taking place around them and educate them for the future through The Leader In Me programme. Content from The 7 Habits of Highly Effective People forms that key component of the overall student learning and development process in the school. It reminds our pupils to embrace personal responsibility to become good in their endeavour. It requires them to understand the importance of learning and gaining knowledge for personal growth, having a growth mindset and commitment to learning. They take pride in who they are and what they can achieve on their own and with others."
+		"Special Student Development Programmes Offered": "STRIVE@WVPS is a signature programme designed for our primary 3 to 6 pupils. It is a school-based modular CCA programme for P3 to P6. It aims to make schooling an exciting and enjoyable experience for pupils. It focuses on real-life experimental learning to develop pupils' character and values. It serves to broaden pupils' learning in authentic settings that can further challenge them to grow and develop. As pupils enjoy learning, they will be motivated and poised to strive for excellence cognitively, aesthetically, physically and socio-emotionally. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -153,6 +165,36 @@
 						"Senior"
 					],
 					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -230,6 +272,41 @@
 					"year": "2016",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -245,6 +322,11 @@
 				},
 				{
 					"year": "2016",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "Scout",
 					"award": "Gold"
 				}

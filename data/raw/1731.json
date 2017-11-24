@@ -23,7 +23,10 @@
 		],
 		"School Vision": "A Self Directed Learner,A Gracious Citizen",
 		"School Mission": "To provide a vibrant environment that nurtures minds and builds character",
-		"School Philosophy, Culture and Ethos": "We believe that every child is of worth and can learn.  Through a balanced education and a supportive environment, every Xingnanian can reach his/her highest potential.",
+		"School Philosophy, Culture and Ethos": [
+			"We believe that every child is of worth and can learn. ",
+			"Through a balanced education and a supportive environment, every Xingnanian can reach his/her highest potential."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -582,7 +585,78 @@
 					"Scout": "Silver"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band-Brass": "Distinction",
+					"Band-Percussion Ensemble": "Accomplishment",
+					"Choir": "Commendation",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "649036"

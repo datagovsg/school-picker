@@ -26,8 +26,14 @@
 		],
 		"Vice Principal (Admin)": "Mdm Lim Bee Tin",
 		"School Vision": "A Gracious Community of Confident and Innovative Life-Long Learners.",
-		"School Mission": "Igniting the Joy of Learning, Inspiring All to Care and Share.",
-		"School Philosophy, Culture and Ethos": "Our philosophy is \"Every Individual Matters\". This is based on the basic tenet that everyone has an importanht role to play in the pupils' education.  With the firm believe that every teacher cares and wants to inspire, the school spares no efforts to build the capacity of our teachers so that they are competent and effective in moulding the young minds.  This is complemented by the belief that every child can learn, excel and has interest and talents. Hence, we strive to ignite the joy of learning in the pupils and provide rich programmes to develop the pupils holistically. All our decisions and actions  are guided by our school's core values - Self-discipline, Teamwork, Affection and Resposibility (STAR).   Having achieved good holistic outcomes in the last few years through a culture of care and collaboration, the school hopes to augment a culture of excellence, where both staff and pupils constantly challenge themselves to be better than what they already are. We hope to achieve this by reietrating a Champion Mindset in every one - a minsdet that sees failures as learning opportunities to grow and develop and hence is not easily daunted by adversities. Instead, in the face of challenges and setbacks, staff and pupils will persevere and try again until they succeed. At the end of the day, we aspire that every staff and pupil will be a Gracisous Citizen, a Confident Leader, an Innovative Team player and a Lifelong Learner.",
+		"School Mission": [
+			"Igniting the Joy of Learning,",
+			"Inspiring All to Care and Share."
+		],
+		"School Philosophy, Culture and Ethos": [
+			"Our philosophy is \"Every Individual Matters\". This is based on the basic tenet that everyone has an importanht role to play in the pupils' education.  With the firm believe that every teacher cares and wants to inspire, the school spares no efforts to build the capacity of our teachers so that they are competent and effective in moulding the young minds.  This is complemented by the belief that every child can learn, excel and has interest and talents. Hence, we strive to ignite the joy of learning in the pupils and provide rich programmes to develop the pupils holistically. All our decisions and actions  are guided by our school's core values - Self-discipline, Teamwork, Affection and Resposibility (STAR). ",
+			"Having achieved good holistic outcomes in the last few years through a culture of care and collaboration, the school hopes to augment a culture of excellence, where both staff and pupils constantly challenge themselves to be better than what they already are. We hope to achieve this by reietrating a Champion Mindset in every one - a minsdet that sees failures as learning opportunities to grow and develop and hence is not easily daunted by adversities. Instead, in the face of challenges and setbacks, staff and pupils will persevere and try again until they succeed. At the end of the day, we aspire that every staff and pupil will be a Gracisous Citizen, a Confident Leader, an Innovative Team player and a Lifelong Learner."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -85,7 +91,7 @@
 			"Interdisciplinary": "GreeNovation @ PPS",
 			"Sports & Outdoor Education": "SEL & character development Through Active paRticipation in Sports (S.T.A.R.S.)"
 		},
-		"Special Student Development Programmes Offered": "The school's Learning for Life Programme is  \"Social-emotional learning and character building Through Active Participation in Sports\" ( S.T.A.R.S.).  Aligned to our STAR values, the S.T.A.R.S. programme aims to use mass participation in sports and outdoor activities as a platform to build character and develop social-emotional competencies in all our pupils. We strongly believe that sports and games provide an excellent platform for our pupils to learn and practice teamwork, goal-setting, determination and good sportsmanship. Through games, the pupils get to experience the triumphs of success and the agonies of defeat; and in the process learn the important value of resilience. We firmly believe that these skills and values will put our pupils in good stead when faced with life's challenges in the future.   The school's Applied Learning Programme, \"GreeNovation@PPS\" promotes green education, encouraging the pupils to tackle environmental issues confronting the world today through innovative thinking.  In line with the school's mission and vision, the school seeks to leverage this programmme to hone 21CC skills through a 6-year inquiry-based interdisciplinary programme. Basic Science knowledge and process skills such as observing, comparing and classifying as well as high order thinking skills, collaborative learning and problem-solving skills are introduced progressively to generate curiosity and creativity in the young minds and ignite the joy of learning.  GreeNovation@PPS complements and extends the learning of these knowledge and skills by applying them to authentic and real-life setting. This allows the pupils to have a greater awareness of Man's impact on the environment, while at the same time provide opportunities for them to work and learn from people in the community. With the school's commitment to develop the pupils holistically, the GreeNovation@PPS aspires to develop leaders of tomorrow with the heart for others."
+		"Special Student Development Programmes Offered": "The school's Learning for Life Programme is  \"Social-emotional learning and character building Through Active Participation in Sports\" ( S.T.A.R.S.).  Aligned to our STAR values, the S.T.A.R.S. programme aims to use mass participation in sports and outdoor activities as a platform to build character and develop social-emotional competencies in all our pupils. We strongly believe that sports and games provide an excellent platform for our pupils to learn and practice teamwork, goal-setting, determination and good sportsmanship. Through games, the pupils get to experience the triumphs of success and the agonies of defeat; and in the process learn the important value of resilience. We firmly believe that these skills and values will put our pupils in good stead when faced with life's challenges in the future. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -101,6 +107,9 @@
 			"2016": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": "BPA (Staff Well-Being)"
+			},
+			"2017": {
+				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
 				{
@@ -202,6 +211,46 @@
 						"Senior"
 					],
 					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -324,6 +373,56 @@
 					"year": "2016",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -354,6 +453,16 @@
 				},
 				{
 					"year": "2016",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "Girls' Brigade",
 					"award": "Gold"
 				}

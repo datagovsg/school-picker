@@ -377,7 +377,24 @@
 					"Scout (Unit 1)": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Art - Category B": "Recognition"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Silver",
+					"Ncc (Air)": "Gold",
+					"Ncdcc": "Bronze",
+					"Npcc (Land)": "Silver",
+					"Scout (Unit 1)": "Silver"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

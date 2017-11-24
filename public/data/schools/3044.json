@@ -125,6 +125,11 @@
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
 				"Development Award": "DA (National Education)"
 			},
+			"2017": {
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Development Award": "DA (National Education)"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
@@ -220,6 +225,36 @@
 				{
 					"year": "2016",
 					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
 					"award": "Distinction"
 				}
 			],
@@ -328,6 +363,41 @@
 					"year": "2016",
 					"category": "St John Ambulance Brigade",
 					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Sea)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
 				}
 			]
 		}

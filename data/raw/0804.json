@@ -20,8 +20,15 @@
 		"Principal": "MR LO KHEE TIAN MARK",
 		"Vice Principal": "MR ANG KHENG SAN CECIL",
 		"Vice Principal (Admin)": "MR CHAN KWANG HOW BERNARD",
-		"School Vision": "Home of Servant Leaders Who Bring Life To The Nations",
-		"School Mission": "Making Lives and Waking Hearts To Serve The Coming Days Family-Society-Eternity",
+		"School Vision": [
+			"Home of Servant Leaders",
+			"Who Bring Life To The Nations"
+		],
+		"School Mission": [
+			"Making Lives and Waking Hearts",
+			"To Serve The Coming Days",
+			"Family-Society-Eternity"
+		],
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / FULL DAY",
 		"Mother Tongue": "Not Available",
 		"Affiliated Schools": [
@@ -1180,7 +1187,68 @@
 					"Orchestra - Chinese": "Commendation"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Football",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition(Sm)",
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Mixed Ensemble": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - English": "Commendation",
+					"Ensemble - Guitar": "Accomplishment"
+				}
+			}
 		}
 	},
 	"L1R5History": {

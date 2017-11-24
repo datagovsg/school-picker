@@ -23,7 +23,11 @@
 		"Vice Principal (Admin)": "Mr Lee Sech Wee",
 		"School Vision": "Creative Minds, Caring Hearts",
 		"School Mission": "We shall nurture our pupils to be responsible individuals of integrity who respect others and have a passion for learning.",
-		"School Philosophy, Culture and Ethos": "We anchor our beliefs on growing the school 'from good to great' and structure our school processes through the UPS School Management Model which reflects the four principles of Quality Relationships, Building Capacity, Effective Leadership and Effective Systems. Guided by our philosophy of 'Everyone Matters', we strive to provide all students with our very own Unity experience, where we believe that all children can learn and are committed to achieving success.  Our commitment is to ensure that quality teaching and learning are the focus both in and out of classrooms. Through our CORE values of IC2R (Integrity, Courage, Respect and Responsibility), we guide our students to develop the foundations for lifelong learning, and also provide an educational experience that is both student centric and values driven. Over the years, our students have done well and their success is due to the hard work of a nurturing team of dedicated teachers and supportive parents.   Teamwork amongst staff is also our strength and it defines our work at Unity Primary. We have a strong team in place and with a shared commitment, we continue to make great things possible for all our students. Our belief that Everyone Matters is our cornerstone and this experience will be wholesome, enriching and joyful, whereby we seek to nurture every student and staff to achieve our vision of Creative Minds, Caring Hearts.",
+		"School Philosophy, Culture and Ethos": [
+			"We anchor our beliefs on growing the school 'from good to great' and structure our school processes through the UPS School Management Model which reflects the four principles of Quality Relationships, Building Capacity, Effective Leadership and Effective Systems. Guided by our philosophy of 'Everyone Matters', we strive to provide all students with our very own Unity experience, where we believe that all children can learn and are committed to achieving success.",
+			"Our commitment is to ensure that quality teaching and learning are the focus both in and out of classrooms. Through our CORE values of IC2R (Integrity, Courage, Respect and Responsibility), we guide our students to develop the foundations for lifelong learning, and also provide an educational experience that is both student centric and values driven. Over the years, our students have done well and their success is due to the hard work of a nurturing team of dedicated teachers and supportive parents. ",
+			"Teamwork amongst staff is also our strength and it defines our work at Unity Primary. We have a strong team in place and with a shared commitment, we continue to make great things possible for all our students. Our belief that Everyone Matters is our cornerstone and this experience will be wholesome, enriching and joyful, whereby we seek to nurture every student and staff to achieve our vision of Creative Minds, Caring Hearts."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay",
 		"Affiliated Schools": "Not Applicable"
@@ -76,7 +80,7 @@
 			"Languages": "CAPtivate! – Critical Thinking Accelerated Programme @ UPS",
 			"Community Service & Student Leadership": "CharGE UP! (Character Development through Green & Experiential Learning @ Unity Primary)"
 		},
-		"Special Student Development Programmes Offered": "We believe that academic pursuits and character building are complementary in nature and equally important in the holistic development of our students.  Our Applied Learning Programme (ALP), CAPtivate -Critical thinking Accelerated Programme @ UPS aims to promote reading, address linguistic fluency and comprehension. Elements of critical thinking are also infused in R.A.B.B.I.T (Read A Book Because It's Terrific), which is an important component of the programme.  The school is committed to promoting engaged learning and sound character development of our students. Our Learning for Life Programme (LLP) \"CharGE UP!' -(Character development through Green and Experiential learning @ Unity Primary) is designed with these in mind. Our I-Character programme is merged with Green@UPS, which is our environment initiative. This encapsulates our CCE efforts and they are the key drivers for the character development of our students.  We believe that learning beyond the classroom is important and opportunities are provided to our students to experience outdoor and overseas learning journeys. P4 students begin their outdoor education through the Adventure Camp at MOE Adventure Centres. The objectives of the camp experience are to foster in them resilience, ruggedness and a can-do spirit in challenging learning environments. Continuing the experience in P5, they participate in an overseas Learning Journey to Malaysia. This trip serves to inculcate values of team work, responsibility and a sense of independence with the focus on NE messages and citizenry. In P6, the learning continues with a 3-day camp with the focus on motivation, study skills and personal responsibility.  We have also incorporated CCA within curriculum time for all P3 to P6 students and at the heart of the Co-Curricular Programme is the development of values and character which is reinforced via circle time. All students belong to a CCA, reflecting our emphasis on CCAs as an integral part of holistic education."
+		"Special Student Development Programmes Offered": "We believe that academic pursuits and character building are complementary in nature and equally important in the holistic development of our students."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -174,6 +178,31 @@
 					"year": "2016",
 					"category": "Ensemble - Handbell / Handchime",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -189,6 +218,11 @@
 				},
 				{
 					"year": "2016",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "Scout",
 					"award": "Gold"
 				}

@@ -21,7 +21,12 @@
 		"Vice Principal (Admin)": "MR ANG BOON CHIN",
 		"School Vision": "Every student of Zhenghua is of good character, and is academically and culturally vibrant.",
 		"School Mission": "Through a dynamic school culture and a caring environment, every student is nurtured and his/her potential developed so that he/she grows up to be a good person and useful citizen.",
-		"School Philosophy, Culture and Ethos": "We believe that every child can learn and is capable of achieving his/ her personal best - The Best That We Can Be.  We offer a student-centric and values driven education that helps develop out students to be ready for a Volatile, Uncertain, Complex and Ambiguous (VUCA) world. At the end of our 6 year, students would be able to identify their strengths, discover their potential and not be afraid of failure.  The notion 'Staff Our Key; Students our focus' continues to be the nucleus of the school culture framework. Through culture of care, students are guided by values to do the right things, even when no one is watching. Staff are good role models and will go the extra mile whenever the need arises. Through culture of learning, students are motivated to learn, to do their personal best, engage in all school learning activities and in displaying their 21st CC skills. Staff will continually seek to improve themselves, provide a holistic learning experience for all, and will prepare students for the changing landscape. Through culture of innovation, students will be creative in thinking while staff will seek continuous improvement. The culture of collaboration will allow our students to go out to the society to learn, give back and cultivate good team values while staff will seek opportunities for professional and students' growth.  In the school vision, the term 'good character' continues to be predominantly placed before other traits to signal our school's deep rooted belief that character development is essential to become 'The best That We Can Be'. The school strives to care for the overall well-being of our students, mould their character and citizenship and to inspire self-leadership in our students.  Over the years, our students have done well in the academic and non-academic domains; attributed to the hard work of a nurturing team of dedicated teachers, committed non-teaching staff, supportive SAC, parents, community and our students' belief in themselves.",
+		"School Philosophy, Culture and Ethos": [
+			"We believe that every child can learn and is capable of achieving his/ her personal best - The Best That We Can Be.  We offer a student-centric and values driven education that helps develop out students to be ready for a Volatile, Uncertain, Complex and Ambiguous (VUCA) world. At the end of our 6 year, students would be able to identify their strengths, discover their potential and not be afraid of failure.",
+			"The notion 'Staff Our Key; Students our focus' continues to be the nucleus of the school culture framework. Through culture of care, students are guided by values to do the right things, even when no one is watching. Staff are good role models and will go the extra mile whenever the need arises. Through culture of learning, students are motivated to learn, to do their personal best, engage in all school learning activities and in displaying their 21st CC skills. Staff will continually seek to improve themselves, provide a holistic learning experience for all, and will prepare students for the changing landscape. Through culture of innovation, students will be creative in thinking while staff will seek continuous improvement. The culture of collaboration will allow our students to go out to the society to learn, give back and cultivate good team values while staff will seek opportunities for professional and students' growth.",
+			"In the school vision, the term 'good character' continues to be predominantly placed before other traits to signal our school's deep rooted belief that character development is essential to become 'The best That We Can Be'. The school strives to care for the overall well-being of our students, mould their character and citizenship and to inspire self-leadership in our students.",
+			"Over the years, our students have done well in the academic and non-academic domains; attributed to the hard work of a nurturing team of dedicated teachers, committed non-teaching staff, supportive SAC, parents, community and our students' belief in themselves."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -76,7 +81,7 @@
 		"School Distinctive Programmes": {
 			"Music & Performing Arts": "Aesthetics Appreciation through Dance Arts Education"
 		},
-		"Special Student Development Programmes Offered": "Character Education takes centre stage in the school's overall development of our students. We strongly believe in instilling a set of strong fundamental values that would serve as a moral compass to guide them in life. Values-Driven Education is infused across all IP1 and IP2 subjects. Co-Curricular Activity (CCA) is driven by 'Character, Camaraderie and Attitude' - a mindset that have led CCA groups in ZHPS to attain milestone successes in performing arts, sports, and clubs. The school Learning for Life Programme is DArE (Dance Arts Education@Zhenghua), which aims to build character, imbue the school values, inculcate a habit of graciousness, equip students with thinking skills and provide opportunities for personal excellence for all students. To promote sports education, participation and physical fitness, the school carries out Sports Education Programmes (SEP) held in collaboration with the S'pore Sports Council; with the aim to improve self-esteem, nurture our students' life skills through sports and encourage students to cultivate a lifelong interest in healthy recreational activities. To expose the students on environmental issues, the extensive \"Care for the Environment\" programme lends itself to enhancing character development through caring for others and the environment at large. Green Ambassadors and Environment Champions are selected to share on the importance of caring for the environment with their peers periodically.  The school is a firm believer that every child in ZHPS should not be denied opportunities of an Overseas Learning Experience (OLE). Through the school's OLE programmes, students are given the opportunity to have an overseas experience through cultural immersion trips or exchange programmes that contribute to the holistic development of the students by exposing them to a different environment and culture.  The 6 year experience will ensure that Every student of Zhenghua is of good character, and is academically and culturally vibrant."
+		"Special Student Development Programmes Offered": "Character Education takes centre stage in the school's overall development of our students. We strongly believe in instilling a set of strong fundamental values that would serve as a moral compass to guide them in life. Values-Driven Education is infused across all IP1 and IP2 subjects. Co-Curricular Activity (CCA) is driven by 'Character, Camaraderie and Attitude' - a mindset that have led CCA groups in ZHPS to attain milestone successes in performing arts, sports, and clubs."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -573,7 +578,72 @@
 					"Red Cross": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rugby",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Gold",
+					"Red Cross": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "679002"

@@ -20,11 +20,17 @@
 	"bus": "SBS 123 , 131 , 275 SBS 65 ",
 	"GeneralInformation": {
 		"Principal": "Mrs Wong Siew Shan",
-		"Vice Principal": "Mr Low Min Chye",
+		"Vice Principal": [
+			"Mr Low Min Chye",
+			"Mr Muhammad Farizal Bin Umar Effe"
+		],
 		"Vice Principal (Admin)": "Mr Kwok Keng Lian",
 		"School Vision": "A School Where All Work Hard, Play Hard And Make A Mark",
 		"School Mission": "To Develop Each Child Holistically, Equipping Him With Competences For The Future",
-		"School Philosophy, Culture and Ethos": "School Philosophy: We Believe that Every Child is Precious, of Worth and can Learn in an Engaging Environment with Caring and Excellent Teachers  School Culture: Culture of Care and Excellence",
+		"School Philosophy, Culture and Ethos": [
+			"School Philosophy: We Believe that Every Child is Precious, of Worth and can Learn in an Engaging Environment with Caring and Excellent Teachers",
+			"School Culture: Culture of Care and Excellence"
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -63,7 +69,6 @@
 			"Chinese Orchestra",
 			"Choir",
 			"Indian Dance",
-			"Infocomm Club",
 			"Visual Arts"
 		],
 		"Clubs & Societies": [
@@ -76,7 +81,7 @@
 		"School Distinctive Programmes": {
 			"Coding": "Nurturing 21st Century Competencies through Computational Thinking With Design Thinking"
 		},
-		"Special Student Development Programmes Offered": "Applied Learning Programme: Nurturing 21st Century Competencies through Computational Thinking With Design Thinking  Level-Based Personalised Learning, Multi-Disciplinary Project Work and School-Based Curriculum (in ICT)"
+		"Special Student Development Programmes Offered": "Applied Learning Programme: Nurturing 21st Century Competencies through Computational Thinking With Design Thinking"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -94,6 +99,9 @@
 				"School Distinction Awards": "SDA"
 			},
 			"2016": {
+				"School Distinction Awards": "SDA"
+			},
+			"2017": {
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
@@ -170,6 +178,16 @@
 				{
 					"year": "2016",
 					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
 					"subCategory": [
 						"Zone",
 						"Boys",
@@ -263,6 +281,36 @@
 					"year": "2016",
 					"category": "Dance - Indian",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -308,6 +356,21 @@
 				},
 				{
 					"year": "2016",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "Scout",
 					"award": "Gold"
 				}

@@ -21,7 +21,11 @@
 		"Vice Principal (Admin)": "MR CHAN KEN YAN MICHAEL",
 		"School Vision": "Caring Hearts, Passionate Learners; Lasallians in service of God, family and nation",
 		"School Mission": "Enabling our children to learn how to learn and to learn how to live,to become persons of integrity and persons for others in God's service",
-		"School Philosophy, Culture and Ethos": "The culture of St Anthony's Primary School is undergirded by the Lasallian ethos and philosophy in line with our mission, and is anchored on Lasallian values.  As members of a Lasallian community, we 'work together and by association' to bring out the best in the children confided to our care. We achieve this by providing a holistic education that focuses on the intellectual, physical, aesthetic, spiritual and social-emotional aspects of growth.  Through our work, pupils see the integration of their learning and a higher purpose in their lives.   Fundamental to our approach to the holistic development of our pupils is character development and values education. We strive to achieve the Desired Outcomes of Education (DOE) - Primary Schools, while developing the social-emotional competencies of our pupils.   As Anthonians, we care for everyone, regardless of race, language or religion, and we are passionate about developing as many aspects of ourselves as possible. We strive to be the best we can be and are willing to step forward to serve, making the world around us a better place especially for \"the last, the lost and the least\".",
+		"School Philosophy, Culture and Ethos": [
+			"The culture of St Anthony's Primary School is undergirded by the Lasallian ethos and philosophy in line with our mission, and is anchored on Lasallian values.  As members of a Lasallian community, we 'work together and by association' to bring out the best in the children confided to our care. We achieve this by providing a holistic education that focuses on the intellectual, physical, aesthetic, spiritual and social-emotional aspects of growth.  Through our work, pupils see the integration of their learning and a higher purpose in their lives. ",
+			"Fundamental to our approach to the holistic development of our pupils is character development and values education. We strive to achieve the Desired Outcomes of Education (DOE) - Primary Schools, while developing the social-emotional competencies of our pupils. ",
+			"As Anthonians, we care for everyone, regardless of race, language or religion, and we are passionate about developing as many aspects of ourselves as possible. We strive to be the best we can be and are willing to step forward to serve, making the world around us a better place especially for \"the last, the lost and the least\"."
+		],
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
@@ -80,7 +84,7 @@
 			"Visual Arts & Design": "The SAPS Visual Arts Programme for Lifelong Learning",
 			"Sports & Outdoor Education": "LEARN.PLAY.GROW – ‘Developing Character through Sports’ Programme"
 		},
-		"Special Student Development Programmes Offered": "To achieve our Mission and Vision, the required competencies, skills and attitudes are inculcated in our pupils through key programmes such as:  Living Well values education programme The Living Well programme focuses on helping pupils understand how to live a meaningful life through the Living Well lessons and through related programmes and planned activities.  Built around a range of activities, the weekly Living Well lessons enable pupils to explore the meaning of the school values, social and emotional skills as well as their role as a member of communities. All pupils attend the Living Well lessons, with Catholic pupils participating in a pull-out programme that delivers the core content with a Catholic focus.   Learning for Life Programme 1 (LLP1): Visual Arts Programme for Active Learning  The Visual Arts programme in SAPS caters to both the general pupil population and those passionate about art, and its objectives are to increase pupils' exposure to the arts; to equip pupils with the skills to appreciate the visual arts; and to enhance the range of forms pupils use to express their ideas. Pupils focus on skill acquisition and the expression of their creativity to create art pieces during Art lessons. Those passionate about Art extend their learning through membership in the Art Club CCA and participation in a multi-aged Art Elective Programme.  In line with the emphasis on values inculcation, the Visual Arts programme also integrates the teaching of values into its curriculum.   Learning for Life Programme 2 (LLP2): LEARN.PLAY.GROW - 'Developing Character through Sports' Programme  Complementing the existing character development programme, Learn.Play.Grow extends ways in which pupils can learn values through sports. The Programme exposes pupils to a wide range of sports so as to motivate them to be either competitive players, recreational players or even appreciative spectator. The school is in the midst of fully implementing the programme."
+		"Special Student Development Programmes Offered": "To achieve our Mission and Vision, the required competencies, skills and attitudes are inculcated in our pupils through key programmes such as:"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -629,7 +633,88 @@
 					"Scout": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"3rd"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Poomsae)",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition(Sm)",
+					"Art - Category C": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Bronze",
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "659401"

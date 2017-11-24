@@ -23,7 +23,11 @@
 		],
 		"School Vision": "Leaders of Character, Striving for Excellence in a Vibrant School",
 		"School Mission": "To nurture self-directed learners and critical and creative thinkers who lead and serve with integrity and compassion.",
-		"School Philosophy, Culture and Ethos": "Established in 1951, Haig Girls' School (HGS) is an all-girls' government primary school.  Our school has a heritage of excellent all-round education.  Nurturing character, leadership and creativity is the hallmark of an education at HGS that has endured over the decades. We believe in nurturing the whole child and preparing our pupils for life through a distinctive learning experience that is values-based, engaging, rigorous and innovative.   Our shared values are encapsulated in our I4Cs: Integrity, Commitment, Concern, Cooperation, and Creativity. Guided by our school motto 'Ars Potens Est' ('Knowledge is Power'), we strive to nurture every Haig girl to use her knowledge, skills and talents in service to the school, community and nation.   We believe that our pupils are never too young to make a difference and give them a voice through advocacy, service, creative expression and innovation.  HGS is a second home to our pupils - a safe, nurturing environment for them to be themselves and to grow and learn. We believe in the uniqueness and worth of every child - each child is different, special and talented in her own way and we seek to bring out the best in her. We love, value and accept each child for who she is regardless of her results or achievements, but we hold her to high expectations. In HGS, we would like each child to take responsibility for her learning and develop an intrinsic motivation to learn, grow and excel. We believe in a growth mindset -- with effort, perseverance and resilience, every child can think, learn, achieve and excel.",
+		"School Philosophy, Culture and Ethos": [
+			"Established in 1951, Haig Girls' School (HGS) is an all-girls' government primary school.  Our school has a heritage of excellent all-round education.  Nurturing character, leadership and creativity is the hallmark of an education at HGS that has endured over the decades. We believe in nurturing the whole child and preparing our pupils for life through a distinctive learning experience that is values-based, engaging, rigorous and innovative. ",
+			"Our shared values are encapsulated in our I4Cs: Integrity, Commitment, Concern, Cooperation, and Creativity. Guided by our school motto 'Ars Potens Est' ('Knowledge is Power'), we strive to nurture every Haig girl to use her knowledge, skills and talents in service to the school, community and nation.   We believe that our pupils are never too young to make a difference and give them a voice through advocacy, service, creative expression and innovation.",
+			"HGS is a second home to our pupils - a safe, nurturing environment for them to be themselves and to grow and learn. We believe in the uniqueness and worth of every child - each child is different, special and talented in her own way and we seek to bring out the best in her. We love, value and accept each child for who she is regardless of her results or achievements, but we hold her to high expectations. In HGS, we would like each child to take responsibility for her learning and develop an intrinsic motivation to learn, grow and excel. We believe in a growth mindset -- with effort, perseverance and resilience, every child can think, learn, achieve and excel."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / GIRLS' SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -83,7 +87,7 @@
 			"Interdisciplinary": "Innovation and Service Learning through Integrated Project Work (IPW@HGS)",
 			"Music & Performing Arts": "Character and Leadership through the Performing and Visual Arts"
 		},
-		"Special Student Development Programmes Offered": "LLP - Character and Leadership through Performing & Visual Arts: Our whole-school approach to the arts allows pupils to demonstrate creativity, express themselves, develop character and deepen sense of pride in our multi-cultural heritage through diverse learning experiences in art, music, drama and dance. -ALP - Innovation & Service Learning through Integrated Project Work: IPW@HGS involves inter-disciplinary place-based learning, authentic problem-solving and value creation. Service learning is embedded as pupils apply knowledge and skills to address civic issues. They collaborate to create solutions, artworks or creative writing, acquiring 21st century competencies (21CC) such as critical and creative thinking, collaboration and communication skills. -The Inspired Museum Explorers, Our Unique Travels (TIMEOUT): the inter-disciplinary museum-based learning programme develops visual literacy, nurtures creative thinking and fosters a sense of pride in Singapore's cultural heritage. -Holistic Assessment (HA) with Holistic Reporting and Parent-Child-Teacher Conferencing (PCTC): As prototype school for HA, we adopt a balanced assessment system with formative and summative assessment. Assessment is embedded into teaching and enables teachers to provide quality feedback to pupils and deepen their learning in various domains such as the arts, values, leadership and 21CC.  Pupils own their learning through reflection and self-assessment, taking the lead at PCTC, to share with parents their progress and areas for growth.  -Discover, Develop & Dedicate your Talent Time (D3T2): talent development programmes in the Performing & Visual Arts, Sports, Mathematics, Science & ICT. -Teaching Through the Arts Programme (TTAP): incorporating drama and movement in the learning of Math and Science -Knowledge Building: an inquiry approach to science learning. Pupils work together to ask questions, test hypotheses, improve on peers' ideas and co-construct scientific understanding."
+		"Special Student Development Programmes Offered": "LLP - Character and Leadership through Performing & Visual Arts: Our whole-school approach to the arts allows pupils to demonstrate creativity, express themselves, develop character and deepen sense of pride in our multi-cultural heritage through diverse learning experiences in art, music, drama and dance."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -733,7 +737,90 @@
 					"Red Cross": "Silver"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Gamelan": "Accomplishment",
+					"Ensemble - Handbell / Handchime": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Gold",
+					"Red Cross": "Bronze"
+				}
+			}
 		}
 	},
 	"postalCode": "427072"

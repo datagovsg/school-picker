@@ -21,7 +21,16 @@
 		"Vice Principal (Admin)": "MR LOW KAH SHEN",
 		"School Vision": "Learners with Passion.  Leaders with Heart.  Citizens of Character.",
 		"School Mission": "A holistic education for all pupils to realise their potential with opportunities to excel.",
-		"School Philosophy, Culture and Ethos": "Guided by our mission,\"A Holistic Education for All Pupils to realise their Potential with Opportunities to Excel\", we are committed to nurture Andersonians to be Leaders, Learners and Citizens with performance and moral character. We take pride in our holistic education anchored on our school values, Passion for Learning, Quest for Excellence, Respect for All and Service to Community. Learners with Passion Engagement in learning is the ignition for our curriculum design. Our signature programme, ANDventure, aims to nurture confident communicators equipped with critical thinking skills. With modules in Learning through the Arts (integration of EL with Drama, Sc with Dance), Leadership & ICT, ANDventure builds their performance character as a life-long learner. The inquiry-based approach in Science and games-based learning in Math also serve to enhance the quality of pupil learning. Our curriculum designs are woven with 21st century competencies to better prepare our pupils for the future. Leaders with Heart To empower Andersonians as leaders, we provide a heart education for them to be contributing members of our community. Our ViA, Anderson Gives Back, develops moral character in pupils with valuable experiences to serve the community. To heighten leadership skills and global awareness, pupils embark on Internationalisation Experience where they interact with people from different cultures. Citizens of Character Our vibrant CCA programme creates opportunities for Andersonians to take their interests to the next level while building strength of character. Across varied CCAs, pupils learn important virtues such as teamwork and commitment. As they progress in skills, they also overcome challenges with diligence and resilience. Our LLPs, ALIVE and VIVACE, are testimonies to our belief in strengthening our pupils' talents through values-based CCA. With a balance of academic rigour and a robust CCE culture, our Andersonians are poised to shine with Courage and Sincerity.",
+		"School Philosophy, Culture and Ethos": [
+			"Guided by our mission,\"A Holistic Education for All Pupils to realise their Potential with Opportunities to Excel\", we are committed to nurture Andersonians to be Leaders, Learners and Citizens with performance and moral character. We take pride in our holistic education anchored on our school values, Passion for Learning, Quest for Excellence, Respect for All and Service to Community.",
+			"Learners with Passion",
+			"Engagement in learning is the ignition for our curriculum design. Our signature programme, ANDventure, aims to nurture confident communicators equipped with critical thinking skills. With modules in Learning through the Arts (integration of EL with Drama, Sc with Dance), Leadership & ICT, ANDventure builds their performance character as a life-long learner. The inquiry-based approach in Science and games-based learning in Math also serve to enhance the quality of pupil learning. Our curriculum designs are woven with 21st century competencies to better prepare our pupils for the future.",
+			"Leaders with Heart",
+			"To empower Andersonians as leaders, we provide a heart education for them to be contributing members of our community. Our ViA, Anderson Gives Back, develops moral character in pupils with valuable experiences to serve the community. To heighten leadership skills and global awareness, pupils embark on Internationalisation Experience where they interact with people from different cultures.",
+			"Citizens of Character",
+			"Our vibrant CCA programme creates opportunities for Andersonians to take their interests to the next level while building strength of character. Across varied CCAs, pupils learn important virtues such as teamwork and commitment. As they progress in skills, they also overcome challenges with diligence and resilience. Our LLPs, ALIVE and VIVACE, are testimonies to our belief in strengthening our pupils' talents through values-based CCA.",
+			"With a balance of academic rigour and a robust CCE culture, our Andersonians are poised to shine with Courage and Sincerity."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -40,7 +49,7 @@
 			"Sports & Outdoor Education": "Andersonians Living Actively through Values-based Experiences (ALIVE) Programme",
 			"Music & Performing Arts": "Values Inculcation Via Arts and Creative Experiences (VIVACE) @ Anderson"
 		},
-		"Special Student Development Programmes Offered": "-LLP Sports & Outdoor Ed, ALIVE - Andersonians Living Actively through Values-based Experiences, aims to provide authentic learning opportunities for the mass student population and additional exposure for segmented pupils with greater interest, aptitude and talent in sports.  Programmes include Sports Carnival, Programme for Healthy Body and Mind and Camps  -LLP Performing Arts, VIVACE - Values Inculcation Via Arts and Creative Experiences, is designed to develop in pupils the qualities of Performance Character and Moral Character through a wide spectrum of experiences in the Arts. Programmes include Artists-Growing-Artists talent mentorship programme and field trips/excursions to public performances, arts festivals.  -ANDventure, focuses on providing a holistic, collaborative and creative learning space for our pupils to construct and demonstrate their understanding of curriculum concepts through art forms and ICT. The spread of platforms provides diverse opportunities to tap on pupils' varied interests and aptitudes.  -ViA programme, Anderson Gives Back, aims to develop pupils to be socially responsible citizens who contribute meaningfully to the community. Programmes include Words from the Heart to patients of THK Hospital, Tray Return Project and A Stroll in the Park with our Elderly.  -School-wide CCE focuses on our school values and the 7 Habits of Highly Effective People based on The Leader in Me programme. It creates a culture of student empowerment, believing that every child can be responsible for own learning and be equipped with the right skills to interact well with others.  -P1-P3 CL CCE Programme, Dizigui, teaches our CL students the values of Filial Piety, Respect, Responsibility, Resilience, Integrity, Care, Harmony and Diligence.  -Little Red Dot, children-friendly English newspaper supplement exposes pupils to current affairs and expository writing. -Internationalisation Experience with schools from China, Hong Kong, Vietnam & Malaysia."
+		"Special Student Development Programmes Offered": "-LLP Sports & Outdoor Ed, ALIVE - Andersonians Living Actively through Values-based Experiences, aims to provide authentic learning opportunities for the mass student population and additional exposure for segmented pupils with greater interest, aptitude and talent in sports.  Programmes include Sports Carnival, Programme for Healthy Body and Mind and Camps"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -1000,7 +1009,89 @@
 					"Ensemble - Guzheng": "Distinction"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band-Brass": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Accomplishment",
+					"Ensemble - Guitar": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				}
+			}
 		}
 	},
 	"postalCode": "569785"

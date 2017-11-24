@@ -17,14 +17,15 @@
 	"bus": "Bus 293 , 72 , 27 and 168 ",
 	"GeneralInformation": {
 		"Principal": "MR MAH SENG THONG ANDREW",
-		"Vice Principal": [
-			"MRS ESTHER SEE-LING SZENGEN",
-			"MDM LIM TZYY SHIUAN"
-		],
+		"Vice Principal": "MRS ESTHER SEE-LING SZENGEN",
 		"Vice Principal (Admin)": "MISS CHUA MEI LI",
 		"School Vision": "To be a premier SAP school",
 		"School Mission": "To nurture morally upright, effectively bilingual and concerned citizens",
-		"School Philosophy, Culture and Ethos": "Culture of Care and Culture of Improvement In line with our school values (Loyalty, Filial Piety, Integrity, Justice, Diligence, Prudence, Sincerity, Modesty), Poi Ching School inculcates in our Students, Staff and Stakeholders the mindset to look outwardly from self to interactions with their peers, family, community and the environment. Hence, the focus on the culture of care.  School emphasizes Leading by Caring, and this philosophy is integrated into our Student Leadership Programme where the P5 and 6 students demonstrate care by initiating projects and programmes for the juniors, for example the P6 students organize the yearly CCA Open House for P1 and 2 students. Students and staff, in turn, are inspired to strive for improvement as we care for self and others.",
+		"School Philosophy, Culture and Ethos": [
+			"Culture of Care and Culture of Improvement",
+			"In line with our school values (Loyalty, Filial Piety, Integrity, Justice, Diligence, Prudence, Sincerity, Modesty), Poi Ching School inculcates in our Students, Staff and Stakeholders the mindset to look outwardly from self to interactions with their peers, family, community and the environment. Hence, the focus on the culture of care. ",
+			"School emphasizes Leading by Caring, and this philosophy is integrated into our Student Leadership Programme where the P5 and 6 students demonstrate care by initiating projects and programmes for the juniors, for example the P6 students organize the yearly CCA Open House for P1 and 2 students. Students and staff, in turn, are inspired to strive for improvement as we care for self and others."
+		],
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese",
 		"Affiliated Schools": "Not Applicable"
@@ -78,7 +79,7 @@
 		"School Distinctive Programmes": {
 			"Music & Performing Arts": "D’ARTS@PCS"
 		},
-		"Special Student Development Programmes Offered": "Bi-Cultural Programme In 2008, the Chinese Yun-Yu Teaching Approach (a school-based P1 and 2 Chinese Language package) was developed to make Chinese Language learning more engaging and interesting. In 2010, we published our own textbooks into the electronic version with interactive activities. This programme has gone through a review with new resources created in 2016. Through our bi-cultural flagship programme, students are exposed to a variety of structured activities such as Wushu, Chinese Calligraphy, Chinese Chess, Tang Poetry, Confucian Analects and Chinese Opera. The school has established twinning programmes with two schools in China, Yidu Pei Qing Primary School and Shanghai Experimental School.  The epitome of these programmes is the Young Reporters Basic Skills programme which is introduced to all P3 students. Students with high competence and interest in both Chinese and English Languages attend a translation course to nurture bilingualism. Through these programmes, pupils are exposed to different cultures and gained a better understanding of the regional and global environments.  S.P.I.C.E. Programme The S.P.I.C.E. programme (Speaking Publicly Ignites Confidence and Excellence) is a school-wide programme for our students to develop their confidence in speaking in front of a wider audience. Students present in English and Mandarin and they have opportunities for individual or mass participation.   CONCERNED CITIZENS Values in Action Programme Our Values in Action Programme is anchored on the HSBC (Helping the needy through fund raising, Sustaining a green school environment, Building bonds with the community, Caring for the elderly) framework. This is to create awareness amongst students and instil a sense of belonging and responsibility towards their community. As individuals who are part of the community, students should actively contribute to its improvement as much as possible."
+		"Special Student Development Programmes Offered": "Bi-Cultural Programme"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -954,7 +955,97 @@
 					"Scout": "Silver"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"3rd",
+						"2nd"
+					],
+					[
+						"Wushu",
+						"1st",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "529067"

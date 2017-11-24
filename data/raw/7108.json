@@ -17,10 +17,7 @@
 	"bus": "27 , 72 , 74 , 80 , 87 , 89 , 101 , 107 , 113 , 116 , 119 , 132 , 136 , 147 , 153 , 161 , 165 , 324 , 325 ",
 	"GeneralInformation": {
 		"Principal": "MR YAP WAI MENG",
-		"Vice Principal": [
-			"MR CHUA PUAY WEE ERIC",
-			"MR NG CHENG SONG JEREMY"
-		],
+		"Vice Principal": "MR NG CHENG SONG JEREMY",
 		"Vice Principal (Admin)": "MISS KOH PIA CHIN ELIZABETH",
 		"School Vision": "A community with Courage to Lead, Compassion to Serve.",
 		"School Mission": "To nurture students to be compassionate and morally upright citizens committed to serving God and society.",
@@ -110,7 +107,7 @@
 			"Languages": "Journalism and Broadcasting -- Developing Critical Thinkers and Confident Communicators",
 			"Community & Youth Leadership": "Good Samaritan Programme"
 		},
-		"Special Student Development Programmes Offered": "We offer the Applied Learning Programme in 'Journalism & Broadcasting' to develop critical thinking skills, communication skills,and global and social awareness. Through their voices, our students can influence society and build a nation that is compassionate, caring and forward-looking. The programme further provides a good foundation for those interested in pursuing a career in the media industry. The school also offers a Learning for Life Programme (Good Samaritan Programme) which focuses on community and youth leadership development. We believe our students are able to lead by example, and can lead others in both actions and thoughts. The Good Samaritan Programme is slanted towards providing service to the community in the form of Values In Action projects across levels. Students also have opportunities to work with external agencies in planning for community projects, and organising the school's Teens Conference. Students can build their strengths through other academic and co-curricular programmes: the Science Research Programme, Mathematics Olympiad, Advanced Elective Modules, Elective Modules for Normal Academic and Normal Technical students, NTerprise Programme, Religious & Moral Education, Overseas Values In Action Programme, Level Camps, Sports Carnival, Road Run, Level Games, etc."
+		"Special Student Development Programmes Offered": "We offer the Applied Learning Programme in 'Journalism & Broadcasting' to develop critical thinking skills, communication skills,and global and social awareness. Through their voices, our students can influence society and build a nation that is compassionate, caring and forward-looking. The programme further provides a good foundation for those interested in pursuing a career in the media industry."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -353,7 +350,67 @@
 					"Npcc (Land)": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Silver",
+					"Scout (Unit 1)": "Silver",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

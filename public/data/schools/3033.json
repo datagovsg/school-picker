@@ -25,7 +25,11 @@
 			"Mdm Aini Binti Mohd Shariff",
 			"Mrs Oh Wee Ming"
 		],
-		"School Vision": "Leaders for the Future; Creative Lifelong Learners, Morally Upright, Caring and Loyal",
+		"School Vision": [
+			"Leaders for the Future;",
+			"Creative Lifelong Learners,",
+			"Morally Upright, Caring and Loyal"
+		],
 		"School Mission": "To develop our students holistically through quality programmes within a nurturing environment.",
 		"School Philosophy, Culture and Ethos": "Our School Philosophy is 'All can Learn, All can Achieve, All can Serve' which describes our belief for life-long learning and learning for life; our attitude to strive for excellence in whatever we do as well as our caring heart and responsibility to give back to the society. We seek to inculcate in our students the six school values: Resilience, Respect, Responsibility, Integrity, Care and Harmony to achieve the five BNSS desired outcomes of 'Strive for Excellence; Encourage Experimentation; Rejoice in Doing Good; Value Diversity; Embrace Lifelong Learning' (SERVE) in our students. Over the years, our students have achieved value-added outcomes in both academic and non-academic domains. All these are attributed to a team of dedicated teachers, committed non-teaching staff as well as our supportive parents.",
 		"Type of School": "Government School / Co-ed School / Single Session",
@@ -241,6 +245,36 @@
 					"year": "2016",
 					"category": "Drama - English",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -303,6 +337,16 @@
 					"year": "2016",
 					"category": "NPCC (Land)",
 					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Land)",
+					"award": "Silver"
 				}
 			]
 		}

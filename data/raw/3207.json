@@ -23,7 +23,15 @@
 		],
 		"Vice Principal (Admin)": "MR LEE HAN KEONG",
 		"School Vision": "An institution of excellence which nurtures ethical change-makers.",
-		"School Mission": "We are committed to instilling in our students the Five Fundamental Values of:  Discernment in our choice of right from what is not, Discipline in mind, fitness and conduct,  Daring to experiment and forge breakthroughs, Determination to succeed in all that we do And Duty  To serve and better our school, community and nation.",
+		"School Mission": [
+			"We are committed to instilling in our students the Five Fundamental Values of:",
+			"Discernment in our choice of right from what is not,",
+			"Discipline in mind, fitness and conduct, ",
+			"Daring to experiment and forge breakthroughs,",
+			"Determination to succeed in all that we do",
+			"And Duty ",
+			"To serve and better our school, community and nation."
+		],
 		"School Philosophy, Culture and Ethos": "As a high-performing Autonomous School, our value proposition is Dunman Aspires, Builds and Cares.  We Aspire to be better than we ever imagined we could be. We believe in each child's different abilities and his potential to become an inquiring and independent learner who owns his learning outcomes.  We Build people as we are one community. We provide a rigorous and holistic education which nurtures students to excel in lifelong learning. We dare to be innovative and challenge our students and staff to do things differently. We place a premium on character development and positive teacher-student relationships. Together with the strong partnerships forged with parents and stakeholders, we believe that our high-care, high-expectations approach to nurturing the child will develop the necessary skills.  We Care by giving back to others, through instilling in students values and character that will essentially shape them into well-rounded and contributing members of society.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Status of School": "Autonomous",
@@ -1185,7 +1193,92 @@
 					"Scout (Unit 1)": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"3rd",
+						"2nd",
+						"3rd"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"1st",
+						"3rd"
+					],
+					[
+						"Volleyball",
+						"2nd",
+						"-",
+						"4th",
+						"-",
+						"3rd",
+						"2nd",
+						"1st",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - English": "Distinction",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Ncc (Air Boys)": "Gold",
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc (Land)": "Bronze",
+					"Scout (Unit 1)": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

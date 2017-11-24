@@ -80,7 +80,7 @@
 			"Languages": "Enhanced Spoken English Programme",
 			"Sports & Outdoor Education": "Developing Values and Leadership through Sports Education"
 		},
-		"Special Student Development Programmes Offered": "Seng Kang Primary's Applied Learning Programme - Enhanced Spoken English Programme, develops oral confidence, fosters creativity and strengthens oral proficiency in our students to develop them into articulate, creative and confident speakers. Our whole-school approach to effective communication adopts a 6 year progressive matrix which scaffolds and exposes students to different genres and presentation opportunities like poetry recitations, storytelling, speech and drama. The school's customised Speak \"Right, Be Polite\" packages teach appropriate conversational etiquette to enhance students' daily interaction and social skills.   Our Learning for Life Programme - Developing Values and Leadership through Sports Education -  provides positive sport experiences to develop students' leadership skills, physical, mental and social resilience as well as  instilling values such as respect for self and team in a competitive, safe and enjoyable play environment.     Character and Citizenship Education in SKPS is customised to nurture students holistically through inculcating values and building character in 5 domains - Leadership, Cultural Literacy, Positive Living, Social Awareness, Etiquette, and Citizenship. Our Cultural Literacy Programme supports students in discovering their strengths, abilities and interests through customized Art and Music modules.  Believing that Everyone Can Serve, opportunities are provided for students to assume leadership positions in class and consciously develop their leadership skills through CCA and at school level. Reflections and feedback are used to sharpen students' skills and competencies.    Our Values-In-Action-infused CCA programme provides opportunities for students to serve the community through cultural activities and work in partnerships with organisations such as the Singapore American School (SAS)as part of our exchange programme."
+		"Special Student Development Programmes Offered": "Seng Kang Primary's Applied Learning Programme - Enhanced Spoken English Programme, develops oral confidence, fosters creativity and strengthens oral proficiency in our students to develop them into articulate, creative and confident speakers. Our whole-school approach to effective communication adopts a 6 year progressive matrix which scaffolds and exposes students to different genres and presentation opportunities like poetry recitations, storytelling, speech and drama. The school's customised Speak \"Right, Be Polite\" packages teach appropriate conversational etiquette to enhance students' daily interaction and social skills. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -792,7 +792,63 @@
 					"Scout": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Hockey",
+						"-",
+						"3rd",
+						"4th",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Handbell / Handchime": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "545166"

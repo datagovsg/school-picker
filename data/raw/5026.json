@@ -270,7 +270,32 @@
 					"Brownies (Pack 2)": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)"
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Ensemble - Handbell / Handchime": "Distinction",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Gold",
+					"Brownies (Pack 2)": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "309437"

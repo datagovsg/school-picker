@@ -21,7 +21,11 @@
 		"Principal": "Mdm Leong Beng Yuet Daphne",
 		"Vice Principal": "Mr Lim Jit Hin",
 		"Vice Principal (Admin)": "Mdm Mary Yap Pei Imm",
-		"School Vision": "Vibrant School Culture of Care Spirit of Excellence",
+		"School Vision": [
+			"Vibrant School",
+			"Culture of Care",
+			"Spirit of Excellence"
+		],
 		"School Mission": "To nurture healthy and happy individuals with strength of character, ready to serve, ready for the future.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -92,6 +96,21 @@
 				},
 				{
 					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
 					"category": "Dance - International",
 					"award": "Accomplishment"
 				}

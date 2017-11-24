@@ -21,9 +21,23 @@
 			"MDM THILAGAMANI D/O T SIVANANDAM",
 			"MISS CHEE YEUNG WAI"
 		],
-		"School Vision": "Our Pupils, Exemplary Citizens of Tomorrow. Our pupils are of sound character and imbibed with right values; love Singapore and lead and serve the community; are engaged learners who are future-ready; are physically active, living healthy lifetyles; and appreciate the Arts developing artistic dispositions",
-		"School Mission": "Touching Hearts: We care for my pupils and lead them to believe in themselves. Engaging Minds:  As lead learners, we inspire our pupils to think creatively and have inquiring minds. Nurturing Talents:  We seek to uncover our pupils' talents and lead them to maximise their potential.",
-		"School Philosophy, Culture and Ethos": "At Mayflower Primary School, we believe that the purpose of education is to prepare every child for the real world. Hence, the school recognises the importance of building a strong, broad-based education that opens up students' horizons and exposes them to varied, holistic learning experiences. Success goes beyond academic achievements as we help our pupils pursue their dreams by capitalising on their strengths, interests and talents. We strive to engage each child to discover what makes school and learning worth their time, energy and effort, thereby inspiring them to take greater ownership of their learning.   The school aspires to build a culture of care, excellence, openness and trust. A learner is motivated to excel when there are clear, high expectations set and high levels of support provided. Setting high standards serves to keep learners engaged in a challenging task. It also enhances their confidence and self-esteem when the goals are achieved. High expectations should be accompanied by high levels of support so as to minimise frustration and abortion of plans due to early failures. Teachers are key to effective pupil learning.  We are committed to building a team of caring and excellent educators who believe in bringing out the best in each child. We place premium on establishing quality teacher-student relationships, thereby creating a safe, conducive and vibrant environment for learning. Our teachers are role models of lifelong learning who continually re-examine their professional practice and keep abreast of educational trends and development. Nurturing the whole child is a shared responsibility between the school and family and we seek to build a strong partnership with parents to bring out the best in each child.",
+		"School Vision": [
+			"Our Pupils, Exemplary Citizens of Tomorrow.",
+			"Our pupils are of sound character and imbibed with right values; love Singapore and lead and serve the community; are engaged learners who are future-ready; are physically active, living healthy lifetyles; and appreciate the Arts developing artistic dispositions"
+		],
+		"School Mission": [
+			"Touching Hearts:",
+			"We care for my pupils and lead them to believe in themselves.",
+			"Engaging Minds: ",
+			"As lead learners, we inspire our pupils to think creatively and have inquiring minds.",
+			"Nurturing Talents: ",
+			"We seek to uncover our pupils' talents and lead them to maximise their potential."
+		],
+		"School Philosophy, Culture and Ethos": [
+			"At Mayflower Primary School, we believe that the purpose of education is to prepare every child for the real world. Hence, the school recognises the importance of building a strong, broad-based education that opens up students' horizons and exposes them to varied, holistic learning experiences. Success goes beyond academic achievements as we help our pupils pursue their dreams by capitalising on their strengths, interests and talents. We strive to engage each child to discover what makes school and learning worth their time, energy and effort, thereby inspiring them to take greater ownership of their learning. ",
+			"The school aspires to build a culture of care, excellence, openness and trust. A learner is motivated to excel when there are clear, high expectations set and high levels of support provided. Setting high standards serves to keep learners engaged in a challenging task. It also enhances their confidence and self-esteem when the goals are achieved. High expectations should be accompanied by high levels of support so as to minimise frustration and abortion of plans due to early failures. Teachers are key to effective pupil learning.  We are committed to building a team of caring and excellent educators who believe in bringing out the best in each child. We place premium on establishing quality teacher-student relationships, thereby creating a safe, conducive and vibrant environment for learning. Our teachers are role models of lifelong learning who continually re-examine their professional practice and keep abreast of educational trends and development.",
+			"Nurturing the whole child is a shared responsibility between the school and family and we seek to build a strong partnership with parents to bring out the best in each child."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -85,7 +99,7 @@
 		"School Distinctive Programmes": {
 			"Music & Performing Arts": "LLP@MFPS: Development of Character, Citizenship and 21CC in and through the Arts"
 		},
-		"Special Student Development Programmes Offered": "We believe that if pupils 'Make Thinking Visible' and 'Learn by Doing\", the learning process will be more engaging. Hence we adopt innovative teaching pedagogies to make learning more enjoyable and effective. The list of enrichment/signature programmes shown below is just a snapshot of what the school has to offer:  Lower Primary (P1 and P2) Development Through Drama (DTD) conducted on a weekly basis by our P1 and P2 teachers Programme for Active Learning conducted on a weekly basis by our P1 and P2 teachers A range of after school enrichment programmes conducted on a weekly basis by external vendors for pupils to discover their interests and talents  Mid Primary (P3 and P4) Weekly CCAs incorporated into curriculum time to maximise pupil participation Young Storyteller Programme for P3 Place-based Learning (PBL) at Singapore Art Museum for P4  Math Olympiad Training for P3 and P4 high achievers in Math Hydroponics at P3 and P4 P4 Camp  Upper Primary (P5 and P6) Weekly CCAs incorporated into curriculum time to maximise pupil participation Debating Programme for P5 Little Red Dot Reading Programme for P5 and P6 Math Olympiad Training for P5 and P6 high achievers in Math P6 Cultural Trip to Malacca  Signature Programmes for All Levels Learning for Life Programme (LLP) - Development of Character, Citizenship and 21st Century Competencies In and Through the Arts Teaching In and Through the Arts (TTAP) - Aesthetics Integration in Academic Subjects School-based ExCITE! Character and Citizenship Education Programme Integration of ICT Tools for mobile, collaborative and self-directed learning"
+		"Special Student Development Programmes Offered": "We believe that if pupils 'Make Thinking Visible' and 'Learn by Doing\", the learning process will be more engaging. Hence we adopt innovative teaching pedagogies to make learning more enjoyable and effective. The list of enrichment/signature programmes shown below is just a snapshot of what the school has to offer:"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -753,7 +767,72 @@
 					"Scout": "Bronze"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Teaching and Learning)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Taekwondo (Poomsae)",
+						"-",
+						"1st",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "569878"

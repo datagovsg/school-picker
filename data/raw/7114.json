@@ -94,7 +94,7 @@
 			"Gifted Education Programme",
 			"ART ELECTIVE PROGRAMME"
 		],
-		"Special Student Development Programmes Offered": "Nanyang Seal of Excellence Talent Development Programme  - Four-Tier Chinese Language and Culture Programme which includes Bicultural Studies (Chinese) and Chinese Language Elective Programme . Humanities Programme . Science and Mathematics Talent Programme . Leadership Development . Art Elective Programme (AEP) . Higher Music Programme (HMP)  Other programmes that further enrich the students' holistic learning experience include: . Global Classroom Programme . Interdisciplinary Studies . Work Experience Programme . Extended Classroom Programme . Boarding School Experience . Conversational Malay . Community Education and Community Leadership Programme . Philosophical Inquiry . Research Programme . Translation . Drama . Conversational Malay  Third Language - NYGH offers Malay Special Programme"
+		"Special Student Development Programmes Offered": "Nanyang Seal of Excellence Talent Development Programme "
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -2745,7 +2745,239 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"2nd",
+						"1st"
+					],
+					[
+						"Fencing",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"-",
+						"-",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"2nd"
+					],
+					[
+						"Sailing",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing (Byte)",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					],
+					[
+						"Tennis",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"-",
+						"-",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"3rd",
+						"3rd"
+					],
+					[
+						"Wushu",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition(Sm)",
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Distinction",
+					"Band-Percussion Ensemble": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Distinction",
+					"Drama - English": "Distinction",
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Strings": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Silver",
+					"Girl Guides (Coy 2)": "Silver",
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

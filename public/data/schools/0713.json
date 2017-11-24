@@ -100,7 +100,18 @@
 					"DA (National Education)"
 				]
 			},
-			"Sports & Games Competition": [],
+			"Sports & Games Competition": [
+				{
+					"year": "2017",
+					"category": "Shooting (Air Rifle)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
+				}
+			],
 			"SYF": [
 				{
 					"year": "2014",
@@ -154,6 +165,26 @@
 				},
 				{
 					"year": "2016",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
 					"category": "Drama - English",
 					"award": "Accomplishment"
 				}

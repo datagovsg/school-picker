@@ -114,7 +114,21 @@
 			"2016": {
 				"School Distinction Awards": "SDA"
 			},
-			"Sports & Games Competition": [],
+			"2017": {
+				"School Distinction Awards": "SDA"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2017",
+					"category": "Taekwondo (Kyorugi)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				}
+			],
 			"SYF": [
 				{
 					"year": "2014",
@@ -220,6 +234,46 @@
 					"year": "2016",
 					"category": "Ensemble - Guitar",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Percussion Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - Multi-Lingual",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -240,6 +294,16 @@
 				},
 				{
 					"year": "2016",
+					"category": "St John Ambulance Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "St John Ambulance Brigade",
 					"award": "Bronze"
 				}

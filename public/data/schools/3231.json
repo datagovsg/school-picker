@@ -19,10 +19,7 @@
 	"bus": "26 , 222 , 222P , 2 , 7 , 24 , 25 , 28 , 30 , 30E , 32 , 33 , 40 , 67 , 229 , 401 , 854 , 45 , 60 , 87 ",
 	"GeneralInformation": {
 		"Principal": "Mr Ang Chee Seng",
-		"Vice Principal": [
-			"Mr Cheong Huei Leonard",
-			"Mr Bang Tee Lip"
-		],
+		"Vice Principal": "Mr Cheong Huei Leonard",
 		"School Vision": "A School of Distinction in Learning and Service",
 		"School Mission": "To nurture and develop our students to be strong and upright in character, passionate about learning and innovative in spirit so as to serve the community",
 		"School Philosophy, Culture and Ethos": "Ping Yi is well-known for its Restorative Practices (RP), where character development and positive relationships are of paramount importance. We believe in the justice of restoration, participatory learning and responsible decision-making. Our teachers engage our students through relational and innovative teaching strategies, and nurture them through their adolescence, better preparing them for life. The team of very dedicated staff believes that creative and fun ways help students learn more effectively. Lessons are crafted in an exciting, experiential, authentic and meaningful way.  By believing in our students, creating opportunities for them to discover their talents, and developing their abilities to the fullest, the teachers give them confidence to dare to dream and the courage to turn their dreams into reality.  This has led to very good educational outcomes over the years.",
@@ -107,6 +104,14 @@
 				]
 			},
 			"2016": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)",
+					"Outstanding PARTNERS"
+				]
+			},
+			"2017": {
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
 				"Outstanding Development Award": [
 					"ODA (Character Development)",
@@ -271,6 +276,31 @@
 					"year": "2016",
 					"category": "Ensemble - Guzheng",
 					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Display",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Percussion Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -328,6 +358,16 @@
 					"year": "2016",
 					"category": "NPCC (Land)",
 					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Gold"
 				}
 			]
 		}

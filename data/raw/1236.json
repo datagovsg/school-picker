@@ -19,9 +19,16 @@
 		"Principal": "MR K GOVINDAN",
 		"Vice Principal": "MDM JOSEPHINE ONG MRS NG HANG SENG",
 		"Vice Principal (Admin)": "MR TOMMY YANG",
-		"School Vision": "A School with P.R.I.D.E. * *Perseverance; Respect; Integrity; Diligence; Empathy",
+		"School Vision": [
+			"A School with P.R.I.D.E. *",
+			"*Perseverance; Respect; Integrity; Diligence; Empathy"
+		],
 		"School Mission": "Building Character, Enriching Lives, Stretching Potential",
-		"School Philosophy, Culture and Ethos": "At Peiying Primary School, the underpinning philosophy of teaching and learning is the belief that every child can learn, improve and fulfil his potential to become contributing citizens.   Central to the Peiying brand of education is the nurture of individuals who would be leaders of character, engaged and resilient learners and caring citizens. At Peiying Primary School, we look for the strengths in our students and we strive to help our students realise their full potential. Each child is respected as an individual and nurtured to grow and develop. Our students learn to give their best in all that they do, to persevere and to 'never give up'. The school focuses on character building and on the inculcation of values such as honesty and development of respect and care for the people around them.  Students of Peiying enjoy a wide variety of programmes that contribute to their holistic development. Student Development Programmes in the school are specially planned and designed to stretch the potential in each and every child to make learning at Peiying fun and meaningful.",
+		"School Philosophy, Culture and Ethos": [
+			"At Peiying Primary School, the underpinning philosophy of teaching and learning is the belief that every child can learn, improve and fulfil his potential to become contributing citizens. ",
+			"Central to the Peiying brand of education is the nurture of individuals who would be leaders of character, engaged and resilient learners and caring citizens. At Peiying Primary School, we look for the strengths in our students and we strive to help our students realise their full potential. Each child is respected as an individual and nurtured to grow and develop. Our students learn to give their best in all that they do, to persevere and to 'never give up'. The school focuses on character building and on the inculcation of values such as honesty and development of respect and care for the people around them.",
+			"Students of Peiying enjoy a wide variety of programmes that contribute to their holistic development. Student Development Programmes in the school are specially planned and designed to stretch the potential in each and every child to make learning at Peiying fun and meaningful."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -75,7 +82,7 @@
 		"School Distinctive Programmes": {
 			"Sports & Outdoor Education": "Sports, Character Development and Adventure Learning Experiences @ Peiying (SCALE@PEIYING)"
 		},
-		"Special Student Development Programmes Offered": "Scale@Peiying: SCALE@Peiying is a 6-year Learning for Life Programme (LLP) that focuses on sports, character development and adventure learning. The LLP provides students with real-life experiential learning to develop their character and values, cultivate positive attitudes, self-expression and strengthen their interaction skills. Peiying has its own Adventure Tower that enables the school to carry out outdoor adventure activities regularly on the school premises.   Code for fun: All P3 & P4 students go through a robotics programme that spans two years. Students start learning the fundamentals of computational thinking at Primary 3 and the programme is continued at Primary 4. This programme offers a fun and interactive way for students to learn programming skills.  It also enhances logical thinking, analytical skills and help students learn to organise data.    Project Work: Project Work provides P3 to P6 students with the opportunity to synthesise knowledge from various areas of learning, and apply it to real life situations. Participation in Project Work enhances students' knowledge and enables them to acquire 21st Century competencies such as collaboration, communication and independent learning. It prepares them for lifelong learning and to face future challenges.    ACE Programme: Arts and Cultural Experiences (ACE) provides different platforms for our students to be immersed in the culture and arts of the different community groups. Students learn to appreciate our diverse cultural heritage through activities that range from learning to play in a kompang group to picking up Chinese Opera skills.   Hydroponics & Aeroponics Programme: Peiying adopts an experiential approach to the learning of Science. As part of the process of learning about plants, students grow vegetables using hydroponics and aeroponics. The vegetables that are harvested are distributed to needy families in the neighbourhood and adds a 'values-in-action' dimension to the programme."
+		"Special Student Development Programmes Offered": "Scale@Peiying: SCALE@Peiying is a 6-year Learning for Life Programme (LLP) that focuses on sports, character development and adventure learning. The LLP provides students with real-life experiential learning to develop their character and values, cultivate positive attitudes, self-expression and strengthen their interaction skills. Peiying has its own Adventure Tower that enables the school to carry out outdoor adventure activities regularly on the school premises. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -849,7 +856,63 @@
 					"Red Cross": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Gold",
+					"Red Cross": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "768687"

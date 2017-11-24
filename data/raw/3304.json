@@ -17,7 +17,10 @@
 	"bus": "945 , 187 ",
 	"GeneralInformation": {
 		"Principal": "MR HENG YEW SENG",
-		"Vice Principal": "MR HOI WENG KIT DERRICK",
+		"Vice Principal": [
+			"MR HOI WENG KIT DERRICK",
+			"MR SHERWIN CHENG SAN SHIAN"
+		],
 		"Vice Principal (Admin)": "MR CHAN CHEE WEI",
 		"School Vision": "Thoughtful Leaders",
 		"School Mission": "We nurture students to Think, Care and Lead with P.R.I.D.E.",
@@ -81,7 +84,7 @@
 			"Basketball (Boys)",
 			"Floorball (Mixed)",
 			"Football (Boys)",
-			"Tenpin Bowling (Boys)"
+			"Tenpin Bowling"
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
@@ -552,7 +555,71 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Commendation"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girl Guides (Coy 1)": "Gold",
+					"Ncc (Air)": "Silver",
+					"Npcc (Land)": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

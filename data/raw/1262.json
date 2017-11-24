@@ -17,11 +17,18 @@
 	"bus": "Nearest Bus Stop Opposite Blk 317B: - Bus 85 (from Punggol Temp Int) - Bus 372 (from Sengkang Int) *1-2 mins walk from bus stop number no. 67389 *Enter by Main Gate along Anchorvale Link or Rear G",
 	"GeneralInformation": {
 		"Principal": "MDM KOH SIEW CHENG",
-		"Vice Principal": "MDM JAYANTHI D/O RETNAM",
+		"Vice Principal": [
+			"MDM JAYANTHI D/O RETNAM",
+			"MR HO WEE MIN KELVIN"
+		],
 		"Vice Principal (Admin)": "MR CHAN SOON HUA",
 		"School Vision": "Every Springdalite is a Secure Individual, a Leader of Self-worth and a Significant Citizen.",
 		"School Mission": "To engage young minds, mould their character and equip them for the future.",
-		"School Philosophy, Culture and Ethos": "The school is guided by its education philosophy of Play.Passion.Purpose (3Ps). This is anchored on the belief that the learning process is equally, if not more important, than the learning content itself.  Every child is encouraged to explore and discover new knowledge through experiential and authentic learning (Play) so that he or she can discover the joy of learning. It is hoped that in doing so, the child will develop the drive to deepen his or her mastery (Passion) and eventually to harness that for the betterment of the community and society (Purpose).   This education philosophy is undergirded by the school's emphasis on character building. Time is set aside to ensure that values are explicitly and systematically transmitted through age appropriate activities to all students.   The school seeks to develop a strong and cohesive culture premised on the GREAT ethos of Growth, Radiance, Empathy, Abundance and Truth. All staff serve as role models for the students and guide them in embracing and displaying the R3ICH values of Respect, Responsibility, Resilience, Integrity, Care & Harmony.",
+		"School Philosophy, Culture and Ethos": [
+			"The school is guided by its education philosophy of Play.Passion.Purpose (3Ps). This is anchored on the belief that the learning process is equally, if not more important, than the learning content itself.  Every child is encouraged to explore and discover new knowledge through experiential and authentic learning (Play) so that he or she can discover the joy of learning. It is hoped that in doing so, the child will develop the drive to deepen his or her mastery (Passion) and eventually to harness that for the betterment of the community and society (Purpose). ",
+			"This education philosophy is undergirded by the school's emphasis on character building. Time is set aside to ensure that values are explicitly and systematically transmitted through age appropriate activities to all students. ",
+			"The school seeks to develop a strong and cohesive culture premised on the GREAT ethos of Growth, Radiance, Empathy, Abundance and Truth. All staff serve as role models for the students and guide them in embracing and displaying the R3ICH values of Respect, Responsibility, Resilience, Integrity, Care & Harmony."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -57,7 +64,7 @@
 		"School Distinctive Programmes": {
 			"Interdisciplinary": "Out-of-Door Education (ODE) through Curriculum Integration"
 		},
-		"Special Student Development Programmes Offered": "The school's Applied Learning Programme (ALP) is Out-of-Door Education (ODE) which seeks to provide an integrated learning experience through creative installations within the school such as the Low-elements Rope Trail, Science Eco-garden Trail and the Learning Maze. In addition, it also provides authentic learning experiences for the students by tapping on learning spaces both within and beyond the school. For instance, learning journeys in this school are specially designed by the teachers to enable inquiry learning. The school also trains the students to adopt an innovative and solution-focused mindset through the use of Design Thinking as a problem-solving protocol.   Another signature offering of the school is the I Can! Programme which is specially designed for its Primary 1 and 2 students to develop their skills and competence in self-management, confidence in social interaction and use of information and communication technology (ICT). Some of the skills covered include packing of school bags, communication skills and touch-typing. All lower primary students are hence equipped from the start to adopt a can-do attitude with a capacity for independent learning.   As for Co-Curricular Activities (CCA), they are incorporated as part of the main curriculum for all students to provide a balanced curriculum. A modular approach is adopted at Primary 3 to enable students to discover their interests and talents in the different CCA domains before they choose their formal CCA in Primary 4."
+		"Special Student Development Programmes Offered": "The school's Applied Learning Programme (ALP) is Out-of-Door Education (ODE) which seeks to provide an integrated learning experience through creative installations within the school such as the Low-elements Rope Trail, Science Eco-garden Trail and the Learning Maze. In addition, it also provides authentic learning experiences for the students by tapping on learning spaces both within and beyond the school. For instance, learning journeys in this school are specially designed by the teachers to enable inquiry learning. The school also trains the students to adopt an innovative and solution-focused mindset through the use of Design Thinking as a problem-solving protocol. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -81,7 +88,11 @@
 			},
 			"2015": {},
 			"2016": {},
-			"2017": {}
+			"2017": {
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition"
+				}
+			}
 		}
 	},
 	"postalCode": "544799"

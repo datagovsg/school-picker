@@ -23,7 +23,10 @@
 		],
 		"School Vision": "Every Individual A Leader",
 		"School Mission": "Nurturing Individuals to be Leaders to Meet New Challenges",
-		"School Philosophy, Culture and Ethos": "In Naval Base Primary School, we are guided by our philosophy of 'Every Child Matters' in our efforts to provide a vibrant and engaging learning experience for all our students. In NBPS, every child is seen as unique and every child is precious. We are committed to ensure that every child can benefit from a holistic education and be ready for the next phase upon graduation from primary school.   In Naval Base Primary, we place an emphasis on care and ensuring that our classrooms are warm, inviting and conducive for learning; our programmes are inclusive and that needs of all our students are looked into. Our students are the centre of all that we do and we ensure that every Navalite is supported to be able to thrive and maximise his or her potential. We are committed to nurture every child fully, in a warm and happy environment, into citizens who will contribute to society in purposeful and meaningful ways.",
+		"School Philosophy, Culture and Ethos": [
+			"In Naval Base Primary School, we are guided by our philosophy of 'Every Child Matters' in our efforts to provide a vibrant and engaging learning experience for all our students. In NBPS, every child is seen as unique and every child is precious. We are committed to ensure that every child can benefit from a holistic education and be ready for the next phase upon graduation from primary school. ",
+			"In Naval Base Primary, we place an emphasis on care and ensuring that our classrooms are warm, inviting and conducive for learning; our programmes are inclusive and that needs of all our students are looked into. Our students are the centre of all that we do and we ensure that every Navalite is supported to be able to thrive and maximise his or her potential. We are committed to nurture every child fully, in a warm and happy environment, into citizens who will contribute to society in purposeful and meaningful ways."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -82,7 +85,7 @@
 		"School Distinctive Programmes": {
 			"Sports & Outdoor Education": "Holistic Outdoor Physical Education & Sports (HOPES) Programmes"
 		},
-		"Special Student Development Programmes Offered": "Values are very much part of life in Naval Base Primary School. Besides the rigorous academic programme, the school believes that character building is equally important in the development of the whole child. Students are reminded to Live Our Values Everyday (LOVE) where many of our programmes anchor on our school core values of Integrity, Respect, Self-Discipline, Compassion and Learning.   'NBPS Cares' is another programme anchored on the school value of Compassion. Recyclable items from the neighbourhood are collected by students and then sold. The proceeds from the sale are donated to Sree Narayana Mission Home. Through this initiative, students learn that their actions have a direct and positive impact on the less fortunate in our society and at the same time, they are helping the people in the neighbourhood with their recyclables and also doing their bit for the environment.   To provide an integrated platform for students to learn 21st century competencies in Critical and Inventive Thinking, our students are given the opportunity to creatively solve problems using Mathematics and Science concepts at the Navalites' Discovery Day (NDD). A programme that stretches students to think and explore beyond their textbooks. Weeks before NDD, students are given projects to research on. They work on proving their hypotheses with data gathered and come up with new inventions. All students' hard work culminates in the showcasing of their projects on NDD, where parents are invited to attend and celebrate their children's creativity.   Our Holistic Outdoor Physical Education & Sports (HOPES) Programme, a Learning for Life Programme (LLP), aims to develop in our students the 21st Century competencies and anchor on our school's core values through the Co-Curricular platforms. The programme aligns itself to the Physical Education & Sports Development Framework catering to mass participation, specialisation and talent development."
+		"Special Student Development Programmes Offered": "Values are very much part of life in Naval Base Primary School. Besides the rigorous academic programme, the school believes that character building is equally important in the development of the whole child. Students are reminded to Live Our Values Everyday (LOVE) where many of our programmes anchor on our school core values of Integrity, Respect, Self-Discipline, Compassion and Learning. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -610,7 +613,18 @@
 					"Red Cross": "Silver"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Dance - International": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold",
+					"Red Cross": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "769028"

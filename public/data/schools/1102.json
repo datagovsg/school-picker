@@ -68,7 +68,7 @@
 			"Music & Performing Arts": "D'Aesthetics@Damai",
 			"Sports & Outdoor Education": "SPARKS@Play"
 		},
-		"Special Student Development Programmes Offered": "Learning for Life Programme (LLP), Programme for Active Learning (PAL), Swimsafer Programme, Math Enrichment Programmes  D'Aesthetics Programme, a Learning for Life Programme (LLP), aims to provide students with the opportunity to learn about and experience the arts. This programme helps to cultivate values such as perseverance, self-discipline and appreciation to help students achieve success in school, work and life. This programme also aims to provide a common ground for cross-cultural competencies to be developed as it encourages expressions and contributes to the overall development of social skills, such as valuing diversity of ideas, respect and confidence building.  Another LLP, D'COACH programme, is a school-wide values-based programme based on the core belief that sporting excellence and character development are inextricably linked. It provides opportunities and platforms for all students to be exposed to team sports. This equips them with attributes, competencies and the confidence to be team players. It aims to not only develop the students' talents and potential to excel in team sports but at the same time, instil valuable character traits and core values.   PAL @ Damai for Primary 1 and 2 students is experiential in nature and incorporates learning in a creative, fun, and enjoyable way. It aims to facilitate a well-rounded development of students through a more balanced curriculum. In addition, students will be able to develop their Social and Emotional Learning (SEL) competencies. Students are provided with broad exposure and experiences through varied activities so that they can discover their interest and aptitudes. They will experience learning activities in four domains - Sports and Games, Outdoor Education, Performing and Visual Arts. Through these activities, students will develop confidence, creativity and collaboration skills which they can apply in their daily interactions."
+		"Special Student Development Programmes Offered": "Learning for Life Programme (LLP), Programme for Active Learning (PAL), Swimsafer Programme, Math Enrichment Programmes"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -220,6 +220,56 @@
 						"Senior"
 					],
 					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -282,9 +332,30 @@
 					"year": "2016",
 					"category": "Dance - Malay",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Distinction"
 				}
 			],
-			"Best Unit Award": []
+			"Best Unit Award": [
+				{
+					"year": "2017",
+					"category": "Red Cross",
+					"award": "Silver"
+				}
+			]
 		}
 	},
 	"postalCode": "479225",

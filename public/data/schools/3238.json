@@ -19,7 +19,10 @@
 	"bus": "410 , 13 , 56 , 57 , 59 , 88 , 93 , 157 , 163 ",
 	"GeneralInformation": {
 		"Principal": "Mr Kwok Chin Poh Benjamin",
-		"Vice Principal": "Mr Fathul Rahman Bin Kamsani",
+		"Vice Principal": [
+			"Mr Fathul Rahman Bin Kamsani",
+			"Mr Lim Hock Chuan Alvin"
+		],
 		"Vice Principal (Admin)": "Mr Anbalagan S/o Thangarajah",
 		"School Vision": "An engaged learner today, a life-long learner tomorrow.",
 		"School Mission": "GYSS - A place where learning is an enjoyable and sustainable journey.",
@@ -197,6 +200,36 @@
 						"'C' Div"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -244,6 +277,26 @@
 					"year": "2016",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Commendation"
 				}
 			],
 			"Best Unit Award": [
@@ -291,6 +344,26 @@
 					"year": "2016",
 					"category": "NPCC (Land)",
 					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Land Boys)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Red Cross",
+					"award": "Bronze"
 				}
 			]
 		}

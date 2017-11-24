@@ -24,7 +24,12 @@
 		"Vice Principal (Admin)": "MISS NG BEE KENG",
 		"School Vision": "Self-Directed Learner, Compassionate Leader and Responsible and Useful Citizen.",
 		"School Mission": "A school of excellence where students and staff grow in wisdom, stature and in favour with God and man.",
-		"School Philosophy, Culture and Ethos": "Geylang Methodist School (Primary) believes in nurturing the whole child. Each child will 'enter to learn' and be equipped with a strong foundation in literacy, numeracy and scientific skills. This is to help them 'depart to serve', and be ready to demonstrate their concern for their school, community and country through active participation and contribution for the good of Singapore.  Our school aims to instil in every pupil a strong desire to pursue academic and character excellence; to take risks and to give one's best. We equip our pupils with the skills, knowledge and passion for learning to develop them holistically as we believe that every child can learn.  The school believes in developing 21st CC in every child using ICT where the learner is the focal point of curriculum.  Curriculum is centred on nurturing self-directed and collaborative learning competencies in every pupil, heightening pupils' motivation and engagement in learning through innovations in T&L.   In alignment with the Desired Outcomes of Education, we believe very strongly in inculcating the right values and attitudes in our pupils. The pupils will be imbued with the competencies and school values that will develop good character, equipped with leadership competencies.  The staff in the school believe that we 'enter to serve' the needs of our pupils well, so as to 'etch a legacy' in our pupils and in the Geylang community.",
+		"School Philosophy, Culture and Ethos": [
+			"Geylang Methodist School (Primary) believes in nurturing the whole child. Each child will 'enter to learn' and be equipped with a strong foundation in literacy, numeracy and scientific skills. This is to help them 'depart to serve', and be ready to demonstrate their concern for their school, community and country through active participation and contribution for the good of Singapore.",
+			"Our school aims to instil in every pupil a strong desire to pursue academic and character excellence; to take risks and to give one's best. We equip our pupils with the skills, knowledge and passion for learning to develop them holistically as we believe that every child can learn.  The school believes in developing 21st CC in every child using ICT where the learner is the focal point of curriculum.  Curriculum is centred on nurturing self-directed and collaborative learning competencies in every pupil, heightening pupils' motivation and engagement in learning through innovations in T&L. ",
+			"In alignment with the Desired Outcomes of Education, we believe very strongly in inculcating the right values and attitudes in our pupils. The pupils will be imbued with the competencies and school values that will develop good character, equipped with leadership competencies.",
+			"The staff in the school believe that we 'enter to serve' the needs of our pupils well, so as to 'etch a legacy' in our pupils and in the Geylang community.  "
+		],
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / DOUBLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "GEYLANG METHODIST SCHOOL (SECONDARY)"
@@ -55,7 +60,7 @@
 			"ICT": "Using ICT to develop the 21st Century Learner",
 			"Community Service & Student Leadership": "GM Earth Warriors Environment Education (EE): To Develop Student Leaders who Empathise, Enrich and Empower"
 		},
-		"Special Student Development Programmes Offered": "\"GM Earth Warriors Environment Education (EE)\" is our Learning for Life Programme (LLP).  It serves to inculcate in the students the sense of responsibility to the society through student advocacy for environmental issues that are close to their hearts.  Students imbibe key values such respect and compassion as they learn to be Compassionate leaders and Useful and Responsible Citizens.  To enrich the students holistically, the PRAISE@MySingapura is an inter-disciplinary programme that allows the students to be make their thinking visible through the \"Praise, Question, Polish\" thinking routine as they embark on a museum appreciation programme."
+		"Special Student Development Programmes Offered": "\"GM Earth Warriors Environment Education (EE)\" is our Learning for Life Programme (LLP).  It serves to inculcate in the students the sense of responsibility to the society through student advocacy for environmental issues that are close to their hearts.  Students imbibe key values such respect and compassion as they learn to be Compassionate leaders and Useful and Responsible Citizens."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -751,7 +756,65 @@
 					"Girls' Brigade": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"3rd",
+						"2nd",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment",
+					"Ensemble - Handbell / Handchime": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "389706"

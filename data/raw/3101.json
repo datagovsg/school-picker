@@ -17,7 +17,10 @@
 	"bus": "12 , 14 , 30 , 158 , 196 ",
 	"GeneralInformation": {
 		"Principal": "MR LOW TECK ENG TONY",
-		"Vice Principal": "MDM TEY KAH HWEE",
+		"Vice Principal": [
+			"MDM TEY KAH HWEE",
+			"MR KEITH TAN"
+		],
 		"Vice Principal (Admin)": "MISS SEE PEI LOO",
 		"School Vision": "The premier school of Leaders of Honour",
 		"School Mission": "To nurture our students to Care, to Serve, and to Lead",
@@ -1645,7 +1648,128 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": [
+					"DA (National Education)",
+					"PARTNERS (Merit)"
+				],
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"1st",
+						"-",
+						"1st",
+						"1st"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"4th",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"2nd",
+						"2nd",
+						"1st",
+						"2nd"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					],
+					[
+						"Wushu",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Distinction",
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Strings": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		},
 		"Junior College": {
 			"2005": {},
@@ -2232,7 +2356,83 @@
 					"Orchestra - Chinese": "Distinction"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": [
+					"DA (National Education)",
+					"PARTNERS (Merit)"
+				],
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Basketball",
+						"4th",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Dance - International": "Accomplishment",
+					"Drama - Multi-Lingual": "Distinction",
+					"Ensemble - Strings": "Distinction"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

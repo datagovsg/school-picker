@@ -296,7 +296,25 @@
 					"St John Ambulance Brigade": "Bronze"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Drama - English (2nd Entry)": "Commendation",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Best Unit Award": {
+					"Npcc (Land)": "Gold",
+					"Scout (Unit 1)": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

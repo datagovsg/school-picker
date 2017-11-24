@@ -19,11 +19,22 @@
 	"bus": "3",
 	"GeneralInformation": {
 		"Principal": "Mdm Kok Lai Yoke",
-		"Vice Principal": "Mdm Siti Nazrah Bte Abdul Rahman",
+		"Vice Principal": [
+			"Mdm Siti Nazrah Bte Abdul Rahman",
+			"Mr Tan King Ming"
+		],
 		"Vice Principal (Admin)": "Mr Tan Boon Seng",
 		"School Vision": "A caring and vibrant learning community with opportunities for all to excel.",
 		"School Mission": "Every Pasirian is nurtured to be a confident, passionate and self-directed learner who is anchored in values.",
-		"School Philosophy, Culture and Ethos": "We believe that - every Child is a Winner. - every Child can Learn and Achieve to the maximum of his potential given the proper guidance and nurturing. - as teachers,  we are in the business of enhancing lives. - we make a great difference in every child's behaviour,  motivation and achievement. - by keeping fit and by taking care of our own health and professional growth,  we can contribute more to our children's growth and development.  - parents are our partners-in-education.  We will work closely with parents and the community to achieve our mission of preparing our children for the challenges of the future.",
+		"School Philosophy, Culture and Ethos": [
+			"We believe that",
+			"- every Child is a Winner.",
+			"- every Child can Learn and Achieve to the maximum of his potential given the proper guidance and nurturing.",
+			"- as teachers,  we are in the business of enhancing lives.",
+			"- we make a great difference in every child's behaviour,  motivation and achievement.",
+			"- by keeping fit and by taking care of our own health and professional growth,  we can contribute more to our children's growth and development. ",
+			"- parents are our partners-in-education.  We will work closely with parents and the community to achieve our mission of preparing our children for the challenges of the future."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -48,8 +59,7 @@
 		"Visual and Performing Arts": [
 			"Chinese Speech And Drama Club",
 			"Choir",
-			"Ensemble - Guzheng",
-			"Iexplore - Visual Art"
+			"Ensemble - Guzheng"
 		]
 	},
 	"SpecialProgrammes": {
@@ -57,7 +67,7 @@
 			"Community Service & Student Leadership": "Leaders Growing Leaders",
 			"Sports & Outdoor Education": "E3 in Sports@PRPS"
 		},
-		"Special Student Development Programmes Offered": "LEARNING FOR LIFE PROGRAMME (LLP) - ILEAD PROGRAMME Pasir Ris Primary believes that there is student leadership potential in every child. The school adopts a progressive 2-pronged approach that aims to develop student leadership for all students and segmented group of student leaders. Students are given opportunities to embark on projects that focus on societal concerns of their choice to equip themselves with problem-solving and decision-making skills to generate solutions creatively.  Students learn that everyone has a part to play in being active and concerned citizens while making the school and the community a better place for everyone.  i-SERIES PROGRAMME Pri 3 to Pri 5 students are given varied learning experiences that can bring out their strengths, interests and talents in four domains - Aesthetics, Cognitive, Leadership and Physical. Teachers' observation, students' feedback and self-assessment are collected at the end of each module to provide useful information about each student's strengths, interests and talents. These information help students recognise what they are good at and facilitate discussions on choices of future secondary schools and career aspirations."
+		"Special Student Development Programmes Offered": "LEARNING FOR LIFE PROGRAMME (LLP) - ILEAD PROGRAMME"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -89,6 +99,19 @@
 				]
 			},
 			"2016": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)",
+					"Outstanding PARTNERS"
+				]
+			},
+			"2017": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": [
 					"BPA (Staff Well-Being)",
@@ -261,6 +284,56 @@
 						"Senior"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -341,6 +414,31 @@
 				},
 				{
 					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
 				}

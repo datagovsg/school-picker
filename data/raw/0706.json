@@ -18,11 +18,16 @@
 	"GeneralInformation": {
 		"Principal": "MISS EK SOO BEN",
 		"Vice Principal": [
-			"MR SINGH GURUSHARAN S/O M SINGH",
+			"MR GURUSHARAN SINGH S/O M SINGH",
 			"MR CHEONG TIEN BENG"
 		],
 		"Vice Principal (Admin)": "MDM CHUA NGA WOON",
-		"School Vision": "LiVE like a Victorian - Legendary Spirit - Visionary Leadership - Extraordinary Service",
+		"School Vision": [
+			"LiVE like a Victorian",
+			"- Legendary Spirit",
+			"- Visionary Leadership",
+			"- Extraordinary Service"
+		],
 		"School Mission": "To ignite the imagination of all Victorians to create the future with conviction, courage and compassion",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / FULL DAY",
 		"IP Partner Schools": [
@@ -55,7 +60,6 @@
 		"H2 ART",
 		"H2 BIOLOGY",
 		"H2 CHEMISTRY",
-		"H2 CHINA STUDIES IN CHINESE",
 		"H2 CHINA STUDIES IN ENGLISH",
 		"H2 ECONOMICS",
 		"H2 FRENCH LANGUAGE",
@@ -85,7 +89,7 @@
 		"NUS-A*STAR-VJC SCIENCE RESEARCH (CHEM)",
 		"NUS-A*STAR-VJC SCIENCE RESEARCH (MATH)",
 		"NUS-A*STAR-VJC SCIENCE RESEARCH (PHY)",
-		"SMU GAME THEORY & COMPETITION"
+		"SMU GAME THEORY"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -123,6 +127,7 @@
 			"Symphonic Band"
 		],
 		"Clubs & Societies": [
+			"Astronomy Club",
 			"Bizclub",
 			"Chinese Society",
 			"Debates",
@@ -1829,7 +1834,110 @@
 					"Orchestra - Chinese": "Distinction"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Floorball",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"3rd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"4th",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Ensemble - Guzheng": "Accomplishment",
+					"Ensemble - Harmonica": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment",
+					"Art - Category C": "Recognition(Sm)",
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - English": "Commendation",
+					"Ensemble - Guitar": "Distinction"
+				}
+			}
 		}
 	},
 	"L1R5History": {

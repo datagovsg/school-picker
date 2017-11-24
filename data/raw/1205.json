@@ -19,7 +19,7 @@
 		"Principal": "MDM CHANDRIKA D/O GOPAL",
 		"Vice Principal": [
 			"MR CHONG CHOONG HIAN",
-			"MDM LEOW SIEW LEE SHIRLEY (MRS QUEK)"
+			"MRS SHIRLEY QUEK"
 		],
 		"Vice Principal (Admin)": "MDM GOH LIAN CHOO",
 		"School Vision": "An Innovative School of Discerning Learners and Caring Leaders",
@@ -787,7 +787,76 @@
 					"Girls' Brigade": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Softball",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"1st",
+						"2nd",
+						"1st",
+						"1st"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition(Sm)",
+					"Choir": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Bronze"
+				}
+			}
 		}
 	},
 	"postalCode": "538882"

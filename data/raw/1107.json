@@ -17,10 +17,7 @@
 	"bus": "51 , 66 , 66B , 78 , 79 , 97 , 97A , 98 , 105 , 105B , 143 , 176 , 197 , 333 , 334 , 335 , 506 ",
 	"GeneralInformation": {
 		"Principal": "MR PHUA KIA WANG",
-		"Vice Principal": [
-			"MDM TAN SIEW KHIAN FINELLA",
-			"MDM TEO SIEW KHIM"
-		],
+		"Vice Principal": "MDM TEO SIEW KHIM",
 		"Vice Principal (Admin)": "MR CHUA GIM HONG",
 		"School Vision": "EVERY CHILD A LIFELONG LEARNER, RESPONSIBLE LEADER AND GRACIOUS CITIZEN.",
 		"School Mission": "TO CREATE A VIBRANT LEARNING COMMUNITY WHERE EVERY INDIVIDUAL WILL EXPERIENCE SUCCESS.",
@@ -816,7 +813,20 @@
 					"Scout": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Band-Brass": "Commendation",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Girls' Brigade": "Silver",
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "609647"

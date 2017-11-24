@@ -24,8 +24,14 @@
 			"Mdm Tan Kay Ling"
 		],
 		"Vice Principal (Admin)": "Mr Fong Kok Wai",
-		"School Vision": "Soaring Individuals, Serving Citizens  As fulfilled individuals, our students go beyond what is ordinary or limiting.  We envision them as achievers who reach new heights. As citizens of Singapore and the world, our students remain rooted in humility, ready to serve and reciprocate for what they have received from society. They seek to return more than they receive, continually.",
-		"School Mission": "Nurturing Character, Enriching Lives.  The education and care given to our students impacts on their later development and shape attitudes. We exist to nurture character as the foundation for self-knowledge and success. The meeting of our students' needs, drives us to provide more than the basics, and customised to their abilities and aptitudes. Armed with moral strength and enriched with meaningful life lessons, our students can self-actualise in the near future.",
+		"School Vision": [
+			"Soaring Individuals, Serving Citizens",
+			"As fulfilled individuals, our students go beyond what is ordinary or limiting.  We envision them as achievers who reach new heights. As citizens of Singapore and the world, our students remain rooted in humility, ready to serve and reciprocate for what they have received from society. They seek to return more than they receive, continually."
+		],
+		"School Mission": [
+			"Nurturing Character, Enriching Lives.",
+			"The education and care given to our students impacts on their later development and shape attitudes. We exist to nurture character as the foundation for self-knowledge and success. The meeting of our students' needs, drives us to provide more than the basics, and customised to their abilities and aptitudes. Armed with moral strength and enriched with meaningful life lessons, our students can self-actualise in the near future."
+		],
 		"School Philosophy, Culture and Ethos": "We are guided by our philosophy 'Every child matters and can learn and achieve', in our efforts to develop and nurture our students.  Aligned to the school's belief and commitment to provide a student-centric, values-driven education for every child and in nurturing each child holistically to be the best that he/she can be, the school has laid a strong foundation to deliver this outcome. This is done through growing staff capacity, developing student potential and enhancing its infrastructure and putting the appropriate systems and processes in place.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -84,7 +90,7 @@
 			"Coding": "Inculcating 21st Century Competencies Through Robotics in Math & Science Curriculum",
 			"Music & Performing Arts": "Developing Aesthetics Appreciation  Through Music Empowerment"
 		},
-		"Special Student Development Programmes Offered": "The school believes in the importance of developing effective communication skills in the students as part of holistic education. The Mastery In Communication Skills (MICS) Programme developed by the EL Department leverages the use of speech and drama activities to systematically develop in all Compassvalites the confidence and oral competency to navigate in the 21st century.  The school's ALP on 'Developing 21CC Through Robotics in Math & Science Curriculum' leverages the use of robotics to enhance teaching and learning of Math & Science while developing 21CC in students. Students acquire social and emotional skills as they engage actively in self-directed and collaborative learning activities that require them to overcome challenges and seek solutions to novel situations. This makes learning of Math and Science an enjoyable experience for them as well as strengthens the link between theories and real-life applications.  The school's LLP on \"Developing Aesthetics Appreciation Through Music Empowerment\" aims to equip students with music appreciation skills and to nurture them to become active participants and informed audiences for the arts. The broad-based integrated Music programme makes the learning of aesthetics an enjoyable experience for the students. Students develop the ability for creative self-expression through the use of their voices or by playing a range of melodic and rhythmic instruments such as keyboard, percussion and string.  As part of the school's commitment to enhance our students' social and emotional learning (SEL), a resource package for parents-ESEL@Home has been developed by the CCE Department. This package aims to better equip parents with the knowledge and skills to enhance SEL in their children within the home context.  As parents are our closest partners in developing the students, the ESEL@Home offers a meaningful opportunity for the school to work in partnership with them to raise students as Soaring Individuals, Serving Citizens."
+		"Special Student Development Programmes Offered": "The school believes in the importance of developing effective communication skills in the students as part of holistic education. The Mastery In Communication Skills (MICS) Programme developed by the EL Department leverages the use of speech and drama activities to systematically develop in all Compassvalites the confidence and oral competency to navigate in the 21st century."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -102,6 +108,12 @@
 				]
 			},
 			"2016": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"2017": {
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)"
@@ -187,6 +199,16 @@
 						"Senior"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -269,11 +291,46 @@
 					"year": "2016",
 					"category": "Ensemble - Harmonica",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Harmonica",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
 				{
 					"year": "2015",
+					"category": "Red Cross",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
 					"category": "Red Cross",
 					"award": "Bronze"
 				}

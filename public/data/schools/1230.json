@@ -20,13 +20,13 @@
 	"bus": "Bus No. 2 , 9 , 12 , 24 , 31 , 34 & 38 ",
 	"GeneralInformation": {
 		"Principal": "Mrs Ng Kim Choo Celine",
-		"Vice Principal": [
-			"Mdm Ho Fui Fong",
-			"Mdm Heilda Iryani Bte Abdul Wahid"
-		],
+		"Vice Principal": "Mdm Ho Fui Fong",
 		"School Vision": "Empowered Learners, Persons of Strength and Character",
 		"School Mission": "To empower BGPians to learn how to learn and succeed, and nurture them to be confident persons and concerned citizens.",
-		"School Philosophy, Culture and Ethos": "Bedok Green Primary's philosophy that 'Every Child Matters' undergirds our unyielding belief that every child is special, valuable and important, and thus will receive the necessary support to ensure his success in life, regardless of his starting point, with many helping hands, sound structures and a myriad of programmes for various student segments put in place. We build the students' resilience, confidence and strong thirst for success, despite the challenges and obstacles, always cheered on and encouraged by their teachers and peers. The school philosophy unites the school as one, as every member of the school community takes accountability of his role in ensuring individual and collective success. We also ensure that students learn in a warm, nurturing and conducive environment for their holistic development.   The philosophy also drives the school's strong culture of care for its students, staff and stakeholders. Every member of the school community is respected and recognised for his contribution, big or small, with ample opportunities to succeed. Character-building and Values-In-Action programmes focus on contributing to their peers, the school and community, reiterating the importance of giving generously back to society, in our own ways.",
+		"School Philosophy, Culture and Ethos": [
+			"Bedok Green Primary's philosophy that 'Every Child Matters' undergirds our unyielding belief that every child is special, valuable and important, and thus will receive the necessary support to ensure his success in life, regardless of his starting point, with many helping hands, sound structures and a myriad of programmes for various student segments put in place. We build the students' resilience, confidence and strong thirst for success, despite the challenges and obstacles, always cheered on and encouraged by their teachers and peers. The school philosophy unites the school as one, as every member of the school community takes accountability of his role in ensuring individual and collective success. We also ensure that students learn in a warm, nurturing and conducive environment for their holistic development. ",
+			"The philosophy also drives the school's strong culture of care for its students, staff and stakeholders. Every member of the school community is respected and recognised for his contribution, big or small, with ample opportunities to succeed. Character-building and Values-In-Action programmes focus on contributing to their peers, the school and community, reiterating the importance of giving generously back to society, in our own ways."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -57,7 +57,7 @@
 		"School Distinctive Programmes": {
 			"Sports & Outdoor Education": "Sports to Reinforce Values Education or STRIVE @ BGPS"
 		},
-		"Special Student Development Programmes Offered": "Learning for Life Programme Sports to Reinforce Values Education (STRIVE @ BGPS): STRIVE @ BGPS taps on key platforms such as physical education lessons, co-curricular activities (CCA) and outdoor education programmes to inculcate values in students so as to develop their character and citizenship, as well as hone their social-emotional (SEL) and 21st century competencies.    Innovations in the Use of Information and Communication Technology (ICT) in Teaching and Learning: As part of its efforts to achieve its vision of empowered learners, these ICT initiatives encourage students to be self-directed and collaborative learners.  Flipped Learning: In the flipped classroom model, students view video lectures at home to prepare for lessons the next day, and arrive in class ready to discuss, analyse and apply the information they had already learned. Teachers are skilful facilitators who engage students in robust discussions and meaningful activities in a student-centric classroom.  Mobile Learning: Students have the opportunity to learn using mobile devices like iPads, making their learning experiences authentic and tactile with the aim to have higher student engagement levels during lessons and improved student ahicvements.  Curriculum Experience Day: The Curriculum Experience Day presents our students with opportunities to be immersed in a day of exciting and innovative activities which promote critical and creative thinking. Parents also have a chance to be in school to learn alongside with their children and understand the school's curriculum offerings better through these bonding activities."
+		"Special Student Development Programmes Offered": "Learning for Life Programme Sports to Reinforce Values Education (STRIVE @ BGPS): STRIVE @ BGPS taps on key platforms such as physical education lessons, co-curricular activities (CCA) and outdoor education programmes to inculcate values in students so as to develop their character and citizenship, as well as hone their social-emotional (SEL) and 21st century competencies.  "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -214,6 +214,36 @@
 						"Senior"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -301,6 +331,36 @@
 					"year": "2016",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -333,6 +393,16 @@
 					"year": "2016",
 					"category": "Scout",
 					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Brownies (Pack 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Scout",
+					"award": "Silver"
 				}
 			]
 		}

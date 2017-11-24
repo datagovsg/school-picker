@@ -17,14 +17,14 @@
 	"bus": "410 , 162 , 52 ",
 	"GeneralInformation": {
 		"Principal": "MDM GOH LING LING DIANE",
-		"Vice Principal": [
-			"MISS WONG LIANG- JI TABITHA",
-			"MISS KAREN YAW LI LING"
-		],
+		"Vice Principal": "MISS KAREN YAW LI LING",
 		"Vice Principal (Admin)": "MISS GABRIELLE ANN LEW SIEW CHIN",
 		"School Vision": "A School of Dynamic Learners in a Culture of Care",
 		"School Mission": "To Nurture Students of Good Character Rooted in Chinese Culture",
-		"School Philosophy, Culture and Ethos": "Ai Tong School was founded on 12 October 1912 for children of poor Chinese immigrants. In 1929, the school received the patronage of Singapore Hokkien Huay Kuan and has, since then, been one of its affiliated schools. Ai Tong School marked a significant milestone in 1989 when it was designated as a Special Assistance Plan (SAP) School. In 2012, Ai Tong School celebrated its 100th anniversary.  The school believes that Ai Tong pupils should be exposed to a holistic education grounded in values within a SAP context. This culture is deep-seated, and is shaped by our heritage and history. Guided by this belief together with our school motto and value of 'Sincerity and Perseverance', the school is committed to nurture students of good character rooted in Chinese Culture. These values are unpacked for the students into the four Dynamic Learners with its associated observable qualities and social emotional competencies for the 21st century. The four Dynamic Learners are the Socially Responsible Leader, Bilingual Communicator, Knowledgeable Innovator and Sports and Cultural Enthusiast.",
+		"School Philosophy, Culture and Ethos": [
+			"Ai Tong School was founded on 12 October 1912 for children of poor Chinese immigrants. In 1929, the school received the patronage of Singapore Hokkien Huay Kuan and has, since then, been one of its affiliated schools. Ai Tong School marked a significant milestone in 1989 when it was designated as a Special Assistance Plan (SAP) School. In 2012, Ai Tong School celebrated its 100th anniversary.",
+			"The school believes that Ai Tong pupils should be exposed to a holistic education grounded in values within a SAP context. This culture is deep-seated, and is shaped by our heritage and history. Guided by this belief together with our school motto and value of 'Sincerity and Perseverance', the school is committed to nurture students of good character rooted in Chinese Culture. These values are unpacked for the students into the four Dynamic Learners with its associated observable qualities and social emotional competencies for the 21st century. The four Dynamic Learners are the Socially Responsible Leader, Bilingual Communicator, Knowledgeable Innovator and Sports and Cultural Enthusiast."
+		],
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese",
 		"Affiliated Schools": "Not Applicable"
@@ -60,7 +60,6 @@
 		],
 		"Visual and Performing Arts": [
 			"Art Club",
-			"Band - Brass",
 			"Choir",
 			"Dance",
 			"Ensemble - Guzheng",
@@ -79,7 +78,7 @@
 			"Music & Performing Arts": "Caring through ARTS",
 			"Sports & Outdoor Education": "Character and Leadership Development through Outdoor Education Programme"
 		},
-		"Special Student Development Programmes Offered": "As a Special Assistance Plan (SAP) school, Ai Tong School aims to nurture Chinese values and culture among the pupils. Through a 6-year Chinese culture program, the school aims to develop pupils into Bilingual Communicators and Cultural Enthusiasts. Through experiential learning like Dizigui through speech and drama, Chinese painting during Art lessons, the reading of Chinese Classics and the participation in a Bi-Cultural Elective Programme, the school aims to heighten the students' appreciation of the Chinese Culture and inculcate in them Chinese values.  Besides, the school also has two signature Learning for Life Program where pupils participate throughout their six years in the school to develop them into the four Dynamic Learners. The two programs are Outdoor Education and Music and Performing Arts.   Outdoor Education aims to develop 21st century competencies and leadership skills in our pupils to prepare them for the increasingly complex and globalised world. Through activities such as camp craft, outdoor orienteering, team-bonding games and camps, the school hopes to provide platforms for pupils to construct knowledge, develop social and leadership skills and acquire values from direct, hands-on activities and experiences.   Our Music and Performing Arts program aims to provide holistic learning experiences for our pupils and to instil in them an appreciation for the aesthetics. In this program, pupils will be exposed to different genre of music and art forms over the years.  For instance, pupils will learn to play musical instruments such as the kompang, guzheng and the ukulele. They will also have the opportunity to participate in the creation of Kolam art and digital collage."
+		"Special Student Development Programmes Offered": "As a Special Assistance Plan (SAP) school, Ai Tong School aims to nurture Chinese values and culture among the pupils. Through a 6-year Chinese culture program, the school aims to develop pupils into Bilingual Communicators and Cultural Enthusiasts. Through experiential learning like Dizigui through speech and drama, Chinese painting during Art lessons, the reading of Chinese Classics and the participation in a Bi-Cultural Elective Programme, the school aims to heighten the students' appreciation of the Chinese Culture and inculcate in them Chinese values."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -1408,7 +1407,132 @@
 					"Scout": "Silver"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"2nd",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"4th",
+						"3rd",
+						"-",
+						"1st",
+						"1st",
+						"1st",
+						"2nd"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div"
+					],
+					[
+						"Track & Field",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div"
+					],
+					[
+						"Swimming",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Band-Brass": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "579646"

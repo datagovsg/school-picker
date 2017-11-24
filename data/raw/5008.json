@@ -23,7 +23,10 @@
 		],
 		"School Vision": "Lifelong Learners, Caring Citizens",
 		"School Mission": "Enabling youth in a Lasallian community to learn how to learn and to learn how to live; empowering them to be men of integrity and men for others",
-		"School Philosophy, Culture and Ethos": "De La Salle School was founded in 1952 by the De La Salle Brothers, and is one of the eight Christian Brothers Schools (CBS) in Singapore. The School takes pride in providing an all-inclusive environment for students (Lasallians) and staff of all races and religions to learn and work together.  The School believes that all Lasallians have the faith and zeal to learn and live to the best of their ability.  They can also serve and show care for others and in particular the last, the lost and the least in the community.    The School promotes a positive and flourishing school culture where staff, parents and Lasallians take ownership of their own learning and well-being, to know that they can make positive choices of everything in their lives if they can practise mindfulness and gratitude. The school focuses on building a De La Salle School brand of quality work, service and relationships that ensure professionalism and uplifting Lasallians' and staff morale.",
+		"School Philosophy, Culture and Ethos": [
+			"De La Salle School was founded in 1952 by the De La Salle Brothers, and is one of the eight Christian Brothers Schools (CBS) in Singapore. The School takes pride in providing an all-inclusive environment for students (Lasallians) and staff of all races and religions to learn and work together.  The School believes that all Lasallians have the faith and zeal to learn and live to the best of their ability.  They can also serve and show care for others and in particular the last, the lost and the least in the community.  ",
+			"The School promotes a positive and flourishing school culture where staff, parents and Lasallians take ownership of their own learning and well-being, to know that they can make positive choices of everything in their lives if they can practise mindfulness and gratitude. The school focuses on building a De La Salle School brand of quality work, service and relationships that ensure professionalism and uplifting Lasallians' and staff morale."
+		],
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
@@ -84,7 +87,7 @@
 		"School Distinctive Programmes": {
 			"Community Service & Student Leadership": "Positive Education@DLS: Nurturing Mindful Servant Leaders"
 		},
-		"Special Student Development Programmes Offered": "Lifelong Learning Programme:  Positive Education@ DLS Nurturing Mindful Servant Leaders  De La Salle School focuses on nurturing our Lasallians to be Lifelong Learners and Caring Citizens. This is done through our focus on Lasallian values of Faith, Service and Community as well as the School values of Respect, Responsibility and Resilience. Using Positive Education as our approach towards nurturing mindful servant leaders, the motto of our leadership programme, \"To Serve with Zeal and Faith\" focuses on our in-house servant leadership programme which incorporates Robert Greenleaf's philosophy of Servant Leadership with the five elements of Martin Seligman's PERMA model of well-being. Lasallians who possess strong leadership potential will be further developed through 3 leadership tracks namely, Class leadership, CCA leadership and Lasallian leadership.   Special Programmes :  MentoringMatters and Character Building Programme   The MentoringMatters in De La Salle School aims to strengthen the Social and Emotional (SE) Competencies of Lasallians to help them better manage and learn from challenges faced.  The Character Building Programme provides opportunities for selected Primary Three to Five Lasallians in developing their self and social management competencies. It includes in hands-on activities such as Traditional Chinese Drumming to develop Lasallians' social-emotional competencies, self-regulatory skills and ability to exercise discernment through experiential learning opportunities. The programme culminates in a performance put by the students involved, at one of the school's formal events, allowing them to showcase their abilities and to celebrate their achievements as a Lasallian community."
+		"Special Student Development Programmes Offered": "Lifelong Learning Programme: "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -906,7 +909,77 @@
 					"Scout": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Commendation",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Gold",
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "689285"

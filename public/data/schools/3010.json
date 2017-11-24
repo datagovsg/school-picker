@@ -89,7 +89,7 @@
 			"STEM": "Real-world Explorations in ICT",
 			"Community & Youth Leadership": "Project Ablaze: Harnessing Student Leadership in the Service of Community"
 		},
-		"Special Student Development Programmes Offered": "1. 'O' Level Computing is offered as an Elective Subject 2. Mobile Robotics is offered as an Elective Subject. 3.  English Excellence to develop Confident Persons - Sec 1 Storytelling, Sec 2 Drama, Sec 3 Debate. 4. Global Students' Programme. 5. Serangoon Student Leadership Development (SSLeaD) incorporating NYAA. 6. Aesthetics Exposure and Enrichment for all students. 7. Character Development. 8. Values in Action, with emphasis on student-initiated activities. 9. LLP Project Ablaze: Harnessing Student Leadership in the Service of Community. 10. ALP: Real-world explorations in ICT. 11. Sports Education Programme. 12. Elective Modules for Normal stream students & Advanced Elective Modules for Express and Normal Academic stream students."
+		"Special Student Development Programmes Offered": "1. 'O' Level Computing is offered as an Elective Subject 2. Mobile Robotics is offered as an Elective Subject. 3. English Excellence to develop Confident Persons - Sec 1 Storytelling, Sec 2 Drama, Sec 3 Debate. 4. Global Students' Programme. 5. Serangoon Student Leadership Development (SSLeaD) incorporating NYAA. 6. Aesthetics Exposure and Enrichment for all students. 7. Character Development. 8. Values in Action, with emphasis on student-initiated activities. 9. LLP Project Ablaze: Harnessing Student Leadership in the Service of Community. 10. ALP: Real-world explorations in ICT. 11. Sports Education Programme. 12. Elective Modules for Normal stream students & Advanced Elective Modules for Express and Normal Academic stream students."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -100,6 +100,9 @@
 				"Development Award": "DA (Character Development)"
 			},
 			"2016": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2017": {
 				"Development Award": "DA (Character Development)"
 			},
 			"Sports & Games Competition": [
@@ -219,6 +222,41 @@
 					"year": "2016",
 					"category": "Orchestra - Chinese",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Sectional Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -295,6 +333,31 @@
 				{
 					"year": "2016",
 					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
 					"award": "Gold"
 				}
 			]

@@ -19,7 +19,11 @@
 		"Principal": "MDM LEONG BENG YUET DAPHNE",
 		"Vice Principal": "MR LIM JIT HIN",
 		"Vice Principal (Admin)": "MDM MARY YAP PEI IMM",
-		"School Vision": "Vibrant School Culture of Care Spirit of Excellence",
+		"School Vision": [
+			"Vibrant School",
+			"Culture of Care",
+			"Spirit of Excellence"
+		],
 		"School Mission": "To nurture healthy and happy individuals with strength of character, ready to serve, ready for the future.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -79,7 +83,13 @@
 					"Dance - International": "Accomplishment"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment"
+				}
+			}
 		}
 	},
 	"postalCode": "797636"

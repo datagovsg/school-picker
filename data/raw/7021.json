@@ -17,10 +17,7 @@
 	"bus": "48 , 93 , 153 , 165 , 174 , 186 , 855 , 961 ",
 	"GeneralInformation": {
 		"Principal": "MDM LEE LIN YEE",
-		"Vice Principal": [
-			"MR TAN KING MING",
-			"MISS LIM HUI KHENG LINDA"
-		],
+		"Vice Principal": "MISS LIM HUI KHENG LINDA",
 		"School Vision": "A Community of Learners Growing and Glowing for God.",
 		"School Mission": "To provide an All-Round Education in a Christ-centred Environment to nurture Confident, Creative and Caring Young Ladies who will serve God, the Country and the Community.",
 		"School Philosophy, Culture and Ethos": "Founded in 1842, St. Margaret's Secondary School is an autonomous mission school that strives to develop every girl to her fullest potential by equipping her with the skills, knowledge and attributes to become a confident, creative and caring young lady with sound values. We provide a value-added education with emphasis on the cognitive, character and aesthetics development of each girl. Our enriching curriculum and co-curriculum have brought about many value-added outcomes in student learning and development.",
@@ -1237,7 +1234,118 @@
 					"Red Cross": "Silver"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": "BPA (Student All-Round Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					],
+					[
+						"Fencing",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Rhythmic)",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"2nd"
+					],
+					[
+						"Tenpin Bowling",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Drama - Multi-Lingual": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Gold",
+					"Girls' Brigade": "Gold",
+					"Npcc (Land)": "Bronze",
+					"Red Cross": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

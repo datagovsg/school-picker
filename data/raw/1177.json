@@ -21,9 +21,22 @@
 			"MDM LEE HWEE KHENG",
 			"MR WONG KIN MUN"
 		],
-		"School Vision": "Global Learners of Tomorrow - Confident Person    - Successful Learner - Involved Citizen",
+		"School Vision": [
+			"Global Learners of Tomorrow",
+			"- Confident Person   ",
+			"- Successful Learner",
+			"- Involved Citizen"
+		],
 		"School Mission": "A vibrant school that inspires all to maximize their potential, instills in them a passion for learning and brings out in them a heart to serve.",
-		"School Philosophy, Culture and Ethos": "We, at Fernvale Primary School, believe that Every Child Can Learn and Every Child is Unique.  Every Child Can Learn - Each child comes to our school with a different entry point. We identify the learning needs of each child and customize the curriculum to pace each child's learning in a safe environment, conducive for learning. Our teachers guide each child's efforts by giving regular feedback, emphasizing that effort directed at growth leads to success. Every child is engaged in his assessment, setting his own learning targets and taking the responsibility to track, reflect on and share his learning progress with peers.  Every Child is Unique - Each child has strengths and interests that are different from others. We recognize the abilities every child has in the area of Sports, Art & Crafts and Music. Our teachers design a range of programmes in and out of the classroom, nurturing the potential in Sports and Aesthetics in every child at the level the child can attain.  Our Defining Statement, Caring Hearts, Creative Minds, Uniquely Fernvale, characterizes our school.  Caring Hearts - We believe in fostering good relationships between staff and students. Every member of our staff, from our security guards to our teachers, nurtures a caring attitude towards our students. Our Student Development Team creates appropriate level-wide programmes to deepen the bonding between teachers and students.  Creative Minds - We promote a culture of innovation among our teachers, working in collaborative teams to create programmes that enhance student learning.  Uniquely Fernvale - We do things differently in developing a Quality School Experience for our students. We encourage students of different cultures to participate in CCAs such as Dikir Barat, Wushu, Guzhen and Indian Dance, for them to appreciate other cultures. Our Learning for Life Programme and Satellite Partnership with Fernvale Gardens School, emphasizing a heart to serve, also add to our uniqueness.",
+		"School Philosophy, Culture and Ethos": [
+			"We, at Fernvale Primary School, believe that Every Child Can Learn and Every Child is Unique.",
+			"Every Child Can Learn - Each child comes to our school with a different entry point. We identify the learning needs of each child and customize the curriculum to pace each child's learning in a safe environment, conducive for learning. Our teachers guide each child's efforts by giving regular feedback, emphasizing that effort directed at growth leads to success. Every child is engaged in his assessment, setting his own learning targets and taking the responsibility to track, reflect on and share his learning progress with peers.",
+			"Every Child is Unique - Each child has strengths and interests that are different from others. We recognize the abilities every child has in the area of Sports, Art & Crafts and Music. Our teachers design a range of programmes in and out of the classroom, nurturing the potential in Sports and Aesthetics in every child at the level the child can attain.",
+			"Our Defining Statement, Caring Hearts, Creative Minds, Uniquely Fernvale, characterizes our school.",
+			"Caring Hearts - We believe in fostering good relationships between staff and students. Every member of our staff, from our security guards to our teachers, nurtures a caring attitude towards our students. Our Student Development Team creates appropriate level-wide programmes to deepen the bonding between teachers and students.",
+			"Creative Minds - We promote a culture of innovation among our teachers, working in collaborative teams to create programmes that enhance student learning.",
+			"Uniquely Fernvale - We do things differently in developing a Quality School Experience for our students. We encourage students of different cultures to participate in CCAs such as Dikir Barat, Wushu, Guzhen and Indian Dance, for them to appreciate other cultures. Our Learning for Life Programme and Satellite Partnership with Fernvale Gardens School, emphasizing a heart to serve, also add to our uniqueness."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -63,7 +76,7 @@
 		"School Distinctive Programmes": {
 			"Community Service & Student Leadership": "Greenova - To nurture, innovative, responsible, young environmentalists who love and care for the environment"
 		},
-		"Special Student Development Programmes Offered": "Programmes that build the Confident Person Programme for Active Learning develops social emotional learning competencies in P1-P2 students through active participation in Sports, Outdoor Education, Speech & Drama and Visual & Performing Arts.   Morning Wellness Programme, Play@Recess and Sports Club activities build students' fitness.   Art Talk for all focusses on understanding and appreciating different art forms.  Student Leadership, a 3-tiered approach of Self, Team and Thought Leadership targets 3 groups of students, namely classroom leaders, prefects & CCA leaders and prefects at EXCO respectively.   Camps at P5 and P6 build confidence, resilience and teamwork in students and strong teacher-student bonding.  Programmes that develop the Successful Learner The Guided Reading programme for P1-P3 and P5-P6 Foundation students builds varied vocabulary. P4-P6 students use Socratic questioning to develop critical thinking skills, reading the Little Red Dot. Read & Share@Fernvale cultivates a love for reading Mother Tongue books.   Mathematics trails for all to enhance thinking and problem solving skills.  Budding Scientist programme at P1- P2 builds curiosity in Science. Science Talk facilitates inquiry at P4-P6. P6 students conduct experiments and articulate Science concepts to their peers through Busking @Recess.  The use of ICT in Project Work, classroom activities and learning journeys to develop skills in self-directed and collaborative learning in all students.  Programmes that grow the Involved Citizen Learning for Life Programme, Greenova, nurtures innovative and responsible environmentalists who care and advocate for the environment in school and the community. Our students recycle, reduce food waste and innovate ways to conserve water.   We are on a Satellite Partnership with Fernvale Gardens School, nurturing our students to socially interact and grow friendships with their SPED school buddies."
+		"Special Student Development Programmes Offered": "Programmes that build the Confident Person"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -500,7 +513,63 @@
 					"Scout": "Silver"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"4th",
+						"-",
+						"4th",
+						"-",
+						"1st",
+						"1st",
+						"1st",
+						"1st"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Dance - Indian": "Distinction",
+					"Ensemble - Guitar": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "797701"

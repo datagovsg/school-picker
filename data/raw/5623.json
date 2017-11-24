@@ -23,7 +23,10 @@
 			"MRS JACQUELINE HIEW"
 		],
 		"Vice Principal (Admin)": "MR TAN TAU CHIN VINCENT",
-		"School Vision": "Engaged Learner Contributing Leader",
+		"School Vision": [
+			"Engaged Learner",
+			"Contributing Leader"
+		],
 		"School Mission": "To provide our pupils with an all-rounded bilingual education that will develop them into responsible and forward-looking individuals who will serve God and our nation.",
 		"School Philosophy, Culture and Ethos": "Every child can be nurtured and developed.",
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / DOUBLE SESSION",
@@ -88,7 +91,7 @@
 			],
 			"Sports & Outdoor Education": "STAR (Self-defence, Track & field, Adventure and Racquet games) @ PHPPS"
 		},
-		"Special Student Development Programmes Offered": "Chinese Arts Programme (CAP) for P1 - P6; Art and music lessons are taught in Chinese for P1 - P3 Leadership development for all"
+		"Special Student Development Programmes Offered": "Chinese Arts Programme (CAP) for P1 - P6; Art and music lessons are taught in Chinese for P1 - P3"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -1258,7 +1261,78 @@
 					"Girls' Brigade": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Gymnastics (Rhythmic)",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"3rd",
+						"3rd",
+						"-",
+						"2nd",
+						"2nd",
+						"1st",
+						"2nd",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guitar": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment",
+					"Choir": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "597610"

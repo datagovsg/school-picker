@@ -35,5 +35,5 @@ export default async function aggregate (base, years) {
     const postalCode = json.address.match(/\( (\d{6}) \)$/)
     json.postalCode = postalCode && postalCode[1]
   }
-  fs.writeFileSync(`data/raw2/${base.code}.json`, JSON.stringify(json, null, '\t'))
+  fs.writeFileSync(`data/raw/${base.code}.json`, JSON.stringify(json, null, '\t'))
 }

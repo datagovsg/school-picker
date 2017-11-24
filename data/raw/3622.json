@@ -17,10 +17,7 @@
 	"bus": "27 , 82 , 83 , 86 , 88 , 89 , 89E , 136 , 161 , 371 , 965 ",
 	"GeneralInformation": {
 		"Principal": "MR CHIA CHOR YANN",
-		"Vice Principal": [
-			"MR SUKHDEV SINGH S/O GURDEEP SINGH",
-			"MR WONG JIA WANG"
-		],
+		"Vice Principal": "MR SUKHDEV SINGH S/O GURDEEP SINGH",
 		"Vice Principal (Admin)": "MR PHANG CHEE KHENG",
 		"School Vision": "World Ready Youth - Innovative contributors, upright citizens with a global outlook",
 		"School Mission": "We develop our students to their fullest potential through a balanced education and instil in them a passion for living and learning.",
@@ -432,7 +429,68 @@
 					"Red Cross": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girl Guides (Coy 1)": "Bronze",
+					"Ncc (Air)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

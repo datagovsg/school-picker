@@ -17,10 +17,19 @@
 	"bus": "27 , 43 , 109 , 156 , 159 , 161 , 163 , 163M , 550 ",
 	"GeneralInformation": {
 		"Principal": "MR CHUA KOK YONG CLIFFORD",
-		"Vice Principal": "MS SAADIAH SAADON WYLDE",
+		"Vice Principal": [
+			"MS SAADIAH SAADON WYLDE",
+			"MR LOH BIN"
+		],
 		"School Vision": "Curious Minds, Caring Hearts, Creative Spirits",
 		"School Mission": "To develop the whole child to be a force for good in the world",
-		"School Philosophy, Culture and Ethos": "Palm View Primary School believes in the potential of every child. Each is unique, and possesses the capacity to learn, advance and succeed. We believe our children can be inspired towards excellence. As educators, we are guardians of our children's future. To safeguard what is entrusted to us, it is critical that we channel our educational efforts towards developing the whole child to be 21st century learners so that they can be a force for good in the world. This is our mission and calling.  We are guardians of children's curiosity for learning. Children are naturally curious. They question, explore and wonder and so they grow and learn. At PLVPS, we want our children to stay curious and develop an inquisitive spirit that thrives on exploration and discovery. This will better prepare them for an unpredictable world.  We are guardians of children's tender hearts for caring. Growing up in small nucleus families today, we need to nurture children's gentle hearts towards love and care for others. At Palm View, we cultivate, in our children, the virtue of looking out for the needs of others and to care deeply for those who are less fortunate than themselves.   We are guardians of our children's creative spirits. Children possess fertile imagination and view the world through their idiosyncratic lenses. Because creativity requires experimentation and enterprise, our teachers understand the need to promote diversity and multiple perspectives even as they provide a large emotional safety net for our children to manage failures, disappointments and discouragements. When we inspire children to dream big dreams and empower them to believe in themselves and their abilities, they will develop confidence and achieve great things in life.    Curious Minds, Caring Hearts, Creative Spirits... this is our vision for our children.",
+		"School Philosophy, Culture and Ethos": [
+			"Palm View Primary School believes in the potential of every child. Each is unique, and possesses the capacity to learn, advance and succeed. We believe our children can be inspired towards excellence. As educators, we are guardians of our children's future. To safeguard what is entrusted to us, it is critical that we channel our educational efforts towards developing the whole child to be 21st century learners so that they can be a force for good in the world. This is our mission and calling.",
+			"We are guardians of children's curiosity for learning. Children are naturally curious. They question, explore and wonder and so they grow and learn. At PLVPS, we want our children to stay curious and develop an inquisitive spirit that thrives on exploration and discovery. This will better prepare them for an unpredictable world.",
+			"We are guardians of children's tender hearts for caring. Growing up in small nucleus families today, we need to nurture children's gentle hearts towards love and care for others. At Palm View, we cultivate, in our children, the virtue of looking out for the needs of others and to care deeply for those who are less fortunate than themselves. ",
+			"We are guardians of our children's creative spirits. Children possess fertile imagination and view the world through their idiosyncratic lenses. Because creativity requires experimentation and enterprise, our teachers understand the need to promote diversity and multiple perspectives even as they provide a large emotional safety net for our children to manage failures, disappointments and discouragements. When we inspire children to dream big dreams and empower them to believe in themselves and their abilities, they will develop confidence and achieve great things in life.  ",
+			"Curious Minds, Caring Hearts, Creative Spirits... this is our vision for our children."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay",
 		"Affiliated Schools": "Not Applicable"
@@ -34,7 +43,24 @@
 		"PHYSICAL EDUCATION",
 		"SCIENCE"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Football",
+			"Netball",
+			"Table Tennis"
+		],
+		"Visual and Performing Arts": [
+			"Choir",
+			"Dance - Modern",
+			"Drama - English",
+			"Ensemble - String"
+		],
+		"Clubs & Societies": [
+			"Robotics Club",
+			"Science Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -42,7 +68,7 @@
 		"School Distinctive Programmes": {
 			"Languages": "Act-cellence: Education through Drama Programme"
 		},
-		"Special Student Development Programmes Offered": "ACT-cellence Education through Drama Our P1 and P2 students undergo a Speech and Drama programme to enhance and enrich their learning in English and Mother Tongue. Our students are given the opportunity to showcase their talents to their parents at the end of the programme through the Little Theatre performances. Beyond formal curriculum, drama is used in teaching values and Social and Emotional Learning (SEL) competencies through the school's Programme for Active Learning (PAL-Drama). We have been accorded the Applied Learning Programme (ALP) status for our ACT-cellence Education through Drama.   Palm View Challenge Palm View Challenge is a 6-year school-wide programme designed along different learning experiences aimed at developing children's life skills and values. Students at every level are challenged to complete different tasks, each carefully designed to develop in them desirable character traits for the 21st century.  The tasks range from tree-top adventure, school-based camps, and community projects. These activities are intentionally designed with certain elements of challenge to the children, so that in undergoing these experiences, they will develop character traits of confidence, empathy, resilience, courage, as well as, teamwork and communication.   One of the signature programmes in the Palm View Challenge is the Artizenry Project, which helps the child understand the context of society and culture. Through our collaboration with the Yellow Ribbon Project, students undergo meaning-making of issues using drama strategies, and then, as advocates, make artworks to raise awareness and funds for the cause. We aim to impress upon our children how they can contribute to the betterment of society and in so doing be a force for good in the world."
+		"Special Student Development Programmes Offered": "ACT-cellence Education through Drama"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -67,7 +93,12 @@
 					"Dance - International": "Distinction"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Dance - International": "Distinction"
+				}
+			}
 		}
 	},
 	"postalCode": "544822"

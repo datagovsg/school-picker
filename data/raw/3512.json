@@ -23,7 +23,10 @@
 		],
 		"School Vision": "Excellence Abounds, Aspirations Nurtured",
 		"School Mission": "Your Potential, Our Purpose - To nurture our students to their fullest potential, developing in them sound values, life-long learning and leadership skills, in an innovative and dynamic environment.",
-		"School Philosophy, Culture and Ethos": "Since 1956, the TKSS motto 'Diligentia, Ingenium, Dexteritas' has inspired generations of TK-sians in pioneering new pathways and actively shaping the community they live and work in. At TK, students are our pride. TKsians love their school.  From the moment they join TK, each student is immersed in the distinctive TK experience - an enriched, rigorous and balanced curriculum that makes a discernible difference in nurturing young people who believe in their ability to succeed, and are guided by sound values to positively contribute towards the well-being of others.  Learning experiences at TK nurture intellectual depth and thinking, flexibility, and the ability to deal with complexity in problem-solving.  Students acquire skills for self-directed learning and develop a sense of wonder and curiosity, even as they form a strong social conscience and make a commitment to serve others. Teachers at TK take pride in our caring culture and strong record of providing an all-rounded education that enables our students to realise their full potential. Well-known for excellence in academic achievement, CCAs, as well as character development of young people, TKSS adopts a holistic approach to help our students discover and become their best selves.",
+		"School Philosophy, Culture and Ethos": [
+			"Since 1956, the TKSS motto 'Diligentia, Ingenium, Dexteritas' has inspired generations of TK-sians in pioneering new pathways and actively shaping the community they live and work in.",
+			"At TK, students are our pride. TKsians love their school.  From the moment they join TK, each student is immersed in the distinctive TK experience - an enriched, rigorous and balanced curriculum that makes a discernible difference in nurturing young people who believe in their ability to succeed, and are guided by sound values to positively contribute towards the well-being of others.  Learning experiences at TK nurture intellectual depth and thinking, flexibility, and the ability to deal with complexity in problem-solving.  Students acquire skills for self-directed learning and develop a sense of wonder and curiosity, even as they form a strong social conscience and make a commitment to serve others. Teachers at TK take pride in our caring culture and strong record of providing an all-rounded education that enables our students to realise their full potential. Well-known for excellence in academic achievement, CCAs, as well as character development of young people, TKSS adopts a holistic approach to help our students discover and become their best selves."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -866,7 +869,92 @@
 					"Scout (Unit 1)": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Floorball",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Band-Display": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - Chinese": "Distinction",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Silver",
+					"Ncc (Land Boys)": "Gold",
+					"Ncc (Sea Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Scout (Unit 1)": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

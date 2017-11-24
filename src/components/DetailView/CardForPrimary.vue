@@ -430,7 +430,7 @@ export default {
     syfAchievements () {
       const info = this.achievementHistory && this.achievementHistory['SYF']
       if (info) {
-        const awardYears = ['2014', '2015', '2016']
+        const awardYears = ['2015', '2016', '2017']
         const legendItems = ['Distinction', 'Accomplishment', 'Recognition']
         const groupedbyCategory = groupBy(info, 'category')
         let rows = Object.keys(groupedbyCategory).map(category => {
@@ -459,7 +459,7 @@ export default {
       const info = this.achievementHistory && this.achievementHistory['Best Unit Award']
       if (info) {
         const groupedbyCategory = groupBy(info, 'category')
-        let awardYears = ['2014', '2015', '2016']
+        let awardYears = ['2015', '2016', '2017']
         let legendItems = ['Gold', 'Silver', 'Bronze']
         let rows = Object.keys(groupedbyCategory).map(category => {
           const groupedByYear = groupBy(groupedbyCategory[category], 'year')
@@ -486,7 +486,7 @@ export default {
     sportAchievements () {
       const info = this.achievementHistory && this.achievementHistory['Sports & Games Competition']
       if (info) {
-        const awardYears = ['2014', '2015', '2016']
+        const awardYears = ['2015', '2016', '2017']
         const legendItems = ['1st', '2nd', '3rd']
 
         let rows = []

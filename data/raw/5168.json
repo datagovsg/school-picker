@@ -54,7 +54,7 @@
 			"Languages": "Every Pupil an Effective Communicator",
 			"Sports & Outdoor Education": "Exposure-Experience-Excel through Sports"
 		},
-		"Special Student Development Programmes Offered": "Our SAP Flagship programme enhances the learning of Chinese Language and promote awareness and appreciation of Chinese culture through a structured 6-year programme. Part of the flagship programme is an overseas immersion programme that provides our students an opportunity to enhance their language proficiency, learn about the culture and interact with peers from a different country.  The Bi-Cultural Chinese Elective Programme (BiCEP) aims to develop a core group of effective bilinguals who have high proficiency in Chinese language skills as well as a good understanding of Chinese history and culture.   Our Applied Learning Programme (ALP) - \"Every Pupil an Effective Communicator\", provides a holistic approach in fostering a culture that values effective communication as a critical 21st century skill, and developing subject literacy in Kong Hwaians.  Our Learning for Life Programme (LLP) - \"Exposure-Experience-Excel through Sports\", promotes active participation in physical activities and inculcates a lifelong love for sports and the outdoors."
+		"Special Student Development Programmes Offered": "Our SAP Flagship programme enhances the learning of Chinese Language and promote awareness and appreciation of Chinese culture through a structured 6-year programme. Part of the flagship programme is an overseas immersion programme that provides our students an opportunity to"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -901,7 +901,89 @@
 					"Scout": "Silver"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"4th",
+						"4th",
+						"-",
+						"2nd",
+						"1st",
+						"2nd",
+						"3rd"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"2nd",
+						"1st",
+						"1st",
+						"1st"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "399772"

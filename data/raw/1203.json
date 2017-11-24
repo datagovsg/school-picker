@@ -19,7 +19,11 @@
 		"Principal": "MDM WONG LIN LIN AUDREY",
 		"Vice Principal": "MR MOHAMAD NOOR BIN ABDUL MANAF @",
 		"Vice Principal (Admin)": "MR DALJIT SINGH S/O DARBARA SINGH",
-		"School Vision": "An Innovative Thinker  A Gracious Leader  An Engaged Citizen",
+		"School Vision": [
+			"An Innovative Thinker ",
+			"A Gracious Leader ",
+			"An Engaged Citizen"
+		],
 		"School Mission": "To nurture the leader in everyone with a heart to give and a mind to grow.",
 		"School Philosophy, Culture and Ethos": "Inspired by the starfish story, the school has chosen starfish to be its school mascot. Underpinning this is the school's guiding pinciple of Every Child Matters, Every Staff Matters. The Chongzheng family is committed to making a positive difference in the lives of our students, while ensuring the professional development and well-being of our staff, so as to develop the CZ Star in every child.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
@@ -79,7 +83,7 @@
 		"School Distinctive Programmes": {
 			"Innovation & Enterprise": "EPIC -  Empowering Pupils to Innovate for Community (Fun Ideas Serious Solutions)"
 		},
-		"Special Student Development Programmes Offered": "The school's Applied Learning Programme is innovation and enterprise which is called EPIC - Empowering Pupils to Innovate for Community.  The tagline for this programme is Fun Ideas Serious Solutions. Through the school-based innovation curriculum, all P1-P6 students are progressively taught critical thinking, creative thinking, problem-solving and decision-making skills through Project Work. To enable the students to authentically apply their learning, the school integrates Project Work with Values-in-Action (VIA) programme. For our students who are inclined towards innovation, the school has established an Innovation Club to provide intensive training and exposure to competitions to hone their innovation skills. Students create products and embark on projects that help solve community issues.  In providing holistic education, the school conducts modular programmes for Music and Art. The students are also exposed to Environment Education through structured programmes that are organised throughout the year. With the setting up of Solar eHaven, an open garden-like learning deck on sustainable energy, Environment Education is integrated into the Science curriculum. There are various stations where pupils have hands-on activities to learn about energy conversion."
+		"Special Student Development Programmes Offered": "The school's Applied Learning Programme is innovation and enterprise which is called EPIC - Empowering Pupils to Innovate for Community.  The tagline for this programme is Fun Ideas Serious Solutions. Through the school-based innovation curriculum, all P1-P6 students are progressively taught critical thinking, creative thinking, problem-solving and decision-making skills through Project Work. To enable the students to authentically apply their learning, the school integrates Project Work with Values-in-Action (VIA) programme. For our students who are inclined towards innovation, the school has established an Innovation Club to provide intensive training and exposure to competitions to hone their innovation skills. Students create products and embark on projects that help solve community issues. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -804,7 +808,79 @@
 					"Scout": "Silver"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Hockey",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Gold",
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "529392"

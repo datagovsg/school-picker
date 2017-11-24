@@ -23,7 +23,15 @@
 		"Vice Principal (Admin)": "Mdm Foo Huey Ying",
 		"School Vision": "Every Marsilian can Learn, Lead and Serve",
 		"School Mission": "Nurturing Responsible Learners and Compassionate Leaders",
-		"School Philosophy, Culture and Ethos": "Established in 1958, Marsiling Primary School (MPS) has one of the longest history and heritage among schools in the Marsiling/Woodlands estate. The Marsiling Experience is anchored on a student-centric, values-driven, and holistic education to equip our students with the relevant skills and competencies to navigate a fast-changing world, and to develop them to become Responsible Learners and Compassionate Leaders who can Learn, Lead and Serve.  OUR PHILOSOPHY In MPS, we believe that developing the 21st century competencies and the focus on meaningful student engagement will enhance our students' cognitive and affective development, and eventual success in life. We will continue to inculcate the right values in our students and equip them with the relevant knowledge, skills and attitudes to better prepare them for future challenges. Through a comprehensive academic and co-curricular programme, anchored on student centric and values-driven learning, we hope to nurture all our students to achieve their full potential. In their 6 years at MPS, our students will grow to become Responsible Learners and Compassionate Leaders, ready to serve the community and nation as active young citizens.  OUR SCHOOL VALUES The school values are encapsulated in the acronym R2IC2E (Respect, Responsibility, Integrity, Commitment, Care and Esprit de Corps) and integrated into both the formal and informal curriculum of the school.  OUR SCHOOL MOTTO The school motto Ilmu Suluh Hidup (translated to mean 'Knowledge lights up our Lives'), as reflected in the school crest, continues to be of relevance today. The four interlocking rings represent our closely-knit multi-racial school population working in harmony. The stalk of padi is symbolic of hard work and effort required for success. The star reflects the belief we have that every student can achieve and education (symbolised by the pen) will blaze the way ahead for our students (as shown by the torch).",
+		"School Philosophy, Culture and Ethos": [
+			"Established in 1958, Marsiling Primary School (MPS) has one of the longest history and heritage among schools in the Marsiling/Woodlands estate. The Marsiling Experience is anchored on a student-centric, values-driven, and holistic education to equip our students with the relevant skills and competencies to navigate a fast-changing world, and to develop them to become Responsible Learners and Compassionate Leaders who can Learn, Lead and Serve.",
+			"OUR PHILOSOPHY",
+			"In MPS, we believe that developing the 21st century competencies and the focus on meaningful student engagement will enhance our students' cognitive and affective development, and eventual success in life. We will continue to inculcate the right values in our students and equip them with the relevant knowledge, skills and attitudes to better prepare them for future challenges. Through a comprehensive academic and co-curricular programme, anchored on student centric and values-driven learning, we hope to nurture all our students to achieve their full potential. In their 6 years at MPS, our students will grow to become Responsible Learners and Compassionate Leaders, ready to serve the community and nation as active young citizens.",
+			"OUR SCHOOL VALUES",
+			"The school values are encapsulated in the acronym R2IC2E (Respect, Responsibility, Integrity, Commitment, Care and Esprit de Corps) and integrated into both the formal and informal curriculum of the school.",
+			"OUR SCHOOL MOTTO",
+			"The school motto Ilmu Suluh Hidup (translated to mean 'Knowledge lights up our Lives'), as reflected in the school crest, continues to be of relevance today. The four interlocking rings represent our closely-knit multi-racial school population working in harmony. The stalk of padi is symbolic of hard work and effort required for success. The star reflects the belief we have that every student can achieve and education (symbolised by the pen) will blaze the way ahead for our students (as shown by the torch)."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -67,7 +75,7 @@
 		"School Distinctive Programmes": {
 			"Community Service & Student Leadership": "LEAD (Learn, Engage, Absorb, Demonstrate) to Serve @ MPS"
 		},
-		"Special Student Development Programmes Offered": "In MPS, school-based curriculum innovation, values-based holistic development, enhancing teachers' capacity, and building strong school-home partnerships are key drivers in developing the 21st century Marsilian learner.  We strive to instil in every Marsilian our core values of R2IC2E and nurture responsible active citizenship through service leadership. The school's Character and Citizenship Education programme is anchored on student and service leadership. The student leadership programme 'LEAD to Serve@MPS' focuses on developing each student's capacity to lead and influence others. The 'Green Citizenship' programme engages students in collective action as they learn to take care of the school and the environment together with their peers.    The school has developed milestone programmes in both the academic and non-academic domains to build strong fundamentals in learning, develop students' talents and interests, and prepare our learners for the future. Examples of these programmes include: - 'Champions@Math' equips students with problem-solving strategies and challenges them to work on increasingly more complex problems as they progress up the levels.  - 'Junior Science' and 'S.U.P.E.R Experience' equip our lower primary students with basic scientific knowledge and skills, develop their sense of curiosity and pique their interest in Science.  - 'Readers Theatre' builds students' confidence and reading fluency through fun and purposeful learning activities and opportunities for performance.  - 'Effective Communications Skills' aims to develop Marsilians as competent communicators and confident bilinguals.  - Art and Music Masterclasses provide a platform to identify talents and develop the passion of Marsilians in the Performing Arts."
+		"Special Student Development Programmes Offered": "In MPS, school-based curriculum innovation, values-based holistic development, enhancing teachers' capacity, and building strong school-home partnerships are key drivers in developing the 21st century Marsilian learner."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -130,6 +138,36 @@
 				},
 				{
 					"year": "2016",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
 					"category": "Track & Field",
 					"subCategory": [
 						"National",
@@ -204,6 +242,26 @@
 					"year": "2016",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -219,6 +277,11 @@
 				},
 				{
 					"year": "2016",
+					"category": "Brownies (Pack 1)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
 					"category": "Brownies (Pack 1)",
 					"award": "Bronze"
 				}

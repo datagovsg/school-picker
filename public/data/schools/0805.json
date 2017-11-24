@@ -21,11 +21,22 @@
 		"Principal": "Mr Low Chun Meng",
 		"Vice Principal": [
 			"Miss Moh Cui Rong Rebecca",
-			"Mr Ang Kay Yong Jeremy"
+			"Mr Ang Kay Yong Jeremy",
+			"Miss Wu Xinping Jennifer"
 		],
 		"Vice Principal (Admin)": "Mr Ning Tau Yee",
-		"School Vision": "A leading college serving the nation with: - Enhanced character development - Quality staff - Quality learners - Organisational excellence",
-		"School Mission": "Uphold Values Enhance Lifeskills Maximise Potential",
+		"School Vision": [
+			"A leading college serving the nation with:",
+			"- Enhanced character development",
+			"- Quality staff",
+			"- Quality learners",
+			"- Organisational excellence"
+		],
+		"School Mission": [
+			"Uphold Values",
+			"Enhance Lifeskills",
+			"Maximise Potential"
+		],
 		"Type of School": "Government-aided Sch / Co-ed School / Full Day",
 		"Mother Tongue": "Not Available",
 		"Affiliated Schools": [
@@ -131,6 +142,9 @@
 				"Development Award": "DA (Character Development)"
 			},
 			"2016": {
+				"School Distinction Awards": "SDA"
+			},
+			"2017": {
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
@@ -393,6 +407,86 @@
 						"'A' Div"
 					],
 					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Judo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Judo",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "1st"
 				}
 			],
 			"SYF": [
@@ -514,6 +608,46 @@
 				{
 					"year": "2016",
 					"category": "Orchestra - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - Chinese",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
 				}
 			],

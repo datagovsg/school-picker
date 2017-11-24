@@ -20,7 +20,10 @@
 		"Vice Principal": "Mr Hoy Kin Chung Edwin",
 		"School Vision": "A Life-long Learner, A Gracious Citizen",
 		"School Mission": "To build a vibrant environment that nurtures young minds and builds upright character",
-		"School Philosophy, Culture and Ethos": "We believe that education must prepare a child for life and work in the future.  We want to develop in our pupils the passion, the skills and the aptitude for learning so that they will be self-directed to learn, know how to learn and be always ready to acquire new knowledge and skills.   We want to build character in our pupils so that they will grow up with sound values, be confident persons doing what is good and right, taking care of their family, working well with others and contributing to society.    We believe in working in partnership with parents so that together we provide the best education possible for children to grow and develop right attitudes, beliefs, values and behaviour.",
+		"School Philosophy, Culture and Ethos": [
+			"We believe that education must prepare a child for life and work in the future.  We want to develop in our pupils the passion, the skills and the aptitude for learning so that they will be self-directed to learn, know how to learn and be always ready to acquire new knowledge and skills.   We want to build character in our pupils so that they will grow up with sound values, be confident persons doing what is good and right, taking care of their family, working well with others and contributing to society.  ",
+			"We believe in working in partnership with parents so that together we provide the best education possible for children to grow and develop right attitudes, beliefs, values and behaviour."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay",
 		"Affiliated Schools": "Not Applicable"
@@ -40,7 +43,7 @@
 		"School Distinctive Programmes": {
 			"Languages": "Orators@Waterway"
 		},
-		"Special Student Development Programmes Offered": "We provide a holistic education for our pupils to prepare them for life and work in the future. We want learning to be fun and meaningful. Some of our key programmes include:  Orators@Waterway: Orators@Waterway is a six-year programme to nurture pupils to be gracious persons, engaging communicators and confident leaders.  Approach - Experiential learning, peer learning, role-modelling and coaching from mentors. Lessons include dramatisation, storytelling, topical sharing, news writing, literature appreciation, programme hosting, persuasive speaking, debating and interview skills.  Good Morning School: Sharing every morning before the start of school on a wide range of subjects such as current affairs, world events, science, art and music to expose pupils to the world outside their classroom and Singapore.     Chinese Language Enrichment Course: A fun-filled and activity-based programme for pupils to develop an interest and appreciation of the Chinese Language and culture. Values are taught through classics (Di Zi Gui) --- Standards for Being a Good Pupil and Child.  Flipped Classroom: Waterway Primary School adopts Flipped Classroom to promote learning beyond the classroom. Teachers prepare lessons and upload them for pupils to learn at their own pace or to relearn the lessons when needed. Teachers may also direct pupils to access some resources on the internet which can then be used for lively discussions in the classroom. While some of the learning is done outside of class lessons, teachers can use classroom lesson time to focus on higher order or more complex learning processes such as applying, analysing, evaluating, creating, etc."
+		"Special Student Development Programmes Offered": "We provide a holistic education for our pupils to prepare them for life and work in the future. We want learning to be fun and meaningful. Some of our key programmes include:"
 	},
 	"AchievementHistory": {
 		"Primary": {

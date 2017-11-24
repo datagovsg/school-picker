@@ -130,6 +130,12 @@
 					"ODA (National Education)"
 				]
 			},
+			"2017": {
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)"
+				]
+			},
 			"Sports & Games Competition": [
 				{
 					"year": "2014",
@@ -150,6 +156,16 @@
 						"'A' Div"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -277,6 +293,51 @@
 					"year": "2016",
 					"category": "Drama - Multi-Lingual",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - Multi-Lingual",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - Malay",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []

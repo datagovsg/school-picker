@@ -97,7 +97,7 @@
 		"MOE Programmes": [
 			"MUSIC ELECTIVE PROGRAMME"
 		],
-		"Special Student Development Programmes Offered": "The TKGS Curriculum aims to develop 3 distinct characteristics:(a)Leaders of Character, who lead from within in service of others: The TKGS leadership philosophy is founded on the belief that leadership is not about rank, position or title, but service in and through leadership of others. Character & Citizenship Education is implemented through our LEGACY curriculum, CCA and VIA programs, enabling girls to use the Community Problem Solving method to tackle community issues. The TKGS Truly! Programme instils TKGian identity and school pride, while the OBS Experience, Global Perspectives and Work Attachment Programmes complement our integrated approach to CCE. (b)High Achievers who are self-directed learners, demonstrating deep disciplinary understanding: Learning in the academic curriculum is anchored in a robust and progressive approach. TKGS+ is Programme for Leadership, Understanding and Stewardship, challenging TKGians to confront and tackle deeper concepts in authentic experiences beyond the classroom. There are 3 strands to TKGS+: Mathematics & Science, Languages & Humanities, and Music. TKGians offer Core and Elective Modules where they focus their learning on 21st century competencies, made possible through study trips and mentorship by professionals. TKGS is also the East Zone Centre of Excellence for English Language. (c)Women of Grace who are critical and inventive thinkers in their appreciation and pursuit of the arts: We tap into Lincoln Center's Capacities for Imaginative Learning and Visible Thinking for the study of Art, Music and Drama, leading to the O Level Examinations. In the tradition of excellence, all performing arts CCAs achieved Certificates of Distinction in the SYF 2013, 2015 and 2017."
+		"Special Student Development Programmes Offered": "The TKGS Curriculum aims to develop 3 distinct characteristics:(a)Leaders of Character, who lead from within in service of others: The TKGS leadership philosophy is founded on the belief that leadership is not about rank, position or title, but service in and through leadership of others. Character & Citizenship Education is implemented through our LEGACY curriculum, CCA and VIA programs, enabling girls to use the Community Problem Solving method to tackle community issues. The TKGS Truly! Programme instils TKGian identity and school pride, while the OBS Experience, Global Perspectives and Work Attachment Programmes complement our integrated approach to CCE."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1279,7 +1279,114 @@
 					"Red Cross": "Bronze"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Development Award": "DA (National Education)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd"
+					],
+					[
+						"Sailing",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing (Byte)",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"-",
+						"-",
+						"4th",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - English": "Distinction",
+					"Ensemble - Strings": "Distinction"
+				},
+				"Best Unit Award": {
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Silver"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

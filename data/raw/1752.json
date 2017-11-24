@@ -21,7 +21,11 @@
 		"Vice Principal (Admin)": "MR KHOU BENG CHEW",
 		"School Vision": "The Rivervale - School of Excellence, Individuals of Character",
 		"School Mission": "To inspire and develop Riverlites to be responsible citizens and passionate learners.",
-		"School Philosophy, Culture and Ethos": "The school's focus on 'The Whole Child in Every Riverlite' guides the school in its decisions, actions and interactions with its stakeholders in achieving its goals. A new set of core values, Respect, Responsibility, Resilience, Integrity, Care, Harmony, Excellence and Teamwork (R3ICHET), was initiated with effect from 2017 to complement the school's existing culture of care and excellence and to emphasise its focus on CCE. Desired behaviours are constantly communicated and emphasized to encourage students to demonstrate the core values through platforms such as assembly, school programmes and learning journeys. Other programmes under CCE, IP, Student Leadership, VIA and CCAs also reinforce the teaching and learning of these core values.   The school adopts the 'Leading by Serving' philosophy to support an inviting and vibrant school that leads by example and commits to the service for others. Staff and students practise 'Leading by Serving' through their participation in school programmes and activities: 'Keep My Classroom Clean', 'Good Morning, Rivervale!', 'A Helping towards My Friends' and 'P1 Buddying'. The school also adopts the Restorative Practice as part of its 'discipline with care' approach to help students take responsibility for their behaviour.   The school promotes safety and social responsibility among students through the 'Keep Myself Safe' and 'Keep My Friends Safe' campaigns. EAS staff are also involved in sustaining the culture of care through providing and supporting teachers and stakeholders with excellent service to realise the school's vision of the The Rivervale - School of Excellence, Individuals of Characters.",
+		"School Philosophy, Culture and Ethos": [
+			"The school's focus on 'The Whole Child in Every Riverlite' guides the school in its decisions, actions and interactions with its stakeholders in achieving its goals. A new set of core values, Respect, Responsibility, Resilience, Integrity, Care, Harmony, Excellence and Teamwork (R3ICHET), was initiated with effect from 2017 to complement the school's existing culture of care and excellence and to emphasise its focus on CCE. Desired behaviours are constantly communicated and emphasized to encourage students to demonstrate the core values through platforms such as assembly, school programmes and learning journeys. Other programmes under CCE, IP, Student Leadership, VIA and CCAs also reinforce the teaching and learning of these core values. ",
+			"The school adopts the 'Leading by Serving' philosophy to support an inviting and vibrant school that leads by example and commits to the service for others. Staff and students practise 'Leading by Serving' through their participation in school programmes and activities: 'Keep My Classroom Clean', 'Good Morning, Rivervale!', 'A Helping towards My Friends' and 'P1 Buddying'. The school also adopts the Restorative Practice as part of its 'discipline with care' approach to help students take responsibility for their behaviour. ",
+			"The school promotes safety and social responsibility among students through the 'Keep Myself Safe' and 'Keep My Friends Safe' campaigns. EAS staff are also involved in sustaining the culture of care through providing and supporting teachers and stakeholders with excellent service to realise the school's vision of the The Rivervale - School of Excellence, Individuals of Characters."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -53,8 +57,7 @@
 			"Athletics",
 			"Badminton",
 			"Hockey",
-			"Soccer",
-			"Taekwondo"
+			"Soccer"
 		],
 		"Uniformed Groups": [
 			"Red Cross Youth",
@@ -82,7 +85,7 @@
 		"School Distinctive Programmes": {
 			"Music & Performing Arts": "DANCE FEVER – Dance Aces Nurturing Cultural Expression For EVEry Riverlite"
 		},
-		"Special Student Development Programmes Offered": "(1) The focus of the Learning for Life Programme (LLP) is on mass participation. DANCE FEVER (Dance Appreciation Nurturing Cultural Expression For EVEry Riverlite) was reviewed and refined to encompass fitness and movement on top of cultural literacy. All students are exposed to a range of dance forms through a spiral progression of knowledge and skills training from basic level 1 to intermediate level 4.   (2) The Riv BE Global Classroom: A programme that provides students with borderless learning where they learn to be independent, make friends, exercise confidence and develop the 21st CC.   (3) Rivervale NE Heritage Island-wide Trail:  It provides students with the opportunity for experiential learning beyond the classroom with the aim of instilling in students a strong sense of loyalty and love for Singapore.   (4) Good Morning, Rivervale!:  A platform to develop students to be confident speakers by providing them the opportunity to share stories, recite poems or present slides on interesting topics on the stage to their friends in the morning.  (5) Multi-Literacy Programme (MLP): It integrates Project Work, Cyber Wellness, Financial Literacy, Media Literacy, Civic Literacy, Scratch programming and new ICT baseline standard skills to provide authentic learning experiences for students.  (6) Keep My Classroom Clean and Nobody, Nobody But You: They create a sense of ownership and belonging in students as they clean their own classrooms and allocated tables in the canteen.  (7) Stay Healthy Programme (SHP):  A programme which is carried out at the beginning of the year whereby the P4 students are appointed buddies during recess to help the P1 students to learn how to select and purchase food from the canteen stalls and adapt to the new environment."
+		"Special Student Development Programmes Offered": "(1) The focus of the Learning for Life Programme (LLP) is on mass participation. DANCE FEVER (Dance Appreciation Nurturing Cultural Expression For EVEry Riverlite) was reviewed and refined to encompass fitness and movement on top of cultural literacy. All students are exposed to a range of dance forms through a spiral progression of knowledge and skills training from basic level 1 to intermediate level 4. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -685,7 +688,79 @@
 					"Scout": "Silver"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category C": "Recognition",
+					"Band-Brass": "Distinction",
+					"Choir": "Commendation",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Gold",
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "545092"

@@ -67,7 +67,7 @@
 		"School Distinctive Programmes": {
 			"Community Service & Student Leadership": "Cultivating a Life of Values and Excellence (CLOVE)"
 		},
-		"Special Student Development Programmes Offered": "CLOVE (Cultivating a Life of Values and Excellence) @ Xinmin Primary is our LLP.   This programme is an integral part of the curriculum at all levels.  This is done by: i. Creating Learning Opportunities in Formal Curriculum ii. Exposure for All in Sports & Co-Curricular Programmes iii.Values Education through Fun and Memorable Activities  Students are given many opportunities to experience character traits, see them in action, and feel them rather than just talk about them. Community-based, real-world experiences that illustrate character traits are included in the curriculum. Values in Action, student leadership, cooperative learning and peer mentoring are important parts of the approach. Ample time is also allowed for discussion and reflection.   There are also opportunities for students to be involved in exchange programme with schools in China and Malaysia ."
+		"Special Student Development Programmes Offered": "CLOVE (Cultivating a Life of Values and Excellence) @ Xinmin Primary is our LLP.  "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -81,6 +81,10 @@
 				"Outstanding Development Award": "ODA (National Education)"
 			},
 			"2016": {
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "ODA (National Education)"
+			},
+			"2017": {
 				"Development Award": "DA (Character Development)",
 				"Outstanding Development Award": "ODA (National Education)"
 			},
@@ -216,6 +220,31 @@
 					"year": "2016",
 					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -241,6 +270,16 @@
 				},
 				{
 					"year": "2016",
+					"category": "Scout",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Brownies (Pack 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
 					"category": "Scout",
 					"award": "Bronze"
 				}

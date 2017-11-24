@@ -95,7 +95,7 @@
 		"Clubs & Societies": [
 			"Aeronautical Club",
 			"Infocomm Club",
-			"Mechatronics & Robotics Club",
+			"Mechantronics & Robotics Club",
 			"Media Club"
 		]
 	},
@@ -123,6 +123,9 @@
 				]
 			},
 			"2016": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course"
+			},
+			"2017": {
 				"Special Awards": "LHL Award for Innovation in the Normal Course"
 			},
 			"Sports & Games Competition": [
@@ -232,6 +235,41 @@
 					"year": "2016",
 					"category": "Drama - English",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -279,6 +317,21 @@
 					"year": "2016",
 					"category": "Red Cross",
 					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "NCDCC",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Red Cross",
+					"award": "Gold"
 				}
 			]
 		}

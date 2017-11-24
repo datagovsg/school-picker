@@ -71,7 +71,7 @@
 		"School Distinctive Programmes": {
 			"Music & Performing Arts": "MELODY@PEI TONG"
 		},
-		"Special Student Development Programmes Offered": "Melody@Pei Tong (LLP) aims to make learning of music fun and enjoyable so that students will continue to learn and appreciate music throughout their lives. Music lessons are enriched through the \"Engaging with Songs\" programme and creative music-making.   Programme for Active Leaning develops the social and emotional competencies in P1 and P2 students through fun and varied activities.  It is experiential in nature, encompasses learning in a creative way and incorporates values education.  All P3 to P6 students participate in co-curricular activities to allow them to pursue their passions and interests outside the classrooms and provide opportunities for interaction among students from different races, classes and levels.   School leverages technologies to create a stimulating learning experience for students. All classrooms are equipped with Interactive Whiteboards. For P5 and P6, laptops and iPads are used in the wireless environment to promote self-directed and collaborative learning.   CCE A.L.I.V.E! (school-based values education programme), provides opportunities for students to take ownership of their Values in Action experiences through teacher's facilitation and reflections after execution."
+		"Special Student Development Programmes Offered": "Melody@Pei Tong (LLP) aims to make learning of music fun and enjoyable so that students will continue to learn and appreciate music throughout their lives. Music lessons are enriched through the \"Engaging with Songs\" programme and creative music-making. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -374,7 +374,76 @@
 					"Girls' Brigade": "Silver"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					],
+					[
+						"Rugby",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girls' Brigade": "Bronze"
+				}
+			}
 		}
 	},
 	"postalCode": "129857"

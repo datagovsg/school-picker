@@ -25,7 +25,11 @@
 		],
 		"School Vision": "Thinkers. Learners. Leaders.",
 		"School Mission": "To empower every child to realise his full potential through a values-driven holistic education.",
-		"School Philosophy, Culture and Ethos": "Jing Shan Primary School has a long established history of more than 70 years and provides a quality holistic education with strong emphasis the five school values of Loyalty, Integrity, Generosity, Enthusiasm, Respect and Responsibility (LIGER) to prepare our pupils for the future. At Jing Shan, we value each and every child and seek to provide a happy and conducive environment for our pupils to learn and grow.   Teachers have a lasting influence on the lives of the pupils we teach and we play a key role in nurturing our children as we lead, care and inspire them to empower every child to realise his full potential through a values-driven holistic education.  We believe that Every Child Can Learn; Every Child is Unique; and Every Child is Different. These beliefs about how children can learn forms the basis of our school's Culture of Care, Culture of Collaboration and Culture of Learning and enable us to develop our pupils to become \"Thinkers. Learners. Leaders.\"",
+		"School Philosophy, Culture and Ethos": [
+			"Jing Shan Primary School has a long established history of more than 70 years and provides a quality holistic education with strong emphasis the five school values of Loyalty, Integrity, Generosity, Enthusiasm, Respect and Responsibility (LIGER) to prepare our pupils for the future. At Jing Shan, we value each and every child and seek to provide a happy and conducive environment for our pupils to learn and grow. ",
+			"Teachers have a lasting influence on the lives of the pupils we teach and we play a key role in nurturing our children as we lead, care and inspire them to empower every child to realise his full potential through a values-driven holistic education.",
+			"We believe that Every Child Can Learn; Every Child is Unique; and Every Child is Different. These beliefs about how children can learn forms the basis of our school's Culture of Care, Culture of Collaboration and Culture of Learning and enable us to develop our pupils to become \"Thinkers. Learners. Leaders.\" "
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -82,7 +86,7 @@
 			"Science": "Learning Science – the I3 (Inquiry, ICT & Innovation) Approach",
 			"Visual Arts & Design": "Nurturing Thinkers, Learners and Leaders through Visual Arts and Pottery"
 		},
-		"Special Student Development Programmes Offered": "Jing Shan Primary School is a caring school with an innovative and values-driven curriculum, providing a value-added learning experience to nurture learners into thinking leaders. Our curriculum prepares pupils holistically in the moral, intellectual, physical, social and aesthetic domains.  We have two signature programmes in Visual Arts & Pottery and Science.  Our Applied Learning Programme is distinguished through the I3 Approach (Inquiry, ICT& Innovation), where thinking routines are infused with technology in the learning of Science.  Our Learning for Life Programme is in the area of Visual Arts & Pottery and promotes the learning of critical 21st century competencies through the use of artful thinking routines, a Harvard University's Project Zero initiative, in the in-house curriculum.        We place equal emphasis on character development through a comprehensive Pupil Leadership and Character and Citizenship Education Programme to develop our pupils into values-driven leaders."
+		"Special Student Development Programmes Offered": "Jing Shan Primary School is a caring school with an innovative and values-driven curriculum, providing a value-added learning experience to nurture learners into thinking leaders. Our curriculum prepares pupils holistically in the moral, intellectual, physical, social and aesthetic domains."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -144,6 +148,16 @@
 						"Senior"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -184,6 +198,31 @@
 				},
 				{
 					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
 				}
@@ -236,6 +275,16 @@
 				},
 				{
 					"year": "2016",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Brownies (Pack 1)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
 					"category": "Scout",
 					"award": "Silver"
 				}

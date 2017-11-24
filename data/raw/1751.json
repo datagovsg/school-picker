@@ -21,7 +21,11 @@
 		"Vice Principal (Admin)": "MR KEVIN PATT",
 		"School Vision": "A Leading Learning Organisation that Inspires and is Valued Globally",
 		"School Mission": "To provide quality holistic education which fosters life-long learning in the pursuit of excellence",
-		"School Philosophy, Culture and Ethos": "At Canberra Primary, we seek to provide a quality holistic educational experience for all our pupils with the aim of developing and nurturing the capacity of each child to the fullest potential.  The belief that every Canberrian can succeed, regardless of his/her starting point, has been instrumental is shaping the culture and teaching and learning experiences for our pupils.  These experiences encapsulate the Canberra Experience that we pursue for our pupils.    The Canberra Experience consists of three different experiences which every pupil will experience in their 6-years learning journey.  These learner experiences are captured in the Discoverer, Attuned Learner and Global Learner outcomes which encompass the literacy outcomes of the 21st century competencies skills. As a Discoverer, 'We are the World', a journey from broad-based discovery to convergence of understanding. As an Attuned Learner, 'We know the World', a journey of finding meanings, values and connections. As a Global Learner, 'We create the World', a journey of building trusted communities for collaboration and creativity.  Values also play a major role in shaping and supporting the development of our pupils to be 'innovative, caring and responsible citizens who strive for excellence through self-discipline and teamwork'.  A values-based education is core to our pupils' holistic development and remains central to their Canberra Experience.",
+		"School Philosophy, Culture and Ethos": [
+			"At Canberra Primary, we seek to provide a quality holistic educational experience for all our pupils with the aim of developing and nurturing the capacity of each child to the fullest potential.  The belief that every Canberrian can succeed, regardless of his/her starting point, has been instrumental is shaping the culture and teaching and learning experiences for our pupils.  These experiences encapsulate the Canberra Experience that we pursue for our pupils.  ",
+			"The Canberra Experience consists of three different experiences which every pupil will experience in their 6-years learning journey.  These learner experiences are captured in the Discoverer, Attuned Learner and Global Learner outcomes which encompass the literacy outcomes of the 21st century competencies skills. As a Discoverer, 'We are the World', a journey from broad-based discovery to convergence of understanding. As an Attuned Learner, 'We know the World', a journey of finding meanings, values and connections. As a Global Learner, 'We create the World', a journey of building trusted communities for collaboration and creativity.",
+			"Values also play a major role in shaping and supporting the development of our pupils to be 'innovative, caring and responsible citizens who strive for excellence through self-discipline and teamwork'.  A values-based education is core to our pupils' holistic development and remains central to their Canberra Experience."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -79,7 +83,7 @@
 			"ICT & Media": "Start Young, Start It Right – Curating My Learning",
 			"Music & Performing Arts": "Immersing in Canberra Experience through Musical Theatre Education"
 		},
-		"Special Student Development Programmes Offered": "The Canberra Experience that we pursue for our pupils is encapsulated in the school's key programmes to create and enhance learning experiences to provide a learning edge that produces significant value-added outcomes for our pupils. A school-wide approach is adopted to help our pupils make connections of their learning. Through Curriculum Integration, subjects are integrated by themes and/or common areas of skills development through the key constructs of Canberra Experience- Rigour, Splendour and Graduation, while maintaining the integrity and aims of the constituting subjects. Key programmes to further support integration of learning include Subject-Based Trails, Recess Programmes, Canberra Fiesta, Kids Olympics, Aesthetics/Financial Literacy Weeks.  These programmes provide our pupils with new learning experiences and serve as platforms for them to apply and showcase their learning, honing their presentation skills and building their confidence. Our school's Applied Learning Programme, \"Start Young, Start It Right- Curating My Learning\" aims to equip our pupils with pupil-owned Personal Learning Devices(PLD) as a technology enabler to deliver the school's learning outcomes and provide them with a connected learning experience, enhanced by integration of ICT in authentic learning settings, in and out of classroom boundaries.  The programme further inculcates our pupils the habits and values of learning with their PLD, together with cyber-wellness awareness, building up their 21st Century Competencies. Canberra's Musical Theatre Experience, a Learning for Life Programme, is an arts education programme that emphasises the appreciation of the Arts as a lifelong skill that can be applied to all international arts in diverse, global contexts- language, drama, music, dance, visual art and new media. In creatively expressing artistic ideas and values through mastery of skill and technique, our pupils would be able to inspire others and spread the passion for the Arts."
+		"Special Student Development Programmes Offered": "The Canberra Experience that we pursue for our pupils is encapsulated in the school's key programmes to create and enhance learning experiences to provide a learning edge that produces significant value-added outcomes for our pupils."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -948,7 +952,77 @@
 					"Dance - Malay": "Accomplishment"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"1st",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Bronze"
+				}
+			}
 		}
 	},
 	"postalCode": "757714"

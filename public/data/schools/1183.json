@@ -23,7 +23,10 @@
 		"Vice Principal (Admin)": "Mdm Cheong Siew Mui Linda",
 		"School Vision": "Caring Community, Passionate Learners, Responsible Individuals",
 		"School Mission": "To develop our East Coast Primary students to live life to the fullest, love self, family, friends and nation and enjoy learning in a loving and stimulating environment.",
-		"School Philosophy, Culture and Ethos": "At East Coast Primary School, we believe our students are CHAMPS who are: Caring for one another; Humble in attitude; Aspiring for excellence; Morally upright; Passionate towards learning; and Steadfast in their effort.    We believe every child is special and can be actively engaged in learning. We seek to provide every child with the opportunity to explore and discover his talents and interests. We are committed to nurturing students who find joy in living, loving and learning. We believe that teachers are professionals who are good role models for our students. Our teachers are curriculum leaders who endeavour to design learning experiences that best meet the needs of our students. Our teachers are also caring educators who create a safe and conducive environment for learning. We believe that parents are the children's first teachers and play an instrumental role in our students' growth and development. The school thus seeks to establish strong partnership and close collaboration with our parents in order to provide the best education for every child. We believe in our calling to prepare our students for the future by equipping them with a strong foundation in literacy and numeracy and developing in them future-ready skills. We are proactive in helping students acquire the attitudes and attributes which would stand the test of time.",
+		"School Philosophy, Culture and Ethos": [
+			"At East Coast Primary School, we believe our students are CHAMPS who are: Caring for one another; Humble in attitude; Aspiring for excellence; Morally upright; Passionate towards learning; and Steadfast in their effort.  ",
+			"We believe every child is special and can be actively engaged in learning. We seek to provide every child with the opportunity to explore and discover his talents and interests. We are committed to nurturing students who find joy in living, loving and learning. We believe that teachers are professionals who are good role models for our students. Our teachers are curriculum leaders who endeavour to design learning experiences that best meet the needs of our students. Our teachers are also caring educators who create a safe and conducive environment for learning. We believe that parents are the children's first teachers and play an instrumental role in our students' growth and development. The school thus seeks to establish strong partnership and close collaboration with our parents in order to provide the best education for every child. We believe in our calling to prepare our students for the future by equipping them with a strong foundation in literacy and numeracy and developing in them future-ready skills. We are proactive in helping students acquire the attitudes and attributes which would stand the test of time."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -61,7 +64,7 @@
 			"Sports & Outdoor Education": "Sports & Life Skills @ ECPS to foster 21st CC",
 			"Visual Arts & Design": "Thinking ART @ ECPS"
 		},
-		"Special Student Development Programmes Offered": "Learning for Life Programme 1-Modular Co-Curricular Activities The school's LLP1 focuses on the development of 21st century competencies through Co-Curricular Activity modules. In addition to the core CCA module, students take part in elective CCA modules that cover the aesthetics, sports and intellectual domains. Over 6 years, students acquire both depth of learning in their core CCA module as well as exposure to other co-curricular activities that allow them to develop new skills and discover other interest areas.  Learning for Life Programme 2-Thinking Art The school's LLP2 provides students with a strong foundation in art and equips them with a progression of skills from the different art genres. In Media Art, students create their art work using ICT software and in the process build their confidence to navigate digital media. At a higher level, they learn to create their own thematic videos, involving skills like brainstorming, scriptwriting, storyboarding, filming and editing. In Recycling Art, students work with simple 2D forms before progressing to 3D forms or sculptures. This process nurtures their aesthetics awareness and helps them reflect on the purpose, meaning and process of art making. Through Thinking Art, students develop competencies like perseverance, self-discipline, self-awareness and at a higher level, critical and inventive thinking.  Project E-CHAMPS Through Project E-Champs, students acquire 21st century competencies in an authentic learning environment. Using the Problem-Based Learning approach, students work collaboratively to explore a real-life situation and in the process develop their competencies in devising a creative proposal to the problem.  Character and Citizenship Education through geNEsis The school's core CCE programme, geNEsis, emphasises g: games, e: experiential learning, NE: National Education, s: service, i: integrated lessons, s: student leadership. It is anchored on the 'Knowing', 'Doing' and 'Believing' framework."
+		"Special Student Development Programmes Offered": "Learning for Life Programme 1-Modular Co-Curricular Activities"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -214,6 +217,36 @@
 						"Senior"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -269,6 +302,26 @@
 				},
 				{
 					"year": "2016",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Commendation"
 				}

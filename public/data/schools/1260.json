@@ -21,9 +21,37 @@
 		"Principal": "Mr Tay Hsien Chuan Kelvin",
 		"Vice Principal": "Mr Chua Chye Hock",
 		"Vice Principal (Admin)": "Mdm Lai Soo Hong",
-		"School Vision": "Confident Learners, Active Citizens After 6 years in Punggol View, we want our students to become confident learenrs and active citizens.   A Confident Learner is  -Cognitively robust  -Aesthetically aware -Physically active  An Active Citizen is  -Morally upright -Emotionally adept -Socially responsible  We want our students to strive to \"Do the Right Thing\" and\"Give of their Best\" for future learning, employment and citizenship.",
-		"School Mission": "Touching Lives, Inspiring Future To nurture the whole child through a values-based, holistic education in a caring and rich learning environment so that our students will become persons of character who are good and useful citizens of tomorrow.   We want to provide strong fundamentals for Future Learning that includes: - Nurturing sound values and social-emotional skills to develop character. - Develop the love for Singapore for active citizenry. - Building foundations in literacy, numeracy, scientific and life skills for the 21st Century learning, employment and citizenship.",
-		"School Philosophy, Culture and Ethos": "We adopt the Starfish Story as our philosophy to guide us to make a difference in the lives of our students, staff and stakeholders.  Our motto \"Grow and Glow\" is an aspiration that as the school grows, it will glow in the community as a school of distinction.    We believe in nurturing the whole child by guiding our students to develop their moral, emotional, social, cognitive, aesthetic and physical (MESCAP) domains to the fullest so that they will become persons of character who are good and useful citizens of tomorrow.  We want our students to:    - Learn the subject disciplines comprising the Languages, Social Studies, the Arts and Physical Education, Mathematics and Science so as to build a strong foundation in literacy, numeracy, scientific and life skills for the future,   - Inculcate and cultivate values and social-emotional skills to develop moral character,   - Foster the emerging 21st Century Competencies so as to develop performance character, and   - Enrich our students' learning experiences especially in the areas of creativity, outdoor education, student leadership and talent development so as to meet their diverse needs and interests, and to realise their full potential.  We believe that we can do so by building a culture of care and learning in the school.  We provide a caring climate for our students to grow through positive teacher-student relationship and restorative practice to manage good behaviour and peer relationship.  We design a rigorous and sound school-based curriculum to foster the joy of learning and the drive for lifelong learning.  To further develop our students' talent and interest, our students are provided opportunities to experience the following key programmes, namely, creativity and play-based learning, outdoor education, and student life and leadership programme.  We will need to: (1) enhance our staff capacity and well-being and (2) collaborate with the home and community to bring out the best in every student.",
+		"School Vision": [
+			"Confident Learners, Active Citizens",
+			"After 6 years in Punggol View, we want our students to become confident learenrs and active citizens. ",
+			"A Confident Learner is ",
+			"-Cognitively robust ",
+			"-Aesthetically aware",
+			"-Physically active",
+			"An Active Citizen is ",
+			"-Morally upright",
+			"-Emotionally adept",
+			"-Socially responsible",
+			"We want our students to strive to \"Do the Right Thing\" and\"Give of their Best\" for future learning, employment and citizenship."
+		],
+		"School Mission": [
+			"Touching Lives, Inspiring Future",
+			"To nurture the whole child through a values-based,holistic education in a caring and rich learning environment so that our students will become persons of character who are good and useful citizens of tomorrow. ",
+			"We want to provide strong fundamentals for Future Learning that includes:",
+			"- Nurturing sound values and social-emotional skills to develop character.",
+			"- Develop the love for Singapore for active citizenry."
+		],
+		"School Philosophy, Culture and Ethos": [
+			"We adopt the Starfish Story as our philosophy to guide us to make a difference in the lives of our students, staff and stakeholders.  Our motto \"Grow and Glow\" is an aspiration that as the school grows, it will glow in the community as a school of distinction.  ",
+			"We believe in nurturing the whole child by guiding our students to develop their moral, emotional, social, cognitive, aesthetic and physical (MESCAP) domains to the fullest so that they will become persons of character who are good and useful citizens of tomorrow.",
+			"We want our students to:   ",
+			"- Learn the subject disciplines comprising the Languages, Social Studies, the Arts and Physical Education, Mathematics and Science so as to build a strong foundation in literacy, numeracy, scientific and life skills for the future,  ",
+			"- Inculcate and cultivate values and social-emotional skills to develop moral character,  ",
+			"- Foster the emerging 21st Century Competencies so as to develop performance character, and  ",
+			"- Enrich our students' learning experiences especially in the areas of creativity, outdoor education, student leadership and talent development so as to meet their diverse needs and interests, and to realise their full potential.",
+			"We believe that we can do so by building a culture of care and learning in the school.  We provide a caring climate for our students to grow through positive teacher-student relationship and restorative practice to manage good behaviour and peer relationship.  We design a rigorous and sound school-based curriculum to foster the joy of learning and the drive for lifelong learning.  To further develop our students' talent and interest, our students are provided opportunities to experience the following key programmes, namely, creativity and play-based learning, outdoor education, and student life and leadership programme.",
+			"We will need to: (1) enhance our staff capacity and well-being and (2) collaborate with the home and community to bring out the best in every student."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -52,7 +80,7 @@
 		],
 		"Visual and Performing Arts": [
 			"Choir",
-			"Dance - International",
+			"Dance",
 			"Young Artist's Club"
 		],
 		"Clubs & Societies": [
@@ -63,11 +91,22 @@
 		"School Distinctive Programmes": {
 			"Sports & Outdoor Education": "Building Character through Outdoor Education"
 		},
-		"Special Student Development Programmes Offered": "Living Out our Values Every day (LOVE@PGVP) We believe that values are caught and not just taught. The school values are taught during our Character and Citizenship Education (CCE) Lessons and reinforced through our school-based programmes.  Students are taught to reflect on their actions on a Value Card and teachers will endorse the card upon the successful completion of the observable behaviours or actions. The students could be rewarded with a value badge. We hope by so doing, our students will live out these values as habits for life  Learning for Life Programme - Outdoor Education   We believe firmly that Outdoor Education (OE) is a good opportunity to develop ruggedness and resilience in our students. Hence, the school has put in place a comprehensive Learning for Life Programme (LLP) on Outdoor Education. This allows students to work in teams and collaborate with their peers to build character, evoke their curiosity about nature, and develop a feeling of wanting to protect the environment via Values in Action. In the process, our students will learn to navigate, assess risks and make decisions about their own safety and wellbeing, while enjoying the outdoors.  These are essential life skills and values that we hope to develop in our students.   Creative LEGO Our signature Creative LEGO ensures that our students acquire the learning outcomes of Confidence, Curiosity and Collaboration through a series of art-related experiences such as PAL. Students will acquire an appreciation for sculpture building as well as develop skills in aesthetics and creativity.  Through generating ideas creatively in groups and responding to issues and challenges, our students would develop 21st century competencies such as collaboration and communicating effectively.  Most importantly, our students will enjoy the learning through active engagement with the element of fun."
+		"Special Student Development Programmes Offered": "Living Out our Values Every day (LOVE@PGVP)"
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"Sports & Games Competition": [],
+			"Sports & Games Competition": [
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				}
+			],
 			"SYF": [
 				{
 					"year": "2015",
@@ -83,6 +122,16 @@
 					"year": "2016",
 					"category": "Dance - International",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -90,6 +139,11 @@
 					"year": "2016",
 					"category": "Scout",
 					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Scout",
+					"award": "Silver"
 				}
 			]
 		}

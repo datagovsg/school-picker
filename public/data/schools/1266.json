@@ -25,8 +25,18 @@
 			"Mdm Noraini Bte Mansoor"
 		],
 		"School Vision": "Reflective Learner, Empathic Designer and Inspiring Leader.",
-		"School Mission": "We create a caring, safe and stimulating school environment where each child can grow and glow.  We seek to build in our students a strong foundation in literacy and numeracy, as well as equip them with the attitude, values and 21st century skills to be future-ready and to engage the world while remaining rooted to Singapore.",
-		"School Philosophy, Culture and Ethos": "Every child matters, is unique, and has the potential to make a difference.   Every staff member is an asset, has different strengths, and wants to contribute. Every parent and community partner is a valuable contributor in nurturing the child to G.L.O.W.  We believe that all children can learn and be successful, and that they learn best when they are connected, cared for, and cherished.  By providing them with a strong foundation in literacy and numeracy, and inculcating in each child the right attitudes, values, as well as equipping them with the 21st century competencies,  they can become creative problem-solvers, articulate communicators, effective team players, life-long learners, and responsible citizens committed to the well-being of Singapore and fellow Singaporeans.  This is realised through the collaborative efforts of the school, parents, and community partners.  Our HER3OIC Values Harmony, Empathy, Resilience, Respect, Responsibility, Optimism, Integrity & Creativity",
+		"School Mission": [
+			"We create a caring, safe and stimulating school environment where each child can grow and glow.",
+			"We seek to build in our students a strong foundation in literacy and numeracy, as well as equip them with the attitude, values and 21st century skills to be future-ready and to engage the world while remaining rooted to Singapore."
+		],
+		"School Philosophy, Culture and Ethos": [
+			"Every child matters, is unique, and has the potential to make a difference.  ",
+			"Every staff member is an asset, has different strengths, and wants to contribute.",
+			"Every parent and community partner is a valuable contributor in nurturing the child to G.L.O.W.",
+			"We believe that all children can learn and be successful, and that they learn best when they are connected, cared for, and cherished.  By providing them with a strong foundation in literacy and numeracy, and inculcating in each child the right attitudes, values, as well as equipping them with the 21st century competencies,  they can become creative problem-solvers, articulate communicators, effective team players, life-long learners, and responsible citizens committed to the well-being of Singapore and fellow Singaporeans.  This is realised through the collaborative efforts of the school, parents, and community partners.",
+			"Our HER3OIC Values",
+			"Harmony, Empathy, Resilience, Respect, Responsibility, Optimism, Integrity & Creativity"
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -67,7 +77,7 @@
 		"School Distinctive Programmes": {
 			"Community Service & Student Leadership": "Cultural Intelligence (CQ) ─ The Code of Life"
 		},
-		"Special Student Development Programmes Offered": "Lifeskills@ALPS Students are taught the ALPS HER3OIC values, and Character Champions are identified and recognised with inputs from peers and teachers. The school adopts evidence-based principles such as breathing exercises and focused attention to help students regulate their emotions and raise their self-awareness as well as awareness of the people and things around them.  Student Leadership Development All students are given opportunity to lead in pledge-taking at morning assemblies. The Class Committee allows all students to be responsible for an area in class.  ALPS Ambassadors are trained to play host to visitors at school events.  ALPS Environmental Programme This aims to develop responsible citizens with an ecological conscience.  It inculcates in students awareness of environmental issues and the part they can play, including a commitment to \"always leave a place cleaner than before\" through actions like daily cleaning of canteen and classrooms.  Students also assume responsibility to educate their families about environmental conservation.  ALPS Toymaker This teaches children to find joy in a toy they make themselves using simple or recycled materials.  It also raises awareness of the scientific principles behind how toys work.  The ALPS Toymaker Card guides students in designing, making and explaining  how their toy works.  Shortlisted projects are submitted for the Sony Creative Science Award.  Design Thinking as a Way of Life The focus is on laying the attitude and values foundation for DT, in particular, empathy, collaboration, optimism, respect and resilience.  This is carried out through the Lifeskills@ALPS and complemented by the Little Designers Programme and the Design for Change Challenge where students work in teams to identify the needs within the school and community and create solutions for them."
+		"Special Student Development Programmes Offered": "Lifeskills@ALPS"
 	},
 	"AchievementHistory": {
 		"Primary": {

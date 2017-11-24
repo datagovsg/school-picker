@@ -23,7 +23,12 @@
 		"Vice Principal (Admin)": "Mdm Lee Sook Fun Evelyn",
 		"School Vision": "Learning and Leading with HEART",
 		"School Mission": "Instilling Core Values, Igniting the Love for Learning, Inspiring Excellence",
-		"School Philosophy, Culture and Ethos": "Our philosophy is \"Nurture Every Child, Every Child Rooted in Core Values, Prepare the child for future learning, Every Child engaged in learning and Caring staff\".  Every child is like a young plant, where they will be nurtured and developed in Northoaks. We want our children to be passionate in all that they do and our teaching and learning approaches is one that is child-centric, to give the best to every child.   Every child will be given the opportunity to grow and glow and be outstanding in whatever they do, not necessarily being the top. We believe that every child can excel and we create the environment for the child to grow. We want our child to be appreciative of the opportunities to learn and do their best.  Every child will be rooted in the school core values of HEART - Honesty, Empathy, Appreciation, Respect and Tenacity. We consciously imbue in our students these core values through their learning and doing.",
+		"School Philosophy, Culture and Ethos": [
+			"Our philosophy is \"Nurture Every Child, Every Child Rooted in Core Values, Prepare the child for future learning, Every Child engaged in learning and Caring staff\".",
+			"Every child is like a young plant, where they will be nurtured and developed in Northoaks. We want our children to be passionate in all that they do and our teaching and learning approaches is one that is child-centric, to give the best to every child. ",
+			"Every child will be given the opportunity to grow and glow and be outstanding in whatever they do, not necessarily being the top. We believe that every child can excel and we create the environment for the child to grow. We want our child to be appreciative of the opportunities to learn and do their best.",
+			"Every child will be rooted in the school core values of HEART - Honesty, Empathy, Appreciation, Respect and Tenacity. We consciously imbue in our students these core values through their learning and doing."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -45,12 +50,18 @@
 		"School Distinctive Programmes": {
 			"Innovation & Enterprise": "Curriculum Integration through Innovation@Northoakes (CI=I@northoakes)"
 		},
-		"Special Student Development Programmes Offered": "We develop our child through our Special Student Development Programme - The Leader in Me - where we focus on the 7 Habits of Highly Effective People to build lifeskills in our students. Every child can be a leader and through the programme, we teach our children to be a leader of themselves, be proactive in learning and demonstrating the school core values.  \"Project Heart\" is a two-week programme to reinforce the school core values. Through \"I choose to be a bucker filler\" and \"the five languages of love\", our children go through activities to learn and internalize the school core values.   \"HEART Vits\" targeting at the lower primary students aims to inculcate in children the school values through story-reading. The school is adopting the Curriculum Integration through Innovation (CI+I)@Northoaks to enable authentic learning by introducing \"real world\" skills in connection with integrated academic knowledge to the students. In the VUCA world, as challenges may swing a person to move from his/her values; CI+I@Northoaks will also want to reconcile the want to innovate with the need to be rooted in moral principles.  The school recognises the importance and meaning in integrating curriculum to deepen student learning. Innovation, which is a way of thinking that involves the ideation of new ideas, processes and/or products that are of value, will be the overarching concept used to integrate IP and non-IP curriculum. The school will introduce CI+I through the 6-year of Primary education and children will go through, progressively, the innovation protocol.  In the area of Arts, our children get to do the works of great artists like Kusama, Acrimboldo, Keith Haring. Not only do they present works based on these artists, they are also given opportunities for art appreciation and critique."
+		"Special Student Development Programmes Offered": "We develop our child through our Special Student Development Programme - The Leader in Me - where we focus on the 7 Habits of Highly Effective People to build lifeskills in our students. Every child can be a leader and through the programme, we teach our children to be a leader of themselves, be proactive in learning and demonstrating the school core values."
 	},
 	"AchievementHistory": {
 		"Primary": {
 			"Sports & Games Competition": [],
-			"SYF": [],
+			"SYF": [
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				}
+			],
 			"Best Unit Award": []
 		}
 	},

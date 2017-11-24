@@ -25,7 +25,16 @@
 		],
 		"School Vision": "Touching Souls Challenging Minds",
 		"School Mission": "To maximise students' potential and to develop in them a passion for life-long learning guided by compassion, conscience, purity and righteousness.",
-		"School Philosophy, Culture and Ethos": "Mee Toh School (MTS) is a government-aided primary school founded by Venerable Sek Kong Hiap with strong support from the Buddhist community in 1954 to provide students with education opportunities and through it to develop their character so that each student can lead a fulfilled life guided by the school motto - compassion, conscience, purity, righteousness.  MTS fully embraces a Student-Centric, Values-Driven Education. Character development remains a hallmark of the education at MTS, recognised by the parents, key partners and the community. The school motto continues its relevance through the eight school values below which are drawn up to augment the school's Character and Citizenship Education:  Compassion: Care and Teamwork Conscience: Resilience and Excellence Purity: Confidence and Integrity Righteousness: Respect and Service  MTS aspires to be a school of distinction, which is steeped in traditions and has an eye for the future. We seek to develop each student to be a whole person with a global outlook but rooted in his responsibility to his family, school, community and Singapore. To this end, MTS designs a quality learning environment and develops innovative school-based programmes that deepen and broaden the learning of school values and the development of 21st century competencies in the students.  Over the years, our students have done well in both the academic and non-academic domains. This success is the collective effort of a nurturing team of dedicated teachers, as well as strong support from the school management committee, our alumni, parents and the larger community.",
+		"School Philosophy, Culture and Ethos": [
+			"Mee Toh School (MTS) is a government-aided primary school founded by Venerable Sek Kong Hiap with strong support from the Buddhist community in 1954 to provide students with education opportunities and through it to develop their character so that each student can lead a fulfilled life guided by the school motto - compassion, conscience, purity, righteousness.",
+			"MTS fully embraces a Student-Centric, Values-Driven Education. Character development remains a hallmark of the education at MTS, recognised by the parents, key partners and the community. The school motto continues its relevance through the eight school values below which are drawn up to augment the school's Character and Citizenship Education:",
+			"Compassion: Care and Teamwork",
+			"Conscience: Resilience and Excellence",
+			"Purity: Confidence and Integrity",
+			"Righteousness: Respect and Service",
+			"MTS aspires to be a school of distinction, which is steeped in traditions and has an eye for the future. We seek to develop each student to be a whole person with a global outlook but rooted in his responsibility to his family, school, community and Singapore. To this end, MTS designs a quality learning environment and develops innovative school-based programmes that deepen and broaden the learning of school values and the development of 21st century competencies in the students.",
+			"Over the years, our students have done well in both the academic and non-academic domains. This success is the collective effort of a nurturing team of dedicated teachers, as well as strong support from the school management committee, our alumni, parents and the larger community."
+		],
 		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay",
 		"Affiliated Schools": "Manjusri Secondary School"
@@ -83,7 +92,7 @@
 			"Interdisciplinary": "Educate, Engage and Empower Eco-Citizens @MTS",
 			"Sports & Outdoor Education": "SENCE @ MTS"
 		},
-		"Special Student Development Programmes Offered": "1) The School History Curriculum is developed alongside the construction of the School Heritage Centre as a 6-year curriculum. MTS history is told through two main storylines that focus on the school founder and school development respectively.  2) SENCE@MTS (Sports Education Nurturing Character Excellence at Mee Toh School) is MTS' Learning for Life Programme (LLP), which promotes healthy living in the students. It organises into an integrated whole the four components: Physical and Outdoor Education; Programme for Active Learning; Sports CCAs; and ACE Wushu @ MTS  3) As the North 4 Cluster Centre of Learning (CoL) for Chinese Language and Culture, MTS leads in exploring innovative pedagogies to motivate students to learn Chinese Language.  4) The Library Education Curriculum focuses on Library Etiquette; Literary Appreciation & Enjoyment; and Information Literacy. It aims to inculcate the joy of reading and hence lifelong learning among the students. The English Language and Mother Tongue Languages Departments customize various reading activities to encourage reading among the students and to deepen their mastery of the languages.  5) The Environment Care Programme is guided by the philosophy \"Environment Care begins with me\". It brings to students' awareness the national policy of creating a liveable and sustainable Singapore. The Eco-trail@MTS creates the authentic environment for students to learn about the relationships among the flora and fauna of an eco-system and the need to protect the fragile system. The \"3RU Programme\" encourages students to practice \"Reduce, Re-use and Recycle\" through planned purposeful experiences. The school also practices Up-cycling to give old items of historical significance a new  life within the school campus. The \"Keep the School Clean\" Programme creates ownership in the students  through daily cleaning activities so that they are responsible for the clean and tidy school and public areas that everyone can enjoy."
+		"Special Student Development Programmes Offered": "1) The School History Curriculum is developed alongside the construction of the School Heritage Centre as a 6-year curriculum. MTS history is told through two main storylines that focus on the school founder and school development respectively."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -95,6 +104,9 @@
 				"Development Award": "DA (Character Development)"
 			},
 			"2016": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2017": {
 				"Development Award": "DA (Character Development)"
 			},
 			"Sports & Games Competition": [
@@ -177,6 +189,16 @@
 						"Senior"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -274,6 +296,41 @@
 					"year": "2016",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -289,6 +346,11 @@
 				},
 				{
 					"year": "2016",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "Scout",
 					"award": "Gold"
 				}

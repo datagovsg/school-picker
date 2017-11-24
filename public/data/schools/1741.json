@@ -25,7 +25,14 @@
 		],
 		"School Vision": "Rooted in Values; Ready for the Future; Gem of the Community",
 		"School Mission": "To develop each student to be a life-long learner, a leader with character, a success in his own right so as to serve the community.",
-		"School Philosophy, Culture and Ethos": "The school believes that education for our young goes beyond just the years they are with us and that they should be equipped for a life beyond. As we forge ahead in future, we want to emphasise the development of school values and 21st century competencies so that our children will be able to navigate the uncertain, but exciting future. We embrace the following shared school values - An Inquiring, Imaginative Mind, Value Self and Others, Integrity and Doing Our Best - to foster a community of learners and responsible citizens. Our school motto \"Strive to Succeed\", underpins Pioneer's spirit of excellence.  The school sets four strategic thrusts (STs) to realise the vision: ST 1: From Exam-Ready to Future-Ready. We provide a holistic and future-ready curriculum which leverages technology to develop 21st century competencies in students. There are opportunities for students to personalise learning, reflect on their work, think critically and engage frequently in deep understanding through Project Work.  ST 2: From Desire to Discipline. We provide Mediated Learning Experience, and a spectrum of customised programmes to develop in our students the passion, the skills and the grit for learning. We build in students the discipline in thinking, in living and in action so as to bring about their joy in learning.  ST 3: From Teaching to Transforming. Teacher is the key to the success of students. The school focuses on continuous learning of the staff in pedagogy, curriculum and assessment. Beyond teaching students to achieve good results, our teachers acquire the knowledge and skills to transform their students to live successful lives.  ST 4: Synergistic Partnerships with Parents and the Community. A key factor of Pioneer's high quality of education is the partnership between the school, parents, partners and community. We set up our partnership framework to bring about authentic influence and opportunities to develop our students.",
+		"School Philosophy, Culture and Ethos": [
+			"The school believes that education for our young goes beyond just the years they are with us and that they should be equipped for a life beyond. As we forge ahead in future, we want to emphasise the development of school values and 21st century competencies so that our children will be able to navigate the uncertain, but exciting future. We embrace the following shared school values - An Inquiring, Imaginative Mind, Value Self and Others, Integrity and Doing Our Best - to foster a community of learners and responsible citizens. Our school motto \"Strive to Succeed\", underpins Pioneer's spirit of excellence.",
+			"The school sets four strategic thrusts (STs) to realise the vision:",
+			"ST 1: From Exam-Ready to Future-Ready. We provide a holistic and future-ready curriculum which leverages technology to develop 21st century competencies in students. There are opportunities for students to personalise learning, reflect on their work, think critically and engage frequently in deep understanding through Project Work.",
+			"ST 2: From Desire to Discipline. We provide Mediated Learning Experience, and a spectrum of customised programmes to develop in our students the passion, the skills and the grit for learning. We build in students the discipline in thinking, in living and in action so as to bring about their joy in learning.",
+			"ST 3: From Teaching to Transforming. Teacher is the key to the success of students. The school focuses on continuous learning of the staff in pedagogy, curriculum and assessment. Beyond teaching students to achieve good results, our teachers acquire the knowledge and skills to transform their students to live successful lives.",
+			"ST 4: Synergistic Partnerships with Parents and the Community. A key factor of Pioneer's high quality of education is the partnership between the school, parents, partners and community. We set up our partnership framework to bring about authentic influence and opportunities to develop our students."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -79,7 +86,7 @@
 		"School Distinctive Programmes": {
 			"Music & Performing Arts": "Fitness and Graciousness Through Dance"
 		},
-		"Special Student Development Programmes Offered": "The wide range of Co-Curricular Activities (CCA) in our school forms a key pillar of our students' character development. All our CCA set high targets and work towards them relentlessly as a team. Through their participation, students are significantly developed in teamwork, confidence and resilience. Many students have distinguished themselves and won honours in various competitions.  We are recognised by MOE for Learning for Life Programme (LLP) in Graciousness and Fitness Through Dance. Students are exposed to a variety of dances throughout the 6 years in school. They learn dance progressively from fundamental movements and concepts, to ethnic, cultural and modern dance forms. Talented students are identified and nurtured to a higher level of dance skills.  Our student leadership programme is geared towards equipping every student with key leadership skills and values. Through our I am a L.E.A.D.E.R framework, leadership opportunities are given to students starting from P1. Exemplary leaders are chosen to be CCA leaders and school councillors. They are empowered to lead school events and actively contribute in school improvements.  As part of our Future-Ready Curriculum, the school has sustained a pervasive ICT culture through its iPad Programme. Students critically examine information presented before them and are active co-constructors of knowledge in the different subjects.  The school empowers every student with an Individual Success Plan (ISP). Each student sets his own learning target for every subject.  It guides him on how he can proceed in his learning and is also used by students to share with their teachers and parents their learning progress.  The Pioneer Developing and Nurturing Aspirations (DNA) in Science aims to nurture students as inquirers and build in them strong conceptual understanding in Science. Teaching strategies using Visible Thinking tools are carried out at different levels. This innovation was recognised by MOE with the Innergy award."
+		"Special Student Development Programmes Offered": "The wide range of Co-Curricular Activities (CCA) in our school forms a key pillar of our students' character development. All our CCA set high targets and work towards them relentlessly as a team. Through their participation, students are significantly developed in teamwork, confidence and resilience. Many students have distinguished themselves and won honours in various competitions."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -333,6 +340,106 @@
 						"'B' Div"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -410,6 +517,36 @@
 					"year": "2016",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -426,6 +563,16 @@
 				{
 					"year": "2016",
 					"category": "Scout",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
 					"award": "Bronze"
 				}
 			]

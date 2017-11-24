@@ -21,7 +21,13 @@
 		"Vice Principal (Admin)": "MR CHNG SIEW CHYE",
 		"School Vision": "Passionate Learners, Gracious Citizens",
 		"School Mission": "Nurture pupils to be life-long learners and effective members of society",
-		"School Philosophy, Culture and Ethos": "To cater a holistic, pupil-centric and values-driven education for the pupils, the school plans and implements programmes that address the cognitive, aesthetic, moral, physical and social (CAMPS) needs of our pupils.  To provide and sustain quality learning experiences in Woodlands Ring Primary school,  the school considered the needs and experiences of the pupils and drew its own Teaching and Learning Framework that places emphasis on the following: - Customisation : Varied instructional models and strategies are deployed to maximise pupils' learning and ensure that every pupil learns effectively  - Connection - Learning content are linked to previous experiences or authentic contexts and included 21st century skills where appropriate  - Celebration - Pupils experience success in learning tasks that are challenging and accomplishable  Amongst all these, the school's philosophy, \"Every child is unique and able to excel\" resides in all staff, leading the staff in their actions and dealings with the pupils.",
+		"School Philosophy, Culture and Ethos": [
+			"To cater a holistic, pupil-centric and values-driven education for the pupils, the school plans and implements programmes that address the cognitive, aesthetic, moral, physical and social (CAMPS) needs of our pupils.  To provide and sustain quality learning experiences in Woodlands Ring Primary school,  the school considered the needs and experiences of the pupils and drew its own Teaching and Learning Framework that places emphasis on the following:",
+			"- Customisation : Varied instructional models and strategies are deployed to maximise pupils' learning and ensure that every pupil learns effectively ",
+			"- Connection - Learning content are linked to previous experiences or authentic contexts and included 21st century skills where appropriate ",
+			"- Celebration - Pupils experience success in learning tasks that are challenging and accomplishable ",
+			"Amongst all these, the school's philosophy, \"Every child is unique and able to excel\" resides in all staff, leading the staff in their actions and dealings with the pupils."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -80,7 +86,7 @@
 		"School Distinctive Programmes": {
 			"Science": "Investigative Project Work @ WRPS"
 		},
-		"Special Student Development Programmes Offered": "At Woodlands Ring Primary School (WRP), we seek to be pupil-centric in our approach and strive to meet the diverse needs of our pupils.   Project Work@WRP is a Science value-driven programme. It offers a multidisciplinary, tiered and structured programme offered to all pupils from Primary 1 to Primary 6. Through this, pupils generate knowledge from their hands-on experiments, connect their learning with nature. Most importantly, they will learn and exercise school values of Integrity, Care, Respect, Resilience and Responsibilities, or ICaRe3@WRP.  WRP makes every effort to provide learning opportunities for all pupils to be future ready global citizens, aligning to our vision of \"Passionate Learners, Gracious Citizens\", The school organises overseas learning journeys to provide opportunities for pupils to better appreciate different cultures through authentic learning experiences with their counterparts from neighbouring countries.   It is WRP's belief that every child is unique and able to excel. The school embraces the educational initiatives like the Programme for Active Learning (PAL). PAL aims to provide Primary 1 and 2 pupils with broad exposure and experiences through fun and varied activities via modules of Sports, Games and Outdoor Education, Performing Arts, Drama and Visual Arts. The school extends it to include a Sport and Aesthetics (SpA) Week for all pupils. The school also has programmes such as School-based Dyslexia Remediation (SDR), Reading Remediation Programme (RRP) and ICAN Math to provide support for the low-readiness pupils.  WRP believes that the pursuit of excellence must be accompanied by the development of good character. Through the planned programmes like form teacher guidance period (FTGP), cyberwellness education or Character & Citizenship education in MT language, pupils learn about values. They then are given opportunities to \"practise\" these values through platforms like PAL lessons and Values-In-Action."
+		"Special Student Development Programmes Offered": "At Woodlands Ring Primary School (WRP), we seek to be pupil-centric in our approach and strive to meet the diverse needs of our pupils. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -774,7 +780,67 @@
 					"Scout": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Development Award": "DA (National Education)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "738240"

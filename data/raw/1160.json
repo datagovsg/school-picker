@@ -78,7 +78,7 @@
 			"Coding": "RoboALERT (Applicative Learning Experience through Robotics at Temasek)",
 			"Sports & Outdoor Education": "SOAR – Sports Opportunities for Active lifestyle and physical Resilience and Sporting Excellence"
 		},
-		"Special Student Development Programmes Offered": "Our Learning Tapestry is a key programme in our curriculum where a problem-based learning approach is taken to foster pupils' critical and creative thinking as they learn various subjects together in current and authentic settings.  The school adopts Stephen Covey's 7 Habits as the foundation and core language for character development. The 7 Habits are universal principles for personal and interpersonal effectiveness and are integrated across all key learning programmes in the school.  Robotics is the school's Applied Learning Programme and opportunities are provided for pupils across all levels to use robotics as a fun and engaging way to solve problems, think creatively and work together in teams to overcome challenges.  SOAR (Sports Opportunities for Active lifestyle and physical Resilience) is the school's Learning for Life Programme. It provides a platform for all pupils to apply the fundamental movement and skills they have learnt in Physical Education during sport events such as Sports Fiesta, Track and Field Carnival and Character through Play. All pupils, regardless of their abilities, are encouraged to enjoy and experience success in sports.  The school has a vibrant Life Science Programme that includes Orchid Hybridization, Aeroponics and gardens that invite pupils to discover and learn science in authentic contexts, such as a butterfly enclosure, edibles garden, garden of character, eco-garden and corridor gardens. We have also collaborated with Science Centre to produce various science learning kits that encourage pupils to adopt an active inquiry approach in investigating scientific concepts."
+		"Special Student Development Programmes Offered": "Our Learning Tapestry is a key programme in our curriculum where a problem-based learning approach is taken to foster pupils' critical and creative thinking as they learn various subjects together in current and authentic settings."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -1255,7 +1255,117 @@
 					"Scout": "Bronze"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "Outstanding PARTNERS",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"4th",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Poomsae)",
+						"1st",
+						"-",
+						"2nd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div"
+					],
+					[
+						"Track & Field",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition(Sm)",
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Guitar": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Bronze"
+				}
+			}
 		}
 	},
 	"postalCode": "469300"

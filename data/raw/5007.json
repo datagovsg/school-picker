@@ -21,7 +21,10 @@
 		"Vice Principal (Admin)": "MDM YVONNE LIM BUAY HUANG",
 		"School Vision": "Girls of Today for Tomorrow",
 		"School Mission": "A CHIJ School is a Christ-centred school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of persons who are disadvantaged in any way.",
-		"School Philosophy, Culture and Ethos": "The school culture stems from the beliefs of the IJ Founder, Blessed Nicolas Barre, to promote the dignity of the person through education and is encapsulated in the IJ Motto \"Simple in Virtue, Steadfast in Duty\". This belief underpins the school's Mission, Vision and Values.   In alignment with the Mission which is common to all IJ schools, the Vision \"Girls of Today for Tomorrow\", sets the school direction and prepares the girls to be future-ready, rooted in the IJ legacy.  Emphasis is placed on building strong character, developing leadership skills as well as inculcating in all a caring disposition to serve others. The six school values, G.R.A.C.I.A. (Graciousness, Responsibility, Appreciation, Compassion, Integrity, Adaptability) values undergird the school's Values Education (V-Ed) programme across Primary 1 to 6.",
+		"School Philosophy, Culture and Ethos": [
+			"The school culture stems from the beliefs of the IJ Founder, Blessed Nicolas Barre, to promote the dignity of the person through education and is encapsulated in the IJ Motto \"Simple in Virtue, Steadfast in Duty\". This belief underpins the school's Mission, Vision and Values. ",
+			"In alignment with the Mission which is common to all IJ schools, the Vision \"Girls of Today for Tomorrow\", sets the school direction and prepares the girls to be future-ready, rooted in the IJ legacy.  Emphasis is placed on building strong character, developing leadership skills as well as inculcating in all a caring disposition to serve others. The six school values, G.R.A.C.I.A. (Graciousness, Responsibility, Appreciation, Compassion, Integrity, Adaptability) values undergird the school's Values Education (V-Ed) programme across Primary 1 to 6."
+		],
 		"Type of School": "GOVERNMENT-AIDED SCH / GIRLS' SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "CHIJ ST. JOSEPH'S CONVENT"
@@ -76,7 +79,7 @@
 		"School Distinctive Programmes": {
 			"Sports & Outdoor Education": "OLN SPARK (SPorts Active and Resilient Kids)"
 		},
-		"Special Student Development Programmes Offered": "Character: A series of six teacher-designed G.R.A.C.I.A. STAR booklets is used to inculcate the G.R.A.C.I.A values progressively from P1 to P6.  The booklets were developed in line with the school's V-LIVE (Vision realized through Love, Internalization, Values-based education and Engagement of stakeholders) framework for CCE.   Sports: Another programme, the OLN SPARK (SPorts for Active and Resilient Kids) provides opportunities for broad-based development across various sports, as well as specialization in a specific sport. The LLP integrates the existing programmes in PE, PAL and Sports CCAs using a 3-tiered framework. All students are involved Tier 1 of the OLN SPARK, i.e. Exposure (Sports for All). Pupils with talent and skills in specific sports eg Netball, Floorball, Table Tennis and Bowling are invited to join the respective sports CCAs and given further training in the other two stages, i.e.  Engagement and Excellence.   Communication: The REAL (Rich Enduring and Active Learning) programme was designed to enhance the EL curriculum from P2 to P6 by introducing the students to literary texts. Through discussion of these texts, students enrich their experiences and develop strong language and thinking skills. Examples of texts used include The Secret Garden (P2), The Magic Paintbrush (P3) and The Lion, Witch and the Wardrobe (P6)."
+		"Special Student Development Programmes Offered": "Character: A series of six teacher-designed G.R.A.C.I.A. STAR booklets is used to inculcate the G.R.A.C.I.A values progressively from P1 to P6.  The booklets were developed in line with the school's V-LIVE (Vision realized through Love, Internalization, Values-based education and Engagement of stakeholders) framework for CCE. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -767,7 +770,88 @@
 					"Brownies (Pack 2)": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Floorball",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"2nd",
+						"4th",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Gold",
+					"Brownies (Pack 2)": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "534793"

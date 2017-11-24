@@ -64,7 +64,7 @@
 		"Visual and Performing Arts": [
 			"Art And Craft Club",
 			"Band - Brass",
-			"Calligraphy Club",
+			"Chinese Calligraphy",
 			"Choir",
 			"Dance - Chinese",
 			"Dance - Indian",
@@ -79,7 +79,7 @@
 		"School Distinctive Programmes": {
 			"Music & Performing Arts": "Nurturing Aesthetics and Values Development in Children through Band, Choir and Performing Arts"
 		},
-		"Special Student Development Programmes Offered": "To develop 21 CC competencies in our GESPians and prepare them for life-long learning, the school's Learning for Life Programme (LLP) places emphasis on the acquisition of values and life skills focusing on music and the performing arts. The LLP provides students with different intensity of learning engagement according to their levels. In the cognitive domain, varied learning activities are planned, ranging from the Math Olympiad and Code for Fun for the high progress learners to motivational programmes and additional support in-and after-school for low progress learners. In PAL, P1 and P2 students are exposed to various modules, such as  Visual Arts and Outdoor Education modules. They are designed to be experiential, enjoyable and encompass learning in a creative way; incorporating values and social and emotional learning. These PAL activities have also been scaled up to benefit the P3 and P4 students. Students with potential are identified and encouraged to join the related CCAs. Opportunities are also created to allow them to engage in informal/formal performances to build their confidence and showcase their talents.     In line with the national movement to keep Singapore clean and engender a sense of ownership and loyalty to school and nation, we have partnered with NEA to raise students' environmental awareness and engage them in the routinised cleaning of their classrooms and surrounding areas. Learning journeys (local/overseas) are organised for students to experience different cultures and lifestyles and in the process, appreciate Singapore better. Opportunities are also created with external partners to give students the opportunities to practise what they have learned through the school VIA programme. We will continue to strive to create a nurturing environment where GESPians who pass through our hands are developed into \"Confident and Resilient, Creative and Thinking Pupils who Strive to Succeed\"."
+		"Special Student Development Programmes Offered": "To develop 21 CC competencies in our GESPians and prepare them for life-long learning, the school's Learning for Life Programme (LLP) places emphasis on the acquisition of values and life skills focusing on music and the performing arts. The LLP provides students with different intensity of learning engagement according to their levels. In the cognitive domain, varied learning activities are planned, ranging from the Math Olympiad and Code for Fun for the high progress learners to motivational programmes and additional support in-and after-school for low progress learners. In PAL, P1 and P2 students are exposed to various modules, such as  Visual Arts and Outdoor Education modules. They are designed to be experiential, enjoyable and encompass learning in a creative way; incorporating values and social and emotional learning. These PAL activities have also been scaled up to benefit the P3 and P4 students. Students with potential are identified and encouraged to join the related CCAs. Opportunities are also created to allow them to engage in informal/formal performances to build their confidence and showcase their talents.   "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -163,6 +163,16 @@
 						"Senior"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -255,6 +265,36 @@
 					"year": "2016",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -312,6 +352,21 @@
 					"year": "2016",
 					"category": "Brownies (Pack 2)",
 					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Brownies (Pack 1)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Scout",
+					"award": "Gold"
 				}
 			]
 		}

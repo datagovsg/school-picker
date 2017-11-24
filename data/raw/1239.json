@@ -23,7 +23,12 @@
 		],
 		"School Vision": "Learners with Passion, Citizens of Honour",
 		"School Mission": "To instil the love for learning and nurture all-round individuals, grounded by values",
-		"School Philosophy, Culture and Ethos": "The school's mission states its commitment to instilling in every child a zeal for learning, embracing innovation in teaching and learning and developing upright and responsible citizens.  The school values of Patriotism, Resilience, Integrity, Discipline and Empathy (PRIDE), are in alignment with its vision.   Changkat Primary is committed to delivering a student-centric, values-driven education for all her students through the provision of a Differentiated Curriculum where teachers provide for different learner types. Learner information such as that obtained from formative assessments is actively sought to enable responsive teaching and active learning. To create a sense of autonomy and ownership, students are involved in tracking, reflecting on and following up on their areas for improvement and strengths.   In the area of Pastoral Care, we strive to provide multiple platforms which encourage positive teacher-student interactions. This ensures timely gathering of student information to improve support structures and processes. The school also leverages students as a resource base to beef up pastoral support for all children. All these serve to create an environment that is secure and conducive for learning and play.  Changkat Primary provides a total curriculum that nurtures the whole child. We believe that the school curriculum and programmes need to be supported by strong Home-School Collaboration for greater effectiveness. Through multiple communication platforms, we ensure that parents are provided with useful and timely information about school policies and activities. This encourages active participation from parents in their child's school life and facilitates fruitful partnership between parents and teachers to meet the needs of every child.",
+		"School Philosophy, Culture and Ethos": [
+			"The school's mission states its commitment to instilling in every child a zeal for learning, embracing innovation in teaching and learning and developing upright and responsible citizens.  The school values of Patriotism, Resilience, Integrity, Discipline and Empathy (PRIDE), are in alignment with its vision. ",
+			"Changkat Primary is committed to delivering a student-centric, values-driven education for all her students through the provision of a Differentiated Curriculum where teachers provide for different learner types. Learner information such as that obtained from formative assessments is actively sought to enable responsive teaching and active learning. To create a sense of autonomy and ownership, students are involved in tracking, reflecting on and following up on their areas for improvement and strengths. ",
+			"In the area of Pastoral Care, we strive to provide multiple platforms which encourage positive teacher-student interactions. This ensures timely gathering of student information to improve support structures and processes. The school also leverages students as a resource base to beef up pastoral support for all children. All these serve to create an environment that is secure and conducive for learning and play.",
+			"Changkat Primary provides a total curriculum that nurtures the whole child. We believe that the school curriculum and programmes need to be supported by strong Home-School Collaboration for greater effectiveness. Through multiple communication platforms, we ensure that parents are provided with useful and timely information about school policies and activities. This encourages active participation from parents in their child's school life and facilitates fruitful partnership between parents and teachers to meet the needs of every child."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -57,7 +62,7 @@
 		"School Distinctive Programmes": {
 			"Sports & Outdoor Education": "Sports, Outdoor, Athletics & Recreation @ Changkat Primary"
 		},
-		"Special Student Development Programmes Offered": "The school's Learning For Life Programme, SOAR@CKPS(Sports, Outdoor, Athletics, Recreation at Changkat Pr), creates rich learning opportunities and experiences to develop the child physically, mentally and emotionally so that he/she goes on to lead a healthy and active lifestyle. Through skilful questioning, teachers draw out student learning in values and life skills such as problem-solving, communication and teamwork.  SOAR@CKP seeks to provide students with a comprehensive sporting and outdoor experience while giving opportunities to those with greater interest and/or aptitude to pursue their strengths and interest further. This is done through a structured PE Program(P1-6), Program for Active Learning(P1-2), Modular Co-Curricular Activities(P3-6) and Co-Curricular Activities(P3-6).  Learning Fiesta is a week-long event in the school calendar where the various academic departments collaborate to put up engaging learning activities in a carnival-like atmosphere. Technology is leveraged to increase the fun element. Prior to the event, students earn tokens to play at the game stations from their teachers through demonstration of good character traits such as responsibility and empathy. Another event popular with students is the annual Social Enterprise Day (SED), where students of graduating classes plan and set up a variety of games and handicraft stalls for their schoolmates (P1-5). SED  enables our students to show care and contribute actively to the community; trains our students to be responsible; promotes team work, innovation and enterprise in our students; and provides our students with a safe environment for risk-taking and application of business strategies. Proceeds from the sale of coupons are donated to a charity identified by the student organizers. Past charities include Club Rainbow and Children's Cancer Foundation."
+		"Special Student Development Programmes Offered": "The school's Learning For Life Programme, SOAR@CKPS(Sports, Outdoor, Athletics, Recreation at Changkat Pr), creates rich learning opportunities and experiences to develop the child physically, mentally and emotionally so that he/she goes on to lead a healthy and active lifestyle. Through skilful questioning, teachers draw out student learning in values and life skills such as problem-solving, communication and teamwork.  SOAR@CKP seeks to provide students with a comprehensive sporting and outdoor experience while giving opportunities to those with greater interest and/or aptitude to pursue their strengths and interest further. This is done through a structured PE Program(P1-6), Program for Active Learning(P1-2), Modular Co-Curricular Activities(P3-6) and Co-Curricular Activities(P3-6)."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -681,7 +686,60 @@
 					"Ensemble - Guzheng": "Accomplishment"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				}
+			}
 		}
 	},
 	"postalCode": "529896"

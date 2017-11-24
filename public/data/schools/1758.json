@@ -23,7 +23,6 @@
 			"Mrs Ahkeela Julia Edison",
 			"Mr Poh Chee Yang"
 		],
-		"Vice Principal (Admin)": "Mr Tan Chyun Yih",
 		"School Vision": "Every Child Succeeds - A Learner. A Thinker. A Leader with Character.",
 		"School Mission": "Building Character, Nurturing Hearts, Enriching Minds.",
 		"School Philosophy, Culture and Ethos": "Every child can shine.",
@@ -85,6 +84,7 @@
 			"Green Club",
 			"Health And Fitness Club",
 			"Library",
+			"Mathemagic (Math Club)",
 			"Robotics Club"
 		]
 	},
@@ -93,7 +93,7 @@
 			"Languages": "Effective Communication via Drama",
 			"Music & Performing Arts": "Shine and Succeed through Dance"
 		},
-		"Special Student Development Programmes Offered": "Shine and Succeed through Dance programme aims to develop in our pupils values such as respect, resilience, confidence and teamwork and develop their social-emotional competencies through a whole school approach to dance.  The programme foster pupils interest in dance and deepen their experience by exposing them to different dance genres.   \"I am a Leader\" Student Leadership programme enable pupils to first learn self-leadership to eventually learning to lead others. Training in Kouzes and Posner student leadership development model is provided for student leaders to carry out service projects and other school based projects. Pupils develop essential leadership skills such as project management, problem solving and learn social responsibility to make a difference in their school and community.   P5 Adventure and Lifeskills Camp: A 3 day, 2 night camp that provides pupils with greater exposure to the outdoors through real-life experiential learning. The camp will develop their soft skills and inculcate values through a safe and holistically challenging programme.  E2K Maths and Science: The E2K Maths and Science Programme is an enrichment programme for upper primary pupils who demonstrate interest and ability in Maths and Science. Developed by the Israel Centre for Excellence through Education, the Maths programme aim to foster independence in mathematical thinking skills and introduce them to advanced mathematical concepts and thinking while the Science programme aims to engage pupils in scientific investigations involving advanced science concepts.   P6 Cultural Immersion in Malaysia: A one day cultural immersion educational learning journey to Johor Bahru for all P6 pupils that aims to develop in our pupils the 21st Century competencies of cross cultural skills and sensitivity through visits to local schools and kampong and interacting with the natives. Pupils will also learn independence, responsibility and self-management skills while they are way from home."
+		"Special Student Development Programmes Offered": "Shine and Succeed through Dance programme aims to develop in our pupils values such as respect, resilience, confidence and teamwork and develop their social-emotional competencies through a whole school approach to dance.  The programme foster pupils interest in dance and deepen their experience by exposing them to different dance genres. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -246,6 +246,96 @@
 						"Junior"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -353,6 +443,41 @@
 					"year": "2016",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -365,6 +490,11 @@
 					"year": "2016",
 					"category": "Brownies (Pack 1)",
 					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Brownies (Pack 1)",
+					"award": "Silver"
 				}
 			]
 		}

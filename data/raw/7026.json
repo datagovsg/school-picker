@@ -98,7 +98,7 @@
 		"MOE Programmes": [
 			"Not Available"
 		],
-		"Special Student Development Programmes Offered": "The school has developed a differentiated academic curriculum to meet the needs of the students. In the PL21 programme, 21st Century Competencies are taught and developed within the formal curriculum. Students learn to think creatively and critically and develop the skill sets to collaborate and communicate effectively. For students with talents in specific subjects and the potential for further growth in an interest area, the school has 2 key programmes dedicated to nurture them. The Acceleration, Collaboration and Exploration (ACE) Programme is designed to nurture those talented in the areas of Mathematics, Science and Music. A more challenging academic and aesthetics curriculum is customised to their learning needs. The Enhanced Enrichment (EE) programme offers opportunities for students to excel in Languages, Humanities, Innovation and Leadership. The Global Classroom programme gives students the opportunity to travel overseas in any of these 4 aspects; Twinning Programme with overseas institutions, Inter-disciplinary Subject-based Overseas trips, opportunities to represent the school and Singapore at Overseas Conferences and Competitions and the Overseas Service Learning Projects. These trips provide students with the opportunities to interact with people from various parts of the world so that they will be more culturally savvy and attuned to the changing global environment. To complement the academic programme, PLMGS (Sec) has a strong Character and Leadership Development programme to develop every PL Lite into a Personal, Peer and People Leader."
+		"Special Student Development Programmes Offered": "The school has developed a differentiated academic curriculum to meet the needs of the students. In the PL21 programme, 21st Century Competencies are taught and developed within the formal curriculum. Students learn to think creatively and critically and develop the skill sets to collaborate and communicate effectively. For students with talents in specific subjects and the potential for further growth in an interest area, the school has 2 key programmes dedicated to nurture them. The Acceleration, Collaboration and Exploration (ACE) Programme is designed to nurture those talented in the areas of Mathematics, Science and Music. A more challenging academic and aesthetics curriculum is customised to their learning needs. The Enhanced Enrichment (EE) programme offers opportunities for students to excel in Languages, Humanities, Innovation and Leadership."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1055,7 +1055,111 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					],
+					[
+						"Gymnastics (Rhythmic)",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Handbell / Handchime": "Distinction",
+					"Ensemble - Harp": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girls' Brigade": "Silver",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

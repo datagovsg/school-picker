@@ -73,7 +73,7 @@
 		"School Distinctive Programmes": {
 			"Music & Performing Arts": "Developing 21st CC through Arts Education Programme @ Dazhong (AEP@D)"
 		},
-		"Special Student Development Programmes Offered": "Learning for Life Programme (LLP):  Developing 21st century competencies through Arts Education Programme@Dazhong (AEP@DZPS). Our signature programme aims to develop our students to be future ready. We are also the only primary school in Singapore to have a Junior Orchestra Talent development programme supported by the MOE Arts Education Branch.  Character & Citizenship Development:  Resilience@DZPS via Outdoor Education Programme (OEP) aims to build resilience and 'gritty' children through a longitudinal OEP, where students undergo rugged and authentic learning experiences to develop character, strength and tenacity. Other Character Development programmes include 'myCEED@DZPS - Character and Citizenship Programme, NE Current Buzz, Gratitude Journalling & Servant Leadership Development Programme through iLEAD (Leadership Experience at Dazhong).  Cognitive (Critical & Inventive Thinking Development):  Beyond supporting the students' development in Literacy and Numeracy. Students are exposed to other stretch programmes such as Fun with Coding Programme to develop Computational Thinking Skills, Science Learning through the  I- Experience programme, Literacy programmes such as Writing With Purpose & the Math Mastery Programme."
+		"Special Student Development Programmes Offered": "Learning for Life Programme (LLP): "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -485,7 +485,63 @@
 					"Scout": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Commendation",
+					"Dance - International": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Silver",
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "659441"

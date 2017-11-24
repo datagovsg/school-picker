@@ -19,11 +19,22 @@
 		"Principal": "MR LOW CHUN MENG",
 		"Vice Principal": [
 			"MISS MOH CUI RONG REBECCA",
-			"MR ANG KAY YONG JEREMY"
+			"MR ANG KAY YONG JEREMY",
+			"MISS WU XINPING JENNIFER"
 		],
 		"Vice Principal (Admin)": "MR NING TAU YEE",
-		"School Vision": "A leading college serving the nation with: - Enhanced character development - Quality staff - Quality learners - Organisational excellence",
-		"School Mission": "Uphold Values Enhance Lifeskills Maximise Potential",
+		"School Vision": [
+			"A leading college serving the nation with:",
+			"- Enhanced character development",
+			"- Quality staff",
+			"- Quality learners",
+			"- Organisational excellence"
+		],
+		"School Mission": [
+			"Uphold Values",
+			"Enhance Lifeskills",
+			"Maximise Potential"
+		],
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / FULL DAY",
 		"Mother Tongue": "Not Available",
 		"Affiliated Schools": [
@@ -842,7 +853,77 @@
 					"Orchestra - Chinese": "Distinction"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"4th",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"3rd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition(Sm)",
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - Chinese": "Commendation",
+					"Drama - English": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				}
+			}
 		}
 	},
 	"L1R5History": {

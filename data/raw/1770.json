@@ -23,7 +23,11 @@
 		],
 		"School Vision": "Active Minds, Gracious Hearts",
 		"School Mission": "We aspire to create a conducive environment where pupils learn from the past, appreciate the present and prepare for the future.",
-		"School Philosophy, Culture and Ethos": "West Grove Primary School's vision statement \"Active Minds, Gracious Hearts\" was re-defined in 2006. The first part of the vision statement \"Active Minds\" was further unpacked to be referred as \"Learners with a passion for life-long learning.\" The second part of the vision statement \"Gracious Hearts\" was further unpacked to be referred as \"Concerned citizens rooted in the school's six core values: R3ICK (Respect, Responsibility, Resilience, Integrity, Commitment, Kindness)\". The vision when translated into the school motto becomes \"Wisdom\" (Active Minds) and \"Grace\" (Gracious Hearts). The school motto \"Wisdom and Grace\" (based on the school's initials) is also written on the school crest to ensure the school's vision is entrenched in the hearts and minds of all members of the school.  West Grove Primary School's mission is then \"To create a school environment where pupils learn from the past, appreciate the present and prepare for the future.\" Essentially, the school leaders aspire the school to be able to prepare our pupils for the future through the rigorous primary curriculum and actively developing their 21st Century Competencies by providing our pupils with opportunities to analyse information, communicate their thoughts and ideas, collaborate with one another to create, examine their own thinking and engage in reflection on how to be better (learn from the past). At the same time, the school aims to instil in our pupils a sense of appreciation of the people around them and the hard work that has been put in to achieve what we have as a nation today.  The school believes that Values should be the bedrock of the school's culture. The school culture is therefore defined as Caring and Learning - aligned with our school vision of Active Minds, Gracious Hearts, to demonstrate the range of behaviours, attitudes and values relevant for the holistic development of the children.",
+		"School Philosophy, Culture and Ethos": [
+			"West Grove Primary School's vision statement \"Active Minds, Gracious Hearts\" was re-defined in 2006. The first part of the vision statement \"Active Minds\" was further unpacked to be referred as \"Learners with a passion for life-long learning.\" The second part of the vision statement \"Gracious Hearts\" was further unpacked to be referred as \"Concerned citizens rooted in the school's six core values: R3ICK (Respect, Responsibility, Resilience, Integrity, Commitment, Kindness)\". The vision when translated into the school motto becomes \"Wisdom\" (Active Minds) and \"Grace\" (Gracious Hearts). The school motto \"Wisdom and Grace\" (based on the school's initials) is also written on the school crest to ensure the school's vision is entrenched in the hearts and minds of all members of the school.",
+			"West Grove Primary School's mission is then \"To create a school environment where pupils learn from the past, appreciate the present and prepare for the future.\" Essentially, the school leaders aspire the school to be able to prepare our pupils for the future through the rigorous primary curriculum and actively developing their 21st Century Competencies by providing our pupils with opportunities to analyse information, communicate their thoughts and ideas, collaborate with one another to create, examine their own thinking and engage in reflection on how to be better (learn from the past). At the same time, the school aims to instil in our pupils a sense of appreciation of the people around them and the hard work that has been put in to achieve what we have as a nation today.",
+			"The school believes that Values should be the bedrock of the school's culture. The school culture is therefore defined as Caring and Learning - aligned with our school vision of Active Minds, Gracious Hearts, to demonstrate the range of behaviours, attitudes and values relevant for the holistic development of the children."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -76,7 +80,7 @@
 		"School Distinctive Programmes": {
 			"Music & Performing Arts": "Thoughtful Learning through the Arts"
 		},
-		"Special Student Development Programmes Offered": "The school believes in the holistic education of every child and that each pupil should achieve Wisdom and Grace by the time they leave West Grove.  Wisdom Lifelong Learning Programme (LLP) - Leveraging on the use of Design Thinking and Thinking Routines in our Art and Music Curriculum, students develop critical thinking skills whilst embarking on an investigative journey on the selected artwork or persona.  Our Wonderful Library (OWL) Programme - OWL is a comprehensive and structured library programme that seeks to equip pupils with the necessary library skills to support and develop good reading habits. The programme is part of a larger effort by the MRL Department to develop a strong reading culture in the school.  Immersion Programme - Our school embarks on a yearly cultural exchange trip to Asian countries so as to provide pupils with opportunities to understand and appreciate other cultures. This is done through visits to landmarks of cultural importance and educational institutions where pupils spend a few days in a totally different learning environment from Singapore.  Grace Camps - Our school conducts camps for pupils of different levels, with each camp focusing on specific student outcomes (e.g. values reinforcement, lifeskills, confidence building etc)  Cyberwellness - The school's cyberwellness programme seeks to inculcate safe cyberspace habits and values amongst our pupils. It is done through a series of recess activities and assembly programmes that aim to make every West Grove student a responsible Internet user.  Values in Action (VIA) - The VIA programmes are learning experiences that support students' development as socially responsible citizens who contribute meaningfully to the community. Through a series of activities such as buddying younger pupils, volunteering at old folks' homes, storytelling at public venues, our activities aim to bring out the goodness in every pupil."
+		"Special Student Development Programmes Offered": "The school believes in the holistic education of every child and that each pupil should achieve Wisdom and Grace by the time they leave West Grove."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -776,7 +780,66 @@
 					"Scout": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"2nd",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Brownies (Pack 1)": "Silver",
+					"Girls' Brigade": "Gold",
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "649223"

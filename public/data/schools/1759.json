@@ -25,7 +25,10 @@
 		],
 		"School Vision": "Every Child, A Winner",
 		"School Mission": "Preparing Our Children for Life, For Service to Nation and Humanity",
-		"School Philosophy, Culture and Ethos": "The school's belief that every child can achieve success is articulated in its vision \"Every Child, A Winner\". This belief is also depicted by the star in the centre of its school crest - a symbol that embodies the school's mission to deliver an all-round education to prepare every child for life, for service to the nation and humanity.   The school motto \"The Best From Me\" pronounces the staff's and students' strive towards excellence and high quality in their every endeavour. Underlying this achievement orientation is self-efficacy, tempered with a culture of care and sense of responsibility towards the self, the community, the nation and the environment.",
+		"School Philosophy, Culture and Ethos": [
+			"The school's belief that every child can achieve success is articulated in its vision \"Every Child, A Winner\". This belief is also depicted by the star in the centre of its school crest - a symbol that embodies the school's mission to deliver an all-round education to prepare every child for life, for service to the nation and humanity. ",
+			"The school motto \"The Best From Me\" pronounces the staff's and students' strive towards excellence and high quality in their every endeavour. Underlying this achievement orientation is self-efficacy, tempered with a culture of care and sense of responsibility towards the self, the community, the nation and the environment."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -62,7 +65,7 @@
 		"School Distinctive Programmes": {
 			"Science": "Nurturing Green Citizens & Leaders through Environmental Studies"
 		},
-		"Special Student Development Programmes Offered": "Sembawang Primary offers Environmental Studies as an applied learning programme (ALP). This course is closely aligned to the school's mission and presents an interdisciplinary approach to understanding and responding to environmental issues. It enriches students' educational experience and supports content mastery in Science by providing a meaningful real-world context for them to relate and apply their learning. It also affords students more opportunities for character building and the development of 21st century competencies.   All students benefit from the school's ALP. Although Science is not a formal subject in Primary 1 and 2, fundamental nature study topics are introduced to these young learners through the Holistic Development Programme comprising various modules especially by our teachers to develop students' talents and nurture in them the essential values, attitudes and skills that will help them succeed in life. In addition to environmental studies, these modules include financial and information literacy, cyber wellness, conversational Malay and Chinese, and values-in-action activities.  Every student completes a project work task annually. We believe that project work not only promotes critical, analytical, and independent thinking in students through applied learning activities, but it also exposes them to a repertoire of methods by which knowledge can be acquired, processed and expressed. At the same time, project work reinforces teamwork and strengthens students' social and communication skills. Since 2016, a customised coding programme has been incorporated into project work for Primary 3 and 4."
+		"Special Student Development Programmes Offered": "Sembawang Primary offers Environmental Studies as an applied learning programme (ALP). This course is closely aligned to the school's mission and presents an interdisciplinary approach to understanding and responding to environmental issues. It enriches students' educational experience and supports content mastery in Science by providing a meaningful real-world context for them to relate and apply their learning. It also affords students more opportunities for character building and the development of 21st century competencies. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -216,6 +219,56 @@
 						"'A' Div"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -308,6 +361,36 @@
 					"year": "2016",
 					"category": "Art - Category B",
 					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -325,6 +408,11 @@
 					"year": "2016",
 					"category": "Red Cross",
 					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Red Cross",
+					"award": "Gold"
 				}
 			]
 		}

@@ -21,7 +21,12 @@
 		"Vice Principal (Admin)": "MR NG CHEONG ANN",
 		"School Vision": "An Icon of Excellence: To Value and be Valued",
 		"School Mission": "To nurture life long learners of good character",
-		"School Philosophy, Culture and Ethos": "The school philosophy is Every Pupil Can Learn and Excel. We believe that each pupil through his effort with the strong collaboration of home and school will be able to learn and in time to come have personal mastery.    The school culture is one of Innovation, Care and Excellence. (ICE)  The school subscribes to the Core Theory of Success that quality relationships lead to quality action and quality results.The school values Learning, Relationship and the Individual.  As a community school it aspires to be a blessing and a contribution to the community.",
+		"School Philosophy, Culture and Ethos": [
+			"The school philosophy is Every Pupil Can Learn and Excel. We believe that each pupil through his effort with the strong collaboration of home and school will be able to learn and in time to come have personal mastery.",
+			"The school culture is one of Innovation, Care and Excellence. (ICE)",
+			"The school subscribes to the Core Theory of Success that quality relationships lead to quality action and quality results.The school values Learning, Relationship and the Individual.",
+			"As a community school it aspires to be a blessing and a contribution to the community."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -76,7 +81,7 @@
 		"School Distinctive Programmes": {
 			"Music & Performing Arts": "STAR ACTtituDE: Pupils with Strengths, Talents, Aspiration and Resilience to achieve A Character Turnaround and Transformation inspired through Drama in Education"
 		},
-		"Special Student Development Programmes Offered": "*Bi-Cultural Programme aims to deepen pupils' proficiency in the language through exposure to Chinese Literature.  *Play@Work is the integration of Science in lower primary English lessons aims to spark interest and curiosity of Science phenomenon in the pupils.  *Scientist@Work - With Scientific inquiry as our main pedagogy, Science is taught using the 5E Instructional model.Strategies like role-playing, problem solving, investigating and cooperative learning are employed.The importance of ethics of a Young Scientist are impressed on the pupils. *Senior & Junior Olympics provides pupils authentic opportunities to demonstrate and develop character aligned with the spirit of Olympism. Pupils apply skills and attitudes learnt through the year as they participate in inter class competitions.  *STAR ACTtituDE ( Strengths, Talents, Aspiration and Resilience to achieve A Character Turnaround and Transformation inspired through Drama in Education) is the school's  Learning for Life Programme. Through creative play and stimulation of the imagination,pupils will graduate with confidence in creating, performing and responding. *TPS Spring seeks to inculcate life skills in pupils through an awareness of the environment and the community that we live in. The activities are customised for the different levels. *A set of rubrics with clear expectations, in alignment with school values and the hallmark of a Tampinesian is provided for pupils self- assessment and to support parents' endorsement in recognising the child's progress in character development. *LaSER is a specialised, customised Primary 1 literacy intervention programme initiated by the school to address literacy skills of P1 pupils who scored poorly in the national School Readiness Test, but are not identified for the Learning Support Programme (LSP). *School-based Dyslexia Remediation (SDR) Programme is a structured, multi-sensory and explicit teaching evidence-based strategy to equip pupils with Dyslexia."
+		"Special Student Development Programmes Offered": "*Bi-Cultural Programme aims to deepen pupils' proficiency in the language through exposure to Chinese Literature. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -690,7 +695,66 @@
 					"Scout": "Bronze"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Softball",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Guzheng": "Commendation"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "529426"

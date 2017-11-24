@@ -24,7 +24,11 @@
 			"Mr Shashidaran S/o Kaneson"
 		],
 		"School Vision": "St Andrew's Village: Home of Servant Leaders who bring life to the nations",
-		"School Mission": "Making Lives, Waking Hearts To Serve the Coming Days Family   Society   Eternity",
+		"School Mission": [
+			"Making Lives, Waking Hearts",
+			"To Serve the Coming Days",
+			"Family   Society   Eternity"
+		],
 		"School Philosophy, Culture and Ethos": "As a mission school, St Andrew's Sec provides a holistic and values-based education to nurture young men to become servant leaders upholding WISE and TRUE values of St Andrew's Village. It is our belief that no one comes to our school by chance. Growing boys to become men requires our constant focus on three strategic thrusts : Empowering learning : Building self-directed learners who excel in their academic pursuits. Serving and Belonging : Leveraging on their strong sense of belonging, we nurture the boys with a desire to serve their community and nation. Every Boy Aspiring : We help bring out the best in the boys in their talents, skills, character and leadership development.",
 		"Type of School": "Government-aided Sch / Boys' School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -114,6 +118,10 @@
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
 				"Development Award": "DA (National Education)",
 				"Outstanding Development Award": "ODA (Character Development)"
+			},
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Special Awards": "LHL Award for Innovation in the Normal Course"
 			},
 			"Sports & Games Competition": [
 				{
@@ -275,6 +283,76 @@
 						"'B' Div"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Cricket",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Cricket",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Taekwondo (Kyorugi)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -325,6 +403,26 @@
 				},
 				{
 					"year": "2016",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
 					"category": "Drama - English",
 					"award": "Distinction"
 				}
@@ -402,6 +500,31 @@
 				},
 				{
 					"year": "2016",
+					"category": "St John Ambulance Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Land Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Scout (Unit 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
 					"category": "St John Ambulance Brigade",
 					"award": "Silver"
 				}

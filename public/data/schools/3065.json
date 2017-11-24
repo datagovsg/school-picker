@@ -21,6 +21,7 @@
 			"Mr Lee Han Hwa",
 			"Mrs Punitha Ramanan"
 		],
+		"Vice Principal (Admin)": "Mr Loh Kah Hong",
 		"School Vision": "Confident learners with the passion to excel . Active citizens with a heart to serve",
 		"School Mission": "Serving with heart, values and purpose to bring out the best in every child",
 		"School Philosophy, Culture and Ethos": "Guided by the school philosophy - teaching with passion and conviction, every child can learn, developing each child holistically, and preparing students for future challenges, Kranji Secondary builds a shared vision that is values-driven and student-centric. The school believes that, through fostering a culture of learning, innovation and excellence, students will be confident learners with the passion to excel and active citizens with a heart to serve.",
@@ -90,7 +91,7 @@
 			"Interdisciplinary": "Nurturing Communities of Reflective and Independent Learners through Thinking Curriculum",
 			"Community & Youth Leadership": "Nurturing a Leader in Every Kranjian"
 		},
-		"Special Student Development Programmes Offered": "In Kranji Secondary School, we see innovation as a way of life to support our vision of developing 'Confident Learners with the Passion to Excel'. Our belief in delivering a holistic education has led the school to develop a well-rounded secondary school curriculum. This includes a vibrant Aesthetics Development Programme, comprehensive Sports Development and CCE Programmes to develop Kranjians with character and graciousness. All lower secondary students are exposed to a range of music skills and dances so that they develop an appreciation for the arts and culture. To inculcate a spirit of active citizenry, the school initiates and collaborates extensively with external partners in Values-In-Action projects. The school has two distinctive programmes. Through our Applied Learning Programme (ALP), Thinking Curriculum, Kranji Secondary nurtures communities of reflective and independent learners.  The learning of Thinking Routines through the Thinking Curriculum, allows students to learn tools to make their thinking visible, thus enriching and enhancing their learning. With the Thinking Routines integrated into the various curricular and non-curricular subjects, students develop dispositions to think both critically and inventively, and analyse situations from different perspectives, increasing the level of engagement in their learning. Students also have the opportunity to apply these routines in an authentic learning environment through collaboration with the polytechnics. Secondly, the school has been accorded the Learning for Life Programme (LLP) in Student Leadership. The objective of the programme is to develop A Leader in Every Kranjian. The vision for student leadership in the school is closely linked to the school vision - 'Confident Learners with the Passion to Excel, Active Citizens with a Heart to Serve'. The school adopts the Kouzes and Posner Leadership Challenge Model to create platforms to help fulfil the leadership potential of every student."
+		"Special Student Development Programmes Offered": "In Kranji Secondary School, we see innovation as a way of life to support our vision of developing 'Confident Learners with the Passion to Excel'. Our belief in delivering a holistic education has led the school to develop a well-rounded secondary school curriculum. This includes a vibrant Aesthetics Development Programme, comprehensive Sports Development and CCE Programmes to develop Kranjians with character and graciousness. All lower secondary students are exposed to a range of music skills and dances so that they develop an appreciation for the arts and culture. To inculcate a spirit of active citizenry, the school initiates and collaborates extensively with external partners in Values-In-Action projects."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -115,6 +116,16 @@
 				"Outstanding Development Award": "ODA (Character Development)"
 			},
 			"2016": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Teaching and Learning)"
+				],
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Development Award": "DA (National Education)",
+				"Outstanding Development Award": "ODA (Character Development)"
+			},
+			"2017": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": [
 					"BPA (Staff Well-Being)",
@@ -187,6 +198,26 @@
 				},
 				{
 					"year": "2016",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
 					"category": "Basketball",
 					"subCategory": [
 						"Zone",
@@ -271,6 +302,31 @@
 					"year": "2016",
 					"category": "Drama - English",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -346,6 +402,31 @@
 				},
 				{
 					"year": "2016",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "St John Ambulance Brigade",
 					"award": "Gold"
 				}

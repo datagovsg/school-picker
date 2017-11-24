@@ -23,7 +23,10 @@
 		],
 		"School Vision": "Every AI student, a young lady or gentleman who cares, learns and excels for AI and for nation",
 		"School Mission": "To grow students with strength of character, nurture inquiring and disciplined minds, inspire courage to lead and serve",
-		"School Philosophy, Culture and Ethos": "Ahmad Ibrahim Secondary School believes in building strong academic foundations and instilling academic resilience to prepare students well for their post-secondary education.  We seek to build up towards a culture of excellence and strong purpose to foster a positive school identity.  Our teachers work as a team to nurture every AI student to be a young lady or gentleman who cares, learns and excels for AI and for nation.  The school is committed to preparing our students to be life, work and world ready.  Our character education focuses on inculcation of the core values of Resilience, Integrity, Steadfastness, Excellence, Care, Courage and Gratitude.  Students are provided with various opportunities to discover, explore and develop their interests and leadership skills.  The school takes pride in its academic and co-curricular programmes that provide quality learning experience to support the holistic development of every student.",
+		"School Philosophy, Culture and Ethos": [
+			"Ahmad Ibrahim Secondary School believes in building strong academic foundations and instilling academic resilience to prepare students well for their post-secondary education.  We seek to build up towards a culture of excellence and strong purpose to foster a positive school identity.  Our teachers work as a team to nurture every AI student to be a young lady or gentleman who cares, learns and excels for AI and for nation.",
+			"The school is committed to preparing our students to be life, work and world ready.  Our character education focuses on inculcation of the core values of Resilience, Integrity, Steadfastness, Excellence, Care, Courage and Gratitude.  Students are provided with various opportunities to discover, explore and develop their interests and leadership skills.  The school takes pride in its academic and co-curricular programmes that provide quality learning experience to support the holistic development of every student."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -1039,7 +1042,79 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Distinction"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

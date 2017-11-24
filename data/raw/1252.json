@@ -24,7 +24,24 @@
 		],
 		"School Vision": "A Leading School of Vibrant Learners, Rooted in Good Values",
 		"School Mission": "To provide a unique schooling experience in a  caring community to  develop every child in the Cognitive, Aesthetic, Moral, Physical and Social (CAMPS) domains.",
-		"School Philosophy, Culture and Ethos": "In Endeavour, we prepare our pupils to be ready for the future; as a school, we are innovative;  in what we do, we are child-centric; and we want our pupils to show excellence in all that they do.  The school is guided by a simple Philosophy: \"In all that we do, it is for the students, and in what we do, we want to do it well.\" There is a concerted effort among staff to be student-centric and to do our best to enable all students to succeed.     School Vision:  A Leading School of Vibrant Learners, Rooted in Good Values  - \"A Leading School\": To lead in innovative practices and be a school of excellence - \"Vibrant Learners\": To learn with passion and to be developed in the 21st CC (in particular, Curiosity, Confidence & Collaboration) to take on the challenges of the future -\"Rooted in Good Values\": To live by school values of diligence, perseverance, innovation, integrity, compassion, respect and responsibility; and to be of exemplary character  School Mission: To provide a unique schooling experience in a caring community to develop every child in the Cognitive, Aesthetics, Moral, Physical and Social (CAMPS) domains.  - We believe in building a culture of care in fulfilling our mission - We develop our pupils to be cognitively abled, aesthetically attuned, morally upright, physically active and socially responsible. School Strategic Thrusts (ST) to support the realisation of School Vision are:    - ST 1: Nurturing pupils to become citizens of fine character - ST 2: Inspiring pupils to become vibrant learners - ST 3: Growing staff to lead in personal and professional excellence - ST 4: Engaging partners to support holistic education  Through our programmes, in particular the LLP and ALP, our school continues to strengthen our identity in the community as a school of innovative practices in providing holistic education for our pupils.",
+		"School Philosophy, Culture and Ethos": [
+			"In Endeavour, we prepare our pupils to be ready for the future; as a school, we are innovative; ",
+			"in what we do, we are child-centric; and we want our pupils to show excellence in all that they do.",
+			"The school is guided by a simple Philosophy: \"In all that we do, it is for the students, and in what we do, we want to do it well.\" There is a concerted effort among staff to be student-centric and to do our best to enable all students to succeed.   ",
+			"School Vision:  A Leading School of Vibrant Learners, Rooted in Good Values ",
+			"- \"A Leading School\": To lead in innovative practices and be a school of excellence",
+			"- \"Vibrant Learners\": To learn with passion and to be developed in the 21st CC (in particular, Curiosity, Confidence & Collaboration) to take on the challenges of the future",
+			"-\"Rooted in Good Values\": To live by school values of diligence, perseverance, innovation, integrity, compassion, respect and responsibility; and to be of exemplary character",
+			"School Mission: To provide a unique schooling experience in a caring community to develop every child in the Cognitive, Aesthetics, Moral, Physical and Social (CAMPS) domains. ",
+			"- We believe in building a culture of care in fulfilling our mission",
+			"- We develop our pupils to be cognitively abled, aesthetically attuned, morally upright, physically active and socially responsible.",
+			"School Strategic Thrusts (ST) to support the realisation of School Vision are:   ",
+			"- ST 1: Nurturing pupils to become citizens of fine character",
+			"- ST 2: Inspiring pupils to become vibrant learners",
+			"- ST 3: Growing staff to lead in personal and professional excellence",
+			"- ST 4: Engaging partners to support holistic education",
+			"Through our programmes, in particular the LLP and ALP, our school continues to strengthen our identity in the community as a school of innovative practices in providing holistic education for our pupils."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay",
 		"Affiliated Schools": "Not Applicable"
@@ -78,7 +95,7 @@
 			"Interdisciplinary": "Nurturing Thinkers through Knowledge Building Practices",
 			"Music & Performing Arts": "Every Child A Performer (ECAP)"
 		},
-		"Special Student Development Programmes Offered": "Every Child Holistic Programme : Every Child Holistic Programme (ECHP) is a unique programme that enables our school to cater to the holistic development of the pupils and to develop their talents. Under the overarching ECHP, every child will be developed to be a leader, a writer, a performer, an artist and a responsible citizen.  Every Child A Performer (LLP) : Every Child A Performer (ECAP) benefits all pupils at various levels of development. Besides cultivating interest and nurturing talent in Performing Arts, the programme emphasizes on character building and citizen education to prepare our pupils for the 21st Century. Our Performing Arts modules from  P1 to P6 enable all pupils to acquire music and dance skills and develop social emotional competencies. Pupils' creativity is expressed through exposure to musical instruments and genre of dance. All pupils have the opportunity to become confident performers and active contributors on \"Rainbow Days\" when they perform on stage. Pupils who display greater interest in Performing Arts have more opportunities to develop their passion and talents through participating in Aesthetics CCAs.   Nurturing Thinkers through Knowledge Building (KB) Practices (ALP)  : KB practices have been well developed in our school through our collaboration with ETD/MOE over the years to promote Computer Supported Collaborative Learning. In KB, the teacher models the inquiry process while encouraging the pupils to build on each other's knowledge via the online Knowledge Forum  (KF), and to be engaged in collaborative learning. The ALP is designed to support the progressive development of thinking, communication and collaboration skills among pupils. Through the ALP, pupils will be introduced to thinking routines at lower primary before deepening their learning on KB principles. KB skills are applied through project work when pupils are at upper primary. The programme leverages on ICT to enrich learning and enhances the development of 21CC."
+		"Special Student Development Programmes Offered": "Every Child Holistic Programme :"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -590,7 +607,92 @@
 					"Scout": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rugby",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Gold",
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "757521"

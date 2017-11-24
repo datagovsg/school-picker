@@ -44,6 +44,7 @@
 		"H1 ART",
 		"H1 BIOLOGY",
 		"H1 CHEMISTRY",
+		"H1 CHINA STUDIES IN ENGLISH",
 		"H1 CHINESE LANGUAGE",
 		"H1 ECONOMICS",
 		"H1 GENERAL PAPER",
@@ -58,6 +59,7 @@
 		"H2 ART",
 		"H2 BIOLOGY",
 		"H2 CHEMISTRY",
+		"H2 CHINA STUDIES IN ENGLISH",
 		"H2 CHINESE LANGUAGE & LITERATURE",
 		"H2 ECONOMICS",
 		"H2 FURTHER MATHEMATICS",
@@ -494,7 +496,61 @@
 					"Ensemble - Guitar": "Accomplishment"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Taekwondo (Poomsae)",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guitar": "Accomplishment"
+				}
+			}
 		},
 		"Junior College": {
 			"2005": {
@@ -1454,7 +1510,58 @@
 					"Ensemble - Strings": "Distinction"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Swimming",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"4th",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - Chinese (2nd Entry)": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Accomplishment",
+					"Ensemble - Strings": "Distinction",
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

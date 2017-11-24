@@ -17,10 +17,19 @@
 	"bus": "172 , 181 , 185 , 199 ",
 	"GeneralInformation": {
 		"Principal": "MR ABDUL HARRIS B SUMARDI",
-		"Vice Principal": "MR GANESAN S/O RAMAN",
+		"Vice Principal": [
+			"MR GANESAN S/O RAMAN",
+			"MISS TAN MING MING"
+		],
 		"Vice Principal (Admin)": "MR KONG CHEE CHIEW",
 		"School Vision": "Rooted in Character & Skills to Soar for the Nation.",
-		"School Mission": "Nurturing Westwoodians to be anchored in sound values, to have the necessary knowledge and skills to face the challenges of the future, and to be driven by the desire to make a difference.",
+		"School Mission": [
+			"Nurturing Westwoodians",
+			"to be anchored in sound values,",
+			"to have the necessary knowledge and skills",
+			"to face the challenges of the future, and",
+			"to be driven by the desire to make a difference."
+		],
 		"School Philosophy, Culture and Ethos": "In Westwood, we believe that all students are unique individuals with different talents and abilities, who can learn and grow, and eventually, make a difference to society. As such, the school has the responsibility to develop each student holistically and to his best ability. This will be done through the provision of equal access to developmental opportunities, and, regardless of level or stream, talents and interests, all students will be ensured of a strong foundation in the knowledge, skills and competencies required for success in life in the 21st Century. Even more importantly, all students will be imbued with strong moral values and a sense of social responsibility, so that they may continue to serve and contribute to their community even after they leave Westwood.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -342,7 +351,22 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Mixed Ensemble": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girls' Brigade": "Silver",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Bronze",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

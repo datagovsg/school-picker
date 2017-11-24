@@ -72,7 +72,7 @@
 		"School Distinctive Programmes": {
 			"Music & Performing Arts": "Developing 21st CC through Arts Education Programme @ Dazhong (AEP@D)"
 		},
-		"Special Student Development Programmes Offered": "Learning for Life Programme (LLP):  Developing 21st century competencies through Arts Education Programme@Dazhong (AEP@DZPS). Our signature programme aims to develop our students to be future ready. We are also the only primary school in Singapore to have a Junior Orchestra Talent development programme supported by the MOE Arts Education Branch.  Character & Citizenship Development:  Resilience@DZPS via Outdoor Education Programme (OEP) aims to build resilience and 'gritty' children through a longitudinal OEP, where students undergo rugged and authentic learning experiences to develop character, strength and tenacity. Other Character Development programmes include 'myCEED@DZPS - Character and Citizenship Programme, NE Current Buzz, Gratitude Journalling & Servant Leadership Development Programme through iLEAD (Leadership Experience at Dazhong).  Cognitive (Critical & Inventive Thinking Development):  Beyond supporting the students' development in Literacy and Numeracy. Students are exposed to other stretch programmes such as Fun with Coding Programme to develop Computational Thinking Skills, Science Learning through the  I- Experience programme, Literacy programmes such as Writing With Purpose & the Math Mastery Programme."
+		"Special Student Development Programmes Offered": "Learning for Life Programme (LLP): "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -97,6 +97,16 @@
 						"Zone",
 						"Boys",
 						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
 					],
 					"award": "3rd"
 				}
@@ -156,6 +166,21 @@
 					"year": "2016",
 					"category": "Dance - International",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -186,6 +211,16 @@
 				},
 				{
 					"year": "2016",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Brownies (Pack 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
 					"category": "Scout",
 					"award": "Gold"
 				}

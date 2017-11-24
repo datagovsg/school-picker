@@ -74,7 +74,7 @@
 		"School Distinctive Programmes": {
 			"Sports & Outdoor Education": "Character and Leadership through Sports and Outdoor Education"
 		},
-		"Special Student Development Programmes Offered": "School Distinctive Programme LLP: Character and Leadership through Sports and Outdoor Education   Special Student Development Programme E2K, Talent Development Programme, Globalisation Programme, Public Speaking, Speech and Drama Programme"
+		"Special Student Development Programmes Offered": "School Distinctive Programme"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -622,7 +622,64 @@
 					"Scout": "Bronze"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Floorball",
+						"4th",
+						"1st",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "198423"

@@ -21,7 +21,13 @@
 		"Vice Principal (Admin)": "MISS USHA RANI HENRY",
 		"School Vision": "Guided by values, every Eunosian a happy learner, a confident communicator and a critical thinker",
 		"School Mission": "Nurturing every child in a caring and vibrant environment to achieve his/her personal best and contribute actively to society",
-		"School Philosophy, Culture and Ethos": "Every staff in Eunos Primary is committed to the school philosophy \"Every child can learn and achieve in a caring environment\". This commitment is evident in the tireless efforts to provide every student with opportunities to develop holistically.   In the cognitive domain, the school has developed in-house programmes to meet the differing needs of her students. Two examples are the HEALS programme (Helping and Enabling All Learners to Succeed) - a differentiated literacy curriculum to strengthen our students' literacy skills and the ICAN programme (Improve Confidence and Achievement in Numeracy) aimed at levelling up our students' confidence and proficiency in Mathematics. To help students develop to be Critical Thinkers, the school's Aesthetics department has adopted the use of Making Thinking Visible routines.  In the aesthetics domain, the school prides itself on providing opportunities for our students to attend performing arts events such as watching the musical Les Miserables as well as putting up public performances. In 2016, the school's third public performance Euni-Voices received many accolades.   In the physical domain, the school has developed a Healthy Eating Project aimed at educating our students on how to make healthier food choices and prepare nutritious meals independently. Students are also exposed to a variety of sports programmes such as roller-blading and archery. To encourage an active lifestyle, the annual Eunos Olympiad provides the opportunity for staff, students and parents to bond while participating in sports and games.  Believing in the importance of a close School-Home partnership for the benefit of our students, Supportive Parents in Community Engagement (SPICE @ Eunos) was set up in 2011. Through this strong partnership, our students are exposed to invaluable learning opportunities including short attachments to various companies and industries as part of education career guidance.",
+		"School Philosophy, Culture and Ethos": [
+			"Every staff in Eunos Primary is committed to the school philosophy \"Every child can learn and achieve in a caring environment\". This commitment is evident in the tireless efforts to provide every student with opportunities to develop holistically. ",
+			"In the cognitive domain, the school has developed in-house programmes to meet the differing needs of her students. Two examples are the HEALS programme (Helping and Enabling All Learners to Succeed) - a differentiated literacy curriculum to strengthen our students' literacy skills and the ICAN programme (Improve Confidence and Achievement in Numeracy) aimed at levelling up our students' confidence and proficiency in Mathematics. To help students develop to be Critical Thinkers, the school's Aesthetics department has adopted the use of Making Thinking Visible routines.",
+			"In the aesthetics domain, the school prides itself on providing opportunities for our students to attend performing arts events such as watching the musical Les Miserables as well as putting up public performances. In 2016, the school's third public performance Euni-Voices received many accolades. ",
+			"In the physical domain, the school has developed a Healthy Eating Project aimed at educating our students on how to make healthier food choices and prepare nutritious meals independently. Students are also exposed to a variety of sports programmes such as roller-blading and archery. To encourage an active lifestyle, the annual Eunos Olympiad provides the opportunity for staff, students and parents to bond while participating in sports and games.",
+			"Believing in the importance of a close School-Home partnership for the benefit of our students, Supportive Parents in Community Engagement (SPICE @ Eunos) was set up in 2011. Through this strong partnership, our students are exposed to invaluable learning opportunities including short attachments to various companies and industries as part of education career guidance."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -75,7 +81,7 @@
 		"School Distinctive Programmes": {
 			"Music & Performing Arts": "Student Development in the Arts and through the Arts"
 		},
-		"Special Student Development Programmes Offered": "Central to the Eunos experience is the emphasis on character building and values inculcation.  Our unique CHAracter Moulding Programme(CHAMP) aims to inculcate the six school values(Care, Unity, Respect, Resilience, Integrity, Excellence) and develop social emotional skills as well as 21st century competencies in our students.   Through the school's Values-in-Action programmes, students and staff role-model the desired values and serve the needs of our community. We participate in various recycling drives and green effort projects to show care and concern for the environment. Additionally, our signature programme, Ethnic Home Visits promotes the appreciation of our rich cultural heritage and embraces diversity. Staff and parents of local and international students open their homes to engage the students in learning different customs and cultural practices.  Our Learning for Life Programme,\"Student Development in the Arts and through the Art\", is a three-tier programme comprising a broad-based arts appreciation curriculum, co-curriculum programmes for targeted groups and focused development programmes for the artistically talented students.  Another highly anticipated signature programme is the Post-Examination Primary Six Enrichment (PEPSE). PEPSE takes a student-centric approach aimed at providing enriching programmes to engage the P6 students meaningfully and holistically. Activities include social etiquette lessons, outings to Sentosa and opportunities to visit companies as part of career guidance. In all, the Eunosian experience is filled with exciting and purposeful activities in alignment with the school vision of every Eunosian to be a Happy Learner, Confident Communicator and Critical Thinker while being always Guided by Values."
+		"Special Student Development Programmes Offered": "Central to the Eunos experience is the emphasis on character building and values inculcation. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -763,7 +769,66 @@
 					"Red Cross": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition(Sm)",
+					"Art - Category B": "Recognition",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "419529"

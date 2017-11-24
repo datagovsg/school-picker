@@ -116,7 +116,7 @@
 			"Integrated Programme",
 			"ART ELECTIVE PROGRAMME"
 		],
-		"Special Student Development Programmes Offered": "For the Integrated Programme (Junior High), we offer Language Arts (English & Literature), Chemistry, Physics, Biology, Governance & Society, Mathematics (both E and A Maths), History, Geography, Higher Mother Tongue and Mother Tongue for the first 4 years, as well as Integrated Sciences, Thinking, and General Arts Programme (Art and Music) for the first 2 years. Advanced Language Arts, Advanced Humanities and Man & Ideas are also offered to capable students at JH3 & JH4. The College offers a wide range of special programmes in various domains. They are: SPIRE (Special Programme in Inquiry and Research), Research@NJC, Accelerated Mathematics, Advanced Sciences, Art Elective Programme (AEP), NJC Music Programme, Enhanced Boarding Programme, Cultural Mapping-On-The-Move, Leadership,  Values In Action and Guidance Programmes, Humanities Scholarship Programme, Sapphire Scholars Programme and International Programmes.  Students may also offer a Third Language outside of College. Junior High 1 students undergo a special CCA programme known as CAFE. CCAs offered for Junior High are basketball, canoeing, shooting, softball, squash, track and field, Chinese orchestra, Chinese dance, choir, guitar ensemble, Indian dance, Malay dance, string orchestra, symphonic band and Western dance. Students may also join any CCA under the Talent Management Scheme.  Note that H1, H2 and H3 subjects listed are only offered at Senior High (JC years)."
+		"Special Student Development Programmes Offered": "For the Integrated Programme (Junior High), we offer Language Arts (English & Literature), Chemistry, Physics, Biology, Governance & Society, Mathematics (both E and A Maths), History, Geography, Higher Mother Tongue and Mother Tongue for the first 4 years, as well as Integrated Sciences, Thinking, and General Arts Programme (Art and Music) for the first 2 years. Advanced Language Arts, Advanced Humanities and Man & Ideas are also offered to capable students at JH3 & JH4. The College offers a wide range of special programmes in various domains. They are: SPIRE (Special Programme in Inquiry and Research), Research@NJC, Accelerated Mathematics, Advanced Sciences, Art Elective Programme (AEP), NJC Music Programme, Enhanced Boarding Programme, Cultural Mapping-On-The-Move, Leadership,  Values In Action and Guidance Programmes, Humanities Scholarship Programme, Sapphire Scholars Programme and International Programmes.  Students may also offer a Third Language outside of College. Junior High 1 students undergo a special CCA programme known as CAFE."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1043,7 +1043,101 @@
 					"Art - Category A": "Recognition"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)",
+					"Outstanding PARTNERS"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"1st",
+						"4th"
+					],
+					[
+						"Canoeing",
+						"4th",
+						"4th",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"-",
+						"4th",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				}
+			}
 		},
 		"Junior College": {
 			"2005": {
@@ -2177,7 +2271,83 @@
 					"Orchestra - Chinese": "Distinction"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)",
+					"Outstanding PARTNERS"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Canoeing",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"4th",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Drama - Chinese": "Commendation",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

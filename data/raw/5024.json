@@ -20,7 +20,12 @@
 		"Vice Principal": "MISS CHEW MAY",
 		"School Vision": "Ever Learning, Ever Glowing, Ever Abiding by the Truth of God.",
 		"School Mission": "To nurture a community of lifelong learners with Christian values to overcome challenges.",
-		"School Philosophy, Culture and Ethos": "Kuo Chuan Presbyterian Primary School (KCPPS) was founded by two Christian missionaries as Katong Girls' School in 1924 and developed into Choon Guan School the following year, which was subsequently renamed Presbyterian Boys' School in 1950. Today, KCPPS is one of the 5 schools supported by the Presbyterian Church in Singapore. The school is located in the Bishan area and offers places for both boys and girls. After the PERI Upgrading project in 2013 and 2014, KCPPS is currently operating as a single session school.   The school believes in delivering an education of love through developing the whole child. Not only does the school equip our pupils with skills and competencies, we also instil in them an appreciation of their spiritual and moral well-being through inculcating sound values. We help our pupils learn to take ownership for their own growth and well-being, to have the desire to care for others and the will to preserve and sustain resources in the environment for everyone and for the next generation.  The school values guide and shape the culture and ethos of the school. The school values are: Amazing Love, Resilience, Integrity, Self-discipline and Excellence, forming the acronym \"ARISE\". We aspire to be a community of learners who take ownership for our own learning, collaborate to tap on each other's strengths and talents and innovate to constantly improve to excel. We hope to inspire, equip and motivate our pupils to be active contributors and concerned citizens who will step forward to make a difference to the community they are in.   The school believes in building a strong partnership with parents in caring for their child's well-being. The approach taken is proactive and early engagement. Parents are invited to participate in school events, parenting talks and workshops from the time their child is in P1 and play an active part in role modelling positive attitude and behaviour for their child at home.",
+		"School Philosophy, Culture and Ethos": [
+			"Kuo Chuan Presbyterian Primary School (KCPPS) was founded by two Christian missionaries as Katong Girls' School in 1924 and developed into Choon Guan School the following year, which was subsequently renamed Presbyterian Boys' School in 1950. Today, KCPPS is one of the 5 schools supported by the Presbyterian Church in Singapore. The school is located in the Bishan area and offers places for both boys and girls. After the PERI Upgrading project in 2013 and 2014, KCPPS is currently operating as a single session school. ",
+			"The school believes in delivering an education of love through developing the whole child. Not only does the school equip our pupils with skills and competencies, we also instil in them an appreciation of their spiritual and moral well-being through inculcating sound values. We help our pupils learn to take ownership for their own growth and well-being, to have the desire to care for others and the will to preserve and sustain resources in the environment for everyone and for the next generation.",
+			"The school values guide and shape the culture and ethos of the school. The school values are: Amazing Love, Resilience, Integrity, Self-discipline and Excellence, forming the acronym \"ARISE\". We aspire to be a community of learners who take ownership for our own learning, collaborate to tap on each other's strengths and talents and innovate to constantly improve to excel. We hope to inspire, equip and motivate our pupils to be active contributors and concerned citizens who will step forward to make a difference to the community they are in. ",
+			"The school believes in building a strong partnership with parents in caring for their child's well-being. The approach taken is proactive and early engagement. Parents are invited to participate in school events, parenting talks and workshops from the time their child is in P1 and play an active part in role modelling positive attitude and behaviour for their child at home."
+		],
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "KUO CHUAN PRESBYTERIAN SECONDARY SCHOOL"
@@ -75,7 +80,7 @@
 			"Languages": "E-Cube: Engage, Excite, Express",
 			"Visual Arts & Design": "Learning for Life in Art"
 		},
-		"Special Student Development Programmes Offered": "At Kuo Chuan Presbyterian Primary School, our pupils learn to develop a passion for learning as well as the zest for life. Over 6 years, the school endeavours to develop them to be \"Lifelong Learners, Lifelong Pals\".  E-Cube(Engage Excite Express) is the school's Applied Learning Programme. It is anchored on the 'spirit of giving back to society' as concerned citizens. This aligns to the school value of Amazing Love. E-Cube is the platform for P3 to P5 pupils to present their perspectives on social issues through choral reading and self-scripted skits to the public.  To nurture all-rounded individuals, the school's Learning for Life Programme (LLP) through Art/ Design seeks to promote a vibrant art culture which develops artistic talents and nurtures an appreciation for Art/Design through 4 ways: 'Art in Making' - A series of experiential projects for middle/ upper primary pupils to develop basic knowledge of art/design and explore their interests as active art creators. 'Art Trail for All'- An art appreciation trail for middle/ upper primary pupils to immerse in art-enriched environment as art audiences. 'Art for Talent Building'- A more in-depth pursuit of artistic excellence for upper primary pupils to deepen their knowledge and skills through art inquiry in a chosen art form. 'Art Sharing'- A Values in Action project for Art Club members to learn more about how they can contribute to their community through interacting with the senior citizens using various art and craft activities.  Greening Kuo Chuan is a programme under the purview of the Science Department that encourages pupils to actively care for the environment. It is to enable our pupils to make a difference at home, in school and in the community by becoming green citizens. Having the mission of equipping our pupils with the know-how and skills needed to protect the environment, the school aspires to inculcate in them the need to save the Earth through various green efforts in their daily lives."
+		"Special Student Development Programmes Offered": "At Kuo Chuan Presbyterian Primary School, our pupils learn to develop a passion for learning as well as the zest for life. Over 6 years, the school endeavours to develop them to be \"Lifelong Learners, Lifelong Pals\"."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -501,7 +506,91 @@
 					"Girls' Brigade": "Silver"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"4th"
+					],
+					[
+						"",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div"
+					],
+					[
+						"Track & Field",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "579793"

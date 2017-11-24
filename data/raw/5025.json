@@ -23,7 +23,11 @@
 		],
 		"Vice Principal (Admin)": "MISS PENNY NG LEE YONG",
 		"School Vision": "A Dynamic Learning Community that nurtures loyal citizens with global outlook and Godly character.",
-		"School Mission": "As an Anglican school, we are committed to providing a balanced development of body, mind and spirit for our students and nurturing God-fearing citizens for our nation.  Our school values are:  Serve Humbly, Love Sincerely, Learn Continuously, Lead Wisely, Live Responsibly  Our School motto:  Go Forward",
+		"School Mission": [
+			"As an Anglican school, we are committed to providing a balanced development of body, mind and spirit for our students and nurturing God-fearing citizens for our nation.",
+			"Our school values are:  Serve Humbly, Love Sincerely, Learn Continuously, Lead Wisely, Live Responsibly",
+			"Our School motto:  Go Forward"
+		],
 		"School Philosophy, Culture and Ethos": "St Hilda's Primary School established in 1934 is an Anglican Christian school with boys and girls from multi-ethnic backgrounds   Through generations of committed school leaders, staff, church workers and parents, the school has developed a culture of excellence and care.  One of the key school strengths is the emphasis on moral values and character development.  We have daily devotions and a strong Character and Leadership Development programme.  The school challenges our students to do well not only academically but also in their co-curricular activities.  Every Hildan through his or her six years of education will grow to be an Articulate, Confident, Innovative and Caring Ambassador.",
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -93,7 +97,7 @@
 			"Languages": "Developing confident communicators through an enriched global education -- The Hildan Ambassador’s Education",
 			"Visual Arts & Design": "Nurturing Creativity and Culture through Performing Arts, Visual Arts, Leadership"
 		},
-		"Special Student Development Programmes Offered": "School Distinctive Programme (SDP) The main aim of our SDP is to develop each Hildan holistically, nurturing them to be confident and life-long learners.  The SDP comprises of 4 main components namely Applied Learning Programmes (ALP), Learning for Life Programmes (LLP), Life skills (Leadership, ICT, Cyber wellness programmes) and Values In Action (VIA).   Applied Learning Programme (ALP) Through our Hildan Ambassador's Education, the school is committed in nurturing our Hildans to be effective and confident communicators through a distinct enriched global education.  Our focus for ALP is integrated in English and Mother Tongue languages as well as Social Studies to better equip students with communication, presentation and problem solving skills. The school has established strategic overseas partners to create the learning opportunities for students to acquire a global perspective   Learning For Life Programme (LLP) Through our Imprints Alive LLP programme, students are introduced to a variety of art forms appropriate to their age and level to enable our students to become critical thinkers, confident in expressing themselves creatively and also develop aptitudes in appreciating the various music and art forms."
+		"Special Student Development Programmes Offered": "School Distinctive Programme (SDP)"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -1293,7 +1297,113 @@
 					"Girls' Brigade": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Special Awards": "LKY (NE) Award",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Hockey",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					],
+					[
+						"Sailing",
+						"1st",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "529706"

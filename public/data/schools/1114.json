@@ -23,7 +23,13 @@
 		"Vice Principal (Admin)": "Mrs Haryati Teh",
 		"School Vision": "Gracious Woodlanders with the Zest to Excel",
 		"School Mission": "To develop in pupils, skills and knowledge and a desire for continuous learning in order to stay relevant for the future.",
-		"School Philosophy, Culture and Ethos": "Woodlands Primary School has a rich history, with its humble beginnings as a kampong school in Sugei Kadut in 1953 before being officially named as Woodlands Primary in 1976. With more than 40 years of history, the school has nurtured generations of successful Woodlanders in their respective fields, many of whom have returned back to serve as teachers, parent support group members, alumni and members of the School Advisory Committee.  The school believes strongly in providing pupils with a holistic education and through that, helping them to discover and develop their individual interests, talents and strengths. We have many engaging programmes in place to achieve this, and our staff is committed to providing a student-centric, values driven education for our pupils.  Our very strong culture of care have enabled us to build a closely-knit community with our stakeholders. We believe in building quality relationships so that we can work together to value add to our pupils' learning and development. Our key partners and active Parent Support Group are instrumental in providing valuable authentic experiences and positive role modelling for our pupils to learn through Values in Action.  Our pupils' zest to excel has helped the school to build a reputation of excellence in the area of sports, performing arts and visual arts. These are key avenues through which the school provides a holistic education for our pupils, and the character traits and attitudes developed from these avenues have served our pupils well in both academic and non-academic aspects of their education journey.  The school vision of pupils becoming \"Gracious Woodlanders with the Zest to Excel\" shows our commitment to nurture pupils who are ready for the future. As we help pupils to develop 21st century skills, we also continue to stress our core values - respect, resilience, passion, adaptability, collaboration and innovation, which will guide our pupils as they grow to make a difference in society.",
+		"School Philosophy, Culture and Ethos": [
+			"Woodlands Primary School has a rich history, with its humble beginnings as a kampong school in Sugei Kadut in 1953 before being officially named as Woodlands Primary in 1976. With more than 40 years of history, the school has nurtured generations of successful Woodlanders in their respective fields, many of whom have returned back to serve as teachers, parent support group members, alumni and members of the School Advisory Committee.",
+			"The school believes strongly in providing pupils with a holistic education and through that, helping them to discover and develop their individual interests, talents and strengths. We have many engaging programmes in place to achieve this, and our staff is committed to providing a student-centric, values driven education for our pupils.",
+			"Our very strong culture of care have enabled us to build a closely-knit community with our stakeholders. We believe in building quality relationships so that we can work together to value add to our pupils' learning and development. Our key partners and active Parent Support Group are instrumental in providing valuable authentic experiences and positive role modelling for our pupils to learn through Values in Action.",
+			"Our pupils' zest to excel has helped the school to build a reputation of excellence in the area of sports, performing arts and visual arts. These are key avenues through which the school provides a holistic education for our pupils, and the character traits and attitudes developed from these avenues have served our pupils well in both academic and non-academic aspects of their education journey.",
+			"The school vision of pupils becoming \"Gracious Woodlanders with the Zest to Excel\" shows our commitment to nurture pupils who are ready for the future. As we help pupils to develop 21st century skills, we also continue to stress our core values - respect, resilience, passion, adaptability, collaboration and innovation, which will guide our pupils as they grow to make a difference in society."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -74,7 +80,7 @@
 			"Music & Performing Arts": "Performance And Character Education through Music (PACE@Music)",
 			"Sports & Outdoor Education": "Sports Performance And Character Education (SPACE)"
 		},
-		"Special Student Development Programmes Offered": "The school believes that academic and character building are equally important in the development of the whole child.   The school's Learning for Life Programme (LLP), Sports Performance and Character Education (SPACE), is a whole school approach to character building through sports. The LLP is anchored on the beliefs that developing a passion for sports is an important component in the holistic development of pupils, and that sportsmen need to possess sound values and character. The LLP builds on the school's niche in Volleyball. The programme provides all pupils the opportunities to hone their physical skills, and develop values of respect, resilience, passion, adaptability, collaboration and innovation (WDP Core Values) as they work towards common goals.  Our other LLP, Performance and Character Education through Music (PACE@Music), is a progressive 6-year music and choral programme that complements the school's music curriculum. Besides grooming talents to attain choral excellence through Choir CCA, all pupils are exposed to various singing related modules to enrich their experience throughout their 6 years in school. Pupils are also exposed to a variety of musical instruments, from cajons to ukulele, to enrich them with an encompassing musical experience. Pupils can pursue their interests further in the wide range of performing arts CCAs offered by the school.  All pupils also experience Philosophy for Children (P4C@Woods), an English-enriched programme conducted by teachers from Primary 1 to Primary 6. P4C lessons are engaging, communicative and collaborative lessons that facilitate 20 pupils to engage in a Community of Inquiry. Beyond P4C lessons, there is extensive use of the P4C thinking tools in different subjects to encourage pupils to be creative, caring and critical in their thinking."
+		"Special Student Development Programmes Offered": "The school believes that academic and character building are equally important in the development of the whole child. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -87,6 +93,9 @@
 				"Best Practice Awards": "BPA (Teaching and Learning)"
 			},
 			"2016": {
+				"Best Practice Awards": "BPA (Teaching and Learning)"
+			},
+			"2017": {
 				"Best Practice Awards": "BPA (Teaching and Learning)"
 			},
 			"Sports & Games Competition": [
@@ -239,6 +248,66 @@
 						"Senior"
 					],
 					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
 				}
 			],
 			"SYF": [
@@ -331,6 +400,36 @@
 					"year": "2016",
 					"category": "Ensemble - Handbell / Handchime",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -341,6 +440,11 @@
 				},
 				{
 					"year": "2016",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "Scout",
 					"award": "Gold"
 				}

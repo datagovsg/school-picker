@@ -19,10 +19,7 @@
 	"bus": "27 , 82 , 83 , 86 , 88 , 89 , 89E , 136 , 161 , 371 , 965 ",
 	"GeneralInformation": {
 		"Principal": "Mr Chia Chor Yann",
-		"Vice Principal": [
-			"Mr Sukhdev Singh S/o Gurdeep Singh",
-			"Mr Wong Jia Wang"
-		],
+		"Vice Principal": "Mr Sukhdev Singh S/o Gurdeep Singh",
 		"Vice Principal (Admin)": "Mr Phang Chee Kheng",
 		"School Vision": "World Ready Youth - Innovative contributors, upright citizens with a global outlook",
 		"School Mission": "We develop our students to their fullest potential through a balanced education and instil in them a passion for living and learning.",
@@ -102,7 +99,18 @@
 					"DA (National Education)"
 				]
 			},
-			"Sports & Games Competition": [],
+			"Sports & Games Competition": [
+				{
+					"year": "2017",
+					"category": "Taekwondo (Kyorugi)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
+				}
+			],
 			"SYF": [
 				{
 					"year": "2014",
@@ -168,6 +176,31 @@
 					"year": "2016",
 					"category": "Choir",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -243,6 +276,31 @@
 				},
 				{
 					"year": "2016",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Air)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "Red Cross",
 					"award": "Gold"
 				}

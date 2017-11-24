@@ -19,7 +19,10 @@
 	"bus": "945 , 187 ",
 	"GeneralInformation": {
 		"Principal": "Mr Heng Yew Seng",
-		"Vice Principal": "Mr Hoi Weng Kit Derrick",
+		"Vice Principal": [
+			"Mr Hoi Weng Kit Derrick",
+			"Mr Sherwin Cheng San Shian"
+		],
 		"Vice Principal (Admin)": "Mr Chan Chee Wei",
 		"School Vision": "Thoughtful Leaders",
 		"School Mission": "We nurture students to Think, Care and Lead with P.R.I.D.E.",
@@ -83,7 +86,7 @@
 			"Basketball (Boys)",
 			"Floorball (Mixed)",
 			"Football (Boys)",
-			"Tenpin Bowling (Boys)"
+			"Tenpin Bowling"
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
@@ -196,6 +199,26 @@
 						"'C' Div"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -303,6 +326,41 @@
 					"year": "2016",
 					"category": "Dance - Malay",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Commendation"
 				}
 			],
 			"Best Unit Award": [
@@ -393,6 +451,36 @@
 				},
 				{
 					"year": "2016",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Air)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "St John Ambulance Brigade",
 					"award": "Gold"
 				}

@@ -79,7 +79,7 @@
 	"Cca": {
 		"Physical Sports": [
 			"Badminton",
-			"Basketball (Boys)",
+			"Basketball",
 			"Cross Country",
 			"Floorball",
 			"Floorball (Girls)",
@@ -119,7 +119,7 @@
 			"Singapore Youth Flying Club",
 			"Student Editorial Club",
 			"Students' Council",
-			"The Eco-Sustainability Leaders Academy"
+			"The Eco-Sustainability Leadership Academy"
 		]
 	},
 	"SpecialProgrammes": {
@@ -1385,7 +1385,114 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": "DA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"2nd",
+						"2nd",
+						"2nd"
+					],
+					[
+						"Softball",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"4th",
+						"3rd"
+					],
+					[
+						"Wushu",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band - Concert": "Distinction",
+					"Band-Percussion Ensemble": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Ncc (Land Girls)": "Gold",
+					"Npcc (Land)": "Bronze",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		},
 		"Junior College": {
 			"2005": {},
@@ -1855,7 +1962,90 @@
 					"Orchestra - Chinese": "Distinction"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": "DA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Badminton",
+						"3rd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"4th",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"2nd",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Distinction",
+					"Ensemble - Guitar": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

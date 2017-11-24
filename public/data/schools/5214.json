@@ -26,7 +26,11 @@
 		"Vice Principal (Admin)": "Mdm Ong Lee Fong",
 		"School Vision": "Caring Community, Innovative Leaders.",
 		"School Mission": "To nurture a community of independent learners, effective communicators, active citizens, and innovative leaders.",
-		"School Philosophy, Culture and Ethos": "Grown from an initial student population of 300 in the founding year in 1951, Red Swastika School has established itself as a school recognised for its holistic education and emphasis  on character development anchored on the Xingzhi culture.    The Red Swastika School was founded by the World Red Swastika Society (Singapore Administration Centre), a charitable organization. As an extension of its charitable mandate and to achieve the noble objective of transforming people through education, the Society built a school on a site at Somapah Road in Changi. The over three acres piece of land was donated by the then President of the Society, Mr Quek Shin, who saw the need to provide free primary education for the poor and to aid in the promotion of education in the outlying areas. Originally known as \"Wan Tzu School\", the school was later renamed \"Red Swastika School\". The foundation stone was laid at the school opening ceremony on 13th January 1951. The school moved to the present site at Bedok North Avenue 3 in 1981 and became a Special Assistance Plan school in 1990.  The school believes in the educational philosophy espoused by Mr Tao Xingzhi, a biculturally educated scholar commonly praised as the modern Confucius. Staff and students strive to build a Xingzhi Culture of \"Doing is the beginning of knowledge. Knowledge is perfected when the deed is completed. Do, so that you can know.  After you know, do it again.  Let your deed measure up to your knowledge.\" Students work towards being grounded in the strong values of Care, Magnanimity, Respect, Honesty, Resilience, Responsibility, Helpfulness, Leadership and Teamwork, to become the exemplary Three Littles- Little Friend, Little Master and Little Teacher.",
+		"School Philosophy, Culture and Ethos": [
+			"Grown from an initial student population of 300 in the founding year in 1951, Red Swastika School has established itself as a school recognised for its holistic education and emphasis  on character development anchored on the Xingzhi culture. ",
+			"The Red Swastika School was founded by the World Red Swastika Society (Singapore Administration Centre), a charitable organization. As an extension of its charitable mandate and to achieve the noble objective of transforming people through education, the Society built a school on a site at Somapah Road in Changi. The over three acres piece of land was donated by the then President of the Society, Mr Quek Shin, who saw the need to provide free primary education for the poor and to aid in the promotion of education in the outlying areas. Originally known as \"Wan Tzu School\", the school was later renamed \"Red Swastika School\". The foundation stone was laid at the school opening ceremony on 13th January 1951. The school moved to the present site at Bedok North Avenue 3 in 1981 and became a Special Assistance Plan school in 1990.",
+			"The school believes in the educational philosophy espoused by Mr Tao Xingzhi, a biculturally educated scholar commonly praised as the modern Confucius. Staff and students strive to build a Xingzhi Culture of \"Doing is the beginning of knowledge. Knowledge is perfected when the deed is completed. Do, so that you can know.  After you know, do it again.  Let your deed measure up to your knowledge.\" Students work towards being grounded in the strong values of Care, Magnanimity, Respect, Honesty, Resilience, Responsibility, Helpfulness, Leadership and Teamwork, to become the exemplary Three Littles- Little Friend, Little Master and Little Teacher."
+		],
 		"Type of School": "Government-aided Sch / Co-ed School / Double Session",
 		"Mother Tongue": "Chinese",
 		"Affiliated Schools": "Not Applicable"
@@ -79,7 +83,7 @@
 			"Community Service & Student Leadership": "Every RSS Student A Leader",
 			"Sports & Outdoor Education": "RSS Tenpin Bowling - Excellence In Character and Sports"
 		},
-		"Special Student Development Programmes Offered": "The school-based enrichment curriculum focuses on inculcating values and equipping students with 21st century competencies which are essential for them to become independent learners, effective communicators, active citizens and reflective leaders. Some signature programmes which for students include:  The Lifelong Learning Programme Every RSS Student A Leader focuses on Community Service and Student Leadership. It is a progressive and tiered programme where the students, by class, CCA and Prefects, undergo cohort leadership training or relevant tier-specific training before applying the skills acquired through various platforms. Students have the opportunities to collaborate with partners like HDB, NEA, Moral Seniors Activity Centre and Operation Hope Foundation, to broaden their learning experiences beyond school.  Under the Special Assistance Plan programme, P1 to P6 students attend Chinese culture lessons, with different themes for each level.  For P1 'Three Littles Stories', our new students are introduced to our school's distinctive Xingzhi Culture. For P2, the focus is on 'Stories of Traditional Festivals' where students are introduced to the various traditional stories of the Dumpling Festival, Mid-Autumn Festival etc. For P3 'Stories Kingdom', students learn about various idioms and are encouraged to use them in school and at home. P4 students study the famous classic 'The Journey to the West' and P5 students learn about 'The Romance of the Three Kingdoms'. For these two levels, the classics are taught incorporating guided reading strategies. For P6, the theme is 'Life' where students learn about Tea Appreciation, Traditional Chinese Medicine and Singapore Pioneers.  The ICT programming series on Code for Fun and IDA Bus Experience as well as Project Work on Water Conservation allow students to be equipped with, and at the same time apply critical and inventive thinking, information skills and collaborative skills to problem-solve in authentic situations."
+		"Special Student Development Programmes Offered": "The school-based enrichment curriculum focuses on inculcating values and equipping students with 21st century competencies which are essential for them to become independent learners, effective communicators, active citizens and reflective leaders. Some signature programmes which for students include:"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -306,6 +310,86 @@
 						"Junior"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'D' Div"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -373,6 +457,36 @@
 					"year": "2016",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -388,6 +502,11 @@
 				},
 				{
 					"year": "2016",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "Scout",
 					"award": "Gold"
 				}

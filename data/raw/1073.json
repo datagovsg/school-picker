@@ -85,7 +85,7 @@
 			"Languages": "Nurturing Confident Communicators",
 			"Music & Performing Arts": "Expanding Borders through Music"
 		},
-		"Special Student Development Programmes Offered": "ALP: Nurture Confident Communicators LLP: Extending borders through Music  Enrichment programmes:  P1 & P2  P1 & P2 Moo-O  P2 Mathematics Stretch Programme P2 Chinese Language and Arts Programme (CLAP) P2 Speech Craft Programme   P3 & P4 P3 Moo-O P3 English and Mathematics Stretch Programme P3 Veridas - Vertical Wall Garden P3 Chinese Speech Craft Programme P4 Newsmaker P4 Mathematics Olympiad Programme P4 Code for Fun Programme P4 E2K Mathematics and Science Programme P4 Chinese Radio Broadcasting and Journalism  P4 Ceramics Programme   P5 & P6 P5 Debate Programme P5 Junior Model United Nation Programme P5 Newsmaker P5 Code for Fun Programme P5 Chinese Radio Broadcasting and Journalism  P5 Ceramics Programme  P5 & P6 Mathematics Olympiad Programme P5 & P6 E2K Science Programme"
+		"Special Student Development Programmes Offered": "ALP: Nurture Confident Communicators"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -1611,7 +1611,154 @@
 					"Girls' Brigade": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd"
+					],
+					[
+						"Gymnastics (Rhythmic)",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"1st"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div"
+					],
+					[
+						"Swimming",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Distinction",
+					"Ensemble - Strings": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girls' Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "289072"

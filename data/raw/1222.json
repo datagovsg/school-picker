@@ -19,11 +19,17 @@
 		"Principal": "MDM KOK CHOW HIONG, JACKIE",
 		"Vice Principal": [
 			"MDM TOH LENG LENG",
-			"MRS KELLY KOH E-LEN"
+			"MRS KELLY KOH E-LEN",
+			"MDM LIM TZYY SHIUAN"
 		],
+		"Vice Principal (Admin)": "MDM ONG SIEW LING",
 		"School Vision": "A healthy, confident, gracious and morally upright pupil with a passion for learning and love for Singapore.",
 		"School Mission": "To provide a safe and happy environment for our pupils to strive towards excellence.",
-		"School Philosophy, Culture and Ethos": "Gongshang Primary School is a school with a rich tradition and illustrious history. Founded in 1920, the school had its humble beginnings as a night school, known as The Chinese Industrial and Commercial Continuation School which catered to the needs of the young migrants from China, incorporating vocational training into its basic curriculum. Gongshang Primary has continued with the rich traditions of its history, emphasizing a strong Asian tradition and culture.   We believe that every child can thrive in a safe and nurturing environment to become confident, gracious and morally upright pupils who will be able to contribute to society with a sense of purpose and able to meet the challenges of the future. The broad-based and value-added curriculum emphasising on the holistic development of every child is specially tailored to ignite his or her passion and stretch the abilities and talents whilst anchored on the school's core values of Respect, Integrity, Perseverance and Thrift.   Teachers will continue to be at the forefront of pedagogical innovations, harnessing technology and working in close partnership with our key partners, the School Advisory Committee (SAC), Parent Support Group (PSG), the School Alumni as well as other parents to nurture every child to help him or her realise his or her full potential.",
+		"School Philosophy, Culture and Ethos": [
+			"Gongshang Primary School is a school with a rich tradition and illustrious history. Founded in 1920, the school had its humble beginnings as a night school, known as The Chinese Industrial and Commercial Continuation School which catered to the needs of the young migrants from China, incorporating vocational training into its basic curriculum. Gongshang Primary has continued with the rich traditions of its history, emphasizing a strong Asian tradition and culture. ",
+			"We believe that every child can thrive in a safe and nurturing environment to become confident, gracious and morally upright pupils who will be able to contribute to society with a sense of purpose and able to meet the challenges of the future. The broad-based and value-added curriculum emphasising on the holistic development of every child is specially tailored to ignite his or her passion and stretch the abilities and talents whilst anchored on the school's core values of Respect, Integrity, Perseverance and Thrift. ",
+			"Teachers will continue to be at the forefront of pedagogical innovations, harnessing technology and working in close partnership with our key partners, the School Advisory Committee (SAC), Parent Support Group (PSG), the School Alumni as well as other parents to nurture every child to help him or her realise his or her full potential."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay",
 		"Affiliated Schools": "Not Applicable"
@@ -1232,7 +1238,113 @@
 					"Scout": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Development Award": "DA (National Education)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					],
+					[
+						"Rugby",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div"
+					],
+					[
+						"Track & Field",
+						"4th",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition",
+					"Dance - Chinese": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment",
+					"Ensemble - Handbell / Handchime": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "529176"

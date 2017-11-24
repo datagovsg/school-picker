@@ -25,7 +25,15 @@
 		],
 		"Vice Principal (Admin)": "Mr Lee Han Keong",
 		"School Vision": "An institution of excellence which nurtures ethical change-makers.",
-		"School Mission": "We are committed to instilling in our students the Five Fundamental Values of:  Discernment in our choice of right from what is not, Discipline in mind, fitness and conduct,  Daring to experiment and forge breakthroughs, Determination to succeed in all that we do And Duty  To serve and better our school, community and nation.",
+		"School Mission": [
+			"We are committed to instilling in our students the Five Fundamental Values of:",
+			"Discernment in our choice of right from what is not,",
+			"Discipline in mind, fitness and conduct, ",
+			"Daring to experiment and forge breakthroughs,",
+			"Determination to succeed in all that we do",
+			"And Duty ",
+			"To serve and better our school, community and nation."
+		],
 		"School Philosophy, Culture and Ethos": "As a high-performing Autonomous School, our value proposition is Dunman Aspires, Builds and Cares.  We Aspire to be better than we ever imagined we could be. We believe in each child's different abilities and his potential to become an inquiring and independent learner who owns his learning outcomes.  We Build people as we are one community. We provide a rigorous and holistic education which nurtures students to excel in lifelong learning. We dare to be innovative and challenge our students and staff to do things differently. We place a premium on character development and positive teacher-student relationships. Together with the strong partnerships forged with parents and stakeholders, we believe that our high-care, high-expectations approach to nurturing the child will develop the necessary skills.  We Care by giving back to others, through instilling in students values and character that will essentially shape them into well-rounded and contributing members of society.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Status of School": "Autonomous",
@@ -131,6 +139,10 @@
 				"Outstanding Development Award": "ODA (Character Development)"
 			},
 			"2016": {
+				"School Distinction Awards": "SDA",
+				"Special Awards": "LHL Award for Innovation in the Normal Course"
+			},
+			"2017": {
 				"School Distinction Awards": "SDA",
 				"Special Awards": "LHL Award for Innovation in the Normal Course"
 			},
@@ -544,6 +556,146 @@
 						"'C' Div"
 					],
 					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -641,6 +793,36 @@
 					"year": "2016",
 					"category": "Ensemble - Strings",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -711,6 +893,26 @@
 				},
 				{
 					"year": "2016",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Air Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Land Boys)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
 					"category": "Scout (Unit 1)",
 					"award": "Gold"
 				}

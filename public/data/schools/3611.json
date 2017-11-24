@@ -97,7 +97,7 @@
 			"STEM": "Inspire through Scientific Innovation and Enterprise",
 			"Sports & Outdoor Education": "Lead through Outdoor and Sporting Adventures"
 		},
-		"Special Student Development Programmes Offered": "Our school is committed to nurturing Unitians to become lifelong learners and inspiring leaders. Key programmes such as the Young Gifted Scientists Programme, Advanced Mathematics Programme, Leaders of English Programme and Social Scientists and Entrepreneurship Programme integrate learning and stretch the potential of our students in their academic learning.  The school conducts an Applied Learning Programme (ALP) for all its students to develop in them a scientific mindset of innovation and enterprise. The Programme focuses on real-world problem-solving through the application of science and problem-solving processes such as design thinking, scientific methods and research skills. The ALP is conducted in collaboration with tertiary institutions and research agencies. Through the school's Character and Leadership Development curriculum, all students are provided with a variety of platforms and opportunities to hone their character and leadership skills.  In addition, the school conducts a Learning for Life Programme (LLP) to provide opportunities for all students to develop their leadership potential progressively at each level through outdoor and sporting adventure activities.  These include 1 Star Kayaking Certification, Adventure Camps, Camp-craft skills challenges, sports and games modules, recreational sports competition delivered through PE lessons and CCAs. The school administers the DSA-Sec Scheme which admits students competent in Basketball into Secondary 1. Through the scheme, we aim to develop and maximise the potential and talent of our students based on the principles of good sportsmanship and anchored on our school values."
+		"Special Student Development Programmes Offered": "Our school is committed to nurturing Unitians to become lifelong learners and inspiring leaders. Key programmes such as the Young Gifted Scientists Programme, Advanced Mathematics Programme, Leaders of English Programme and Social Scientists and Entrepreneurship Programme integrate learning and stretch the potential of our students in their academic learning.  The school conducts an Applied Learning Programme (ALP) for all its students to develop in them a scientific mindset of innovation and enterprise. The Programme focuses on real-world problem-solving through the application of science and problem-solving processes such as design thinking, scientific methods and research skills. The ALP is conducted in collaboration with tertiary institutions and research agencies."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -251,6 +251,76 @@
 						"'C' Div"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -328,6 +398,31 @@
 					"year": "2016",
 					"category": "Ensemble - Indian",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Indian",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -400,6 +495,31 @@
 					"year": "2016",
 					"category": "NPCC (Land)",
 					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Air)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
 				}
 			]
 		}

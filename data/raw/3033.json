@@ -21,7 +21,11 @@
 			"MDM AINI BINTI MOHD SHARIFF",
 			"MRS OH WEE MING"
 		],
-		"School Vision": "Leaders for the Future; Creative Lifelong Learners, Morally Upright, Caring and Loyal",
+		"School Vision": [
+			"Leaders for the Future;",
+			"Creative Lifelong Learners,",
+			"Morally Upright, Caring and Loyal"
+		],
 		"School Mission": "To develop our students holistically through quality programmes within a nurturing environment.",
 		"School Philosophy, Culture and Ethos": "Our School Philosophy is 'All can Learn, All can Achieve, All can Serve' which describes our belief for life-long learning and learning for life; our attitude to strive for excellence in whatever we do as well as our caring heart and responsibility to give back to the society. We seek to inculcate in our students the six school values: Resilience, Respect, Responsibility, Integrity, Care and Harmony to achieve the five BNSS desired outcomes of 'Strive for Excellence; Encourage Experimentation; Rejoice in Doing Good; Value Diversity; Embrace Lifelong Learning' (SERVE) in our students. Over the years, our students have achieved value-added outcomes in both academic and non-academic domains. All these are attributed to a team of dedicated teachers, committed non-teaching staff as well as our supportive parents.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
@@ -795,7 +799,20 @@
 					"Npcc (Land)": "Bronze"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Ncc (Land)": "Silver"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

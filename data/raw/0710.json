@@ -23,7 +23,10 @@
 		],
 		"Vice Principal (Admin)": "MDM SHIRLEY YONG WAI YEE",
 		"School Vision": "Leaders and Learners driven by Values and Imagination",
-		"School Mission": "Inspiring all students to have the passion to learn, the heart to serve and the courage to lead",
+		"School Mission": [
+			"Inspiring all students to have",
+			"the passion to learn, the heart to serve and the courage to lead"
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / FULL DAY",
 		"Mother Tongue": "Not Available",
 		"Affiliated Schools": "Not Applicable"
@@ -83,14 +86,12 @@
 		"Clubs & Societies": [
 			"Ava Club",
 			"Community Champions Council",
-			"Health & Fitness",
-			"Library Council",
+			"Icraft Club",
 			"Odac",
 			"Pilates",
 			"S*Star",
 			"Srjc Debates",
-			"Student Council",
-			"Yoga"
+			"Student Council"
 		]
 	},
 	"SpecialProgrammes": {
@@ -430,7 +431,47 @@
 					"Ensemble - Guzheng": "Distinction"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Development Award": "DA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Taekwondo (Poomsae)",
+						"3rd",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Ensemble - Guitar": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				}
+			}
 		}
 	},
 	"L1R5History": {

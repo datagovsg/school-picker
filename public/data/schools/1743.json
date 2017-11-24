@@ -70,7 +70,7 @@
 			"Sports & Outdoor Education": "Park View Sports Experiential Programme",
 			"Community Service & Student Leadership": "Leader in Me"
 		},
-		"Special Student Development Programmes Offered": "We are the Centre of Excellence (COE) East Zone for Sports (Primary). To complement this commitment to the promotion of sports, our first LLP is in Sports Experiential Education. Under this LLP which adopts the Expose-Experience-Excel approach, elements of sports education, including the teaching of sports values and emphasis on taking responsibility for one's own health and well-being, plays out strongly in the curriculum.   We also have a second LLP, Leader in Me, which aims to nurture students with sound character and with a sense of responsibility. Under Leader in Me which adopts the ASK approach, the main focus at the first rung of leadership is to give leadership exposure to All students by providing leadership platforms and structured leadership training through school wide opportunities such as class committee leaders. Students demonstrating capacity to take on higher leadership roles are appointed into the Service Learning Councils (SLCs) while highest-performing leaders form the Key Leaders, the peak of student leadership in the school."
+		"Special Student Development Programmes Offered": "We are the Centre of Excellence (COE) East Zone for Sports (Primary). To complement this commitment to the promotion of sports, our first LLP is in Sports Experiential Education. Under this LLP which adopts the Expose-Experience-Excel approach, elements of sports education, including the teaching of sports values and emphasis on taking responsibility for one's own health and well-being, plays out strongly in the curriculum. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -263,6 +263,46 @@
 						"Senior"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -325,6 +365,26 @@
 					"year": "2016",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -340,6 +400,11 @@
 				},
 				{
 					"year": "2016",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
 					"category": "Scout",
 					"award": "Silver"
 				}

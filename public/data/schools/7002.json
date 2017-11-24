@@ -111,6 +111,12 @@
 					"DA (National Education)"
 				]
 			},
+			"2017": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
 			"Sports & Games Competition": [
 				{
 					"year": "2015",
@@ -223,6 +229,21 @@
 					"year": "2016",
 					"category": "Ensemble - Guitar",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Commendation"
 				}
 			],
 			"Best Unit Award": [
@@ -263,6 +284,26 @@
 				},
 				{
 					"year": "2016",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Sea)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
 					"category": "Red Cross",
 					"award": "Gold"
 				}

@@ -105,7 +105,7 @@
 			"Gifted Education Programme",
 			"MUSIC ELECTIVE PROGRAMME"
 		],
-		"Special Student Development Programmes Offered": "Providing a holistic education, our 6-year Raffles Programme (Y1-4 in RGS and Y5-6 in RI) bypasses the GCE O Level Examinations, featuring an enriched and accelerated curriculum that nurtures high-ability learners. At the end of Y6, RGS girls graduate not only with the GCE A Level Examination certificate, but also with the Raffles Diploma - designed to recognise the peaks of excellence in five domains: Cognitive, Character & Leadership, Community & Citizenship, Sports & Health, and Arts & Aesthetics.   Student Development develops the personal capacity of RGS girls and nurtures them to be individuals who are conscious of their responsibility to family, community and nation. Their disposition is developed through the inculcation of knowledge, competencies and values through the Character and Leadership Education (CLE) programme. The CLE Programme empowers our girls to be: good stewards of their lives by heightening their self-awareness through reflection and equipping them with self-management and interpersonal skills; active and socially responsible citizens by promoting school and community involvement; reflective and visionary leaders by equipping them with a habit for introspection, decision-making with foresight and a spirit of teamwork.   Special programmes offered include: Third Languages (Arabic, French, German, Japanese, Spanish, Chinese/Malay Special Programmes); Music Elective Programme; Special Art Programme; Regional Studies Programme; Research Studies Programme (featuring Odyssey of the Mind and Future Problem Solving Programme); Raffles Academy - Course Work and Research Modules - that nurtures girls with special talents and interests; Mentorship Programmes in Science, Mathematics, Humanities and Creative Writing; Language Immersion, Values-in-Action, Student Leadership Development, Work Experience, and Education & Career Guidance Programmes."
+		"Special Student Development Programmes Offered": "Providing a holistic education, our 6-year Raffles Programme (Y1-4 in RGS and Y5-6 in RI) bypasses the GCE O Level Examinations, featuring an enriched and accelerated curriculum that nurtures high-ability learners. At the end of Y6, RGS girls graduate not only with the GCE A Level Examination certificate, but also with the Raffles Diploma - designed to recognise the peaks of excellence in five domains: Cognitive, Character & Leadership, Community & Citizenship, Sports & Health, and Arts & Aesthetics. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -3260,7 +3260,299 @@
 					"Red Cross": "Silver"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Special Awards": "LKY (NE) Award",
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"1st"
+					],
+					[
+						"Cross Country",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Fencing",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Rhythmic)",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"3rd"
+					],
+					[
+						"Sailing",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"-",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"-",
+						"-",
+						"4th",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"-",
+						"-",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing (Byte)",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					],
+					[
+						"Tennis",
+						"-",
+						"-",
+						"1st",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition(Sm)",
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Drama - Chinese": "Commendation",
+					"Drama - English": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Distinction",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Handbell / Handchime": "Distinction",
+					"Ensemble - Indian": "Distinction",
+					"Ensemble - Strings": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 2)": "Gold",
+					"Girl Guides (Coy 3)": "Silver",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Girls)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Npcc (Sea)": "Gold",
+					"Red Cross": "Silver",
+					"Girl Guides (Coy 1)": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

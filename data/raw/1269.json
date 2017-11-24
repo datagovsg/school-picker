@@ -19,7 +19,23 @@
 		"Vice Principal": "MISS THIA HWEI LING SHARON",
 		"School Vision": "Every student an educated child and contributing citizen, ready to serve and lead.",
 		"School Mission": "Nurturing the Whole Child, Growing Future Leaders",
-		"School Philosophy, Culture and Ethos": "Value: Empathy   Characteristics and Practices of Empathy: 1) Appreciates the perspective of others, always see where others are coming from and seek consensus. Do not reject a person based on differences or biasness.  2) Listens and seeks to understand, practise listening to understand others. Seek to understand before seeking to be understood.  Value: Mindfulness  Characteristics and Practices of Mindfulness: 1) Having self and social awareness. Understand who we are and our impact on others. Understand what we are good at and how we can make use of it to serve others.  2) Has the ability to appreciate beauty in the aesthetics and the environment. Knowing how to appreciate music, art and the environment. Knowing how to take care of the physical environment.  3) Is able to organise thoughts and information meaningfully before acting. Putting thoughts and information together coherently and meaningfully to derive knowledge and wisdom for action before acting. Stop. Think. Do.  4) Able to anticipate. Seeing what is happening around us and remembering events of the past to anticipate future opportunities and threats.  Value: Care  Characteristics and Practices of Care: 1) Has the ability to take care of self and others. Knowing how to take care of one's health and physical development. Being conscious in caring for others. Knowing how to be safe.  2) Believes in contributing to, caring for and serving the family and community. Identify and attend to each other's needs at home, in school and the community. Building a school community that serves with care.  3) Able to convince and win others over. Using sound reasons to convince others of our proposition. An approach that does not run-down others. Helping others to see the larger good and meeting the needs of and caring for the larger community.",
+		"School Philosophy, Culture and Ethos": [
+			"Value: Empathy ",
+			"Characteristics and Practices of Empathy:",
+			"1) Appreciates the perspective of others, always see where others are coming from and seek consensus. Do not reject a person based on differences or biasness.",
+			"2) Listens and seeks to understand, practise listening to understand others. Seek to understand before seeking to be understood.",
+			"Value: Mindfulness",
+			"Characteristics and Practices of Mindfulness:",
+			"1) Having self and social awareness. Understand who we are and our impact on others. Understand what we are good at and how we can make use of it to serve others.",
+			"2) Has the ability to appreciate beauty in the aesthetics and the environment. Knowing how to appreciate music, art and the environment. Knowing how to take care of the physical environment.",
+			"3) Is able to organise thoughts and information meaningfully before acting. Putting thoughts and information together coherently and meaningfully to derive knowledge and wisdom for action before acting. Stop. Think. Do.",
+			"4) Able to anticipate. Seeing what is happening around us and remembering events of the past to anticipate future opportunities and threats.",
+			"Value: Care",
+			"Characteristics and Practices of Care:",
+			"1) Has the ability to take care of self and others. Knowing how to take care of one's health and physical development. Being conscious in caring for others. Knowing how to be safe.",
+			"2) Believes in contributing to, caring for and serving the family and community. Identify and attend to each other's needs at home, in school and the community. Building a school community that serves with care.",
+			"3) Able to convince and win others over. Using sound reasons to convince others of our proposition. An approach that does not run-down others. Helping others to see the larger good and meeting the needs of and caring for the larger community."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -30,7 +46,7 @@
 		"MOE Programmes": [
 			"Not Available"
 		],
-		"Special Student Development Programmes Offered": "Holistic English Literacy Program (HELP)  We envision every student to be an educated child and a contributing citizen, ready to serve and lead. In line with this vision, the English department has anchored a distinctive program, Holistic English Literacy Program (HELP) with the intent of imparting language skills to our students so that they feel empowered to use these skills in their community service learning projects.   To enable learners to emerge as effective leaders in their own right, we strive on fostering a learning environment that extends far beyond the classroom walls. This \"service learning\" acts as a catalyst in enhancing both, student growth and the common good. Most importantly, it recognises the need to engage pupils in a natural learning process that is real and purpose driven. The underpinning belief in the development of this program is that children will be motivated to learn if they are presented with a strong purpose to do so.  Purposefully crafted activities intend to help young people acquire the skills, attitudes, and beliefs that fully engage them in community life and help them move from the periphery of their community to its center.  We believe that an emphasis on the public good challenges young minds to identify needs and strengths,  both in themselves and their community and to find creative ways for improving community conditions. HELP serves as an avenue to fulfil our school's vision of being a place where all students engage in learning, achieve to the best of their ability, and become productive citizens and participants of the community."
+		"Special Student Development Programmes Offered": "Holistic English Literacy Program (HELP)"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -46,7 +62,11 @@
 			"2014": {},
 			"2015": {},
 			"2016": {},
-			"2017": {}
+			"2017": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition"
+				}
+			}
 		}
 	},
 	"postalCode": "828674"

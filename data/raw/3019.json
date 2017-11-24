@@ -837,7 +837,21 @@
 					"Npcc (Land)": "Bronze"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Development Award": "DA (Character Development)",
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Drama - Multi-Lingual": "Commendation",
+					"Ensemble - Harmonica": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Bronze"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

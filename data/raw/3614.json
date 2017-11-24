@@ -19,7 +19,8 @@
 		"Principal": "MISS FOONG LAI LEONG",
 		"Vice Principal": [
 			"MR QUAH SIEW KIN",
-			"MDM YIP SUN YEE"
+			"MDM YIP SUN YEE",
+			"MR SIM HOW CHONG"
 		],
 		"School Vision": "Premier School, Serving Community",
 		"School Mission": "Nurturing The Whole Fuhuanite",
@@ -92,7 +93,7 @@
 			"STEM": "Forensic Science@Fuhua",
 			"Community & Youth Leadership": "Values in Action, Leadership through Service"
 		},
-		"Special Student Development Programmes Offered": "To cultivate confident and self-directed learners with 21st Century Competencies, the school offers a rigorous and enriched academic curriculum. Special programmes include IGNIS (EL Talent Development Programme), Financial Literacy in Mathematics and Olympiad training in Mathematics and the Sciences, learning journeys and field trips (Humanities), Mother Tongue Fortnight and ICT Skills Modules, among others. The school has also established an Applied Learning Programme (ALP) in Forensic Science which offers experiential learning to help students develop an investigative mindset, a curious outlook and critical thinking skills. Fuhua Robotics Club offers another platform to promote these skills through self-directed problem-based learning. Through research and experiments, the club helps students to learn about robotic engineering and applications. To develop concerned citizens and active contributors, we deliver a robust Character and Citizenship Education (CCE) through our CCAs and formal CCE curriculum. These are integrated with a suite of programmes including leadership development, national education and Values In Action programmes. The school's Learning for Life Programme, \"Leadership Through Service\", provides opportunities to develop our Fuhuanites' leadership potential through service so as to enable them to contribute to the betterment of society as socially responsible citizens. Our Uniformed Groups also serve as a premier vehicle to drive leadership and character development. UG cadets are given opportunities to lead and excel through service and community engagement, locally and overseas."
+		"Special Student Development Programmes Offered": "To cultivate confident and self-directed learners with 21st Century Competencies, the school offers a rigorous and enriched academic curriculum. Special programmes include IGNIS (EL Talent Development Programme), Financial Literacy in Mathematics and Olympiad training in Mathematics and the Sciences, learning journeys and field trips (Humanities), Mother Tongue Fortnight and ICT Skills Modules, among others. The school has also established an Applied Learning Programme (ALP) in Forensic Science which offers experiential learning to help students develop an investigative mindset, a curious outlook and critical thinking skills. Fuhua Robotics Club offers another platform to promote these skills through self-directed problem-based learning. Through research and experiments, the club helps students to learn about robotic engineering and applications."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1074,7 +1075,92 @@
 					"Scout (Unit 1)": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"4th",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"3rd",
+						"3rd",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition(Sm)",
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Gold",
+					"Scout (Unit 1)": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

@@ -24,7 +24,16 @@
 		"Vice Principal (Admin)": "MDM LEE HIANG KOON WENDY",
 		"School Vision": "Caring heArts, cReativE minds",
 		"School Mission": "We are committed to nurture the potential in each child to the fullest and develop his character in a God-centred environment so as to prepare him for the challenges of the future and to serve the nation.",
-		"School Philosophy, Culture and Ethos": "Core Values: Sincerity, Charity, Graciousness, Integrity, Self-Discipline, Resilience  Our Belief: We believe in every child's innate ability to achieve personal excellence, grounded on sound values.   Culture: Care and Excellence  School Strategic Thrusts:    (1) Quality Teaching & Learning (2) Quality Character & Citizenship Education (3) Committed & Competent Staff (4) Rich Chinese Culture",
+		"School Philosophy, Culture and Ethos": [
+			"Core Values: Sincerity, Charity, Graciousness, Integrity, Self-Discipline, Resilience",
+			"Our Belief: We believe in every child's innate ability to achieve personal excellence, grounded on sound values. ",
+			"Culture: Care and Excellence",
+			"School Strategic Thrusts:   ",
+			"(1) Quality Teaching & Learning",
+			"(2) Quality Character & Citizenship Education",
+			"(3) Committed & Competent Staff",
+			"(4) Rich Chinese Culture"
+		],
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / DOUBLE SESSION",
 		"Mother Tongue": "Chinese",
 		"Affiliated Schools": "HOLY INNOCENTS' HIGH SCHOOL"
@@ -82,7 +91,7 @@
 			"Coding": "Digiminds@HIPS",
 			"Music & Performing Arts": "ARTistry@HIPS"
 		},
-		"Special Student Development Programmes Offered": "a)The Total Curriculum Framework This framework maps out a curriculum which encompasses the 3 aspects of a child's education: Character, Culture and Curriculum, and focuses on quality teaching and character development. Guiding the delivery of key programmes is the 3E (Experience, Enrich, Excel) Approach which caters to all pupils at the \"Experience\" level, targeted pupils at the \"Enrich\" level, and providing the identified talent pool opportunities to Excel.  b) Flagship Programmes in Performing and Cultural Arts  As a SAP school, Holy Innocents' Primary is committed to nurture bilingual and bi-cultural pupils with a deeper understanding of the Chinese Language and a passion for Chinese culture. The learning of the Chinese Language is enriched through the structured Flagship Performing Arts Programme which includes Kuaibanshu, Puppetry, Chinese Opera and Speech and Drama. The programme seeks to develop in pupils confidence in language expression. The outward expression of their language ability is supported by the appreciation of Chinese culture through the Cultural Arts Programme modules of Wushu, Weiqi, Tea Art, Chinese Calligraphy and playing the Erhu.   c)  Learning for Life Programme (LLP) The Learning for Life Programme (LLP), Artistry@HIPS is a 6-year Aesthetics programme that encompasses Embracing Culture, Enriching Diversity and Experiencing the World. Working in tandem with the SAP Flagship Performing Arts and the Chinese Cultural Arts Programmes, it strives to nurture every pupil to be a confident individual of sound character through experiential learning of the arts.   d) Applied Learning Programme (ALP) The school has also put in place a school-wide approach of Applied Learning Programme in Digiminds@HIPS which focuses on the development of critical thinking skills and collaborative learning in pupils through the implementation of HIPS Design Thinking Project and HIPS Robotics Learning."
+		"Special Student Development Programmes Offered": "a)The Total Curriculum Framework"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -696,7 +705,23 @@
 					"Red Cross": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Gold",
+					"Red Cross": "Gold",
+					"Brownies (Pack 2)": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "569869"

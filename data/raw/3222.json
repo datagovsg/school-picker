@@ -93,7 +93,7 @@
 		"Clubs & Societies": [
 			"Aeronautical Club",
 			"Infocomm Club",
-			"Mechatronics & Robotics Club",
+			"Mechantronics & Robotics Club",
 			"Media Club"
 		]
 	},
@@ -411,7 +411,23 @@
 					"Red Cross": "Silver"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Distinction"
+				},
+				"Best Unit Award": {
+					"Ncdcc": "Bronze",
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

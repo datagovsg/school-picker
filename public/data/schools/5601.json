@@ -26,7 +26,10 @@
 		"Vice Principal (Admin)": "Mdm Leng Bing Ling (Liang Bingling)",
 		"School Vision": "Inspired learners of exemplary character",
 		"School Mission": "To develop the potential of every child to the fullest and nurture them to be concerned citizens, morally upright and rooted in Chinese Culture",
-		"School Philosophy, Culture and Ethos": "Our motto \"Steadfast in character. Thirst for knowledge\" reiterates the importance of excellence in character as the basis of all our actions. It reflects the ethos of our school and emphasises on the culture of excellence in character.  Our school community strongly believes in our core values of Respect, Resilience, Integrity, Compassion and Excellence in leading the school towards achieving our vision.",
+		"School Philosophy, Culture and Ethos": [
+			"Our motto \"Steadfast in character. Thirst for knowledge\" reiterates the importance of excellence in character as the basis of all our actions. It reflects the ethos of our school and emphasises on the culture of excellence in character.",
+			"Our school community strongly believes in our core values of Respect, Resilience, Integrity, Compassion and Excellence in leading the school towards achieving our vision."
+		],
 		"Type of School": "Government-aided Sch / Co-ed School / Double Session",
 		"Mother Tongue": "Chinese",
 		"Affiliated Schools": "Manjusri Secondary School"
@@ -82,7 +85,7 @@
 		"School Distinctive Programmes": {
 			"Music & Performing Arts": "Learning through an Ethnic Arts Programme (LEAP)"
 		},
-		"Special Student Development Programmes Offered": "Our Student-centric, Values-driven education endeavour introduces various engaging programmes and initiatives to equip the students with the necessary 21st century skills to thrive in the future.  Jue Zhan Guang Ming Ding, a collaboration between the ICT and CL departments, aims to promote self-directed learning in Chinese Language among P5 students. Our teachers develop various digital resources, age-appropriate assignments and activities to infuse higher-order thinking, captivate and sustain students' interest throughout the learning process.   Soil-less Growth aims to expose our P4 students to an alternative method of growing plants without soil. Students observe the growth and development of the plants in the hydroponics system and also note the effects of different amounts of nutrients on the plants.   The iPaCC (Igniting Passion for Chinese Culture), a school-based flagship programme that provides enriched experiences in the learning of Chinese culture and heritage. Over a span of six years, students go through seven cultural modules to deepen and broaden their learning.    GLOCAL, our internationalization programme, aims to give our students a headstart in broadening their worldview and instilling in them a sense of commitment and rootedness to Singapore. Students have opportunities to participate in local and overseas immersion.   The LEAP (Learning through an Ethnic Aesthetics Programme) is a structured Aesthetics curriculum that emphasizes the use of non-traditional approaches to enliven the learning process. Students' curiosity is aroused and learning enhanced through exposure to the five aspects of art forms, namely: music, dance, drama, 2-D and 3-D art associated with the major ethnic groups.   Through educating students on HOM (Habits of Mind), we hope to see them draw upon the habits of mind to help them handle daily challenges, enhance relationships with people and develop skills for socially responsible participation."
+		"Special Student Development Programmes Offered": "Our Student-centric, Values-driven education endeavour introduces various engaging programmes and initiatives to equip the students with the necessary 21st century skills to thrive in the future."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -129,6 +132,36 @@
 						"Junior"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -241,6 +274,46 @@
 					"year": "2016",
 					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -258,6 +331,11 @@
 					"year": "2016",
 					"category": "Scout",
 					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Scout",
+					"award": "Silver"
 				}
 			]
 		}

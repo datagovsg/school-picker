@@ -77,7 +77,7 @@
 			"Coding": "RoboALERT (Applicative Learning Experience through Robotics at Temasek)",
 			"Sports & Outdoor Education": "SOAR – Sports Opportunities for Active lifestyle and physical Resilience and Sporting Excellence"
 		},
-		"Special Student Development Programmes Offered": "Our Learning Tapestry is a key programme in our curriculum where a problem-based learning approach is taken to foster pupils' critical and creative thinking as they learn various subjects together in current and authentic settings.  The school adopts Stephen Covey's 7 Habits as the foundation and core language for character development. The 7 Habits are universal principles for personal and interpersonal effectiveness and are integrated across all key learning programmes in the school.  Robotics is the school's Applied Learning Programme and opportunities are provided for pupils across all levels to use robotics as a fun and engaging way to solve problems, think creatively and work together in teams to overcome challenges.  SOAR (Sports Opportunities for Active lifestyle and physical Resilience) is the school's Learning for Life Programme. It provides a platform for all pupils to apply the fundamental movement and skills they have learnt in Physical Education during sport events such as Sports Fiesta, Track and Field Carnival and Character through Play. All pupils, regardless of their abilities, are encouraged to enjoy and experience success in sports.  The school has a vibrant Life Science Programme that includes Orchid Hybridization, Aeroponics and gardens that invite pupils to discover and learn science in authentic contexts, such as a butterfly enclosure, edibles garden, garden of character, eco-garden and corridor gardens. We have also collaborated with Science Centre to produce various science learning kits that encourage pupils to adopt an active inquiry approach in investigating scientific concepts."
+		"Special Student Development Programmes Offered": "Our Learning Tapestry is a key programme in our curriculum where a problem-based learning approach is taken to foster pupils' critical and creative thinking as they learn various subjects together in current and authentic settings."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -100,6 +100,15 @@
 				"Outstanding Development Award": "Outstanding PARTNERS"
 			},
 			"2016": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "Outstanding PARTNERS"
+			},
+			"2017": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": [
 					"BPA (Staff Well-Being)",
@@ -338,6 +347,76 @@
 						"'B' Div"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Taekwondo (Kyorugi)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Taekwondo (Kyorugi)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -415,6 +494,41 @@
 					"year": "2016",
 					"category": "Ensemble - Guitar",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -430,6 +544,11 @@
 				},
 				{
 					"year": "2016",
+					"category": "Scout",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
 					"category": "Scout",
 					"award": "Bronze"
 				}

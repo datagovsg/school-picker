@@ -21,7 +21,16 @@
 		"Principal": "Mdm Sharon Yeo Eu-Lin",
 		"Vice Principal": "Mr Ow Weng Keong",
 		"Vice Principal (Admin)": "Mr Chew Chee Yong",
-		"School Vision": "A School of Distinction. A Community of Leaders.  School motto : We Will Excel.   School Values : Integrity we uphold Respect we show Gratitude we express   Resilience we develop",
+		"School Vision": [
+			"A School of Distinction.",
+			"A Community of Leaders.",
+			"School motto : We Will Excel. ",
+			"School Values :",
+			"Integrity we uphold",
+			"Respect we show",
+			"Gratitude we express  ",
+			"Resilience we develop"
+		],
 		"School Mission": "Nurturing Confident Leaders, Active Citizens and Global Thinkers - YTzens for the Future",
 		"School Philosophy, Culture and Ethos": "YTSS is guided by its vision, 'A School of Distinction, A Community of Leaders', and is committed to developing every YTzen to be a Confident Leader, Active Citizen and a Global Thinker. It holds firmly to the belief that every student can and wants to learn, and this translates into a commitment to unlock the potential of every child. The school also places a strong emphasis on cultivating self-discipline and imbuing the core values of Integrity, Respect, Resilience and Gratitude in our students. This student-centric approach in educating our students can also be seen in our curriculum. It is designed and implemented by our caring and professional team of teachers who embrace the core belief of 'leave no child behind'. The curriculum is crafted with the learners in mind and seeks to deepen our students' understanding of the various disciplines, making learning engaging and meaningful for them. Working closely with supportive parents and alumni, as well as the community and other partners in education, there is a strong community of support in YTSS to create a nurturing environment and provide the best learning experience for all YTzens. The school motto, 'We will Excel' is the guiding beacon for all YTzens and it permeates the school culture. The various awards and accolades the school is accorded and has achieved are testimonies of our steadfast commitment to excellence.",
 		"Type of School": "Government School / Co-ed School / Single Session",
@@ -78,7 +87,7 @@
 		"Clubs & Societies": [
 			"Chess Club",
 			"Green Club",
-			"Infocomm Club"
+			"Infocom Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -113,6 +122,10 @@
 			"2016": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": "BPA (Staff Well-Being)"
+			},
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Special Awards": "LHL Award for Innovation in the Normal Course"
 			},
 			"Sports & Games Competition": [
 				{
@@ -364,6 +377,66 @@
 						"'C' Div"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -426,6 +499,26 @@
 					"year": "2016",
 					"category": "Drama - English",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -501,6 +594,31 @@
 				},
 				{
 					"year": "2016",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "St John Ambulance Brigade",
 					"award": "Gold"
 				}

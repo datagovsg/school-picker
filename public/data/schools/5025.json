@@ -25,7 +25,11 @@
 		],
 		"Vice Principal (Admin)": "Miss Penny Ng Lee Yong",
 		"School Vision": "A Dynamic Learning Community that nurtures loyal citizens with global outlook and Godly character.",
-		"School Mission": "As an Anglican school, we are committed to providing a balanced development of body, mind and spirit for our students and nurturing God-fearing citizens for our nation.  Our school values are:  Serve Humbly, Love Sincerely, Learn Continuously, Lead Wisely, Live Responsibly  Our School motto:  Go Forward",
+		"School Mission": [
+			"As an Anglican school, we are committed to providing a balanced development of body, mind and spirit for our students and nurturing God-fearing citizens for our nation.",
+			"Our school values are:  Serve Humbly, Love Sincerely, Learn Continuously, Lead Wisely, Live Responsibly",
+			"Our School motto:  Go Forward"
+		],
 		"School Philosophy, Culture and Ethos": "St Hilda's Primary School established in 1934 is an Anglican Christian school with boys and girls from multi-ethnic backgrounds   Through generations of committed school leaders, staff, church workers and parents, the school has developed a culture of excellence and care.  One of the key school strengths is the emphasis on moral values and character development.  We have daily devotions and a strong Character and Leadership Development programme.  The school challenges our students to do well not only academically but also in their co-curricular activities.  Every Hildan through his or her six years of education will grow to be an Articulate, Confident, Innovative and Caring Ambassador.",
 		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -95,7 +99,7 @@
 			"Languages": "Developing confident communicators through an enriched global education -- The Hildan Ambassador’s Education",
 			"Visual Arts & Design": "Nurturing Creativity and Culture through Performing Arts, Visual Arts, Leadership"
 		},
-		"Special Student Development Programmes Offered": "School Distinctive Programme (SDP) The main aim of our SDP is to develop each Hildan holistically, nurturing them to be confident and life-long learners.  The SDP comprises of 4 main components namely Applied Learning Programmes (ALP), Learning for Life Programmes (LLP), Life skills (Leadership, ICT, Cyber wellness programmes) and Values In Action (VIA).   Applied Learning Programme (ALP) Through our Hildan Ambassador's Education, the school is committed in nurturing our Hildans to be effective and confident communicators through a distinct enriched global education.  Our focus for ALP is integrated in English and Mother Tongue languages as well as Social Studies to better equip students with communication, presentation and problem solving skills. The school has established strategic overseas partners to create the learning opportunities for students to acquire a global perspective   Learning For Life Programme (LLP) Through our Imprints Alive LLP programme, students are introduced to a variety of art forms appropriate to their age and level to enable our students to become critical thinkers, confident in expressing themselves creatively and also develop aptitudes in appreciating the various music and art forms."
+		"Special Student Development Programmes Offered": "School Distinctive Programme (SDP)"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -122,6 +126,10 @@
 				"School Distinction Awards": "SDA",
 				"Special Awards": "LKY (NE) Award",
 				"Development Award": "DA (Character Development)"
+			},
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Special Awards": "LKY (NE) Award"
 			},
 			"Sports & Games Competition": [
 				{
@@ -413,6 +421,106 @@
 						"Senior"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -515,6 +623,41 @@
 					"year": "2016",
 					"category": "Ensemble - Strings",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -545,6 +688,16 @@
 				},
 				{
 					"year": "2016",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "Girls' Brigade",
 					"award": "Gold"
 				}

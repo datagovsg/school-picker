@@ -83,7 +83,7 @@
 			"Coding": "Creative Problem Solving through Robotics",
 			"Community Service & Student Leadership": "A Confident & Caring Leader - Leading Through C.A.R.E"
 		},
-		"Special Student Development Programmes Offered": "In engaging the learners, we focus on quality learning experiences and outcomes. This is done through curriculum innovations, leveraging on technology, inculcation of thinking skills and the inclusion of differentiated programmes to cater to student needs. Examples of curriculum innovations include Drama Programme, Talent Development Programme (TDP), Problem-Based Learning (PBL) programme and our Applied Learning Programme: 'Creative Problem Solving through Robotics'. These programmes aim to engender self-directed and collaborative learning and nurture critical and creative problem solving skills.   Besides the academic domain, the school focuses on Character and Citizenship Education (CCE) as well as aesthetics appreciation and physical education to develop our students holistically. This emphasis has played an important role in developing our students to become responsible and caring citizens. The school leverages VIA programmes to enhance the learning of school values and also develop in students a stronger sense of rootedness to Singapore. With the School's Lifelong Learning Programme - A Confident & Caring Leader - Leading Through C.A.R.E, we seize the opportunities to develop our students to be leaders for tomorrow."
+		"Special Student Development Programmes Offered": "In engaging the learners, we focus on quality learning experiences and outcomes. This is done through curriculum innovations, leveraging on technology, inculcation of thinking skills and the inclusion of differentiated programmes to cater to student needs. Examples of curriculum innovations include Drama Programme, Talent Development Programme (TDP), Problem-Based Learning (PBL) programme and our Applied Learning Programme: 'Creative Problem Solving through Robotics'. These programmes aim to engender self-directed and collaborative learning and nurture critical and creative problem solving skills. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -319,6 +319,66 @@
 						"Junior"
 					],
 					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -411,6 +471,36 @@
 					"year": "2016",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -437,6 +527,11 @@
 				{
 					"year": "2016",
 					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Red Cross",
 					"award": "Silver"
 				}
 			]

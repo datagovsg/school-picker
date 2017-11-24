@@ -22,9 +22,26 @@
 			"MDM NG LI YI"
 		],
 		"Vice Principal (Admin)": "MISS CHUA CHEW HIANG",
-		"School Vision": "A Montfortian, A Man for Others. Every Montfortian a Scholar, Sportsman, gentleman and a leader  Guided by our  School Values* of: Compassion Humility Respect Integrity Service Team spirit Excellence (CHRISTE)",
+		"School Vision": [
+			"A Montfortian, A Man for Others. Every Montfortian a Scholar, Sportsman, gentleman and a leader",
+			"Guided by our  School Values* of:",
+			"Compassion",
+			"Humility",
+			"Respect",
+			"Integrity",
+			"Service",
+			"Team spirit",
+			"Excellence",
+			"(CHRISTE)"
+		],
 		"School Mission": "Montfort is a Catholic School.  Guided by our Montfortian values and spirituality, we nurture each individual to realise his potential and inspire him to be a Man for Others.",
-		"School Philosophy, Culture and Ethos": "Montfort Junior School is a member of the Montfort Brothers of St. Gabriel's and we have brother institutions in all parts of the world. The school is guided by the goals and purpose of Montfortian Education which is to help our students:   To learn, understand and love God as Wisdom  To understand and transform oneself in the ways of Wisdom  To become committed to transform society in obedience to Wisdom.    Given this mandate, the school leverages on our 100 years of history to build an institution that emphasizes on promoting a culture of care and excellence to help develop our students to be imbued with our CHRISTE* values and who will go on to serve his community and be a man for others.",
+		"School Philosophy, Culture and Ethos": [
+			"Montfort Junior School is a member of the Montfort Brothers of St. Gabriel's and we have brother institutions in all parts of the world. The school is guided by the goals and purpose of Montfortian Education which is to help our students:",
+			"To learn, understand and love God as Wisdom",
+			"To understand and transform oneself in the ways of Wisdom",
+			"To become committed to transform society in obedience to Wisdom.",
+			"Given this mandate, the school leverages on our 100 years of history to build an institution that emphasizes on promoting a culture of care and excellence to help develop our students to be imbued with our CHRISTE* values and who will go on to serve his community and be a man for others."
+		],
 		"Type of School": "GOVERNMENT-AIDED SCH / BOYS' SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "MONTFORT SECONDARY SCHOOL"
@@ -56,7 +73,7 @@
 		"School Distinctive Programmes": {
 			"Sports & Outdoor Education": "Character Matters: Developing Montfortians with CHRISTE values through sports"
 		},
-		"Special Student Development Programmes Offered": "Montfort Junior School is an all-boys institution of learning and we focus on providing a boys centric educational experience. Believing that boys learn differently, our teaching and learning program, facilities and resources are designed with Boys Centric Education (BCE) in mind. Our programs are designed to facilitate peer learning, encourage movement, be experiential in nature and differentiated to meet individual's needs. Programs are designed to stretch the potential as well as support learning needs.  Mindful of our responsibility to develop our students to be future ready, one of our key programs is the infusion of computational thinking skills into the curriculum. Students are systematically introduced to computational thinking at all levels and these skills are further reinforced during curriculum time.   Badminton has been our prominent sport and a strong tradition for many years and we have been awarded niche status, based on our excellence in this area. With this spirit of excellence and a strong sporting tradition, our school has also developed a strong sporting structure to support our boys' involvement in other sports like softball, football, table tennis, wushu and Tae Kwon Do. We see participation in sports as opportunities for our boys to pursue excellence in both their physical performance and character. With boys playing in different teams, they have opportunities for personal growth as they stimulate each other through mutual encouragement, challenge and support.  Our school's Learning for Life Program (LLP) is focused on developing the CHRISTE values through involvement in sports. Leveraging on our strong sporting culture, our LLP provides opportunities for all Montfortians to learn different sports through their years in MJS and through their involvement, develop their character."
+		"Special Student Development Programmes Offered": "Montfort Junior School is an all-boys institution of learning and we focus on providing a boys centric educational experience. Believing that boys learn differently, our teaching and learning program, facilities and resources are designed with Boys Centric Education (BCE) in mind. Our programs are designed to facilitate peer learning, encourage movement, be experiential in nature and differentiated to meet individual's needs. Programs are designed to stretch the potential as well as support learning needs."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -838,7 +855,70 @@
 					"Ensemble - Strings": "Accomplishment"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Ensemble - Guitar": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment"
+				}
+			}
 		}
 	},
 	"postalCode": "538786"

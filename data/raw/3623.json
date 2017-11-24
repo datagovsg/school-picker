@@ -19,7 +19,8 @@
 		"Principal": "MRS LIM CAROL",
 		"Vice Principal": [
 			"MR ELANGOVAN S/O V MUTHOO",
-			"MR CHUA TUNG KIAN"
+			"MR CHUA TUNG KIAN",
+			"MR TOH KIM YONG VINCENT"
 		],
 		"School Vision": "A dynamic school that thinks and cares.",
 		"School Mission": "We nurture citizens of character with the passion to contribute and excel.",
@@ -627,7 +628,22 @@
 					"Red Cross": "Silver"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"SYF Arts Presentation": {
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Gamelan": "Distinction",
+					"Ensemble - Guitar": "Accomplishment",
+					"Band - Concert": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Ncdcc": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Silver"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

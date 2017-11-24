@@ -22,9 +22,22 @@
 			"MDM LAI SEOW POH"
 		],
 		"Vice Principal (Admin)": "MISS LINDA CHUA",
-		"School Vision": "Nurturing Pupils who C.A.R.E to succeed C.A.R.E represents: C - Confident and equipped with creative and inventive thinking A -  Actively Contribute R -  Resilient E -  Enthusiastically Learn",
+		"School Vision": [
+			"Nurturing Pupils who C.A.R.E to succeed",
+			"C.A.R.E represents:",
+			"C - Confident and equipped with creative and inventive thinking",
+			"A -  Actively Contribute",
+			"R -  Resilient",
+			"E -  Enthusiastically Learn"
+		],
 		"School Mission": "Providing holistic education to build character and develop talents in a nurturing environment.",
-		"School Philosophy, Culture and Ethos": "Corporation Primary School was established in 1975 and has a history of 41 years. The school aims to provide a holistic education through learner-centred approaches. As pupils have varied learning abilities and potential, our teachers are empowered to innovate and adopt creative strategies that best meet their needs.  We are guided by our philosophy, 'Every child has intrinsic worth and he can learn and wants to learn. Every child has the ability to realise his fullest potential and can contribute to society in his individual capacity'.    We believe in developing talents by helping our pupils acquire new knowledge and skills to meet future challenges. Our pupils are provided with the opportunities to discover and develop their talents across domains in a nurturing environment. This belief is reflected in our school tagline: Creating Possibilities in Students.   In line with our philosophy, character building is the core of our mission and sets the foundation for programme development. The school core values are anchored on the acronym - RICHER, which stands for Respect, Integrity, Compassion, Humility, Endurance and Responsibility. We are committed to guide pupils using Integrity as our moral compass, Endurance as the key to success, Responsibility and Humility as reflected in our actions and Respect and Compassion for better relationships.   The school has a strong culture of care and strives to be 'One CPS Family', working towards a common goal. Through the school programmes, our pupils build authentic experiences and together with the close partnership of our parents, we aim to achieve our vision of 'Nurturing Pupils who C.A.R.E to Succeed'.",
+		"School Philosophy, Culture and Ethos": [
+			"Corporation Primary School was established in 1975 and has a history of 41 years. The school aims to provide a holistic education through learner-centred approaches. As pupils have varied learning abilities and potential, our teachers are empowered to innovate and adopt creative strategies that best meet their needs.",
+			"We are guided by our philosophy, 'Every child has intrinsic worth and he can learn and wants to learn. Every child has the ability to realise his fullest potential and can contribute to society in his individual capacity'. ",
+			"We believe in developing talents by helping our pupils acquire new knowledge and skills to meet future challenges. Our pupils are provided with the opportunities to discover and develop their talents across domains in a nurturing environment. This belief is reflected in our school tagline: Creating Possibilities in Students. ",
+			"In line with our philosophy, character building is the core of our mission and sets the foundation for programme development. The school core values are anchored on the acronym - RICHER, which stands for Respect, Integrity, Compassion, Humility, Endurance and Responsibility. We are committed to guide pupils using Integrity as our moral compass, Endurance as the key to success, Responsibility and Humility as reflected in our actions and Respect and Compassion for better relationships. ",
+			"The school has a strong culture of care and strives to be 'One CPS Family', working towards a common goal. Through the school programmes, our pupils build authentic experiences and together with the close partnership of our parents, we aim to achieve our vision of 'Nurturing Pupils who C.A.R.E to Succeed'."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -79,7 +92,7 @@
 		"School Distinctive Programmes": {
 			"Music & Performing Arts": "Creativity Through Dance"
 		},
-		"Special Student Development Programmes Offered": "The school has various programmes to cater to the diverse needs of our pupils so as to develop them holistically.  Talent Development Programme  In our aspiration to develop talents, the school complements the Physical Education (PE) and Aesthetics curriculum with sports and art enrichment programmes. A variety of sports and aesthetic modules are offered to the pupils through the PE, Music and Art curriculum as well as the Programme for Active Learning. Learning journeys to art museums are also conducted for the P4 pupils as part of the museum based learning programme to enrich their learning experiences in visual arts.  Through these programmes, pupils' talents and passion are discovered and they are offered opportunities to deepen their skills through the various CCAs.    Learning for Life Programme (LLP): Developing Pupils in the Niche Area of Dance The LLP programme in dance aims to build confidence in pupils by exposing them to different dance forms and allowing them to express their creativity through dance and music. We have a structured and effective process to deepen their passion in dance and pursue dance as their life-long interest.  They are provided with opportunities to appreciate, create and express themselves through dance.  GO-Green @ CPS  In collaboration with the South West CDC and National Environment Agency, CPS green programme educates and raises awareness among pupils, staff and parents on environmental issues, conservation and 3R practices (Reduce, Reuse and Recycle). In collaboration with the Art and Music Departments, the 3R practices are incorporated into their departmental programmes, using recycled materials to create artwork as well as design percussion instruments."
+		"Special Student Development Programmes Offered": "The school has various programmes to cater to the diverse needs of our pupils so as to develop them holistically."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -526,7 +539,86 @@
 					"Red Cross": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					],
+					[
+						"Volleyball",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "648347"

@@ -23,7 +23,10 @@
 		],
 		"School Vision": "Soaring to Greater Heights- Explore, Evolve, Excel",
 		"School Mission": "We nurture every individual holistically to a life-long learner, a confident leader and a caring citizen.",
-		"School Philosophy, Culture and Ethos": "School Philosophy : Everyone is a GEM. At Casuarina Primary, we believe that like a precious gem, everyone is precious in their own way and every student and staff have unique talents and abilities which can be discovered and developed.  We provide different platforms for staff and students to showcase their talents and abilities. Through providing the opportunity for staff and students to succeed, we hope that they can then Go the Extra Mile to achieve Success (GEMs).",
+		"School Philosophy, Culture and Ethos": [
+			"School Philosophy : Everyone is a GEM.",
+			"At Casuarina Primary, we believe that like a precious gem, everyone is precious in their own way and every student and staff have unique talents and abilities which can be discovered and developed.  We provide different platforms for staff and students to showcase their talents and abilities. Through providing the opportunity for staff and students to succeed, we hope that they can then Go the Extra Mile to achieve Success (GEMs)."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -79,7 +82,7 @@
 			"Languages": "The Art of Language",
 			"Music & Performing Arts": "Holistic Education through the ARTS at Casuarina Primary School (HE’ARTS@CAPS)"
 		},
-		"Special Student Development Programmes Offered": "To reflect our focus on the holistic development of our students under our CAPS (Cognitive, Aesthetics, Physical and Socio-moral-emotional) Domains, Casuarina Primary School offers both a Learning for Life Programme (LLP) and an Applied Learning Programme (ALP) for our students.    Our LLP, HE'ARTS@CAPS, which stands for Holistic Education through the ARTS at Casuarina Primary School, aims to provide students with a holistic education through the school's arts programme. Our LLP serves to develop students in creativity and expression. Through targeted learning experiences, HE'ARTS@CAPS also promotes inter-ethnic bonding and the appreciation of our cultural heritage, thus cultivating a sense of national pride and identity.     The schools ALP, The Art of Language, aims to develop in students, the essential competencies of the literary arts as well as confidence in self-expression through a whole-school approach that is progressive and developmental. The Art of Language also aims to develop students to be effective communicators and critical and inventive thinkers, as well as to provide them with platforms for global and cross-cultural awareness. The Art of Language lends itself perfectly well in achieving these desired outcomes for the Casuarinian student. The knowledge, skills and experiences derived from The Art of Language can be applied and extended to the other areas of the students' growth, e.g., articulating thoughts and ideas in CCE, Music and Art."
+		"Special Student Development Programmes Offered": "To reflect our focus on the holistic development of our students under our CAPS (Cognitive, Aesthetics, Physical and Socio-moral-emotional) Domains, Casuarina Primary School offers both a Learning for Life Programme (LLP) and an Applied Learning Programme (ALP) for our students.  "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -783,7 +786,76 @@
 					"Scout": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Floorball",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition",
+					"Band-Wind Ensemble": "Commendation",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Commendation"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "518935"

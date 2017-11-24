@@ -78,7 +78,7 @@
 			"Science": "Stimulating Senses Through Science (S3)",
 			"Community Service & Student Leadership": "Beacons At Your Service (BAYS) Programme"
 		},
-		"Special Student Development Programmes Offered": "> Literature Appreciation Programme  > 1-to-1 Computing  Programme > Beacon Take Flight (Overseas Learning Journey Opportunities for all upper Pri  pupils)"
+		"Special Student Development Programmes Offered": "> Literature Appreciation Programme "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -201,7 +201,64 @@
 					"Scout": "Silver"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Malay": "Distinction"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "679944"

@@ -26,7 +26,14 @@
 		],
 		"School Vision": "Confident . Cultured .  Aspiring Learners",
 		"School Mission": "To Build Character, Nurture Minds and Strive for Excellence",
-		"School Philosophy, Culture and Ethos": "We are guided by the belief that 'Every Child Learns' and our efforts are directed at providing opportunities through our programmes as well as teachable moments. Children are imbued with this mindset and have self-belief and self-efficacy.  We define culture as a way of life and life in school includes every day interacting and connecting with Singaporeans and children from other countries. We ensure that children appreciate each other's differences and diversity, as school is a microcosm of Society and such awareness must be built from young. To be cultured is to conduct oneself with dignity, to be humble and not be respecters of persons but respect everyone.  We want our children not only to learn but learn right. Anything that is worth doing must be done well, even if it is to keep the individual desks tidy and classrooms clean. We encourage them to aspire to do their best and to try again when they face setbacks.  All that we do is premised on the values of Integrity, Responsibility, Resilience and Compassion. We ensure that the values are lived out so that they are not just taught but caught. It is not enough to be honest but exhibit integrity - the moral courage to speak up or own up when something wrong has been committed; everyone must be responsible to his own work; we allow mistakes to be made so that they build resilience and when they are successful, to always remember those who are less advantaged than them and show compassion by contributing back to Society.   In NSPS we constantly build our teacher capacity through adopting a school-wide model of 'The Skillful Teacher'. We encourage our teachers to try different strategies so that they engage the children and bring about the 'joy of learning'. Teachers also frequently attend workshops and courses for fresh ideas.   All the above brings about a culture of care and every child can look forward to school, having a positive teacher-student relationship and quality school experience.",
+		"School Philosophy, Culture and Ethos": [
+			"We are guided by the belief that 'Every Child Learns' and our efforts are directed at providing opportunities through our programmes as well as teachable moments. Children are imbued with this mindset and have self-belief and self-efficacy.",
+			"We define culture as a way of life and life in school includes every day interacting and connecting with Singaporeans and children from other countries. We ensure that children appreciate each other's differences and diversity, as school is a microcosm of Society and such awareness must be built from young. To be cultured is to conduct oneself with dignity, to be humble and not be respecters of persons but respect everyone.",
+			"We want our children not only to learn but learn right. Anything that is worth doing must be done well, even if it is to keep the individual desks tidy and classrooms clean. We encourage them to aspire to do their best and to try again when they face setbacks.",
+			"All that we do is premised on the values of Integrity, Responsibility, Resilience and Compassion. We ensure that the values are lived out so that they are not just taught but caught. It is not enough to be honest but exhibit integrity - the moral courage to speak up or own up when something wrong has been committed; everyone must be responsible to his own work; we allow mistakes to be made so that they build resilience and when they are successful, to always remember those who are less advantaged than them and show compassion by contributing back to Society. ",
+			"In NSPS we constantly build our teacher capacity through adopting a school-wide model of 'The Skillful Teacher'. We encourage our teachers to try different strategies so that they engage the children and bring about the 'joy of learning'. Teachers also frequently attend workshops and courses for fresh ideas. ",
+			"All the above brings about a culture of care and every child can look forward to school, having a positive teacher-student relationship and quality school experience."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -86,7 +93,7 @@
 			"Community Service & Student Leadership": "NSPS CCE Learning Experience – A Holistic and Engaging Approach",
 			"Sports & Outdoor Education": "Play Your Hearts Out @  North Spring"
 		},
-		"Special Student Development Programmes Offered": "School's LLP1 is Community Service and Student Leadership. It is our way of providing pupils with opportunities for character and citizenship development through different approaches including game-based learning. iWorld@NSPS (game-based learning programme) enables pupils, during different scenarios from a neighbourhood wedding, celebration of festivals to crisis and conflicts, to make sound decisions about helping others in happy and dire/difficult situations. It enables the pupils not only in collaborative thinking but also critical thinking (P1-6)  An extension of LLP1 has been the development of iTrails - a collaboration between CCE and Science departments to enthuse children to tap on technology to do outdoor learning in matters such as environmental conservation. They also create their own games and this builds children's creative and inventive thinking and skills. They also learn to work in a team and appreciate the different perspectives of their classmates. (P3-6)  School's LLP2 is Sports and Outdoor Education Play Your Hearts Out@North Spring aims to build in the children agility, flexibility, dexterity, nimbleness and also a love for an active lifestyle. We hope this will become a life-long habit so that they lead active healthy lives. The children are put through a series of skills-based games and in their 6 years at NSPS they will cover rope-skipping, dancesport, netball, tag rugby, lacrosse and tchoukball. These are complemented by a rigorous PE curriculum and robust PAL - Programme for Active Learning which also includes visual art, music, drama and dance skills. This is further strengthened by school's participation in HPB's Healthy Meals in Schools Programme and establishment of a culture of eating right. We believe that a healthy child is a happy child who learns well."
+		"Special Student Development Programmes Offered": "School's LLP1 is Community Service and Student Leadership."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -140,6 +147,16 @@
 						"Senior"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -217,6 +234,31 @@
 					"year": "2016",
 					"category": "Ensemble - Strings",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -232,6 +274,11 @@
 				},
 				{
 					"year": "2016",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
 					"category": "Scout",
 					"award": "Silver"
 				}

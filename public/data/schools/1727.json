@@ -23,7 +23,14 @@
 		"Vice Principal (Admin)": "Mdm Hafsah Abdullah",
 		"School Vision": "Future-Ready Learners, Leaders of Character",
 		"School Mission": "Nurturing Every Child in a Vibrant and Caring Environment where Talents Blossom",
-		"School Philosophy, Culture and Ethos": "In Junyuan Primary School (JYPS), we believe that every child is special, valuable and important. We seek to equip our students with the necessary knowledge, values and skills that will prepare them adequately to face the challenges of the future.   The school has identified five distinct strands of outcomes known as the Desired Junyuan Outcomes (DJOs) that each student should achieve through three defined key stages by the end of P6. They are Self-Directed Learners, Adaptable Individuals, Critical Thinkers, Confident Communicators and Concerned Citizens.   These outcomes were identified based on the school's philosophy of preparing our students for the future and to mould them as leaders of character.   The school seeks to develop students who are grounded in values and are concerned citizens who can contribute positively to the school, home and community. The acronym EnR3ICH outlines the 7 JYPS school values: ExcelleNce, Respect, Responsibility, Resilience, Integrity, Care, Harmony.  The 7 values are introduced during our assembly programmes, Character and Citizenship Education (CCE) Lessons and reinforced through our school-based programmes. They provide a guide for our students to be able to distinguish right from wrong, help them make responsible choices, foster positive relationships with their peers and others, be able to display leadership qualities in the areas of leading self and leading others, as well as help them become more aware of their roles in school, the community and Singapore.   The school motto 'Work to Excel' embodies the spirit in JYPS where our students are self-directed in learning and seek opportunities for progress and innovation. They will be confident in their communication and develop a critical mind for thinking. He/She will be adaptable to take on new roles readily and demonstrate resilience in the face of challenges.",
+		"School Philosophy, Culture and Ethos": [
+			"In Junyuan Primary School (JYPS), we believe that every child is special, valuable and important. We seek to equip our students with the necessary knowledge, values and skills that will prepare them adequately to face the challenges of the future. ",
+			"The school has identified five distinct strands of outcomes known as the Desired Junyuan Outcomes (DJOs) that each student should achieve through three defined key stages by the end of P6. They are Self-Directed Learners, Adaptable Individuals, Critical Thinkers, Confident Communicators and Concerned Citizens. ",
+			"These outcomes were identified based on the school's philosophy of preparing our students for the future and to mould them as leaders of character. ",
+			"The school seeks to develop students who are grounded in values and are concerned citizens who can contribute positively to the school, home and community. The acronym EnR3ICH outlines the 7 JYPS school values: ExcelleNce, Respect, Responsibility, Resilience, Integrity, Care, Harmony.",
+			"The 7 values are introduced during our assembly programmes, Character and Citizenship Education (CCE) Lessons and reinforced through our school-based programmes. They provide a guide for our students to be able to distinguish right from wrong, help them make responsible choices, foster positive relationships with their peers and others, be able to display leadership qualities in the areas of leading self and leading others, as well as help them become more aware of their roles in school, the community and Singapore. ",
+			"The school motto 'Work to Excel' embodies the spirit in JYPS where our students are self-directed in learning and seek opportunities for progress and innovation. They will be confident in their communication and develop a critical mind for thinking. He/She will be adaptable to take on new roles readily and demonstrate resilience in the face of challenges."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay",
 		"Affiliated Schools": "Not Applicable"
@@ -68,7 +75,7 @@
 			"Languages": "Developing Every Student into a Confident Communicator",
 			"Sports & Outdoor Education": "Shaping Individuals to Excel (SHINE) @ Junyuan through Sports"
 		},
-		"Special Student Development Programmes Offered": "Applied Learning Programme : DEVELOPING EVERY STUDENT INTO A CONFIDENT COMMUNICATOR  The school seeks to equip our students with skills and dispositions to prepare them for the 21st century in the area of confident communication. Every JYPS student will experience the 6-year Confident Communicator programme aimed at developing their confidence in speaking and communicating with others. The inter-departmental   collaboration amongst the EL, MTL and ICT departments has resulted in myriad programmes and meaningful activities which are weaved into the curriculum progressively through the levels.   Authentic settings are designed to provide our students with opportunities to discuss ideas and share their observations with peers and teachers. Leveraging technology, students record their performances in Junyuan's broadcasting studio - Studio 91 and take turns to participate in the weekly broadcast where they speak on a topic of their choice related to the school values, events or current affairs.   Learning for Life Programme : SHAPING INDIVIDUALS TO EXCEL (SHINE) @ JUNYUAN THROUGH SPORTS  SHINE aims to develop critical thinkers who are self-directed, adaptable and strive towards personal excellence. It aims to foster a school culture that embraces sports and strengthen the character and resilience of the students through an active lifestyle for life-long learning.  Tchoukball has been identified as one of the key programmes for its versatility as a sport. It is specifically designed to promote self-paced learning and development and allows each player to express himself within his/her own physical and intellectual capabilities and players of different capabilities can play together. More importantly, the game teaches resilience and respect for all players and increases self-confidence in individuals. It harnesses the 21CC of critical thinking by providing opportunities for our students to exercise decision-making and develop collaborative skills."
+		"Special Student Development Programmes Offered": "Applied Learning Programme : DEVELOPING EVERY STUDENT INTO A CONFIDENT COMMUNICATOR"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -189,6 +196,36 @@
 						"Senior"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -256,6 +293,26 @@
 					"year": "2016",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -271,6 +328,11 @@
 				},
 				{
 					"year": "2016",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
 					"category": "Boys' Brigade",
 					"award": "Silver"
 				}

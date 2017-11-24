@@ -23,7 +23,11 @@
 		"Vice Principal (Admin)": "Mdm Kwek Ling Ling Irene",
 		"School Vision": "Self-directed Learners . Confident Leaders . Caring Citizens",
 		"School Mission": "We are committed to providing a learner-centric and values-driven education.",
-		"School Philosophy, Culture and Ethos": "Guided by our philosophy that 'Every child can learn and achieve', the school strives to provide every child with a broad-based education with opportunities for the development of talents. The student-centred philosophy rests on the premise that every child has the innate ability to acquire knowledge and skills and is thereby able to grow and develop when supported by a safe and nurturing environment conducive for learning.   The school believes in providing a caring and positive school culture for all, whereby every individual enjoys learning and embracing the school motto, striving 'Towards Excellence'. Anchored on values with a focus on student-centricity, our staff are committed to nurturing our students to help them embody the Desired Outcomes of Education (DOEs) in being a confident person, a self-directed learner, an active contributor and a concerned citizen.     The school believes the importance of partnership with key stakeholders for the holistic development of our students. We seek to build quality relationships with our key stakeholders based on trust and mutual benefits to benefit our students.",
+		"School Philosophy, Culture and Ethos": [
+			"Guided by our philosophy that 'Every child can learn and achieve', the school strives to provide every child with a broad-based education with opportunities for the development of talents. The student-centred philosophy rests on the premise that every child has the innate ability to acquire knowledge and skills and is thereby able to grow and develop when supported by a safe and nurturing environment conducive for learning. ",
+			"The school believes in providing a caring and positive school culture for all, whereby every individual enjoys learning and embracing the school motto, striving 'Towards Excellence'. Anchored on values with a focus on student-centricity, our staff are committed to nurturing our students to help them embody the Desired Outcomes of Education (DOEs) in being a confident person, a self-directed learner, an active contributor and a concerned citizen.   ",
+			"The school believes the importance of partnership with key stakeholders for the holistic development of our students. We seek to build quality relationships with our key stakeholders based on trust and mutual benefits to benefit our students."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -174,6 +178,46 @@
 				},
 				{
 					"year": "2016",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Distinction"
 				}

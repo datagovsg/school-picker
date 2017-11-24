@@ -25,7 +25,12 @@
 			"Mr Poh Chun Leck"
 		],
 		"School Vision": "Every Eunoian a Youth with Purpose, Thinker with Heart, Leader with Courage",
-		"School Mission": "We Enable students to learn continuously, Empower students to seek all-round excellence, and Embolden students to pursue their purpose.",
+		"School Mission": [
+			"We",
+			"Enable students to learn continuously,",
+			"Empower students to seek all-round excellence, and",
+			"Embolden students to pursue their purpose."
+		],
 		"Type of School": "Government School / Co-ed School / Full Day",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -125,12 +130,23 @@
 		"MOE Programmes": [
 			"Integrated Programme"
 		],
-		"Special Student Development Programmes Offered": "Environmental Literacy Programme Leadership Advancement Programme Liberal Arts Programme Life Coaching Programme Passion Pursuit STEM Research Programme Talent Development Programme World Readiness Programme"
+		"Special Student Development Programmes Offered": "Environmental Literacy Programme"
 	},
 	"AchievementHistory": {
 		"Junior College": {
 			"Sports & Games Competition": [],
-			"SYF": [],
+			"SYF": [
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				}
+			],
 			"Best Unit Award": []
 		}
 	},

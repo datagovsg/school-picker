@@ -91,7 +91,7 @@
 			"STEM": "Health Science & Technology",
 			"Sports & Outdoor Education": "Building Character Through Physical Education & Sports"
 		},
-		"Special Student Development Programmes Offered": "Our Learning for Life Programme is Building Character through Physical Education & Sports. We believe that Physical Education and Sports Education are natural platforms for Character Building and our programme seeks to develop active and healthy students with mental toughness, empathy and character that will enables them to act as role models to promote a healthy lifestyle to their peers, family and the community.  Our Applied Learning Programme is on Health Science and Technology which aims to ignite student interests in the field of electronic through hands-on learning that builds bridge between textbook knowledge and real-world applications. Working in team or individually, students learn about coding skills and microprocessor programming and how it can be applied in the area of health sciences."
+		"Special Student Development Programmes Offered": "Our Learning for Life Programme is Building Character through Physical Education & Sports. We believe that Physical Education and Sports Education are natural platforms for Character Building and our programme seeks to develop active and healthy students with mental toughness, empathy and character that will enables them to act as role models to promote a healthy lifestyle to their peers, family and the community. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -102,6 +102,9 @@
 				"Development Award": "DA (Character Development)"
 			},
 			"2016": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2017": {
 				"Development Award": "DA (Character Development)"
 			},
 			"Sports & Games Competition": [
@@ -254,6 +257,26 @@
 						"'B' Div"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -356,6 +379,41 @@
 					"year": "2016",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -423,6 +481,26 @@
 					"year": "2016",
 					"category": "Girl Guides (Coy 1)",
 					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Land Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Red Cross",
+					"award": "Silver"
 				}
 			]
 		}

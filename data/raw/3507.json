@@ -75,7 +75,7 @@
 			"Ethnic Fusion Dance"
 		],
 		"Clubs & Societies": [
-			"Audio Visual Aid (Ava) & Photography Club",
+			"Ava & Photography Club",
 			"Infocomm Club",
 			"Library"
 		],
@@ -740,7 +740,24 @@
 					"St John Ambulance Brigade": "Bronze"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "ODA (National Education)",
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Silver",
+					"Scout (Unit 1)": "Silver"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

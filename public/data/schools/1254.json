@@ -26,7 +26,14 @@
 		"Vice Principal (Admin)": "Mr Koh Teik Huat Christopher",
 		"School Vision": "A Community of Aspiring and Gracious Learners",
 		"School Mission": "Nuture Talents, Develop Character, Groom Leaders",
-		"School Philosophy, Culture and Ethos": "Anchor Green Primary School believes that every child has unique talents and abilities that can be developed to his fullest potential if his emotional and physical needs are met.  The belief is that every individual - wants to learn when opportunities are given - has the potential to learn and develop to his/her fullest potential  - learns better in a happy and nurturing environment - can be taught good values and habits  - can achieve all round development",
+		"School Philosophy, Culture and Ethos": [
+			"Anchor Green Primary School believes that every child has unique talents and abilities that can be developed to his fullest potential if his emotional and physical needs are met.  The belief is that every individual",
+			"- wants to learn when opportunities are given",
+			"- has the potential to learn and develop to his/her fullest potential ",
+			"- learns better in a happy and nurturing environment",
+			"- can be taught good values and habits ",
+			"- can achieve all round development"
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -77,7 +84,7 @@
 			"Community Service & Student Leadership": "Inculcating Attitudes and Habits to Conserve the Environment through Environmental Education",
 			"Music & Performing Arts/ Visual Arts & Design": "A.G.P.S Arts (Aspire, Grow, Passion and Serve through the Arts)"
 		},
-		"Special Student Development Programmes Offered": "SLEEC (Serve and Lead through Environment Education) is a programme designed to raise awareness about caring for the environment and building an eco-conscious culture among its students and staff. Over the years, structured school-wide as well as level-wide programmes have been put in place, leveraging its strong foundation in environmental education, with the aim of nurturing in our students the desired character, talent and skills in which they would be able to apply later on in life.  The desired student outcomes of SLEEC are: - To inculcate the values of graciousness in our students through building the sense of responsibility in them in contributing towards the environment. - To impart the skills and knowledge in caring for the environment and raise greater sense of environmental awareness amongst the students.  - To equip the students with the 21st Century Competencies to serve and lead the community through environmental education.   The A.G.P.S. Arts (Aspire, Grow, Passion and Serve through the Arts) is designed to build upon our pupils' knowledge, skills and love for the arts, nurturing their creative expressions, enriching their social, cultural and heritage awareness and ultimately grow them to be confident, critical and creative learners and active contributors to society. This programme aims to arrive at the following student outcomes and have our pupils gain 21st CC as they: 1) See inter-relationships among ideas, adapt, generate and create new ideas and products 2)    Are encouraged to express their thoughts, form opinions and appreciate differing perspectives 3)    Have an overall development of social skills - value diversity in ideas, confidence building 4)    Foster appreciation of Singapore's cultural heritage 5)    Strengthen understanding of own national identity and ethnic culture"
+		"Special Student Development Programmes Offered": "SLEEC (Serve and Lead through Environment Education) is a programme designed to raise awareness about caring for the environment and building an eco-conscious culture among its students and staff. Over the years, structured school-wide as well as level-wide programmes have been put in place, leveraging its strong foundation in environmental education, with the aim of nurturing in our students the desired character, talent and skills in which they would be able to apply later on in life."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -88,6 +95,9 @@
 				"Development Award": "DA (Character Development)"
 			},
 			"2016": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2017": {
 				"Development Award": "DA (Character Development)"
 			},
 			"Sports & Games Competition": [
@@ -210,6 +220,46 @@
 						"Senior"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -271,6 +321,26 @@
 				{
 					"year": "2016",
 					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Handbell / Handchime",
 					"award": "Accomplishment"
 				}
 			],

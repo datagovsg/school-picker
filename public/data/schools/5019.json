@@ -28,7 +28,10 @@
 		],
 		"School Vision": "Learner, Leader, LadyA CHIJ OLQP pupil is a confident young lady who has moral character and genuine love for learning, leading and serving God and others.",
 		"School Mission": "A Convent of the Holy Infant Jesus School is a Christ-centered school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of persons who are disadvantaged in any way.",
-		"School Philosophy, Culture and Ethos": "CHIJ Our Lady Queen of Peace founded in 1955, is one of the eleven schools belonging to the congregation of the Infant Jesus. CHIJ OLQP aims to nurture every child to be a Learner, Leader and Lady, who embodies our school motto 'Simple in Virtue, Steadfast in Duty'. A CHIJ OLQP education has always stood for the holistic development of a child through educational opportunities in the six domains of cognitive, physical, aesthetics, social & moral, student leadership and morale.   Aligned to our vision, our school values is for every girl to be Good and Smart. The school provides opportunities for all students to show qualities to be her best self, and to do her best work. Guided by the IJ mission, our staff and students work together to promote the IJ virtues 'Truth, Justice, Freedom and Love' through acts of service within and beyond the school community, attending to the needs of persons who are disadvantaged in any ways.",
+		"School Philosophy, Culture and Ethos": [
+			"CHIJ Our Lady Queen of Peace founded in 1955, is one of the eleven schools belonging to the congregation of the Infant Jesus. CHIJ OLQP aims to nurture every child to be a Learner, Leader and Lady, who embodies our school motto 'Simple in Virtue, Steadfast in Duty'. A CHIJ OLQP education has always stood for the holistic development of a child through educational opportunities in the six domains of cognitive, physical, aesthetics, social & moral, student leadership and morale. ",
+			"Aligned to our vision, our school values is for every girl to be Good and Smart. The school provides opportunities for all students to show qualities to be her best self, and to do her best work. Guided by the IJ mission, our staff and students work together to promote the IJ virtues 'Truth, Justice, Freedom and Love' through acts of service within and beyond the school community, attending to the needs of persons who are disadvantaged in any ways."
+		],
 		"Type of School": "Government-aided Sch / Girls' School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "CHIJ St. Theresa's Convent"
@@ -80,7 +83,7 @@
 			"Science": "Science and Environment Education @ OLQP (SEE @ OLQP)",
 			"Sports & Outdoor Education": "Character Lives In My Behaviour (CLIMB) Through Sports"
 		},
-		"Special Student Development Programmes Offered": "In 2016, the school was awarded the Best Practice Award for Student All-Round Development by MOE.  Our school's Applied Learning Programme, Science and Environment Education @ CHIJ OLQP' has a spiral approach, teaching our students' science and environment through experiential and applied learning. 'Character Lives In My Behaviour through Sports' is our Learning for Life Programme (LLP) where all students have opportunities to be engaged in physical activities to gain positive experiences through values-driven, student-centric physical education and sports programme.   The school's character development programme establishes CLIMB (Character Lives In My Behavious) through The Virtues ProjectTM. CLIMB inculcate our students with the virtues, starting with the emphasis on Self and Family in P1 & P2, followed by School and Community in P3 & P4, and finally the focus on Nation and World in P5 & P6.   To promote a culture of innovation, the school has refined and introduced new programmes. The IJ Young Lady Programme is an innovative and progressive programme which helps all students to realise the vision of a young lady through social etiquette classes. Our I-GIVE programme is also a uniquely designed level-wide global citizenship programme that provides students with the opportunities to learn the different cultures within the region and are also exposed to the world to develop critical thinking about global issues."
+		"Special Student Development Programmes Offered": "In 2016, the school was awarded the Best Practice Award for Student All-Round Development by MOE.  Our school's Applied Learning Programme, Science and Environment Education @ CHIJ OLQP' has a spiral approach, teaching our students' science and environment through experiential and applied learning. 'Character Lives In My Behaviour through Sports' is our Learning for Life Programme (LLP) where all students have opportunities to be engaged in physical activities to gain positive experiences through values-driven, student-centric physical education and sports programme. "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -201,6 +204,36 @@
 						"Senior"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
 				}
 			],
 			"SYF": [
@@ -266,6 +299,26 @@
 				},
 				{
 					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
 					"category": "Dance - International",
 					"award": "Accomplishment"
 				}

@@ -23,7 +23,11 @@
 		],
 		"School Vision": "Leaders of Character; Learners for Life",
 		"School Mission": "A caring school that provides quality learning experiences for every child to develop good character, pursue academic excellence and acquire life skills for the future.",
-		"School Philosophy, Culture and Ethos": "The school is named after Mr Ahmad Ibrahim, Member of Parliament for Sembawang, who served as Minister for Health and then Minister for Labour in the early years of Singapore's nationhood. The school's heritage stands as a reminder of the courage, determination and pride of our leaders who dedicated their lives to the building of our nation.  Guided by our philosophy, \"Every Child A Star\" and belief, \"Every Child can succeed\", we endeavour to provide a holistic, student-centric and quality learning experiences for our students, through the heart and hard work of our staff and synergistic partnerships with our Parent Support Group (PSG), parents and community.   We are a caring, nurturing and supportive school community which is constantly seeking for innovation, spurring our students to be firm advocates of continuous learning and acquiring mind set for excellence to bring about quality learning outcomes. We aspire to instil in them the joy of learning. Joyful learning@ AIPS will motivate our students to be resilient and self-directed learners and active and responsible citizens who possess the passion for continuous learning and the drive to innovate. This resonates with our school motto: \"Grow with Resilience\".",
+		"School Philosophy, Culture and Ethos": [
+			"The school is named after Mr Ahmad Ibrahim, Member of Parliament for Sembawang, who served as Minister for Health and then Minister for Labour in the early years of Singapore's nationhood. The school's heritage stands as a reminder of the courage, determination and pride of our leaders who dedicated their lives to the building of our nation.",
+			"Guided by our philosophy, \"Every Child A Star\" and belief, \"Every Child can succeed\", we endeavour to provide a holistic, student-centric and quality learning experiences for our students, through the heart and hard work of our staff and synergistic partnerships with our Parent Support Group (PSG), parents and community. ",
+			"We are a caring, nurturing and supportive school community which is constantly seeking for innovation, spurring our students to be firm advocates of continuous learning and acquiring mind set for excellence to bring about quality learning outcomes. We aspire to instil in them the joy of learning. Joyful learning@ AIPS will motivate our students to be resilient and self-directed learners and active and responsible citizens who possess the passion for continuous learning and the drive to innovate. This resonates with our school motto: \"Grow with Resilience\"."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -58,7 +62,7 @@
 			"Science": "Sustainability Education – Nurturing Students to be Stewards of Our Environment",
 			"Community Service & Student Leadership": "From Values to Action - Nurturing Community-Based Student Leaders"
 		},
-		"Special Student Development Programmes Offered": "The 3Rs - Leader U Development programme- From Values to Action: Developing Community-based Student Leaders (LLP) is a character and leadership development programme. It focuses on 3 key attributes of leadership - Respect, Resilience, Responsibility. We believe that every child has leadership potential and can acquire leadership skills best in Values-In-Action activities. These authentic situations provide platforms for students to be nurtured as socially responsible leaders who are able to lead and serve the peers, school, community and wider community;  The Sustainability Education - Nurturing Students to be Stewards of Our Environment programme (ALP), develops skills, knowledge and values that promotes behaviors in support of a sustainable environment. The learning experiences aim to create the awareness of the responsibility students have for the quality of the environment, conserve precious resources and hone SEL and 21st CC skills through Inquiry-based Learning and Investigative Case-based Learning.  Project 5Cs- We have identified 5Cs - Confidence, Co-operation, Curiosity, Creativity and Cultural and environmental awareness -as important 21st Century skills for our students. This project provides our students with authentic experiences to apply skills acquired across subjects using approaches such as Inquiry-Based Learning & Thinking Skills. A day known as Totally Outrageous Day (TOD) is designated annually for Primary 3 to Primary 5 students to showcase the products of their integrated project work.   Traditional Asian Medicine (TAM) is the Mother Tongue Language school-based curriculum designed to allow our students to have a deeper understanding of their languages and culture through ICT mobile learning and activities conducted in our own TAM Herb Garden."
+		"Special Student Development Programmes Offered": "The 3Rs - Leader U Development programme- From Values to Action: Developing Community-based Student Leaders (LLP) is a character and leadership development programme. It focuses on 3 key attributes of leadership - Respect, Resilience, Responsibility. We believe that every child has leadership potential and can acquire leadership skills best in Values-In-Action activities. These authentic situations provide platforms for students to be nurtured as socially responsible leaders who are able to lead and serve the peers, school, community and wider community;"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -718,7 +722,66 @@
 					"Ensemble - Harmonica": "Accomplishment"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Outstanding Development Award": "Outstanding PARTNERS",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Accomplishment",
+					"Ensemble - Harmonica": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Bronze"
+				}
+			}
 		}
 	},
 	"postalCode": "768643"

@@ -94,7 +94,7 @@
 			"STEM": "Developing Application-based Learning through Food Science",
 			"Community & Youth Leadership": "Cultivating Community Champions through Youth Leadership"
 		},
-		"Special Student Development Programmes Offered": "a) The Applied Learning Programme (ALP) offered at Lower Secondary levels integrates Food Science into the formal curriculum and extends students' learning in Food and Consumer Education classes. Students carry out hands-on activities on food related investigation and learn science process skills in contextualised settings. Students then gain a broader perspective of integrated learning where skills are transferrable to future-oriented domains such as Molecular Gastronomy and Arduino programming. b) The Learning for Life Programme provides level-wide innovation and social entrepreneurship training, and also engages students in push-cart businesses with social enterprises via their CCAs. This develops their leadership in service learning so that they become active contributors and concerned citizens. c) Common School Experiences inculcate values, hone leadership skills, enhance future-readiness and nurture sense of belonging. These include lower secondary outdoor education and adventure programmes, elective modules in upper secondary and motivational and personal effectiveness programmes in Sec 4. d) Sports Education to develop the physical domain, partnerships with Keppel Nights and platforms to perform on Stage@JY to enhance aesthetics appreciation, and overseas internationalisation experiences to develop global and civic awareness, complete the holistic Junyuan educational experience."
+		"Special Student Development Programmes Offered": "a) The Applied Learning Programme (ALP) offered at Lower Secondary levels integrates Food Science into the formal curriculum and extends students' learning in Food and Consumer Education classes. Students carry out hands-on activities on food related investigation and learn science process skills in contextualised settings. Students then gain a broader perspective of integrated learning where skills are transferrable to future-oriented domains such as Molecular Gastronomy and Arduino programming. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -400,7 +400,70 @@
 					"Npcc (Land)": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Taekwondo (Poomsae)",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Commendation",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Ncc (Land Girls)": "Silver",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

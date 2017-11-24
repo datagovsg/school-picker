@@ -22,7 +22,11 @@
 			"MR SHASHIDARAN S/O KANESON"
 		],
 		"School Vision": "St Andrew's Village: Home of Servant Leaders who bring life to the nations",
-		"School Mission": "Making Lives, Waking Hearts To Serve the Coming Days Family   Society   Eternity",
+		"School Mission": [
+			"Making Lives, Waking Hearts",
+			"To Serve the Coming Days",
+			"Family   Society   Eternity"
+		],
 		"School Philosophy, Culture and Ethos": "As a mission school, St Andrew's Sec provides a holistic and values-based education to nurture young men to become servant leaders upholding WISE and TRUE values of St Andrew's Village. It is our belief that no one comes to our school by chance. Growing boys to become men requires our constant focus on three strategic thrusts : Empowering learning : Building self-directed learners who excel in their academic pursuits. Serving and Belonging : Leveraging on their strong sense of belonging, we nurture the boys with a desire to serve their community and nation. Every Boy Aspiring : We help bring out the best in the boys in their talents, skills, character and leadership development.",
 		"Type of School": "GOVERNMENT-AIDED SCH / BOYS' SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -1071,7 +1075,102 @@
 					"St John Ambulance Brigade": "Silver"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Cricket",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"4th",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Drama - English": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Silver",
+					"Scout (Unit 1)": "Silver",
+					"St John Ambulance Brigade": "Silver"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

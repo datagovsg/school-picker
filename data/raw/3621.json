@@ -22,7 +22,12 @@
 			"MR SNG CHIN SENG"
 		],
 		"School Vision": "Grateful, Respectful and Compassionate Canberrans",
-		"School Mission": "Care. Aspire. Nurture. We care for our students like our own children. We aspire to give our best in all we do. We nurture grateful, respectful and compassionate Canberrans.",
+		"School Mission": [
+			"Care. Aspire. Nurture.",
+			"We care for our students like our own children.",
+			"We aspire to give our best in all we do.",
+			"We nurture grateful, respectful and compassionate Canberrans."
+		],
 		"School Philosophy, Culture and Ethos": "Values education is of utmost importance to us. As such we have aligned our programmes to the school values, \"Gratitude, Respect and Compassion\" through Character and Citizenship Education as well as service learning programmes. We aim to develop Canberrans to be grateful children, respectful learners and compassionate citizens. In line with our motto, \"Challenge, Conquer, Contribute\", we seek to create opportunities for our students to gather valuable insights that will guide them in their life journey. This will be a lasting legacy we leave our students even after they have graduated.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -95,7 +100,7 @@
 			"Aesthetics": "Digital Media in Visual Arts",
 			"Community & Youth Leadership": "Active Holistic Health Advocates (AHHAs) Championing Efforts towards a Healthier Community"
 		},
-		"Special Student Development Programmes Offered": "Canberra Secondary offers a rigorous academic programme and a comprehensive range of Character and Citizenship Education (CCE) programmes that are well-aligned to MOE's Framework for 21st CC skills.  The school develops students to be grateful, respectful and compassionate, by providing students opportunities to serve the community alongside teachers on a regular basis as part of their CCA programme. Furthermore, our Global Canberran Programme, involving Secondary Three students, aims to inculcate the value of compassion and develop students to be responsible and confident citizens that contribute actively to the global community.  Our Applied Learning Programme (ALP) # Digital Media in Visual Arts # builds upon our past strength in photography and videography. It is designed to equip our students with a balance between technical skills mastery and appreciation for the arts. All Lower Secondary students go through a baseline curriculum. Students who display aptitude and interest will be stretched further through the Digital Media in Visual Arts CCA. Through collaboration with industry partners, the ALP fosters learning in authentic settings with focus on integration of visual arts and design. The deep and broad exposure through project assignments and competitions gives our students the opportunity to identify their aptitudes and interests and make informed decisions on their further education and career. Our Learning for Life Programme (LLP) # Active Holistic Health Advocates (AHHAs) Championing Efforts towards a Healthier Community # adopts a whole-school and integrated approach in developing our students' holistic health. Our students are equipped with important values, knowledge and skills so that they become responsible and concerned citizens who are morally upright and can take on active roles at home, in school and the community. This enables them to contribute towards building a more pleasant and healthier environment and society."
+		"Special Student Development Programmes Offered": "Canberra Secondary offers a rigorous academic programme and a comprehensive range of Character and Citizenship Education (CCE) programmes that are well-aligned to MOE's Framework for 21st CC skills. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -520,7 +525,67 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2017": {}
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold",
+					"Ncc (Sea)": "Silver",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Silver"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {
