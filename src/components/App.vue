@@ -26,7 +26,7 @@
 
 <script>
 import NavView from './NavView'
-import {Mobile as FilterViewMobile} from './FilterView'
+import FilterViewMobile from './FilterView/Mobile'
 
 export default {
   data () {

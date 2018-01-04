@@ -6,8 +6,8 @@
       </big>
       <big class="filter-title text-primary text-bold">FILTERS</big>
       <div class="tab-list">
-        <SchoolLevelTab />
-        <LocationTab @expand="openModal" />
+        <SchoolLevelTab @expand="openModal" />
+        <component :is="DynamicTab" @expand="openModal" />
         <CcaTab @expand="openModal" />
         <MoreOptionsTab @expand="openModal" />
       </div>
@@ -23,15 +23,26 @@
 </template>
 
 <script>
-import SchoolLevelTab from './SchoolLevelTab'
-import LocationTab from './LocationTab'
-import LocationModal from './LocationModal'
-import CcaTab from './CcaTab'
-import CcaModal from './CcaModal'
-import MoreOptionsTab from './MoreOptionsTab'
-import MoreOptionsModal from './MoreOptionsModal'
+import SchoolLevelTab from './Tab/SchoolLevel'
+import LocationTab from './Tab/Location'
+import PsleTab from './Tab/PSLE'
+import L1R5Tab from './Tab/L1R5'
+import CcaTab from './Tab/Cca'
+import MoreOptionsTab from './Tab/MoreOptions'
+
+import LocationModal from './Modal/Location'
+import CcaModal from './Modal/Cca'
+import MoreOptionsModal from './Modal/MoreOptions'
 
 export default {
+  computed: {
+    DynamicTab () {
+      const schoolLevel = this.$store.state.schoolLevel.selected
+      if (schoolLevel === 'S' || schoolLevel === 'T') return 'PsleTab'
+      if (schoolLevel === 'J') return 'L1R5Tab'
+      return 'LocationTab'
+    }
+  },
   methods: {
     openModal (id) {
       this.$refs[id].$children[0].open()
@@ -41,6 +52,8 @@ export default {
     SchoolLevelTab,
     LocationTab,
     LocationModal,
+    PsleTab,
+    L1R5Tab,
     CcaTab,
     CcaModal,
     MoreOptionsTab,

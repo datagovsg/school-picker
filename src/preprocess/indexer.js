@@ -21,7 +21,9 @@ export function indexSchoolData () {
     'ccas',
     'specialNeeds',
     'studentCare',
-    'uniqueCcas'
+    'uniqueCcas',
+    'psleAggregate',
+    'l1r5Aggregate'
   ])
 
   const result = []

@@ -46,11 +46,8 @@ import {mapState, mapGetters} from 'vuex'
 import sortBy from 'lodash/sortBy'
 import {toSVY21} from 'sg-heatmap/dist/helpers/geometry'
 
-import CardForPrimary from './CardForPrimary'
-import CardForPreschool from './CardForPreschool'
-import SearchBox from '../FilterView/TabsForPrimary/SearchBox'
-
-const ListCard = process.env.VERSION === 'preschool' ? CardForPreschool : CardForPrimary
+import ListCard from './ListCard'
+import SearchBox from '../FilterView/SearchBox'
 
 export default {
   name: 'ListView',

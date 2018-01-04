@@ -1,6 +1,12 @@
 import {collectValues} from 'helpers/util'
 
-const modules = [
+const singleInputs = [
+  'schoolLevel',
+  'psle',
+  'l1r5'
+]
+
+const multiInputs = [
   'planningAreas',
   'ccasOffered',
   'distinctiveProgrammes',
@@ -8,7 +14,7 @@ const modules = [
   'specialNeeds'
 ]
 
-export function getFilteredForPrimary (state, getters) {
+export function getFiltered (state, getters) {
   return state.schoolList
     .filter(school => {
       let match = true
@@ -49,16 +55,28 @@ export function getFilteredForPrimary (state, getters) {
           else if (type === 'COED') return 'Co-ed School' in school.schoolType
         })
       }
+      if (state.psle.selected) {
+        const selected = +state.psle.selected
+        const selectedRange = {lower: selected, upper: selected + 9}
+        match = match && school.psleAggregate.some(range => {
+          return range.lower <= selectedRange.upper &&
+            Math.min(range.lower + 45, range.upper) >= selectedRange.lower
+        })
+      }
+      if (state.l1r5.selected) {
+        const selected = +state.l1r5.selected
+        match = match && school.l1r5Aggregate.some(range => range.upper >= selected)
+      }
       return match
     })
     .map(school => school.id)
 }
 
-export function getSuggestedForPrimary (state, getters) {
+export function getSuggested (state, getters) {
   return []
 }
 
-export function importOptionsForPrimary (context, query) {
+export function importOptions (context, query) {
   if (query.shortlist) {
     const bookmarked = context.state.schoolList.map(school => school.id)
       .filter(id => query.shortlist.split(',').indexOf(id) > -1)
@@ -67,16 +85,18 @@ export function importOptionsForPrimary (context, query) {
     context.commit('setBookmarked', [])
   }
 
-  if (query.schoolLevel) {
-    const match = query.schoolLevel.toUpperCase()
-    const updated = collectValues(context.state.schoolLevel.options)
-      .indexOf(match) > -1 ? match : ''
-    context.commit('updateSelected', {module: 'schoolLevel', updated})
-  } else {
-    context.commit('updateSelected', {module: 'schoolLevel', updated: null})
-  }
+  singleInputs.forEach(module => {
+    if (query[module]) {
+      const match = query[module].toUpperCase()
+      const updated = collectValues(context.state[module].options)
+        .indexOf(match) > -1 ? match : ''
+      context.commit('updateSelected', {module, updated})
+    } else {
+      context.commit('updateSelected', {module, updated: null})
+    }
+  })
 
-  modules.forEach(module => {
+  multiInputs.forEach(module => {
     if (query[module]) {
       const matches = query[module].split(',')
         .map(str => str.trim().toUpperCase())
@@ -101,16 +121,21 @@ export function importOptionsForPrimary (context, query) {
   }
 }
 
-export function exportOptionsForPrimary (context) {
+export function exportOptions (context) {
   const query = {}
-  if (context.state.schoolLevel.selected) {
-    query.schoolLevel = context.state.schoolLevel.selected
-  }
-  modules.forEach(module => {
+
+  singleInputs.forEach(module => {
+    if (context.state[module].selected) {
+      query[module] = context.state[module].selected
+    }
+  })
+
+  multiInputs.forEach(module => {
     if (context.state[module].selected.length > 0) {
       query[module] = context.state[module].selected.join(',')
     }
   })
+
   if (context.state.bookmarked.length > 0) {
     query.shortlist = context.state.bookmarked.join(',')
   }

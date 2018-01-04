@@ -1,14 +1,15 @@
 <template>
-  <div class="item multiple-lines school-level-tab">
+  <div class="item multiple-lines psle-tab">
     <div class="item-content">
-      <strong><small class="item-title text-primary">EDUCATION LEVEL</small></strong>
+      <strong><small class="item-title text-primary">EXPECTED AGGREGATE</small></strong>
       <q-select class="block"
         :class="value ? 'text-primary' : 'text-grey'"
         ref="select"
         type="list"
         :value="value"
         :options="options"
-        @input="onInput" />
+        @input="onInput"
+        placeholder="None selected" />
     </div>
   </div>
 </template>
@@ -19,14 +20,18 @@ import {mapState} from 'vuex'
 export default {
   computed: {
     ...mapState({
-      options: state => state.schoolLevel.options,
-      value: state => state.schoolLevel.selected
-    })
+      _options: state => state.psle.options,
+      value: state => state.psle.selected
+    }),
+    options () {
+      if (this.value) return [{label: 'None', value: null}, ...this._options]
+      else return this._options
+    }
   },
   methods: {
     onInput (value) {
       if (value !== this.value) {
-        this.$store.commit('updateSelected', {module: 'schoolLevel', updated: value})
+        this.$store.commit('updateSelected', {module: 'psle', updated: value})
         this.$store.dispatch('exportOptions').then(query => this.$router.push({query}))
       }
     }
@@ -35,9 +40,13 @@ export default {
 </script>
 
 <style lang="scss">
-.school-level-tab {
+.psle-tab {
   .q-picker-textfield::after {
     content: url('/assets/Dropdown.svg')!important;
+  }
+
+  .q-picker-textfield .q-picker-textfield-value {
+    color: inherit;
   }
 }
 </style>
