@@ -12,8 +12,6 @@ Quasar.theme.set('mat')
 Platform.has.popstate = false
 Vue.use(Quasar)
 
-console.log('APP VERSION:', process.env.VERSION || 'primary')
-
 let storeUpdated = false
 
 router.beforeEach((to, from, next) => {

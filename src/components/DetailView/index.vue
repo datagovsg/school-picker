@@ -16,10 +16,7 @@
 import {mapState, mapActions} from 'vuex'
 import {toSVY21} from 'sg-heatmap/dist/helpers/geometry'
 
-import CardForPrimary from './CardForPrimary'
-import CardForPreschool from './CardForPreschool'
-
-const DetailCard = process.env.VERSION === 'preschool' ? CardForPreschool : CardForPrimary
+import DetailCard from './DetailCard'
 
 export default {
   name: 'DetailView',

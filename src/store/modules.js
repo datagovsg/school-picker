@@ -367,3 +367,44 @@ export const extraOptions = {
     }
   }
 }
+
+export const psle = {
+  state: {
+    options: [
+      {label: '100-109', value: '100'},
+      {label: '110-119', value: '110'},
+      {label: '120-129', value: '120'},
+      {label: '130-139', value: '130'},
+      {label: '140-149', value: '140'},
+      {label: '150-159', value: '150'},
+      {label: '160-169', value: '160'},
+      {label: '170-179', value: '170'},
+      {label: '180-189', value: '180'},
+      {label: '190-199', value: '190'},
+      {label: '200-209', value: '200'},
+      {label: '210-219', value: '210'},
+      {label: '220-229', value: '220'},
+      {label: '230-239', value: '230'},
+      {label: '240-249', value: '240'},
+      {label: '250-259', value: '250'},
+      {label: '260-269', value: '260'},
+      {label: '270-279', value: '270'}
+    ],
+    selected: null
+  }
+}
+
+export const l1r5 = {
+  state: {
+    options: [
+      {label: '4 & below', value: '4'},
+      {label: '5-6', value: '6'},
+      {label: '7-8', value: '8'},
+      {label: '9-10', value: '10'},
+      {label: '11-12', value: '12'},
+      {label: '13-14', value: '14'},
+      {label: '15-16', value: '16'}
+    ],
+    selected: null
+  }
+}
