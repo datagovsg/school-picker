@@ -12,10 +12,10 @@
 <script>
 import {mapActions} from 'vuex'
 import {Dialog} from 'quasar-framework'
-import SchoolLevelSlide from './SchoolLevelSlide'
-import PostalCodeSlide from './PostalCodeSlide'
-import CcaSlide from './CcaSlide'
-import OthersSlide from './OthersSlide'
+import SchoolLevelSlide from './Slide/SchoolLevel'
+import PostalCodeSlide from './Slide/PostalCode'
+import CcaSlide from './Slide/Cca'
+import OthersSlide from './Slide/Others'
 
 export default {
   methods: {

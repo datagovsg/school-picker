@@ -27,8 +27,11 @@ module.exports = {
       }
     }, {
       test: /\.js$/,
+      exclude: /node_modules/,
       loader: 'babel-loader',
-      exclude: /node_modules/
+      options: {
+        babelrc: path.join(__dirname, '/src/components/.babelrc')
+      }
     }, {
       test: /\.styl$/,
       use: ExtractTextPlugin.extract({
