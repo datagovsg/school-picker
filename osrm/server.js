@@ -5,19 +5,18 @@ const OSRM = require('osrm')
 const app = express()
 const osrm = new OSRM(path.join(__dirname, 'config/singapore.osrm'))
 
-const schools = require('./data/schools.json')
-
-const optionsGetter = {
-  school: getOptions(schools)
+const data = {
+  school: require('./data/school.json'),
+  childcare: require('./data/childcare.json')
 }
 
-const resultFormatter = {
-  school: formatResult(schools)
-}
+const optionsGetter = transformSet(data, getOptions)
+const resultFormatter = transformSet(data, formatResult)
 
 app.get('/:client', function (req, res) {
-  if (['school'].indexOf(req.params.client) < 0) {
+  if (!(req.params.client in data)) {
     res.sendStatus(404)
+    return
   }
 
   const location = validateCoordinates(req.query)
@@ -73,4 +72,12 @@ function formatResult (data) {
     })
     return travelTime
   }
+}
+
+function transformSet (data, transform) {
+  const transformed = {}
+  Object.keys(data).forEach(key => {
+    transformed[key] = transform(data[key])
+  })
+  return transformed
 }

@@ -46,7 +46,7 @@ module.exports = {
     new ExtractTextPlugin('bundle.css'),
     new webpack.DefinePlugin({
       'process.env': {
-        VERSION: JSON.stringify(process.env.VERSION),
+        ROUTING_SERVER_URL: JSON.stringify(process.env.ROUTING_SERVER_URL),
         GA_TRACKING_CODE: JSON.stringify(process.env.GA_TRACKING_CODE),
         NODE_ENV: JSON.stringify('production')
       }

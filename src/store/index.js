@@ -8,7 +8,7 @@ import {collectValues, optionsSelected} from 'helpers/util'
 import * as modules from './modules'
 
 const ROUTING_SERVER = process.env.NODE_ENV === 'production'
-  ? 'https://osrm-qkursnkhdv.now.sh' : 'http://localhost:5000'
+  ? process.env.ROUTING_SERVER_URL : 'http://localhost:5000'
 
 import {
   getFiltered as filtered,
