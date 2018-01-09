@@ -33,12 +33,13 @@ export default {
     }
   },
   methods: {
-    ...mapMutations(['setPostalCode', 'setLocation']),
+    ...mapMutations(['setPostalCode', 'setLocation', 'setTravelTime']),
     ...mapActions(['locateAddress', 'exportOptions']),
     ...mapActions('homeSchoolDistance', ['queryOnemap']),
     reset () {
       this.setPostalCode(null)
       this.setLocation(null)
+      this.setTravelTime(null)
       this.exportOptions().then(query => this.$router.replace({query}))
     },
     onKeyEnter () {
