@@ -7,7 +7,8 @@ const osrm = new OSRM(path.join(__dirname, 'config/singapore.osrm'))
 
 const data = {
   school: require('./data/school.json'),
-  childcare: require('./data/childcare.json')
+  childcare: require('./data/childcare.json'),
+  clinic: require('./data/clinic.json')
 }
 
 const optionsGetter = transformSet(data, getOptions)

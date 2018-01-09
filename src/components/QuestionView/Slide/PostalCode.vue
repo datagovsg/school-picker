@@ -47,9 +47,7 @@ export default {
         // if valid postal code is provided
         this.locateAddress(this.value)
           .then(match => {
-            if (['P', 'F'].indexOf(this.$store.state.schoolLevel.selected) > -1) {
-              this.queryOnemap({postalCode: this.value, blkNo: match.BLK_NO})
-            }
+            this.queryOnemap({postalCode: this.value, blkNo: match.BLK_NO})
             return this.exportOptions()
           })
           .then(query => this.$router.replace({query}))

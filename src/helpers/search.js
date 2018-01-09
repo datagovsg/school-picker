@@ -132,7 +132,7 @@ export function documentFrequency (data, sortFunction) {
 export function documentMatch (data) {
   const result = {}
   Object.keys(data).forEach(doc => {
-    if (typeof data[doc] === 'string') {
+    if (data[doc] == null || typeof data[doc] === 'boolean' || typeof data[doc] === 'string') {
       const term = data[doc]
       result[term] = result[term] || []
       result[term].push(doc)
