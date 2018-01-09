@@ -4,9 +4,9 @@ public/bundle.css*
 dist/
 doc/
 
-src/osrm/data/*
-!src/osrm/data/*.pbf
-!src/osrm/data/*.lua
+osrm/config/*
+!osrm/config/*.pbf
+!osrm/config/*.lua
 
 data/forwardIndex.json
 data/invertedIndex.json

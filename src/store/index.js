@@ -3,12 +3,12 @@ import Vuex from 'vuex'
 import pull from 'lodash/pull'
 import uniq from 'lodash/uniq'
 
-// import {toSVY21} from 'sg-heatmap/dist/helpers/geometry'
 import {collectValues, optionsSelected} from 'helpers/util'
 
 import * as modules from './modules'
 
-const ROUTING_SERVER = process.env.NODE_ENV === 'production' ? '' : 'http://localhost:5000/school'
+const ROUTING_SERVER = process.env.NODE_ENV === 'production'
+  ? 'https://osrm-qkursnkhdv.now.sh' : 'http://localhost:5000'
 
 import {
   getFiltered as filtered,
@@ -80,7 +80,6 @@ const store = new Vuex.Store({
     fetchTravelTime (context, lnglat) {
       context.commit('setTravelTime', null)
       if (!lnglat) return
-      // const url = window.location.origin + '/travel-time?location=' + toSVY21(lnglat).join(',')
       const url = ROUTING_SERVER + '/school?coordinates=' + lnglat.join(',')
       return window.fetch(url)
         .then(res => res.json())
