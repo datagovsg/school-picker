@@ -31,7 +31,8 @@ module.exports = {
       exclude: /node_modules/,
       loader: 'babel-loader',
       options: {
-        babelrc: path.join(__dirname, '/src/components/.babelrc')
+        babelrc: false,
+        extends: path.join(__dirname, 'src/components/.babelrc')
       }
     }, {
       test: /\.styl$/,
@@ -48,7 +49,8 @@ module.exports = {
       'process.env': {
         ROUTING_SERVER_URL: JSON.stringify(process.env.ROUTING_SERVER_URL),
         GA_TRACKING_CODE: JSON.stringify(process.env.GA_TRACKING_CODE),
-        NODE_ENV: JSON.stringify('production')
+        NODE_ENV: JSON.stringify('production'),
+        VERSION: JSON.stringify('school')
       }
     }),
     new webpack.optimize.UglifyJsPlugin({sourceMap: true})

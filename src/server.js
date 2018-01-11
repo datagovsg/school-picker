@@ -7,7 +7,7 @@ import fallback from 'express-history-api-fallback'
 
 import {onemapApi} from './helpers/api'
 
-import schoolList from '../public/schoolList'
+import schoolList from '../public/data/entityList'
 
 const app = express()
 

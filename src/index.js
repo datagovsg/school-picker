@@ -52,7 +52,7 @@ router.replace = function (...args) {
 }
 
 Loading.show()
-store.dispatch('fetchSchoolList').then(schoolList => {
+store.dispatch('fetchEntityList').then(entityList => {
   Loading.hide()
   window.vm = new Vue({
     el: '#app',

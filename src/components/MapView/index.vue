@@ -20,7 +20,7 @@ export default {
     selectedTab: String
   },
   computed: {
-    ...mapState(['schoolList', 'bookmarked', 'location']),
+    ...mapState(['entityList', 'bookmarked', 'location']),
     ...mapState({
       schoolLevel: state => state.schoolLevel.selected,
       homeSchoolDistance: state => state.homeSchoolDistance}
@@ -49,7 +49,7 @@ export default {
         return 'default'
       }
 
-      return this.schoolList.map(school => {
+      return this.entityList.map(school => {
         // If a school is selected, highlight the school and provide school details
         if (school.id === this.schoolId) {
           return 'focused'
@@ -158,7 +158,7 @@ export default {
     this.map.zoomControl.setPosition('topright')
     this.map.attributionControl.setPrefix('')
 
-    const markers = this.schoolList.map(school => {
+    const markers = this.entityList.map(school => {
       const [lng, lat] = school.coordinates
       return L.marker([lat, lng], {icon: L.divIcon()})
         .bindTooltip(school.name, {direction: 'top', offset: [0, -6]})
@@ -217,7 +217,7 @@ export default {
 
     this.$watch('hovered', function (hovered) {
       markers.forEach((marker, i) => {
-        const isHovered = this.schoolList[i].id === this.hovered
+        const isHovered = this.entityList[i].id === this.hovered
         if (isHovered) marker.openTooltip()
         else marker.closeTooltip()
       })
@@ -252,7 +252,7 @@ export default {
 
     this.$watch('schoolId', function (id) {
       if (id) {
-        const [lng, lat] = this.schoolList.filter(school => school.id === id)[0].coordinates
+        const [lng, lat] = this.entityList.filter(school => school.id === id)[0].coordinates
         this.map.flyTo([lat, lng], 15)
         this.$emit('hover', id)
       } else {

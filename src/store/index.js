@@ -21,8 +21,8 @@ Vue.use(Vuex)
 
 const store = new Vuex.Store({
   state: {
-    schoolList: null,
-    schoolDetail: {},
+    entityList: null,
+    entityDetail: {},
     travelTime: null,
     bookmarked: [],
     postalCode: null,
@@ -38,11 +38,11 @@ const store = new Vuex.Store({
     }
   },
   mutations: {
-    setSchoolList (state, arr) {
-      state.schoolList = arr
+    setEntityList (state, arr) {
+      state.entityList = arr
     },
-    addSchoolDetail (state, obj) {
-      Vue.set(state.schoolDetail, obj.id, obj)
+    addEntityDetail (state, obj) {
+      Vue.set(state.entityDetail, obj.id, obj)
     },
     setTravelTime (state, obj) {
       state.travelTime = obj
@@ -61,26 +61,26 @@ const store = new Vuex.Store({
     }
   },
   actions: {
-    fetchSchoolList (context) {
-      return window.fetch(window.location.origin + '/schoolList.json')
+    fetchEntityList (context) {
+      return window.fetch(window.location.origin + '/data/entityList.json')
         .then(res => res.json())
         .then(json => {
-          context.commit('setSchoolList', json)
+          context.commit('setEntityList', json)
           return json
         })
     },
-    fetchSchoolDetail (context, id) {
-      return window.fetch(window.location.origin + '/data/schools/' + id + '.json')
+    fetchEntityDetail (context, id) {
+      return window.fetch(window.location.origin + '/data/entities/' + id + '.json')
         .then(res => res.json())
         .then(json => {
-          context.commit('addSchoolDetail', json)
+          context.commit('addEntityDetail', json)
           return json
         })
     },
     fetchTravelTime (context, lnglat) {
       context.commit('setTravelTime', null)
       if (!lnglat) return
-      const url = ROUTING_SERVER + '/school?coordinates=' + lnglat.join(',')
+      const url = `${ROUTING_SERVER}/${process.env.VERSION}?coordinates=${lnglat.join(',')}`
       return window.fetch(url)
         .then(res => res.json())
         .then(json => {
