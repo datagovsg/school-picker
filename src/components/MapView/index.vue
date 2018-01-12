@@ -158,10 +158,15 @@ export default {
     this.map.zoomControl.setPosition('topright')
     this.map.attributionControl.setPrefix('')
 
+    const tooltip = L.tooltip({
+      direction: 'top',
+      offset: [0, -6],
+      permanent: true
+    })
+
     const markers = this.schoolList.map(school => {
       const [lng, lat] = school.coordinates
       return L.marker([lat, lng], {icon: L.divIcon()})
-        .bindTooltip(school.name, {direction: 'top', offset: [0, -6]})
         .on('click', () => {
           if (Platform.is.mobile) this.$emit('hover', school.id)
           else this.$emit('focus', school.id)
@@ -216,10 +221,12 @@ export default {
     }, {immediate: true})
 
     this.$watch('hovered', function (hovered) {
-      markers.forEach((marker, i) => {
-        const isHovered = this.schoolList[i].id === this.hovered
-        if (isHovered) marker.openTooltip()
-        else marker.closeTooltip()
+      this.schoolList.forEach((school, i) => {
+        if (school.id === this.hovered) {
+          markers[i].bindTooltip(tooltip).setTooltipContent(school.name)
+        } else {
+          markers[i].unbindTooltip(tooltip)
+        }
       })
     }, {immediate: true})
 
