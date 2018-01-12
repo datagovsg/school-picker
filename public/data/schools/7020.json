@@ -22,7 +22,8 @@
 		"Vice Principal": [
 			"Mdm Goh Poh Kenn",
 			"Mr Dominic Ang Swee Keng",
-			"Mdm Loh Yoon Lin"
+			"Mdm Loh Yoon Lin",
+			"Mr Leonard Tan Soon Teck"
 		],
 		"School Vision": "A mission school of choice, recognised for values-centred education and learning driven by passion, that nurtures persons who make a difference to society.",
 		"School Mission": "Enabling youth in a Lasallian community to learn how to learn and to learn how to live; empowering them to become men and women of integrity and men and women for others.",
@@ -60,43 +61,7 @@
 		"Physics",
 		"Tamil"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Badminton",
-			"Canoeing/Rowing/Dragon Boat",
-			"Cross Country",
-			"Fencing",
-			"Football",
-			"Hockey",
-			"Judo",
-			"Rugby",
-			"Sailing",
-			"Squash",
-			"Table Tennis",
-			"Tennis",
-			"Track & Field"
-		],
-		"Uniformed Groups": [
-			"Ncc (Land)",
-			"Ncc(Air)",
-			"Npcc",
-			"Scouts",
-			"St. John Brigade"
-		],
-		"Visual and Performing Arts": [
-			"Band - Pipe",
-			"Drama Club",
-			"Guitar Ensemble",
-			"Sji Military Band",
-			"Sji Pipe Band",
-			"Sji Vocal Ensemble"
-		],
-		"Clubs & Societies": [
-			"Legion Of Mary",
-			"St Vincent De Paul Society",
-			"Young Christian Students"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Integrated Programme - Dual Track School (offers both IP and O Levels)"
@@ -613,76 +578,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Sailing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Sailing (Byte)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Sailing (Optimist)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Taekwondo (Kyorugi)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
 					"category": "Badminton",
 					"subCategory": [
 						"Zone",
@@ -800,6 +695,76 @@
 						"'C' Div"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Sailing (Byte)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Sailing (Optimist)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Taekwondo (Kyorugi)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -1017,16 +982,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
 					"category": "NCC (Air Boys)",
 					"award": "Gold"
 				},
@@ -1038,6 +993,16 @@
 				{
 					"year": "2017",
 					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "St John Ambulance Brigade",
 					"award": "Gold"
 				}
 			]
@@ -1228,12 +1193,12 @@
 	],
 	"postalCode": "308274",
 	"coordinates": [
-		103.827990076997,
-		1.32305147651579
+		103.828498974985,
+		1.32365313490153
 	],
 	"svy21": [
-		27406.990938927,
-		33921.8278959282
+		27463.6263318359,
+		33988.3560766354
 	],
 	"planningArea": "NV",
 	"neighbours": [

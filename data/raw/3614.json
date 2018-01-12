@@ -18,10 +18,10 @@
 	"GeneralInformation": {
 		"Principal": "MISS FOONG LAI LEONG",
 		"Vice Principal": [
-			"MR QUAH SIEW KIN",
 			"MDM YIP SUN YEE",
 			"MR SIM HOW CHONG"
 		],
+		"Vice Principal (Admin)": "MR PHUA CHENG PENG",
 		"School Vision": "Premier School, Serving Community",
 		"School Mission": "Nurturing The Whole Fuhuanite",
 		"School Philosophy, Culture and Ethos": "Fuhua Secondary School was established in the year 2000. We are committed to nurturing the whole Fuhuanite, who is Outstanding, Upstanding and Ready for the Future (OUR Fuhuanites). To this end, the school provides opportunities for all students through a rigorous academic curriculum as well as a broad suite of co-curricular programmes - delivered and facilitated by caring teachers who actively promote our school RISE values (Respect, Integrity, Service and Excellence) and character-building. Fuhua aims to grow a positive school culture based on Values, Collaboration and Learning, and within this context seeks to develop thinking and thoughtful Fuhuanites who are prepared for the tests of life.",
@@ -50,7 +50,6 @@
 		"MALAY",
 		"MATHEMATICS",
 		"MUSIC",
-		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"SCIENCE",
 		"SCIENCE (PHY, CHEM)",
@@ -1111,17 +1110,6 @@
 						"'C' Div"
 					],
 					[
-						"Shooting (Air Pistol)",
-						"-",
-						"-",
-						"-",
-						"4th",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
 						"Shooting (Air Rifle)",
 						"4th",
 						"-",
@@ -1142,17 +1130,28 @@
 						"3rd",
 						"3rd",
 						"4th"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
 					]
 				],
 				"SYF Arts Presentation": {
 					"Art - Category A": "Recognition(Sm)",
 					"Art - Category B": "Recognition",
 					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
 					"Choir": "Accomplishment",
 					"Dance - Chinese": "Distinction",
 					"Dance - Malay": "Accomplishment",
-					"Drama - English": "Accomplishment",
-					"Chinese Orchestra-Full Orchestra": "Accomplishment"
+					"Drama - English": "Accomplishment"
 				},
 				"Best Unit Award": {
 					"Ncc (Land Boys)": "Gold",

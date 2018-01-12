@@ -19,7 +19,10 @@
 	"bus": "26 , 222 , 222P , 2 , 7 , 24 , 25 , 28 , 30 , 30E , 32 , 33 , 40 , 67 , 229 , 401 , 854 , 45 , 60 , 87 ",
 	"GeneralInformation": {
 		"Principal": "Mr Ang Chee Seng",
-		"Vice Principal": "Mr Cheong Huei Leonard",
+		"Vice Principal": [
+			"Mr Cheong Huei Leonard",
+			"Mdm Chew Siang Jiun"
+		],
 		"School Vision": "A School of Distinction in Learning and Service",
 		"School Mission": "To nurture and develop our students to be strong and upright in character, passionate about learning and innovative in spirit so as to serve the community",
 		"School Philosophy, Culture and Ethos": "Ping Yi is well-known for its Restorative Practices (RP), where character development and positive relationships are of paramount importance. We believe in the justice of restoration, participatory learning and responsible decision-making. Our teachers engage our students through relational and innovative teaching strategies, and nurture them through their adolescence, better preparing them for life. The team of very dedicated staff believes that creative and fun ways help students learn more effectively. Lessons are crafted in an exciting, experiential, authentic and meaningful way.  By believing in our students, creating opportunities for them to discover their talents, and developing their abilities to the fullest, the teachers give them confidence to dare to dream and the courage to turn their dreams into reality.  This has led to very good educational outcomes over the years.",
@@ -476,8 +479,8 @@
 		1.327016727265
 	],
 	"svy21": [
-		37724.7424391946,
-		34360.4560187515
+		37724.7424391948,
+		34360.4560187514
 	],
 	"planningArea": "BD",
 	"neighbours": [

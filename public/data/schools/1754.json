@@ -46,7 +46,6 @@
 			"Choir",
 			"Dance - Chinese",
 			"Dance - Malay",
-			"Ensemble - Guzheng",
 			"Info-Comm Club"
 		]
 	},
@@ -231,6 +230,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
 					"category": "Dance - Malay",
 					"award": "Distinction"
 				},
@@ -238,11 +242,6 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -291,12 +290,12 @@
 	},
 	"postalCode": "518902",
 	"coordinates": [
-		103.950947303,
-		1.36832804896
+		103.950648583066,
+		1.36842577055315
 	],
 	"svy21": [
-		41090.67,
-		38928.6
+		41057.4254222116,
+		38939.4039506223
 	],
 	"planningArea": "PR",
 	"neighbours": [

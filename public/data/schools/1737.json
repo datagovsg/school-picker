@@ -18,8 +18,11 @@
 	],
 	"bus": "3 , 15 , 39 , 53 , 81 , 88 , 89 , 357 , 403 , 518 ",
 	"GeneralInformation": {
-		"Principal": "Mdm Fan Yuen Fun Cassie",
-		"Vice Principal": "Mr Kenny Raphael Reyes",
+		"Principal": "Mdm Chua Pei Pei",
+		"Vice Principal": [
+			"Mr Kenny Raphael Reyes",
+			"Mrs Esther See-Ling Szengen"
+		],
 		"Vice Principal (Admin)": "Mdm Rosewati Binte Sukiman",
 		"School Vision": "Where Potential Becomes Reality",
 		"School Mission": "Providing a Holistic Education",
@@ -380,12 +383,12 @@
 	},
 	"postalCode": "518866",
 	"coordinates": [
-		103.945218619,
-		1.37512280046
+		103.94518639642,
+		1.3751228004643
 	],
 	"svy21": [
-		40453.1,
-		39679.9
+		40449.551104525395,
+		39679.973550289564
 	],
 	"planningArea": "PR",
 	"neighbours": [

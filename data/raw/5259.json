@@ -17,7 +17,10 @@
 	"bus": "945",
 	"GeneralInformation": {
 		"Principal": "MISS CECILIA LIM SEOK CHENG",
-		"Vice Principal": "MR ANDY MICKEY CHOONG TEK CHOY",
+		"Vice Principal": [
+			"MR ANDY MICKEY CHOONG TEK CHOY",
+			"MRS SHANTHI SURAJ NAIR"
+		],
 		"Vice Principal (Admin)": "MR CHAN KEN YAN MICHAEL",
 		"School Vision": "Caring Hearts, Passionate Learners; Lasallians in service of God, family and nation",
 		"School Mission": "Enabling our children to learn how to learn and to learn how to live,to become persons of integrity and persons for others in God's service",
@@ -72,8 +75,7 @@
 		"Clubs & Societies": [
 			"Infocomm (Media) Club",
 			"Infocomm (Robotics)",
-			"Science & Environmental Club",
-			"St Vincent De Paul Society"
+			"Science & Environmental Club"
 		]
 	},
 	"SpecialProgrammes": {

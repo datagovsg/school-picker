@@ -31,27 +31,22 @@
 		"Affiliated Schools": "Not Applicable"
 	},
 	"SubjectOffered": [
-		"AREA STUDIES (SOUTHEAST ASIA)",
 		"ART",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
 		"DESIGN & TECHNOLOGY",
 		"ENGLISH LANGUAGE",
-		"FOOD & DESIGN",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
 		"HIGHER TAMIL",
 		"HISTORY",
-		"INQUIRY & ADVOCACY",
 		"LITERATURE(E)",
 		"MALAY",
-		"MATHEMATICS AND ADDITIONAL MATHEMATICS",
 		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
-		"SCIENCE (LOWER SECONDARY)",
 		"TAMIL"
 	],
 	"Cca": {
@@ -3360,17 +3355,6 @@
 						"-"
 					],
 					[
-						"Gymnastics (Artistic)",
-						"-",
-						"-",
-						"-",
-						"1st",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
 						"Gymnastics (Rhythmic)",
 						"-",
 						"-",
@@ -3523,6 +3507,17 @@
 						"-",
 						"-",
 						"-"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
 					]
 				],
 				"SYF Arts Presentation": {
@@ -3543,14 +3538,14 @@
 					"Ensemble - Strings": "Distinction"
 				},
 				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Gold",
 					"Girl Guides (Coy 2)": "Gold",
 					"Girl Guides (Coy 3)": "Silver",
 					"Girls' Brigade": "Gold",
 					"Ncc (Land Girls)": "Gold",
 					"Npcc (Land)": "Gold",
 					"Npcc (Sea)": "Gold",
-					"Red Cross": "Silver",
-					"Girl Guides (Coy 1)": "Gold"
+					"Red Cross": "Silver"
 				}
 			}
 		}

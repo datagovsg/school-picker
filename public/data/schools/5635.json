@@ -57,30 +57,7 @@
 		"Social Studies",
 		"Tamil"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Badminton",
-			"Rope Skipping",
-			"Sports Club",
-			"Table Tennis",
-			"Track & Field"
-		],
-		"Uniformed Groups": [
-			"Girls' Brigade"
-		],
-		"Visual and Performing Arts": [
-			"Angklung Ensemble",
-			"Art Club",
-			"Choir",
-			"Handbell Ensemble",
-			"International Dance",
-			"Media Club",
-			"String Ensemble"
-		],
-		"Clubs & Societies": [
-			"Christian Fellowship"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Sports & Outdoor Education": "Aesthetics Sports Experience @ PL",
@@ -527,11 +504,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Distinction"
 				},
@@ -543,6 +515,11 @@
 				{
 					"year": "2017",
 					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
 					"award": "Accomplishment"
 				}
 			],
@@ -572,12 +549,12 @@
 	},
 	"postalCode": "536741",
 	"coordinates": [
-		103.884978304,
-		1.34984157321
+		103.88496397321,
+		1.3498415732186
 	],
 	"svy21": [
-		33749.15,
-		36884.2
+		33747.592134563456,
+		36884.27368350039
 	],
 	"planningArea": "HG",
 	"neighbours": [

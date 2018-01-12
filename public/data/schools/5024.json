@@ -19,7 +19,10 @@
 	"bus": "76 , 132 , 165 , 166 , 169 , 265 , 268 , 269 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Teo Ching Ling",
-		"Vice Principal": "Miss Chew May",
+		"Vice Principal": [
+			"Miss Chew May",
+			"Mr Toh Kim Sing (Zhuo Jinsheng)"
+		],
 		"School Vision": "Ever Learning, Ever Glowing, Ever Abiding by the Truth of God.",
 		"School Mission": "To nurture a community of lifelong learners with Christian values to overcome challenges.",
 		"School Philosophy, Culture and Ethos": [
@@ -267,12 +270,12 @@
 	},
 	"postalCode": "579793",
 	"coordinates": [
-		103.855170727,
-		1.34938351366
+		103.85516467134,
+		1.349383513663
 	],
 	"svy21": [
-		30431.9,
-		36833.5
+		30431.263146448564,
+		36833.57371086041
 	],
 	"planningArea": "BS",
 	"neighbours": [

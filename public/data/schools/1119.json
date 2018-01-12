@@ -53,29 +53,7 @@
 		"Social Studies",
 		"Tamil"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Basketball",
-			"Netball",
-			"Sepak Takraw",
-			"Soccer",
-			"Wushu"
-		],
-		"Uniformed Groups": [
-			"Singapore Red Cross Society"
-		],
-		"Visual and Performing Arts": [
-			"Art Club",
-			"Choir",
-			"Dance - Chinese",
-			"Dance - Indian",
-			"Dance - Malay"
-		],
-		"Clubs & Societies": [
-			"New Media Club",
-			"Robotics Club"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Music & Performing Arts": "Student Development in the Arts and through the Arts"
@@ -341,12 +319,12 @@
 	},
 	"postalCode": "419529",
 	"coordinates": [
-		103.904303406,
-		1.32441670248
+		103.90428444698,
+		1.3244167024868
 	],
 	"svy21": [
-		35899.9,
-		34072.9
+		35897.82707517113,
+		34072.973657240334
 	],
 	"planningArea": "GL",
 	"neighbours": [

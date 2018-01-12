@@ -74,10 +74,10 @@ export function getPrimarySchoolLocations () {
       if (!match) return
       const coordinates = [+location.LONGITUDE, +location.LATITUDE]
       const svy21 = [+location.SCH_X_ADDR, +location.SCH_Y_ADDR]
-      Object.assign(locations[match.code], {coordinates, svy21})
+      locations[match.code] = {coordinates, svy21}
     })
 
-    fs.writeFileSync('data/locations.json', JSON.stringify(locations))
+    fs.writeFileSync('data/locations.json', JSON.stringify(locations, null, '\t'))
   }).catch(console.error)
 }
 

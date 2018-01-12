@@ -20,8 +20,8 @@
 	"GeneralInformation": {
 		"Principal": "Mrs Loh Meng Har",
 		"Vice Principal": [
-			"Miss Ng Swee Lin",
-			"Mr Gan Kok Soon Simon"
+			"Mr Gan Kok Soon Simon",
+			"Miss Tay Sze Leng"
 		],
 		"School Vision": "Joyful Learners, Gracious Citizens, Champions in Life",
 		"School Mission": "Nurturing Minds, Engaging Hearts, Building Character",
@@ -54,28 +54,7 @@
 		"Social Studies",
 		"Tamil"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Basketball",
-			"Football",
-			"Swimming",
-			"Taekwondo",
-			"Wushu"
-		],
-		"Uniformed Groups": [
-			"Brownies",
-			"Scouts"
-		],
-		"Visual and Performing Arts": [
-			"Dance - International",
-			"Digital Media Club",
-			"Ensemble - Handbell/Handchime",
-			"Ensemble - Harmonica"
-		],
-		"Clubs & Societies": [
-			"Science Club"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Sports & Outdoor Education": "Developing Champions in Life through Sports"
@@ -494,12 +473,12 @@
 	},
 	"postalCode": "689189",
 	"coordinates": [
-		103.74746537,
-		1.39385957636
+		103.7474907787,
+		1.3938595763606
 	],
 	"svy21": [
-		18445.67,
-		41751.6
+		18448.5346930794,
+		41751.673612163955
 	],
 	"planningArea": "CK",
 	"neighbours": [

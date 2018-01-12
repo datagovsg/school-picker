@@ -19,7 +19,10 @@
 	"bus": "945",
 	"GeneralInformation": {
 		"Principal": "Miss Cecilia Lim Seok Cheng",
-		"Vice Principal": "Mr Andy Mickey Choong Tek Choy",
+		"Vice Principal": [
+			"Mr Andy Mickey Choong Tek Choy",
+			"Mrs Shanthi Suraj Nair"
+		],
 		"Vice Principal (Admin)": "Mr Chan Ken Yan Michael",
 		"School Vision": "Caring Hearts, Passionate Learners; Lasallians in service of God, family and nation",
 		"School Mission": "Enabling our children to learn how to learn and to learn how to live,to become persons of integrity and persons for others in God's service",
@@ -74,8 +77,7 @@
 		"Clubs & Societies": [
 			"Infocomm (Media) Club",
 			"Infocomm (Robotics)",
-			"Science & Environmental Club",
-			"St Vincent De Paul Society"
+			"Science & Environmental Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -400,12 +402,12 @@
 	},
 	"postalCode": "659401",
 	"coordinates": [
-		103.749294014,
-		1.36463876218
+		103.74931784961,
+		1.3646387621826
 	],
 	"svy21": [
-		18649.06,
-		38520.5
+		18651.749700078384,
+		38520.57362263338
 	],
 	"planningArea": "BK",
 	"neighbours": [

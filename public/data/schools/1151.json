@@ -70,22 +70,22 @@
 	],
 	"Cca": {
 		"Physical Sports": [
+			"Football",
 			"Netball",
-			"Sports Club",
 			"Taekwondo"
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
-			"Girls' Brigade",
-			"Scouts"
+			"Cub Scouts",
+			"Girls' Brigade"
 		],
 		"Visual and Performing Arts": [
 			"Art And Craft Club",
 			"Choir",
-			"Culture And Aesthetics Club",
 			"Dance - Chinese",
 			"Dance - Indian",
 			"Dance - Malay",
+			"Drama Club",
 			"Ensemble - Guzheng",
 			"Ensemble - String"
 		],
@@ -412,12 +412,12 @@
 	},
 	"postalCode": "569878",
 	"coordinates": [
-		103.843165678,
-		1.37639785908
+		103.84316284184,
+		1.3763978590846
 	],
 	"svy21": [
-		29095.86,
-		39820.6
+		29095.581380845113,
+		39820.67371543414
 	],
 	"planningArea": "AM",
 	"neighbours": [

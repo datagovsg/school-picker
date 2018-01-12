@@ -21,7 +21,7 @@
 			"MR GURUSHARAN SINGH S/O M SINGH",
 			"MR CHEONG TIEN BENG"
 		],
-		"Vice Principal (Admin)": "MDM CHUA NGA WOON",
+		"Vice Principal (Admin)": "MR HONG HENG YAN",
 		"School Vision": [
 			"LiVE like a Victorian",
 			"- Legendary Spirit",
@@ -91,66 +91,7 @@
 		"NUS-A*STAR-VJC SCIENCE RESEARCH (PHY)",
 		"SMU GAME THEORY"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Badminton",
-			"Basketball",
-			"Cricket",
-			"Cross Country",
-			"Floorball",
-			"Hockey",
-			"Netball",
-			"Rockclimbing",
-			"Sailing",
-			"Soccer",
-			"Softball",
-			"Swimming",
-			"Table Tennis",
-			"Taekwondo",
-			"Tennis",
-			"Track & Field",
-			"Volleyball",
-			"Wushu"
-		],
-		"Visual and Performing Arts": [
-			"Art Club",
-			"Chinese Orchestra",
-			"Choir",
-			"Dance Club",
-			"Drama",
-			"Guitar Ensemble",
-			"Harmonica Band",
-			"Photographic Society",
-			"Photography Society",
-			"Piano Ensemble",
-			"String Ensemble",
-			"Symphonic Band"
-		],
-		"Clubs & Societies": [
-			"Astronomy Club",
-			"Bizclub",
-			"Chinese Society",
-			"Debates",
-			"Earth Watch",
-			"First Aid Club",
-			"Horticultural Society",
-			"Iglobe",
-			"Indian Cultural Society",
-			"Interact Club",
-			"Japanese Club",
-			"Library Council",
-			"Malay Cultural Society",
-			"Mathematics Society",
-			"Medical Society",
-			"Outdoor Activities Club",
-			"Pa Crew",
-			"Robotics Club",
-			"Singapore Youth Flying Club",
-			"Strategic Games Club",
-			"Students' Council",
-			"Writers' Circle"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Integrated Programme",
@@ -1862,6 +1803,20 @@
 						"'A' Div"
 					],
 					[
+						"Cricket",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"4th",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
 						"Floorball",
 						"1st",
 						"3rd",
@@ -1909,33 +1864,19 @@
 						"3rd",
 						"-",
 						"-"
-					],
-					[
-						"Cricket",
-						"3rd",
-						"-",
-						"-",
-						"-"
-					],
-					[
-						"Cross Country",
-						"4th",
-						"2nd",
-						"-",
-						"-"
 					]
 				],
 				"SYF Arts Presentation": {
-					"Ensemble - Guzheng": "Accomplishment",
-					"Ensemble - Harmonica": "Accomplishment",
-					"Ensemble - Strings": "Accomplishment",
 					"Art - Category C": "Recognition(Sm)",
 					"Band - Concert": "Distinction",
 					"Chinese Orchestra-Full Orchestra": "Distinction",
 					"Choir": "Distinction",
 					"Dance - International": "Distinction",
 					"Drama - English": "Commendation",
-					"Ensemble - Guitar": "Distinction"
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Harmonica": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
 				}
 			}
 		}

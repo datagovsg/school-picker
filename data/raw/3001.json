@@ -84,8 +84,7 @@
 			"Green Club",
 			"Infocomm Club",
 			"Robotics Club",
-			"Science Club",
-			"Students' Council"
+			"Science Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -1336,9 +1335,9 @@
 					"Art - Category B": "Recognition",
 					"Band - Concert": "Distinction",
 					"Choir": "Distinction",
-					"Dance - Chinese": "Distinction",
 					"Dance - Malay": "Distinction",
-					"Drama - English": "Distinction"
+					"Drama - English": "Distinction",
+					"Dance - Chinese": "Distinction"
 				},
 				"Best Unit Award": {
 					"Girl Guides (Coy 1)": "Gold",

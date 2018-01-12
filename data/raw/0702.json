@@ -19,7 +19,7 @@
 		"Principal": "MDM SIM AY NAR",
 		"Vice Principal": [
 			"MDM TAN KIA HUAN",
-			"MR FOO JUNG HIN SIMON"
+			"MR FOO YONG HOWE"
 		],
 		"Vice Principal (Admin)": "MR MARK CHAN",
 		"School Vision": "An Institute of Distinction, A Dynamic Learning Culture,  A Caring TJC Family",
@@ -30,18 +30,10 @@
 		"Affiliated Schools": "Not Applicable"
 	},
 	"SubjectOffered": [
-		"ADVANCED MATHEMATICS",
-		"AESTHETICS EDUCATION",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"CORE HUMANITIES",
-		"ENGLISH LITERATURE",
-		"FUNDAMENTAL HUMANITIES",
-		"FUNDAMENTAL MATHEMATICS",
 		"GEOGRAPHY",
-		"GREEN SCIENCE",
-		"H1 ART",
 		"H1 BIOLOGY",
 		"H1 CHEMISTRY",
 		"H1 CHINA STUDIES IN ENGLISH",
@@ -85,77 +77,12 @@
 		"HIGHER MALAY",
 		"HIGHER TAMIL",
 		"HISTORY",
-		"INNOVATION AND RESEARCH PROGRAMME",
-		"INTERMEDIATE MATHEMATICS",
-		"LANGUAGE ARTS",
 		"MALAY",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
-		"SKILLS AND KNOWLEDGE",
 		"TAMIL"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Air Rifle / Shooting",
-			"Badminton",
-			"Basketball",
-			"Bowling",
-			"Cross Country",
-			"Cross Country (Jc Only)",
-			"Floorball",
-			"Floorball (Boys-Jc Only)",
-			"Football",
-			"Football (Boys-Sec & Jc, Girls -Jc Only)",
-			"Netball",
-			"Netball (Girls-Jc Only)",
-			"Shooting (Jc Only)",
-			"Squash (Boys, Jc Only)",
-			"Squash (Girls)",
-			"Swimming",
-			"Table Tennis",
-			"Table Tennis (Jc Only)",
-			"Taekwondo",
-			"Ten-Pin Bowling",
-			"Tennis",
-			"Tennis (Jc Only)",
-			"Volleyball",
-			"Volleyball (Girls -Sec & Jc, Boys -Jc Only)",
-			"Water Polo",
-			"Water Polo (Girls-Jc Only)"
-		],
-		"Visual and Performing Arts": [
-			"Band - Symphonic",
-			"Chinese Orchestra (Jc Only)",
-			"Choir",
-			"Dance - Modern",
-			"Drama - English",
-			"Drama Club (Jc Only)",
-			"Ensemble - Guitar",
-			"Ensemble - String",
-			"Guitar Ensemble",
-			"Modern Dance",
-			"Orchestra - Chinese",
-			"String Ensemble (Jc Only)",
-			"Symphonic Band"
-		],
-		"Clubs & Societies": [
-			"Chinese Cultural Club (Jc Only)",
-			"Chinese Cultural Society",
-			"Debate Club (Jc Only)",
-			"Debating And Oratorical Society",
-			"First Aid Club",
-			"First Aid Club (Jc Only)",
-			"Indian Cultural Club (Jc Only)",
-			"Indian Cultural Society",
-			"Infocom Club",
-			"Leo Club",
-			"Leo Club (Jc Only)",
-			"Malay Cultural Society",
-			"Malay Cultural Society (Jc Only)",
-			"Outdoor Activities Club",
-			"Outdoor Adventure Club (Jc Only)"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Integrated Programme",
@@ -1550,16 +1477,16 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Dance - International": "Distinction",
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
 					"Drama - Chinese": "Accomplishment",
 					"Drama - Chinese (2nd Entry)": "Accomplishment",
 					"Drama - English": "Accomplishment",
 					"Ensemble - Guitar": "Accomplishment",
 					"Ensemble - Strings": "Distinction",
-					"Art - Category C": "Recognition",
-					"Band - Concert": "Distinction",
-					"Chinese Orchestra-Full Orchestra": "Distinction",
-					"Choir": "Distinction"
+					"Dance - International": "Distinction"
 				}
 			}
 		}

@@ -255,6 +255,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
 				},
@@ -282,11 +287,6 @@
 					"year": "2017",
 					"category": "Ensemble - Guitar",
 					"award": "Commendation"
-				},
-				{
-					"year": "2017",
-					"category": "Art - Category A",
-					"award": "Recognition(Sm)"
 				}
 			],
 			"Best Unit Award": [
@@ -367,11 +367,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
 					"category": "NCC (Sea)",
 					"award": "Silver"
 				},
@@ -384,6 +379,11 @@
 					"year": "2017",
 					"category": "NPCC (Land)",
 					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Gold"
 				}
 			]
 		}
@@ -492,8 +492,8 @@
 		1.4153203280701
 	],
 	"svy21": [
-		28505.3110986594,
-		44124.4477044716
+		28505.3110986595,
+		44124.4477044717
 	],
 	"planningArea": "YS",
 	"neighbours": [

@@ -19,11 +19,8 @@
 	],
 	"bus": "22 , 24 , 135 , 853 , 162 , 262 , 159 ",
 	"GeneralInformation": {
-		"Principal": "Mdm Chua Pei Pei",
-		"Vice Principal": [
-			"Mdm Raps Azrinah",
-			"Mr Wong Jia Wang"
-		],
+		"Principal": "Mr Wong Jia Wang",
+		"Vice Principal": "Mdm Raps Azrinah",
 		"Vice Principal (Admin)": "Mr Khoo Thiam Huat",
 		"School Vision": "Nurturing Tomorrow's Leaders:  Creative Thinkers, Confident Communicators,  Lifelong Learners and Responsible Citizens.",
 		"School Mission": "We are committed to providing our pupils with quality education, inspiring our pupils towards excellence, creating a caring environment and working in partnership with stakeholders.",
@@ -400,12 +397,12 @@
 	},
 	"postalCode": "569299",
 	"coordinates": [
-		103.851032152,
-		1.36519997541
+		103.85102712812,
+		1.3651999754186
 	],
 	"svy21": [
-		29971.31,
-		38582.4
+		29970.787995321865,
+		38582.473712742256
 	],
 	"planningArea": "AM",
 	"neighbours": [

@@ -82,7 +82,7 @@
 			"Choir",
 			"Dance - Chinese",
 			"Dance - Modern",
-			"Drama - English",
+			"Drama Club",
 			"Ensemble - String"
 		],
 		"Clubs & Societies": [
@@ -493,13 +493,13 @@
 				},
 				{
 					"year": "2017",
-					"category": "Ensemble - Strings",
-					"award": "Commendation"
+					"category": "Drama - English",
+					"award": "Distinction"
 				},
 				{
 					"year": "2017",
-					"category": "Drama - English",
-					"award": "Distinction"
+					"category": "Ensemble - Strings",
+					"award": "Commendation"
 				}
 			],
 			"Best Unit Award": [
@@ -690,7 +690,7 @@
 		1.38113128535803
 	],
 	"svy21": [
-		35330.5266452953,
+		35330.5266452955,
 		40344.0974890459
 	],
 	"planningArea": "SE",

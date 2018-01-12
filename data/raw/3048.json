@@ -19,9 +19,9 @@
 		"Principal": "MDM ONG HUI MIIN ANGELINE",
 		"Vice Principal": [
 			"MISS CHOW WAI HOONG",
-			"MR V HARINDRANATH"
+			"MR V HARINDRANATH",
+			"MR MALVIN CHAN HUAN JIAN"
 		],
-		"Vice Principal (Admin)": "MR LYE DELI",
 		"School Vision": "Learn, Care and Make a Difference",
 		"School Mission": "To nurture Confident and Passionate Hillgrovians who continually Learn with a spirit to do one's best, Care for and Serve others to Make a Difference.",
 		"School Philosophy, Culture and Ethos": "The school's philosophy is 'Potential + Character = Success'. Hillgrove believes in the potential of each student and builds his/her character in order to help him/her to succeed. Hillgrove culture is encapsulated in the word \"CARE\". CARE stands for Collaboration, Affirmation, Respect and Excellence. It speaks of the school's desire to be others-centred. It is about helping one another to be at their best.",
@@ -379,20 +379,20 @@
 			},
 			"2017": {
 				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
 					"Band - Concert": "Accomplishment",
 					"Choir": "Accomplishment",
 					"Dance - International": "Accomplishment",
 					"Dance - Malay": "Accomplishment",
-					"Drama - English": "Accomplishment",
-					"Art - Category B": "Recognition"
+					"Drama - English": "Accomplishment"
 				},
 				"Best Unit Award": {
 					"Boys' Brigade": "Gold",
-					"Girls' Brigade": "Silver",
 					"Ncc (Air)": "Gold",
 					"Ncdcc": "Bronze",
 					"Npcc (Land)": "Silver",
-					"Scout (Unit 1)": "Silver"
+					"Scout (Unit 1)": "Silver",
+					"Girls' Brigade": "Silver"
 				}
 			}
 		}

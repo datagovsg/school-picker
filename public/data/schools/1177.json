@@ -19,10 +19,8 @@
 	"bus": "Sengkang and Toa Payoh interchange - no 163 , Along Yio Chu Kang Road , - no 70 , 86 , 103 and 854. ",
 	"GeneralInformation": {
 		"Principal": "Mdm Balakrishna Vyjanthimala",
-		"Vice Principal": [
-			"Mdm Lee Hwee Kheng",
-			"Mr Wong Kin Mun"
-		],
+		"Vice Principal": "Miss Yap Ai Li",
+		"Vice Principal (Admin)": "Mrs Haryati Teh",
 		"School Vision": [
 			"Global Learners of Tomorrow",
 			"- Confident Person   ",
@@ -405,12 +403,12 @@
 	},
 	"postalCode": "797701",
 	"coordinates": [
-		103.874100893,
-		1.38997926673
+		103.87408889776,
+		1.3899792667326
 	],
 	"svy21": [
-		32538.54,
-		41322.4
+		32537.242101652693,
+		41322.47369418595
 	],
 	"planningArea": "SE",
 	"neighbours": [

@@ -19,7 +19,7 @@
 	],
 	"bus": "30 , 51 , 78 , 79 , 143 , 143M , 176 , 201 ",
 	"GeneralInformation": {
-		"Principal": "Mr Loh Hong Oon, Aaron",
+		"Principal": "Mr Ng Boon Kiat",
 		"Vice Principal": [
 			"Mr Tan Tai Huat",
 			"Mr Tan Boon Piang"
@@ -157,16 +157,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
 					"category": "Football",
 					"subCategory": [
 						"Zone",
@@ -181,6 +171,16 @@
 					"subCategory": [
 						"Zone",
 						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
 						"'C' Div"
 					],
 					"award": "4th"
@@ -531,7 +531,7 @@
 		1.31920395934804
 	],
 	"svy21": [
-		18241.9409345528,
+		18241.9409345534,
 		33496.5605151374
 	],
 	"planningArea": "JE",

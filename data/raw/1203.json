@@ -17,8 +17,10 @@
 	"bus": "3 , 17 , 18 ",
 	"GeneralInformation": {
 		"Principal": "MDM WONG LIN LIN AUDREY",
-		"Vice Principal": "MR MOHAMAD NOOR BIN ABDUL MANAF @",
-		"Vice Principal (Admin)": "MR DALJIT SINGH S/O DARBARA SINGH",
+		"Vice Principal": [
+			"MR MOHAMAD NOOR BIN ABDUL MANAF @",
+			"MDM RATNA KUMARI D/O R RAMACHANDRA"
+		],
 		"School Vision": [
 			"An Innovative Thinker ",
 			"A Gracious Leader ",
@@ -73,7 +75,7 @@
 		],
 		"Clubs & Societies": [
 			"Environmental Club",
-			"Library"
+			"Language Club"
 		]
 	},
 	"SpecialProgrammes": {

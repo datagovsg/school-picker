@@ -540,6 +540,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
 					"category": "Dance - Chinese",
 					"award": "Distinction"
 				},
@@ -557,11 +562,6 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Choir",
-					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -610,12 +610,12 @@
 	},
 	"postalCode": "597610",
 	"coordinates": [
-		103.776108167,
-		1.33805487114
+		103.77612377134,
+		1.3380548711484
 	],
 	"svy21": [
-		21633.09,
-		35580.9
+		21634.86367395132,
+		35580.97367521914
 	],
 	"planningArea": "BT",
 	"neighbours": [

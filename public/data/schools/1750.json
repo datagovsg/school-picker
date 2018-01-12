@@ -19,8 +19,10 @@
 	"bus": "TIBs 302",
 	"GeneralInformation": {
 		"Principal": "Mrs Jasmail Singh Gill",
-		"Vice Principal": "Mr Koh Peng Yeow",
-		"Vice Principal (Admin)": "Mr Lee Sech Wee",
+		"Vice Principal": [
+			"Mr Koh Peng Yeow",
+			"Mdm Lee Suet Fong"
+		],
 		"School Vision": "Creative Minds, Caring Hearts",
 		"School Mission": "We shall nurture our pupils to be responsible individuals of integrity who respect others and have a passion for learning.",
 		"School Philosophy, Culture and Ethos": [
@@ -52,29 +54,7 @@
 		"Science",
 		"Social Studies"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Badminton",
-			"Basketball",
-			"Football",
-			"Netball"
-		],
-		"Uniformed Groups": [
-			"Scouts"
-		],
-		"Visual and Performing Arts": [
-			"Dance - Chinese",
-			"Dance - Malay",
-			"Ensemble - Angklung/Kulintang",
-			"Ensemble - Handbell/Handchime"
-		],
-		"Clubs & Societies": [
-			"Infocom Club",
-			"Library",
-			"Mathematics Club",
-			"Science And Green Club"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Languages": "CAPtivate! – Critical Thinking Accelerated Programme @ UPS",
@@ -231,12 +211,12 @@
 	},
 	"postalCode": "688268",
 	"coordinates": [
-		103.746993379,
+		103.74701925668,
 		1.40282270105
 	],
 	"svy21": [
-		18393.18,
-		42742.7
+		18396.096905225804,
+		42742.77360899063
 	],
 	"planningArea": "CK",
 	"neighbours": [

@@ -267,11 +267,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
 					"category": "Chinese Orchestra-Full Orchestra",
 					"award": "Accomplishment"
 				},
@@ -288,6 +283,11 @@
 				{
 					"year": "2017",
 					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
 					"award": "Accomplishment"
 				}
 			],
@@ -499,7 +499,7 @@
 		1.42656781284688
 	],
 	"svy21": [
-		23563.3395336093,
+		23563.3395336086,
 		45368.1758330744
 	],
 	"planningArea": "WD",

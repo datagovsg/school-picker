@@ -20,8 +20,8 @@
 	"GeneralInformation": {
 		"Principal": "Mrs Grace Chua",
 		"Vice Principal": [
-			"Mdm Beh Choon Yi, Janice",
-			"Mrs Chay Gek Noi"
+			"Mrs Chay Gek Noi",
+			"Mdm Lim Siew Cheng Cindy"
 		],
 		"School Vision": "Every Child, A Winner",
 		"School Mission": "Preparing Our Children for Life, For Service to Nation and Humanity",
@@ -369,11 +369,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Chinese Orchestra-Full Orchestra",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
 					"category": "Choir",
 					"award": "Accomplishment"
 				},
@@ -390,6 +385,11 @@
 				{
 					"year": "2017",
 					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
 					"award": "Distinction"
 				}
 			],
@@ -419,12 +419,12 @@
 	},
 	"postalCode": "757715",
 	"coordinates": [
-		103.821021428,
-		1.44504359318
+		103.82102534429,
+		1.4450435931821
 	],
 	"svy21": [
-		26631.52,
-		47411.1
+		26631.99283008323,
+		47411.17371401466
 	],
 	"planningArea": "SB",
 	"neighbours": [

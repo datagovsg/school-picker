@@ -18,11 +18,8 @@
 	],
 	"bus": "3",
 	"GeneralInformation": {
-		"Principal": "Mdm Kok Lai Yoke",
-		"Vice Principal": [
-			"Mdm Siti Nazrah Bte Abdul Rahman",
-			"Mr Tan King Ming"
-		],
+		"Principal": "Mr Tan King Ming",
+		"Vice Principal": "Mdm Siti Nazrah Bte Abdul Rahman",
 		"Vice Principal (Admin)": "Mr Tan Boon Seng",
 		"School Vision": "A caring and vibrant learning community with opportunities for all to excel.",
 		"School Mission": "Every Pasirian is nurtured to be a confident, passionate and self-directed learner who is anchored in values.",
@@ -448,12 +445,12 @@
 	},
 	"postalCode": "518968",
 	"coordinates": [
-		103.962918865,
-		1.37230842963
+		103.96288169747,
+		1.3723084296302
 	],
 	"svy21": [
-		42422.94,
-		39368.8
+		42418.84076943938,
+		39368.8734945714
 	],
 	"planningArea": "PR",
 	"neighbours": [

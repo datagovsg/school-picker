@@ -20,10 +20,9 @@
 	"GeneralInformation": {
 		"Principal": "Mrs Karen Tay",
 		"Vice Principal": [
-			"Miss Candice Yvette Seet Siew Yan",
-			"Miss Teo Geok Sian"
+			"Miss Teo Geok Sian",
+			"Miss Phua Ai Ling Adeline"
 		],
-		"Vice Principal (Admin)": "Mr Hong Heng Yan",
 		"School Vision": "A Woman of Distinction",
 		"School Mission": "The mission of an Infant Jesus Convent is the creation of a Christ-centred school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of persons who are disadvantaged in any way.",
 		"School Philosophy, Culture and Ethos": "CHIJ Secondary stands as the second oldest girls school in Singapore. Every IJ Girl shares the vision of being A Woman of Distinction, who is a Thinker, Leader, Communicator, confident with humility, principled with compassion and cultured with grace. At CHIJ Secondary, we believe that every IJ Girl matters. As such, we customise our curriculum to meet their needs and talents. With a strong foundation in character and values-education, CHIJ nurtures our girls through a holistic education, with the support of a competent and forward-looking staff. Our strong partnerships with key stakeholders also enable the school to build a strong network of support. We remain, through the years, Simple in Virtue, Steadfast in Duty.",
@@ -633,6 +632,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
 					"category": "Choir",
 					"award": "Distinction"
 				},
@@ -654,11 +658,6 @@
 				{
 					"year": "2017",
 					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Band - Concert",
 					"award": "Distinction"
 				}
 			],
@@ -802,7 +801,7 @@
 		1.33246079948306
 	],
 	"svy21": [
-		29107.6704288516,
+		29107.6704288517,
 		34962.2641689591
 	],
 	"planningArea": "TP",

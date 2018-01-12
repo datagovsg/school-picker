@@ -24,7 +24,7 @@
 			"Mr Gurusharan Singh S/o M Singh",
 			"Mr Cheong Tien Beng"
 		],
-		"Vice Principal (Admin)": "Mdm Chua Nga Woon",
+		"Vice Principal (Admin)": "Mr Hong Heng Yan",
 		"School Vision": [
 			"LiVE like a Victorian",
 			"- Legendary Spirit",
@@ -94,66 +94,7 @@
 		"Nus-a*star-vjc Science Research (Phy)",
 		"Smu Game Theory"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Badminton",
-			"Basketball",
-			"Cricket",
-			"Cross Country",
-			"Floorball",
-			"Hockey",
-			"Netball",
-			"Rockclimbing",
-			"Sailing",
-			"Soccer",
-			"Softball",
-			"Swimming",
-			"Table Tennis",
-			"Taekwondo",
-			"Tennis",
-			"Track & Field",
-			"Volleyball",
-			"Wushu"
-		],
-		"Visual and Performing Arts": [
-			"Art Club",
-			"Chinese Orchestra",
-			"Choir",
-			"Dance Club",
-			"Drama",
-			"Guitar Ensemble",
-			"Harmonica Band",
-			"Photographic Society",
-			"Photography Society",
-			"Piano Ensemble",
-			"String Ensemble",
-			"Symphonic Band"
-		],
-		"Clubs & Societies": [
-			"Astronomy Club",
-			"Bizclub",
-			"Chinese Society",
-			"Debates",
-			"Earth Watch",
-			"First Aid Club",
-			"Horticultural Society",
-			"Iglobe",
-			"Indian Cultural Society",
-			"Interact Club",
-			"Japanese Club",
-			"Library Council",
-			"Malay Cultural Society",
-			"Mathematics Society",
-			"Medical Society",
-			"Outdoor Activities Club",
-			"Pa Crew",
-			"Robotics Club",
-			"Singapore Youth Flying Club",
-			"Strategic Games Club",
-			"Students' Council",
-			"Writers' Circle"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Integrated Programme",
@@ -729,6 +670,36 @@
 				},
 				{
 					"year": "2017",
+					"category": "Cricket",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Cross Country",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Cross Country",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
 					"category": "Floorball",
 					"subCategory": [
 						"National",
@@ -846,36 +817,6 @@
 						"'A' Div"
 					],
 					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Cricket",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Cross Country",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Cross Country",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -1046,21 +987,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Harmonica",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Strings",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
 					"category": "Art - Category C",
 					"award": "Recognition(Sm)"
 				},
@@ -1093,6 +1019,21 @@
 					"year": "2017",
 					"category": "Ensemble - Guitar",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Harmonica",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
@@ -1178,7 +1119,7 @@
 		1.30670176312428
 	],
 	"svy21": [
-		37644.9233144261,
+		37644.923314426,
 		32114.1262638159
 	],
 	"planningArea": "BD",

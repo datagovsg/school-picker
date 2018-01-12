@@ -16,9 +16,11 @@
 	"mrt": "Lakeside MRT Station, Jurong East MRT Station",
 	"bus": "333",
 	"GeneralInformation": {
-		"Principal": "MRS MANOKARA SUGUNAVATHI",
-		"Vice Principal": "MDM CHERYL CHOO SHUEH-LI",
-		"Vice Principal (Admin)": "MR KOH SEE CHOON",
+		"Principal": "MR ONG THIAM HUAT ROBIN",
+		"Vice Principal": [
+			"MDM CHERYL CHOO SHUEH-LI",
+			"MDM LEE HWEE KHENG"
+		],
 		"School Vision": "A vibrant community of gracious citizens and passionate learners",
 		"School Mission": "We nurture all-rounded pupils of grace, distinction and sound moral values,ready to take on future endeavours.",
 		"School Philosophy, Culture and Ethos": [
@@ -61,14 +63,12 @@
 		"Visual and Performing Arts": [
 			"Brass Band",
 			"Choir",
-			"Dance - Ballet",
 			"Dance - Chinese",
 			"Dance - Indian",
 			"Dance - Malay"
 		],
 		"Clubs & Societies": [
 			"It Club",
-			"Mindsports",
 			"Robotics Club"
 		]
 	},

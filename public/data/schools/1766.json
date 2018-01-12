@@ -19,7 +19,10 @@
 	"bus": "Ang Mo Kio Ave 9 - Bus 265 & 268",
 	"GeneralInformation": {
 		"Principal": "Mrs Tan-Ng Wie Pin",
-		"Vice Principal": "Mdm Adila Ong Kim Luan",
+		"Vice Principal": [
+			"Mdm Adila Ong Kim Luan",
+			"Mdm Ngoh Ying Li, Jane"
+		],
 		"Vice Principal (Admin)": "Mr Low Kah Shen",
 		"School Vision": "Learners with Passion.  Leaders with Heart.  Citizens of Character.",
 		"School Mission": "A holistic education for all pupils to realise their potential with opportunities to excel.",
@@ -371,12 +374,12 @@
 	},
 	"postalCode": "569785",
 	"coordinates": [
-		103.841238357,
-		1.38466556378
+		103.84123604894,
+		1.3846655637872
 	],
 	"svy21": [
-		28881.37,
-		40734.8
+		28881.150208400304,
+		40734.87371585279
 	],
 	"planningArea": "AM",
 	"neighbours": [

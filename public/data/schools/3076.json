@@ -75,7 +75,6 @@
 			"Chinese Orchestra",
 			"Choir",
 			"Drama & Debating Society",
-			"Malay Dance",
 			"Meridian Nusantara Orchestra",
 			"Symphonic Band"
 		],
@@ -158,11 +157,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
 					"category": "Dance - International",
 					"award": "Accomplishment"
 				},
@@ -185,6 +179,11 @@
 					"year": "2017",
 					"category": "Ensemble - Gamelan",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
@@ -222,7 +221,7 @@
 		1.36724684974879
 	],
 	"svy21": [
-		40870.9016361376,
+		40870.9016361373,
 		38809.0355677698
 	],
 	"planningArea": "PR",

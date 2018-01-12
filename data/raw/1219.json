@@ -16,7 +16,10 @@
 	"mrt": "Tampines MRT Station",
 	"GeneralInformation": {
 		"Principal": "MDM CHILUKURI DIMPS RAO",
-		"Vice Principal": "MDM CHIANG MEI FONG ANGIE",
+		"Vice Principal": [
+			"MDM CHIANG MEI FONG ANGIE",
+			"MR ABDUL MUTALIB B MOHAMMED AMIN"
+		],
 		"School Vision": "A Champion in Every Child",
 		"School Mission": "Build Character, Challenge Minds, Enrich Lives",
 		"School Philosophy, Culture and Ethos": [
@@ -896,12 +899,12 @@
 					"Art - Category C": "Recognition",
 					"Choir": "Accomplishment",
 					"Dance - International": "Accomplishment",
-					"Ensemble - Strings": "Accomplishment",
-					"Ensemble - Guzheng": "Distinction"
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Strings": "Accomplishment"
 				},
 				"Best Unit Award": {
-					"Red Cross": "Gold",
-					"Scout": "Bronze"
+					"Scout": "Bronze",
+					"Red Cross": "Gold"
 				}
 			}
 		}

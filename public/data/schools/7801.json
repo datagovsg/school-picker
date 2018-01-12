@@ -20,10 +20,7 @@
 	"bus": "96 , 97 , 151 , 183 , 188 , 196 , 197 , 198 ",
 	"GeneralInformation": {
 		"Principal": "Mrs Lee Bee Yann",
-		"Vice Principal": [
-			"Mr Goh Hock Leong",
-			"Mr Chang Weng Fatt"
-		],
+		"Vice Principal": "Mr Goh Hock Leong",
 		"Vice Principal (Admin)": "Miss Lim Hui Wen",
 		"School Vision": "To be a Wellspring of Inspiration for Math & Science Education and Research.",
 		"School Mission": "The NUS High School will nurture well-rounded and world-ready scientific minds to make distinguished contributions as Pioneers, Achievers, Thinkers & Humanitarians.",
@@ -268,7 +265,7 @@
 		1.30656442170341
 	],
 	"svy21": [
-		20882.5707145296,
+		20882.570714529,
 		32098.8640870471
 	],
 	"planningArea": "CL",

@@ -19,10 +19,7 @@
 	"bus": "40 , 62 , 63 , 80 , 100 , 125 , 134 , 153 , 155 , 158 , 180 ",
 	"GeneralInformation": {
 		"Principal": "Mr Wee Tat Chuen",
-		"Vice Principal": [
-			"Mr Eka Tanu",
-			"Mdm Teo Yvonne"
-		],
+		"Vice Principal": "Mr Eka Tanu",
 		"Vice Principal (Admin)": "Mdm Tan Sor Leng",
 		"School Vision": "Passionate Learners. Courageous Leaders. Caring Citizens.",
 		"School Mission": "With God's help, to be a beacon of light by connecting, nurturing and inspiring GeMS to make a difference.",
@@ -62,7 +59,6 @@
 		"Mathematics (Syllabus A)",
 		"Mathematics (Syllabus T)",
 		"Physics",
-		"Principles Of Accounts",
 		"Science (Chem, Bio)",
 		"Science (Phy, Chem)",
 		"Science (Syll T)"
@@ -461,7 +457,7 @@
 		1.31767083360151
 	],
 	"svy21": [
-		33492.7104578754,
+		33492.7104578756,
 		33326.9177586734
 	],
 	"planningArea": "GL",

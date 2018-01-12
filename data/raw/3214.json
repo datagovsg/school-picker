@@ -807,13 +807,13 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Art - Category A": "Recognition",
-					"Art - Category B": "Recognition",
-					"Band - Concert": "Accomplishment",
 					"Choir": "Accomplishment",
 					"Dance - Indian": "Accomplishment",
 					"Dance - International": "Distinction",
-					"Drama - English": "Accomplishment"
+					"Drama - English": "Accomplishment",
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment"
 				},
 				"Best Unit Award": {
 					"Girl Guides (Coy 1)": "Gold",

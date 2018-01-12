@@ -53,29 +53,7 @@
 		"Social Studies",
 		"Tamil"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Badminton",
-			"Basketball",
-			"Football",
-			"Netball",
-			"Track & Field",
-			"Volleyball"
-		],
-		"Uniformed Groups": [
-			"Scouts"
-		],
-		"Visual and Performing Arts": [
-			"Art And Craft Club",
-			"Band - Brass",
-			"Choir",
-			"Dance - Chinese",
-			"Ensemble - Angklung/Kulintang"
-		],
-		"Clubs & Societies": [
-			"It Club"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Music & Performing Arts": "Building Good Character through Music and the Performing Arts"
@@ -178,13 +156,13 @@
 				},
 				{
 					"year": "2017",
-					"category": "Choir",
-					"award": "Commendation"
+					"category": "Band-Brass",
+					"award": "Accomplishment"
 				},
 				{
 					"year": "2017",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
+					"category": "Choir",
+					"award": "Commendation"
 				},
 				{
 					"year": "2017",
@@ -193,7 +171,7 @@
 				},
 				{
 					"year": "2017",
-					"category": "Band-Brass",
+					"category": "Dance - Chinese",
 					"award": "Accomplishment"
 				}
 			],
@@ -223,12 +201,12 @@
 	},
 	"postalCode": "609558",
 	"coordinates": [
-		103.740918129,
-		1.34272573208
+		103.74094350535,
+		1.3427257320817
 	],
 	"svy21": [
-		17716.83,
-		36097.5
+		17719.6911783608,
+		36097.573608452076
 	],
 	"planningArea": "JE",
 	"neighbours": [

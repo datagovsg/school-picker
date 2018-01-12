@@ -19,10 +19,7 @@
 	"bus": "Nearest Bus Stop Opposite Blk 317B: - Bus 85 (from Punggol Temp Int) - Bus 372 (from Sengkang Int) *1-2 mins walk from bus stop number no. 67389 *Enter by Main Gate along Anchorvale Link or Rear G",
 	"GeneralInformation": {
 		"Principal": "Mdm Koh Siew Cheng",
-		"Vice Principal": [
-			"Mdm Jayanthi D/o Retnam",
-			"Mr Ho Wee Min Kelvin"
-		],
+		"Vice Principal": "Mr Ho Wee Min Kelvin",
 		"Vice Principal (Admin)": "Mr Chan Soon Hua",
 		"School Vision": "Every Springdalite is a Secure Individual, a Leader of Self-worth and a Significant Citizen.",
 		"School Mission": "To engage young minds, mould their character and equip them for the future.",
@@ -85,12 +82,12 @@
 	},
 	"postalCode": "544799",
 	"coordinates": [
-		103.889611598,
-		1.39475407759
+		103.88959492437,
+		1.3947540775939
 	],
 	"svy21": [
-		34264.6671,
-		41850.4101
+		34262.84860031276,
+		41850.48377310932
 	],
 	"planningArea": "SE",
 	"neighbours": [

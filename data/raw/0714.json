@@ -21,6 +21,7 @@
 			"MR BOY ENG SENG",
 			"MR POH CHUN LECK"
 		],
+		"Vice Principal (Admin)": "MR MOHAMAD AMRAN SHAH BIN ABD RAHIM",
 		"School Vision": "Every Eunoian a Youth with Purpose, Thinker with Heart, Leader with Courage",
 		"School Mission": [
 			"We",
@@ -82,7 +83,6 @@
 		"NTU SCIENCE RESEARCH (MATH)",
 		"NTU SCIENCE RESEARCH (PHY)",
 		"NTU SEMICONDUCTOR PHYSICS & DEVICES",
-		"NUS LINEAR ALGEBRA",
 		"NUS MODERN PHYSICS",
 		"NUS-MOE SCIENCE RESEARCH (BIO)",
 		"NUS-MOE SCIENCE RESEARCH (CHEM)",
@@ -95,8 +95,8 @@
 			"Badminton",
 			"Basketball",
 			"Floorball",
-			"Hockey (Girls)",
-			"Netball (Girls)",
+			"Hockey",
+			"Netball",
 			"Softball",
 			"Squash",
 			"Swimming",
@@ -104,23 +104,6 @@
 			"Tennis",
 			"Track & Field",
 			"Volleyball"
-		],
-		"Visual and Performing Arts": [
-			"Chinese Orchestra",
-			"Choir",
-			"Dance",
-			"Drama",
-			"Symphonic Band"
-		],
-		"Clubs & Societies": [
-			"Computing & Robotics",
-			"Debate",
-			"Media",
-			"Outdoor Adventure (Odac)",
-			"Service Learning"
-		],
-		"Others": [
-			"Students' Council"
 		]
 	},
 	"SpecialProgrammes": {

@@ -20,6 +20,7 @@
 	"GeneralInformation": {
 		"Principal": "Miss Cheong Hwee Khim",
 		"Vice Principal": "Mr Ramesh Mukundhan",
+		"Vice Principal (Admin)": "Mdm Lee Hiang Koon Wendy",
 		"School Vision": [
 			"Fountain of Knowledge - A Confident Person who is able to learn, unlearn, relearn.",
 			"Heart of Gold - A Caring Leader who is able to listen, empathise, serve."
@@ -189,11 +190,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2017",
 					"category": "Band-Brass",
 					"award": "Accomplishment"
 				},
@@ -201,6 +197,11 @@
 					"year": "2017",
 					"category": "Dance - International",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
 				}
 			],
 			"Best Unit Award": [
@@ -249,12 +250,12 @@
 	},
 	"postalCode": "217567",
 	"coordinates": [
-		103.850902652,
+		103.85089804299,
 		1.31250356273
 	],
 	"svy21": [
-		29956.94,
-		32755.5
+		29956.464093587325,
+		32755.573713236066
 	],
 	"planningArea": "KL",
 	"neighbours": [

@@ -19,10 +19,7 @@
 	"bus": "30 , 51 , 78 , 143 , 285 ",
 	"GeneralInformation": {
 		"Principal": "Mdm May Tan Mui Gee",
-		"Vice Principal": [
-			"Mdm Lela Bte Shamsuhadi",
-			"Mdm Chan Sin Li, Cindy"
-		],
+		"Vice Principal": "Mdm Chan Sin Li, Cindy",
 		"School Vision": "An Achieving School with a Caring Environment",
 		"School Mission": "Developing a community of life-long learners, leaders of character and socially responsible global citizens",
 		"School Philosophy, Culture and Ethos": [
@@ -552,12 +549,12 @@
 	},
 	"postalCode": "128104",
 	"coordinates": [
-		103.757029952,
-		1.31262092518
+		103.75704997544,
+		1.3126209251804
 	],
 	"svy21": [
-		19509.8,
-		32768.6
+		19512.065466379954,
+		32768.673647474745
 	],
 	"planningArea": "CL",
 	"neighbours": [

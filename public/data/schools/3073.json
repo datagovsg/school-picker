@@ -45,9 +45,6 @@
 		"Geography",
 		"Higher Chinese",
 		"History",
-		"Humanities (Ss, Geography)",
-		"Humanities (Ss, History)",
-		"Humanities (Ss, Lit In English)",
 		"Literature(E)",
 		"Malay",
 		"Mathematics",
@@ -415,7 +412,7 @@
 				{
 					"year": "2017",
 					"category": "NCDCC",
-					"award": "Silver"
+					"award": "Gold"
 				},
 				{
 					"year": "2017",
@@ -525,12 +522,12 @@
 	],
 	"postalCode": "797702",
 	"coordinates": [
-		103.878457896556,
-		1.39033340759784
+		103.878461745339,
+		1.39037504993236
 	],
 	"svy21": [
-		33023.4169629766,
-		41361.5679294318
+		33023.8451944098,
+		41366.1725372579
 	],
 	"planningArea": "SE",
 	"neighbours": [

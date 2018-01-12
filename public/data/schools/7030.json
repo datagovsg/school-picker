@@ -52,7 +52,6 @@
 		"Higher Tamil",
 		"History",
 		"Home Economics",
-		"Language Arts",
 		"Literature(E)",
 		"Malay",
 		"Mathematics",
@@ -63,40 +62,7 @@
 		"Project Work",
 		"Tamil"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Football",
-			"Golf",
-			"Netball",
-			"Softball",
-			"Squash",
-			"Swimming",
-			"Synchronised Swimming",
-			"Ten-Pin Bowling",
-			"Tennis",
-			"Track"
-		],
-		"Uniformed Groups": [
-			"Girl Guides",
-			"Girls' Brigade"
-		],
-		"Visual and Performing Arts": [
-			"Choir",
-			"Dance Club",
-			"Drama",
-			"Ensemble - Guitar",
-			"Ensemble - Handbell/Handchime",
-			"Ensemble - String",
-			"Visual Arts"
-		],
-		"Clubs & Societies": [
-			"Chess Club",
-			"Debating And Oratorical Society",
-			"Infocomm/Photography",
-			"Library Council",
-			"S.A.L.T. Club"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Integrated Programme - Dual Track School (offers both IP and O Levels)",
@@ -1005,7 +971,7 @@
 		1.33294800935715
 	],
 	"svy21": [
-		22443.8042111415,
+		22443.8042111408,
 		35016.1914550979
 	],
 	"planningArea": "BT",

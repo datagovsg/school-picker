@@ -17,8 +17,11 @@
 		"Tanjong Pagar MRT"
 	],
 	"GeneralInformation": {
-		"Principal": "Mdm Wong Mei Foong",
-		"Vice Principal": "Miss Sabariah Bte Subari",
+		"Principal": "Mrs Manokara Sugunavathi",
+		"Vice Principal": [
+			"Miss Sabariah Bte Subari",
+			"Miss Cheang Meng Tsing"
+		],
 		"School Vision": "Concerned citizens, innovative thinkers, inspired for excellence, service and influence",
 		"School Mission": "To nurture and empower our students to realise their potential and aspirations so as to have a positive and significant impact in the school and community",
 		"School Philosophy, Culture and Ethos": [
@@ -41,7 +44,7 @@
 			"Dance - International"
 		],
 		"Clubs & Societies": [
-			"Infocom/Robotics Club"
+			"Infocom Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -112,13 +115,13 @@
 				},
 				{
 					"year": "2017",
-					"category": "Ensemble - Guitar",
-					"award": "Commendation"
+					"category": "Dance - International",
+					"award": "Accomplishment"
 				},
 				{
 					"year": "2017",
-					"category": "Dance - International",
-					"award": "Accomplishment"
+					"category": "Ensemble - Guitar",
+					"award": "Commendation"
 				}
 			],
 			"Best Unit Award": []
@@ -126,12 +129,12 @@
 	},
 	"postalCode": "088256",
 	"coordinates": [
-		103.839996502,
-		1.27560372173
+		103.83999485112,
+		1.2756037217394
 	],
 	"svy21": [
-		28743.2,
-		28675.3
+		28743.05332331396,
+		28675.373716204893
 	],
 	"planningArea": "BM",
 	"neighbours": [

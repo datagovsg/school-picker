@@ -18,11 +18,10 @@
 	],
 	"bus": "911",
 	"GeneralInformation": {
-		"Principal": "Mrs Lim Carol",
+		"Principal": "Mr Toh Kim Yong Vincent",
 		"Vice Principal": [
 			"Mr Elangovan S/o V Muthoo",
-			"Mr Chua Tung Kian",
-			"Mr Toh Kim Yong Vincent"
+			"Mr Chua Tung Kian"
 		],
 		"School Vision": "A dynamic school that thinks and cares.",
 		"School Mission": "We nurture citizens of character with the passion to contribute and excel.",
@@ -245,6 +244,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
 					"category": "Chinese Orchestra-Full Orchestra",
 					"award": "Distinction"
 				},
@@ -266,11 +270,6 @@
 				{
 					"year": "2017",
 					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Band - Concert",
 					"award": "Accomplishment"
 				}
 			],
@@ -462,8 +461,8 @@
 		1.4414913127374
 	],
 	"svy21": [
-		23639.7815383635,
-		47018.3404796124
+		23639.7815383636,
+		47018.3404796123
 	],
 	"planningArea": "WD",
 	"neighbours": [

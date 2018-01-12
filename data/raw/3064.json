@@ -5,7 +5,7 @@
 	"uen": " T07GS3064L",
 	"logo": "./Medias/Images/Schools/logos/tn2_3064.jpg",
 	"website": "http://www.fajarsec.moe.edu.sg",
-	"address": "58, CHESTNUT DRIVE ( 679301 )",
+	"address": "31, GANGSA ROAD ( 678972 )",
 	"telephone": [
 		"67691491"
 	],
@@ -13,8 +13,8 @@
 		"67633025"
 	],
 	"email": "FAJAR_SS@MOE.EDU.SG",
-	"mrt": "CASHEW MRT, HILLVIEW MRT",
-	"bus": "67 , 75 , 170 , 171 , 176 , 178 , 184 , 598 , 961 , 961C , 963 , 970 ",
+	"mrt": "BUKIT PANJANG MRT, BUKIT PANJANG LRT, PETIR LRT",
+	"bus": "67 , 75 , 170 , 171 , 176 , 177 , 178 , 960 , 961 , 961C , 963 , 963E , 963R , 970 , 979 , 979M ",
 	"GeneralInformation": {
 		"Principal": "MISS HO SOOK FUN DORIS",
 		"Vice Principal": [
@@ -763,5 +763,5 @@
 			]
 		}
 	},
-	"postalCode": "679301"
+	"postalCode": "678972"
 }

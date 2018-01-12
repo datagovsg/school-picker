@@ -19,8 +19,10 @@
 	"bus": "912 & 912E",
 	"GeneralInformation": {
 		"Principal": "Miss Tan Sin Wei Winnie",
-		"Vice Principal": "Mdm Wong Yen Ling",
-		"Vice Principal (Admin)": "Mrs Haryati Teh",
+		"Vice Principal": [
+			"Mdm Wong Yen Ling",
+			"Mdm Komathi D/o Govindasamy"
+		],
 		"School Vision": "Gracious Woodlanders with the Zest to Excel",
 		"School Mission": "To develop in pupils, skills and knowledge and a desire for continuous learning in order to stay relevant for the future.",
 		"School Philosophy, Culture and Ethos": [
@@ -453,12 +455,12 @@
 	},
 	"postalCode": "738853",
 	"coordinates": [
-		103.791771641,
-		1.4367457091
+		103.79178470761,
+		1.4367457091015
 	],
 	"svy21": [
-		23376.46,
-		46493.6
+		23377.9511837458,
+		46493.673689463816
 	],
 	"planningArea": "WD",
 	"neighbours": [

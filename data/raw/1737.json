@@ -16,8 +16,11 @@
 	"mrt": "Pasir Ris MRT",
 	"bus": "3 , 15 , 39 , 53 , 81 , 88 , 89 , 357 , 403 , 518 ",
 	"GeneralInformation": {
-		"Principal": "MDM FAN YUEN FUN CASSIE",
-		"Vice Principal": "MR KENNY RAPHAEL REYES",
+		"Principal": "MDM CHUA PEI PEI",
+		"Vice Principal": [
+			"MR KENNY RAPHAEL REYES",
+			"MRS ESTHER SEE-LING SZENGEN"
+		],
 		"Vice Principal (Admin)": "MDM ROSEWATI BINTE SUKIMAN",
 		"School Vision": "Where Potential Becomes Reality",
 		"School Mission": "Providing a Holistic Education",

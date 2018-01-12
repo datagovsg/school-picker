@@ -43,7 +43,6 @@
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
-		"ELECTRONICS",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
@@ -67,7 +66,6 @@
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
-		"SMART ELECTRICAL TECHNOLOGY",
 		"SOCIAL STUDIES",
 		"TAMIL",
 		"TAMIL N(A)"
@@ -1012,23 +1010,23 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Dance - Chinese": "Distinction",
-					"Dance - Malay": "Distinction",
-					"Drama - English": "Accomplishment",
-					"Ensemble - Angklung / Kulintang": "Distinction",
 					"Art - Category A": "Recognition",
 					"Art - Category B": "Recognition",
 					"Band - Concert": "Accomplishment",
 					"Chinese Orchestra-Full Orchestra": "Accomplishment",
-					"Choir": "Accomplishment"
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Distinction"
 				},
 				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Gold",
+					"Boys' Brigade": "Silver",
 					"Girls' Brigade": "Gold",
 					"Ncc (Land Boys)": "Silver",
 					"Npcc (Land)": "Silver",
 					"St John Ambulance Brigade": "Silver",
-					"Boys' Brigade": "Silver"
+					"Girl Guides (Coy 1)": "Gold"
 				}
 			}
 		}

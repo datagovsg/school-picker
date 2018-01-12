@@ -45,27 +45,7 @@
 		"Physical Education",
 		"Social Studies"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Excellence Rugby",
-			"Excellence Softball"
-		],
-		"Uniformed Groups": [
-			"Excellence Boys' Brigade",
-			"Excellence Girls' Brigade",
-			"Excellence Scouts"
-		],
-		"Visual and Performing Arts": [
-			"Excellence Art Connoisseur Club",
-			"Excellence Band",
-			"Excellence Choir",
-			"Modular Art Connoisseur Club"
-		],
-		"Clubs & Societies": [
-			"Excellence El Literary Club",
-			"Excellence Environment Club"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"ICT & Media": "Developing 21st Century Competencies through ICT",
@@ -459,12 +439,12 @@
 	},
 	"postalCode": "544974",
 	"coordinates": [
-		103.895854102,
-		1.38289309908
+		103.89583589237,
+		1.3828930990877
 	],
 	"svy21": [
-		34959.41,
-		40538.9
+		34957.420573353695,
+		40538.97366420201
 	],
 	"planningArea": "SE",
 	"neighbours": [

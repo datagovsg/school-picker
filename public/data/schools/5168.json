@@ -19,10 +19,7 @@
 	"bus": "Service 7 , 70 , 70M , 197(to Guillemard Road) ",
 	"GeneralInformation": {
 		"Principal": "Mdm Chua Ye Ling",
-		"Vice Principal": [
-			"Mr Yee Yew Loong",
-			"Mdm Foo Mei Ping"
-		],
+		"Vice Principal": "Mdm Foo Mei Ping",
 		"Vice Principal (Admin)": "Mr Chong Yew Bun Edward",
 		"School Vision": "Learning with Perseverance, Serving with Sincerity.",
 		"School Mission": "To bring out the best in every Kong Hwaian and to inculcate in him sound moral values and a passion to learn and serve.",
@@ -708,12 +705,12 @@
 	},
 	"postalCode": "399772",
 	"coordinates": [
-		103.888209399,
-		1.31111391543
+		103.88819503198,
+		1.3111139154301
 	],
 	"svy21": [
-		34108.83,
-		32601.9
+		34107.26817080116,
+		32601.973682355176
 	],
 	"planningArea": "GL",
 	"neighbours": [

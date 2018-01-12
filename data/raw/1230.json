@@ -17,7 +17,10 @@
 	"bus": "Bus No. 2 , 9 , 12 , 24 , 31 , 34 & 38 ",
 	"GeneralInformation": {
 		"Principal": "MRS NG KIM CHOO CELINE",
-		"Vice Principal": "MDM HO FUI FONG",
+		"Vice Principal": [
+			"MDM HO FUI FONG",
+			"MDM SHARIFAH FAIRUZ BTE S Y A"
+		],
 		"School Vision": "Empowered Learners, Persons of Strength and Character",
 		"School Mission": "To empower BGPians to learn how to learn and succeed, and nurture them to be confident persons and concerned citizens.",
 		"School Philosophy, Culture and Ethos": [

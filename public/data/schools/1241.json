@@ -296,11 +296,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2017",
 					"category": "Art - Category C",
 					"award": "Recognition"
 				},
@@ -328,6 +323,11 @@
 					"year": "2017",
 					"category": "Dance - Malay",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
 				}
 			],
 			"Best Unit Award": [
@@ -396,12 +396,12 @@
 	},
 	"postalCode": "689762",
 	"coordinates": [
-		103.747289776,
-		1.3817664262
+		103.74731479634,
+		1.381766426209
 	],
 	"svy21": [
-		18426.08,
-		40414.4
+		18428.901540409734,
+		40414.47361441977
 	],
 	"planningArea": "CK",
 	"neighbours": [

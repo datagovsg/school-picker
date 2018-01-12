@@ -17,7 +17,7 @@ export default {
   },
 
   email (json) {
-    return json.email.toLowerCase()
+    return json.email && json.email.toLowerCase()
   },
 
   coordinates (json) {

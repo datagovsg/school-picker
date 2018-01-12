@@ -20,7 +20,7 @@
 	"bus": "45 , 50 , 55 , 261 , 548 , 22 , 24 , 128 , 135 , 159 , 162 , 162M , 262 , 853 ",
 	"GeneralInformation": {
 		"Principal": "Mr Tan Boon Hong Victor",
-		"Vice Principal": "Mdm Tan Siew Khim",
+		"Vice Principal": "Mdm Tan Siew Khim (Chen Xiuqin)",
 		"Vice Principal (Admin)": "Mr Loh Siang Kiang",
 		"School Vision": "Leaders of Character, Learners for Life",
 		"School Mission": "To nurture people of character, healthy patriotic citizens and creative independent thinkers equipped with 21st century skills",
@@ -66,8 +66,7 @@
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
-			"Girls' Brigade",
-			"Scouts"
+			"Girls' Brigade"
 		],
 		"Visual and Performing Arts": [
 			"Angklung & Kulintang",
@@ -236,6 +235,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
 					"category": "Dance - Malay",
 					"award": "Distinction"
 				},
@@ -243,11 +247,6 @@
 					"year": "2017",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -306,12 +305,12 @@
 	},
 	"postalCode": "569730",
 	"coordinates": [
-		103.853881202,
-		1.36031457676
+		103.8538754111,
+		1.3603145767646
 	],
 	"svy21": [
-		30288.38,
-		38042.2
+		30287.77263071855,
+		38042.27371141277
 	],
 	"planningArea": "AM",
 	"neighbours": [

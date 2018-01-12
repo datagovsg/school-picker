@@ -16,7 +16,7 @@
 	"mrt": [],
 	"bus": "920 , 972 ",
 	"GeneralInformation": {
-		"Principal": "Mdm Betty Chang",
+		"Principal": "Mr Tan Chin Eng Adolphus",
 		"Vice Principal": [
 			"Mr Lim Han Seng Andrew",
 			"Mr V Siva Kumar"
@@ -55,7 +55,6 @@
 		"Malay",
 		"Mathematics",
 		"Music",
-		"Physical Education",
 		"Physics",
 		"Principles Of A/C",
 		"Project Work",
@@ -87,7 +86,6 @@
 		],
 		"Clubs & Societies": [
 			"Audio & Video/ Pa Club",
-			"It Club",
 			"Library Council",
 			"Photography & Digital Media"
 		]
@@ -397,17 +395,17 @@
 				},
 				{
 					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "NCC (Land Boys)",
 					"award": "Silver"
 				},
 				{
 					"year": "2017",
 					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Girl Guides (Coy 1)",
 					"award": "Gold"
 				}
 			]
@@ -517,7 +515,7 @@
 		1.38782283796462
 	],
 	"svy21": [
-		19854.9258730253,
+		19854.9258730258,
 		41084.0399392247
 	],
 	"planningArea": "BP",

@@ -19,8 +19,10 @@
 	"bus": "98 , 187 , 335 ",
 	"GeneralInformation": {
 		"Principal": "Miss Geetha D/o Doraisamy",
-		"Vice Principal": "Mdm Adeline Chong",
-		"Vice Principal (Admin)": "Mr Tan Suan Piow",
+		"Vice Principal": [
+			"Mdm Adeline Chong",
+			"Mr Muhammad Fadylla B Rashiman"
+		],
 		"School Vision": "A vibrant learning community, rooted in values and ready to serve.",
 		"School Mission": "To nurture a star in every Shuqunite, who places community above self.",
 		"School Philosophy, Culture and Ethos": [
@@ -410,12 +412,12 @@
 	},
 	"postalCode": "649332",
 	"coordinates": [
-		103.721557917,
-		1.34756778095
+		103.72158883167,
+		1.3475677809576
 	],
 	"svy21": [
-		15562.27,
-		36633
+		15565.747478156483,
+		36633.07355706123
 	],
 	"planningArea": "JW",
 	"neighbours": [

@@ -19,9 +19,9 @@
 		"Principal": "MR ANG POW CHEW",
 		"Vice Principal": [
 			"MR LIONG HUAI YU",
-			"MR LIM WEE JAMES"
+			"MR HARMAN AUGUSTUS JOHLL"
 		],
-		"Vice Principal (Admin)": "MR ZAINAL ABIDIN BIN MAHMOOD",
+		"Vice Principal (Admin)": "MR TAN YONG LIANG",
 		"School Vision": "NJCians demonstrate Loyalty with Integrity; Scholarship with Creativity; Leadership with Sensitivity",
 		"School Mission": "College of the Nation: Home of Scholars and Leaders who Serve with Honour",
 		"School Philosophy, Culture and Ethos": "We seek to create a joyful and lively learning community for students and staff. Every NJCian will leave with a distinctive and memorable experience. They will learn to serve with honour, to be loyal to family and Singapore, to be leaders sensitive to the needs of others, and to be creative in their approach to solving problems. They would have imbibed the values of civility, altruism, resilience and enterprise.",
@@ -67,50 +67,7 @@
 		"H3 PHARMACEUTICAL CHEMISTRY",
 		"H3 PROTEOMICS"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Badminton",
-			"Basketball",
-			"Canoeing/ Dragon Boat",
-			"Climbing",
-			"Football",
-			"Hockey",
-			"Netball",
-			"Shooting",
-			"Softball",
-			"Squash",
-			"Table Tennis",
-			"Tennis",
-			"Touch Rugby",
-			"Track & Field/ Cross Country"
-		],
-		"Visual and Performing Arts": [
-			"Aesthetics Club",
-			"Chinese Dance",
-			"Chinese Orchestra/Guzheng Ensemble",
-			"Choir",
-			"Guitar Ensemble",
-			"Indian Dance",
-			"Malay Dance",
-			"Piano Ensemble",
-			"String Orchestra",
-			"Symphonic Band",
-			"Western Dance"
-		],
-		"Clubs & Societies": [
-			"Ava & Pa Club",
-			"Biztech",
-			"Cldds",
-			"Eldds",
-			"Green Link",
-			"Ildds",
-			"Interact Club",
-			"Mathematics Society",
-			"Mldds",
-			"Outdoor Activities Club",
-			"Science And Technology Society"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Integrated Programme",
@@ -1124,7 +1081,6 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Art - Category A": "Recognition",
 					"Art - Category B": "Recognition",
 					"Band - Concert": "Accomplishment",
 					"Chinese Orchestra-Full Orchestra": "Accomplishment",
@@ -1135,7 +1091,8 @@
 					"Dance - Malay": "Distinction",
 					"Drama - English": "Accomplishment",
 					"Ensemble - Guitar": "Distinction",
-					"Ensemble - Guzheng": "Accomplishment"
+					"Ensemble - Guzheng": "Accomplishment",
+					"Art - Category A": "Recognition"
 				}
 			}
 		},

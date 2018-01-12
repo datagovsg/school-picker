@@ -59,8 +59,7 @@
 	"Cca": {
 		"Physical Sports": [
 			"Basketball",
-			"Let's Play Sports Club",
-			"Swimming",
+			"Let's Play Sports",
 			"Table Tennis",
 			"Volleyball",
 			"Wushu And Lion Dance"
@@ -77,8 +76,6 @@
 			"Choir"
 		],
 		"Clubs & Societies": [
-			"123 Games Club",
-			"Chinese Chess Club",
 			"Peer Tutoring Club",
 			"Science And Gardening Club",
 			"Weiqi"
@@ -758,12 +755,12 @@
 	},
 	"postalCode": "319133",
 	"coordinates": [
-		103.855473433,
-		1.33728854118
+		103.85546740373,
+		1.3372885411824
 	],
 	"svy21": [
-		30465.6,
-		35496.1
+		30464.96599377817,
+		35496.17371086648
 	],
 	"planningArea": "TP",
 	"neighbours": [

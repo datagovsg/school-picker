@@ -17,7 +17,7 @@
 	"mrt": "TAN KAH KEE MRT",
 	"bus": "66 , 67 , 74 , 151 , 154 , 156 , 157 , 170 , 171 , 174 , 852 , 961 ",
 	"GeneralInformation": {
-		"Principal": "DR HON CHIEW WENG",
+		"Principal": "MR PANG CHOON HOW",
 		"Vice Principal": [
 			"MR CHAN KWOK LEONG",
 			"MRS CHIN-LEOW BEE KUAN",
@@ -35,72 +35,22 @@
 	},
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
-		"AMERICAN LITERATURE",
 		"ART",
 		"BIOLOGY",
-		"CHARACTER & CITIZENSHIP EDUCATION",
 		"CHEMISTRY",
-		"CHINA STUDIES",
 		"ENGLISH LANGUAGE",
 		"GEOGRAPHY",
-		"GUIDANCE EDUCATION",
 		"HIGHER CHINESE",
 		"HISTORY",
-		"INDEPENDENT STUDIES",
-		"INFOCOMM STUDIES",
 		"INTEGRATED MATHEMATICS",
-		"LITERATURE (C)",
 		"LITERATURE(E)",
-		"LOWER SECONDARY SCIENCE",
 		"MALAY (SPECIAL PROGRAMME)",
 		"MATHEMATICS",
 		"MUSIC",
 		"PHYSICAL EDUCATION",
-		"PHYSICS",
-		"SOCIO-ECONOMIC STUDIES"
+		"PHYSICS"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Air Rifle / Shooting",
-			"Artistic Gymnastics",
-			"Badminton",
-			"Basketball",
-			"Canoeing/Rowing/Dragon Boat",
-			"Cross Country",
-			"Fencing",
-			"Judo",
-			"Softball",
-			"Table Tennis",
-			"Tennis",
-			"Track & Field",
-			"Volleyball",
-			"Water Polo",
-			"Wushu"
-		],
-		"Uniformed Groups": [
-			"Ncc (Land)",
-			"Npcc",
-			"Scouts",
-			"St. John Brigade"
-		],
-		"Visual and Performing Arts": [
-			"Band - Display/Marching",
-			"Choir",
-			"Drama - Chinese",
-			"Drama - English",
-			"Ensemble - String",
-			"Orchestra - Chinese"
-		],
-		"Clubs & Societies": [
-			"Audio & Video/ Pa Club",
-			"Chess Club - Chinese",
-			"Debating And Oratorical Society",
-			"Infocom Club",
-			"Library Council",
-			"Singapore Youth Flying Club",
-			"Weiqi Club"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Integrated Programme",
@@ -2782,6 +2732,17 @@
 						"-"
 					],
 					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
 						"Canoeing",
 						"2nd",
 						"3rd",
@@ -2932,17 +2893,6 @@
 						"-",
 						"-",
 						"-",
-						"-",
-						"-"
-					],
-					[
-						"Basketball",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"2nd",
 						"-",
 						"-"
 					]
@@ -5125,11 +5075,11 @@
 					"Choir": "Distinction",
 					"Dance - Chinese": "Distinction",
 					"Dance - International": "Distinction",
-					"Drama - English": "Accomplishment",
+					"Drama - Chinese": "Accomplishment",
 					"Ensemble - Guitar": "Distinction",
 					"Ensemble - Harmonica": "Distinction",
 					"Ensemble - Strings": "Accomplishment",
-					"Drama - Chinese": "Accomplishment"
+					"Drama - English": "Accomplishment"
 				}
 			}
 		}

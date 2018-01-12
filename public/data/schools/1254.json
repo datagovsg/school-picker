@@ -54,31 +54,7 @@
 		"Social Studies",
 		"Tamil"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Basketball",
-			"Floorball",
-			"Netball",
-			"Wushu"
-		],
-		"Uniformed Groups": [
-			"Scouts"
-		],
-		"Visual and Performing Arts": [
-			"Art Club",
-			"Choir",
-			"Guzheng Ensemble",
-			"Handbells Ensemble",
-			"Modern Dance",
-			"Photography"
-		],
-		"Clubs & Societies": [
-			"Fun Science",
-			"Green Club",
-			"Infocomm",
-			"Robotics Club"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Community Service & Student Leadership": "Inculcating Attitudes and Habits to Conserve the Environment through Environmental Education",
@@ -360,12 +336,12 @@
 	},
 	"postalCode": "544969",
 	"coordinates": [
-		103.887255995,
-		1.39066179596
+		103.88724011313,
+		1.3906617959616
 	],
 	"svy21": [
-		34002.53,
-		41397.9
+		34000.79958339002,
+		41397.973677060545
 	],
 	"planningArea": "SE",
 	"neighbours": [

@@ -22,8 +22,9 @@
 		"Principal": "Mdm Ng Shok Yan",
 		"Vice Principal": [
 			"Mr Tan Hock Chuan Michael",
-			"Mdm Kuek Yen Yen Sheree"
+			"Mr Tay Hiang Soon"
 		],
+		"Vice Principal (Admin)": "Mr Jayakumar S/o Navaretnam",
 		"School Vision": "Quality Mind, Caring Heart",
 		"School Mission": "To provide a well-balanced education to our pupils; develop their potential to the fullest intellectually, physically, morally, socially, emotionally and aesthetically; and prepare them to contribute to the nation.",
 		"School Philosophy, Culture and Ethos": "Yishun Secondary School is committed to developing our students holistically. We take pride in offering a values-driven education that develops the strengths of each student. Through the years, Yishun Secondary has produced many successful students, whose achievements are made possible by a team of dedicated educators who believe that 'every child can succeed'. The school's motto, 'We Seek, We Strive, We Soar', describes our continuous effort in striving for excellence to soar to greater heights. The school values of Respect, Integrity and Resilience are inculcated in students via daily lessons and school programmes. The school also seeks to develop every student to be a Thinker, an Innovator and a Contributor (Desired Outcomes of an Yishunite) to prepare them for the future.",
@@ -312,6 +313,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
 					"category": "Dance - Indian",
 					"award": "Distinction"
 				},
@@ -334,11 +340,6 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -544,7 +545,7 @@
 		1.4281332427609
 	],
 	"svy21": [
-		27493.1783263981,
+		27493.1783263983,
 		45541.2352395412
 	],
 	"planningArea": "YS",

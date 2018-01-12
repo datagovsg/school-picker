@@ -57,27 +57,7 @@
 		"Social Studies",
 		"Tamil"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Netball",
-			"Softball",
-			"Table Tennis"
-		],
-		"Uniformed Groups": [
-			"Brownies"
-		],
-		"Visual and Performing Arts": [
-			"Art And Craft Club",
-			"Choir",
-			"El Drama Club",
-			"Fusion Dance",
-			"Tap Dance"
-		],
-		"Clubs & Societies": [
-			"Cl Cultural Club",
-			"Environmental Science Club"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Science": "Science and Environment Education @ OLQP (SEE @ OLQP)",
@@ -328,12 +308,12 @@
 	},
 	"postalCode": "679287",
 	"coordinates": [
-		103.767694735,
-		1.3667573581
+		103.76771340974,
+		1.3667573581039
 	],
 	"svy21": [
-		20696.85,
-		38754.7
+		20698.965335238485,
+		38754.773658787264
 	],
 	"planningArea": "BP",
 	"neighbours": [

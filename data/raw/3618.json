@@ -75,16 +75,14 @@
 		],
 		"Visual and Performing Arts": [
 			"Band - Concert",
-			"Dance - Malay",
 			"Elds",
 			"Movement & Dance",
 			"Show Choir"
 		],
 		"Clubs & Societies": [
 			"Avpa",
-			"Book Society",
 			"Entrepreneur Club",
-			"Green Club",
+			"Green Book Club",
 			"Infocom Club",
 			"Robotics Club"
 		]
@@ -843,8 +841,8 @@
 				"Best Unit Award": {
 					"Boys' Brigade": "Gold",
 					"Ncc (Land Boys)": "Silver",
-					"Npcc (Land)": "Gold",
-					"Red Cross": "Gold"
+					"Red Cross": "Gold",
+					"Npcc (Land)": "Gold"
 				}
 			}
 		}

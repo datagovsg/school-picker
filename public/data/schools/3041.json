@@ -522,6 +522,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
 					"category": "NCC (Land Boys)",
 					"award": "Gold"
 				},
@@ -534,11 +539,6 @@
 					"year": "2017",
 					"category": "St John Ambulance Brigade",
 					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Bronze"
 				}
 			]
 		}
@@ -647,7 +647,7 @@
 		1.43912528141358
 	],
 	"svy21": [
-		21464.012295194,
+		21464.0122951944,
 		46756.7632628046
 	],
 	"planningArea": "WD",

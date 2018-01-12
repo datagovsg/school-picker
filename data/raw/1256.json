@@ -15,8 +15,11 @@
 	"email": "cantonment_ps@moe.edu.sg",
 	"mrt": "Tanjong Pagar Outram",
 	"GeneralInformation": {
-		"Principal": "MDM WONG MEI FOONG",
-		"Vice Principal": "MISS SABARIAH BTE SUBARI",
+		"Principal": "MRS MANOKARA SUGUNAVATHI",
+		"Vice Principal": [
+			"MISS SABARIAH BTE SUBARI",
+			"MISS CHEANG MENG TSING"
+		],
 		"School Vision": "Concerned citizens, innovative thinkers, inspired for excellence, service and influence",
 		"School Mission": "To nurture and empower our students to realise their potential and aspirations so as to have a positive and significant impact in the school and community",
 		"School Philosophy, Culture and Ethos": [
@@ -39,7 +42,7 @@
 			"Dance - International"
 		],
 		"Clubs & Societies": [
-			"Infocom/Robotics Club"
+			"Infocom Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -142,8 +145,8 @@
 				],
 				"SYF Arts Presentation": {
 					"Art - Category A": "Recognition",
-					"Ensemble - Guitar": "Commendation",
-					"Dance - International": "Accomplishment"
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guitar": "Commendation"
 				}
 			}
 		}

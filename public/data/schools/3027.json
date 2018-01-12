@@ -19,7 +19,10 @@
 	"bus": "10 , 14 , 45 ",
 	"GeneralInformation": {
 		"Principal": "Miss Pauline Fun Kar Whye",
-		"Vice Principal": "Mr Chen Bing Hong",
+		"Vice Principal": [
+			"Mr Chen Bing Hong",
+			"Miss Azlinda Bte Samsudin"
+		],
 		"School Vision": "A Value-Added, Quality School",
 		"School Mission": "Build Character, Develop Leaders of Tomorrow (who will) Serve with Conviction",
 		"School Philosophy, Culture and Ethos": "Bedok South Secondary School's motto is Success through Endeavour. We are a value-added, quality school that is committed to engaging and nurturing the whole child through student-centric approaches. The school strives to develop all BDSians to become active members of the society imbued with 21st century competencies and skills. We believe in inculcating the ICARE values (Integrity, Courage, Accountability, Respect, Excellence and Care) in our students to prepare them for life. The value of caring for themselves, their families, friends and the community is a very important part of BDS education and culture.",
@@ -270,17 +273,17 @@
 				},
 				{
 					"year": "2017",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
 					"category": "Dance - International",
 					"award": "Accomplishment"
 				},
 				{
 					"year": "2017",
 					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
 					"award": "Distinction"
 				}
 			],
@@ -512,7 +515,7 @@
 		1.32513655159184
 	],
 	"svy21": [
-		41095.5563319363,
+		41095.5563319383,
 		34152.6950651165
 	],
 	"planningArea": "BD",

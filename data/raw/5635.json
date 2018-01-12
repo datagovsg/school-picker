@@ -53,30 +53,7 @@
 		"SOCIAL STUDIES",
 		"TAMIL"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Badminton",
-			"Rope Skipping",
-			"Sports Club",
-			"Table Tennis",
-			"Track & Field"
-		],
-		"Uniformed Groups": [
-			"Girls' Brigade"
-		],
-		"Visual and Performing Arts": [
-			"Angklung Ensemble",
-			"Art Club",
-			"Choir",
-			"Handbell Ensemble",
-			"International Dance",
-			"Media Club",
-			"String Ensemble"
-		],
-		"Clubs & Societies": [
-			"Christian Fellowship"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -1239,10 +1216,10 @@
 				"SYF Arts Presentation": {
 					"Art - Category C": "Recognition(Sm)",
 					"Choir": "Distinction",
-					"Dance - International": "Accomplishment",
 					"Ensemble - Angklung / Kulintang": "Distinction",
 					"Ensemble - Handbell / Handchime": "Distinction",
-					"Ensemble - Strings": "Accomplishment"
+					"Ensemble - Strings": "Accomplishment",
+					"Dance - International": "Accomplishment"
 				},
 				"Best Unit Award": {
 					"Girls' Brigade": "Gold"

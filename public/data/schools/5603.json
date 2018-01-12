@@ -19,7 +19,7 @@
 	"bus": "Bus 293 , 72 , 27 and 168 ",
 	"GeneralInformation": {
 		"Principal": "Mr Mah Seng Thong Andrew",
-		"Vice Principal": "Mrs Esther See-Ling Szengen",
+		"Vice Principal": "Mdm Peh Tan Wee",
 		"Vice Principal (Admin)": "Miss Chua Mei Li",
 		"School Vision": "To be a premier SAP school",
 		"School Mission": "To nurture morally upright, effectively bilingual and concerned citizens",
@@ -463,17 +463,17 @@
 				},
 				{
 					"year": "2017",
-					"category": "Chinese Orchestra-Full Orchestra",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
 					"category": "Dance - Chinese",
 					"award": "Distinction"
 				},
 				{
 					"year": "2017",
 					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
 					"award": "Distinction"
 				}
 			],
@@ -503,12 +503,12 @@
 	},
 	"postalCode": "529067",
 	"coordinates": [
-		103.935352491,
-		1.35808685753
+		103.93532383409,
+		1.3580868575381
 	],
 	"svy21": [
-		39355.2,
-		37796.1
+		39352.04781150597,
+		37796.173583569034
 	],
 	"planningArea": "TM",
 	"neighbours": [

@@ -5,7 +5,7 @@
 	"uen": " T07GS1102J",
 	"logo": "./Medias/Images/Schools/logos/tn_1102.jpg",
 	"website": "http://www.damaipri.moe.edu.sg",
-	"address": "50, BEDOK RESERVOIR CRESCENT ( 479225 )",
+	"address": "52, BEDOK RESERVOIR CRESCENT ( 479226 )",
 	"telephone": [
 		"64456483"
 	],
@@ -670,17 +670,6 @@
 						"Senior"
 					],
 					[
-						"Rope Skipping",
-						"-",
-						"-",
-						"-",
-						"-",
-						"2nd",
-						"1st",
-						"4th",
-						"-"
-					],
-					[
 						"Rugby",
 						"-",
 						"-",
@@ -689,6 +678,17 @@
 						"1st",
 						"3rd",
 						"-",
+						"-"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"4th",
 						"-"
 					]
 				],
@@ -703,5 +703,5 @@
 			}
 		}
 	},
-	"postalCode": "479225"
+	"postalCode": "479226"
 }

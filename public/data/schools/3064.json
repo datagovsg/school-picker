@@ -5,7 +5,7 @@
 	"uen": " T07GS3064L",
 	"logo": "./Medias/Images/Schools/logos/tn2_3064.jpg",
 	"website": "http://www.fajarsec.moe.edu.sg",
-	"address": "58, Chestnut Drive (679301)",
+	"address": "31, Gangsa Road (678972)",
 	"telephone": [
 		"67691491"
 	],
@@ -14,10 +14,9 @@
 	],
 	"email": "FAJAR_SS@MOE.EDU.SG",
 	"mrt": [
-		"Cashew MRT",
-		"Hillview MRT"
+		"Bukit Panjang MRT"
 	],
-	"bus": "67 , 75 , 170 , 171 , 176 , 178 , 184 , 598 , 961 , 961C , 963 , 970 ",
+	"bus": "67 , 75 , 170 , 171 , 176 , 177 , 178 , 960 , 961 , 961C , 963 , 963E , 963R , 970 , 979 , 979M ",
 	"GeneralInformation": {
 		"Principal": "Miss Ho Sook Fun Doris",
 		"Vice Principal": [
@@ -426,14 +425,14 @@
 			"upperAffiliated": null
 		}
 	],
-	"postalCode": "679301",
+	"postalCode": "678972",
 	"coordinates": [
-		103.770799892647,
-		1.36890870244512
+		103.763998914082,
+		1.37560005371676
 	],
 	"svy21": [
-		21042.4232613929,
-		38992.5756268147
+		20285.577353027,
+		39732.4925610833
 	],
 	"planningArea": "BP",
 	"neighbours": [

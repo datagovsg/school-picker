@@ -73,7 +73,6 @@
 			"Chinese Orchestra",
 			"Choir",
 			"Drama & Debating Society",
-			"Malay Dance",
 			"Meridian Nusantara Orchestra",
 			"Symphonic Band"
 		],
@@ -167,12 +166,12 @@
 				"SYF Arts Presentation": {
 					"Band - Concert": "Accomplishment",
 					"Chinese Orchestra-Full Orchestra": "Accomplishment",
-					"Choir": "Accomplishment",
 					"Dance - International": "Accomplishment",
 					"Dance - Malay": "Distinction",
 					"Drama - English": "Accomplishment",
 					"Ensemble - Angklung / Kulintang": "Distinction",
-					"Ensemble - Gamelan": "Distinction"
+					"Ensemble - Gamelan": "Distinction",
+					"Choir": "Accomplishment"
 				}
 			}
 		}

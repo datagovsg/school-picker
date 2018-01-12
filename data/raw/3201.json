@@ -63,7 +63,6 @@
 	"Cca": {
 		"Physical Sports": [
 			"Basketball",
-			"Netball",
 			"Shooting",
 			"Soccer",
 			"Track & Field"
@@ -1102,11 +1101,11 @@
 				],
 				"SYF Arts Presentation": {
 					"Art - Category B": "Recognition",
-					"Band - Concert": "Accomplishment",
 					"Chinese Orchestra-Full Orchestra": "Accomplishment",
 					"Choir": "Distinction",
 					"Dance - International": "Accomplishment",
-					"Drama - English": "Distinction"
+					"Drama - English": "Distinction",
+					"Band - Concert": "Accomplishment"
 				},
 				"Best Unit Award": {
 					"Ncc (Land Boys)": "Silver",

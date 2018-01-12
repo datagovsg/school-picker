@@ -20,8 +20,11 @@
 	"bus": "45 , 53 , 53M , 62 , 113 ",
 	"GeneralInformation": {
 		"Principal": "Mrs Quek Li Gek",
-		"Vice Principal": "Miss Ong Liang Fung",
-		"Vice Principal (Admin)": "Mr Tan Yong Liang",
+		"Vice Principal": [
+			"Mdm Ong Liang Fung",
+			"Miss Sim Soo Leng Aileen"
+		],
+		"Vice Principal (Admin)": "Mdm Chua Nga Woon",
 		"School Vision": "An outstanding school of choice producing women of fine character with a passion for life and learning.",
 		"School Mission": "To nurture every PL-Lite into a whole person who lives in favour with God and Man.",
 		"School Philosophy, Culture and Ethos": "Founded in 1916, PLMGS(Sec) is a school rich in heritage and tradition. At the heart of an education in PL is holistic education with an emphasis on Character Development. This stems from the school's philosophy of developing students cognitively, physically, morally, socially and emotionally. As the school prepares students for life, it seeks to develop them to their fullest potential across the spectrum of talents and abilities. PL aspires to be an outstanding school of choice that produces women of fine character with a passion for life and learning. Sound character development must be grounded in values. PL-Lites are expected to demonstrate our school values as represented in the acronym HEART; Each PL-Lite Honours God, has an Excellence mindset, is Adaptable, Respects others (and is respected) and is always Thankful. PL-Lites will be enriched for life, each becoming \"A Confident PL-Lite, A Passionate Learner, An Active Citizen and An Inspiring Leader\".",
@@ -88,12 +91,12 @@
 			"Dance",
 			"Guitar",
 			"Guzheng",
-			"Handbell",
-			"Harp",
+			"Handbell Ensemble",
+			"Harp Ensemble",
 			"Photography Club"
 		],
 		"Clubs & Societies": [
-			"Eldds - Debate",
+			"Debate Club",
 			"Media And Information Technology Club"
 		]
 	},
@@ -650,7 +653,7 @@
 		1.35096755912523
 	],
 	"svy21": [
-		33764.9220583513,
+		33764.9220583519,
 		37008.7061571125
 	],
 	"planningArea": "HG",

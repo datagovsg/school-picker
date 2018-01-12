@@ -16,8 +16,12 @@
 	"mrt": "BEDOK MRT, TAMPINES MRT",
 	"bus": "5 , 21 , 22 , 59 , 65 , 66 , 228 , 506 , CT18 ",
 	"GeneralInformation": {
-		"Principal": "MR CHOW WEISI",
-		"Vice Principal": "MS SANTHA SUKUMARAN",
+		"Principal": "MDM CHAN WAN SIONG",
+		"Vice Principal": [
+			"MS SANTHA SUKUMARAN",
+			"MRS OH WEE MING"
+		],
+		"Vice Principal (Admin)": "MR TOO MENG NGEE",
 		"School Vision": "Learning in Damai Today, Growing to be Leaders of Tomorrow.",
 		"School Mission": "We Nurture Our Students to be Committed, Competent and Compassionate Leaders.",
 		"School Philosophy, Culture and Ethos": "In Damai, we believe every child has the capacity to learn with the encouragement, motivation and guidance we give them. In addition to providing students with an academic curriculum to develop cognitive skills, knowledge and attitudes, we also focus on character and leadership development. Our LLP builds students' character, leadership and life-skills like resilience and a collaborative spirit to navigate life's challenges. The school's unique Values-in-Action (VIA) programme provides excellent opportunities to translate values and leadership skills into action and nurture concerned citizens, active contributors and confident leaders of the 21st century. The LLP-infused Waterways Clean-up is a rare opportunity to use kayaking skills to care for the environment and appreciate water as a precious resource. STEM-ALP infused VIA initiatives such as visits to NKF and old folks' homes provide yet another platform to further develop empathy as we nurture them to become compassionate leaders. We are heartened that our students have done well in both academic and character domains over the years.  With support from parents and collaboration with tertiary institutions, we will continue to ride on the waves of academic and character excellences that characterise Damai culture, vision, mission and values.",
@@ -850,8 +854,8 @@
 					"Boys' Brigade": "Bronze",
 					"Girl Guides (Coy 1)": "Gold",
 					"Ncc (Land Boys)": "Silver",
-					"St John Ambulance Brigade": "Silver",
-					"Npcc (Land)": "Silver"
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Silver"
 				}
 			}
 		}

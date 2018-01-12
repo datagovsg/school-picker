@@ -79,10 +79,9 @@
 			"Band - Symphonic",
 			"Choir",
 			"Dance - Modern",
-			"Drama - English",
-			"Ensemble - Angklung/Kulintang",
-			"Ensemble - Gamelan",
-			"Ensemble - Guzheng"
+			"Ensemble - Angklung/Gamelan",
+			"Ensemble - Guzheng",
+			"Speech & Drama"
 		]
 	},
 	"SpecialProgrammes": {
@@ -312,11 +311,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
 					"category": "Dance - International",
 					"award": "Accomplishment"
 				},
@@ -339,6 +333,11 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -579,7 +578,7 @@
 		1.37764019332166
 	],
 	"svy21": [
-		33477.0592164434,
+		33477.0592164441,
 		39958.0252705533
 	],
 	"planningArea": "HG",

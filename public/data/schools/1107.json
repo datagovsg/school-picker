@@ -21,8 +21,8 @@
 		"Principal": "Mr Phua Kia Wang",
 		"Vice Principal": "Mdm Teo Siew Khim",
 		"Vice Principal (Admin)": "Mr Chua Gim Hong",
-		"School Vision": "EVERY CHILD A LIFELONG LEARNER, RESPONSIBLE LEADER AND GRACIOUS CITIZEN.",
-		"School Mission": "TO CREATE A VIBRANT LEARNING COMMUNITY WHERE EVERY INDIVIDUAL WILL EXPERIENCE SUCCESS.",
+		"School Vision": "SINGAPORE SMART SCHOOL OF THE FUTURE",
+		"School Mission": "Creating Opportunities. Leading Learning. Building Communities",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -50,8 +50,7 @@
 		"Physical Sports": [
 			"Badminton",
 			"Football",
-			"Netball",
-			"Track & Field"
+			"Netball"
 		],
 		"Uniformed Groups": [
 			"Brownies",
@@ -74,7 +73,7 @@
 			"Coding": "Students As Designers for the 21st Century",
 			"Community Service & Student Leadership": "Environmental Champions @ FHPS Programme"
 		},
-		"Special Student Development Programmes Offered": "ICT INFUSION IN TEACHING AND LEARNING,INQUIRY-BASED LEARNING FOR SCIENCE,LEARNING SUPPORT PROG, LIFE SKILLS PROG, ENABLE PROG, MATHS E-LEARNING PROG, DRAMA CURRICULUM FOR LOWER PRIMARY, LITERATURE TEXTS FOR P3-P6 (HA CLASSES),P1&P2 SWIMMING PROG, PAL FOR P1&2 ANNUAL CAMP FOR P3&P5"
+		"Special Student Development Programmes Offered": "ICT INFUSION IN TEACHING AND LEARNING,INQUIRY-BASED LEARNING FOR SCIENCE,LEARNING SUPPORT PROG, LIFE SKILLS PROG, E-LEARNING PROG, DRAMA CURRICULUM FOR LOWER PRIMARY, LITERATURE TEXTS FOR P3-P6 (HA CLASSES),P1&P2 SWIMMING PROG, PAL FOR P1&2 ANNUAL CAMP FOR P3&P5"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -240,12 +239,12 @@
 	},
 	"postalCode": "609647",
 	"coordinates": [
-		103.73666945,
-		1.33640316347
+		103.73669574366,
+		1.3364031634775
 	],
 	"svy21": [
-		17243.97,
-		35398.4
+		17246.933268923185,
+		35398.473600004065
 	],
 	"planningArea": "JE",
 	"neighbours": [

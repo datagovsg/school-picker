@@ -17,7 +17,10 @@
 	"bus": "SBS Bus 14 , 33 , 74 , 166 & 196 ",
 	"GeneralInformation": {
 		"Principal": "MDM LAW LI MEI",
-		"Vice Principal": "MR ANDREW NG SIOK KWANG",
+		"Vice Principal": [
+			"MR ANDREW NG SIOK KWANG",
+			"MISS NG SWEE LIN"
+		],
 		"Vice Principal (Admin)": "MR JAMES CHONG KOK CHIANG",
 		"School Vision": "Leaders of the future pursuing excellence, upholding strong Christian moral values and having a heart to serve",
 		"School Mission": "To provide a holistic education in a Christian environment so as to nurture leaders of good character, equipped to serve God, nation, community and school.",

@@ -652,20 +652,20 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition(Sm)",
 					"Art - Category B": "Recognition",
 					"Band - Concert": "Accomplishment",
 					"Choir": "Accomplishment",
 					"Dance - International": "Accomplishment",
 					"Drama - English": "Accomplishment",
-					"Ensemble - Guitar": "Commendation",
-					"Art - Category A": "Recognition(Sm)"
+					"Ensemble - Guitar": "Commendation"
 				},
 				"Best Unit Award": {
 					"Boys' Brigade": "Bronze",
-					"Girls' Brigade": "Gold",
 					"Ncc (Sea)": "Silver",
 					"Ncdcc": "Silver",
-					"Npcc (Land)": "Silver"
+					"Npcc (Land)": "Silver",
+					"Girls' Brigade": "Gold"
 				}
 			}
 		}

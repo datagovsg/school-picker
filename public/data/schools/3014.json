@@ -19,7 +19,7 @@
 	],
 	"bus": "31 , 36 , 43 , 47 , 48 , 55 , 76 , 135 , 155 , 196 , 196E , 197 , 401 , 541 , 763 , 853 , 853C , 4N ",
 	"GeneralInformation": {
-		"Principal": "Mr Lim Boon Kong Andrew",
+		"Principal": "Mr Chow Weisi",
 		"Vice Principal": [
 			"Mr Loong Chieh Yung (Long Jirong)",
 			"Mr Vincent Lee Wei Yee"
@@ -50,7 +50,6 @@
 		"Combined Humanities (S,H)",
 		"Design & Technology",
 		"English Language",
-		"Exercise And Sports Science",
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Art",
@@ -767,106 +766,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Cricket",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Cricket",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Cross Country",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Cross Country",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Sailing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
 					"category": "Shooting (Air Pistol)",
 					"subCategory": [
 						"National",
@@ -1007,6 +906,96 @@
 				},
 				{
 					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Cricket",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Cricket",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Cross Country",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Cross Country",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
 					"category": "Hockey",
 					"subCategory": [
 						"National",
@@ -1014,6 +1003,16 @@
 						"'C' Div"
 					],
 					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -1344,7 +1343,7 @@
 		1.30871302488523
 	],
 	"svy21": [
-		38535.0432412764,
+		38535.0432412762,
 		32336.5536597651
 	],
 	"planningArea": "BD",

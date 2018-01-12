@@ -18,11 +18,8 @@
 	],
 	"bus": "945 , 187 ",
 	"GeneralInformation": {
-		"Principal": "Mr Heng Yew Seng",
-		"Vice Principal": [
-			"Mr Hoi Weng Kit Derrick",
-			"Mr Sherwin Cheng San Shian"
-		],
+		"Principal": "Mr Sherwin Cheng San Shian",
+		"Vice Principal": "Mr Hoi Weng Kit Derrick",
 		"Vice Principal (Admin)": "Mr Chan Chee Wei",
 		"School Vision": "Thoughtful Leaders",
 		"School Mission": "We nurture students to Think, Care and Lead with P.R.I.D.E.",
@@ -54,7 +51,6 @@
 		"Food & Nutrition",
 		"Food And Consumer Education",
 		"Geography",
-		"Higher Art",
 		"Higher Chinese",
 		"Higher Malay",
 		"Higher Tamil",
@@ -591,7 +587,7 @@
 		1.36471742697479
 	],
 	"svy21": [
-		18771.713583881,
+		18771.7135838809,
 		38529.1941047646
 	],
 	"planningArea": "BK",

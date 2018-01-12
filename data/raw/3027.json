@@ -17,7 +17,10 @@
 	"bus": "10 , 14 , 45 ",
 	"GeneralInformation": {
 		"Principal": "MISS PAULINE FUN KAR WHYE",
-		"Vice Principal": "MR CHEN BING HONG",
+		"Vice Principal": [
+			"MR CHEN BING HONG",
+			"MISS AZLINDA BTE SAMSUDIN"
+		],
 		"School Vision": "A Value-Added, Quality School",
 		"School Mission": "Build Character, Develop Leaders of Tomorrow (who will) Serve with Conviction",
 		"School Philosophy, Culture and Ethos": "Bedok South Secondary School's motto is Success through Endeavour. We are a value-added, quality school that is committed to engaging and nurturing the whole child through student-centric approaches. The school strives to develop all BDSians to become active members of the society imbued with 21st century competencies and skills. We believe in inculcating the ICARE values (Integrity, Courage, Accountability, Respect, Excellence and Care) in our students to prepare them for life. The value of caring for themselves, their families, friends and the community is a very important part of BDS education and culture.",
@@ -636,9 +639,9 @@
 					"Band - Concert": "Accomplishment",
 					"Chinese Orchestra-Full Orchestra": "Accomplishment",
 					"Choir": "Accomplishment",
-					"Dance - Chinese": "Distinction",
 					"Dance - International": "Accomplishment",
-					"Dance - Malay": "Distinction"
+					"Dance - Malay": "Distinction",
+					"Dance - Chinese": "Distinction"
 				},
 				"Best Unit Award": {
 					"Girl Guides (Coy 1)": "Silver",

@@ -16,7 +16,7 @@
 	"mrt": "BISHAN MRT, MARYMOUNT MRT",
 	"bus": "410 , 13 , 50 , 52 , 53 , 54 , 55 , 56 , 57 , 58 , 59 , 74 , 88 , 93 , 128 , 130 , 132 , 156 , 157 , 162 , 163 , 165 , 166 , 167 , 851 , 852 , 855 , 980 ",
 	"GeneralInformation": {
-		"Principal": "MR CHAN POH MENG",
+		"Principal": "MR YEO KOK PENG FREDERICK",
 		"Vice Principal": [
 			"MR MAGENDIRAN K SINATHURAI",
 			"MDM THOR POH SIN THERESA",
@@ -37,7 +37,7 @@
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"DESIGN THINKING",
+		"CHINESE (SPECIAL PROGRAMME)",
 		"ENGLISH LANGUAGE",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -49,74 +49,14 @@
 		"MALAY (SPECIAL PROGRAMME)",
 		"MATHEMATICS",
 		"MUSIC",
-		"PHILOSOPHY",
 		"PHYSICS",
-		"RESEARCH EDUCATION",
+		"School Subject 1",
+		"School Subject 2",
+		"School Subject 3",
 		"SOCIAL STUDIES",
 		"TAMIL"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Air Rifle / Air Pistol",
-			"Badminton",
-			"Basketball",
-			"Cricket",
-			"Cross Country",
-			"Fencing",
-			"Floorball",
-			"Golf",
-			"Hockey",
-			"Judo",
-			"Rugby",
-			"Sailing",
-			"Shooting",
-			"Softball",
-			"Squash",
-			"Swimming",
-			"Table Tennis",
-			"Tennis",
-			"Track & Field",
-			"Water Polo"
-		],
-		"Uniformed Groups": [
-			"Boys' Brigade",
-			"Ncc (Land)",
-			"Npcc",
-			"Raffles 01 & 02 Scouts",
-			"Raffles Scouts",
-			"Red Cross",
-			"Red Cross Youth"
-		],
-		"Visual and Performing Arts": [
-			"Guitar Ensemble",
-			"Raffles Photography & Arts Club",
-			"Raffles Players",
-			"Raffles Voices",
-			"Rico (Ri Chinese Orchestra)",
-			"Rimb (Ri Military Band)",
-			"String Ensemble"
-		],
-		"Clubs & Societies": [
-			"Astronomy Club",
-			"Chess Club",
-			"Chinese Cultural Club",
-			"Chinese Drama Circle / Literary Club",
-			"Humanities Club",
-			"Indian Cultural Club",
-			"Infocomm Club",
-			"Interact Club",
-			"Malay Cultural Club",
-			"Mathematics Club",
-			"Raffles Archives & Museum",
-			"Raffles Debaters",
-			"Raffles Publications",
-			"Science Club"
-		],
-		"Others": [
-			"House Appointment",
-			"Prefectorial Board"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Integrated Programme",
@@ -6353,12 +6293,12 @@
 				"SYF Arts Presentation": {
 					"Art - Category C": "Recognition(Sm)",
 					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
 					"Dance - Indian": "Distinction",
-					"Dance - International": "Distinction",
 					"Drama - Chinese": "Commendation",
 					"Drama - English": "Distinction",
 					"Ensemble - Guitar": "Distinction",
-					"Choir": "Distinction"
+					"Dance - International": "Distinction"
 				}
 			}
 		}

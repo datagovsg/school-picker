@@ -16,8 +16,11 @@
 	"mrt": "ANG MO KIO MRT",
 	"bus": "76 , 132 , 165 , 166 , 169 , 262 , 265 , 268 ",
 	"GeneralInformation": {
-		"Principal": "MR LOO MING YAW",
-		"Vice Principal": "MDM NORHAYATI BTE AWANG",
+		"Principal": "MDM LEE EET FONG",
+		"Vice Principal": [
+			"MDM NORHAYATI BTE AWANG",
+			"MR GOH KENG TENG GORDON"
+		],
 		"Vice Principal (Admin)": "MR LAI CHYH JAU",
 		"School Vision": "Every Mayflowerian has a zest for life, a curious mind and a generous spirit",
 		"School Mission": "Every Mayflowerian - Mighty in Thought and Deed",
@@ -81,12 +84,12 @@
 		],
 		"Visual and Performing Arts": [
 			"Band - Concert",
+			"Chinese Ensembles",
 			"Choir",
 			"Dance - Chinese",
 			"Dance - Malay",
 			"Dance - Modern",
-			"Drama - English",
-			"Orchestra - Chinese"
+			"Drama - English"
 		],
 		"Clubs & Societies": [
 			"Enterprise Club",
@@ -1160,9 +1163,9 @@
 				},
 				"Best Unit Award": {
 					"Boys' Brigade": "Bronze",
+					"Ncc (Land Boys)": "Silver",
 					"Npcc (Land)": "Gold",
-					"Scout (Unit 1)": "Gold",
-					"Ncc (Land Boys)": "Silver"
+					"Scout (Unit 1)": "Gold"
 				}
 			}
 		}

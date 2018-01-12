@@ -78,16 +78,14 @@
 		],
 		"Visual and Performing Arts": [
 			"Band - Concert",
-			"Dance - Malay",
 			"Elds",
 			"Movement & Dance",
 			"Show Choir"
 		],
 		"Clubs & Societies": [
 			"Avpa",
-			"Book Society",
 			"Entrepreneur Club",
-			"Green Club",
+			"Green Book Club",
 			"Infocom Club",
 			"Robotics Club"
 		]
@@ -333,12 +331,12 @@
 				},
 				{
 					"year": "2017",
-					"category": "NPCC (Land)",
+					"category": "Red Cross",
 					"award": "Gold"
 				},
 				{
 					"year": "2017",
-					"category": "Red Cross",
+					"category": "NPCC (Land)",
 					"award": "Gold"
 				}
 			]
@@ -440,7 +438,7 @@
 		1.39327908335685
 	],
 	"svy21": [
-		18842.8552409336,
+		18842.8552409343,
 		41687.3977799304
 	],
 	"planningArea": "CK",

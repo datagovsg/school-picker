@@ -16,11 +16,10 @@
 	"mrt": "Yishun MRT Station",
 	"bus": "SMRT 800 , 801 from Yishun Interchange ",
 	"GeneralInformation": {
-		"Principal": "MDM TANG WAI PENG",
+		"Principal": "MRS QUEK-SIM KIM LIANG ANNE",
 		"Vice Principal": [
 			"MDM CHUA MEI LING",
-			"MRS PAWA MONG JEE",
-			"MRS QUEK-SIM KIM LIANG ANNE"
+			"MRS PAWA MONG JEE"
 		],
 		"School Vision": "Every Xishanite, A Lifelong Learner, A Contributing Citizen",
 		"School Mission": "To create opportunities where passions are ignited, potentials discovered and dreams realised.",
@@ -878,10 +877,10 @@
 				],
 				"SYF Arts Presentation": {
 					"Art - Category C": "Recognition",
-					"Dance - Chinese": "Accomplishment",
 					"Dance - Indian": "Accomplishment",
 					"Dance - Malay": "Accomplishment",
-					"Ensemble - Guzheng": "Distinction"
+					"Ensemble - Guzheng": "Distinction",
+					"Dance - Chinese": "Accomplishment"
 				},
 				"Best Unit Award": {
 					"Scout": "Gold"

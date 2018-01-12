@@ -30,7 +30,8 @@ module.exports = {
       exclude: /node_modules/,
       loader: 'babel-loader',
       options: {
-        babelrc: path.join(__dirname, '/src/components/.babelrc')
+        babelrc: false,
+        extends: path.join(__dirname, '/src/components/.babelrc')
       }
     }, {
       test: /\.styl$/,

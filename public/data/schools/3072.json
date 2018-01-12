@@ -22,7 +22,7 @@
 		"Principal": "Mr Toh Thiam Chye",
 		"Vice Principal": [
 			"Mr Ng Song Lim Steven",
-			"Mr Chong Jack Sheng"
+			"Mr Sheik Alaudin B Mohd Ismail"
 		],
 		"School Vision": "Values-Centric, Thinking School",
 		"School Mission": "Empowering Admirals to Actualise Their Aspirations",
@@ -72,33 +72,7 @@
 		"Science (Syll T)",
 		"Social Studies N(T)"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Athletics",
-			"Badminton",
-			"Netball",
-			"Rugby",
-			"Wushu"
-		],
-		"Uniformed Groups": [
-			"Ncc Boys (Land)",
-			"Ncdcc",
-			"Npcc",
-			"Red Cross Youth"
-		],
-		"Visual and Performing Arts": [
-			"Art & Environment Club",
-			"Concert Band",
-			"Dance Club",
-			"Drama Club",
-			"Guzheng Ensemble",
-			"Lighthouse Productions"
-		],
-		"Clubs & Societies": [
-			"Media Resource Library",
-			"Robotics Enterprise"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"STEM": "Design Thinking Through Innovation and Technology",
@@ -418,7 +392,7 @@
 		1.44589068910993
 	],
 	"svy21": [
-		24559.0472937031,
+		24559.0472937025,
 		47504.7873554397
 	],
 	"planningArea": "WD",

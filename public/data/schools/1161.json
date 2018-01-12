@@ -19,10 +19,7 @@
 	"bus": "912 from Woodlands Interchange",
 	"GeneralInformation": {
 		"Principal": "Mr Lim Chew Hiong Richard",
-		"Vice Principal": [
-			"Miss Kuck Li Lian Lillian",
-			"Mr Jay Westly Mahardale"
-		],
+		"Vice Principal": "Mr Jay Westly Mahardale",
 		"Vice Principal (Admin)": "Mdm Tan Ai Choo",
 		"School Vision": "Every Si Ling Pupil a Scholar who Leads and Serves",
 		"School Mission": "We, in partnership with all our stakeholders, are committed to nurture our pupils to be thinking learners and gracious citizens.",
@@ -333,12 +330,12 @@
 	},
 	"postalCode": "739067",
 	"coordinates": [
-		103.78577872,
-		1.43269946932
+		103.78579358736,
+		1.4326994693261
 	],
 	"svy21": [
-		22709.53,
-		46046.2
+		22711.221499871517,
+		46046.27368147783
 	],
 	"planningArea": "WD",
 	"neighbours": [

@@ -19,9 +19,11 @@
 	],
 	"bus": "333",
 	"GeneralInformation": {
-		"Principal": "Mrs Manokara Sugunavathi",
-		"Vice Principal": "Mdm Cheryl Choo Shueh-Li",
-		"Vice Principal (Admin)": "Mr Koh See Choon",
+		"Principal": "Mr Ong Thiam Huat Robin",
+		"Vice Principal": [
+			"Mdm Cheryl Choo Shueh-Li",
+			"Mdm Lee Hwee Kheng"
+		],
 		"School Vision": "A vibrant community of gracious citizens and passionate learners",
 		"School Mission": "We nurture all-rounded pupils of grace, distinction and sound moral values,ready to take on future endeavours.",
 		"School Philosophy, Culture and Ethos": [
@@ -64,14 +66,12 @@
 		"Visual and Performing Arts": [
 			"Brass Band",
 			"Choir",
-			"Dance - Ballet",
 			"Dance - Chinese",
 			"Dance - Indian",
 			"Dance - Malay"
 		],
 		"Clubs & Societies": [
 			"It Club",
-			"Mindsports",
 			"Robotics Club"
 		]
 	},
@@ -296,12 +296,12 @@
 	},
 	"postalCode": "609476",
 	"coordinates": [
-		103.732974713,
-		1.34868426521
+		103.73300251563,
+		1.3486842652163
 	],
 	"svy21": [
-		16832.84,
-		36756.4
+		16835.9711908844,
+		36756.47358750882
 	],
 	"planningArea": "JE",
 	"neighbours": [

@@ -20,7 +20,8 @@
 		"Vice Principal": [
 			"MDM GOH POH KENN",
 			"MR DOMINIC ANG SWEE KENG",
-			"MDM LOH YOON LIN"
+			"MDM LOH YOON LIN",
+			"MR LEONARD TAN SOON TECK"
 		],
 		"School Vision": "A mission school of choice, recognised for values-centred education and learning driven by passion, that nurtures persons who make a difference to society.",
 		"School Mission": "Enabling youth in a Lasallian community to learn how to learn and to learn how to live; empowering them to become men and women of integrity and men and women for others.",
@@ -58,43 +59,7 @@
 		"PHYSICS",
 		"TAMIL"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Badminton",
-			"Canoeing/Rowing/Dragon Boat",
-			"Cross Country",
-			"Fencing",
-			"Football",
-			"Hockey",
-			"Judo",
-			"Rugby",
-			"Sailing",
-			"Squash",
-			"Table Tennis",
-			"Tennis",
-			"Track & Field"
-		],
-		"Uniformed Groups": [
-			"Ncc (Land)",
-			"Ncc(Air)",
-			"Npcc",
-			"Scouts",
-			"St. John Brigade"
-		],
-		"Visual and Performing Arts": [
-			"Band - Pipe",
-			"Drama Club",
-			"Guitar Ensemble",
-			"Sji Military Band",
-			"Sji Pipe Band",
-			"Sji Vocal Ensemble"
-		],
-		"Clubs & Societies": [
-			"Legion Of Mary",
-			"St Vincent De Paul Society",
-			"Young Christian Students"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Integrated Programme - Dual Track School (offers both IP and O Levels)"
@@ -2076,72 +2041,6 @@
 						"'C' Div"
 					],
 					[
-						"Sailing",
-						"4th",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
-						"Sailing (Byte)",
-						"-",
-						"3rd",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
-						"Sailing (Optimist)",
-						"-",
-						"4th",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
-						"Table Tennis",
-						"-",
-						"-",
-						"-",
-						"-",
-						"2nd",
-						"2nd",
-						"-",
-						"-"
-					],
-					[
-						"Tennis",
-						"-",
-						"4th",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
-						"Taekwondo (Kyorugi)",
-						"-",
-						"2nd",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
 						"Badminton",
 						"-",
 						"-",
@@ -2217,6 +2116,72 @@
 						"-",
 						"-",
 						"-"
+					],
+					[
+						"Sailing",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing (Byte)",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing (Optimist)",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
 					]
 				],
 				"SYF Arts Presentation": {
@@ -2229,11 +2194,11 @@
 					"Ensemble - Guitar": "Distinction"
 				},
 				"Best Unit Award": {
-					"Scout (Unit 1)": "Gold",
-					"St John Ambulance Brigade": "Gold",
 					"Ncc (Air Boys)": "Gold",
 					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Gold"
+					"Npcc (Land)": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"St John Ambulance Brigade": "Gold"
 				}
 			}
 		},

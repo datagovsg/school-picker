@@ -19,7 +19,7 @@
 	"bus": "14 , 63 , 147 , 196 , 197 , 855 , 961 ",
 	"GeneralInformation": {
 		"Principal": "Mr Ong Lye Whatt",
-		"Vice Principal": "Miss Amisarni Bte Mohd Amin",
+		"Vice Principal": "Miss Tan Wee Kiaw Adeline",
 		"Vice Principal (Admin)": "Miss Lim Ee Leng Ellen",
 		"School Vision": "Confident and resilient, creative and thinking pupils who strive to succeed",
 		"School Mission": "Believing and Nurturing - We believe in every child and we nurture our children so that they leave us holding their heads high and knowing that their future is in their hands.",
@@ -49,32 +49,7 @@
 		"Social Studies",
 		"Tamil"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Badminton",
-			"Basketball",
-			"Football",
-			"Taekwondo"
-		],
-		"Uniformed Groups": [
-			"Boys' Brigade",
-			"Brownies",
-			"Scouts"
-		],
-		"Visual and Performing Arts": [
-			"Art And Craft Club",
-			"Band - Brass",
-			"Chinese Calligraphy",
-			"Choir",
-			"Dance - Chinese",
-			"Dance - Indian",
-			"Dance - Malay"
-		],
-		"Clubs & Societies": [
-			"Infocom Club",
-			"Scrabble Club"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Music & Performing Arts": "Nurturing Aesthetics and Values Development in Children through Band, Choir and Performing Arts"
@@ -373,12 +348,12 @@
 	},
 	"postalCode": "158901",
 	"coordinates": [
-		103.815228182,
-		1.2859550269
+		103.81523274237,
+		1.2859550269092
 	],
 	"svy21": [
-		25986.69,
-		29819.9
+		25987.234582034245,
+		29819.973712723713
 	],
 	"planningArea": "BM",
 	"neighbours": [

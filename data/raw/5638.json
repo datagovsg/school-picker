@@ -17,7 +17,7 @@
 	"bus": "Bus 48 , 66 , 67 , 170 , 171 , 603 , 700 ",
 	"GeneralInformation": {
 		"Principal": "MR KOH SUNG- YI ARENE",
-		"Vice Principal": "MDM WENDY SENG GEK CHENG",
+		"Vice Principal": "MDM CHOH THIAN JENG CELIA",
 		"Vice Principal (Admin)": "MDM EILEEN SEOW LAY YEN",
 		"School Vision": "Every ACSian a young man of character, capability and creativity.",
 		"School Mission": "ACS (Primary) believes in providing an all-round education in an environment which seeks to bring out the potential in every pupil to the fullest, and to develop in him a strong moral character, imbued with Christian values and principles to guide and prepare him for life ahead.",
@@ -62,36 +62,7 @@
 		"SOCIAL STUDIES",
 		"TAMIL"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Badminton School Team",
-			"Basketball",
-			"Floorball",
-			"Football",
-			"Rugby",
-			"Swimming",
-			"Tennis",
-			"Track & Field"
-		],
-		"Uniformed Groups": [
-			"Boys' Brigade",
-			"Scouts"
-		],
-		"Visual and Performing Arts": [
-			"Art And Craft Club",
-			"Choir",
-			"Ensemble - Guitar",
-			"Ensemble - String",
-			"Synergy"
-		],
-		"Clubs & Societies": [
-			"Chess Club",
-			"Computer Club",
-			"Pa Club",
-			"Robotics Club",
-			"Science Club"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Gifted Education Programme"

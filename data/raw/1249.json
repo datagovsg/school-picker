@@ -17,7 +17,10 @@
 	"bus": "920 , 922 ",
 	"GeneralInformation": {
 		"Principal": "MISS LIM BOON CHENG",
-		"Vice Principal": "MR ONG HONG GHEE",
+		"Vice Principal": [
+			"MR ONG HONG GHEE",
+			"MDM LELA BTE SHAMSUHADI"
+		],
 		"Vice Principal (Admin)": "MDM FLORENCE GOH HOON HOON",
 		"School Vision": "To  become a gracious community of active and creative learners who are global in outlook, grounded in basics and rooted in values with a passion to envision for the future.",
 		"School Mission": "To  nurture and inspire our learners to the best of their potential through innovative approaches in an engaging environment, leveraging technologies and research",

@@ -34,27 +34,22 @@
 		"Affiliated Schools": "Not Applicable"
 	},
 	"SubjectOffered": [
-		"Area Studies (Southeast Asia)",
 		"Art",
 		"Biology",
 		"Chemistry",
 		"Chinese",
 		"Design & Technology",
 		"English Language",
-		"Food & Design",
 		"Geography",
 		"Higher Chinese",
 		"Higher Malay",
 		"Higher Tamil",
 		"History",
-		"Inquiry & Advocacy",
 		"Literature(E)",
 		"Malay",
-		"Mathematics And Additional Mathematics",
 		"Music",
 		"Physical Education",
 		"Physics",
-		"Science (Lower Secondary)",
 		"Tamil"
 	],
 	"Cca": {
@@ -1369,16 +1364,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Gymnastics (Artistic)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
 					"category": "Gymnastics (Rhythmic)",
 					"subCategory": [
 						"National",
@@ -1646,6 +1631,16 @@
 						"'B' Div"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Gymnastics (Artistic)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
 				}
 			],
 			"SYF": [
@@ -2053,6 +2048,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "Girl Guides (Coy 2)",
 					"award": "Gold"
 				},
@@ -2085,11 +2085,6 @@
 					"year": "2017",
 					"category": "Red Cross",
 					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
 				}
 			]
 		}
@@ -2134,7 +2129,7 @@
 		1.31169502827792
 	],
 	"svy21": [
-		27514.8853741372,
+		27514.8853741375,
 		32666.0899762101
 	],
 	"planningArea": "CA",

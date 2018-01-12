@@ -283,11 +283,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2017",
 					"category": "Art - Category C",
 					"award": "Recognition"
 				},
@@ -315,6 +310,11 @@
 					"year": "2017",
 					"category": "Ensemble - Gamelan",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
 				}
 			],
 			"Best Unit Award": [
@@ -378,12 +378,12 @@
 	},
 	"postalCode": "387724",
 	"coordinates": [
-		103.881619881,
-		1.32453301028
+		103.881624837373,
+		1.32439150290684
 	],
 	"svy21": [
-		33375.45,
-		34085.7
+		33376.0018041993,
+		34070.052845506
 	],
 	"planningArea": "GL",
 	"neighbours": [

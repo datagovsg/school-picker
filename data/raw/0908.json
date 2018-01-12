@@ -17,8 +17,11 @@
 	"bus": "66 , 157 , 174 , 174E , 506 , 178 , 941 , 174M - Night ",
 	"GeneralInformation": {
 		"Principal": "MRS TAN WAN YU",
-		"Vice Principal": "MS TNG YA WEN VALERIE",
-		"Vice Principal (Admin)": "MR HSU YU CHIH TOMMY",
+		"Vice Principal": [
+			"MS TNG YA WEN VALERIE",
+			"MR CHIA GUO HAO"
+		],
+		"Vice Principal (Admin)": "MR DAVID ALLAN D'SOUZA",
 		"School Vision": "A Forward-looking Community of Learners, Thinkers and Leaders",
 		"School Mission": [
 			"Nurturing Talents to Achieve Success.",
@@ -87,12 +90,10 @@
 		],
 		"Clubs & Societies": [
 			"Chinese Cultural Society",
-			"Council Intern",
 			"Entrepreneurship Club",
 			"Indian Cultural Society",
 			"Malay Cultural Society",
 			"Students' Council",
-			"Young Innovators Club",
 			"Young Journalists Club"
 		]
 	},

@@ -20,8 +20,8 @@
 	"GeneralInformation": {
 		"Principal": "Mdm Tay Siok Hwa",
 		"Vice Principal": [
-			"Mr Chia Chee Weng Richard Chris",
-			"Mrs Chan Tiow Liang Gary"
+			"Mrs Chan Tiow Liang Gary",
+			"Mr Jin Sebastian"
 		],
 		"School Vision": "Moulding Character, Igniting Passion, Building Community",
 		"School Mission": "We will nurture our StaRs to become active, purposeful and upright citizens, with the passion to learn and excel, working for the good of others and the growth of self",
@@ -337,6 +337,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "NCC (Land Boys)",
 					"award": "Gold"
 				},
@@ -353,11 +358,6 @@
 				{
 					"year": "2017",
 					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Girl Guides (Coy 1)",
 					"award": "Gold"
 				}
 			]
@@ -467,7 +467,7 @@
 		1.37465538827444
 	],
 	"svy21": [
-		35658.8371386677,
+		35658.837138668,
 		39628.0344803333
 	],
 	"planningArea": "HG",

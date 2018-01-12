@@ -20,8 +20,8 @@
 	"GeneralInformation": {
 		"Principal": "Mrs Valerie Pinto",
 		"Vice Principal": [
-			"Mdm Nazimah Bte Abdullah",
-			"Mdm Ch'ng Yuen Ping"
+			"Mdm Ch'ng Yuen Ping",
+			"Mr Lawrence Koh"
 		],
 		"School Vision": "A School Of High Standards, Quality Learning and Holistic Development",
 		"School Mission": "To Nurture Students, Transform Lives and Serve the Nation",
@@ -279,17 +279,17 @@
 				},
 				{
 					"year": "2017",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Accomplishment"
 				},
 				{
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
 					"award": "Accomplishment"
 				}
 			],
@@ -501,7 +501,7 @@
 		1.32415704057062
 	],
 	"svy21": [
-		40292.8371149516,
+		40292.8371149523,
 		34044.3486078382
 	],
 	"planningArea": "BD",

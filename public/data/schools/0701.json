@@ -23,9 +23,9 @@
 		"Principal": "Mr Ang Pow Chew",
 		"Vice Principal": [
 			"Mr Liong Huai Yu",
-			"Mr Lim Wee James"
+			"Mr Harman Augustus Johll"
 		],
-		"Vice Principal (Admin)": "Mr Zainal Abidin Bin Mahmood",
+		"Vice Principal (Admin)": "Mr Tan Yong Liang",
 		"School Vision": "NJCians demonstrate Loyalty with Integrity; Scholarship with Creativity; Leadership with Sensitivity",
 		"School Mission": "College of the Nation: Home of Scholars and Leaders who Serve with Honour",
 		"School Philosophy, Culture and Ethos": "We seek to create a joyful and lively learning community for students and staff. Every NJCian will leave with a distinctive and memorable experience. They will learn to serve with honour, to be loyal to family and Singapore, to be leaders sensitive to the needs of others, and to be creative in their approach to solving problems. They would have imbibed the values of civility, altruism, resilience and enterprise.",
@@ -71,50 +71,7 @@
 		"H3 Pharmaceutical Chemistry",
 		"H3 Proteomics"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Badminton",
-			"Basketball",
-			"Canoeing/ Dragon Boat",
-			"Climbing",
-			"Football",
-			"Hockey",
-			"Netball",
-			"Shooting",
-			"Softball",
-			"Squash",
-			"Table Tennis",
-			"Tennis",
-			"Touch Rugby",
-			"Track & Field/ Cross Country"
-		],
-		"Visual and Performing Arts": [
-			"Aesthetics Club",
-			"Chinese Dance",
-			"Chinese Orchestra/Guzheng Ensemble",
-			"Choir",
-			"Guitar Ensemble",
-			"Indian Dance",
-			"Malay Dance",
-			"Piano Ensemble",
-			"String Orchestra",
-			"Symphonic Band",
-			"Western Dance"
-		],
-		"Clubs & Societies": [
-			"Ava & Pa Club",
-			"Biztech",
-			"Cldds",
-			"Eldds",
-			"Green Link",
-			"Ildds",
-			"Interact Club",
-			"Mathematics Society",
-			"Mldds",
-			"Outdoor Activities Club",
-			"Science And Technology Society"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Integrated Programme",
@@ -601,11 +558,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
 				},
@@ -658,6 +610,11 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
 				}
 			],
 			"Best Unit Award": []
@@ -1357,8 +1314,8 @@
 		1.33029291072176
 	],
 	"svy21": [
-		24749.4869699031,
-		34722.567163026
+		24749.4869699033,
+		34722.5671630259
 	],
 	"planningArea": "BT",
 	"neighbours": [

@@ -54,30 +54,7 @@
 		"Social Studies",
 		"Tamil"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Basketball",
-			"Rope Skipping",
-			"Swimming",
-			"Taekwondo"
-		],
-		"Uniformed Groups": [
-			"Brownies"
-		],
-		"Visual and Performing Arts": [
-			"Art And Craft Club",
-			"Band - Brass",
-			"Choir",
-			"Dance - Chinese",
-			"Dance - Indian",
-			"Dance - Malay"
-		],
-		"Clubs & Societies": [
-			"Cheerleading Club",
-			"Infocom Club",
-			"Library"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Visual Arts & Design": "Instilling Lifelong Learning Through Visual Arts"
@@ -308,12 +285,12 @@
 	},
 	"postalCode": "129903",
 	"coordinates": [
-		103.76329778,
-		1.31581351471
+		103.76331624798,
+		1.315813514719
 	],
 	"svy21": [
-		20207.36,
-		33121.6
+		20209.452377914047,
+		33121.67365785608
 	],
 	"planningArea": "CL",
 	"neighbours": [

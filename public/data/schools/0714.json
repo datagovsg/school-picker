@@ -24,6 +24,7 @@
 			"Mr Boy Eng Seng",
 			"Mr Poh Chun Leck"
 		],
+		"Vice Principal (Admin)": "Mr Mohamad Amran Shah Bin Abd Rahim",
 		"School Vision": "Every Eunoian a Youth with Purpose, Thinker with Heart, Leader with Courage",
 		"School Mission": [
 			"We",
@@ -85,7 +86,6 @@
 		"Ntu Science Research (Math)",
 		"Ntu Science Research (Phy)",
 		"Ntu Semiconductor Physics & Devices",
-		"Nus Linear Algebra",
 		"Nus Modern Physics",
 		"Nus-moe Science Research (Bio)",
 		"Nus-moe Science Research (Chem)",
@@ -98,8 +98,8 @@
 			"Badminton",
 			"Basketball",
 			"Floorball",
-			"Hockey (Girls)",
-			"Netball (Girls)",
+			"Hockey",
+			"Netball",
 			"Softball",
 			"Squash",
 			"Swimming",
@@ -107,23 +107,6 @@
 			"Tennis",
 			"Track & Field",
 			"Volleyball"
-		],
-		"Visual and Performing Arts": [
-			"Chinese Orchestra",
-			"Choir",
-			"Dance",
-			"Drama",
-			"Symphonic Band"
-		],
-		"Clubs & Societies": [
-			"Computing & Robotics",
-			"Debate",
-			"Media",
-			"Outdoor Adventure (Odac)",
-			"Service Learning"
-		],
-		"Others": [
-			"Students' Council"
 		]
 	},
 	"SpecialProgrammes": {
@@ -176,7 +159,7 @@
 		1.31352212499743
 	],
 	"svy21": [
-		22847.255549184,
+		22847.2555491847,
 		32868.1682672426
 	],
 	"planningArea": "QT",

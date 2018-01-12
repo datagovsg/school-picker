@@ -17,8 +17,10 @@
 	"bus": "TIBs 302",
 	"GeneralInformation": {
 		"Principal": "MRS JASMAIL SINGH GILL",
-		"Vice Principal": "MR KOH PENG YEOW",
-		"Vice Principal (Admin)": "MR LEE SECH WEE",
+		"Vice Principal": [
+			"MR KOH PENG YEOW",
+			"MDM LEE SUET FONG"
+		],
 		"School Vision": "Creative Minds, Caring Hearts",
 		"School Mission": "We shall nurture our pupils to be responsible individuals of integrity who respect others and have a passion for learning.",
 		"School Philosophy, Culture and Ethos": [
@@ -50,29 +52,7 @@
 		"SCIENCE",
 		"SOCIAL STUDIES"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Badminton",
-			"Basketball",
-			"Football",
-			"Netball"
-		],
-		"Uniformed Groups": [
-			"Scouts"
-		],
-		"Visual and Performing Arts": [
-			"Dance - Chinese",
-			"Dance - Malay",
-			"Ensemble - Angklung/Kulintang",
-			"Ensemble - Handbell/Handchime"
-		],
-		"Clubs & Societies": [
-			"Infocom Club",
-			"Library",
-			"Mathematics Club",
-			"Science And Green Club"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"

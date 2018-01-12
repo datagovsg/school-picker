@@ -57,35 +57,7 @@
 		"Social Studies",
 		"Tamil"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Basketball",
-			"Hockey"
-		],
-		"Uniformed Groups": [
-			"Boys' Brigade",
-			"Girls' Brigade"
-		],
-		"Visual and Performing Arts": [
-			"Art Club",
-			"Band - Concert",
-			"Chinese Calligraphy And Brush Painting",
-			"Choir",
-			"Dance - Chinese",
-			"Dance - Indian",
-			"Dance - Malay",
-			"Ensemble - Angklung/Kulintang",
-			"Ensemble - Guzheng"
-		],
-		"Clubs & Societies": [
-			"E2k Science Club",
-			"Infocom Club",
-			"Library",
-			"Maths Club",
-			"Robotics Club",
-			"Science And Innovation Club"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Interdisciplinary": "GreeNovation @ PPS",
@@ -471,12 +443,12 @@
 	},
 	"postalCode": "538787",
 	"coordinates": [
-		103.894753317,
-		1.37820038485
+		103.89473554958,
+		1.3782003848541
 	],
 	"svy21": [
-		34836.92,
-		40020
+		34834.979737619506,
+		40020.07366656236
 	],
 	"planningArea": "HG",
 	"neighbours": [

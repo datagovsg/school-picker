@@ -17,8 +17,10 @@
 	"bus": "410 , 162 , 52 ",
 	"GeneralInformation": {
 		"Principal": "MDM GOH LING LING DIANE",
-		"Vice Principal": "MISS KAREN YAW LI LING",
-		"Vice Principal (Admin)": "MISS GABRIELLE ANN LEW SIEW CHIN",
+		"Vice Principal": [
+			"MISS KAREN YAW LI LING",
+			"MDM NG BEE ENG, CINDY"
+		],
 		"School Vision": "A School of Dynamic Learners in a Culture of Care",
 		"School Mission": "To Nurture Students of Good Character Rooted in Chinese Culture",
 		"School Philosophy, Culture and Ethos": [

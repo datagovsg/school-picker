@@ -46,7 +46,6 @@
 		"Combined Humanities (S,H)",
 		"Computer Applications",
 		"Design & Technology",
-		"Electronics",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
@@ -70,7 +69,6 @@
 		"Science (Chem, Bio)",
 		"Science (Phy, Chem)",
 		"Science (Syll T)",
-		"Smart Electrical Technology",
 		"Social Studies",
 		"Tamil",
 		"Tamil N(A)"
@@ -450,26 +448,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
 				},
@@ -492,6 +470,26 @@
 					"year": "2017",
 					"category": "Choir",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -587,8 +585,8 @@
 				},
 				{
 					"year": "2017",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
+					"category": "Boys' Brigade",
+					"award": "Silver"
 				},
 				{
 					"year": "2017",
@@ -612,8 +610,8 @@
 				},
 				{
 					"year": "2017",
-					"category": "Boys' Brigade",
-					"award": "Silver"
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
 				}
 			]
 		}
@@ -722,7 +720,7 @@
 		1.35128862770287
 	],
 	"svy21": [
-		16380.2394942148,
+		16380.2394942145,
 		37044.3966198452
 	],
 	"planningArea": "JE",

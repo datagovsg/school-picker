@@ -19,8 +19,10 @@
 	"bus": "3 , 17 , 18 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Wong Lin Lin Audrey",
-		"Vice Principal": "Mr Mohamad Noor Bin Abdul Manaf @",
-		"Vice Principal (Admin)": "Mr Daljit Singh S/o Darbara Singh",
+		"Vice Principal": [
+			"Mr Mohamad Noor Bin Abdul Manaf @",
+			"Mdm Ratna Kumari D/o R Ramachandra"
+		],
 		"School Vision": [
 			"An Innovative Thinker ",
 			"A Gracious Leader ",
@@ -75,7 +77,7 @@
 		],
 		"Clubs & Societies": [
 			"Environmental Club",
-			"Library"
+			"Language Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -360,12 +362,12 @@
 	},
 	"postalCode": "529392",
 	"coordinates": [
-		103.951225179,
-		1.35059439215
+		103.95119242687,
+		1.3505943921516
 	],
 	"svy21": [
-		41121.69,
-		36967.7
+		41118.08213978613,
+		36967.77354162481
 	],
 	"planningArea": "TM",
 	"neighbours": [

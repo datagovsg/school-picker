@@ -18,7 +18,10 @@
 	],
 	"GeneralInformation": {
 		"Principal": "Mdm Chilukuri Dimps Rao",
-		"Vice Principal": "Mdm Chiang Mei Fong Angie",
+		"Vice Principal": [
+			"Mdm Chiang Mei Fong Angie",
+			"Mr Abdul Mutalib B Mohammed Amin"
+		],
 		"School Vision": "A Champion in Every Child",
 		"School Mission": "Build Character, Challenge Minds, Enrich Lives",
 		"School Philosophy, Culture and Ethos": [
@@ -319,13 +322,13 @@
 				},
 				{
 					"year": "2017",
-					"category": "Ensemble - Strings",
-					"award": "Accomplishment"
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
 				},
 				{
 					"year": "2017",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -376,25 +379,25 @@
 				},
 				{
 					"year": "2017",
-					"category": "Red Cross",
-					"award": "Gold"
+					"category": "Scout",
+					"award": "Bronze"
 				},
 				{
 					"year": "2017",
-					"category": "Scout",
-					"award": "Bronze"
+					"category": "Red Cross",
+					"award": "Gold"
 				}
 			]
 		}
 	},
 	"postalCode": "529393",
 	"coordinates": [
-		103.950716095,
-		1.35145898751
+		103.95068344317,
+		1.3514589875162
 	],
 	"svy21": [
-		41065.03,
-		37063.3
+		41061.433232328745,
+		37063.37354281495
 	],
 	"planningArea": "TM",
 	"neighbours": [

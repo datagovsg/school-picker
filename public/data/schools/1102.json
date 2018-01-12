@@ -5,7 +5,7 @@
 	"uen": " T07GS1102J",
 	"logo": "./Medias/Images/Schools/logos/tn_1102.jpg",
 	"website": "http://www.damaipri.moe.edu.sg",
-	"address": "50, Bedok Reservoir Crescent (479225)",
+	"address": "52, Bedok Reservoir Crescent (479226)",
 	"telephone": [
 		"64456483"
 	],
@@ -223,6 +223,26 @@
 				},
 				{
 					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
 					"category": "Rope Skipping",
 					"subCategory": [
 						"Zone",
@@ -250,26 +270,6 @@
 						"Junior"
 					],
 					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Rugby",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Rugby",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -358,14 +358,14 @@
 			]
 		}
 	},
-	"postalCode": "479225",
+	"postalCode": "479226",
 	"coordinates": [
-		103.921182039,
-		1.33560042189
+		103.92115817239,
+		1.335600421894
 	],
 	"svy21": [
-		37778.28,
-		35309.6
+		37775.660968025,
+		35309.67362299567
 	],
 	"planningArea": "BD",
 	"neighbours": [

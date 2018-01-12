@@ -61,8 +61,7 @@
 			"Athletics",
 			"Badminton",
 			"Basketball",
-			"Rope Skipping",
-			"Sepak Takraw"
+			"Rope Skipping"
 		],
 		"Uniformed Groups": [
 			"Brownies",
@@ -72,14 +71,13 @@
 			"Art And Craft Club",
 			"Chinese Dance",
 			"Choir",
-			"Indian Dance/ Cultural Club",
+			"Indian Dance",
 			"Malay Dance"
 		],
 		"Clubs & Societies": [
-			"English Language Club",
-			"Innovation & Robotics Club",
-			"Math Club",
-			"Science And Environmental Club"
+			"Bliss Club",
+			"Einstein Club",
+			"Pixel Bytes Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -510,12 +508,12 @@
 	},
 	"postalCode": "737942",
 	"coordinates": [
-		103.804629246,
-		1.44011014079
+		103.80463831246,
+		1.4401101407929
 	],
 	"svy21": [
-		24807.32,
-		46865.6
+		24808.366050839235,
+		46865.67370340888
 	],
 	"planningArea": "WD",
 	"neighbours": [

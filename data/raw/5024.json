@@ -17,7 +17,10 @@
 	"bus": "76 , 132 , 165 , 166 , 169 , 265 , 268 , 269 ",
 	"GeneralInformation": {
 		"Principal": "MDM TEO CHING LING",
-		"Vice Principal": "MISS CHEW MAY",
+		"Vice Principal": [
+			"MISS CHEW MAY",
+			"MR TOH KIM SING (ZHUO JINSHENG)"
+		],
 		"School Vision": "Ever Learning, Ever Glowing, Ever Abiding by the Truth of God.",
 		"School Mission": "To nurture a community of lifelong learners with Christian values to overcome challenges.",
 		"School Philosophy, Culture and Ethos": [

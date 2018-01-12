@@ -21,10 +21,10 @@
 	"GeneralInformation": {
 		"Principal": "Miss Foong Lai Leong",
 		"Vice Principal": [
-			"Mr Quah Siew Kin",
 			"Mdm Yip Sun Yee",
 			"Mr Sim How Chong"
 		],
+		"Vice Principal (Admin)": "Mr Phua Cheng Peng",
 		"School Vision": "Premier School, Serving Community",
 		"School Mission": "Nurturing The Whole Fuhuanite",
 		"School Philosophy, Culture and Ethos": "Fuhua Secondary School was established in the year 2000. We are committed to nurturing the whole Fuhuanite, who is Outstanding, Upstanding and Ready for the Future (OUR Fuhuanites). To this end, the school provides opportunities for all students through a rigorous academic curriculum as well as a broad suite of co-curricular programmes - delivered and facilitated by caring teachers who actively promote our school RISE values (Respect, Integrity, Service and Excellence) and character-building. Fuhua aims to grow a positive school culture based on Values, Collaboration and Learning, and within this context seeks to develop thinking and thoughtful Fuhuanites who are prepared for the tests of life.",
@@ -53,7 +53,6 @@
 		"Malay",
 		"Mathematics",
 		"Music",
-		"Physical Education",
 		"Physics",
 		"Science",
 		"Science (Phy, Chem)",
@@ -283,69 +282,69 @@
 				},
 				{
 					"year": "2017",
+					"category": "Shooting (Air Rifle)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Shooting (Air Rifle)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
 					"category": "Shooting (Air Pistol)",
 					"subCategory": [
 						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Shooting (Air Rifle)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Shooting (Air Rifle)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
 						"Girls",
 						"'C' Div"
 					],
@@ -490,6 +489,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
 					"category": "Choir",
 					"award": "Accomplishment"
 				},
@@ -506,11 +510,6 @@
 				{
 					"year": "2017",
 					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Chinese Orchestra-Full Orchestra",
 					"award": "Accomplishment"
 				}
 			],

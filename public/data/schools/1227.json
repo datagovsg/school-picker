@@ -18,11 +18,10 @@
 	],
 	"bus": "SMRT 800 , 801 from Yishun Interchange ",
 	"GeneralInformation": {
-		"Principal": "Mdm Tang Wai Peng",
+		"Principal": "Mrs Quek-Sim Kim Liang Anne",
 		"Vice Principal": [
 			"Mdm Chua Mei Ling",
-			"Mrs Pawa Mong Jee",
-			"Mrs Quek-Sim Kim Liang Anne"
+			"Mrs Pawa Mong Jee"
 		],
 		"School Vision": "Every Xishanite, A Lifelong Learner, A Contributing Citizen",
 		"School Mission": "To create opportunities where passions are ignited, potentials discovered and dreams realised.",
@@ -252,11 +251,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
 					"category": "Dance - Indian",
 					"award": "Accomplishment"
 				},
@@ -269,6 +263,11 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -297,12 +296,12 @@
 	},
 	"postalCode": "768611",
 	"coordinates": [
-		103.837908869,
-		1.43368029167
+		103.83790743737,
+		1.4336802916725
 	],
 	"svy21": [
-		28510.83,
-		46154.6
+		28510.70769587612,
+		46154.673716334466
 	],
 	"planningArea": "YS",
 	"neighbours": [

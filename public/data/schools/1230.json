@@ -20,7 +20,10 @@
 	"bus": "Bus No. 2 , 9 , 12 , 24 , 31 , 34 & 38 ",
 	"GeneralInformation": {
 		"Principal": "Mrs Ng Kim Choo Celine",
-		"Vice Principal": "Mdm Ho Fui Fong",
+		"Vice Principal": [
+			"Mdm Ho Fui Fong",
+			"Mdm Sharifah Fairuz Bte S Y A"
+		],
 		"School Vision": "Empowered Learners, Persons of Strength and Character",
 		"School Mission": "To empower BGPians to learn how to learn and succeed, and nurture them to be confident persons and concerned citizens.",
 		"School Philosophy, Culture and Ethos": [
@@ -409,12 +412,12 @@
 	},
 	"postalCode": "469317",
 	"coordinates": [
-		103.937745002,
-		1.32399588735
+		103.93771712699,
+		1.323995887357
 	],
 	"svy21": [
-		39621.62,
-		34026.5
+		39618.554781849125,
+		34026.573587536055
 	],
 	"planningArea": "BD",
 	"neighbours": [

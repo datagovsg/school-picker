@@ -53,22 +53,7 @@
 		"Social Studies",
 		"Tamil"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Basketball",
-			"Rope Skipping",
-			"Soccer"
-		],
-		"Uniformed Groups": [
-			"Brownies",
-			"Scouts"
-		],
-		"Visual and Performing Arts": [
-			"Chinese Calligraphy Society",
-			"Dance - Chinese",
-			"Dance - International"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Community Service & Student Leadership": "Student Leadership and Life Skills Development through Uniformed Groups"
@@ -371,12 +356,12 @@
 	},
 	"postalCode": "556108",
 	"coordinates": [
-		103.86836252,
-		1.34897187276
+		103.86835281192,
+		1.3489718727604
 	],
 	"svy21": [
-		31900,
-		36788
+		31898.95667729377,
+		36788.07370156744
 	],
 	"planningArea": "SG",
 	"neighbours": [

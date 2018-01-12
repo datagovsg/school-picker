@@ -17,7 +17,11 @@
 	"bus": "900 , 901 ",
 	"GeneralInformation": {
 		"Principal": "MR CHEE CHIT YENG",
-		"Vice Principal": "MR TAN BOON CHENG",
+		"Vice Principal": [
+			"MR TAN BOON CHENG",
+			"MISS FOO SIEW YONG"
+		],
+		"Vice Principal (Admin)": "MR HEE JUAY AY",
 		"School Vision": [
 			"A School of Choice.",
 			"A Community of Dynamic Learners."
@@ -80,7 +84,7 @@
 		"Uniformed Groups": [
 			"Ncc (Land)",
 			"Npcc",
-			"Singapore Red Cross Society"
+			"Red Cross Youth"
 		],
 		"Visual and Performing Arts": [
 			"Chinese Orchestra",
@@ -93,7 +97,7 @@
 			"Green Activists Club",
 			"Infocomm, Robotics & Ava Club",
 			"Media Resource Library & Literary Club",
-			"Singapore Youth Flying Club"
+			"Youth Flying Club"
 		]
 	},
 	"SpecialProgrammes": {

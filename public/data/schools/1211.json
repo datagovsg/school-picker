@@ -57,17 +57,7 @@
 		"Social Studies",
 		"Tamil"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Adventure Club",
-			"Badminton",
-			"Football"
-		],
-		"Visual and Performing Arts": [
-			"Band - Brass",
-			"Creative Dance"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Interdisciplinary": "Creative and Inventive Thinking (CIT) Programme",
@@ -213,12 +203,12 @@
 	},
 	"postalCode": "349700",
 	"coordinates": [
-		103.876679917,
-		1.33555730329
+		103.87666814137,
+		1.3355573032944
 	],
 	"svy21": [
-		32825.66,
-		35304.7
+		32824.38658902122,
+		35304.77369413049
 	],
 	"planningArea": "TP",
 	"neighbours": [

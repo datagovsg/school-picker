@@ -19,7 +19,7 @@
 	],
 	"bus": "66 , 67 , 74 , 151 , 154 , 156 , 157 , 170 , 171 , 174 , 852 , 961 ",
 	"GeneralInformation": {
-		"Principal": "Dr Hon Chiew Weng",
+		"Principal": "Mr Pang Choon How",
 		"Vice Principal": [
 			"Mr Chan Kwok Leong",
 			"Mrs Chin-Leow Bee Kuan",
@@ -37,72 +37,22 @@
 	},
 	"SubjectOffered": [
 		"Additional Mathematics",
-		"American Literature",
 		"Art",
 		"Biology",
-		"Character & Citizenship Education",
 		"Chemistry",
-		"China Studies",
 		"English Language",
 		"Geography",
-		"Guidance Education",
 		"Higher Chinese",
 		"History",
-		"Independent Studies",
-		"Infocomm Studies",
 		"Integrated Mathematics",
-		"Literature (C)",
 		"Literature(E)",
-		"Lower Secondary Science",
 		"Malay (Special Programme)",
 		"Mathematics",
 		"Music",
 		"Physical Education",
-		"Physics",
-		"Socio-economic Studies"
+		"Physics"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Air Rifle / Shooting",
-			"Artistic Gymnastics",
-			"Badminton",
-			"Basketball",
-			"Canoeing/Rowing/Dragon Boat",
-			"Cross Country",
-			"Fencing",
-			"Judo",
-			"Softball",
-			"Table Tennis",
-			"Tennis",
-			"Track & Field",
-			"Volleyball",
-			"Water Polo",
-			"Wushu"
-		],
-		"Uniformed Groups": [
-			"Ncc (Land)",
-			"Npcc",
-			"Scouts",
-			"St. John Brigade"
-		],
-		"Visual and Performing Arts": [
-			"Band - Display/Marching",
-			"Choir",
-			"Drama - Chinese",
-			"Drama - English",
-			"Ensemble - String",
-			"Orchestra - Chinese"
-		],
-		"Clubs & Societies": [
-			"Audio & Video/ Pa Club",
-			"Chess Club - Chinese",
-			"Debating And Oratorical Society",
-			"Infocom Club",
-			"Library Council",
-			"Singapore Youth Flying Club",
-			"Weiqi Club"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Integrated Programme",
@@ -940,6 +890,16 @@
 				},
 				{
 					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
 					"category": "Canoeing",
 					"subCategory": [
 						"National",
@@ -1197,16 +1157,6 @@
 						"'C' Div"
 					],
 					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -2904,7 +2854,7 @@
 				},
 				{
 					"year": "2017",
-					"category": "Drama - English",
+					"category": "Drama - Chinese",
 					"award": "Accomplishment"
 				},
 				{
@@ -2924,7 +2874,7 @@
 				},
 				{
 					"year": "2017",
-					"category": "Drama - Chinese",
+					"category": "Drama - English",
 					"award": "Accomplishment"
 				}
 			],
@@ -3045,7 +2995,7 @@
 		1.32494779287192
 	],
 	"svy21": [
-		24926.8156149369,
+		24926.8156149362,
 		34131.5293299984
 	],
 	"planningArea": "BT",

@@ -65,7 +65,6 @@
 	"Cca": {
 		"Physical Sports": [
 			"Basketball",
-			"Netball",
 			"Shooting",
 			"Soccer",
 			"Track & Field"
@@ -318,11 +317,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
 					"category": "Chinese Orchestra-Full Orchestra",
 					"award": "Accomplishment"
 				},
@@ -340,6 +334,11 @@
 					"year": "2017",
 					"category": "Drama - English",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -545,7 +544,7 @@
 		1.43606162738281
 	],
 	"svy21": [
-		27599.0061242161,
+		27599.0061242165,
 		46417.9159394763
 	],
 	"planningArea": "YS",

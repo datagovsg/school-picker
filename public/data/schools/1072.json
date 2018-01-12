@@ -19,11 +19,8 @@
 	],
 	"bus": "SBS 123 , 131 , 275 SBS 65 ",
 	"GeneralInformation": {
-		"Principal": "Mrs Wong Siew Shan",
-		"Vice Principal": [
-			"Mr Low Min Chye",
-			"Mr Muhammad Farizal Bin Umar Effe"
-		],
+		"Principal": "Mr Muhammad Farizal Bin Umar Effe",
+		"Vice Principal": "Mr Low Min Chye",
 		"Vice Principal (Admin)": "Mr Kwok Keng Lian",
 		"School Vision": "A School Where All Work Hard, Play Hard And Make A Mark",
 		"School Mission": "To Develop Each Child Holistically, Equipping Him With Competences For The Future",
@@ -304,13 +301,13 @@
 				},
 				{
 					"year": "2017",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
+					"category": "Dance - Chinese",
+					"award": "Distinction"
 				},
 				{
 					"year": "2017",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -379,12 +376,12 @@
 	},
 	"postalCode": "099840",
 	"coordinates": [
-		103.824179926,
-		1.27496071054
+		103.82418219277,
+		1.2749607105464
 	],
 	"svy21": [
-		26982.94,
-		28604.2
+		26983.229298654795,
+		28604.2737155579
 	],
 	"planningArea": "BM",
 	"neighbours": [

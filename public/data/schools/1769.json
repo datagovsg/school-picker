@@ -316,6 +316,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
 					"category": "Dance - International",
 					"award": "Distinction"
 				},
@@ -328,11 +333,6 @@
 					"year": "2017",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Indian",
-					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": []
@@ -340,12 +340,12 @@
 	},
 	"postalCode": "828869",
 	"coordinates": [
-		103.907430442,
-		1.40029723673
+		103.90740831466,
+		1.4002972367335
 	],
 	"svy21": [
-		36247.65,
-		42463.4
+		36245.224527155806,
+		42463.4736399408
 	],
 	"planningArea": "PG",
 	"neighbours": [

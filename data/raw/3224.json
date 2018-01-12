@@ -21,7 +21,6 @@
 			"MR ABDULATTIF S/O ABDULLAH",
 			"MDM RINA D/O BHASI"
 		],
-		"Vice Principal (Admin)": "MR PHUA CHENG PENG",
 		"School Vision": "An extended family which brings out the greatness in every child to be a responsible and passionate learner and leader.",
 		"School Mission": "To care for and guide every child to achieve their aspirations. To inculcate right values in every child to contribute to family, community and nation.",
 		"School Philosophy, Culture and Ethos": "Guided by our school vision, 'An extended family which brings out the greatness in every child to be a responsible and passionate learner and leader', the school adopts the dual emphasis on being an Aspiration-Focussed and CCA-Centric school.  Through the Academic Programme, all students regardless of stream and ability, are assured of a firm foundation in knowledge, skills and values for the next stage of education and life ahead. Our CCA Programme inculcates in our students sound values to form strong character through the exercise of leadership. Our Student Development Programme helps our students discover their passions and work toward their aspirations.  Our culture of care as embodied in our school motto 'To Love and To Forgive' guides us in this extended family, with nurturing and dedicated teachers/staff, and supportive parents, School Advisory Committee, alumni and industry partners, as we care for and guide every child to achieve their aspirations, and inculcate the right values in them to contribute to family, community and nation.",
@@ -65,31 +64,31 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Badminton",
-			"Basketball",
-			"Netball",
-			"Rugby",
-			"Volleyball"
+			"7-A-Side Rugby (Boys)",
+			"Badminton (Boys)",
+			"Basketball (Boys)",
+			"Netball (Girls)",
+			"Volleyball (Girls)"
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
+			"National Cadet Corps (Land) (Boys)",
 			"National Civil Defence Cadet Corps",
-			"Ncc (Land)",
-			"Npcc",
-			"St. John Brigade"
+			"National Police Cadet Corps",
+			"St. John's Brigade"
 		],
 		"Visual and Performing Arts": [
-			"Band - Concert",
+			"Chinese Orchestra",
 			"Choir",
+			"Concert Band",
 			"Contemporary Dance",
-			"Dance - Malay",
-			"Drama - English",
-			"Orchestra - Chinese"
+			"Drama",
+			"Malay Dance"
 		],
 		"Clubs & Societies": [
-			"Ava Club",
-			"Cyberace Club",
-			"Env Champions"
+			"Ava",
+			"Cyberace",
+			"Environmental Defenders"
 		]
 	},
 	"SpecialProgrammes": {

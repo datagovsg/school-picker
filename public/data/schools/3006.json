@@ -21,8 +21,8 @@
 	"GeneralInformation": {
 		"Principal": "Mdm Tan Mei Mei Jenny",
 		"Vice Principal": [
-			"Mr Lee Kah Wai",
-			"Mr Chung Kwok Leong Daniel"
+			"Mr Chung Kwok Leong Daniel",
+			"Mdm Sarawathy D/o Varadaraju"
 		],
 		"School Vision": "Gessians of Excellence, Standing and Significance.",
 		"School Mission": "Our school is a community that nurtures the best in each and strives ever ONWARD.",
@@ -522,6 +522,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
 					"category": "NPCC (Land)",
 					"award": "Gold"
 				},
@@ -533,11 +538,6 @@
 				{
 					"year": "2017",
 					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Land Boys)",
 					"award": "Gold"
 				}
 			]
@@ -647,7 +647,7 @@
 		1.289071144584
 	],
 	"svy21": [
-		26933.2812846676,
+		26933.2812846674,
 		30164.4590708911
 	],
 	"planningArea": "BM",

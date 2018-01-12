@@ -44,7 +44,6 @@
 			"Choir",
 			"Dance - Chinese",
 			"Dance - Malay",
-			"Ensemble - Guzheng",
 			"Info-Comm Club"
 		]
 	},
@@ -678,9 +677,9 @@
 					"Art - Category B": "Recognition(Sm)",
 					"Art - Category C": "Recognition",
 					"Choir": "Commendation",
+					"Dance - Chinese": "Distinction",
 					"Dance - Malay": "Distinction",
-					"Ensemble - Guzheng": "Accomplishment",
-					"Dance - Chinese": "Distinction"
+					"Ensemble - Guzheng": "Accomplishment"
 				},
 				"Best Unit Award": {
 					"Red Cross": "Gold",

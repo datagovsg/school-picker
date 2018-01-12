@@ -18,7 +18,7 @@
 	],
 	"bus": "3 , 62 , 83 ",
 	"GeneralInformation": {
-		"Principal": "Mr Gau Poh Teck",
+		"Principal": "Mdm Tan Sun Sun",
 		"Vice Principal": [
 			"Mr Lim Kim Thye",
 			"Mdm Tan Lay Wah"
@@ -299,6 +299,16 @@
 				},
 				{
 					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
 				},
@@ -321,16 +331,6 @@
 					"year": "2017",
 					"category": "Dance - Chinese",
 					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -359,12 +359,12 @@
 	},
 	"postalCode": "828867",
 	"coordinates": [
-		103.908572544,
-		1.39480500186
+		103.90855025097,
+		1.3948050018607
 	],
 	"svy21": [
-		36374.77,
-		41856.1
+		36372.326140302765,
+		41856.17363847591
 	],
 	"planningArea": "PG",
 	"neighbours": [

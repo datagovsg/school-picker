@@ -17,7 +17,10 @@
 	"bus": "920 , 922 ",
 	"GeneralInformation": {
 		"Principal": "Miss Lim Boon Cheng",
-		"Vice Principal": "Mr Ong Hong Ghee",
+		"Vice Principal": [
+			"Mr Ong Hong Ghee",
+			"Mdm Lela Bte Shamsuhadi"
+		],
 		"Vice Principal (Admin)": "Mdm Florence Goh Hoon Hoon",
 		"School Vision": "To  become a gracious community of active and creative learners who are global in outlook, grounded in basics and rooted in values with a passion to envision for the future.",
 		"School Mission": "To  nurture and inspire our learners to the best of their potential through innovative approaches in an engaging environment, leveraging technologies and research",
@@ -224,12 +227,12 @@
 	},
 	"postalCode": "679944",
 	"coordinates": [
-		103.773649748,
-		1.38409868937
+		103.77366716193,
+		1.3840986893772
 	],
 	"svy21": [
-		21359.62,
-		40672.2
+		21361.595028842545,
+		40672.27366689421
 	],
 	"planningArea": "BP",
 	"neighbours": [

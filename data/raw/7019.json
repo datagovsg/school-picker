@@ -17,7 +17,10 @@
 	"bus": "50 , 82 , 86 , 88 , 119 , 136 ",
 	"GeneralInformation": {
 		"Principal": "MISS HO SUSIE",
-		"Vice Principal": "MISS TAN KIM BERLINA",
+		"Vice Principal": [
+			"MISS TAN KIM BERLINA",
+			"MRS MICHELLE WILLMAN"
+		],
 		"School Vision": "WOMEN OF INTEGRITY WITH THE PASSION TO PURSUE EXCELLENCE",
 		"School Mission": "The mission of an Infant Jesus Convent is the creation of a Christ-centred school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of persons who are disadvantaged in any way.",
 		"School Philosophy, Culture and Ethos": "We believe our students possess talents and will experience success. SJC is where we develop our girls' moral character (values-driven) and performance character (value-adding). Our goal is for our girls to embody the values of Love, Integrity and Freedom, and to grow as Engaged and Empowered learners, Effective leaders, and Eloquent individuals with strong Ethics (LIFE4). We provide a vibrant Aesthetics curriculum, and an extensive Differentiated Leadership Programme for all our students.",

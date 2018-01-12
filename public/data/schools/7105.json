@@ -19,7 +19,10 @@
 	"bus": "85 , 811 , 812 , 851 , 852 , 853 , 854 , 855 , 858 , 965 , 969 ",
 	"GeneralInformation": {
 		"Principal": "Mr Yap Thiam Chuan",
-		"Vice Principal": "Mrs Chong Lai Peng Nee Yeo",
+		"Vice Principal": [
+			"Mrs Chong Lai Peng Nee Yeo",
+			"Mr Chang Fook Yong"
+		],
 		"Vice Principal (Admin)": "Mdm Elsie Tan Ser Hong",
 		"School Vision": "A Premier And Prestigious School",
 		"School Mission": "To instill desired values in our students and develop their potential so that they will achieve excellence and contribute to the community, nation and the world.",
@@ -103,8 +106,7 @@
 		"Clubs & Societies": [
 			"Ava Club",
 			"Entrepreneur Club",
-			"Green Club",
-			"Student Council"
+			"Green Club"
 		]
 	},
 	"SpecialProgrammes": {

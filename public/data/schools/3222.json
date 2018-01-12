@@ -18,10 +18,10 @@
 	],
 	"bus": "13 , 45 , 86 , 138 , 162 , 269 , 851 , 852 , 853 ",
 	"GeneralInformation": {
-		"Principal": "Mdm Heng Sue Lin, Janice",
+		"Principal": "Mrs Lim Carol",
 		"Vice Principal": [
-			"Miss Lim Mui Mui Adeline",
-			"Miss S G Sarah Abdullah"
+			"Miss S G Sarah Abdullah",
+			"Mr Lim Hock Chye Kevin"
 		],
 		"Vice Principal (Admin)": "Mr Dalbir Singh S/o Surat Singh",
 		"School Vision": "A Community of Learners, Leaders and Innovators.",
@@ -80,9 +80,9 @@
 			"Volleyball (Boys)"
 		],
 		"Uniformed Groups": [
-			"National Civil Defence Cadet Corps",
 			"National Police Cadet Corps",
-			"Singapore Red Cross Youth"
+			"Ncdcc",
+			"Red Cross Youth"
 		],
 		"Visual and Performing Arts": [
 			"Band - Symphonic",
@@ -93,9 +93,7 @@
 			"Drama - English"
 		],
 		"Clubs & Societies": [
-			"Aeronautical Club",
-			"Infocomm Club",
-			"Mechantronics & Robotics Club",
+			"Mechantronics, Aeronautical & Robotics",
 			"Media Club"
 		]
 	},
@@ -432,7 +430,7 @@
 		1.37797597740928
 	],
 	"svy21": [
-		28981.3761166073,
+		28981.3761166068,
 		39995.0998579133
 	],
 	"planningArea": "AM",

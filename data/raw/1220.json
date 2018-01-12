@@ -17,8 +17,10 @@
 	"bus": "98 , 187 , 335 ",
 	"GeneralInformation": {
 		"Principal": "MISS GEETHA D/O DORAISAMY",
-		"Vice Principal": "MDM ADELINE CHONG",
-		"Vice Principal (Admin)": "MR TAN SUAN PIOW",
+		"Vice Principal": [
+			"MDM ADELINE CHONG",
+			"MR MUHAMMAD FADYLLA B RASHIMAN"
+		],
 		"School Vision": "A vibrant learning community, rooted in values and ready to serve.",
 		"School Mission": "To nurture a star in every Shuqunite, who places community above self.",
 		"School Philosophy, Culture and Ethos": [

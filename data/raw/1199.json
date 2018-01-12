@@ -17,8 +17,10 @@
 	"bus": "16 , 33 , 63 , 123 , 195 , 605 , 851 , 14 , 65 , 147 , 167 , 196 , 197 , 961 ",
 	"GeneralInformation": {
 		"Principal": "MISS LOH SING HUAY",
-		"Vice Principal": "MDM CHUA LENG YIN",
-		"Vice Principal (Admin)": "MISS CHNG SHI HUA",
+		"Vice Principal": [
+			"MDM CHUA LENG YIN",
+			"MISS YAP FOON LYN"
+		],
 		"School Vision": "A Learning School with a GIVER3S Heart",
 		"School Mission": "To nurture thinking individuals and gracious citizens",
 		"School Philosophy, Culture and Ethos": [

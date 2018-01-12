@@ -53,42 +53,7 @@
 		"Physical Education",
 		"Physics"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Athletics",
-			"Badminton",
-			"Basketball (Boys)",
-			"Netball (Girls)",
-			"Softball (Girls)",
-			"Table Tennis",
-			"Volleyball (Boys)"
-		],
-		"Uniformed Groups": [
-			"Boys' Brigade",
-			"Girl Guides",
-			"Ncc (Land)",
-			"Npcc",
-			"St. John Brigade"
-		],
-		"Visual and Performing Arts": [
-			"Art And Design Club",
-			"Calligraphy And Painting Club",
-			"Chinese Drama Society",
-			"Chinese Orchestra",
-			"Choir",
-			"Dance Society",
-			"English Drama & Debating Club",
-			"Guzheng Ensemble",
-			"Harp Ensemble",
-			"Symphonic Band"
-		],
-		"Clubs & Societies": [
-			"Chess Club",
-			"Infocomm Club",
-			"Innovation Club",
-			"Service Learning Club"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"SAP"
@@ -992,7 +957,7 @@
 		1.30809499133647
 	],
 	"svy21": [
-		20793.1069994289,
+		20793.106999429,
 		32268.1090011336
 	],
 	"planningArea": "CL",

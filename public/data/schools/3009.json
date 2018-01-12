@@ -19,7 +19,7 @@
 	],
 	"bus": "410 , 13 , 50 , 52 , 53 , 54 , 55 , 56 , 57 , 58 , 59 , 74 , 88 , 93 , 128 , 130 , 132 , 156 , 157 , 162 , 163 , 165 , 166 , 167 , 851 , 852 , 855 , 980 ",
 	"GeneralInformation": {
-		"Principal": "Mr Chan Poh Meng",
+		"Principal": "Mr Yeo Kok Peng Frederick",
 		"Vice Principal": [
 			"Mr Magendiran K Sinathurai",
 			"Mdm Thor Poh Sin Theresa",
@@ -40,7 +40,7 @@
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Design Thinking",
+		"Chinese (Special Programme)",
 		"English Language",
 		"Geography",
 		"Higher Chinese",
@@ -52,74 +52,14 @@
 		"Malay (Special Programme)",
 		"Mathematics",
 		"Music",
-		"Philosophy",
 		"Physics",
-		"Research Education",
+		"School Subject 1",
+		"School Subject 2",
+		"School Subject 3",
 		"Social Studies",
 		"Tamil"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Air Rifle / Air Pistol",
-			"Badminton",
-			"Basketball",
-			"Cricket",
-			"Cross Country",
-			"Fencing",
-			"Floorball",
-			"Golf",
-			"Hockey",
-			"Judo",
-			"Rugby",
-			"Sailing",
-			"Shooting",
-			"Softball",
-			"Squash",
-			"Swimming",
-			"Table Tennis",
-			"Tennis",
-			"Track & Field",
-			"Water Polo"
-		],
-		"Uniformed Groups": [
-			"Boys' Brigade",
-			"Ncc (Land)",
-			"Npcc",
-			"Raffles 01 & 02 Scouts",
-			"Raffles Scouts",
-			"Red Cross",
-			"Red Cross Youth"
-		],
-		"Visual and Performing Arts": [
-			"Guitar Ensemble",
-			"Raffles Photography & Arts Club",
-			"Raffles Players",
-			"Raffles Voices",
-			"Rico (Ri Chinese Orchestra)",
-			"Rimb (Ri Military Band)",
-			"String Ensemble"
-		],
-		"Clubs & Societies": [
-			"Astronomy Club",
-			"Chess Club",
-			"Chinese Cultural Club",
-			"Chinese Drama Circle / Literary Club",
-			"Humanities Club",
-			"Indian Cultural Club",
-			"Infocomm Club",
-			"Interact Club",
-			"Malay Cultural Club",
-			"Mathematics Club",
-			"Raffles Archives & Museum",
-			"Raffles Debaters",
-			"Raffles Publications",
-			"Science Club"
-		],
-		"Others": [
-			"House Appointment",
-			"Prefectorial Board"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Integrated Programme",
@@ -3728,12 +3668,12 @@
 				},
 				{
 					"year": "2017",
-					"category": "Dance - Indian",
+					"category": "Choir",
 					"award": "Distinction"
 				},
 				{
 					"year": "2017",
-					"category": "Dance - International",
+					"category": "Dance - Indian",
 					"award": "Distinction"
 				},
 				{
@@ -3753,7 +3693,7 @@
 				},
 				{
 					"year": "2017",
-					"category": "Choir",
+					"category": "Dance - International",
 					"award": "Distinction"
 				}
 			],
@@ -3874,7 +3814,7 @@
 		1.34618776148598
 	],
 	"svy21": [
-		29397.4025306292,
+		29397.4025306293,
 		36480.1227368657
 	],
 	"planningArea": "BS",

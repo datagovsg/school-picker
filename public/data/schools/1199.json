@@ -19,8 +19,10 @@
 	"bus": "16 , 33 , 63 , 123 , 195 , 605 , 851 , 14 , 65 , 147 , 167 , 196 , 197 , 961 ",
 	"GeneralInformation": {
 		"Principal": "Miss Loh Sing Huay",
-		"Vice Principal": "Mdm Chua Leng Yin",
-		"Vice Principal (Admin)": "Miss Chng Shi Hua",
+		"Vice Principal": [
+			"Mdm Chua Leng Yin",
+			"Miss Yap Foon Lyn"
+		],
 		"School Vision": "A Learning School with a GIVER3S Heart",
 		"School Mission": "To nurture thinking individuals and gracious citizens",
 		"School Philosophy, Culture and Ethos": [
@@ -420,12 +422,12 @@
 	},
 	"postalCode": "169485",
 	"coordinates": [
-		103.826148952,
-		1.28449814949
+		103.82615075778,
+		1.2844981494928
 	],
 	"svy21": [
-		27202.08,
-		29658.8
+		27202.318018226182,
+		29658.873715913156
 	],
 	"planningArea": "BM",
 	"neighbours": [

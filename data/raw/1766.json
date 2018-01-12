@@ -17,7 +17,10 @@
 	"bus": "Ang Mo Kio Ave 9 - Bus 265 & 268",
 	"GeneralInformation": {
 		"Principal": "MRS TAN-NG WIE PIN",
-		"Vice Principal": "MDM ADILA ONG KIM LUAN",
+		"Vice Principal": [
+			"MDM ADILA ONG KIM LUAN",
+			"MDM NGOH YING LI, JANE"
+		],
 		"Vice Principal (Admin)": "MR LOW KAH SHEN",
 		"School Vision": "Learners with Passion.  Leaders with Heart.  Citizens of Character.",
 		"School Mission": "A holistic education for all pupils to realise their potential with opportunities to excel.",

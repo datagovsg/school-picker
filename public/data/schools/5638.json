@@ -19,7 +19,7 @@
 	"bus": "Bus 48 , 66 , 67 , 170 , 171 , 603 , 700 ",
 	"GeneralInformation": {
 		"Principal": "Mr Koh Sung Yi Arene",
-		"Vice Principal": "Mdm Wendy Seng Gek Cheng",
+		"Vice Principal": "Mdm Choh Thian Jeng Celia",
 		"Vice Principal (Admin)": "Mdm Eileen Seow Lay Yen",
 		"School Vision": "Every ACSian a young man of character, capability and creativity.",
 		"School Mission": "ACS (Primary) believes in providing an all-round education in an environment which seeks to bring out the potential in every pupil to the fullest, and to develop in him a strong moral character, imbued with Christian values and principles to guide and prepare him for life ahead.",
@@ -64,36 +64,7 @@
 		"Social Studies",
 		"Tamil"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Badminton School Team",
-			"Basketball",
-			"Floorball",
-			"Football",
-			"Rugby",
-			"Swimming",
-			"Tennis",
-			"Track & Field"
-		],
-		"Uniformed Groups": [
-			"Boys' Brigade",
-			"Scouts"
-		],
-		"Visual and Performing Arts": [
-			"Art And Craft Club",
-			"Choir",
-			"Ensemble - Guitar",
-			"Ensemble - String",
-			"Synergy"
-		],
-		"Clubs & Societies": [
-			"Chess Club",
-			"Computer Club",
-			"Pa Club",
-			"Robotics Club",
-			"Science Club"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Gifted Education Programme"
@@ -865,12 +836,12 @@
 	},
 	"postalCode": "309918",
 	"coordinates": [
-		103.835345082,
-		1.31871841816
+		103.83534454989,
+		1.3187184181617
 	],
 	"svy21": [
-		28225.53,
-		33442.7
+		28225.507798589897,
+		33442.77371656825
 	],
 	"planningArea": "NV",
 	"neighbours": [

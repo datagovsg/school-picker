@@ -21,7 +21,10 @@
 	"bus": "SBS Bus 14 , 33 , 74 , 166 & 196 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Law Li Mei",
-		"Vice Principal": "Mr Andrew Ng Siok Kwang",
+		"Vice Principal": [
+			"Mr Andrew Ng Siok Kwang",
+			"Miss Ng Swee Lin"
+		],
 		"Vice Principal (Admin)": "Mr James Chong Kok Chiang",
 		"School Vision": "Leaders of the future pursuing excellence, upholding strong Christian moral values and having a heart to serve",
 		"School Mission": "To provide a holistic education in a Christian environment so as to nurture leaders of good character, equipped to serve God, nation, community and school.",
@@ -561,12 +564,12 @@
 	},
 	"postalCode": "139648",
 	"coordinates": [
-		103.785692179,
-		1.30079797926
+		103.78570445719,
+		1.3007979792606
 	],
 	"svy21": [
-		22699.61,
-		31461.2
+		22701.01346716108,
+		31461.27369009096
 	],
 	"planningArea": "QT",
 	"neighbours": [

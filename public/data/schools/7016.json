@@ -50,7 +50,6 @@
 		"Combined Humanities (S,L)",
 		"Computer Applications",
 		"Design & Technology",
-		"Drama",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
@@ -237,16 +236,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
 				},
@@ -274,6 +263,16 @@
 					"year": "2017",
 					"category": "Drama - Multi-Lingual",
 					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -414,7 +413,7 @@
 		1.33466313498858
 	],
 	"svy21": [
-		40092.566337104,
+		40092.5663371037,
 		35206.0519231614
 	],
 	"planningArea": "BD",

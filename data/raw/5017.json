@@ -16,7 +16,7 @@
 	"mrt": "Ang Mo Kio MRT, Bishan MRT, Serangoon MRT station.",
 	"bus": "317 Feeder Bus Service from Serangoon Interchange. 135 , 136 from Ang Mo Kio Interchange. ",
 	"GeneralInformation": {
-		"Principal": "MDM WOON MEEN FAYE CATHERINE",
+		"Principal": "MISS TAN LEE YIN GRACE",
 		"Vice Principal": [
 			"MRS WONG-LIM ENG LING ANGELINA",
 			"MISS LIAT MEI KUEN GERALDINE SHARON"
@@ -48,26 +48,7 @@
 		"SCIENCE",
 		"TAMIL"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Badminton",
-			"Rhythmic Gymnastics",
-			"Ten-Pin Bowling"
-		],
-		"Uniformed Groups": [
-			"Brownies"
-		],
-		"Visual and Performing Arts": [
-			"Choir",
-			"Dance - Chinese",
-			"Dance - Indian",
-			"Dance - Malay"
-		],
-		"Clubs & Societies": [
-			"Infocom Club",
-			"Robotics Club"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -1043,8 +1024,8 @@
 					"Art - Category C": "Recognition",
 					"Choir": "Accomplishment",
 					"Dance - Chinese": "Accomplishment",
-					"Dance - Indian": "Distinction",
-					"Dance - International": "Distinction"
+					"Dance - International": "Distinction",
+					"Dance - Indian": "Distinction"
 				}
 			}
 		}

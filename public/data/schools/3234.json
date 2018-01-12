@@ -315,11 +315,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Boys' Brigade",
-					"award": "Bronze"
-				},
-				{
-					"year": "2017",
 					"category": "NCC (Land Boys)",
 					"award": "Bronze"
 				},
@@ -327,6 +322,11 @@
 					"year": "2017",
 					"category": "NPCC (Land)",
 					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Bronze"
 				}
 			]
 		}
@@ -427,8 +427,8 @@
 		1.34015604992645
 	],
 	"svy21": [
-		17602.8944774615,
-		35813.361642627
+		17602.8944774608,
+		35813.3616426271
 	],
 	"planningArea": "JE",
 	"neighbours": [

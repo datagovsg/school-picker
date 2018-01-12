@@ -173,46 +173,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
 					"category": "Hockey",
 					"subCategory": [
 						"National",
@@ -220,6 +180,46 @@
 						"Senior"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -405,12 +405,12 @@
 	},
 	"postalCode": "534238",
 	"coordinates": [
-		103.88116617,
-		1.37803972165
+		103.8811523364,
+		1.378039721657
 	],
 	"svy21": [
-		33324.84,
-		40002.2
+		33323.33752228021,
+		40002.27368642226
 	],
 	"planningArea": "HG",
 	"neighbours": [

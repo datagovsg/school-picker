@@ -286,21 +286,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2017",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2017",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
 					"category": "Choir",
 					"award": "Accomplishment"
 				},
@@ -317,6 +302,21 @@
 				{
 					"year": "2017",
 					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
 					"award": "Accomplishment"
 				}
 			],
@@ -508,7 +508,7 @@
 		1.41937881620446
 	],
 	"svy21": [
-		27747.5833931249,
+		27747.5833931248,
 		44573.2144819256
 	],
 	"planningArea": "YS",

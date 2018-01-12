@@ -18,9 +18,10 @@
 	"GeneralInformation": {
 		"Principal": "Mr Foo Chit Cheong Eddie",
 		"Vice Principal": [
-			"Mdm Kum Lai Meng",
-			"Mr Quek Swee Nee"
+			"Mr Quek Swee Nee",
+			"Mdm Lai Seow Poh"
 		],
+		"Vice Principal (Admin)": "Miss Patricia Chong Huay Leng",
 		"School Vision": "Passionate Learners, Confident Leaders",
 		"School Mission": "A vibrant school where we strive to do our best",
 		"School Philosophy, Culture and Ethos": [
@@ -335,12 +336,12 @@
 	},
 	"postalCode": "677742",
 	"coordinates": [
-		103.76028903,
-		1.38359006091
+		103.76031032667,
+		1.383590060913
 	],
 	"svy21": [
-		19872.74,
-		40616
+		19875.147112606435,
+		40616.073642488474
 	],
 	"planningArea": "BP",
 	"neighbours": [

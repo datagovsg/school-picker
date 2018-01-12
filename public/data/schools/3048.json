@@ -22,9 +22,9 @@
 		"Principal": "Mdm Ong Hui Miin Angeline",
 		"Vice Principal": [
 			"Miss Chow Wai Hoong",
-			"Mr V Harindranath"
+			"Mr V Harindranath",
+			"Mr Malvin Chan Huan Jian"
 		],
-		"Vice Principal (Admin)": "Mr Lye Deli",
 		"School Vision": "Learn, Care and Make a Difference",
 		"School Mission": "To nurture Confident and Passionate Hillgrovians who continually Learn with a spirit to do one's best, Care for and Serve others to Make a Difference.",
 		"School Philosophy, Culture and Ethos": "The school's philosophy is 'Potential + Character = Success'. Hillgrove believes in the potential of each student and builds his/her character in order to help him/her to succeed. Hillgrove culture is encapsulated in the word \"CARE\". CARE stands for Collaboration, Affirmation, Respect and Excellence. It speaks of the school's desire to be others-centred. It is about helping one another to be at their best.",
@@ -188,6 +188,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
 				},
@@ -210,11 +215,6 @@
 					"year": "2017",
 					"category": "Drama - English",
 					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Art - Category B",
-					"award": "Recognition"
 				}
 			],
 			"Best Unit Award": [
@@ -305,11 +305,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Girls' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
 					"category": "NCC (Air)",
 					"award": "Gold"
 				},
@@ -326,6 +321,11 @@
 				{
 					"year": "2017",
 					"category": "Scout (Unit 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
 					"award": "Silver"
 				}
 			]
@@ -435,7 +435,7 @@
 		1.35273576615915
 	],
 	"svy21": [
-		19059.945210902,
+		19059.9452109013,
 		37204.3120635785
 	],
 	"planningArea": "BK",

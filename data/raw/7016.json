@@ -48,7 +48,6 @@
 		"COMBINED HUMANITIES (S,L)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
-		"DRAMA",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
@@ -587,14 +586,14 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Ensemble - Angklung / Kulintang": "Distinction",
-					"Ensemble - Guitar": "Accomplishment",
 					"Band - Concert": "Accomplishment",
 					"Band-Percussion Ensemble": "Accomplishment",
 					"Choir": "Distinction",
 					"Dance - Indian": "Distinction",
 					"Dance - International": "Accomplishment",
-					"Drama - Multi-Lingual": "Distinction"
+					"Drama - Multi-Lingual": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Distinction",
+					"Ensemble - Guitar": "Accomplishment"
 				},
 				"Best Unit Award": {
 					"Girl Guides (Coy 1)": "Gold",

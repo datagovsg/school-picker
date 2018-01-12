@@ -18,8 +18,11 @@
 	],
 	"bus": "76 , 132 , 165 , 166 , 169 , 262 , 265 , 268 ",
 	"GeneralInformation": {
-		"Principal": "Mr Loo Ming Yaw",
-		"Vice Principal": "Mdm Norhayati Bte Awang",
+		"Principal": "Mdm Lee Eet Fong",
+		"Vice Principal": [
+			"Mdm Norhayati Bte Awang",
+			"Mr Goh Keng Teng Gordon"
+		],
 		"Vice Principal (Admin)": "Mr Lai Chyh Jau",
 		"School Vision": "Every Mayflowerian has a zest for life, a curious mind and a generous spirit",
 		"School Mission": "Every Mayflowerian - Mighty in Thought and Deed",
@@ -83,12 +86,12 @@
 		],
 		"Visual and Performing Arts": [
 			"Band - Concert",
+			"Chinese Ensembles",
 			"Choir",
 			"Dance - Chinese",
 			"Dance - Malay",
 			"Dance - Modern",
-			"Drama - English",
-			"Orchestra - Chinese"
+			"Drama - English"
 		],
 		"Clubs & Societies": [
 			"Enterprise Club",
@@ -565,6 +568,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "NCC (Land Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
 					"category": "NPCC (Land)",
 					"award": "Gold"
 				},
@@ -572,11 +580,6 @@
 					"year": "2017",
 					"category": "Scout (Unit 1)",
 					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
 				}
 			]
 		}
@@ -685,7 +688,7 @@
 		1.36827266209724
 	],
 	"svy21": [
-		28227.266494506,
+		28227.2664945056,
 		38922.1548925973
 	],
 	"planningArea": "AM",

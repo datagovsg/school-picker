@@ -20,10 +20,7 @@
 	"bus": "3 , 4 , 9 , 12 , 17 , 19 , 21 , 28 , 29 , 34 , 37 , 39 , 59 , 81 , 291 , 518 ",
 	"GeneralInformation": {
 		"Principal": "Mr Teoh Teik Hoe",
-		"Vice Principal": [
-			"Mrs Mohinder Singh (Mdm Pregass Kaur)",
-			"Mr Ang Johnny"
-		],
+		"Vice Principal": "Mr Ang Johnny",
 		"School Vision": "Creative Learners, Upright Citizens, Global Thinkers",
 		"School Mission": "To nurture East Springians to be confident, vibrant, compassionate and responsible adults who are able to contribute as citizens and as individuals.",
 		"School Philosophy, Culture and Ethos": "East Spring Secondary School embraces a nurturing, synergistic and innovative staff culture. Teachers exercise duty of care and professionalism to develop students to their fullest potential in the total curriculum. Our staff are collegial and collaborative, working collectively and interdependently towards common goals for continuous improvement and excellence. To build staff capacity in their pedagogical and instructional competency, the school plans and intentionally put in place professional development sessions and reflective practices. The Instructional Programme (IP) Departments are empowered to experiment with practices to deepen student engagement in learning. The school strives to develop every student's ability and talent to the fullest to benefit the self, community and nation. We prepare our students for the 21st century by cultivating innovation and creativity, as well as competencies such as leadership and cross cultural literacy. Through these programmes, East Spring provides diverse experiences for all-round development of her student to emerge as creative learners, upright citizens and global thinkers. The expectations set for staff and students are best expressed with the tagline Aim High, Act Now, encapsulating the school belief anchored upon the school's R3ISE values.",
@@ -269,13 +266,13 @@
 				},
 				{
 					"year": "2017",
-					"category": "Drama - English",
-					"award": "Accomplishment"
+					"category": "Dance - Malay",
+					"award": "Distinction"
 				},
 				{
 					"year": "2017",
-					"category": "Dance - Malay",
-					"award": "Distinction"
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -486,7 +483,7 @@
 		1.3562250904733
 	],
 	"svy21": [
-		42169.5015027728,
+		42169.5015027738,
 		37590.3682703059
 	],
 	"planningArea": "TM",

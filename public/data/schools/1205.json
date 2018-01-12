@@ -19,10 +19,7 @@
 	"bus": "Bus services 53 , 62 , 112 , 113 , 115 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Chandrika D/o Gopal",
-		"Vice Principal": [
-			"Mr Chong Choong Hian",
-			"Mrs Shirley Quek"
-		],
+		"Vice Principal": "Mr Chong Choong Hian",
 		"Vice Principal (Admin)": "Mdm Goh Lian Choo",
 		"School Vision": "An Innovative School of Discerning Learners and Caring Leaders",
 		"School Mission": "We will provide Quality Teaching and Learning so that our pupils are rooted in values and stretched in their potential.",
@@ -496,12 +493,12 @@
 	},
 	"postalCode": "538882",
 	"coordinates": [
-		103.890216306,
-		1.35799610541
+		103.89020032946,
+		1.3579961054189
 	],
 	"svy21": [
-		34332.06,
-		37785.9
+		34330.31908554663,
+		37785.97367563072
 	],
 	"planningArea": "HG",
 	"neighbours": [

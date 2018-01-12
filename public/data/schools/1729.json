@@ -62,32 +62,7 @@
 		"Social Studies",
 		"Tamil"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Athletics",
-			"Basketball",
-			"Football",
-			"Netball",
-			"Silat",
-			"Wushu"
-		],
-		"Uniformed Groups": [
-			"Brownies",
-			"Scouts"
-		],
-		"Visual and Performing Arts": [
-			"Art And Craft Club",
-			"Chinese Dance",
-			"Choir",
-			"Handbell Ensemble",
-			"String Ensemble"
-		],
-		"Clubs & Societies": [
-			"Chess Club",
-			"Infocomm Club @Northland",
-			"Library"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Interdisciplinary": "Skilling the Mind; Empowering the Thinking",
@@ -293,12 +268,12 @@
 	},
 	"postalCode": "769026",
 	"coordinates": [
-		103.840792869,
-		1.42130316062
+		103.84079057449,
+		1.4213031606207
 	],
 	"svy21": [
-		28831.78,
-		44786
+		28831.561692176492,
+		44786.073715872204
 	],
 	"planningArea": "YS",
 	"neighbours": [

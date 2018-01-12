@@ -17,8 +17,10 @@
 	"bus": "912 & 912E",
 	"GeneralInformation": {
 		"Principal": "MISS TAN SIN WEI WINNIE",
-		"Vice Principal": "MDM WONG YEN LING",
-		"Vice Principal (Admin)": "MRS HARYATI TEH",
+		"Vice Principal": [
+			"MDM WONG YEN LING",
+			"MDM KOMATHI D/O GOVINDASAMY"
+		],
 		"School Vision": "Gracious Woodlanders with the Zest to Excel",
 		"School Mission": "To develop in pupils, skills and knowledge and a desire for continuous learning in order to stay relevant for the future.",
 		"School Philosophy, Culture and Ethos": [

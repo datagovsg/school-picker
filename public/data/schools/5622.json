@@ -5,7 +5,7 @@
 	"uen": " T07GS5622D",
 	"logo": "./Medias/Images/Schools/logos/tn_5622.jpg",
 	"website": "http://www.nanhuapri.moe.edu.sg",
-	"address": "30, Jalan Lempeng (128806)",
+	"address": "170, West Coast Road (127443)",
 	"telephone": [
 		"67788050"
 	],
@@ -16,21 +16,32 @@
 	"mrt": [
 		"Clementi MRT"
 	],
-	"bus": "99 , 105 , 106 , 173 , 188 , 52 , 183 ",
+	"bus": "30 , 51 , 143 , 175 , 201 , 533 , 655 , 727 , 762 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Chia Hui Khim",
 		"Vice Principal": [
 			"Mdm Chew Boon Hwee",
-			"Miss Tan Wee Kiaw Adeline"
+			"Mdm Josephine Ng"
 		],
+		"Vice Principal (Admin)": "Mr Lee Sech Wee",
 		"School Vision": "A School of Engaged Learners who Lead with Character and Serve with a Heart",
 		"School Mission": "Nurturing Gracious Citizens rooted in Values and Chinese Culture",
 		"School Philosophy, Culture and Ethos": [
-			"Nan Hua Primary school is a government-aided school which was started in 1917.  As a Special Assistance Plan (SAP) school, our students learn both the English and Chinese as first languages. We are also one of the nine Gifted Education Programme (GEP) Centres in ",
+			"Nan Hua Primary school is a government-aided school which was started in 1917.  As",
+			" a Special Assistance Plan (SAP) school, our students learn both the English and Chinese as ",
+			"first languages. We are also one of the nine Gifted Education Programme (GEP) Centres in ",
 			"Singapore.",
-			"Guided by the school's vision and mission and with the school's motto (Loyalty, Filial Piety, Humanity, Love, Courtesy, Righteousness, Integrity and Sense of Shame) as the foundational values, we aim to help every Nan Hua child develop into gracious citizen rooted in values and Chinese culture who is also a caring contributor of the society; one who leads with character and serves with a heart. ",
-			"Our success story strongly builds on the basis that it takes 'a village to raise a child'. We firmly believe is collaborating closely with our key partners such as the members of our School Management Committee, Alumni Association, Parent Support Group, various community partners and parents to help our children in their development. Together with our dedicated teaching team and committed administrative and support ",
-			"staff, we seek to give our best to nurture each child holistically and provide them with a student-centric, values-driven education.",
+			"Guided by the school's vision and mission and with the school's motto (Loyalty, Filial Piety, Humanity, Love, Courtesy, Righteousness, Integrity and Sense of ",
+			"Shame) as the foundational values, we aim to help every Nan Hua child develop into ",
+			"gracious citizen rooted in values and Chinese culture who is also a caring contributor of the ",
+			"society; one who leads with character and serves with a heart. ",
+			"Our success story strongly builds on the basis that it takes 'a village to raise a child'. We ",
+			"firmly believe is collaborating closely with our key partners such as the members of ",
+			"our School Management Committee, Alumni Association, Parent Support Group, ",
+			"various community partners and parents to help our children in their development. ",
+			"Together with our dedicated teaching team and committed administrative and support ",
+			"staff, we seek to give our best to nurture each child holistically and provide them with a ",
+			"student-centric, values-driven education.",
 			"Nan Hua Primary School distinguishes herself to be a school with rich traditions, a culture of excellence and one that prepares our children for the 21st century."
 		],
 		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
@@ -606,14 +617,14 @@
 			]
 		}
 	},
-	"postalCode": "128806",
+	"postalCode": "127443",
 	"coordinates": [
-		103.761612083,
-		1.31955120277
+		103.76163110334,
+		1.3195512027795
 	],
 	"svy21": [
-		20019.77,
-		33534.9
+		20021.923818683663,
+		33534.973654507376
 	],
 	"planningArea": "CL",
 	"neighbours": [

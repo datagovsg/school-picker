@@ -45,24 +45,7 @@
 		"Science",
 		"Social Studies"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Football",
-			"Wushu"
-		],
-		"Uniformed Groups": [
-			"Boys' Brigade"
-		],
-		"Visual and Performing Arts": [
-			"Choir",
-			"Dance - Chinese",
-			"Dance - Malay"
-		],
-		"Clubs & Societies": [
-			"English Society",
-			"It Club"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Innovation & Enterprise": "Positive Design Applied Learning Programme",
@@ -131,12 +114,12 @@
 	},
 	"postalCode": "649188",
 	"coordinates": [
-		103.700554939,
-		1.34683352389
+		103.70059162254,
+		1.3468335238985
 	],
 	"svy21": [
-		13224.8617,
-		36551.9267
+		13228.981195603583,
+		36552.00019222382
 	],
 	"planningArea": "JW",
 	"neighbours": [

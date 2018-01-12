@@ -64,7 +64,6 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Badminton",
 			"Basketball",
 			"Football",
 			"Taekwondo"
@@ -73,15 +72,13 @@
 			"Cadet Scouts"
 		],
 		"Visual and Performing Arts": [
-			"Art Club",
 			"Chinese Dance",
 			"Choir",
 			"Malay Dance",
 			"Percussion Ensemble"
 		],
 		"Clubs & Societies": [
-			"Environment Club",
-			"Infocomm Club",
+			"Infogreen Club",
 			"Robotics"
 		]
 	},
@@ -208,13 +205,13 @@
 				},
 				{
 					"year": "2017",
-					"category": "Dance - Malay",
-					"award": "Distinction"
+					"category": "Dance - International",
+					"award": "Accomplishment"
 				},
 				{
 					"year": "2017",
-					"category": "Dance - International",
-					"award": "Accomplishment"
+					"category": "Dance - Malay",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -253,12 +250,12 @@
 	},
 	"postalCode": "649037",
 	"coordinates": [
-		103.68783305,
-		1.33895104061
+		103.68787277867,
+		1.3389510406194
 	],
 	"svy21": [
-		11809,
-		35680.4
+		11813.45845571869,
+		35680.47345205404
 	],
 	"planningArea": "JW",
 	"neighbours": [

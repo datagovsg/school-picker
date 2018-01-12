@@ -19,8 +19,10 @@
 	"bus": "410 , 162 , 52 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Goh Ling Ling Diane",
-		"Vice Principal": "Miss Karen Yaw Li Ling",
-		"Vice Principal (Admin)": "Miss Gabrielle Ann Lew Siew Chin",
+		"Vice Principal": [
+			"Miss Karen Yaw Li Ling",
+			"Mdm Ng Bee Eng, Cindy"
+		],
 		"School Vision": "A School of Dynamic Learners in a Culture of Care",
 		"School Mission": "To Nurture Students of Good Character Rooted in Chinese Culture",
 		"School Philosophy, Culture and Ethos": [
@@ -692,12 +694,12 @@
 	},
 	"postalCode": "579646",
 	"coordinates": [
-		103.832707014,
-		1.36088984044
+		103.8327071908,
+		1.3608898404476
 	],
 	"svy21": [
-		27931.94,
-		38105.8
+		27931.9967570702,
+		38105.87371656147
 	],
 	"planningArea": "BS",
 	"neighbours": [

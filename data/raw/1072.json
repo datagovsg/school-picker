@@ -16,11 +16,8 @@
 	"mrt": "Tiong Bahru MRT HarbourFront MRT",
 	"bus": "SBS 123 , 131 , 275 SBS 65 ",
 	"GeneralInformation": {
-		"Principal": "MRS WONG SIEW SHAN",
-		"Vice Principal": [
-			"MR LOW MIN CHYE",
-			"MR MUHAMMAD FARIZAL BIN UMAR EFFE"
-		],
+		"Principal": "MR MUHAMMAD FARIZAL BIN UMAR EFFE",
+		"Vice Principal": "MR LOW MIN CHYE",
 		"Vice Principal (Admin)": "MR KWOK KENG LIAN",
 		"School Vision": "A School Where All Work Hard, Play Hard And Make A Mark",
 		"School Mission": "To Develop Each Child Holistically, Equipping Him With Competences For The Future",
@@ -977,8 +974,8 @@
 					"Art - Category B": "Recognition",
 					"Chinese Orchestra-Full Orchestra": "Distinction",
 					"Choir": "Distinction",
-					"Dance - Indian": "Accomplishment",
-					"Dance - Chinese": "Distinction"
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment"
 				},
 				"Best Unit Award": {
 					"Boys' Brigade": "Silver",

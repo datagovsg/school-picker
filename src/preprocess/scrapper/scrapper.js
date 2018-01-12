@@ -57,8 +57,11 @@ function parseContactInfo (body) {
           .filter(c => c.node === 'text').map(c => c.text)
         j.fax = c.child[1].child[1].child
           .filter(c => c.node === 'text').map(c => c.text)
-      } else if (i === 16) j.email = c.child[0].child[0].text
-      else if (i === 21) {
+      } else if (i === 16) {
+        try {
+          j.email = c.child[0].child[0].text
+        } catch (err) {}
+      } else if (i === 21) {
         try {
           j.mrt = c.child[1].child[1].child[0].text
         } catch (err) {}
@@ -79,6 +82,7 @@ function parseGeneralInformation (body) {
       if (key === 'PSLE Aggregate Score') return j
       if (key === 'L1R5 Aggregate Range (With Bonus Points)') return j
       let value
+      if (!c[1].child) return j
       if (key === 'Affiliated Schools' || key === 'IP Partner Schools') {
         value = c[1].child.filter(c => c.tag === 'a').map(c => c.child[0].text)
         if (value.length === 0) value = 'Not Applicable'

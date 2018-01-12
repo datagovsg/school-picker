@@ -50,7 +50,6 @@
 		"HIGHER TAMIL",
 		"HISTORY",
 		"HOME ECONOMICS",
-		"LANGUAGE ARTS",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
@@ -61,40 +60,7 @@
 		"PROJECT WORK",
 		"TAMIL"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Football",
-			"Golf",
-			"Netball",
-			"Softball",
-			"Squash",
-			"Swimming",
-			"Synchronised Swimming",
-			"Ten-Pin Bowling",
-			"Tennis",
-			"Track"
-		],
-		"Uniformed Groups": [
-			"Girl Guides",
-			"Girls' Brigade"
-		],
-		"Visual and Performing Arts": [
-			"Choir",
-			"Dance Club",
-			"Drama",
-			"Ensemble - Guitar",
-			"Ensemble - Handbell/Handchime",
-			"Ensemble - String",
-			"Visual Arts"
-		],
-		"Clubs & Societies": [
-			"Chess Club",
-			"Debating And Oratorical Society",
-			"Infocomm/Photography",
-			"Library Council",
-			"S.A.L.T. Club"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Integrated Programme - Dual Track School (offers both IP and O Levels)",

@@ -43,9 +43,6 @@
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HISTORY",
-		"HUMANITIES (SS, GEOGRAPHY)",
-		"HUMANITIES (SS, HISTORY)",
-		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
@@ -613,7 +610,7 @@
 				},
 				"Best Unit Award": {
 					"Ncc (Land)": "Gold",
-					"Ncdcc": "Silver",
+					"Ncdcc": "Gold",
 					"Npcc (Land)": "Gold"
 				}
 			}

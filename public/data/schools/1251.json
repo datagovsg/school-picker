@@ -16,13 +16,13 @@
 	"mrt": [
 		"Punggol MRT"
 	],
-	"bus": "3 , 62 , 83 , 85 ",
+	"bus": "3 , 62 , 83 , 85 , 389 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Ng Soh Hua",
-		"Vice Principal": "Mr Tan Hock Chye Charles",
+		"Vice Principal": "Mdm Seing Jee Ching Jasmine",
 		"Vice Principal (Admin)": "Mdm Chan Mei Fung Joyce",
-		"School Vision": "Greendale Primary School will beAn excellent community of learners anchored in values",
-		"School Mission": "Our mission is To nurture each child holistically through excellence in teaching and learning.",
+		"School Vision": "Greendale Primary School will be an excellent community of learners anchored in values",
+		"School Mission": "Our mission is to nurture each child holistically through excellence in teaching and learning.",
 		"School Philosophy, Culture and Ethos": "Every child matters in Greendale Primary School.   Our teachers are committed to deliver a curriculum to suit the needs of our pupils. We believe in the holistic development of our pupils and promote the development of 21st century competencies so that our pupils will be future-ready. We cultivate positive attitudes towards learning and focus on the teaching of thinking skills which are essential for life-long learning in order for them to navigate in an increasingly complex world.  Another important aspect is the teaching of social emotional competencies as key to developing soft skills in our pupils so that they can work with others collaboratively in an increasingly interconnected environment. Undergirding these efforts is a commitment towards ethical growth through character building and an emphasis in values education.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -44,37 +44,7 @@
 		"Science",
 		"Social Studies"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Badminton",
-			"Netball",
-			"Sailing",
-			"Softball",
-			"Swimsafer",
-			"Table Tennis",
-			"Tchoukball",
-			"Volleyball",
-			"Wushu"
-		],
-		"Uniformed Groups": [
-			"Boys' Brigade",
-			"Singapore Red Cross Society"
-		],
-		"Visual and Performing Arts": [
-			"Art Club",
-			"Chinese Calligraphy And Brush Painting",
-			"Chinese Percussion",
-			"Choir",
-			"Dance - International",
-			"Ensemble - Guitar",
-			"Ensemble - Harmonica"
-		],
-		"Clubs & Societies": [
-			"Infocomm Club",
-			"Library Club",
-			"Science & Environment Club"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Interdisciplinary": "Developing Critical and Inventive Thinking Skills through Toy Design",
@@ -191,11 +161,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Choir",
-					"award": "Commendation"
-				},
-				{
-					"year": "2017",
 					"category": "Dance - International",
 					"award": "Accomplishment"
 				},
@@ -208,6 +173,11 @@
 					"year": "2017",
 					"category": "Ensemble - Harmonica",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Commendation"
 				}
 			],
 			"Best Unit Award": [
@@ -246,12 +216,12 @@
 	},
 	"postalCode": "828848",
 	"coordinates": [
-		103.912565882,
-		1.39640197543
+		103.91254235216,
+		1.3964019754318
 	],
 	"svy21": [
-		36819.17,
-		42032.7
+		36816.58847816246,
+		42032.77362959737
 	],
 	"planningArea": "PG",
 	"neighbours": [

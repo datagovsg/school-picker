@@ -5,7 +5,7 @@
 	"uen": " T07GS3503F",
 	"logo": "./Medias/Images/Schools/logos/tn_3503.jpg",
 	"website": "http://www.dunearnsec.moe.edu.sg",
-	"address": "247, Jalan Boon Lay ( 619522 )",
+	"address": "21, Bukit Batok West Avenue 2 ( 659204 )",
 	"telephone": [
 		"65653692 (Secondary)"
 	],
@@ -60,33 +60,7 @@
 		"SCIENCE (SYLL T)",
 		"SOCIAL STUDIES N(T)"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Basketball (Boys & Girls)",
-			"Football",
-			"Table Tennis"
-		],
-		"Uniformed Groups": [
-			"Ncc (Land)",
-			"Npcc",
-			"Scouts",
-			"St. John Brigade"
-		],
-		"Visual and Performing Arts": [
-			"Band - Symphonic",
-			"Choir",
-			"Drama",
-			"Guzheng Ensemble",
-			"Malay Cultural Society",
-			"Modern Dance Club"
-		],
-		"Clubs & Societies": [
-			"Av Multi-Media Club",
-			"Infocom Club",
-			"Library",
-			"Photography And Videography Club"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -1027,5 +1001,5 @@
 			]
 		}
 	},
-	"postalCode": "619522"
+	"postalCode": "659204"
 }

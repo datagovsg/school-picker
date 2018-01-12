@@ -60,31 +60,7 @@
 		"Social Studies",
 		"Tamil"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Badminton",
-			"Basketball",
-			"Netball",
-			"Soccer",
-			"Table Tennis"
-		],
-		"Uniformed Groups": [
-			"Scouts & Girls Scouts"
-		],
-		"Visual and Performing Arts": [
-			"Angklung",
-			"Art And Craft Club",
-			"Chinese Dance",
-			"Chinese Orchestra",
-			"English Drama Club",
-			"Indian Dance",
-			"Malay Dance"
-		],
-		"Clubs & Societies": [
-			"Infocomm Club",
-			"Weiqi Club"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Music & Performing Arts": "Learning Through the Arts & Learning In the Arts"
@@ -421,12 +397,12 @@
 	},
 	"postalCode": "738908",
 	"coordinates": [
-		103.794652868,
-		1.44382692647
+		103.7946651496,
+		1.4438269264729
 	],
 	"svy21": [
-		23697.11,
-		47276.6
+		23698.513747807763,
+		47276.673692708384
 	],
 	"planningArea": "WD",
 	"neighbours": [

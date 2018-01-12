@@ -62,7 +62,6 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Badminton",
 			"Basketball",
 			"Football",
 			"Taekwondo"
@@ -71,15 +70,13 @@
 			"Cadet Scouts"
 		],
 		"Visual and Performing Arts": [
-			"Art Club",
 			"Chinese Dance",
 			"Choir",
 			"Malay Dance",
 			"Percussion Ensemble"
 		],
 		"Clubs & Societies": [
-			"Environment Club",
-			"Infocomm Club",
+			"Infogreen Club",
 			"Robotics"
 		]
 	},
@@ -468,8 +465,8 @@
 					"Art - Category C": "Recognition",
 					"Choir": "Commendation",
 					"Dance - Chinese": "Accomplishment",
-					"Dance - Malay": "Distinction",
-					"Dance - International": "Accomplishment"
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction"
 				},
 				"Best Unit Award": {
 					"Scout": "Bronze"

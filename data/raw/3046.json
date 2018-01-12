@@ -76,10 +76,9 @@
 			"Band - Symphonic",
 			"Choir",
 			"Dance - Modern",
-			"Drama - English",
-			"Ensemble - Angklung/Kulintang",
-			"Ensemble - Gamelan",
-			"Ensemble - Guzheng"
+			"Ensemble - Angklung/Gamelan",
+			"Ensemble - Guzheng",
+			"Speech & Drama"
 		]
 	},
 	"SpecialProgrammes": {
@@ -857,12 +856,12 @@
 				],
 				"SYF Arts Presentation": {
 					"Art - Category A": "Recognition",
-					"Band - Concert": "Accomplishment",
 					"Dance - International": "Accomplishment",
 					"Drama - English": "Accomplishment",
 					"Ensemble - Angklung / Kulintang": "Distinction",
 					"Ensemble - Gamelan": "Distinction",
-					"Ensemble - Guzheng": "Distinction"
+					"Ensemble - Guzheng": "Distinction",
+					"Band - Concert": "Accomplishment"
 				},
 				"Best Unit Award": {
 					"Boys' Brigade": "Silver",
