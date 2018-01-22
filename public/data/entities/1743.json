@@ -1,0 +1,456 @@
+{
+	"code": "1743",
+	"name": "Park View Primary School",
+	"levels": "P",
+	"uen": " T07GS1743D",
+	"logo": "./Medias/Images/Schools/logos/tn_1743.jpg",
+	"website": "http://www.parkviewpri.moe.edu.sg",
+	"address": "60, Pasir Ris Drive 1 (519524)",
+	"telephone": [
+		"65851421"
+	],
+	"fax": [
+		"65851401"
+	],
+	"email": "PVPS@MOE.EDU.SG",
+	"mrt": [
+		"Pasir Ris MRT"
+	],
+	"bus": "358 , 39 , 53 , 81 , 89 ",
+	"GeneralInformation": {
+		"Principal": "Miss Oh See Moey",
+		"Vice Principal": "Mdm Haslindah Bte Bahrom",
+		"Vice Principal (Admin)": "Mr Edward Leong Chee Wah",
+		"School Vision": "A knowledge playground where individualised learning is experienced and friendships developed",
+		"School Mission": "To nurture our pupils into resilient, innovative and enterprising learners to be the pride of our nation",
+		"School Philosophy, Culture and Ethos": "We believe that 'Every Child Matters' and we centre our Teaching and Learning on this philosophy. We are guided by our school values of Respect for All, Integrity our Core, Synergy for Success, Courage to Explore, and Commitment to Excellence in our interactions and our decision-making.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"English Language",
+		"Foundation English",
+		"Foundation Mathematics",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Football",
+			"Hockey",
+			"Netball",
+			"Volleyball",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Choir",
+			"Dance - International",
+			"Ensemble - Guzheng"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Sports & Outdoor Education": "Park View Sports Experiential Programme",
+			"Community Service & Student Leadership": "Leader in Me"
+		},
+		"Special Student Development Programmes Offered": "We are the Centre of Excellence (COE) East Zone for Sports (Primary). To complement this commitment to the promotion of sports, our first LLP is in Sports Experiential Education. Under this LLP which adopts the Expose-Experience-Excel approach, elements of sports education, including the teaching of sports values and emphasis on taking responsibility for one's own health and well-being, plays out strongly in the curriculum. "
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"2015": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"2016": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Scout",
+					"award": "Silver"
+				}
+			]
+		}
+	},
+	"postalCode": "519524",
+	"coordinates": [
+		103.9396579,
+		1.3777701
+	],
+	"svy21": [
+		39834.29,
+		39972.67
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"p1Registration": {
+		"Total Vacancy": 180,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 140,
+		"No. of Applicants in Phase 1": 34,
+		"Places taken up to Phase 1": 34,
+		"Vacancy for Phase 2A1": 106,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 34,
+		"Vacancy for Phase 2A2": 106,
+		"No. of Applicants in Phase 2A2": 3,
+		"Places taken up to Phase 2A2": 37,
+		"Vacancy for Phase 2B": 72,
+		"No. of Applicants in Phase 2B": 0,
+		"Places taken up to Phase 2B": 37,
+		"Vacancy for Phase 2C": 143,
+		"No. of Applicants in Phase 2C": 47,
+		"Places taken up to Phase 2C": 83,
+		"Vacancy for Phase 2C Supplementary": 97,
+		"No. of Applicants in Phase 2C Supplementary": 28
+	},
+	"id": "1743"
+}

@@ -1,0 +1,462 @@
+{
+	"code": "3203",
+	"name": "Bukit Merah Secondary School",
+	"levels": "S",
+	"uen": " T07GS3203L",
+	"logo": "./Medias/Images/Schools/logos/tn_3203.jpg",
+	"website": "http://www.bukitmerahsec.moe.edu.sg",
+	"address": "10, Lengkok Bahru (159050)",
+	"telephone": [
+		"64748934"
+	],
+	"fax": [
+		"64744122"
+	],
+	"email": "bmss@moe.edu.sg",
+	"mrt": [
+		"Redhill MRT"
+	],
+	"bus": "14 , 32 , 33 , 63 , 64 , 120 , 123 , 132 , 139 , 145 , 147 , 153 , 196 , 197 , 198 , 765 , 855 , 961 ",
+	"GeneralInformation": {
+		"Principal": "Mr Cheng Ghee Hock Timothy",
+		"Vice Principal": [
+			"Mr Apollos Induchoodan S/o R A P",
+			"Miss Tan Mei Chang Rebekah"
+		],
+		"School Vision": "Every Merahan a resilient, caring and self-directed learner",
+		"School Mission": "To Nurture Resilient Merahans with Character and Heart",
+		"School Philosophy, Culture and Ethos": "Bukit Merah Secondary School (BMSS) prides itself on cultivating a caring environment and establishing positive expectations to bring out the best in our students.  We are committed to fostering respectful relationships and providing opportunities for active participation so as to imbue students with the school values, 'Respect for self and others, Integrity in word and deed, Self-discipline in conduct, and Empathy for others'. The school offers a balanced curriculum that emphasises academic rigour and value-addedness, character development and citizenship education. We believe in developing students' talents through a comprehensive Aesthetics Education Programme. Our achievements in Aesthetics, Sports and Uniformed Groups have helped provide our students with an all-round educational experience.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Basic Chinese",
+		"Basic Malay",
+		"Basic Tamil",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Chinese B",
+		"Chinese N(A)",
+		"Combined Humanities (S,G)",
+		"Combined Humanities (S,H)",
+		"Combined Humanities (S,L)",
+		"Combined Humanities (SS,LC)",
+		"Computer Applications",
+		"Design & Technology",
+		"Elements Of Business Skills",
+		"English Language",
+		"English Language (Syll A)",
+		"English Language (Syll T)",
+		"Food & Nutrition",
+		"Food And Consumer Education",
+		"Food Studies, N Level",
+		"Geography",
+		"Higher Chinese",
+		"History",
+		"Literature(E)",
+		"Malay",
+		"Malay N(A)",
+		"Mathematics",
+		"Mathematics (Syllabus A)",
+		"Mathematics (Syllabus T)",
+		"Music",
+		"Physical Education",
+		"Physics",
+		"Principles Of Accounts",
+		"Science",
+		"Science (Chem, Bio)",
+		"Science (Phy, Bio)",
+		"Science (Phy, Chem)",
+		"Social Studies",
+		"Tamil",
+		"Tamil N(A)"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Floorball",
+			"Volleyball"
+		],
+		"Uniformed Groups": [
+			"Ncc (Land)",
+			"Scouts (Boys & Girls)",
+			"St. John Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Concert Band",
+			"Drama Club",
+			"Info.Media Club",
+			"Modern Dance"
+		],
+		"Clubs & Societies": [
+			"Ava Club",
+			"Design And Innovation Club",
+			"Infocomm And Robotics Club",
+			"Library Society",
+			"Student Activity Club",
+			"Young Entrepreneur Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"STEM": "Creative Robotics and Engineering",
+			"Sports & Outdoor Education": "Character Development & Leadership through Sports"
+		},
+		"Special Student Development Programmes Offered": "I. Curriculum Enhancement: over the years, BMSS students have performed well in Mathematics and Science.  This has been the result of teachers exploring new pedagogy in Professional Learning Teams and stretching student capacity through curricular enrichment activities. Examples include engaging Science project work tasks at the lower secondary level and the use of manipulatives in Mathematics teaching. Our students participate annually in competitions for Mathematics & Science, including the Singapore Mathematics Olympiad, workshops at Singapore Science Centre and Advanced Elective Modules (with a science focus) at local polytechnics.  The school also champions reading literacy. In collaboration with the National Library Board, we have embarked on a whole-school effort to promote reading as a habit among students. We emerged first runner-up in the NLB 2017 Reading Excellence Award."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2015": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2016": {
+				"Development Award": "DA (Character Development)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Commendation"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "St John Ambulance Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 247,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 191,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": 121,
+			"upper": 152,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 247,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 195,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Technical",
+			"lower": 122,
+			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 260,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 192,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Technical",
+			"lower": 133,
+			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 189,
+			"upper": 266,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 190,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Technical",
+			"lower": 111,
+			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		}
+	],
+	"postalCode": "159050",
+	"coordinates": [
+		103.8130231,
+		1.2857841
+	],
+	"svy21": [
+		25741.28,
+		29801.01
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"id": "3203"
+}

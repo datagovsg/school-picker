@@ -68,7 +68,7 @@ export default {
     }
   },
   computed: {
-    ...mapState(['schoolList', 'travelTime', 'bookmarked', 'location']),
+    ...mapState(['entityList', 'travelTime', 'bookmarked', 'location']),
     ...mapState({
       homeSchoolDistance: state => state.homeSchoolDistance}
     ),
@@ -76,7 +76,7 @@ export default {
     renderedCards () {
       const cards = this.$route.path === '/bookmark'
         ? this.bookmarked : [...this.filtered, ...this.suggested]
-      let filtered = this.schoolList
+      let filtered = this.entityList
         .filter(school => cards.indexOf(school.id) > -1)
 
       if (this.location) {

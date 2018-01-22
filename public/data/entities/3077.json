@@ -1,0 +1,125 @@
+{
+	"code": "3077",
+	"name": "Loyang View Secondary School",
+	"levels": "S",
+	"uen": " ",
+	"logo": "./Medias/Images/Schools/logos/tn_3077.jpg",
+	"website": "http://www.loyangviewsec.moe.edu.sg/",
+	"address": "12, Pasir Ris Street 11 (519073)",
+	"telephone": [
+		"+65 65821727"
+	],
+	"fax": [
+		"+65 65810557"
+	],
+	"email": "loyangview_ss@moe.edu.sg",
+	"mrt": [
+		"Pasir Ris MRT"
+	],
+	"bus": "12 , 21 , 39 , 53 , 81 , 359 , 351 ",
+	"GeneralInformation": {
+		"Principal": "Mr Lee Hak Boon",
+		"Vice Principal": [
+			"Mdm Ng Bee Ling",
+			"Miss Tan Chor Hiang"
+		],
+		"Vice Principal (Admin)": "Mr Ho Seng Fatt",
+		"School Vision": "Loyang View Secondary School is a happy and caring school where students achieve their potential, are of robust character and are well prepared for the skilforce of tomorrow.",
+		"School Mission": "To build a team of competent and dedicated staff, working closely with our stakeholders in delivering rigorous and comprehensive academic and character development programmes that bring out the best in every student.",
+		"School Philosophy, Culture and Ethos": "At Loyang View Secondary School (LVSS), every child is unique and important. We do everything with love, constantly and purposefully doing whatever it takes to pursue quality service, thus impacting the lives of students in our care with passion. The school focuses on holistic student development programmes, emphasising on academic value-addedness, character development, and a rewarding school experience. The unique Loyang Experience for all students strengthens the student-centricity and accentuates the distinctiveness of LVSS. The Loyang Experience integrates key programmes (such as Teaching and Learning, Character and Citizenship Education, Applied Learning and Life-Long Learning) through common student outcomes and is aimed at strengthening the holistic development of students.",
+		"Type of School": "Government School / Co-ed School / Full Day",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art",
+		"Art Na Level",
+		"Art Nt Level",
+		"Basic Chinese",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Computer Applications",
+		"Design & Technology",
+		"English Language",
+		"English Language (Syll A)",
+		"English Language (Syll T)",
+		"Food & Nutrition",
+		"Food And Consumer Education",
+		"Geography",
+		"Higher Chinese",
+		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Literature(E)",
+		"Malay",
+		"Malay B",
+		"Malay N(A)",
+		"Mathematics",
+		"Mathematics (Syllabus A)",
+		"Mathematics (Syllabus T)",
+		"Physical Education",
+		"Physics",
+		"Principles Of Accounts",
+		"Science",
+		"Science (Chem, Bio)",
+		"Science (Phy, Chem)",
+		"Science (Syll T)",
+		"Smart Electrical Technology",
+		"Social Studies N(T)",
+		"Tamil",
+		"Tamil N(A)"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Air Rifle",
+			"Basketball",
+			"Floorball",
+			"Netball",
+			"Rock Climbing"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Ncc",
+			"Npcc"
+		],
+		"Visual and Performing Arts": [
+			"Dance",
+			"Drama",
+			"Symphonic Band"
+		]
+	},
+	"SpecialProgrammes": {
+		"Special Student Development Programmes Offered": "Not Available"
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"Sports & Games Competition": [],
+			"SYF": [],
+			"Best Unit Award": []
+		}
+	},
+	"PsleAggregateHistory": [],
+	"postalCode": "519073",
+	"coordinates": [
+		103.9569446,
+		1.3665842
+	],
+	"svy21": [
+		41758.11,
+		38735.8
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"id": "3077"
+}

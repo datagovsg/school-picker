@@ -1,0 +1,512 @@
+{
+	"code": "3605",
+	"name": "Orchid Park Secondary School",
+	"levels": "S",
+	"uen": " T07GS3605L",
+	"logo": "./Medias/Images/Schools/logos/tn_3605.jpg",
+	"website": "http://www.orchidparksec.moe.edu.sg",
+	"address": "10, Yishun Street 81 (768454)",
+	"telephone": [
+		"67598547"
+	],
+	"fax": [
+		"67588770"
+	],
+	"email": "opss@moe.edu.sg",
+	"mrt": [
+		"Khatib MRT"
+	],
+	"bus": "811",
+	"GeneralInformation": {
+		"Principal": "Mr Shawal Bin Hussin",
+		"Vice Principal": [
+			"Mdm Teo Mei Lin Yvonne",
+			"Mr Lam Yui P'ng"
+		],
+		"School Vision": "Engaged and Empowered to Excel",
+		"School Mission": "Through the provision of a holistic education, pupils of Orchid Park shall blossom into resourceful individuals with a positive outlook, prepared to meet confidently the challenges of life.  They will be cultured young men and women of integrity, responsible and compassionate towards their fellow men.",
+		"School Philosophy, Culture and Ethos": "Every child matters at OPSS.  The school's philosophy of the '6 Everys' guide the thinking and actions of all staff in providing quality and meaningful school experiences through our school-based curriculum: Every Student of OPSS deserves to be my Student; Every Student of OPSS deserves my Best; Every Student of OPSS deserves to be given opportunities; Every Second a Teaching Moment; Every Inch a Learning Space; Every Interaction an Edifying Experience.  We aspire to grow and nurture our students into wholesome, contributing and thinking individuals with robust character and a quest for knowledge and learning.  As such, there is a strong focus on the holistic development of the whole child, in the different domains encapsulated in the PIES-MA (Physical, Intellectual, Emotional, Social, Moral and Aesthetics). Underpinning the school's efforts in holistic education is the building of strong Teacher-Student Relationships (TSR) and the \"Discipline with Care\" approach. Indeed, OPSS is known in the neighbourhood as a school with good discipline and caring teachers. The 4As (Attendance, Appearance, Assignment, Attentiveness) are emphasised to maintain a positive learning climate and the culture of care is evident in our whole-school approach to character development. The school also works closely with parents and stakeholders, leveraging on strategic partnerships, to provide a fulfilling and joyful educational experience for our students.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Combined Humanities (S,G)",
+		"Combined Humanities (S,H)",
+		"Computer Applications",
+		"Design & Technology",
+		"Elements Of Business Skills",
+		"English Language",
+		"Food & Nutrition",
+		"Higher Chinese",
+		"Higher Malay",
+		"Literature(E)",
+		"Malay",
+		"Mathematics",
+		"Physics",
+		"Principles Of Accounts",
+		"Science (Chem, Bio)",
+		"Science (Phy, Chem)"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Basketball (Boys)",
+			"Floorball (Boys & Girls)",
+			"Football (Boys)",
+			"Hockey (Boys)",
+			"Netball (Girls)",
+			"Wushu (Mixed)"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Girls' Brigade",
+			"National Civil Defence Cadet Corps",
+			"Ncc (Sea)",
+			"Npcc"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Dance Club",
+			"Drama Club",
+			"Guitar Ensemble",
+			"Joaquim Chorale",
+			"Wind Orchestra"
+		],
+		"Clubs & Societies": [
+			"Green Club",
+			"Mediatech Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Aesthetics": "ARTopIA - Arts Appreciation & Values Inculcation through Visual Art",
+			"Community & Youth Leadership": "OPSS CORE Programme – Orchid Park Secondary School Community OutReach Education Programme"
+		},
+		"Special Student Development Programmes Offered": "True to our commitment to provide a holistic education, OPSS offers a diverse range of programmes to cater to the development of our students.  Some key school-wide programmes offered include: a whole-school approach to the learning of EL, Sec 1 Science Camp, Sec 2 Speech and Drama lessons, 3-tier Student Empowerment Programme (through the Student Leadership Challenge Model), PE Outdoor Learning (through kayaking, dragon-boating, expeditions and student-initiated interest groups, eg. Track and Field and Taekwondo), Service Learning, interdisciplinary learning, school-based Normal curriculum, including puppetry and sailing (through the Young Explorers Programme) and overseas immersion.  OPSS delivers its LLP through Community OutReach Education (CORE), which works towards building student leadership, particularly through community leadership.  CORE seeks to raise OPSS youths into confident and contributing individuals who will continue to serve and lead others through life.  Aligned with our vision to develop our students into gracious and cultured individuals, our ALP, ARTopIA equips students with artistic and critical thinking skills through the infusion of studio habits in the curriculum design, and enriches their learning experiences in Visual Arts and Design through exploration of different art forms.  An Enhanced Art Programme (EAP) school since 2016, the school is working very closely with Arts Education Branch to design a school-based Art Curriculum to more richly develop art passions and talents in our school.  Two pieces of enhanced infrastructure are the newly set-up Ceramics Corner and Digital Printing Laboratory."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"Development Award": "DA (Character Development)",
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category A",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guitar",
+					"award": "Commendation"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Boys' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2014",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NCC (Sea Boys)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2014",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Boys' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Sea)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "NCDCC",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Sea)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "NCDCC",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Sea)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "NCDCC",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 206,
+			"upper": 249,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 165,
+			"upper": 193,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": 109,
+			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 209,
+			"upper": 247,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 171,
+			"upper": 197,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Technical",
+			"lower": 118,
+			"upper": 157,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 204,
+			"upper": 245,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 172,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Technical",
+			"lower": 98,
+			"upper": 156,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 206,
+			"upper": 240,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Academic",
+			"lower": 171,
+			"upper": 195,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Technical",
+			"lower": 133,
+			"upper": 157,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		}
+	],
+	"postalCode": "768454",
+	"coordinates": [
+		103.8378592,
+		1.4153203
+	],
+	"svy21": [
+		28505.31,
+		44124.45
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"id": "3605"
+}

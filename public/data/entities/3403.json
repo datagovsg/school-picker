@@ -1,0 +1,502 @@
+{
+	"code": "3403",
+	"name": "Teck Whye Secondary School",
+	"levels": "S",
+	"uen": " T07GS3403D",
+	"logo": "./Medias/Images/Schools/logos/tn_3403.jpg",
+	"website": "http://www.teckwhyesec.moe.edu.sg",
+	"address": "31, Teck Whye Crescent (688848)",
+	"telephone": [
+		"67691386"
+	],
+	"fax": [
+		"67630487"
+	],
+	"email": "TWSS@MOE.EDU.SG",
+	"mrt": [],
+	"bus": "975 , 985 , 190 , 307 ",
+	"GeneralInformation": {
+		"Principal": "Mr Chan Yew Heng Edwin",
+		"Vice Principal": [
+			"Miss Diana Goh Boon Lang",
+			"Mr Wu Tian Hwee"
+		],
+		"School Vision": "A Community of Future-Ready Learners who Lead, Serve and Achieve",
+		"School Mission": "Empowering Lives, Transforming Our Future",
+		"School Philosophy, Culture and Ethos": "Established in 1966, Teck Whye Secondary School has been providing a nurturing environment for generations of students to be resilient, possess strong integrity and value teamwork. At Teck Whye Secondary, there is a healthy emphasis on learning and development in both curricular and co-curricular areas. We adopt a student-centric approach in designing pedagogies for learning, inculcate higher-order thinking skills through our strengths in using the design-thinking approach as well as provide many opportunities for Teck Whyeans to learn collaboratively. The development of strength of character, mindset of excellence, commitment to teamwork, leadership potential and other 21st century skills and dispositions develop our Teck Whyeans to be responsible members of the society with empathy and compassion, and gracious citizens of the world.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art Na Level",
+		"Art Nt Level",
+		"Art 'O' Level",
+		"Basic Chinese",
+		"Basic Malay",
+		"Basic Tamil",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Chinese B",
+		"Chinese N(A)",
+		"Combined Humanities (S,G)",
+		"Combined Humanities (S,H)",
+		"Computer Applications",
+		"Design & Technology",
+		"Elements Of Business Skills",
+		"English Language",
+		"English Language (Syll A)",
+		"English Language (Syll T)",
+		"Food And Consumer Education",
+		"Malay",
+		"Malay N(A)",
+		"Mathematics",
+		"Mathematics (Syllabus A)",
+		"Mathematics (Syllabus T)",
+		"Physical Education",
+		"Physics",
+		"Principles Of A/C",
+		"Science (Chem, Bio)",
+		"Science (Phy, Chem)",
+		"Science (Syll T)",
+		"Social Studies N(T)",
+		"Tamil",
+		"Tamil N(A)"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Archery",
+			"Badminton",
+			"Basketball (Boys)",
+			"Floorball (Girls)",
+			"Hockey",
+			"Taekwondo"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Girl Guides",
+			"Ncc (Land)",
+			"Npcc",
+			"St. John Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Band - Concert",
+			"Dance - Chinese",
+			"Dance - Modern",
+			"Ensemble - Guitar"
+		],
+		"Clubs & Societies": [
+			"Environmental Club",
+			"Infocom Club",
+			"Library",
+			"Robotics Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"STEM": "Re-designing the Future with Materials Science",
+			"Sports & Outdoor Education": "Sports and Sportsmanship Programme @ TWSS (Experience, Expose, Excel)"
+		},
+		"Special Student Development Programmes Offered": "Teck Whye Secondary School offers the Applied Learning Programme (ALP) which provides opportunities for students to learn interesting STEM (Science Technology Engineering Mathematics) applications in the area of Material Sciences and Engineering.  Students will learn more about material properties, integration with Robotics and applications in the context of Defence Science. The emphasis is on the design thinking, connecting knowledge from across disciplines, stretching the imagination and applying these in authentic settings and real world contexts. In the area of Co-Curriculum, excellent platforms are provided for our students to develop strength of character, values and inculcate the Growth Mindset to overcome challenges that come their way in life. It is with this that we have structured our Learning for Life Programme (LLP) for our students - the Sports Experience, the Sports Development and Sports Excellence. In particular, our strong Hockey programme - \"Nurturing Sports Stars of Tomorrow through Hockey\" seeks to further develop the skills of our students in the sport to lead and contribute at the national levels. Throughout these programmes, our students participate in and develop their passion and aptitude in the respective sports and activities. Sportsmanship values, character and attitudes are constantly emphasised.  Other key programmes offered include Leadership Development Programme, Drama Programme, Sec 3 Adventure and Leadership Camp and Talent Development Programme."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"Development Award": "DA (Character Development)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Boys' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "St John Ambulance Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "Boys' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "St John Ambulance Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "St John Ambulance Brigade",
+					"award": "Bronze"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 190,
+			"upper": 249,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 163,
+			"upper": 194,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": 125,
+			"upper": 157,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 191,
+			"upper": 234,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 189,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Technical",
+			"lower": 117,
+			"upper": 154,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 192,
+			"upper": 233,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 158,
+			"upper": 190,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Technical",
+			"lower": 94,
+			"upper": 150,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 192,
+			"upper": 231,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Academic",
+			"lower": 154,
+			"upper": 196,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Technical",
+			"lower": 108,
+			"upper": 154,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		}
+	],
+	"postalCode": "688848",
+	"coordinates": [
+		103.75533,
+		1.3830892
+	],
+	"svy21": [
+		19320.86,
+		40560.63
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"id": "3403"
+}

@@ -1,0 +1,438 @@
+{
+	"code": "0711",
+	"name": "Pioneer Junior College",
+	"levels": "J",
+	"uen": " T07GS0711F",
+	"logo": "./Medias/Images/Schools/logos/tn_0711.jpg",
+	"website": "http://www.pioneerjc.moe.edu.sg",
+	"address": "21, Teck Whye Walk (688258)",
+	"telephone": [
+		"65646878"
+	],
+	"fax": [
+		"67651861"
+	],
+	"email": "PJC@MOE.EDU.SG",
+	"mrt": [
+		"Choa Chu Kang MRT"
+	],
+	"bus": "975 , 190 , 985 ",
+	"GeneralInformation": {
+		"Principal": "Mdm Kek Lee Yong",
+		"Vice Principal": [
+			"Mr Leong Chi-Yung Ken",
+			"Miss Seet Ying Ling Britta"
+		],
+		"Vice Principal (Admin)": "Miss Sim Yoke Hwee",
+		"School Vision": "ALWAYS SERVING, ALWAYS LEARNING",
+		"School Mission": "Nurturing a community of committed learners and compassionate leaders",
+		"Type of School": "Government School / Co-ed School / Full Day",
+		"Mother Tongue": "Chinese",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"H1 Art",
+		"H1 Chemistry",
+		"H1 China Studies In English",
+		"H1 Chinese Language",
+		"H1 Economics",
+		"H1 General Paper",
+		"H1 General Studies In Chinese",
+		"H1 Geography",
+		"H1 History",
+		"H1 Literature In English",
+		"H1 Malay Language",
+		"H1 Mathematics",
+		"H1 Physics",
+		"H1 Project Work",
+		"H1 Tamil Language",
+		"H2 Art",
+		"H2 Biology",
+		"H2 Chemistry",
+		"H2 China Studies In English",
+		"H2 Chinese Language & Literature",
+		"H2 Computing",
+		"H2 Economics",
+		"H2 Geography",
+		"H2 History",
+		"H2 Literature In English",
+		"H2 Malay Language & Literature",
+		"H2 Mathematics",
+		"H2 Physics",
+		"H2 Tamil Language & Literature",
+		"H3 Essentials Of Modern Physics",
+		"H3 Mathematics",
+		"H3 Pharmaceutical Chemistry"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball (Boys)",
+			"Floorball (Boys)",
+			"Hockey (Girls)",
+			"Netball (Girls)",
+			"Table Tennis",
+			"Taekwondo",
+			"Ten-Pin Bowling",
+			"Tennis",
+			"Touch Rugby (Girls)",
+			"Ultimate Frisbee",
+			"Volleyball"
+		],
+		"Visual and Performing Arts": [
+			"Chinese Cultural Society",
+			"Choir",
+			"Modern Dance Club",
+			"Pioneer Press",
+			"Symphonic Band"
+		],
+		"Clubs & Societies": [
+			"Audio Visual Club",
+			"Chess Club",
+			"Eco Club",
+			"Infocomm Club",
+			"Interact Club",
+			"Odac"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Language Elective Programme (Malay)"
+		],
+		"Special Student Development Programmes Offered": "Sports and outdoor electives"
+	},
+	"AchievementHistory": {
+		"Junior College": {
+			"2014": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": "BPA (Teaching and Learning)",
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)"
+				]
+			},
+			"2015": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": "BPA (Teaching and Learning)",
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)"
+				]
+			},
+			"2016": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": "BPA (Teaching and Learning)",
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)"
+				]
+			},
+			"2017": {
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)"
+				]
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category C",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category C",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - Multi-Lingual",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - Multi-Lingual",
+					"award": "Distinction"
+				}
+			],
+			"Best Unit Award": []
+		}
+	},
+	"L1R5History": [
+		{
+			"year": "2014",
+			"programme": "Arts",
+			"lower": 5,
+			"upper": 14
+		},
+		{
+			"year": "2014",
+			"programme": "Science/IB",
+			"lower": 4,
+			"upper": 14
+		},
+		{
+			"year": "2014",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2015",
+			"programme": "Arts",
+			"lower": 5,
+			"upper": 13
+		},
+		{
+			"year": "2015",
+			"programme": "Science/IB",
+			"lower": 4,
+			"upper": 13
+		},
+		{
+			"year": "2015",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2016",
+			"programme": "Arts",
+			"lower": 5,
+			"upper": 13
+		},
+		{
+			"year": "2016",
+			"programme": "Science/IB",
+			"lower": 5,
+			"upper": 12
+		},
+		{
+			"year": "2016",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2017",
+			"programme": "Arts",
+			"lower": 5,
+			"upper": 13
+		},
+		{
+			"year": "2017",
+			"programme": "Science/IB",
+			"lower": 5,
+			"upper": 12
+		},
+		{
+			"year": "2017",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		}
+	],
+	"postalCode": "688258",
+	"coordinates": [
+		103.7543746,
+		1.3843976
+	],
+	"svy21": [
+		19214.54,
+		40705.31
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	],
+	"id": "0711"
+}

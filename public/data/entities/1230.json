@@ -1,0 +1,456 @@
+{
+	"code": "1230",
+	"name": "Bedok Green Primary School",
+	"levels": "P",
+	"uen": " T07GS1230A",
+	"logo": "./Medias/Images/Schools/logos/tn_1230.jpg",
+	"website": "http://www.bedokgreenpri.moe.edu.sg",
+	"address": "1, Bedok South Ave 2 (469317)",
+	"telephone": [
+		"64425416"
+	],
+	"fax": [
+		"64491491"
+	],
+	"email": "bgps@moe.edu.sg",
+	"mrt": [
+		"Tanah Merah MRT",
+		"Bedok MRT"
+	],
+	"bus": "Bus No. 2 , 9 , 12 , 24 , 31 , 34 & 38 ",
+	"GeneralInformation": {
+		"Principal": "Mrs Ng Kim Choo Celine",
+		"Vice Principal": [
+			"Mdm Ho Fui Fong",
+			"Mdm Sharifah Fairuz Bte S Y A"
+		],
+		"School Vision": "Empowered Learners, Persons of Strength and Character",
+		"School Mission": "To empower BGPians to learn how to learn and succeed, and nurture them to be confident persons and concerned citizens.",
+		"School Philosophy, Culture and Ethos": [
+			"Bedok Green Primary's philosophy that 'Every Child Matters' undergirds our unyielding belief that every child is special, valuable and important, and thus will receive the necessary support to ensure his success in life, regardless of his starting point, with many helping hands, sound structures and a myriad of programmes for various student segments put in place. We build the students' resilience, confidence and strong thirst for success, despite the challenges and obstacles, always cheered on and encouraged by their teachers and peers. The school philosophy unites the school as one, as every member of the school community takes accountability of his role in ensuring individual and collective success. We also ensure that students learn in a warm, nurturing and conducive environment for their holistic development. ",
+			"The philosophy also drives the school's strong culture of care for its students, staff and stakeholders. Every member of the school community is respected and recognised for his contribution, big or small, with ample opportunities to succeed. Character-building and Values-In-Action programmes focus on contributing to their peers, the school and community, reiterating the importance of giving generously back to society, in our own ways."
+		],
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"Co-curricular Activities",
+		"English Language",
+		"Foundation Chinese",
+		"Foundation English",
+		"Foundation Malay",
+		"Foundation Mathematics",
+		"Foundation Science",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies"
+	],
+	"Cca": {},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Sports & Outdoor Education": "Sports to Reinforce Values Education or STRIVE @ BGPS"
+		},
+		"Special Student Development Programmes Offered": "Learning for Life Programme Sports to Reinforce Values Education (STRIVE @ BGPS): STRIVE @ BGPS taps on key platforms such as physical education lessons, co-curricular activities (CCA) and outdoor education programmes to inculcate values in students so as to develop their character and citizenship, as well as hone their social-emotional (SEL) and 21st century competencies.  "
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"2015": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Brownies (Pack 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Brownies (Pack 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Brownies (Pack 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Brownies (Pack 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Scout",
+					"award": "Silver"
+				}
+			]
+		}
+	},
+	"postalCode": "469317",
+	"coordinates": [
+		103.9377171,
+		1.3239959
+	],
+	"svy21": [
+		39618.55,
+		34026.57
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 180,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 140,
+		"No. of Applicants in Phase 1": 86,
+		"Places taken up to Phase 1": 86,
+		"Vacancy for Phase 2A1": 54,
+		"No. of Applicants in Phase 2A1": 1,
+		"Places taken up to Phase 2A1": 87,
+		"Vacancy for Phase 2A2": 53,
+		"No. of Applicants in Phase 2A2": 11,
+		"Places taken up to Phase 2A2": 98,
+		"Vacancy for Phase 2B": 41,
+		"No. of Applicants in Phase 2B": 0,
+		"Places taken up to Phase 2B": 96,
+		"Vacancy for Phase 2C": 84,
+		"No. of Applicants in Phase 2C": 56,
+		"Places taken up to Phase 2C": 152,
+		"Vacancy for Phase 2C Supplementary": 28,
+		"No. of Applicants in Phase 2C Supplementary": 15
+	},
+	"id": "1230"
+}

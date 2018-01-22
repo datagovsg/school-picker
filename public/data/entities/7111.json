@@ -1,0 +1,1102 @@
+{
+	"code": "7111",
+	"name": "Maris Stella High School",
+	"levels": "PSF",
+	"uen": " T07GS7111H",
+	"logo": "./Medias/Images/Schools/logos/tn_7111.jpg",
+	"website": "http://www.marisstellahigh.moe.edu.sg",
+	"address": "25, Mount Vernon Road (368051)",
+	"telephone": [
+		"62803880  (Sec)",
+		"62827743  (Pri)"
+	],
+	"fax": [
+		"62886905 (Sec)",
+		"62827905 (Pri)"
+	],
+	"email": "msh@moe.edu.sg",
+	"mrt": [
+		"Bartley MRT"
+	],
+	"bus": "28 , 93 , 100 , 135 , 155 , 158 ",
+	"GeneralInformation": {
+		"Principal": "Mrs Woo Soo Min",
+		"Vice Principal": [
+			"Mr Edwin Ong Yoke Yam",
+			"Mrs Maria Koh",
+			"Mr Tan Ching Huat",
+			"Mr Tan Kim Koon"
+		],
+		"Vice Principal (Admin)": "Mr Kuek Joo Leng",
+		"School Vision": "Every Marist a Gentleman of Faith, Vision and Service.",
+		"School Mission": "The holistic development of each Marist that blends faith, culture and life with respect to his human dignity.",
+		"School Philosophy, Culture and Ethos": "Maris Stella High School is an autonomous all-boys Catholic school committed to educating Marists holistically and anchored in the Marist values. As one of the first SAP schools in Singapore, our SAP programme, the Br Chanel Programme, named after our Founding Principal, is designed to realise his vision of nurturing bicultural Marists as we seek to educate them to exhibit bicultural sensitivity, steep in traditional Chinese values with a global outlook, ready to serve society. As an all-boys school, we adopt a boy-centred approach focussing on sports, outdoor education, the Sciences and ICT in our school-wide programmes, whilst supporting individual interests of Marists, to bring out the best in them. We further inculcate our school motto of Diligence, Determination, Loyalty and Dedication, and Courage, and Marist Values in Marists so that they are equipped with the attitudes and competencies to become contributing members of society. Caring teachers and strong programmes geared towards building school spirit anchor the learning experiences of Marists.",
+		"Type of School": "Government-aided Sch / Boys' School / Single Session",
+		"Status of School": "Autonomous",
+		"Mother Tongue": "Chinese",
+		"Affiliated Schools": [
+			"Catholic Junior College",
+			"Maris Stella High School"
+		]
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art",
+		"Art 'O' Level",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Computing",
+		"Design & Technology",
+		"English Language",
+		"Exercise And Sports Science",
+		"Food And Consumer Education",
+		"Geography",
+		"Higher Chinese",
+		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Literature In Chinese",
+		"Literature(E)",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Physics",
+		"Science",
+		"Science (Chem, Bio)",
+		"Science (Phy, Chem)"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Archery",
+			"Athletics",
+			"Badminton",
+			"Basketball",
+			"Cross Country",
+			"Softball",
+			"Table Tennis",
+			"Taekwondo",
+			"Ten-Pin Bowling",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Cub Scouts",
+			"Ncc (Sea)",
+			"Npcc",
+			"Scouts",
+			"St. John Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Band - Symphonic",
+			"Chinese Orchestra",
+			"Digital Music & Art",
+			"Marist Digital Media Club",
+			"Orchestra - Chinese",
+			"Symphonic Band"
+		],
+		"Clubs & Societies": [
+			"Chinese Language Society",
+			"Chinese Literary Drama And Debate Society",
+			"English Literary Society",
+			"Marist Robotics & Programming Club",
+			"Outdoor Activities Club",
+			"Robotics Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"SAP"
+		],
+		"School Distinctive Programmes": {
+			"Sports & Outdoor Education": "The Marist Sports & Life Skills Experience"
+		},
+		"Special Student Development Programmes Offered": "The Marcellin Programme, anchored in Marist values is a 10-year programme which seeks to build the character and values in Marists. The main components of the programme expose students to authentic learning experiences to hone their preparation for the unknown future and the application of their own learning to be of service within the school and to the wider community, undergirded by values education."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"School Distinction Awards": "SDA",
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"2015": {
+				"School Distinction Awards": "SDA"
+			},
+			"2016": {
+				"School Distinction Awards": "SDA"
+			},
+			"2017": {
+				"School Distinction Awards": "SDA"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Taekwondo (Kyorugi)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Taekwondo (Kyorugi)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Taekwondo (Kyorugi)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Strings",
+					"award": "Commendation"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Strings",
+					"award": "Commendation"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Scout",
+					"award": "Gold"
+				}
+			]
+		},
+		"Secondary": {
+			"2014": {
+				"School Distinction Awards": "SDA",
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"2015": {
+				"School Distinction Awards": "SDA"
+			},
+			"2016": {
+				"School Distinction Awards": "SDA"
+			},
+			"2017": {
+				"School Distinction Awards": "SDA"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Taekwondo (Kyorugi)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Taekwondo (Kyorugi)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Taekwondo (Kyorugi)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Orchestra - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Orchestra - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Orchestra - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - Chinese",
+					"award": "Distinction"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "NCC (Sea Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Sea Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Sea Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Sea Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 236,
+			"upper": 249,
+			"lowerAffiliated": 226,
+			"upperAffiliated": 259
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 235,
+			"upper": 257,
+			"lowerAffiliated": 226,
+			"upperAffiliated": 249
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 235,
+			"upper": 253,
+			"lowerAffiliated": 226,
+			"upperAffiliated": 248
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 236,
+			"upper": 259,
+			"lowerAffiliated": 226,
+			"upperAffiliated": 252
+		}
+	],
+	"postalCode": "368051",
+	"coordinates": [
+		103.8778682,
+		1.3413217
+	],
+	"svy21": [
+		32957.93,
+		35942.17
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	],
+	"specialNeeds": [
+		"Mild SEN",
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 270,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 230,
+		"No. of Applicants in Phase 1": 71,
+		"Places taken up to Phase 1": 71,
+		"Vacancy for Phase 2A1": 159,
+		"No. of Applicants in Phase 2A1": 48,
+		"Places taken up to Phase 2A1": 118,
+		"Vacancy for Phase 2A2": 112,
+		"No. of Applicants in Phase 2A2": 36,
+		"Places taken up to Phase 2A2": 151,
+		"Vacancy for Phase 2B": 60,
+		"No. of Applicants in Phase 2B": 63,
+		"Places taken up to Phase 2B": 211,
+		"Vacancy for Phase 2C": 59,
+		"No. of Applicants in Phase 2C": 68,
+		"Places taken up to Phase 2C": 270
+	},
+	"id": "7111"
+}

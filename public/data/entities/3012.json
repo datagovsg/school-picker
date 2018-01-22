@@ -1,0 +1,550 @@
+{
+	"code": "3012",
+	"name": "Commonwealth Secondary School",
+	"levels": "S",
+	"uen": " T07GS3012E",
+	"logo": "./Medias/Images/Schools/logos/tn_3012.jpg",
+	"website": "http://www.commonwealthsec.moe.edu.sg",
+	"address": "698, West Coast Road (608784)",
+	"telephone": [
+		"65606866"
+	],
+	"fax": [
+		"65645204"
+	],
+	"email": "cwss@moe.edu.sg",
+	"mrt": [
+		"Clementi MRT",
+		"Jurong East MRT"
+	],
+	"bus": "30 , 51 , 78 , 79 , 143 , 143M , 176 , 201 ",
+	"GeneralInformation": {
+		"Principal": "Mr Ng Boon Kiat",
+		"Vice Principal": [
+			"Mr Tan Tai Huat",
+			"Mr Tan Boon Piang"
+		],
+		"Vice Principal (Admin)": "Mdm Shabnam Lena",
+		"School Vision": "A community of passionate learners who spark imagination, illuminate new frontiers and inspire change for a better world.",
+		"School Mission": "Nurturing Commonwealthians as Champions of Today and Leaders of Tomorrow.",
+		"School Philosophy, Culture and Ethos": "Commonwealth Secondary School (CWSS) believes that students learn best and are most fulfilled when the school nurtures every aspect of their person, and provides rich and authentic learning environments. As such, CWSS offers students our unique \"C3\" Curriculum. This comprises an innovative Character Education programme which emphasises Servant Leadership and Growth Mindset to instill strong values and productive habits, grounded in the school's WEALTH values (Warmth, Enterprise, Adventurousness, Loyalty, Tenacity and Honour). The school also offers a well-established programme of academic content, which applies principles of Differentiated Instruction to support students of differing needs to master key skills and concepts for each subject, and provides them with opportunities to apply their knowledge in authentic ways. In addition, the school has also implemented a school-wide approach to encouraging Creativity which aims to give every student hands-on opportunities to express and nurture their creative ability, through avenues such as programming, robotics, design, as well as our outstanding visual and performing arts programmes.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Status of School": "Autonomous",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art",
+		"Art Na Level",
+		"Art 'O' Level",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Combined Humanities (S,H)",
+		"Computer Applications",
+		"Computing",
+		"Design & Technology",
+		"Elements Of Business Skills",
+		"English Language",
+		"English Language (Syll A)",
+		"English Language (Syll T)",
+		"Food & Nutrition",
+		"Food And Consumer Education",
+		"Geography",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Literature In Chinese",
+		"Literature(E)",
+		"Malay",
+		"Mathematics",
+		"Mathematics (Syllabus A)",
+		"Mathematics (Syllabus T)",
+		"Music",
+		"Physical Education",
+		"Physics",
+		"Principles Of Accounts",
+		"Science (Phy, Chem)",
+		"Science (Syll T)",
+		"Social Studies N(T)",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball (Boys)",
+			"Cross Country",
+			"Dragon Boat",
+			"Netball",
+			"Soccer (Boys)"
+		],
+		"Uniformed Groups": [
+			"Girl Guides",
+			"Ncc (Land)",
+			"Npcc",
+			"Scouts",
+			"Singapore Red Cross Society"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Band - Military",
+			"Choir",
+			"Dance - Chinese",
+			"Dance - Indian",
+			"Dance - Malay",
+			"Drama - English",
+			"Urban Nature"
+		],
+		"Clubs & Societies": [
+			"Bits And Atoms",
+			"Culinary Club",
+			"Eco Club",
+			"New Media"
+		]
+	},
+	"SpecialProgrammes": {
+		"Special Student Development Programmes Offered": "1.Design Thinking programme to develop human-centred problem-solvers with valuable skills and mindsets including need-finding, ideation, empathy and prototyping."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Development Award": "DA (Character Development)"
+			},
+			"2015": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Development Award": "DA (Character Development)"
+			},
+			"2016": {
+				"School Distinction Awards": "SDA"
+			},
+			"2017": {
+				"School Distinction Awards": "SDA"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Cross Country",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English (2nd Entry)",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "Red Cross",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "Red Cross",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Red Cross",
+					"award": "Silver"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 238,
+			"upper": 249,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 170,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": 126,
+			"upper": 158,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 237,
+			"upper": 268,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 181,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Technical",
+			"lower": 129,
+			"upper": 152,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 239,
+			"upper": 253,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 183,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Technical",
+			"lower": 125,
+			"upper": 158,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 237,
+			"upper": 262,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Academic",
+			"lower": 181,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Technical",
+			"lower": 134,
+			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		}
+	],
+	"postalCode": "608784",
+	"coordinates": [
+		103.7456374,
+		1.319204
+	],
+	"svy21": [
+		18241.94,
+		33496.56
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"id": "3012"
+}

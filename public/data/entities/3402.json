@@ -1,0 +1,530 @@
+{
+	"code": "3402",
+	"name": "Changkat Changi Secondary School",
+	"levels": "S",
+	"uen": " T07GS3402H",
+	"logo": "./Medias/Images/Schools/logos/tn_3402.jpg",
+	"website": "http://www.changkatchangisec.moe.edu.sg",
+	"address": "23, Simei St 3 (529894)",
+	"telephone": [
+		"67859790"
+	],
+	"fax": [
+		"67868481"
+	],
+	"email": "CHANGKATCHGI@MOE.EDU.SG",
+	"mrt": [
+		"Simei MRT"
+	],
+	"bus": "5 , 9 , 20 , 38 ",
+	"GeneralInformation": {
+		"Principal": "Mdm Sharma Poonam Kumari",
+		"Vice Principal": [
+			"Mr Pang Chin Keat, Kevin",
+			"Mdm Lim Wei Yin Selina"
+		],
+		"School Vision": [
+			"Learn with Passion,",
+			"Serve with Humility,",
+			"Succeed with Integrity"
+		],
+		"School Mission": [
+			"Engaging Minds,",
+			"Enriching Character,",
+			"Empowering Lives"
+		],
+		"School Philosophy, Culture and Ethos": "At Changkat Changi Secondary School, our vision is for every child to learn with passion, serve with humility, and succeed with integrity. We are committed to engaging minds, enriching character, and empowering lives. We firmly believe in providing ample opportunities for every child to do well in life. Our students have done well in the academic and non-academic domains, and they are well-supported by a team of caring and dedicated staff. Anchored in the school values of R3ICH - Respect, Resilience, Responsibility, Integrity, Care and Harmony, we work closely with all stakeholders to develop each child into a citizen who is a collaborative learner, an effective communicator, a self-directed individual and a service-leader.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Combined Humanities (S,G)",
+		"Combined Humanities (S,H)",
+		"Computer Applications",
+		"Design & Technology",
+		"Elements Of Business Skills",
+		"English Language",
+		"Food & Nutrition",
+		"Literature(E)",
+		"Malay",
+		"Mathematics",
+		"Physics",
+		"Principles Of A/C",
+		"Science (Chem, Bio)",
+		"Science (Phy, Bio)",
+		"Science (Phy, Chem)",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Netball",
+			"Sepak Takraw",
+			"Taekwondo",
+			"Track & Field"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Girl Guides",
+			"National Civil Defence Cadet Corps",
+			"Ncc(Air) Boys",
+			"Ncc(Air) Girls"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Band - Military",
+			"Dance - Malay",
+			"Dance - Modern",
+			"Drama - English",
+			"Orchestra - Chinese",
+			"Photographic Society"
+		],
+		"Clubs & Societies": [
+			"It/Infocomm Club",
+			"Library"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"STEM": "Programme SOAR (Student centered Opportunities for AeRospace Industry)",
+			"Community & Youth Leadership": "Service and Leadership through School to Nation"
+		},
+		"Special Student Development Programmes Offered": "The school is committed to developing learners with passion and adopts innovative pedagogies to engage our students towards lifelong learning. "
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"Development Award": "DA (National Education)"
+			},
+			"2015": {
+				"Development Award": "DA (National Education)"
+			},
+			"2016": {
+				"Development Award": "DA (National Education)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "1st"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Commendation"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Orchestra - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Commendation"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Orchestra - Chinese",
+					"award": "Commendation"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Commendation"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Orchestra - Chinese",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Brass Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Mixed Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Commendation"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Girl Guides (Coy 2)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NCC (Air Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NCC (Air Girls)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NCDCC",
+					"award": "Bronze"
+				},
+				{
+					"year": "2014",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2014",
+					"category": "Scout (Unit 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "St John Ambulance Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Girl Guides (Coy 2)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Air Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Air Girls)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NCDCC",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Scout (Unit 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Girl Guides (Coy 2)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Air Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Land Girls)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NCDCC",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girl Guides (Coy 2)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Air Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "NCDCC",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Air Girls)",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 260,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 157,
+			"upper": 184,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": 92,
+			"upper": 148,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 230,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 189,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Technical",
+			"lower": 98,
+			"upper": 149,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 227,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 188,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Technical",
+			"lower": 94,
+			"upper": 148,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 233,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 198,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		}
+	],
+	"postalCode": "529894",
+	"coordinates": [
+		103.9532455,
+		1.3395063
+	],
+	"svy21": [
+		41346.59,
+		35741.64
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	],
+	"specialNeeds": [
+		"PD",
+		"Mild SEN"
+	],
+	"id": "3402"
+}

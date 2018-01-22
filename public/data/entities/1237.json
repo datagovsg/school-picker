@@ -1,0 +1,217 @@
+{
+	"code": "1237",
+	"name": "East View Primary School",
+	"levels": "P",
+	"uen": " T07GS1237F",
+	"logo": "./Medias/Images/Schools/logos/tn_1237.jpg",
+	"website": "http://www.eastviewpri.moe.edu.sg",
+	"address": "4, Tampines Street 91 (528907)",
+	"telephone": [
+		"67836531"
+	],
+	"fax": [
+		"67887016"
+	],
+	"email": "EVPS@MOE.EDU.SG",
+	"mrt": [
+		"Tampines MRT"
+	],
+	"bus": "6 , 8 , 10 , 15 , 18 , 21 , 22 , 23 , 27 , 28 , 31 ",
+	"GeneralInformation": {
+		"Principal": "Miss Ong Lee Choo",
+		"Vice Principal": [
+			"Mrs Kwok Siew Lian",
+			"Mdm Rahima Bte Abdul Rahman"
+		],
+		"School Vision": "Inspiring Learners for Life",
+		"School Mission": "Nurturing S.T.A.R.Z. (Self Manager, Team Player, Aspiring Thinker, Reflective Learner, Caring CitiZen)",
+		"School Philosophy, Culture and Ethos": [
+			"The school is guided by our philosophy of 'Sowing Seeds of Hearts and Mind'.  We seek to sow seeds of values within the hearts of our students and nurture the development of their minds to meet the demands of the 21st century.  ",
+			"We provide a student-centric, values-driven education that emphasizes character building and excellence in teaching and learning. Our students have benefitted from the diversity of opportunities provided to enrich their experiences and expand their horizon.  This is made possible because of the commitment of our staff, support from parents and strategic partners.  Truly, it takes a community to raise a S.T.A.R.Z. EVPS student who strives to be a lifelong learner."
+		],
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"Co-curricular Activities",
+		"English Language",
+		"Foundation English",
+		"Foundation Mathematics",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Uniformed Groups": [
+			"Cub Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Choir",
+			"Dance Group",
+			"Music Interest Club"
+		],
+		"Clubs & Societies": [
+			"Ict Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Music & Performing Arts": "Mind, Body and Soul Programme"
+		},
+		"Special Student Development Programmes Offered": "Learning for Life Programme (Music & Performing Arts) - MBS : Engaging the Mind, Moving the Body, Touching the Soul"
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)",
+					"PARTNERS (Merit)"
+				]
+			},
+			"2015": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)",
+					"PARTNERS (Merit)"
+				]
+			},
+			"2016": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)",
+					"PARTNERS (Merit)"
+				]
+			},
+			"2017": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"Sports & Games Competition": [],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Red Cross",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Brownies (Pack 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Scout",
+					"award": "Silver"
+				}
+			]
+		}
+	},
+	"postalCode": "528907",
+	"coordinates": [
+		103.93965,
+		1.346894
+	],
+	"svy21": [
+		39833.52,
+		36558.47
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"id": "1237"
+}

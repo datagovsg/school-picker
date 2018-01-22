@@ -1,0 +1,431 @@
+{
+	"code": "3040",
+	"name": "Bukit View Secondary School",
+	"levels": "S",
+	"uen": " T07GS3040F",
+	"logo": "./Medias/Images/Schools/logos/tn_3040.jpg",
+	"website": "http://www.bukitviewsec.moe.edu.sg",
+	"address": "16, Bukit Batok Street 21 (659633)",
+	"telephone": [
+		"65661990"
+	],
+	"fax": [
+		"65630945"
+	],
+	"email": "BUKITVIEW_SS@MOE.EDU.SG",
+	"mrt": [
+		"Bukit Batok MRT"
+	],
+	"bus": "173 , 189 , 990 ",
+	"GeneralInformation": {
+		"Principal": "Mr Vasuthevan S/o K Ramamurthy",
+		"Vice Principal": [
+			"Mr Wong Woen Long",
+			"Miss Wong Kah Wai Shirley"
+		],
+		"School Vision": "A Dynamic Institution That Adds Value To All",
+		"School Mission": "To nurture Bukit Viewans to be creative, passionate and resilient learners who possess moral integrity and are responsible to self and society",
+		"School Philosophy, Culture and Ethos": "Every student matters. BVSS focuses on providing every student with a quality and meaningful school experience through a school-based total curriculum. Students enjoy learning in a positive, enriching and stimulating environment and teachers care for, grow and nurture students into wholesome, contributing and thinking individuals. Strong teacher-student relations establish an ethos of care and provide the environment to imbue students in strong moral values so that they grow and mature into confident persons, concerned citizens and active contributors - individuals with robust character and a quest for knowledge and learning.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Combined Humanities (S,G)",
+		"Combined Humanities (S,H)",
+		"Combined Humanities (S,L)",
+		"Computer Applications",
+		"Computing",
+		"Design & Technology",
+		"Elements Of Business Skills",
+		"English Language",
+		"Food & Nutrition",
+		"Food And Consumer Education",
+		"Geography",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"History",
+		"Literature(E)",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physics",
+		"Principles Of Accounts",
+		"Science (Phy, Chem)",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Floorball",
+			"Hockey",
+			"Softball",
+			"Table Tennis",
+			"Track & Field",
+			"Volleyball"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Girls' Brigade",
+			"Ncc (Land)",
+			"Npcc"
+		],
+		"Visual and Performing Arts": [
+			"Band - Military",
+			"Choir",
+			"Dance - Chinese",
+			"Dance - Modern",
+			"Drama - English",
+			"Media Club"
+		],
+		"Clubs & Societies": [
+			"Environmental Club",
+			"Health And Fitness Club",
+			"Infocom Club",
+			"Singapore Youth Flying Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"STEM": "Clean Energy and Environmental Technology",
+			"Music & Performing Arts": "Learning the Arts, Living the Values -- Character Education through Drama"
+		},
+		"Special Student Development Programmes Offered": "Learning at BVSS is centred on providing an exciting range of learning experiences to develop students' passions and prepare them to be future ready. Every Secondary 1 learner will be allocated a Chromebook to allow for 1-to-1 Personal Learning Device (PLD) enabled learning. BVSS believes in developing students who take ownership of their learning and collaborate effectively with others. BVSS focuses on Science, Technology, Engineering and Math (STEM) Education and the school's Applied Learning Programme on Clean Energy and Environmental Technology comes alive with fun-filled hands on activities. In Secondary 1, students build solar cars and race them. Secondary 2 students learn to assemble a water-sensing robot that can test the purity of water, which they put to test in the school's eco-garden. In Secondary 3, they attend STEM workshops organised by polytechnics. This is part of the school's Junior OUtstanding Leaders in Energy for Sustainability (JOULES) Programme which aims to inculcate students with the knowledge and experience in the area of environment and sustainable energy as well as emphasizing the development of environmental student leadership. Drama class is offered to all lower Secondary students as part of the school's Learning the Arts, Living the Values - Character Education through Drama- Learning for Life Programme. The curriculum is co-designed with professional artistes and students learn drama techniques including improvisation and role-playing. Drama helps students develop confidence and gives them a dramatic, yet safe outlet to express themselves. All lower secondary students go through Coding and Computational Thinking Infused (CACTUS) Curriculum. They are introduced to the world of coding, robots and technology through fun and engaging hands-on learning experiences. CACTUS is designed to develop students' computational thinking, problem-solving and logical thinking skills."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"Development Award": "DA (Character Development)"
+			},
+			"Sports & Games Competition": [],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 204,
+			"upper": 237,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": 106,
+			"upper": 158,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 206,
+			"upper": 229,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 153,
+			"upper": 198,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Technical",
+			"lower": 108,
+			"upper": 150,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 203,
+			"upper": 227,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 156,
+			"upper": 195,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Technical",
+			"lower": 107,
+			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 205,
+			"upper": 230,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Academic",
+			"lower": 156,
+			"upper": 195,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		}
+	],
+	"postalCode": "659633",
+	"coordinates": [
+		103.7522266,
+		1.3457331
+	],
+	"svy21": [
+		18975.35,
+		36429.99
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"id": "3040"
+}

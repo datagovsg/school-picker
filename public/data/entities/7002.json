@@ -1,0 +1,433 @@
+{
+	"code": "7002",
+	"name": "Assumption English School",
+	"levels": "S",
+	"uen": " T07GS7002H",
+	"logo": "./Medias/Images/Schools/logos/tn_7002.jpg",
+	"website": "http://www.assumptionenglish.moe.edu.sg/",
+	"address": "622, Upper Bukit Timah Road (678117)",
+	"telephone": [
+		"65729100"
+	],
+	"fax": [
+		"67636560"
+	],
+	"email": "AES@MOE.EDU.SG",
+	"mrt": [
+		"Cashew MRT"
+	],
+	"bus": "67 , 75 , 170 , 171 , 176 , 178 , 184 , 961 , 963 , 970 ",
+	"GeneralInformation": {
+		"Principal": "Mr Kwok Chin Poh Benjamin",
+		"Vice Principal": "Mr Tang Hsin Wei",
+		"Vice Principal (Admin)": "Mr Quek Ser Hiang",
+		"School Vision": "Men and Women of Character and Learning, in the Service of God and Community",
+		"School Mission": "To educate the whole person in the Montfortian spirit of charity and love where effective academic programmes and CCAs are integrated with the development of character.",
+		"School Philosophy, Culture and Ethos": "Assumption English School is a government-aided school founded by the Montfort Brothers of St. Gabriel. The school is one of the seven Gabrielite institutions in Singapore and many others in 33 countries worldwide. The school subscribes to the Montfortian Education Charter which serves as a guide to 'form enlightened and harmonious persons committed to a just and fraternal world'. Thus the school's  philosophy is that 'We believe that Education is a journey of Self Discovery where students discover their talents, clarify their values & form their moral compass.' The school creates an ethos that cares and challenges our students to become confident and able leaders who embody the Assumption Spirit of Excellence in Character & Learning. The school motto, Labor Omnia Vincit, sums it up clearly - our students will, through work, achieve success.",
+		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Catholic Junior College"
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art",
+		"Basic Chinese",
+		"Basic Malay",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Chinese B",
+		"Civics & Moral Education",
+		"Combined Humanities (S,G)",
+		"Combined Humanities (S,H)",
+		"Computer Applications",
+		"Design & Technology",
+		"Elements Of Business Skills",
+		"English Language",
+		"Food & Nutrition",
+		"Food And Consumer Education",
+		"Geography",
+		"Higher Chinese",
+		"History",
+		"Literature(E)",
+		"Malay",
+		"Mathematics",
+		"Physical Education",
+		"Physics",
+		"Project Work",
+		"Science (Chem, Bio)",
+		"Science (Phy, Chem)",
+		"Social Studies"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Floorball",
+			"Football",
+			"Judo",
+			"Softball"
+		],
+		"Uniformed Groups": [
+			"Girl Guides",
+			"Ncc (Sea)",
+			"Npcc",
+			"Red Cross Youth"
+		],
+		"Visual and Performing Arts": [
+			"Band - Concert",
+			"Choir",
+			"Dance Ensemble"
+		],
+		"Clubs & Societies": [
+			"English Language Drama And Debate Society",
+			"Green Club",
+			"Media Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Languages & Humanities": "Speak English with grAce and Knowledge (SPEAK)",
+			"Community & Youth Leadership": "Student Leadership Programme"
+		},
+		"Special Student Development Programmes Offered": "To realise the school's vision to produce 'Men and Women of Character and Learning, in the service of God and Community', the school's Montfortian Achievers' Programme and range of Co-Curricular Activities provide valuable opportunities for students to develop self-confidence, self-discipline and social-emotional competencies through experiential learning and Values-in-Action projects in the school and community. Students look forward to annual camps and overseas learning journeys as they provide opportunities to build team spirit, discover their latent strengths, build cultural awareness and start friendships which will last a life-time. The school's Applied Learning Programme (ALP), SPEAK (SPeak English with grAce and Knowledge), aims to develop a love and appreciation for the English Language, and hone students' language ability so that they are effective and proficient users of the language. Through the ALP, students at the lower secondary levels will experience a range of language genres such as poetry and drama, with the chance to showcase their talents through competitions and events. At upper secondary, students will gain mastery of the language through specialised training such as debate, drama and public speaking, with opportunities to apply their skills through competitions, events and attachments.  The school's Learning for Life Programme (LLP) aims to nurture and inspire students who are committed to serve their communities with empathy. Students will be exposed to authentic experiences of community issues and needs and empowered to make positive differences to the lives of others."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"2015": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"2016": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"2017": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2015",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Commendation"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - English",
+					"award": "Commendation"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Commendation"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - English",
+					"award": "Commendation"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Commendation"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - English",
+					"award": "Commendation"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Commendation"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "NCC (Sea)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2014",
+					"category": "Red Cross",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Sea)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "Red Cross",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Sea)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Sea)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Red Cross",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 189,
+			"upper": 222,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 185,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": 101,
+			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 189,
+			"upper": 226,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 182,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Technical",
+			"lower": 105,
+			"upper": 146,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 250,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Technical",
+			"lower": 100,
+			"upper": 145,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 238,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 184,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Technical",
+			"lower": 104,
+			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		}
+	],
+	"postalCode": "678117",
+	"coordinates": [
+		103.7666875,
+		1.3683816
+	],
+	"svy21": [
+		20584.76,
+		38934.3
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	],
+	"specialNeeds": [
+		"PD",
+		"Mild SEN"
+	],
+	"id": "7002"
+}

@@ -1,0 +1,130 @@
+{
+	"code": "1262",
+	"name": "Springdale Primary School",
+	"levels": "P",
+	"uen": " T12GS0005D",
+	"logo": "./Medias/Images/Schools/logos/tn_1262.jpg",
+	"website": "http://www.springdalepri.moe.edu.sg/",
+	"address": "71, Anchorvale Link (544799)",
+	"telephone": [
+		"+65 63157600"
+	],
+	"fax": [
+		"+65 63153351"
+	],
+	"email": "springdale_ps@moe.edu.sg",
+	"mrt": [
+		"Sengkang MRT"
+	],
+	"bus": "Nearest Bus Stop Opposite Blk 317B: - Bus 85 (from Punggol Temp Int) - Bus 372 (from Sengkang Int) *1-2 mins walk from bus stop number no. 67389 *Enter by Main Gate along Anchorvale Link or Rear G",
+	"GeneralInformation": {
+		"Principal": "Mdm Koh Siew Cheng",
+		"Vice Principal": "Mr Ho Wee Min Kelvin",
+		"Vice Principal (Admin)": "Mr Chan Soon Hua",
+		"School Vision": "Every Springdalite is a Secure Individual, a Leader of Self-worth and a Significant Citizen.",
+		"School Mission": "To engage young minds, mould their character and equip them for the future.",
+		"School Philosophy, Culture and Ethos": [
+			"The school is guided by its education philosophy of Play.Passion.Purpose (3Ps). This is anchored on the belief that the learning process is equally, if not more important, than the learning content itself.  Every child is encouraged to explore and discover new knowledge through experiential and authentic learning (Play) so that he or she can discover the joy of learning. It is hoped that in doing so, the child will develop the drive to deepen his or her mastery (Passion) and eventually to harness that for the betterment of the community and society (Purpose). ",
+			"This education philosophy is undergirded by the school's emphasis on character building. Time is set aside to ensure that values are explicitly and systematically transmitted through age appropriate activities to all students. ",
+			"The school seeks to develop a strong and cohesive culture premised on the GREAT ethos of Growth, Radiance, Empathy, Abundance and Truth. All staff serve as role models for the students and guide them in embracing and displaying the R3ICH values of Respect, Responsibility, Resilience, Integrity, Care & Harmony."
+		],
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"English Language",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Multi-Sports Club (P3 Modular)",
+			"Outdoor Adventure Club"
+		],
+		"Visual and Performing Arts": [
+			"Performing Arts Club (P3 Modular)"
+		],
+		"Clubs & Societies": [
+			"Environment Club (P3 Modular)",
+			"Innovators' Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Interdisciplinary": "Out-of-Door Education (ODE) through Curriculum Integration"
+		},
+		"Special Student Development Programmes Offered": "The school's Applied Learning Programme (ALP) is Out-of-Door Education (ODE) which seeks to provide an integrated learning experience through creative installations within the school such as the Low-elements Rope Trail, Science Eco-garden Trail and the Learning Maze. In addition, it also provides authentic learning experiences for the students by tapping on learning spaces both within and beyond the school. For instance, learning journeys in this school are specially designed by the teachers to enable inquiry learning. The school also trains the students to adopt an innovative and solution-focused mindset through the use of Design Thinking as a problem-solving protocol. "
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"Sports & Games Competition": [],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				}
+			],
+			"Best Unit Award": []
+		}
+	},
+	"postalCode": "544799",
+	"coordinates": [
+		103.8895949,
+		1.3947541
+	],
+	"svy21": [
+		34262.85,
+		41850.48
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	],
+	"specialNeeds": [
+		"PD",
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 240,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 200,
+		"No. of Applicants in Phase 1": 109,
+		"Places taken up to Phase 1": 109,
+		"Vacancy for Phase 2A1": 91,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 109,
+		"Vacancy for Phase 2A2": 91,
+		"No. of Applicants in Phase 2A2": 1,
+		"Places taken up to Phase 2A2": 110,
+		"Vacancy for Phase 2B": 65,
+		"No. of Applicants in Phase 2B": 0,
+		"Places taken up to Phase 2B": 109,
+		"Vacancy for Phase 2C": 131,
+		"No. of Applicants in Phase 2C": 122,
+		"Places taken up to Phase 2C": 231,
+		"Vacancy for Phase 2C Supplementary": 9,
+		"No. of Applicants in Phase 2C Supplementary": 26
+	},
+	"id": "1262"
+}

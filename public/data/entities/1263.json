@@ -1,0 +1,152 @@
+{
+	"code": "1263",
+	"name": "Palm View Primary School",
+	"levels": "P",
+	"uen": " T12GS0008C",
+	"logo": "./Medias/Images/Schools/logos/tn_1263.jpg",
+	"website": "http://www.palmviewpri.moe.edu.sg",
+	"address": "150, Compassvale Bow (544822)",
+	"telephone": [
+		"65087300"
+	],
+	"fax": [
+		"68754150"
+	],
+	"email": "palmview_ps@moe.edu.sg",
+	"mrt": [
+		"Buangkok MRT"
+	],
+	"bus": "27 , 43 , 109 , 156 , 159 , 161 , 163 , 163M , 550 ",
+	"GeneralInformation": {
+		"Principal": "Mr Chua Kok Yong Clifford",
+		"Vice Principal": [
+			"Ms Saadiah Saadon Wylde",
+			"Mr Loh Bin"
+		],
+		"School Vision": "Curious Minds, Caring Hearts, Creative Spirits",
+		"School Mission": "To develop the whole child to be a force for good in the world",
+		"School Philosophy, Culture and Ethos": [
+			"Palm View Primary School believes in the potential of every child. Each is unique, and possesses the capacity to learn, advance and succeed. We believe our children can be inspired towards excellence. As educators, we are guardians of our children's future. To safeguard what is entrusted to us, it is critical that we channel our educational efforts towards developing the whole child to be 21st century learners so that they can be a force for good in the world. This is our mission and calling.",
+			"We are guardians of children's curiosity for learning. Children are naturally curious. They question, explore and wonder and so they grow and learn. At PLVPS, we want our children to stay curious and develop an inquisitive spirit that thrives on exploration and discovery. This will better prepare them for an unpredictable world.",
+			"We are guardians of children's tender hearts for caring. Growing up in small nucleus families today, we need to nurture children's gentle hearts towards love and care for others. At Palm View, we cultivate, in our children, the virtue of looking out for the needs of others and to care deeply for those who are less fortunate than themselves. ",
+			"We are guardians of our children's creative spirits. Children possess fertile imagination and view the world through their idiosyncratic lenses. Because creativity requires experimentation and enterprise, our teachers understand the need to promote diversity and multiple perspectives even as they provide a large emotional safety net for our children to manage failures, disappointments and discouragements. When we inspire children to dream big dreams and empower them to believe in themselves and their abilities, they will develop confidence and achieve great things in life.  ",
+			"Curious Minds, Caring Hearts, Creative Spirits... this is our vision for our children."
+		],
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"English Language",
+		"Malay",
+		"Mathematics",
+		"Physical Education",
+		"Science"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Football",
+			"Netball",
+			"Table Tennis"
+		],
+		"Visual and Performing Arts": [
+			"Choir",
+			"Dance - Modern",
+			"Drama - English",
+			"Ensemble - String"
+		],
+		"Clubs & Societies": [
+			"Robotics Club",
+			"Science Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Languages": "Act-cellence: Education through Drama Programme"
+		},
+		"Special Student Development Programmes Offered": "ACT-cellence Education through Drama"
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"Sports & Games Competition": [],
+			"SYF": [
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				}
+			],
+			"Best Unit Award": []
+		}
+	},
+	"postalCode": "544822",
+	"coordinates": [
+		103.8910909,
+		1.3838451
+	],
+	"svy21": [
+		34429.36,
+		40644.22
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	],
+	"specialNeeds": [
+		"PD",
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 240,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 200,
+		"No. of Applicants in Phase 1": 106,
+		"Places taken up to Phase 1": 106,
+		"Vacancy for Phase 2A1": 94,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 106,
+		"Vacancy for Phase 2A2": 94,
+		"No. of Applicants in Phase 2A2": 1,
+		"Places taken up to Phase 2A2": 107,
+		"Vacancy for Phase 2B": 67,
+		"No. of Applicants in Phase 2B": 4,
+		"Places taken up to Phase 2B": 109,
+		"Vacancy for Phase 2C": 131,
+		"No. of Applicants in Phase 2C": 104,
+		"Places taken up to Phase 2C": 213,
+		"Vacancy for Phase 2C Supplementary": 27,
+		"No. of Applicants in Phase 2C Supplementary": 24
+	},
+	"id": "1263"
+}

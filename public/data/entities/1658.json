@@ -1,0 +1,580 @@
+{
+	"code": "1658",
+	"name": "Yu Neng Primary School",
+	"levels": "P",
+	"uen": " T07GS1658J",
+	"logo": "./Medias/Images/Schools/logos/tn_1658.jpg",
+	"website": "http://www.ynps.moe.edu.sg/",
+	"address": "56, Bedok North St 3 (469623)",
+	"telephone": [
+		"64490121"
+	],
+	"fax": [
+		"64498564"
+	],
+	"email": "YNPS@MOE.EDU.SG",
+	"mrt": [
+		"Bedok MRT"
+	],
+	"bus": "14 , 17 , 18 , 28 , 66 , 67 , 69 , 225 ",
+	"GeneralInformation": {
+		"Principal": "Mrs Clara Lim-Tan",
+		"Vice Principal": [
+			"Miss Yee Siew Mei Emily",
+			"Mrs Tay-Lee Li Theng"
+		],
+		"School Vision": "A Vibrant and Connected Community that Aspires, Learns and Leads",
+		"School Mission": "Together, we build an inviting and enriched environment to nurture passionate learners, creative thinkers and caring leaders.",
+		"School Philosophy, Culture and Ethos": [
+			"\"Yeu Nerng School' was founded by the late Mr Huang Hua Long and four villagers as a humble Chinese School in 1935. 82 years on, the school has become a government school, and continues to grow together with the Bedok community. Since Yu Neng Primary School has established itself as a school of choice, recognised for its excellence in both the academic and non-academic domains, with outstanding achievement particularly in Sports and ICT. ",
+			"In tandem with Singapore's rapid development over the decades, Yu Neng too, has evolved over time. Guided by the school values GR3IT - Graciousness, Respect, Responsibility, Resilience, Integrity, and Teamwork, we are committed to prepare our students to be future-ready and ready to handle the challenges of the volatile and complex world.",
+			"The 6-year Yu Neng Experience aims to nurture passionate learners, creative thinkers and caring leaders where learning opportunities are accessible to all, regardless of backgrounds. By providing a student-centric values driven education, we want to inspire every student to 'think big and dream big' and to provide them with the necessary support, platforms and opportunities to excel and thrive in the 21st century."
+		],
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"Co-curricular Activities",
+		"English Language",
+		"Foundation English",
+		"Foundation Mathematics",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Table Tennis",
+			"Volleyball"
+		],
+		"Uniformed Groups": [
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Dance - Contemporary",
+			"Dance - Malay"
+		],
+		"Clubs & Societies": [
+			"Infocomm Club",
+			"Library",
+			"Science Tinkerer Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"ICT & Media": "The 3E Experience @ YNPS: Nurturing Future-Ready 21st Century Learners",
+			"Sports & Outdoor Education": "Fitness, Character and Leadership through Sports Excellence in Table-tennis"
+		},
+		"Special Student Development Programmes Offered": "The well-rounded 6-year curriculum is designed to provide every student the opportunity to grow the joy of learning, demonstrate thinking and creativity, and nurture leadership skills. A variety of pedagogical approaches are adopted to engage the mind, heart and hands of the students. The school's vibrant learning environment, supported by ICT, extends learning beyond the classrooms and lends a leading edge for our students in the knowledge-driven society. "
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"PARTNERS (Merit)"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"2015": {
+				"Development Award": [
+					"DA (Character Development)",
+					"PARTNERS (Merit)"
+				]
+			},
+			"2016": {
+				"Development Award": [
+					"DA (Character Development)",
+					"PARTNERS (Merit)"
+				]
+			},
+			"2017": {
+				"Development Award": "DA (Character Development)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Table Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Orchestra - Chinese",
+					"award": "Commendation"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Orchestra - Chinese",
+					"award": "Commendation"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Scout",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"postalCode": "469623",
+	"coordinates": [
+		103.9320073,
+		1.3339034
+	],
+	"svy21": [
+		38983.06,
+		35122.07
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	],
+	"specialNeeds": [
+		"PD",
+		"Mild SEN"
+	],
+	"p1Registration": {
+		"Total Vacancy": 180,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 140,
+		"No. of Applicants in Phase 1": 75,
+		"Places taken up to Phase 1": 75,
+		"Vacancy for Phase 2A1": 65,
+		"No. of Applicants in Phase 2A1": 14,
+		"Places taken up to Phase 2A1": 88,
+		"Vacancy for Phase 2A2": 52,
+		"No. of Applicants in Phase 2A2": 34,
+		"Places taken up to Phase 2A2": 120,
+		"Vacancy for Phase 2B": 30,
+		"No. of Applicants in Phase 2B": 10,
+		"Places taken up to Phase 2B": 129,
+		"Vacancy for Phase 2C": 51,
+		"No. of Applicants in Phase 2C": 63,
+		"Places taken up to Phase 2C": 180
+	},
+	"id": "1658"
+}

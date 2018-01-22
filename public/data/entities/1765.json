@@ -1,0 +1,550 @@
+{
+	"code": "1765",
+	"name": "Greenwood Primary School",
+	"levels": "P",
+	"uen": " T07GS1765F",
+	"logo": "./Medias/Images/Schools/logos/tn_1765.jpg",
+	"website": "http://www.greenwoodpri.moe.edu.sg",
+	"address": "11, Woodlands Dr 62 (737942)",
+	"telephone": [
+		"63666158"
+	],
+	"fax": [
+		"63666159"
+	],
+	"email": "greenwood_ps@moe.edu.sg",
+	"mrt": [
+		"Admiralty MRT"
+	],
+	"bus": "912 , 913 , 962 ",
+	"GeneralInformation": {
+		"Principal": "Mdm Foo Lih Jong Cheryl",
+		"Vice Principal": "Mr Shah Jahan B Mohamed Iqbal",
+		"Vice Principal (Admin)": "Mr Chay Yuen Heng",
+		"School Vision": "Motivated Learners, Critical Thinkers, Leaders of Character .",
+		"School Mission": "To nurture individuals into lifelong learners and responsible citizens through a well-rounded education.",
+		"School Philosophy, Culture and Ethos": [
+			"School Values - 'WE GR2Ow' represents our school's core values in which every individual strives to be Wise, Enterprising, Gracious, Responsible, Resilient and Open to achieve the school's mission and deepen the Singapore Spirit.",
+			"School Motto - Guidance to Wisdom",
+			"The school motto is derived from the initials of GreenWood, GW. It encapsulates the school's belief that lifelong learning anchored on strong values coupled with thinking skills is the foundation to guide our pupils to meet the challenges of the future. ",
+			"School Culture - We C4ARE IN GWPS ",
+			"GWPS is a school where pupils and staff have meaningful fun while developing integrity, compassion, commitment and positive attitudes towards lifelong learning. The pupils and staff are actively involved in coaching, continuous learning and innovation to make a difference in themselves and in others. With our niche programmes* for student leadership and community, we strive for our pupils and staff to develop Pride, Happiness and Confidence to meet the challenges of the future.",
+			"Learning Environment - POISE (High Pupil Ownership, Innovative Teaching & Learning, High Stakeholder Engagement)",
+			"GWPS fosters joy in learning through high pupil ownership and innovative teaching and learning. The pupils construct knowledge and apply various thinking skills and systems to derive alternative solutions and perspectives which relate to real-life problems they experience in the community. The school partners stakeholders to create platforms for pupils to practise entrepreneurship and innovation so that they have the confidence to learn new things and take on new challenges in their life."
+		],
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"Co-curricular Activities",
+		"English Language",
+		"Foundation English",
+		"Foundation Mathematics",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Athletics",
+			"Badminton",
+			"Basketball",
+			"Rope Skipping"
+		],
+		"Uniformed Groups": [
+			"Brownies",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Chinese Dance",
+			"Choir",
+			"Indian Dance",
+			"Malay Dance"
+		],
+		"Clubs & Societies": [
+			"Bliss Club",
+			"Einstein Club",
+			"Pixel Bytes Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Languages": "Bilingual LIterature Appreciation Student Series (BLISS)",
+			"Community Service & Student Leadership": "WHIZZ - We are Thinking, Inventive and Zealous KIdZ to serve the community"
+		},
+		"Special Student Development Programmes Offered": "LLP* - WHIZZ (We are THinking, Innovative and Zealous KidZ to serve the community)"
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"2015": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"2016": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Scout",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"postalCode": "737942",
+	"coordinates": [
+		103.8046383,
+		1.4401101
+	],
+	"svy21": [
+		24808.37,
+		46865.67
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 210,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 170,
+		"No. of Applicants in Phase 1": 75,
+		"Places taken up to Phase 1": 75,
+		"Vacancy for Phase 2A1": 95,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 75,
+		"Vacancy for Phase 2A2": 95,
+		"No. of Applicants in Phase 2A2": 10,
+		"Places taken up to Phase 2A2": 85,
+		"Vacancy for Phase 2B": 63,
+		"No. of Applicants in Phase 2B": 2,
+		"Places taken up to Phase 2B": 86,
+		"Vacancy for Phase 2C": 124,
+		"No. of Applicants in Phase 2C": 94,
+		"Places taken up to Phase 2C": 180,
+		"Vacancy for Phase 2C Supplementary": 30,
+		"No. of Applicants in Phase 2C Supplementary": 29
+	},
+	"id": "1765"
+}

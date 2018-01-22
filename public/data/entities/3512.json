@@ -1,0 +1,678 @@
+{
+	"code": "3512",
+	"name": "Tanjong Katong Secondary School",
+	"levels": "S",
+	"uen": " T07GS3512D",
+	"logo": "./Medias/Images/Schools/logos/tn_3512.jpg",
+	"website": "http://www.tanjongkatongsec.moe.edu.sg",
+	"address": "130, Haig Road (438796)",
+	"telephone": [
+		"63443471"
+	],
+	"fax": [
+		"64409624"
+	],
+	"email": "tkss@moe.edu.sg",
+	"mrt": [
+		"Paya Lebar MRT",
+		"Dakota MRT"
+	],
+	"bus": "10 , 16 , 31 , 32 , 33 , 40 , 76 , 135 , 197 ",
+	"GeneralInformation": {
+		"Principal": "Mrs Dolly Ong Kim Leng",
+		"Vice Principal": [
+			"Mr Koh Tong Seah",
+			"Mdm Ng Siew Chin"
+		],
+		"School Vision": "Excellence Abounds, Aspirations Nurtured",
+		"School Mission": "Your Potential, Our Purpose - To nurture our students to their fullest potential, developing in them sound values, life-long learning and leadership skills, in an innovative and dynamic environment.",
+		"School Philosophy, Culture and Ethos": [
+			"Since 1956, the TKSS motto 'Diligentia, Ingenium, Dexteritas' has inspired generations of TK-sians in pioneering new pathways and actively shaping the community they live and work in.",
+			"At TK, students are our pride. TKsians love their school.  From the moment they join TK, each student is immersed in the distinctive TK experience - an enriched, rigorous and balanced curriculum that makes a discernible difference in nurturing young people who believe in their ability to succeed, and are guided by sound values to positively contribute towards the well-being of others.  Learning experiences at TK nurture intellectual depth and thinking, flexibility, and the ability to deal with complexity in problem-solving.  Students acquire skills for self-directed learning and develop a sense of wonder and curiosity, even as they form a strong social conscience and make a commitment to serve others. Teachers at TK take pride in our caring culture and strong record of providing an all-rounded education that enables our students to realise their full potential. Well-known for excellence in academic achievement, CCAs, as well as character development of young people, TKSS adopts a holistic approach to help our students discover and become their best selves."
+		],
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Status of School": "Autonomous",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art 'O' Level",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Combined Humanities (S,G)",
+		"Combined Humanities (S,H)",
+		"Design & Technology",
+		"English Language",
+		"Food And Consumer Education",
+		"Geography",
+		"Higher Chinese",
+		"Higher Malay",
+		"History",
+		"Literature(E)",
+		"Malay",
+		"Mathematics",
+		"Oecie Physical Education",
+		"Physics",
+		"Science (Phy, Chem)"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Air Rifle / Shooting",
+			"Basketball",
+			"Floorball",
+			"Football",
+			"Netball",
+			"Track & Field"
+		],
+		"Uniformed Groups": [
+			"Girl Guides",
+			"Ncc (Land)",
+			"Ncc (Sea)",
+			"Npcc",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Band - Display/Marching",
+			"Choir",
+			"Dance - Modern",
+			"Drama - English"
+		],
+		"Clubs & Societies": [
+			"Avmc (Av Media & Computer)",
+			"Chess Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"Special Student Development Programmes Offered": "Signature programmes: Da Vinci Programme which develops 21st century communication, collaboration and information skills, while sharpening critical and inventive thinking via applied learning opportunities; Principal's Honours List Programme; TK Current Affairs which builds general knowledge and discernment; SKILLS Programme which develops in students skills for self-directed learning, and critical and inventive thinking; TK Student Leadership programme; Outdoor Education at TK that stretches students mentally, physically and emotionally while instilling firm belief and confidence in their own ability to succeed; Overseas twinning programmes with schools, that broaden students' global outlook and increase cultural quotient. Programmes to deepen disciplinary understanding include the Mathematics and Chemistry Olympiads, the Australian Mathematics Competition and the EMAS Programme. Students also participate in Debating Competitions and the CB Paul Science Quiz. TKSS is renowned for its vibrancy and excellent CCAs in sports, the performing arts and uniformed groups. TeamTK's sportsmen and sportswomen have excelled in various sports such as Netball, Floorball and Football. The Uniformed Groups have a proven track record and have continuously excelled in national competitions. TKSS is the East Zone Centre of Excellence (COE) for Character and Citizenship Education as well as Design Education. As a COE, TK leads in the teaching and learning and supports collaboration in these areas for East Zone schools."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)",
+					"Outstanding PARTNERS"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"2015": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)",
+					"Outstanding PARTNERS"
+				]
+			},
+			"2016": {
+				"School Distinction Awards": "SDA"
+			},
+			"2017": {
+				"School Distinction Awards": "SDA"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Display / Marching",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Display / Marching",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Band-Display",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Display",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Girl Guides (Coy 2)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NCC (Sea Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Sea Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Sea Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Sea Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 236,
+			"upper": 259,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 231,
+			"upper": 257,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 233,
+			"upper": 259,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 232,
+			"upper": 255,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		}
+	],
+	"postalCode": "438796",
+	"coordinates": [
+		103.8972252,
+		1.3087352
+	],
+	"svy21": [
+		35112.21,
+		32338.89
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	],
+	"specialNeeds": [
+		"PD"
+	],
+	"id": "3512"
+}

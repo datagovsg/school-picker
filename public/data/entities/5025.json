@@ -1,0 +1,747 @@
+{
+	"code": "5025",
+	"name": "St. Hilda's Primary School",
+	"levels": "P",
+	"uen": " T07GS5025B",
+	"logo": "./Medias/Images/Schools/logos/tn_5025.jpg",
+	"website": "http://www.shps.moe.edu.sg",
+	"address": "2, Tampines Ave 3 (529706)",
+	"telephone": [
+		"67811916"
+	],
+	"fax": [
+		"67830527"
+	],
+	"email": "shps@moe.edu.sg",
+	"mrt": [
+		"Tampines MRT"
+	],
+	"bus": "Feeder Bus service: 293 from Tampines Interchange (towards St 71)",
+	"GeneralInformation": {
+		"Principal": "Mdm Leong Beng Yuet Daphne",
+		"Vice Principal": [
+			"Mr Ang Wei Teck",
+			"Mdm Goh Hui Cheng"
+		],
+		"Vice Principal (Admin)": "Miss Penny Ng Lee Yong",
+		"School Vision": "A Dynamic Learning Community that nurtures loyal citizens with global outlook and Godly character.",
+		"School Mission": [
+			"As an Anglican school, we are committed to providing a balanced development of body, mind and spirit for our students and nurturing God-fearing citizens for our nation.",
+			"Our school values are:  Serve Humbly, Love Sincerely, Learn Continuously, Lead Wisely, Live Responsibly",
+			"Our School motto:  Go Forward"
+		],
+		"School Philosophy, Culture and Ethos": "St Hilda's Primary School established in 1934 is an Anglican Christian school with boys and girls from multi-ethnic backgrounds   Through generations of committed school leaders, staff, church workers and parents, the school has developed a culture of excellence and care.  One of the key school strengths is the emphasis on moral values and character development.  We have daily devotions and a strong Character and Leadership Development programme.  The school challenges our students to do well not only academically but also in their co-curricular activities.  Every Hildan through his or her six years of education will grow to be an Articulate, Confident, Innovative and Caring Ambassador.",
+		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "St. Hilda's Secondary School"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"English Language",
+		"Foundation Chinese",
+		"Foundation English",
+		"Foundation Mathematics",
+		"Foundation Tamil",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Hindi",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Hockey",
+			"Netball",
+			"Sailing",
+			"Sports Club",
+			"Table Tennis",
+			"Volleyball"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Girls' Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Choir",
+			"Guzheng",
+			"Language Drama Club",
+			"Malay Dance",
+			"Modern Dance",
+			"String Ensemble"
+		],
+		"Clubs & Societies": [
+			"Chess Club",
+			"Chinese Cultural Club",
+			"Infocomm Club",
+			"Library",
+			"Scrabble Club",
+			"Sonshine Club"
+		],
+		"Others": [
+			"Student Councillor"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Gifted Education Programme"
+		],
+		"School Distinctive Programmes": {
+			"Languages": "Developing confident communicators through an enriched global education -- The Hildan Ambassador’s Education",
+			"Visual Arts & Design": "Nurturing Creativity and Culture through Performing Arts, Visual Arts, Leadership"
+		},
+		"Special Student Development Programmes Offered": "School Distinctive Programme (SDP)"
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Special Awards": "LKY (NE) Award",
+				"Development Award": [
+					"DA (Character Development)",
+					"PARTNERS (Merit)"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"2015": {
+				"School Distinction Awards": "SDA",
+				"Special Awards": "LKY (NE) Award",
+				"Development Award": "DA (Character Development)"
+			},
+			"2016": {
+				"School Distinction Awards": "SDA",
+				"Special Awards": "LKY (NE) Award",
+				"Development Award": "DA (Character Development)"
+			},
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Special Awards": "LKY (NE) Award"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Sailing (Optimist)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"postalCode": "529706",
+	"coordinates": [
+		103.9367585,
+		1.3494067
+	],
+	"svy21": [
+		39511.75,
+		36836.37
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 270,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 230,
+		"No. of Applicants in Phase 1": 131,
+		"Places taken up to Phase 1": 131,
+		"Vacancy for Phase 2A1": 99,
+		"No. of Applicants in Phase 2A1": 34,
+		"Places taken up to Phase 2A1": 164,
+		"Vacancy for Phase 2A2": 66,
+		"No. of Applicants in Phase 2A2": 39,
+		"Places taken up to Phase 2A2": 201,
+		"Vacancy for Phase 2B": 35,
+		"No. of Applicants in Phase 2B": 58,
+		"Places taken up to Phase 2B": 236,
+		"Vacancy for Phase 2C": 34,
+		"No. of Applicants in Phase 2C": 84,
+		"Places taken up to Phase 2C": 270
+	},
+	"id": "5025"
+}

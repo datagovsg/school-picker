@@ -1,0 +1,354 @@
+{
+	"code": "0709",
+	"name": "Tampines Junior College",
+	"levels": "J",
+	"uen": " T07GS0709B",
+	"logo": "./Medias/Images/Schools/logos/tn_0709.jpg",
+	"website": "http://www.tpjc.moe.edu.sg/",
+	"address": "2, Tampines Avenue 9 (529564)",
+	"telephone": [
+		"67841955"
+	],
+	"fax": [
+		"67810061"
+	],
+	"email": "tpjc@moe.edu.sg",
+	"mrt": [
+		"Tampines MRT",
+		"Tampines East MRT"
+	],
+	"bus": "3 , 9 , 12 , 17 , 19 , 21 , 28 , 29 , 37 , 81 , 293 , 518 ",
+	"GeneralInformation": {
+		"Principal": "Miss Yoong Nyok Ke Pamela",
+		"Vice Principal": [
+			"Mr Ang Yeou Peng",
+			"Mdm Tan Yin Leng"
+		],
+		"Vice Principal (Admin)": "Mr Tan Eng Poh",
+		"School Vision": "A Leader in Every Student.",
+		"School Mission": "To inculcate excellence of achievement, a passion for learning and a zest for life.",
+		"Type of School": "Government School / Co-ed School / Full Day",
+		"Mother Tongue": "Not Available",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Civics",
+		"H1 Art",
+		"H1 Biology",
+		"H1 Chemistry",
+		"H1 China Studies In Chinese",
+		"H1 China Studies In English",
+		"H1 Chinese Language",
+		"H1 Economics",
+		"H1 General Paper",
+		"H1 Geography",
+		"H1 History",
+		"H1 Literature In English",
+		"H1 Malay Language",
+		"H1 Mathematics",
+		"H1 Physics",
+		"H1 Project Work",
+		"H1 Tamil Language",
+		"H2 Art",
+		"H2 Biology",
+		"H2 Chemistry",
+		"H2 China Studies In English",
+		"H2 Chinese Language & Literature",
+		"H2 Economics",
+		"H2 Geography",
+		"H2 History",
+		"H2 Literature In English",
+		"H2 Malay Language & Literature",
+		"H2 Mathematics",
+		"H2 Physics",
+		"H2 Tamil Language & Literature",
+		"H2 Theatre Studies And Drama",
+		"Physical Education"
+	],
+	"Cca": {},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Drama Elective Programme",
+			"Language Elective Programme (Malay)"
+		],
+		"Special Student Development Programmes Offered": "Overseas VIA Project, School Twinning Programme (Shandong Experimental High School), School Twinning Programme (Pusat Tingkatan Enam Tutong, Brunei)"
+	},
+	"AchievementHistory": {
+		"Junior College": {
+			"2014": {
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Softball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Softball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Softball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": []
+		}
+	},
+	"L1R5History": [
+		{
+			"year": "2014",
+			"programme": "Arts",
+			"lower": 8,
+			"upper": 13
+		},
+		{
+			"year": "2014",
+			"programme": "Science/IB",
+			"lower": 8,
+			"upper": 13
+		},
+		{
+			"year": "2014",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2015",
+			"programme": "Arts",
+			"lower": 6,
+			"upper": 13
+		},
+		{
+			"year": "2015",
+			"programme": "Science/IB",
+			"lower": 6,
+			"upper": 13
+		},
+		{
+			"year": "2015",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2016",
+			"programme": "Arts",
+			"lower": 8,
+			"upper": 13
+		},
+		{
+			"year": "2016",
+			"programme": "Science/IB",
+			"lower": 5,
+			"upper": 13
+		},
+		{
+			"year": "2016",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2017",
+			"programme": "Arts",
+			"lower": 7,
+			"upper": 13
+		},
+		{
+			"year": "2017",
+			"programme": "Science/IB",
+			"lower": 5,
+			"upper": 14
+		},
+		{
+			"year": "2017",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		}
+	],
+	"postalCode": "529564",
+	"coordinates": [
+		103.9561859,
+		1.3572802
+	],
+	"svy21": [
+		41673.73,
+		37707.01
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	],
+	"id": "0709"
+}

@@ -1,0 +1,509 @@
+{
+	"code": "3509",
+	"name": "Serangoon Garden Secondary School",
+	"levels": "S",
+	"uen": " T07GS3509D",
+	"logo": "./Medias/Images/Schools/logos/tn_3509.jpg",
+	"website": "http://www.sgs.edu.sg",
+	"address": "21, Serangoon North Avenue 1 (555889)",
+	"telephone": [
+		"62889227",
+		"65789177"
+	],
+	"fax": [
+		"62888695"
+	],
+	"email": "sgss@moe.edu.sg",
+	"mrt": [
+		"Ang Mo Kio MRT",
+		"Serangoon MRT"
+	],
+	"bus": "25 , 55 , 55A , 73 , 74 , 76 , 76A , 132 , 165 , 315 ",
+	"GeneralInformation": {
+		"Principal": "Mdm Goh Mien Hui Valerie",
+		"Vice Principal": [
+			"Mdm Lee Hwee Ping",
+			"Mr Quek Choon Hsiong"
+		],
+		"Vice Principal (Admin)": "Mr Zainal Abidin Bin Mahmood",
+		"School Vision": "Critical Thinkers. Thoughtful Leaders.",
+		"School Mission": "Love to Learn, Learn to Lead.",
+		"School Philosophy, Culture and Ethos": "Since 1959, Serangoon Garden Secondary School (SGS) has been enjoying the trust and confidence of the community and alumni over the last 58 years.  The SGS brand of education is known and valued for growing our students to be future-ready in the culture of care, learning and excellence. The culture of care is evident in the school as our students grow and develop in a safe and nurturing environment, marked by respect for teachers and peers. Anchored on the culture of learning, the vision of the school is based upon our commitment to educate our students to be able to exercise sound reasoning and reflective thinking to make good decisions and manage complexities and ambiguities. They are also able to lead themselves and others effectively with empathy and the heart to care and serve with PRIDE. One of our key beliefs is that all our students are able to learn. As such, we have in place systems and processes to stretch the talent of our higher ability students; at the same time, we have a range of student-centric intervention programmes to help the weaker students so that they can progress and achieve. Committed to the culture of excellence, we challenge our students to take responsibility for their learning, while giving them the necessary support to realise their aspirations. Our goal is to nurture your child academically, grow them socially and emotionally, and guide them towards independent thinking and problem solving. Our end goal is that SGSians will be 'Critical Thinkers and Thoughtful Leaders.'",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art",
+		"Chemistry",
+		"Chinese",
+		"Combined Humanities (S,G)",
+		"Combined Humanities (S,H)",
+		"Combined Humanities (S,L)",
+		"Computer Applications",
+		"Design & Technology",
+		"English Language",
+		"Food & Nutrition",
+		"Higher Chinese",
+		"Malay",
+		"Mathematics",
+		"Physics",
+		"Principles Of A/C",
+		"Science (Chem, Bio)",
+		"Science (Phy, Bio)",
+		"Science (Phy, Chem)",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball(Boys)",
+			"Floorball(Girls)",
+			"Football(Boys)",
+			"Netball",
+			"Table Tennis",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Girl Guides",
+			"Girls' Brigade",
+			"Ncc(Boys)",
+			"Npcc",
+			"Red Cross Youth"
+		],
+		"Visual and Performing Arts": [
+			"Band - Concert",
+			"Choir",
+			"Dance - Intl",
+			"Ensemble - Guzheng",
+			"Language Arts(2Nd Cca)"
+		],
+		"Clubs & Societies": [
+			"Media Club",
+			"Robotics Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Humanities": "Researching Society using Media Communication",
+			"Community & Youth Leadership": "Nurturing Confident and Compassionate Leaders through Uniformed Groups"
+		},
+		"Special Student Development Programmes Offered": "All students enrolling in SGS are emplaced on our signature Applied Learning Programme (ALP), 'Researching Society Using Media Communication', which provides students with opportunities to apply higher order thinking skills in real-life contexts, making learning relevant and meaningful to the students. Our Learning for Life Programme (LLP) focuses on 'Nurturing Confident and Compassionate Leaders', provides students with the opportunities to hone their leadership skills and develop into confident leaders. "
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"2015": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course"
+			},
+			"2016": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course"
+			},
+			"2017": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "1st"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category A",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NCC (Land Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Red Cross",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Girls' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Land Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Red Cross",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Red Cross",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Red Cross",
+					"award": "Bronze"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 250,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": 114,
+			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 191,
+			"upper": 234,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 158,
+			"upper": 186,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Technical",
+			"lower": 104,
+			"upper": 152,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 258,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 186,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Technical",
+			"lower": 108,
+			"upper": 154,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 189,
+			"upper": 228,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Academic",
+			"lower": 158,
+			"upper": 192,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Technical",
+			"lower": 123,
+			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		}
+	],
+	"postalCode": "555889",
+	"coordinates": [
+		103.8692703,
+		1.3693257
+	],
+	"svy21": [
+		32000.99,
+		39038.62
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"id": "3509"
+}

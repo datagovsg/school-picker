@@ -1,0 +1,606 @@
+{
+	"code": "3304",
+	"name": "Swiss Cottage Secondary School",
+	"levels": "S",
+	"uen": " T07GS3304J",
+	"logo": "./Medias/Images/Schools/logos/tn_3304.jpg",
+	"website": "http://www.swisscottagesec.moe.edu.sg",
+	"address": "3, Bukit Batok Street 34 (659322)",
+	"telephone": [
+		"65637173"
+	],
+	"fax": [
+		"65693028"
+	],
+	"email": "SCSS@MOE.EDU.SG",
+	"mrt": [
+		"Bukit Gombak MRT"
+	],
+	"bus": "945 , 187 ",
+	"GeneralInformation": {
+		"Principal": "Mr Sherwin Cheng San Shian",
+		"Vice Principal": "Mr Hoi Weng Kit Derrick",
+		"Vice Principal (Admin)": "Mr Chan Chee Wei",
+		"School Vision": "Thoughtful Leaders",
+		"School Mission": "We nurture students to Think, Care and Lead with P.R.I.D.E.",
+		"School Philosophy, Culture and Ethos": "In Swiss Cottage, our students learn to be Thoughtful Leaders who are principled, efficacious and transformational. They become leaders who are equipped with ethical thinking, managerial competencies, global and local awareness. Most importantly, they develop a heart to care and serve and are grounded in intellectual and character excellence. Swiss staff believes in a Character First Education that provides opportunities for all students to learn and achieve. We see ourselves as nurturers, role models and mentors to our students. We lead, care and inspire each other as colleagues. We seek to engage and collaborate with our partners for the benefit of our students. With these core beliefs, we care for every staff and student. We ensure that every lesson is a good lesson, and that every learning activity is purposeful. We encourage every staff and student to reflect and learn from every opportunity and from each other. Anchored on the Swiss Spirit of Going Far, Going Together, we forge a strong culture of care, learning and excellence.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art",
+		"Basic Chinese",
+		"Basic Malay",
+		"Basic Tamil",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Chinese B",
+		"Chinese N(A)",
+		"Civics & Moral Education",
+		"Combined Humanities (S,G)",
+		"Combined Humanities (S,H)",
+		"Combined Humanities (S,L)",
+		"Computer Applications",
+		"Design & Technology",
+		"English Language",
+		"English Language (Syll A)",
+		"English Language (Syll T)",
+		"Food & Nutrition",
+		"Food And Consumer Education",
+		"Geography",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"History",
+		"Literature(E)",
+		"Malay",
+		"Malay B",
+		"Malay N(A)",
+		"Mathematics",
+		"Mathematics (Syllabus A)",
+		"Mathematics (Syllabus T)",
+		"Music",
+		"Physical Education",
+		"Physics",
+		"Principles Of A/C",
+		"Project Work",
+		"Science",
+		"Science (Chem, Bio)",
+		"Science (Phy, Chem)",
+		"Science (Syll T)",
+		"Social Studies N(T)",
+		"Tamil",
+		"Tamil B",
+		"Tamil N(A)"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton (Girls)",
+			"Basketball (Boys)",
+			"Floorball (Mixed)",
+			"Football (Boys)",
+			"Tenpin Bowling"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Girl Guides",
+			"Ncc(Air)",
+			"Npcc",
+			"Scouts",
+			"St. John Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Chinese Dance",
+			"Chinese Orchestra",
+			"Choir",
+			"Drama",
+			"Malay Dance",
+			"Swiss Winds (Command Band Of The National Cadet Corps)"
+		],
+		"Clubs & Societies": [
+			"Publications And Media Club",
+			"Science & Technology",
+			"Student Council",
+			"Swiss Naturalists"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"STEM": "Swiss Applied Sciences Programme",
+			"Community & Youth Leadership": "Swiss Thoughtful Leadership Programme"
+		},
+		"Special Student Development Programmes Offered": "Swiss Cottage delivers a Total Curriculum covering a comprehensive Student Development Programme, a rigorous Instructional Programme and two Distinctive Programmes: Swiss Thoughtful Leadership Programme (TLP) and Applied Sciences for Sustainable Development Programme. The TLP integrates Student Leadership, Values in-Action (VIA), and our school-based Glocal (global and local) Perspectives programmes. It provides our students with the knowledge, skills and values to explore and embark on possible VIA or social action projects. The Applied Sciences for Sustainable Development Programme aims to equip our students with specialised scientific skills and knowledge through the curriculum and authentic learning platforms such as VIA and research projects, attachment opportunities and mentoring by our teachers or industry/academia partners. The Student Development Programme includes the core CCE and student well-being programmes, a wide range of CCAs, enrichment and talent development programmes to broaden our students' world view and hone their unique strengths. The Instructional Programme provides a broad-based and rigorous foundation for post-secondary education. We implement academic enrichment programmes across to develop students' 21st century competencies. These include the Horizons Programme (overseas cultural immersion trip), Future Problem Solving Programme, Maths Olympiad and Science Talent Development programmes."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2015": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2016": {
+				"Development Award": "DA (Character Development)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Orchestra - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Orchestra - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Orchestra - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Commendation"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NCC (Air Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Air)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Air)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Air)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 239,
+			"upper": 258,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 185,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": 146,
+			"upper": 158,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 239,
+			"upper": 259,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 187,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Technical",
+			"lower": 145,
+			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 241,
+			"upper": 257,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 184,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Technical",
+			"lower": 145,
+			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 240,
+			"upper": 262,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Academic",
+			"lower": 185,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Technical",
+			"lower": 143,
+			"upper": 158,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		}
+	],
+	"postalCode": "659322",
+	"coordinates": [
+		103.7503961,
+		1.3647174
+	],
+	"svy21": [
+		18771.71,
+		38529.19
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"id": "3304"
+}

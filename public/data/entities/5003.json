@@ -1,0 +1,248 @@
+{
+	"code": "5003",
+	"name": "Canossa Convent Primary School",
+	"levels": "P",
+	"uen": " T07GS5003L",
+	"logo": "./Medias/Images/Schools/logos/tn_5003.jpg",
+	"website": "http://www.canossaconventpri.moe.edu.sg/",
+	"address": "1, Sallim Road (387621)",
+	"telephone": [
+		"68441418"
+	],
+	"fax": [
+		"68441417"
+	],
+	"email": "ccps@moe.edu.sg",
+	"mrt": [
+		"Macpherson MRT",
+		"Mattar MRT"
+	],
+	"bus": "61 , 62 , 64 , 65 , 66 , 100 , 135 , 155 , 154 ",
+	"GeneralInformation": {
+		"Principal": "Mdm Sia Lu-Ming Eugenie",
+		"Vice Principal": "Mdm Wong Wan Chin",
+		"Vice Principal (Admin)": "Mr Lee Heng Weng",
+		"School Vision": "A community of compassionate leaders and passionate learners, in service of God, country and family.",
+		"School Mission": "To nurture and empower Canossians through a holistic education to be persons of integrity, committed to serving God and others.",
+		"School Philosophy, Culture and Ethos": [
+			"Established in 1941, Canossa Convent Primary School (CCPS) is one of the educational institutions set up by the sisters of the Canossian Daughters of Charity in Singapore. It is affiliated to St Anthony's Canossian Secondary, an autonomous school. ",
+			"Canossa Convent Primary School (CCPS) is an all-girls catholic school that delivers Canossian Education which anchors in the formation of the whole person. The Canossian education emulates the work and spirit of our foundress St Magdalene of Canossa to serve the poorest of the poor. It is inclusive and embraces persons of all faiths and races and those with special needs. The Canossian education emphasizes on the formation of the heart to anchor our pupils in values especially to instil in our pupils the spirit of serving the poor.",
+			"In line with the Canossian Education of building a whole person, CCPS aims to develop our pupils to be passionate learners who are self-directed and resilient and compassionate leaders who serve with humility. CCPS graduands will be leaders of character who live the Canossian Identity which encompasses the school values of 3Cs (Commitment, Compassion and Cheerfulness). ",
+			"It takes a village to raise a child and CCPS has a unique advantage as it is situated in the Canossian Eduplex, a unique borderless community, consisting of Canossa Convent, Canossa Convent Primary, Canossaville Children's Home, Canossian School for the hearing impaired, Magdalene's Kindergarten to provide for the social and educational needs of the community in Aljunied. The various sectors in the Canossian Eduplex share a common belief in the care of the child and work closely with one another to provide the love, care and education needed for the holistic development of the child."
+		],
+		"Type of School": "Government-aided Sch / Girls' School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "St. Anthony's Canossian Secondary School"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"English Language",
+		"Foundation Chinese",
+		"Foundation English",
+		"Foundation Malay",
+		"Foundation Mathematics",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton"
+		],
+		"Uniformed Groups": [
+			"Brownies"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Brass Band",
+			"Choir",
+			"International Dance",
+			"Multimedia Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Community Service & Student Leadership": "Service Innovation"
+		},
+		"Special Student Development Programmes Offered": "(1) Satellite Programme With Canossian School (CS)"
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": "DA (Character Development)",
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": []
+		}
+	},
+	"postalCode": "387621",
+	"coordinates": [
+		103.8816793,
+		1.3265127
+	],
+	"svy21": [
+		33382.09,
+		34304.67
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"p1Registration": {
+		"Total Vacancy": 120,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 80,
+		"No. of Applicants in Phase 1": 6,
+		"Places taken up to Phase 1": 6,
+		"Vacancy for Phase 2A1": 74,
+		"No. of Applicants in Phase 2A1": 2,
+		"Places taken up to Phase 2A1": 8,
+		"Vacancy for Phase 2A2": 72,
+		"No. of Applicants in Phase 2A2": 4,
+		"Places taken up to Phase 2A2": 12,
+		"Vacancy for Phase 2B": 54,
+		"No. of Applicants in Phase 2B": 2,
+		"Places taken up to Phase 2B": 13,
+		"Vacancy for Phase 2C": 107,
+		"No. of Applicants in Phase 2C": 24,
+		"Places taken up to Phase 2C": 37,
+		"Vacancy for Phase 2C Supplementary": 83,
+		"No. of Applicants in Phase 2C Supplementary": 7
+	},
+	"id": "5003"
+}

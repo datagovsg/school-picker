@@ -1,0 +1,291 @@
+{
+	"code": "1043",
+	"name": "Teck Whye Primary School",
+	"levels": "P",
+	"uen": " T07GS1043A",
+	"logo": "./Medias/Images/Schools/logos/tn_1043.jpg",
+	"website": "http://www.teckwhyepri.moe.edu.sg",
+	"address": "11, Teck Whye Walk (688261)",
+	"telephone": [
+		"67691025"
+	],
+	"fax": [
+		"67635191"
+	],
+	"email": "twps@moe.edu.sg",
+	"mrt": [],
+	"bus": "975 , 190 & 985 ",
+	"GeneralInformation": {
+		"Principal": "Miss Wong Liang Ji Tabitha",
+		"Vice Principal": [
+			"Mrs Ong Lay Khim",
+			"Mdm Tan Wan Phing Janice"
+		],
+		"School Vision": "A future-ready community of passionate learners  anchored in values and striving for excellence to make a positive difference.",
+		"School Mission": "Inspiring and empowering our learners to be their best for self and others through a supportive environment and innovative & effective teaching-learning practices.",
+		"School Philosophy, Culture and Ethos": [
+			"At Teck Whye Primary, we believe that all children can learn and want to learn and that teaching needs to cater to different progress levels and be anchored on meaningful engagement. Every child can be inspired and empowered to achieve within a supportive environment anchored on safety and care. Teachers, as role models, impart sound values, build character and inspire their students to learn by building quality relationships with and among students. To meet future challenges, our students must extend their learning beyond the acquisition of knowledge and skills, and apply and use their learning in meaningful ways.",
+			"Established since 1959, Teck Whye Primary envisions our learners to achieve the following outcomes and exercise the related values in their daily lives:",
+			"  Confident Communicators who Engage with Respect",
+			"  Healthy Individuals who eXercise Responsibility",
+			"  Adaptive Leaders who Collaborate with Integrity",
+			"  Model Citizens who Encourage through Compassion",
+			"  Passionate Learners who Learn with Resilience",
+			"The rallying call is for CHAMPs who embrace and strive for the value of Excellence.",
+			"To realise these outcomes, the school provides a strong grounding in the various subjects while placing emphasis on the (i) acquisition of 21st century competencies, (ii) development of effective communication skills and an understanding of media use and production, (iii) inculcation of values and social emotional development, (iv) understanding of the importance of National Education and (v) development of leadership competencies.",
+			"The school, therefore, whilst encouraging our students to do well academically, also places a very strong emphasis on character and holistic development. We believe that this would provide a firm foundation for our students as they pursue their secondary education but more importantly as they live their lives."
+		],
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"Co-curricular Activities",
+		"English Language",
+		"Foundation Mathematics",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Athletics",
+			"Football",
+			"Hockey",
+			"Multi-Sports",
+			"Self-Defence Sports"
+		],
+		"Uniformed Groups": [
+			"Brownies",
+			"Cadet Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Choir",
+			"Dance - Chinese",
+			"Dance - Malay",
+			"Idesign  & Visual Arts",
+			"Speech And Drama Club"
+		],
+		"Clubs & Societies": [
+			"Infocomm Club - Videography",
+			"Saving Gaia"
+		],
+		"Others": [
+			"Student Leadership"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"ICT & Media": "Media Whiz Kids!",
+			"Community Service & Student Leadership": "I-LEAD, I-SERVE – Leadership through and as Service"
+		},
+		"Special Student Development Programmes Offered": "Teck Whye Primary's Applied Learning Programme (ALP) is entitled 'Media Whiz Kids!', a media and media literacy-based programme. The programme aims to enable our students to apply the knowledge and skills acquired in Languages, Technology, Art and Music to authentic and meaningful contexts.  Specialised media programmes will support those with talents and a keen interest through our various CCAs such as the Infocomm Club, iDesign Club, and Speech and Drama Club. The ALP is intended to develop confident students who can put across their thoughts and ideas verbally and in written form in both digital and non-digital platforms, and are able to harness relevant tools and media to enhance communication. Programming to promote computational thinking will also be introduced to students as part of this ALP."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "2nd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Scout",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Scout",
+					"award": "Silver"
+				}
+			]
+		}
+	},
+	"postalCode": "688261",
+	"coordinates": [
+		103.753706,
+		1.3835582
+	],
+	"svy21": [
+		19140.17,
+		40612.57
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 180,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 140,
+		"No. of Applicants in Phase 1": 42,
+		"Places taken up to Phase 1": 42,
+		"Vacancy for Phase 2A1": 98,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 42,
+		"Vacancy for Phase 2A2": 98,
+		"No. of Applicants in Phase 2A2": 6,
+		"Places taken up to Phase 2A2": 48,
+		"Vacancy for Phase 2B": 66,
+		"No. of Applicants in Phase 2B": 0,
+		"Places taken up to Phase 2B": 47,
+		"Vacancy for Phase 2C": 133,
+		"No. of Applicants in Phase 2C": 27,
+		"Places taken up to Phase 2C": 74,
+		"Vacancy for Phase 2C Supplementary": 106,
+		"No. of Applicants in Phase 2C Supplementary": 53
+	},
+	"id": "1043"
+}

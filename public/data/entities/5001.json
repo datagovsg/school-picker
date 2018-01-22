@@ -1,0 +1,1041 @@
+{
+	"code": "5001",
+	"name": "Anglo-Chinese School (Junior)",
+	"levels": "P",
+	"uen": " T07GS5001H",
+	"logo": "./Medias/Images/Schools/logos/tn_5001.jpg",
+	"website": "http://www.acsj.moe.edu.sg",
+	"address": "16, Winstedt Road (227988)",
+	"telephone": [
+		"67337911",
+		"67337912"
+	],
+	"fax": [
+		"67346518"
+	],
+	"email": "acjs@moe.edu.sg",
+	"mrt": [
+		"Newton MRT"
+	],
+	"bus": "5 , 54 , 124 , 128 , 143 , 162 , 162M , 167 , 171 , 700 and 700A. ",
+	"GeneralInformation": {
+		"Principal": "Mrs Chaillan Mui Tuan",
+		"Vice Principal": [
+			"Mrs Lim Foo Boon Ching",
+			"Mr Chia Chee Weng Richard Chris"
+		],
+		"Vice Principal (Admin)": "Mr Tony Tan Sek Liang",
+		"School Vision": "Every ACSian, a young gentleman of character ready for the future to lead and to serve.",
+		"School Mission": "To nurture our students with a quality, holistic education, rooted in Christian values, that allows each to reach his fullest potential, equipped with life skills to face the future and to serve God and nation.",
+		"School Philosophy, Culture and Ethos": [
+			"Anglo-Chinese School (Junior) (ACSJ) is one of the seven units in the ACS Family of Schools. Bishop William Fitzjames Oldham founded Anglo-Chinese School on 1 March 1886 in a humble shop house at 70 Amoy Street. ",
+			"Today, the ACSian outcomes in the domains of Aspiration (The ACSian embraces the future with an aspiring mindset), Character (The ACSian Gentleman of Character demonstrates love, integrity and loyalty at all times), and Service (The ACSian works with others to make a positive difference) are based on Christian values, which still remain as a cornerstone in the school's vision aims to make \"Every ACSian, a young gentleman of character ready for the future to lead and to serve\". ",
+			"The school provides a positive learning environment designed to stimulate the intellectual, social, physical, emotional and spiritual growth of the boys. Through a shared vision and understanding of the school's core values (Integrity, Love, Excellence, Curiosity, Collaboration & Loyalty) there is strong engagement of the boys and staff in teaching and learning in both the core and co-curricular programme. ",
+			"Central to our success at providing a holistic education for our students is the strong partnership we enjoy with our stakeholders and institutions in the wider community. At ACSJ, boys are part of a community that values each person's individual self-worth. They engage in meaningful activities while fostering firm friendships and ties that will last a lifetime.",
+			"We believe that under our nurturing environment, and being amongst a caring and congenial community of staff, students, parents and alumni, a student's primary years with us will be both fulfilled and meaningful. Our students will leave the school as confident young gentlemen, ready to move on to greater heights in their next stage in life for above all they stand by our motto: The Best Is Yet To Be."
+		],
+		"Type of School": "Government-aided Sch / Boys' School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": [
+			"Anglo-Chinese School (Independent)",
+			"Anglo-Chinese School (Barker Road)"
+		]
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"Co-curricular Activities",
+		"English Language",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Interdisciplinary": "Creative THINKERS",
+			"Sports & Outdoor Education": "All for Sports, Sports for All @ ACS (Junior)"
+		},
+		"Special Student Development Programmes Offered": "Various school programmes support the development of the 3 desired outcomes in each ACSian - the ACSian embraces the future with an aspring mindset; the ACSian gentleman demonstrates love, integrity and loyalty at all times; the ACSian works with others to make a positive difference. "
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"2015": {
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": "ODA (Character Development)"
+			},
+			"2016": {
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": "ODA (Character Development)"
+			},
+			"2017": {
+				"Outstanding Development Award": "ODA (Character Development)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'D' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'D' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Sailing (Optimist)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Taekwondo (Kyorugi)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'D' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'D' Div"
+					],
+					"award": "2nd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Strings",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Strings",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Strings",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Strings",
+					"award": "Distinction"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Scout",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Scout",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Scout",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"postalCode": "227988",
+	"coordinates": [
+		103.8412857,
+		1.3090842
+	],
+	"svy21": [
+		28886.71,
+		32377.47
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"p1Registration": {
+		"Total Vacancy": 270,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 230,
+		"No. of Applicants in Phase 1": 72,
+		"Places taken up to Phase 1": 72,
+		"Vacancy for Phase 2A1": 158,
+		"No. of Applicants in Phase 2A1": 78,
+		"Places taken up to Phase 2A1": 149,
+		"Vacancy for Phase 2A2": 81,
+		"No. of Applicants in Phase 2A2": 20,
+		"Places taken up to Phase 2A2": 169,
+		"Vacancy for Phase 2B": 51,
+		"No. of Applicants in Phase 2B": 56,
+		"Places taken up to Phase 2B": 220,
+		"Vacancy for Phase 2C": 50,
+		"No. of Applicants in Phase 2C": 67,
+		"Places taken up to Phase 2C": 270
+	},
+	"id": "5001"
+}

@@ -1,0 +1,556 @@
+{
+	"code": "5214",
+	"name": "Red Swastika School",
+	"levels": "P",
+	"uen": " T07GS5214E",
+	"logo": "./Medias/Images/Schools/logos/tn_5214.jpg",
+	"website": "http://www.redswastika.moe.edu.sg",
+	"address": "350, Bedok North Avenue 3 (469719)",
+	"telephone": [
+		"64430380"
+	],
+	"fax": [
+		"62448391"
+	],
+	"email": "REDSWASTIKA@MOE.EDU.SG",
+	"mrt": [
+		"Bedok MRT"
+	],
+	"bus": "Bus 14 , 17 , 18 , 28 , 66 , 67 , 69 , 222 , 227 , 228 ",
+	"GeneralInformation": {
+		"Principal": "Mrs Leong Tan Ling Ling Jenny",
+		"Vice Principal": [
+			"Mdm Poh Qinyu",
+			"Mdm Siew Yoke Yin Serene"
+		],
+		"Vice Principal (Admin)": "Mdm Ong Lee Fong",
+		"School Vision": "Caring Community, Innovative Leaders.",
+		"School Mission": "To nurture a community of independent learners, effective communicators, active citizens, and innovative leaders.",
+		"School Philosophy, Culture and Ethos": [
+			"Grown from an initial student population of 300 in the founding year in 1951, Red Swastika School has established itself as a school recognised for its holistic education and emphasis  on character development anchored on the Xingzhi culture. ",
+			"The Red Swastika School was founded by the World Red Swastika Society (Singapore Administration Centre), a charitable organization. As an extension of its charitable mandate and to achieve the noble objective of transforming people through education, the Society built a school on a site at Somapah Road in Changi. The over three acres piece of land was donated by the then President of the Society, Mr Quek Shin, who saw the need to provide free primary education for the poor and to aid in the promotion of education in the outlying areas. Originally known as \"Wan Tzu School\", the school was later renamed \"Red Swastika School\". The foundation stone was laid at the school opening ceremony on 13th January 1951. The school moved to the present site at Bedok North Avenue 3 in 1981 and became a Special Assistance Plan school in 1990.",
+			"The school believes in the educational philosophy espoused by Mr Tao Xingzhi, a biculturally educated scholar commonly praised as the modern Confucius. Staff and students strive to build a Xingzhi Culture of \"Doing is the beginning of knowledge. Knowledge is perfected when the deed is completed. Do, so that you can know.  After you know, do it again.  Let your deed measure up to your knowledge.\" Students work towards being grounded in the strong values of Care, Magnanimity, Respect, Honesty, Resilience, Responsibility, Helpfulness, Leadership and Teamwork, to become the exemplary Three Littles- Little Friend, Little Master and Little Teacher."
+		],
+		"Type of School": "Government-aided Sch / Co-ed School / Double Session",
+		"Mother Tongue": "Chinese",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"English Language",
+		"Foundation English",
+		"Foundation Mathematics",
+		"Health Education",
+		"Higher Chinese",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Table Tennis",
+			"Ten-Pin Bowling",
+			"Track & Field",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Brownies",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Dance - Chinese",
+			"English Speech And Drama",
+			"Ensemble - Guzheng",
+			"International Dance",
+			"Orchestra - Chinese"
+		],
+		"Clubs & Societies": [
+			"Robotics Club",
+			"Science And Mathematics Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"SAP"
+		],
+		"School Distinctive Programmes": {
+			"Community Service & Student Leadership": "Every RSS Student A Leader",
+			"Sports & Outdoor Education": "RSS Tenpin Bowling - Excellence In Character and Sports"
+		},
+		"Special Student Development Programmes Offered": "The school-based enrichment curriculum focuses on inculcating values and equipping students with 21st century competencies which are essential for them to become independent learners, effective communicators, active citizens and reflective leaders. Some signature programmes which for students include:"
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'D' Div"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Scout",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Scout",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"postalCode": "469719",
+	"coordinates": [
+		103.9345193,
+		1.3333914
+	],
+	"svy21": [
+		39262.63,
+		35065.47
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"p1Registration": {
+		"Total Vacancy": 240,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 200,
+		"No. of Applicants in Phase 1": 99,
+		"Places taken up to Phase 1": 99,
+		"Vacancy for Phase 2A1": 101,
+		"No. of Applicants in Phase 2A1": 78,
+		"Places taken up to Phase 2A1": 177,
+		"Vacancy for Phase 2A2": 23,
+		"No. of Applicants in Phase 2A2": 22,
+		"Places taken up to Phase 2A2": 199,
+		"Vacancy for Phase 2B": 21,
+		"No. of Applicants in Phase 2B": 11,
+		"Places taken up to Phase 2B": 207,
+		"Vacancy for Phase 2C": 33,
+		"No. of Applicants in Phase 2C": 58,
+		"Places taken up to Phase 2C": 240
+	},
+	"id": "5214"
+}

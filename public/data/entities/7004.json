@@ -1,0 +1,821 @@
+{
+	"code": "7004",
+	"name": "CHIJ Secondary (Toa Payoh)",
+	"levels": "S",
+	"uen": " T07GS7004L",
+	"logo": "./Medias/Images/Schools/logos/tn_7004.jpg",
+	"website": "http://www.chijsec.edu.sg",
+	"address": "626, Lorong 1 Toa Payoh (319764)",
+	"telephone": [
+		"63534972"
+	],
+	"fax": [
+		"63544573"
+	],
+	"email": "CHIJTPSS@MOE.EDU.SG",
+	"mrt": [
+		"Toa Payoh MRT"
+	],
+	"bus": "59 , 141 , 231 ",
+	"GeneralInformation": {
+		"Principal": "Mrs Karen Tay",
+		"Vice Principal": [
+			"Miss Teo Geok Sian",
+			"Miss Phua Ai Ling Adeline"
+		],
+		"School Vision": "A Woman of Distinction",
+		"School Mission": "The mission of an Infant Jesus Convent is the creation of a Christ-centred school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of persons who are disadvantaged in any way.",
+		"School Philosophy, Culture and Ethos": "CHIJ Secondary stands as the second oldest girls school in Singapore. Every IJ Girl shares the vision of being A Woman of Distinction, who is a Thinker, Leader, Communicator, confident with humility, principled with compassion and cultured with grace. At CHIJ Secondary, we believe that every IJ Girl matters. As such, we customise our curriculum to meet their needs and talents. With a strong foundation in character and values-education, CHIJ nurtures our girls through a holistic education, with the support of a competent and forward-looking staff. Our strong partnerships with key stakeholders also enable the school to build a strong network of support. We remain, through the years, Simple in Virtue, Steadfast in Duty.",
+		"Type of School": "Government-aided Sch / Girls' School / Single Session",
+		"Status of School": "Autonomous",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": [
+			"Catholic Junior College",
+			"CHIJ Primary (Toa Payoh)"
+		]
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art For AEP",
+		"Art 'O' Level",
+		"Basic Chinese",
+		"Basic Malay",
+		"Basic Tamil",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Chinese B",
+		"Chinese N(A)",
+		"Combined Humanities (S,G)",
+		"Combined Humanities (S,H)",
+		"Combined Humanities (S,L)",
+		"Computer Applications",
+		"English Language",
+		"English Language (Syll A)",
+		"Food & Nutrition",
+		"Food And Consumer Education",
+		"Geography",
+		"Higher Chinese",
+		"History",
+		"Literature(E)",
+		"Malay",
+		"Malay N(A)",
+		"Mathematics",
+		"Mathematics (Syllabus A)",
+		"Oecie Drama (GCEO)",
+		"Physical Education",
+		"Physics",
+		"Principles Of Accounts",
+		"Science",
+		"Science (Chem, Bio)",
+		"Science (Phy, Bio)",
+		"Science (Phy, Chem)",
+		"Tamil",
+		"Tamil N(A)"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Athletics",
+			"Badminton",
+			"Basketball",
+			"Gymnastics (Rhythmic)",
+			"Netball",
+			"Ten-Pin Bowling",
+			"Tennis"
+		],
+		"Uniformed Groups": [
+			"Girl Guides",
+			"Singapore Red Cross Society"
+		],
+		"Visual and Performing Arts": [
+			"Arts Alive!",
+			"Band (Concert)",
+			"Chinese Ldds",
+			"Choir",
+			"Dance Ensemble",
+			"Guitar Ensemble",
+			"Ij Theater"
+		],
+		"Clubs & Societies": [
+			"Arc (Robotics)",
+			"Chij Youth Mission",
+			"Ij Media Club",
+			"Legion Of Mary",
+			"Outdoor Activities Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Art Elective Programme"
+		],
+		"Special Student Development Programmes Offered": "CHIJ Secondary is progressive in its approach whilst remaining steeped in tradition. The IJ Education and Experience is undergirded by the 3Ls@IJ approach which encompasses both the academic and affective domains and focuses on developing students holistically through Learning, Living and Leading. In CHIJ, all lower secondary students experience our in-house drama programme which enable students to realise their creative talents and develop their artistic vision. Our Affective Programmes focus on character development and include the Developmental Leadership Programme, the Values-in-Action programme, self-awareness camps, work attachment programme, and adventure camps. As the South Zone Centre of Excellence for Language and the Arts, CHIJ is home to many strong performing arts groups. At the same time, CHIJ's sports CCA groups have experienced success on the school scene. Our signature IJ Goes Global Programme aims to equip IJ students with a more global perspective and includes Immersion and Twinning Programmes with overseas schools, and the IJ Beacon Programme which focuses on serving the disadvantaged in neighbouring countries."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": "DA (National Education)",
+				"Outstanding Development Award": "ODA (Character Development)"
+			},
+			"2016": {
+				"School Distinction Awards": "SDA"
+			},
+			"2017": {
+				"School Distinction Awards": "SDA"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Gymnastics (Rhythmic)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Gymnastics (Rhythmic)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Gymnastics (Rhythmic)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Gymnastics (Rhythmic)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Gymnastics (Rhythmic)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Gymnastics (Rhythmic)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Taekwondo (Kyorugi)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Gymnastics (Rhythmic)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Gymnastics (Rhythmic)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Red Cross",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Red Cross",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 244,
+			"upper": 255,
+			"lowerAffiliated": 200,
+			"upperAffiliated": 253
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 177,
+			"upper": 199,
+			"lowerAffiliated": 158,
+			"upperAffiliated": 198
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": null,
+			"upper": null,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 243,
+			"upper": 249,
+			"lowerAffiliated": 200,
+			"upperAffiliated": 252
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 184,
+			"upper": 198,
+			"lowerAffiliated": 153,
+			"upperAffiliated": 198
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 247,
+			"upper": 255,
+			"lowerAffiliated": 201,
+			"upperAffiliated": 266
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 184,
+			"upper": 199,
+			"lowerAffiliated": 154,
+			"upperAffiliated": 199
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Technical",
+			"lower": 109,
+			"upper": 143,
+			"lowerAffiliated": 128,
+			"upperAffiliated": 149
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 243,
+			"upper": 260,
+			"lowerAffiliated": 200,
+			"upperAffiliated": 260
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Academic",
+			"lower": 184,
+			"upper": 199,
+			"lowerAffiliated": 154,
+			"upperAffiliated": 199
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Technical",
+			"lower": 103,
+			"upper": 151,
+			"lowerAffiliated": 134,
+			"upperAffiliated": 142
+		}
+	],
+	"postalCode": "319764",
+	"coordinates": [
+		103.8432716,
+		1.3324608
+	],
+	"svy21": [
+		29107.67,
+		34962.26
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"id": "7004"
+}

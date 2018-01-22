@@ -1,0 +1,157 @@
+{
+	"code": "1258",
+	"name": "Westwood Primary School",
+	"levels": "P",
+	"uen": " T12GS0001J",
+	"logo": "./Medias/Images/Schools/logos/tn_1258.jpg",
+	"website": "http://www.westwoodpri.moe.edu.sg",
+	"address": "1, Jurong West Street 73 (649188)",
+	"telephone": [
+		"64121690"
+	],
+	"fax": [
+		"67945084"
+	],
+	"email": "westwood_ps@moe.edu.sg",
+	"mrt": [
+		"Boon Lay MRT"
+	],
+	"bus": "181 , 502 & 243 ",
+	"GeneralInformation": {
+		"Principal": "Mr Ng Yeow Ling",
+		"Vice Principal": "Miss Tracy Tan I Lian",
+		"Vice Principal (Admin)": "Mr Chin Hong Fai Humphrey",
+		"School Vision": "A positive institution in Jurong West that inspires the community to lead meaningful and engaged lives",
+		"School Mission": "To provide positive education that nurtures thriving teachers and flourishing pupils",
+		"School Philosophy, Culture and Ethos": [
+			"Westwood Primary was founded in 2013, premised on the core philosophy of Positive Education.  Our overarching goal is for our staff and pupils to strive for both excellence and wellbeing, and for our school community to thrive and flourish.  Learning is delivered with positive engagement so as to invite every pupil on a journey of discovery and holistic development.  Discipline is promoted in a respectful way to engender self-reflection and growth.  By emphasising positive motivation and affirmative attitudes, we nurture an awareness of greatness and potential in each and every staff and pupil, as they set personalised goals and ultimately demonstrate creative expression, problem-solving, and meaningful achievement.  ",
+			"In keeping with the philosophy of Positive Education, Westwood Primary's Staff Belief is that Every One is a Talented and Unique Individual with Potential for Success. Our Westwood School Culture is one of care, love and drive, and we aspire in going the extra mile in everything we do.  To enable all staff and pupils to believe that he or she can be an agent of change, with opportunities to use his or her talents and skills to benefit others, our positive school culture is grounded in our core values of A Heart of Gratitude, A Resilient Mindset, A Passion for Community and A Future-Ready Confidence.",
+			"A THRIVE Framework for Positive Education has been developed to ensure that school policies, practices and programmes are aligned to the six key domains of positive accomplishment (Thinking mindfully); positive health (Healthy coping); positive relationship (Relating well); positive engagement (In the moment); positive meaning (Values-driven actions); and positive emotions (Emotions of positivity).  To this end, we actively partner parents and the wider community, seeking opportunities to contribute to community life, while living out the message of positivity, hope and well-being."
+		],
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"English Language",
+		"Health Education",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies"
+	],
+	"Cca": {},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Innovation & Enterprise": "Positive Design Applied Learning Programme",
+			"Community Service & Student Leadership": "Inspiring Student Leadership and Community Service through Positive Education"
+		},
+		"Special Student Development Programmes Offered": "Aligned with positive education, our student development programmes serve to develop our pupils' resilience and  promote an understanding of his or her own strengths.  We also focus on optimism and on the importance of doing social good.  Accordingly, our signature school programmes are as follows: "
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"Sports & Games Competition": [],
+			"SYF": [
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Bronze"
+				}
+			]
+		}
+	},
+	"postalCode": "649188",
+	"coordinates": [
+		103.7005916,
+		1.3468335
+	],
+	"svy21": [
+		13228.98,
+		36552
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	],
+	"specialNeeds": [
+		"PD",
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 240,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 200,
+		"No. of Applicants in Phase 1": 101,
+		"Places taken up to Phase 1": 101,
+		"Vacancy for Phase 2A1": 99,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 101,
+		"Vacancy for Phase 2A2": 99,
+		"No. of Applicants in Phase 2A2": 4,
+		"Places taken up to Phase 2A2": 105,
+		"Vacancy for Phase 2B": 68,
+		"No. of Applicants in Phase 2B": 16,
+		"Places taken up to Phase 2B": 121,
+		"Vacancy for Phase 2C": 119,
+		"No. of Applicants in Phase 2C": 150,
+		"Places taken up to Phase 2C": 240
+	},
+	"id": "1258"
+}

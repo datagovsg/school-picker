@@ -1,0 +1,479 @@
+{
+	"code": "1770",
+	"name": "West Grove Primary School",
+	"levels": "P",
+	"uen": " T07GS1770J",
+	"logo": "./Medias/Images/Schools/logos/tn_1770.jpg",
+	"website": "http://www.westgrovepri.moe.edu.sg/",
+	"address": "1, Jurong West St 72 (649223)",
+	"telephone": [
+		"62679234"
+	],
+	"fax": [
+		"62679235"
+	],
+	"email": "WGPS@MOE.EDU.SG",
+	"mrt": [
+		"Boon Lay MRT"
+	],
+	"bus": "Bus 99 , 242 ",
+	"GeneralInformation": {
+		"Principal": "Mrs Chandler Jay Siva",
+		"Vice Principal": [
+			"Mr Foo Chuan Kai",
+			"Miss Pham Hong Lien Phyllis G."
+		],
+		"School Vision": "Active Minds, Gracious Hearts",
+		"School Mission": "We aspire to create a conducive environment where pupils learn from the past, appreciate the present and prepare for the future.",
+		"School Philosophy, Culture and Ethos": [
+			"West Grove Primary School's vision statement \"Active Minds, Gracious Hearts\" was re-defined in 2006. The first part of the vision statement \"Active Minds\" was further unpacked to be referred as \"Learners with a passion for life-long learning.\" The second part of the vision statement \"Gracious Hearts\" was further unpacked to be referred as \"Concerned citizens rooted in the school's six core values: R3ICK (Respect, Responsibility, Resilience, Integrity, Commitment, Kindness)\". The vision when translated into the school motto becomes \"Wisdom\" (Active Minds) and \"Grace\" (Gracious Hearts). The school motto \"Wisdom and Grace\" (based on the school's initials) is also written on the school crest to ensure the school's vision is entrenched in the hearts and minds of all members of the school.",
+			"West Grove Primary School's mission is then \"To create a school environment where pupils learn from the past, appreciate the present and prepare for the future.\" Essentially, the school leaders aspire the school to be able to prepare our pupils for the future through the rigorous primary curriculum and actively developing their 21st Century Competencies by providing our pupils with opportunities to analyse information, communicate their thoughts and ideas, collaborate with one another to create, examine their own thinking and engage in reflection on how to be better (learn from the past). At the same time, the school aims to instil in our pupils a sense of appreciation of the people around them and the hard work that has been put in to achieve what we have as a nation today.",
+			"The school believes that Values should be the bedrock of the school's culture. The school culture is therefore defined as Caring and Learning - aligned with our school vision of Active Minds, Gracious Hearts, to demonstrate the range of behaviours, attitudes and values relevant for the holistic development of the children."
+		],
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"Co-curricular Activities",
+		"English Language",
+		"Health Education",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Music & Performing Arts": "Thoughtful Learning through the Arts"
+		},
+		"Special Student Development Programmes Offered": "The school believes in the holistic education of every child and that each pupil should achieve Wisdom and Grace by the time they leave West Grove."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": "DA (National Education)"
+			},
+			"2015": {
+				"Development Award": "DA (National Education)"
+			},
+			"2016": {
+				"Development Award": "DA (National Education)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Commendation"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Commendation"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Brownies (Pack 2)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Girls' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Brownies (Pack 2)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Girls' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Brownies (Pack 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Girls' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Brownies (Pack 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Scout",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"postalCode": "649223",
+	"coordinates": [
+		103.6990011,
+		1.3447116
+	],
+	"svy21": [
+		13051.97,
+		36317.37
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 210,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 170,
+		"No. of Applicants in Phase 1": 101,
+		"Places taken up to Phase 1": 101,
+		"Vacancy for Phase 2A1": 69,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 101,
+		"Vacancy for Phase 2A2": 69,
+		"No. of Applicants in Phase 2A2": 16,
+		"Places taken up to Phase 2A2": 117,
+		"Vacancy for Phase 2B": 47,
+		"No. of Applicants in Phase 2B": 15,
+		"Places taken up to Phase 2B": 132,
+		"Vacancy for Phase 2C": 78,
+		"No. of Applicants in Phase 2C": 98,
+		"Places taken up to Phase 2C": 210
+	},
+	"id": "1770"
+}

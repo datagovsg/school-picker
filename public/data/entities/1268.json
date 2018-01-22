@@ -1,0 +1,219 @@
+{
+	"code": "1268",
+	"name": "Angsana Primary School",
+	"levels": "P",
+	"uen": " T14GS0006K",
+	"logo": "./Medias/Images/Schools/logos/tn_1268.jpg",
+	"website": "http://www.angsanapri.moe.edu.sg",
+	"address": "3, Tampines Street 22 (529366)",
+	"telephone": [
+		"67830427"
+	],
+	"fax": [
+		"67845293"
+	],
+	"email": "angsana_pri@moe.edu.sg",
+	"mrt": [
+		"Tampines MRT",
+		"Simei MRT"
+	],
+	"bus": "Bus Service 8 , 17 , 18 , 28 , 34 , 39 , 59 , 518 , Feeder Bus Service 292 ",
+	"GeneralInformation": {
+		"Principal": "Miss Foong Yin Wei",
+		"Vice Principal": [
+			"Mrs Selina Lee",
+			"Mr Bhimbahadur Gurung"
+		],
+		"School Vision": "Confident Leaders, Caring Citizens",
+		"School Mission": "To Engage and Empower all students to be future-ready and to go above and beyond to care, learn and serve.",
+		"School Philosophy, Culture and Ethos": "We believe that every child can learn and wants to learn. We are committed to provide a holistic education and a safe, nurturing environment for students to grow and learn. We seek to equip them with values, attitudes and skills to prepare them for the future. We do our best to provide a culture of care that will motivate and engage every learner. We believe in promoting positive student behaviours and development of thinking skills. We emphasise the importance of gratitude and respect for all. We strive to ignite students' passion for learning through designing learning experiences and delivering comprehensive curriculum that will meet their learning needs.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"English Language",
+		"Foundation Chinese",
+		"Foundation English",
+		"Foundation Malay",
+		"Foundation Mathematics",
+		"Foundation Science",
+		"Foundation Tamil",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Football",
+			"Netball",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Red Cross",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Choir",
+			"International Dance"
+		],
+		"Clubs & Societies": [
+			"Audio & Video/ Pa Club",
+			"Information Communication Club",
+			"Young Explorers"
+		],
+		"Others": [
+			"Prefectorial Board"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Coding": "Nurturing Problem Solvers through Computational Thinking",
+			"Community Service & Student Leadership": "Nurturing and Developing 21st Century Leaders through Enrichment and Lifeskills (ENL) Programmes"
+		},
+		"Special Student Development Programmes Offered": "We aim to develop leadership qualities and skills among students, so as to provide them with an edge in overcoming future challenges and thrive in the changing global landscape. We aim to nurture our charges to be positive influencers in life and in their relationships with others. Our two-tiered student leadership development programme focuses on personal mastery, teamwork and responsible citizenship, as well as leadership development to serve the school and community. In alignment with our mission, we teach 21st century competencies.  Students will learn basic computational thinking (CT) concepts and attitudes through interdisciplinary themes in our \"Nurturing Problem Solvers through CT\" programme. They will have opportunities to learn coding and apply makerspace ideas to tinker and make robots. Our \"Code for Fun\" programme is supported by IDA under the Code@SG movement. To equip students with skills to manage themselves and relate well with others, we run a progressive lifeskills programme from P1 to P6.   They learn important social and emotional competencies, namely self-awareness, social awareness, self-management, relationship management and responsible decision making, through outdoor camps and authentic learning experiences."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"Sports & Games Competition": [
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2015",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Band-Brass Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Brass Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Commendation"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2016",
+					"category": "Red Cross",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "Scout",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Red Cross",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Scout",
+					"award": "Silver"
+				}
+			]
+		}
+	},
+	"postalCode": "529366",
+	"coordinates": [
+		103.9516402,
+		1.3485713
+	],
+	"svy21": [
+		41167.93,
+		36744.07
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 150,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 110,
+		"No. of Applicants in Phase 1": 26,
+		"Places taken up to Phase 1": 26,
+		"Vacancy for Phase 2A1": 84,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 26,
+		"Vacancy for Phase 2A2": 84,
+		"No. of Applicants in Phase 2A2": 3,
+		"Places taken up to Phase 2A2": 29,
+		"Vacancy for Phase 2B": 61,
+		"No. of Applicants in Phase 2B": 0,
+		"Places taken up to Phase 2B": 29,
+		"Vacancy for Phase 2C": 121,
+		"No. of Applicants in Phase 2C": 9,
+		"Places taken up to Phase 2C": 38,
+		"Vacancy for Phase 2C Supplementary": 112,
+		"No. of Applicants in Phase 2C Supplementary": 17
+	},
+	"id": "1268"
+}

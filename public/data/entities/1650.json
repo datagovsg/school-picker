@@ -1,0 +1,367 @@
+{
+	"code": "1650",
+	"name": "Pei Tong Primary School",
+	"levels": "P",
+	"uen": " T07GS1650H",
+	"logo": "./Medias/Images/Schools/logos/tn_1650.jpg",
+	"website": "http://www.peitongpri.moe.edu.sg/",
+	"address": "15, Clementi Avenue 5 (129857)",
+	"telephone": [
+		"67775458"
+	],
+	"fax": [
+		"67789784"
+	],
+	"email": "PTPS@MOE.EDU.SG",
+	"mrt": [
+		"Clementi MRT"
+	],
+	"bus": "7 , 184 , 282 ",
+	"GeneralInformation": {
+		"Principal": "Mrs Ng Teo Sock Hua",
+		"Vice Principal": "Mdm Hong Gay Lee",
+		"Vice Principal (Admin)": "Mr Winston Tan Wee Sing",
+		"School Vision": "Our vision of being 'a vibrant school that inspires excellence' aspires our students as one who is rooted in values, innovative in thoughts and passionate in actions.",
+		"School Mission": "Our mission is 'to nurture confident and self-directed learners who exhibit social responsibility and character'.",
+		"School Philosophy, Culture and Ethos": "The school believes that knowledge and skills must be anchored in values and character development. While we help every student go as far as he can, the ultimate goal is to develop him into one who can thrive in the globalised world with a sound moral and ethical compass. We complement parents' role in imparting values and work closely with parents to achieve this. The school core values are Care, Respect, Integrity, Responsibility, Resilience and Excellence. The school sees teachers as the key in nurturing every child for the future and takes pride in espousing a culture of care.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"English Language",
+		"Foundation English",
+		"Foundation Mathematics",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Rugby",
+			"Table Tennis"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Brownies",
+			"Girls' Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Angklung & Kulintang Ensemble",
+			"Art And Craft Club",
+			"Choir",
+			"Orchestra - Chinese"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Music & Performing Arts": "MELODY@PEI TONG"
+		},
+		"Special Student Development Programmes Offered": "Melody@Pei Tong (LLP) aims to make learning of music fun and enjoyable so that students will continue to learn and appreciate music throughout their lives. Music lessons are enriched through the \"Engaging with Songs\" programme and creative music-making. "
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": "DA (National Education)",
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"2015": {
+				"Development Award": "DA (National Education)"
+			},
+			"2016": {
+				"Development Award": "DA (National Education)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Orchestra - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Orchestra - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Boys' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2014",
+					"category": "Girls' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "Boys' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "Girls' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "Boys' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "Girls' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Bronze"
+				}
+			]
+		}
+	},
+	"postalCode": "129857",
+	"coordinates": [
+		103.7677708,
+		1.3158706
+	],
+	"svy21": [
+		20705.2,
+		33127.97
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 240,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 200,
+		"No. of Applicants in Phase 1": 66,
+		"Places taken up to Phase 1": 66,
+		"Vacancy for Phase 2A1": 134,
+		"No. of Applicants in Phase 2A1": 2,
+		"Places taken up to Phase 2A1": 68,
+		"Vacancy for Phase 2A2": 132,
+		"No. of Applicants in Phase 2A2": 16,
+		"Places taken up to Phase 2A2": 84,
+		"Vacancy for Phase 2B": 78,
+		"No. of Applicants in Phase 2B": 0,
+		"Places taken up to Phase 2B": 82,
+		"Vacancy for Phase 2C": 158,
+		"No. of Applicants in Phase 2C": 54,
+		"Places taken up to Phase 2C": 136,
+		"Vacancy for Phase 2C Supplementary": 104,
+		"No. of Applicants in Phase 2C Supplementary": 44
+	},
+	"id": "1650"
+}

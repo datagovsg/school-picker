@@ -1,0 +1,322 @@
+{
+	"code": "1174",
+	"name": "Stamford Primary School",
+	"levels": "P",
+	"uen": " T07GS1174C",
+	"logo": "./Medias/Images/Schools/logos/tn_1174.jpg",
+	"website": "http://www.stamfordpri.moe.edu.sg",
+	"address": "1, Victoria Lane (198423)",
+	"telephone": [
+		"62945074"
+	],
+	"fax": [
+		"62919262"
+	],
+	"email": "STAMFORD_PS@MOE.EDU.SG",
+	"mrt": [
+		"Bugis MRT"
+	],
+	"bus": "Along Victoria Street:2 , 7 , 12 , 32 , 33 , 61 , 62 , 63 , 80 , 130 , 133 , 145 , 197 , NR8. ",
+	"GeneralInformation": {
+		"Principal": "Mdm Fan Yuen Fun Cassie",
+		"Vice Principal": "Mdm Lee Phaik Har",
+		"Vice Principal (Admin)": "Mr Tan Aik Cheong",
+		"School Vision": "Stamfordians of Competence and Character, who Care and Contribute",
+		"School Mission": "Nurturing hearts and engaging minds, enabling Stamfordians to realize their potential and live fully for self and others.",
+		"School Philosophy, Culture and Ethos": "Our school uphold the philosophy of Every Stamfordian Matters.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Co-curricular Activities",
+		"English Language",
+		"Foundation English",
+		"Foundation Mathematics",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Floorball",
+			"Football",
+			"Netball",
+			"Track & Field",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Cub Scouts",
+			"Girls' Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Dance - Chinese"
+		],
+		"Clubs & Societies": [
+			"Environment Club",
+			"Outdoor Activities Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Sports & Outdoor Education": "Character and Leadership through Sports and Outdoor Education"
+		},
+		"Special Student Development Programmes Offered": "School Distinctive Programme"
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "Girls' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2014",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Scout",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Scout",
+					"award": "Silver"
+				}
+			]
+		}
+	},
+	"postalCode": "198423",
+	"coordinates": [
+		103.8570064,
+		1.3037465
+	],
+	"svy21": [
+		30636.27,
+		31787.27
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	],
+	"specialNeeds": [
+		"PD",
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 150,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 110,
+		"No. of Applicants in Phase 1": 35,
+		"Places taken up to Phase 1": 35,
+		"Vacancy for Phase 2A1": 75,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 35,
+		"Vacancy for Phase 2A2": 75,
+		"No. of Applicants in Phase 2A2": 3,
+		"Places taken up to Phase 2A2": 38,
+		"Vacancy for Phase 2B": 56,
+		"No. of Applicants in Phase 2B": 0,
+		"Places taken up to Phase 2B": 38,
+		"Vacancy for Phase 2C": 112,
+		"No. of Applicants in Phase 2C": 29,
+		"Places taken up to Phase 2C": 66,
+		"Vacancy for Phase 2C Supplementary": 84,
+		"No. of Applicants in Phase 2C Supplementary": 3
+	},
+	"id": "1174"
+}

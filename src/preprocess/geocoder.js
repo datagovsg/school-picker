@@ -86,6 +86,8 @@ export function getPlanningArea () {
   const heatmap = new CustomHeatmap()
 
   Object.keys(locations).forEach(school => {
+    locations[school].coordinates = locations[school].coordinates.map(v => +v.toFixed(7))
+    locations[school].svy21 = locations[school].svy21.map(v => +v.toFixed(2))
     const matches = heatmap.bin(locations[school].coordinates)
     locations[school].planningArea = matches[0].id
     locations[school].neighbours = matches[0].properties.neighbours

@@ -1,0 +1,313 @@
+{
+	"code": "1754",
+	"name": "Coral Primary School",
+	"levels": "P",
+	"uen": " T07GS1754E",
+	"logo": "./Medias/Images/Schools/logos/tn_1754.jpg",
+	"website": "http://www.coralpri.moe.edu.sg",
+	"address": "20, Pasir Ris St 51 (518902)",
+	"telephone": [
+		"65854491"
+	],
+	"fax": [
+		"65854493"
+	],
+	"email": "coral_ps@moe.edu.sg",
+	"mrt": [
+		"Pasir Ris MRT"
+	],
+	"bus": "359 , 53 , 81 ",
+	"GeneralInformation": {
+		"Principal": "Miss Chong Siew Fong",
+		"Vice Principal": "Mdm Goh Swee Lin Evelyn",
+		"School Vision": "Leaders with Heart, Learners for Life",
+		"School Mission": "To nurture our pupils into passionate, lifelong learners and future ready citizens",
+		"School Philosophy, Culture and Ethos": [
+			"In our school, we strive to provide the best environment and opportunities for our pupils i.e. Coralities so that they will develop holistically and maximise their potential. We strongly believe that every child is unique and gifted. It is up to all of us to discover and grow the talent of every chid so that he or she will experience success. To this end, we aim to provide quality education in a culture of care and excellence for Coralites. ",
+			"While we place emphasis on academic excellence, we also seek to imbue in our young charges the right values, life skills and dispositions so that they are well equipped to seize opportunities and to thrive in a dynamic and ever-changing globalised world. The school programmes and environment have been carefully designed to revolve around the values that every Coralite upholds - \"Care\", \"Responsibility\", \"Respect\" and \"Resilience\".",
+			"The holistic development of our pupils would not have been possible without our partnerships with our various stakeholders. Our School Advisory Council members, Parent Support Group, community partners and parents have been most supportive of the school. Their presence and invaluable contributions have not only added value to the learning experience, but they have also given us the confidence and faith to continue in this meaningful pursuit of education as we serve our Coralites."
+		],
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [],
+	"Cca": {
+		"Physical Sports": [
+			"Football",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Scouts",
+			"Singapore Red Cross Society"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Choir",
+			"Dance - Chinese",
+			"Dance - Malay",
+			"Info-Comm Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Visual Arts & Design": "Visual Art"
+		},
+		"Special Student Development Programmes Offered": "Education at Coral Primary School aims to develop leadership skills and promote character development by anchoring our students with values, equipping them with Social and Emotional competencies and building their dispositions towards lifelong learning."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"2015": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Scout",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Scout",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Scout",
+					"award": "Silver"
+				}
+			]
+		}
+	},
+	"postalCode": "518902",
+	"coordinates": [
+		103.9506486,
+		1.3684258
+	],
+	"svy21": [
+		41057.43,
+		38939.4
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"id": "1754"
+}

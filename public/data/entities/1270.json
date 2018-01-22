@@ -1,0 +1,99 @@
+{
+	"code": "1270",
+	"name": "Oasis Primary School",
+	"levels": "P",
+	"uen": " T15GS0007L",
+	"logo": "./Medias/Images/Schools/logos/tn_1270.jpg",
+	"website": "http://www.oasispri.moe.edu.sg/",
+	"address": "71, Edgefield Plains (828716)",
+	"telephone": [
+		"6320 9855"
+	],
+	"fax": [
+		"6320 9856"
+	],
+	"email": "oasis_ps@moe.edu.sg",
+	"mrt": [],
+	"bus": "50 , 386 ",
+	"GeneralInformation": {
+		"Principal": "Mrs Ong-Chew Lu See",
+		"Vice Principal": "Mdm Ng Yin Sze Josephine",
+		"Vice Principal (Admin)": "Mr Ng Chu Siu",
+		"School Vision": "Passionate Learners, Caring Leaders",
+		"School Mission": "To build a community of learners - Inspiring self and others to lead with a heart",
+		"School Philosophy, Culture and Ethos": [
+			"Oasis Primary School (OPS) believes that every child can learn and achieve when their needs, interests and abilities are looked into.  We are committed to provide quality education for all children so that they can develop holistically in their moral, emotional, social, cognitive, aesthetic and physical domains and become \"Passionate Learners, Caring Leaders\", children who are capable of learning and innovating continuously. More importantly, they are able to take good care of themselves, their families and the less-privileged, and in turn, contribute back to the society that has nurtured them.",
+			"The name of the school conjures up an image of a sanctuary where one can find safety and sustenance that provides an experience that is challenging and enriching. It evolves around building an oasis within a trying environment (desert) where innovations, strengths and positive attributes are necessary to overcome adversities. ",
+			"Beyond equipping the students with an excellent foundation in literacy and numeracy, the school's programmes will also help them to acquire skills, instincts and competencies to traverse the \"desert\" of tomorrow. The focus will be on processes and skills for the 21st century, in particular communication and teamwork, collaboration, creative problem-solving, cultural intelligence and critical thinking. In OPS, we will engage the parents and together with our teachers, concerted efforts will be made to inculcate the R3ICH (Respect, Responsibility, Resilience, Integrity, Care and Harmony) values among the students."
+		],
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"English Language",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Social Studies"
+	],
+	"Cca": {},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Community Service & Student Leadership": "Lead with a Heart@Oasis"
+		},
+		"Special Student Development Programmes Offered": "1) The Leader in Me Programme"
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"Sports & Games Competition": [],
+			"SYF": [],
+			"Best Unit Award": []
+		}
+	},
+	"postalCode": "828716",
+	"coordinates": [
+		103.9110967,
+		1.4046234
+	],
+	"svy21": [
+		36655.68,
+		42941.85
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	],
+	"specialNeeds": [
+		"PD",
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 270,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 230,
+		"No. of Applicants in Phase 1": 63,
+		"Places taken up to Phase 1": 63,
+		"Vacancy for Phase 2A1": 167,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 63,
+		"Vacancy for Phase 2A2": 167,
+		"No. of Applicants in Phase 2A2": 0,
+		"Places taken up to Phase 2A2": 62,
+		"Vacancy for Phase 2B": 104,
+		"No. of Applicants in Phase 2B": 0,
+		"Places taken up to Phase 2B": 62,
+		"Vacancy for Phase 2C": 208,
+		"No. of Applicants in Phase 2C": 170,
+		"Places taken up to Phase 2C": 231,
+		"Vacancy for Phase 2C Supplementary": 39,
+		"No. of Applicants in Phase 2C Supplementary": 22
+	},
+	"id": "1270"
+}

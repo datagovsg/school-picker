@@ -1,0 +1,408 @@
+{
+	"code": "3072",
+	"name": "Admiralty Secondary School",
+	"levels": "S",
+	"uen": " T07GS3072B",
+	"logo": "./Medias/Images/Schools/logos/tn_3072.jpg",
+	"website": "http://www.admiraltysec.moe.edu.sg",
+	"address": "31, Woodlands Crescent (737916)",
+	"telephone": [
+		"63651733",
+		"63654596"
+	],
+	"fax": [
+		"63652774"
+	],
+	"email": "Admiralty_SS@moe.edu.sg",
+	"mrt": [
+		"Admiralty MRT"
+	],
+	"bus": "904",
+	"GeneralInformation": {
+		"Principal": "Mr Toh Thiam Chye",
+		"Vice Principal": [
+			"Mr Ng Song Lim Steven",
+			"Mr Sheik Alaudin B Mohd Ismail"
+		],
+		"School Vision": "Values-Centric, Thinking School",
+		"School Mission": "Empowering Admirals to Actualise Their Aspirations",
+		"School Philosophy, Culture and Ethos": "Guided by our philosophy of 'Every Admiral, a Leader', we are committed to nurture every student into a confident, concerned, self-directed and contributing Admiral. Through the ADSS Total Curriculum, we provide a student-centric, values-driven education to nurture our students in the cognitive, physical, aesthetics, social, moral and leadership domains so that our students can succeed in life and contribute to society. We believe that it takes a village to raise a child. Our dedicated team of caring educators is committed to partnering parents and the community to bring out the best in every child.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art",
+		"Art 'O' Level",
+		"Basic Chinese",
+		"Basic Malay",
+		"Chemistry",
+		"Chinese",
+		"Chinese N(A)",
+		"Computer Applications",
+		"Computing",
+		"Design & Technology",
+		"Elements Of Business Skills",
+		"English Language",
+		"English Language (Syll A)",
+		"English Language (Syll T)",
+		"Food & Nutrition",
+		"Food And Consumer Education",
+		"Geography",
+		"Higher Chinese",
+		"Higher Malay",
+		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In Malay)",
+		"Literature(E)",
+		"Malay",
+		"Malay N(A)",
+		"Mathematics",
+		"Mathematics (Syllabus A)",
+		"Mathematics (Syllabus T)",
+		"Music",
+		"Physical Education",
+		"Physics",
+		"Principles Of Accounts",
+		"Science",
+		"Science (Chem, Bio)",
+		"Science (Phy, Chem)",
+		"Science (Syll T)",
+		"Social Studies N(T)"
+	],
+	"Cca": {},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"STEM": "Design Thinking Through Innovation and Technology",
+			"Community & Youth Leadership": "Nurturing Mindful Leaders through Community Outreach"
+		},
+		"Special Student Development Programmes Offered": "Design Thinking is used as an anchor pedagogical approach to inculcate in our students the ability to solve problem and innovate using various technologies. With the use Design Thinking protocol in the Applied Learning Programme (ALP) for Robotics and Coding, we seek to stretch the imagination of our students, empowering them to appreciate the relevance and value of what they are learning in the academic curriculum. To further augment students' motivation and purpose in learning new knowledge and skills, Admirals are also put through a Learning for Life Programme (LLP) with a focus on leadership practices and involvement in community outreach projects. Overseas learning experiences are organised to raise students' cross-cultural understanding and to deepen their commitment and rootedness to Singapore. These include cohort trips which are organised to complement existing cultural exchange with twinning and immersion programmes."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2015": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2016": {
+				"Development Award": "DA (Character Development)"
+			},
+			"Sports & Games Competition": [],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Commendation"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NCDCC",
+					"award": "Bronze"
+				},
+				{
+					"year": "2014",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NCDCC",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NCDCC",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "Red Cross",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCDCC",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Red Cross",
+					"award": "Silver"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 200,
+			"upper": 229,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 165,
+			"upper": 198,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": 134,
+			"upper": 158,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 202,
+			"upper": 236,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 168,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Technical",
+			"lower": 107,
+			"upper": 156,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 196,
+			"upper": 240,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 167,
+			"upper": 198,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Technical",
+			"lower": 120,
+			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 193,
+			"upper": 225,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Academic",
+			"lower": 161,
+			"upper": 196,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Technical",
+			"lower": 127,
+			"upper": 157,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		}
+	],
+	"postalCode": "737916",
+	"coordinates": [
+		103.8023982,
+		1.4458907
+	],
+	"svy21": [
+		24559.05,
+		47504.79
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	],
+	"specialNeeds": [
+		"PD"
+	],
+	"id": "3072"
+}

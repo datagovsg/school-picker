@@ -69,7 +69,7 @@ files.forEach(file => {
     if (studentCare.indexOf(raw.name) > -1) processed.studentCare = true
     if (raw.name in vacancies) processed.p1Registration = vacancies[raw.name]
     processed.id = raw.code
-    fs.writeFileSync('public/data/schools/' + file, JSON.stringify(processed, null, '\t'))
+    fs.writeFileSync('public/data/entities/' + file, JSON.stringify(processed, null, '\t'))
   } catch (err) {
     console.log('Bad record', file)
     throw err

@@ -4,7 +4,7 @@
       v-if="detail"
       :info="detail"
       :bookmarked="isBookmarked"
-      @bookmark="$emit('bookmark', schoolId)"
+      @bookmark="$emit('bookmark', entityId)"
       @close="close" />
     <div class="picker-loading" v-else>
       <spinner :size="60" color="grey" />
@@ -21,17 +21,17 @@ import DetailCard from './DetailCard'
 export default {
   name: 'DetailView',
   props: {
-    schoolId: String,
+    entityId: String,
     selectedTab: String
   },
   computed: {
-    ...mapState(['schoolDetail', 'travelTime', 'bookmarked', 'location']),
+    ...mapState(['entityDetail', 'travelTime', 'bookmarked', 'location']),
     ...mapState({
       homeSchoolDistance: state => state.homeSchoolDistance}
     ),
     detail () {
-      if (this.schoolId in this.schoolDetail) {
-        let school = this.schoolDetail[this.schoolId]
+      if (this.entityId in this.entityDetail) {
+        let school = this.entityDetail[this.entityId]
 
         if (this.location) {
           // const {oneKm, twoKm} = this.homeSchoolDistance
@@ -50,15 +50,15 @@ export default {
 
         return school
       } else {
-        this.fetchSchoolDetail(this.schoolId)
+        this.fetchEntityDetail(this.entityId)
       }
     },
     isBookmarked () {
-      return this.bookmarked.indexOf(this.schoolId) > -1
+      return this.bookmarked.indexOf(this.entityId) > -1
     }
   },
   methods: {
-    ...mapActions(['fetchSchoolDetail']),
+    ...mapActions(['fetchEntityDetail']),
     close () {
       this.$router.push({path: this.selectedTab, query: this.$route.query})
     }

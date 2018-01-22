@@ -1,0 +1,285 @@
+{
+	"code": "0713",
+	"name": "Innova Junior College",
+	"levels": "J",
+	"uen": " T07GS0713J",
+	"logo": "./Medias/Images/Schools/logos/tn_0713.jpg",
+	"website": "http://www.innovajc.moe.edu.sg/",
+	"address": "21, Champions Way (737902)",
+	"telephone": [
+		"63983401"
+	],
+	"fax": [
+		"68943655"
+	],
+	"email": "innova_jc@moe.edu.sg",
+	"mrt": [
+		"Woodlands MRT"
+	],
+	"bus": "161 , 168 , 901 , 900A ",
+	"GeneralInformation": {
+		"Principal": "Mr Michael De Silva",
+		"Vice Principal": [
+			"Mr Soh Sze Fun, Victor",
+			"Mr Tay Yuan Zhuang"
+		],
+		"Vice Principal (Admin)": "Mdm Lee Beng Choo",
+		"School Vision": "A forward-looking community of leaders and thinkers",
+		"School Mission": "Develop future-ready leaders and thinkers",
+		"Type of School": "Government School / Co-ed School / Full Day",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"H1 Biology",
+		"H1 Chemistry",
+		"H1 Chinese Language",
+		"H1 Economics",
+		"H1 General Paper",
+		"H1 General Studies In Chinese",
+		"H1 Geography",
+		"H1 History",
+		"H1 Literature In English",
+		"H1 Malay Language",
+		"H1 Mathematics",
+		"H1 Physics",
+		"H1 Project Work",
+		"H1 Tamil Language",
+		"H2 Biology",
+		"H2 Chemistry",
+		"H2 Chinese Language & Literature",
+		"H2 Computing",
+		"H2 Economics",
+		"H2 Further Mathematics",
+		"H2 Geography",
+		"H2 History",
+		"H2 Literature In English",
+		"H2 Malay Language & Literature",
+		"H2 Mathematics",
+		"H2 Physics"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Floorball",
+			"Football",
+			"Frisbee",
+			"Netball",
+			"Shooting",
+			"Tennis",
+			"Track & Field",
+			"Volleyball"
+		],
+		"Visual and Performing Arts": [
+			"Choir",
+			"English Drama",
+			"Modern Dance",
+			"Musicians' Club",
+			"Symphonic Band"
+		],
+		"Clubs & Societies": [
+			"Innova Press",
+			"Japanese Cultural Society",
+			"Library Council",
+			"Outdoor Adventure Club",
+			"Strategy Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Language Elective Programme (Malay)"
+		],
+		"Special Student Development Programmes Offered": "Future Readiness Development Programme, Student Leadership Development Programme, Innova Confident Communicators (ICON) Programme, Global Immersion and Exchange Programmes, Innova Scholars Programme (ISP)."
+	},
+	"AchievementHistory": {
+		"Junior College": {
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2017",
+					"category": "Shooting (Air Rifle)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Commendation"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - English",
+					"award": "Commendation"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - English",
+					"award": "Commendation"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": []
+		}
+	},
+	"L1R5History": [
+		{
+			"year": "2014",
+			"programme": "Arts",
+			"lower": 6,
+			"upper": 19
+		},
+		{
+			"year": "2014",
+			"programme": "Science/IB",
+			"lower": 7,
+			"upper": 20
+		},
+		{
+			"year": "2014",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2015",
+			"programme": "Arts",
+			"lower": 8,
+			"upper": 18
+		},
+		{
+			"year": "2015",
+			"programme": "Science/IB",
+			"lower": 4,
+			"upper": 20
+		},
+		{
+			"year": "2015",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2016",
+			"programme": "Arts",
+			"lower": 6,
+			"upper": 20
+		},
+		{
+			"year": "2016",
+			"programme": "Science/IB",
+			"lower": 5,
+			"upper": 20
+		},
+		{
+			"year": "2016",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2017",
+			"programme": "Arts",
+			"lower": 7,
+			"upper": 19
+		},
+		{
+			"year": "2017",
+			"programme": "Science/IB",
+			"lower": 4,
+			"upper": 20
+		},
+		{
+			"year": "2017",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		}
+	],
+	"postalCode": "737902",
+	"coordinates": [
+		103.7886879,
+		1.4303086
+	],
+	"svy21": [
+		23033.27,
+		45781.82
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	],
+	"id": "0713"
+}

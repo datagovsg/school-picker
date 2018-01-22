@@ -53,7 +53,7 @@ export default {
       this.$store.dispatch('exportOptions').then(query => this.$router.replace({query}))
     },
     onFocus (id) {
-      if (this.$route.params.schoolId !== id) {
+      if (this.$route.params.entityId !== id) {
         this.$router.push({
           path: '/detail/' + id,
           query: this.$route.query

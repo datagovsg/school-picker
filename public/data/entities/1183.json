@@ -1,0 +1,354 @@
+{
+	"code": "1183",
+	"name": "East Coast Primary School",
+	"levels": "P",
+	"uen": " T07GS1183A",
+	"logo": "./Medias/Images/Schools/logos/tn_1183.jpg",
+	"website": "http://www.eastcoastpri.moe.edu.sg",
+	"address": "8, Chai Chee Lane (469031)",
+	"telephone": [
+		"62447652/62447657"
+	],
+	"fax": [
+		"64490429"
+	],
+	"email": "ecps@moe.edu.sg",
+	"mrt": [
+		"Bedok MRT"
+	],
+	"bus": "Bus 222",
+	"GeneralInformation": {
+		"Principal": "Mdm Jessie Lim Chien Chin",
+		"Vice Principal": "Mdm Lim Peck Chin Yenlyn",
+		"Vice Principal (Admin)": "Mdm Cheong Siew Mui Linda",
+		"School Vision": "Caring Community, Passionate Learners, Responsible Individuals",
+		"School Mission": "To develop our East Coast Primary students to live life to the fullest, love self, family, friends and nation and enjoy learning in a loving and stimulating environment.",
+		"School Philosophy, Culture and Ethos": [
+			"At East Coast Primary School, we believe our students are CHAMPS who are: Caring for one another; Humble in attitude; Aspiring for excellence; Morally upright; Passionate towards learning; and Steadfast in their effort.  ",
+			"We believe every child is special and can be actively engaged in learning. We seek to provide every child with the opportunity to explore and discover his talents and interests. We are committed to nurturing students who find joy in living, loving and learning. We believe that teachers are professionals who are good role models for our students. Our teachers are curriculum leaders who endeavour to design learning experiences that best meet the needs of our students. Our teachers are also caring educators who create a safe and conducive environment for learning. We believe that parents are the children's first teachers and play an instrumental role in our students' growth and development. The school thus seeks to establish strong partnership and close collaboration with our parents in order to provide the best education for every child. We believe in our calling to prepare our students for the future by equipping them with a strong foundation in literacy and numeracy and developing in them future-ready skills. We are proactive in helping students acquire the attitudes and attributes which would stand the test of time."
+		],
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"Co-curricular Activities",
+		"English Language",
+		"Foundation English",
+		"Foundation Mathematics",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Rope Skipping"
+		],
+		"Visual and Performing Arts": [
+			"Dance - Chinese"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Sports & Outdoor Education": "Sports & Life Skills @ ECPS to foster 21st CC",
+			"Visual Arts & Design": "Thinking ART @ ECPS"
+		},
+		"Special Student Development Programmes Offered": "Learning for Life Programme 1-Modular Co-Curricular Activities"
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": "DA (National Education)"
+			},
+			"2015": {
+				"Development Award": "DA (National Education)"
+			},
+			"2016": {
+				"Development Award": "DA (National Education)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Commendation"
+				}
+			],
+			"Best Unit Award": []
+		}
+	},
+	"postalCode": "469031",
+	"coordinates": [
+		103.9198874,
+		1.3291014
+	],
+	"svy21": [
+		37634.23,
+		34590.96
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"id": "1183"
+}

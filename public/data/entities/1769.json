@@ -1,0 +1,383 @@
+{
+	"code": "1769",
+	"name": "Edgefield Primary School",
+	"levels": "P",
+	"uen": " T07GS1769A",
+	"logo": "./Medias/Images/Schools/logos/tn_1769.jpg",
+	"website": "http://www.edgefieldpri.moe.edu.sg",
+	"address": "41, Edgefield Plains (828869)",
+	"telephone": [
+		"63126091"
+	],
+	"fax": [
+		"63126093"
+	],
+	"email": "edgefield_ps@moe.edu.sg",
+	"mrt": [
+		"Punggol MRT"
+	],
+	"bus": "3 , 34 , 62 , 82 , 83 , 136 ",
+	"GeneralInformation": {
+		"Principal": "Mr Saw Mun Seong Michel",
+		"Vice Principal": [
+			"Mrs Ranuka Palanivelu",
+			"Mr Low Kah Heng Thomas"
+		],
+		"School Vision": "Lives Empowered, Lives Touched",
+		"School Mission": "To educate and nurture the school community for a better Singapore",
+		"School Philosophy, Culture and Ethos": "Encapsulated within Edgefield Primary School's vision,\" Lives empowered, Lives touched \", is the strong belief of commitment to inspiring staff and students towards the pursuit of educational excellence. Our Philosophy of Education is defined by a purposeful educational experience anchored on a forward-looking curriculum and a strong emphasis on character and citizenship education. We strive to nurture the Whole Child anchored on the five domains of holistic education -   cognitive, aesthetics, moral, physical and social. Our programmes emphasise the application of critical thinking skills across the subject disciplines and an acquisition of a broad and deep foundation through a wide spectrum of authentic and future-oriented learning experiences. Our strong ethos of care and excellence inspires us to move forward as a family, resulting in a safe, open and nurturing environment to ensure the well-being of the school, its population and its stakeholders.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"Co-curricular Activities",
+		"English Language",
+		"Foundation English",
+		"Foundation Mathematics",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Mathematics",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Fencing",
+			"Football",
+			"Outdoor Adventure Club",
+			"Rope Skipping"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Choir",
+			"Dance - Chinese",
+			"Dance - Indian",
+			"Dance - Malay",
+			"Dancesport",
+			"Ensemble - Angklung/Kulintang"
+		],
+		"Clubs & Societies": [
+			"Info Comm",
+			"Science & Environment Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Music & Performing Arts": "Values Inculcation through the Aesthetics",
+			"Visual Arts & Design": "21st Century Competencies through Visual Arts"
+		},
+		"Special Student Development Programmes Offered": "The school is committed towards building a robust and innovative curriculum to cater to every child's diverse needs and talents. "
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"2015": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": []
+		}
+	},
+	"postalCode": "828869",
+	"coordinates": [
+		103.9074083,
+		1.4002972
+	],
+	"svy21": [
+		36245.22,
+		42463.47
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	],
+	"specialNeeds": [
+		"PD",
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 270,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 230,
+		"No. of Applicants in Phase 1": 89,
+		"Places taken up to Phase 1": 89,
+		"Vacancy for Phase 2A1": 141,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 89,
+		"Vacancy for Phase 2A2": 141,
+		"No. of Applicants in Phase 2A2": 12,
+		"Places taken up to Phase 2A2": 101,
+		"Vacancy for Phase 2B": 85,
+		"No. of Applicants in Phase 2B": 1,
+		"Places taken up to Phase 2B": 98,
+		"Vacancy for Phase 2C": 172,
+		"No. of Applicants in Phase 2C": 90,
+		"Places taken up to Phase 2C": 188,
+		"Vacancy for Phase 2C Supplementary": 82,
+		"No. of Applicants in Phase 2C Supplementary": 46
+	},
+	"id": "1769"
+}

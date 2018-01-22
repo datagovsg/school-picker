@@ -1,0 +1,498 @@
+{
+	"code": "3606",
+	"name": "Sembawang Secondary School",
+	"levels": "S",
+	"uen": " T07GS3606G",
+	"logo": "./Medias/Images/Schools/logos/tn_3606.jpg",
+	"website": "http://www.sembawangsec.moe.edu.sg",
+	"address": "30, Sembawang Crescent (757704)",
+	"telephone": [
+		"67566760"
+	],
+	"fax": [
+		"67585380"
+	],
+	"email": "SEMBAWANG_SS@MOE.EDU.SG",
+	"mrt": [
+		"Sembawang MRT"
+	],
+	"bus": "859 , 962 ",
+	"GeneralInformation": {
+		"Principal": "Mr Jaswant Singh",
+		"Vice Principal": [
+			"Mr Lee Kah Siong Jimmy",
+			"Mr Goh Kee Yong @ Goh Chong Heng"
+		],
+		"School Vision": "Inspiring Leaders, Active Contributors",
+		"School Mission": "To nurture responsible, innovative and concerned citizens in a caring and dynamic learning environment",
+		"School Philosophy, Culture and Ethos": "Learning, Leadership, Creativity, Critical Thinking Skills, Communication, Service, and Excellence are the core tenets of our approach to student holistic development in line with the school's Vision (Inspiring Leaders, Active Contributors). A wide range of in-class and out-of-class learning experiences are provided for students to develop, apply, and hone their skills. Learning is further supplemented by a range of co-curricular programmes including Character Education, a suite of CCAs, and community involvement. A strong Culture of Care provides students with a safe and supportive environment for optimal learning.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art",
+		"Basic Chinese",
+		"Basic Malay",
+		"Basic Tamil",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Civics & Moral Education",
+		"Combined Humanities (S,G)",
+		"Combined Humanities (S,H)",
+		"Computer Applications",
+		"Design & Technology",
+		"English Language",
+		"Food & Nutrition",
+		"Food And Consumer Education",
+		"Geography",
+		"Higher Chinese",
+		"History",
+		"Literature(E)",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Physics",
+		"Principles Of A/C",
+		"Science (Phy, Chem)",
+		"Science (Syll T)",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton Team",
+			"Floorball Team",
+			"Netball Team",
+			"Soccer Team",
+			"Volleyball Team"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Girls' Brigade",
+			"National Cadet Corps (Sea)",
+			"National Police Cadet Corps"
+		],
+		"Visual and Performing Arts": [
+			"Art And Design Club",
+			"Chinese Dance",
+			"Concert Band, Sembwinds",
+			"Malay Dance"
+		],
+		"Clubs & Societies": [
+			"Audio Visual Aids Club",
+			"Green Club",
+			"Health And Fitness Club",
+			"Mediacomm Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Languages & Humanities": "Critical & Inventive Thinking (CIT) thru Media Literacy",
+			"Community & Youth Leadership": "Student Leadership (StL) and ViA"
+		},
+		"Special Student Development Programmes Offered": "The school's APPLIED LEARNING PROGRAMME (ALP) - CRITICAL AND INVENTIVE THINKING THROUGH MEDIA LITERACY, focuses on developing students' critical and inventive thinking (CIT) skills. Media literacy anchored in the history and geography curriculum seeks to develop students as critical consumers and producers of information. Through this distinctive programme, students develop the skills to analyse sources of information presented in different media types and acquire an array of media related skills that culminate in the presentation and production of media products such as video clips and infographics set in an authentic context. This programme is also supported by the English Language Department and the Craft and Technology Department.  The school's LEARNING FOR LIFE PROGRAMME (LLP) - DEVELOPING COMMUNITY LEADERS THROUGH VIA AND OUTDOOR EDUCATION, premised on values inculcation and service orientation, seeks to develop Community Leaders who are innovative, confident and caring. To achieve this, Values-in- Action Projects (ranging from service learning to social advocacy) at each level enable students to become change makers who lead and serve at school, community, national and regional levels. Outdoor Education (OE) offers students the opportunity to strengthen leadership development, resilience and ruggedness. Both VIA and OE collectively allow students to acquire and demonstrate the school values of excellence, commitment, integrity, teamwork and empathy."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "ODA (National Education)"
+			},
+			"2015": {
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "ODA (National Education)"
+			},
+			"2016": {
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "ODA (National Education)"
+			},
+			"2017": {
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "ODA (National Education)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NCC (Land Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Sea)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Girls' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Sea)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Sea Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 236,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 187,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": 119,
+			"upper": 154,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 233,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 159,
+			"upper": 187,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Technical",
+			"lower": 120,
+			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 226,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 160,
+			"upper": 180,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Technical",
+			"lower": 109,
+			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 256,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Academic",
+			"lower": 154,
+			"upper": 185,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Technical",
+			"lower": 120,
+			"upper": 152,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		}
+	],
+	"postalCode": "757704",
+	"coordinates": [
+		103.8168433,
+		1.445315
+	],
+	"svy21": [
+		26166.56,
+		47441.12
+	],
+	"planningArea": "SB",
+	"neighbours": [
+		"MD",
+		"WD",
+		"SM",
+		"YS"
+	],
+	"specialNeeds": [
+		"PD"
+	],
+	"id": "3606"
+}

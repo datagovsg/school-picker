@@ -4,12 +4,10 @@ import fetch from 'node-fetch'
 import querystring from 'querystring'
 import path from 'path'
 import fallback from 'express-history-api-fallback'
-import minBy from 'lodash/minBy'
 
 import {onemapApi} from './helpers/api'
 
-import schoolList from '../public/schoolList'
-import busStopList from '../public/busStopList'
+import schoolList from '../public/data/entityList'
 
 const app = express()
 
@@ -47,42 +45,6 @@ app.get('/nearby-school', function (req, res) {
     console.error(err)
     res.sendStatus(500)
   })
-})
-
-app.get('/travel-time', function (req, res) {
-  const maxWalking = 500
-  const walkingSpeed = 10 / 3.6
-  const location = req.query.location.split(',').map(v => +v)
-  const filtered = busStopList
-    .filter(busStop => Math.abs(location[0] - busStop.svy21[0]) <= maxWalking &&
-      Math.abs(location[1] - busStop.svy21[1]) <= maxWalking)
-    .map(busStop => {
-      const timeSpentWalking = Math.sqrt(
-        Math.pow(location[0] - busStop.svy21[0], 2) +
-        Math.pow(location[1] - busStop.svy21[1], 2)
-      ) / walkingSpeed
-      return {
-        code: busStop.code,
-        timeSpentDriving: require('../public/data/travelTime/' + busStop.code + '.json'),
-        timeSpentWalking
-      }
-    })
-  if (filtered.length === 0) {
-    res.sendStatus(404)
-    return
-  }
-  filtered.sort((a, b) => a.timeSpentWalking - b.timeSpentWalking)
-
-  const result = {}
-  schoolList.forEach(school => {
-    const fastest = minBy(filtered.slice(0, 4), busStop => {
-      return busStop.timeSpentDriving[school.id] + busStop.timeSpentWalking
-    })
-    result[school.id] = fastest.timeSpentDriving[school.id] + fastest.timeSpentWalking
-  })
-  res.header('Access-Control-Allow-Origin', '*')
-  res.header('Cache-Control', 'public, max-age=3600')
-  res.json({query: req.query, result})
 })
 
 app.use(fallback('index.html', {root}))

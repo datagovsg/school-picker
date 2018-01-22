@@ -1,0 +1,422 @@
+{
+	"code": "1038",
+	"name": "Haig Girls' School",
+	"levels": "P",
+	"uen": " T07GS1038J",
+	"logo": "./Medias/Images/Schools/logos/tn_1038.jpg",
+	"website": "http://www.haiggirls.moe.edu.sg",
+	"address": "51, Koon Seng Road (427072)",
+	"telephone": [
+		"63440293"
+	],
+	"fax": [
+		"64474169"
+	],
+	"email": "HAIGGIRLSSCH@MOE.EDU.SG",
+	"mrt": [
+		"Eunos MRT",
+		"Dakota MRT"
+	],
+	"bus": "16 , 33 ",
+	"GeneralInformation": {
+		"Principal": "Miss Lo Yen Nie",
+		"Vice Principal": [
+			"Miss Phua Ai Lei",
+			"Mdm Lee Li Li"
+		],
+		"School Vision": "Leaders of Character, Striving for Excellence in a Vibrant School",
+		"School Mission": "To nurture self-directed learners and critical and creative thinkers who lead and serve with integrity and compassion.",
+		"School Philosophy, Culture and Ethos": [
+			"Established in 1951, Haig Girls' School (HGS) is an all-girls' government primary school.  Our school has a heritage of excellent all-round education.  Nurturing character, leadership and creativity is the hallmark of an education at HGS that has endured over the decades. We believe in nurturing the whole child and preparing our pupils for life through a distinctive learning experience that is values-based, engaging, rigorous and innovative. ",
+			"Our shared values are encapsulated in our I4Cs: Integrity, Commitment, Concern, Cooperation, and Creativity. Guided by our school motto 'Ars Potens Est' ('Knowledge is Power'), we strive to nurture every Haig girl to use her knowledge, skills and talents in service to the school, community and nation.   We believe that our pupils are never too young to make a difference and give them a voice through advocacy, service, creative expression and innovation.",
+			"HGS is a second home to our pupils - a safe, nurturing environment for them to be themselves and to grow and learn. We believe in the uniqueness and worth of every child - each child is different, special and talented in her own way and we seek to bring out the best in her. We love, value and accept each child for who she is regardless of her results or achievements, but we hold her to high expectations. In HGS, we would like each child to take responsibility for her learning and develop an intrinsic motivation to learn, grow and excel. We believe in a growth mindset -- with effort, perseverance and resilience, every child can think, learn, achieve and excel."
+		],
+		"Type of School": "Government School / Girls' School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"English Language",
+		"Foundation English",
+		"Foundation Mathematics",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Football",
+			"Netball",
+			"Swimming",
+			"Ten-Pin Bowling",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Brownies",
+			"Singapore Red Cross Society"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Choir",
+			"Dance - Chinese",
+			"Dance - Indian",
+			"Dance - International",
+			"Drama - English",
+			"Ensemble - Gamelan",
+			"Ensemble - Handbell/Handchime"
+		],
+		"Clubs & Societies": [
+			"Malay Cultural Society",
+			"Science Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Interdisciplinary": "Innovation and Service Learning through Integrated Project Work (IPW@HGS)",
+			"Music & Performing Arts": "Character and Leadership through the Performing and Visual Arts"
+		},
+		"Special Student Development Programmes Offered": "LLP - Character and Leadership through Performing & Visual Arts: Our whole-school approach to the arts allows pupils to demonstrate creativity, express themselves, develop character and deepen sense of pride in our multi-cultural heritage through diverse learning experiences in art, music, drama and dance."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"School Distinction Awards": "SDA",
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"2015": {
+				"School Distinction Awards": "SDA"
+			},
+			"2016": {
+				"School Distinction Awards": "SDA"
+			},
+			"2017": {
+				"School Distinction Awards": "SDA"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Gamelan",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Gamelan",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Gamelan",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Gamelan",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Brownies (Pack 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Red Cross",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Red Cross",
+					"award": "Bronze"
+				}
+			]
+		}
+	},
+	"postalCode": "427072",
+	"coordinates": [
+		103.9026373,
+		1.3117719
+	],
+	"svy21": [
+		35714.56,
+		32674.77
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"p1Registration": {
+		"Total Vacancy": 180,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 140,
+		"No. of Applicants in Phase 1": 45,
+		"Places taken up to Phase 1": 45,
+		"Vacancy for Phase 2A1": 95,
+		"No. of Applicants in Phase 2A1": 6,
+		"Places taken up to Phase 2A1": 51,
+		"Vacancy for Phase 2A2": 89,
+		"No. of Applicants in Phase 2A2": 11,
+		"Places taken up to Phase 2A2": 62,
+		"Vacancy for Phase 2B": 59,
+		"No. of Applicants in Phase 2B": 16,
+		"Places taken up to Phase 2B": 75,
+		"Vacancy for Phase 2C": 105,
+		"No. of Applicants in Phase 2C": 86,
+		"Places taken up to Phase 2C": 160,
+		"Vacancy for Phase 2C Supplementary": 20,
+		"No. of Applicants in Phase 2C Supplementary": 5
+	},
+	"id": "1038"
+}

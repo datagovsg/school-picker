@@ -1,0 +1,193 @@
+{
+	"code": "7806",
+	"name": "Crest Secondary School",
+	"levels": "S",
+	"uen": " 201136224W",
+	"logo": "./Medias/Images/Schools/logos/tn_7806.jpg",
+	"website": "http://www.crestsec.edu.sg",
+	"address": "561, Jurong East Street 24 (609561)",
+	"telephone": [
+		"68992779"
+	],
+	"fax": [
+		"68992668"
+	],
+	"email": "info@crestsec.edu.sg",
+	"mrt": [
+		"Jurong East MRT",
+		"Bukit Batok MRT"
+	],
+	"bus": "52 , 98 , 98M , 105 , 176 , 183 , 187 , 188 , 188R , 333 , 502 ,  ",
+	"GeneralInformation": {
+		"Principal": "Mr Seet Tiat Hee",
+		"Vice Principal": [
+			"Mr Subash Lazar",
+			"Mr Ho Kum Fai"
+		],
+		"Vice Principal (Admin)": "Mr Michael John Peter Lau Chong Lum",
+		"School Vision": "Advocating a Promising Future for Every Student.",
+		"School Mission": "We are committed to providing a caring and creative learning environment that customises authentic learning experiences, builds our students' character and equips them for academic progression and employment.",
+		"School Philosophy, Culture and Ethos": "Crest Secondary School's vision underscores our firm belief in our students' potential to succeed in their areas of strength and passion, and our steadfast commitment in enabling them to realise their aspirations. As a Specialised School for Normal (Technical) students, we offer a four-year customised curriculum that integrates both academic learning and vocational training. Learning is practice-oriented, with an emphasis on skills development to better prepare our students for post-secondary learning at the Institute of Technical Education (ITE) and for future employment. Industry attachment is an important component of our students' holistic learning experience. In addition, our teachers deploy innovative pedagogies to strengthen our students' literacy and numeracy skills through real-world, ICT-enriched learning contexts. The school adopts a multi-faceted approach to develop our students as well-rounded individuals, anchored in good character and equipped with the skills and social and emotional competencies to succeed in life. The school collaborates with many partners from the industry and community to support our students' learning and holistic development. At the end of Sec 4, our students will graduate with the GCE 'N' Level Certificate and the ITE Skills Certificate (ISC).",
+		"Type of School": "Specialised School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Basic Chinese",
+		"Basic Malay",
+		"Basic Tamil",
+		"Character & Citizenship (NT)",
+		"English Language (Syll T)",
+		"Infocomm Technology (NT)",
+		"Isc Facility Services",
+		"Isc Hospitality Services",
+		"Isc Mechanical Servicing",
+		"Isc Retail Services",
+		"Mathematics (Syllabus T)",
+		"Physical Education",
+		"Science",
+		"Tm - Light Up The World",
+		"Tm - Fabulous Merchandise D.",
+		"Tm - Let It Flow3",
+		"Tm - Looks Good, Tastes Good",
+		"Tm - Passion To Serve",
+		"Tm - Service With A Smile",
+		"Tm - We Can Make It",
+		"Tm - Wheels Are Wonderful",
+		"Visual Arts"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Athletics",
+			"Badminton",
+			"Basketball",
+			"Floorball",
+			"Football"
+		],
+		"Uniformed Groups": [
+			"Girl Guides",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Arts And Event Management",
+			"Dance",
+			"Guitar Club",
+			"Pop Band",
+			"Visual Arts Club"
+		],
+		"Clubs & Societies": [
+			"Entrepreneurship Club",
+			"Innovation Club",
+			"Library Club",
+			"New Media Club",
+			"Service Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"Special Student Development Programmes Offered": "Vocational Taster Modules (TMs) and ISC Subjects conducted in authentic school-based learning facilities; Industry Experiential Programme and Work Experience Learning Journey (in collaboration with numerous industry partners); Outdoor Interdisciplinary Learning (e.g. Gardens by the Bay, Singapore Zoo, KidZania); NTUC Income OrangeAid CREST Quest Student Development Programme and Visual Arts Talent Development Programme to strengthen students' social and emotional competencies e.g. Guitar, Dance & Movement, Graffiti Art, Inline Skating, Drama and Communication, Photography and Videography, Media Production; Local and Overseas Cultural Immersion and Values-In-Action Programme (Vietnam, Myanmar, Cambodia, Indonesia); School Twinning Programme with Meridian International Learning Experience (High School from the Philippines); Local Adventure Programme"
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Band-Display-Percussion Ensemble",
+					"award": "Commendation"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Display-Percussion Ensemble",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Percussion Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": []
+		}
+	},
+	"PsleAggregateHistory": [],
+	"postalCode": "609561",
+	"coordinates": [
+		103.7426281,
+		1.3431198
+	],
+	"svy21": [
+		17907.13,
+		36141.07
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	],
+	"id": "7806"
+}

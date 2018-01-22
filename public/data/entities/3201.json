@@ -1,0 +1,564 @@
+{
+	"code": "3201",
+	"name": "Ahmad Ibrahim Secondary School",
+	"levels": "S",
+	"uen": " T07GS3201H",
+	"logo": "./Medias/Images/Schools/logos/tn_3201.jpg",
+	"website": "http://www.ahmadibrahimsec.moe.edu.sg",
+	"address": "751, Yishun Avenue 7 (768928)",
+	"telephone": [
+		"67585384"
+	],
+	"fax": [
+		"67557778"
+	],
+	"email": "aiss@moe.edu.sg",
+	"mrt": [
+		"Yishun MRT"
+	],
+	"bus": "980 , 167 , 169 , 800 , 811 , 812 , 965 , 969 , 858 , 856 , 859 ",
+	"GeneralInformation": {
+		"Principal": "Miss Chew Ing Lim",
+		"Vice Principal": [
+			"Dr Chua Puay Huat",
+			"Mr Au Yong Po Lung"
+		],
+		"School Vision": "Every AI student, a young lady or gentleman who cares, learns and excels for AI and for nation",
+		"School Mission": "To grow students with strength of character, nurture inquiring and disciplined minds, inspire courage to lead and serve",
+		"School Philosophy, Culture and Ethos": [
+			"Ahmad Ibrahim Secondary School believes in building strong academic foundations and instilling academic resilience to prepare students well for their post-secondary education.  We seek to build up towards a culture of excellence and strong purpose to foster a positive school identity.  Our teachers work as a team to nurture every AI student to be a young lady or gentleman who cares, learns and excels for AI and for nation.",
+			"The school is committed to preparing our students to be life, work and world ready.  Our character education focuses on inculcation of the core values of Resilience, Integrity, Steadfastness, Excellence, Care, Courage and Gratitude.  Students are provided with various opportunities to discover, explore and develop their interests and leadership skills.  The school takes pride in its academic and co-curricular programmes that provide quality learning experience to support the holistic development of every student."
+		],
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Combined Humanities (S,G)",
+		"Combined Humanities (S,H)",
+		"Computer Applications",
+		"Design & Technology",
+		"English Language",
+		"Food & Nutrition",
+		"Food And Consumer Education",
+		"Geography",
+		"Higher Chinese",
+		"History",
+		"Literature(E)",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Music 'O' Level",
+		"Physical Education",
+		"Physics",
+		"Principles Of Accounts",
+		"Science (Chem, Bio)",
+		"Science (Phy, Chem)",
+		"Social Studies N(T)",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Shooting",
+			"Soccer",
+			"Track & Field"
+		],
+		"Uniformed Groups": [
+			"Girl Guides",
+			"Ncc (Land)",
+			"Npcc",
+			"Scouts",
+			"St. John Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Chinese Orchestra",
+			"Choir",
+			"Concert Band",
+			"Dance Ensemble",
+			"Oratorical Debate & Drama Society"
+		],
+		"Clubs & Societies": [
+			"Green Service Club",
+			"Infocomm And New Age Media Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Languages & Humanities": "Critical Social Inquiry and Media Literacy",
+			"Sports & Outdoor Education": "Character Development through Outdoor Learning Experience (OLE)"
+		},
+		"Special Student Development Programmes Offered": "1. Character Development through Outdoor Learning Experience (OLE): Our Learning for Life Programme (LLP) is a broad-based developmental programme that spans from Sec 1 to 3, with extended opportunities for students with special interest in outdoor activities to be trained as OLE leaders.  It provides students with authentic, real world experiences to learn teamwork, build mental and emotional strength, develop self and collective leadership through taking on physical challenges.  OLE also promotes environmental appreciation through outdoor activities.  2. Critical Social Inquiry (CSI) and Media Literacy: Our Applied Learning Programme (ALP) takes a multi-disciplinary approach where students extend their learning from existing curriculum subjects such as Languages, Humanities, Sciences and CCE using a critical media literacy lens. Students explore key issues that are related to the society e.g. social, ethical and environmental issues, and present their perspectives through various media forms.  3. Enhanced Music Programme (EMP):  EMP allows students to develop their passion and interest in music.  It is a two-year programme in upper secondary with visits to music performances and music master classes, culminating in the pursuit of O-Level Music or Higher Music.  There is also an accompanying two-year Music Preparatory Course (MPC) for lower sec students with music interest and talent. 4. Student-initiated Service Learning Programme: To inspire courage to lead and serve, every class takes part in a structured 10-week programme to identify the need of a community to serve, plan and implement a service learning project.  5. With the school's firm belief in academic resilience and stretching student potential, outstanding students are identified and nominated for various stretch programmes which include journalism training, creative writing camp, Science Innovations projects."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Shooting (Air Pistol)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Shooting (Air Pistol)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Shooting (Air Pistol)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Shooting (Air Pistol)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Shooting (Air Rifle)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Orchestra - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Orchestra - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Orchestra - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "NCC (Land Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2014",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Land Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2015",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Land Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Land Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 217,
+			"upper": 240,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 175,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": 135,
+			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 221,
+			"upper": 250,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 178,
+			"upper": 198,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Technical",
+			"lower": 134,
+			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 218,
+			"upper": 244,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 178,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Technical",
+			"lower": 131,
+			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 218,
+			"upper": 241,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Academic",
+			"lower": 173,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Technical",
+			"lower": 139,
+			"upper": 158,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		}
+	],
+	"postalCode": "768928",
+	"coordinates": [
+		103.8297153,
+		1.4360616
+	],
+	"svy21": [
+		27599.01,
+		46417.92
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	],
+	"specialNeeds": [
+		"VI"
+	],
+	"id": "3201"
+}

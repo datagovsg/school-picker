@@ -1,0 +1,474 @@
+{
+	"code": "1143",
+	"name": "Yio Chu Kang Primary School",
+	"levels": "P",
+	"uen": " T07GS1143C",
+	"logo": "./Medias/Images/Schools/logos/tn_1143.jpg",
+	"website": "http://www.yiochukangpri.moe.edu.sg",
+	"address": "1, Hougang Street 51 (538720)",
+	"telephone": [
+		"63851365"
+	],
+	"fax": [
+		"63855915"
+	],
+	"email": "admin_yckps@moe.edu.sg",
+	"mrt": [
+		"Yio Chu Kang MRT",
+		"Hougang MRT"
+	],
+	"bus": "88 , 101 , 109 , 159 , 161 and 325 ",
+	"GeneralInformation": {
+		"Principal": "Mr Ng Aik Boon",
+		"Vice Principal": [
+			"Mdm Poh Lee Siew",
+			"Mr Chan Tuck Cheong"
+		],
+		"School Vision": "Empowering Mind, Engaging Heart, Extending Hands",
+		"School Mission": "To nurture Confident and Self-Directed Learners who are Keen to Serve",
+		"School Philosophy, Culture and Ethos": [
+			"In Yio Chu Kang Primary, we believe that every child has the potential to learn and achieve. Guided by our school philosophy, we seek to bring out the best in every child.  We are committed to ignite the joy of learning in every child and provide opportunities for discovery and exploration. We bring up the happy child who is confident, curious and caring. The child will learn to interact well with his peers, think critically and take responsibility for his learning.",
+			"Learning and teaching in YCKPS is guided by the school's Curriculum Framework. Central to the Curriculum Framework is the school's vision, Empowering Mind, Engaging Heart, Extending Hands. The ultimate goal of our Curriculum is to develop every YCKPS student into the Self-directed Learner, Confident Person, Concerned Citizen, and Active Contributor. The school harnesses five key learning approaches, Differentiation, Authenticity and Relevance, Experiential, Collaboration and Integration, to provide enriching and engaging experiences for the holistic development of our students. ",
+			"Through our academic programmes, we build in every child a strong foundation in literacy and numeracy. Our school-based curriculum creates experiences that enable our learners to see connections across disciplines and acquire competencies such as critical thinking, collaboration and communication skills that will enable them to thrive in the fast-changing future landscape. ",
+			"We imbue in our learners core values so that they grow up to be morally upright individuals who are globally aware while being rooted as Singaporeans. The school's values of Caring, Upright, Progressive and Excellence are constantly reinforced to guide both staff and students in their thoughts, actions and behaviour. We provide opportunities for our students to reflect on the needs of the community and how they could serve others by putting their values in action. Through this, we nurture the 'Youth of Character, Keen to Serve'."
+		],
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"English Language",
+		"Foundation Chinese",
+		"Foundation English",
+		"Foundation Malay",
+		"Foundation Mathematics",
+		"Foundation Science",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Athletics",
+			"Soccer Boys",
+			"Volleyball Girls & Boys"
+		],
+		"Uniformed Groups": [
+			"Brownies",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Choir",
+			"Dance - Chinese",
+			"Dance - Indian",
+			"Dance - Malay/International",
+			"Ensemble - Angklung",
+			"Ensemble - Handbell/Handchime",
+			"Infocomm Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Sports & Outdoor Education": "Developing Skills and Values through T.E.A.M Sports@YCKPS"
+		},
+		"Special Student Development Programmes Offered": "Learning for Life Programme - Developing Skills and Values through T.E.A.M Sports@YCK"
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"2015": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"2016": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"2017": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Scout",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"postalCode": "538720",
+	"coordinates": [
+		103.8854157,
+		1.3777936
+	],
+	"svy21": [
+		33797.8,
+		39975.07
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 150,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 110,
+		"No. of Applicants in Phase 1": 33,
+		"Places taken up to Phase 1": 33,
+		"Vacancy for Phase 2A1": 77,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 33,
+		"Vacancy for Phase 2A2": 77,
+		"No. of Applicants in Phase 2A2": 7,
+		"Places taken up to Phase 2A2": 39,
+		"Vacancy for Phase 2B": 56,
+		"No. of Applicants in Phase 2B": 0,
+		"Places taken up to Phase 2B": 39,
+		"Vacancy for Phase 2C": 111,
+		"No. of Applicants in Phase 2C": 38,
+		"Places taken up to Phase 2C": 77,
+		"Vacancy for Phase 2C Supplementary": 73,
+		"No. of Applicants in Phase 2C Supplementary": 23
+	},
+	"id": "1143"
+}

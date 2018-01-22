@@ -1,0 +1,400 @@
+{
+	"code": "1232",
+	"name": "Lianhua Primary School",
+	"levels": "P",
+	"uen": " T07GS1232D",
+	"logo": "./Medias/Images/Schools/logos/tn_1232.jpg",
+	"website": "http://www.lianhuapri.moe.edu.sg/",
+	"address": "2, Bukit Batok Street 52 (659243)",
+	"telephone": [
+		"65639502"
+	],
+	"fax": [
+		"65639591"
+	],
+	"email": "lianhua_ps@moe.edu.sg",
+	"mrt": [
+		"Bukit Batok MRT",
+		"Bukit Gombak MRT"
+	],
+	"bus": "945",
+	"GeneralInformation": {
+		"Principal": "Mr Willy Tan Nguan Peng",
+		"Vice Principal": "Miss Tan Hui Ping",
+		"Vice Principal (Admin)": "Mr Andy Ang",
+		"School Vision": "Hearts of Service, Minds of Inquiry, Joy in Learning, Confidence in Life",
+		"School Mission": "Together, we bring out the best in every child for a better nation",
+		"School Philosophy, Culture and Ethos": [
+			"In Lianhua, we believe that school should not just be about academic excellence. To better prepare our students for a future that is more dynamic and complex, we must focus on the all-round development of students, and equip them with the skills, attitudes and values to be future-ready - Students who will grow into confident citizens who chart their own paths and create their own successes.",
+			"Our school vision is Hearts of Service, Minds of Inquiry, Joy in Learning, Confidence in Life.",
+			"Through 'Hearts of Service', we want to nurture our students to be caring and compassionate towards others, to know that regardless of their circumstance, they can do their part to make a difference to the people around them.",
+			"'Minds of Inquiry' is about seeking knowledge and learning to think creatively and critically which is an important 21st century competency. We want our students to be curious about the world and things around them. Learning is no longer something that just takes place in school. During this time, where change is happening so rapidly, our hope is for our students to find 'Joy in Learning' and to continue to learn throughout life.",
+			"We want out students to grow up to be useful and contributing citizens who are confident and have a strong belief in their self-worth. Thus, 'Confidence in Life'.",
+			"Our school mission is Together we bring out the best in every child for a better nation.",
+			"Together is important as it is our belief that the school cannot do it alone. We must establish strong partnerships with Parents and the Community to bring up every child together. Every child is unique with their own interests, talents and aspirations, and we want to bring out the best in every child, to guide and nurture them to their fullest potential. Our PISA (Physical, Intellectual, Social-moral & Aesthetics) framework guides us to create all-round quality school experiences for our students and to nurture their talents in their pursuit of being the best they can be."
+		],
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"English Language",
+		"Foundation Chinese",
+		"Foundation English",
+		"Foundation Malay",
+		"Foundation Mathematics",
+		"Foundation Science",
+		"Foundation Tamil",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Sports Academy - Basketball"
+		],
+		"Uniformed Groups": [
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Dance - Chinese",
+			"Dance - Indian",
+			"Dance - Malay",
+			"Dance - Modern",
+			"Gamelan"
+		],
+		"Clubs & Societies": [
+			"Chess Club",
+			"Cool Science Club",
+			"Robotics Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Coding": "Robotics Project Work",
+			"Sports & Outdoor Education": "VIA through Sports"
+		},
+		"Special Student Development Programmes Offered": "Our LLP, Values in Action through Sports aims to nurture students into engaged learners who adopt a healthy lifestyle and develop joy in learning; contributing team players who contribute by serving others and promoting teamwork; and confident leaders who display self-confidence and leadership. Through Sports, experiences are created for students to put our school values into action. For students who excelled, their passion and skills are honed in our Sports Talent Management Programme."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Gamelan",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Gamelan",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Gamelan",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Gamelan",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2015",
+					"category": "Scout",
+					"award": "Bronze"
+				}
+			]
+		}
+	},
+	"postalCode": "659243",
+	"coordinates": [
+		103.7542324,
+		1.3541546
+	],
+	"svy21": [
+		19198.65,
+		37361.27
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 180,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 140,
+		"No. of Applicants in Phase 1": 31,
+		"Places taken up to Phase 1": 31,
+		"Vacancy for Phase 2A1": 109,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 31,
+		"Vacancy for Phase 2A2": 109,
+		"No. of Applicants in Phase 2A2": 9,
+		"Places taken up to Phase 2A2": 40,
+		"Vacancy for Phase 2B": 70,
+		"No. of Applicants in Phase 2B": 0,
+		"Places taken up to Phase 2B": 40,
+		"Vacancy for Phase 2C": 140,
+		"No. of Applicants in Phase 2C": 32,
+		"Places taken up to Phase 2C": 72,
+		"Vacancy for Phase 2C Supplementary": 108,
+		"No. of Applicants in Phase 2C Supplementary": 12
+	},
+	"id": "1232"
+}

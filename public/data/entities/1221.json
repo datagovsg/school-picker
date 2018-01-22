@@ -1,0 +1,391 @@
+{
+	"code": "1221",
+	"name": "Gan Eng Seng Primary School",
+	"levels": "P",
+	"uen": " T07GS1221C",
+	"logo": "./Medias/Images/Schools/logos/tn_1221.jpg",
+	"website": "http://www.ganengsengpri.moe.edu.sg",
+	"address": "100, Redhill Close (158901)",
+	"telephone": [
+		"64717451"
+	],
+	"fax": [
+		"64794152"
+	],
+	"email": "gesps@moe.edu.sg",
+	"mrt": [
+		"Redhill MRT"
+	],
+	"bus": "14 , 63 , 147 , 196 , 197 , 855 , 961 ",
+	"GeneralInformation": {
+		"Principal": "Mr Ong Lye Whatt",
+		"Vice Principal": "Miss Tan Wee Kiaw Adeline",
+		"Vice Principal (Admin)": "Miss Lim Ee Leng Ellen",
+		"School Vision": "Confident and resilient, creative and thinking pupils who strive to succeed",
+		"School Mission": "Believing and Nurturing - We believe in every child and we nurture our children so that they leave us holding their heads high and knowing that their future is in their hands.",
+		"School Philosophy, Culture and Ethos": "In line with our mission of \"Believing and Nurturing\", we believe that every child has the potential and can learn, even though each child may come with different starting points.  Hence, the school strives to cater to the students' diverse needs; from \"stretching\" the high progress learners to providing the scaffolding support for the low progress learners.  At the end of their primary education, we want all GESPians to be able to progress and access the many pathways open to them.",
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"English Language",
+		"Foundation Chinese",
+		"Foundation English",
+		"Foundation Malay",
+		"Foundation Mathematics",
+		"Foundation Tamil",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Music & Performing Arts": "Nurturing Aesthetics and Values Development in Children through Band, Choir and Performing Arts"
+		},
+		"Special Student Development Programmes Offered": "To develop 21 CC competencies in our GESPians and prepare them for life-long learning, the school's Learning for Life Programme (LLP) places emphasis on the acquisition of values and life skills focusing on music and the performing arts. The LLP provides students with different intensity of learning engagement according to their levels. In the cognitive domain, varied learning activities are planned, ranging from the Math Olympiad and Code for Fun for the high progress learners to motivational programmes and additional support in-and after-school for low progress learners. In PAL, P1 and P2 students are exposed to various modules, such as  Visual Arts and Outdoor Education modules. They are designed to be experiential, enjoyable and encompass learning in a creative way; incorporating values and social and emotional learning. These PAL activities have also been scaled up to benefit the P3 and P4 students. Students with potential are identified and encouraged to join the related CCAs. Opportunities are also created to allow them to engage in informal/formal performances to build their confidence and showcase their talents.   "
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": "DA (Character Development)",
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"2015": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2016": {
+				"Development Award": "DA (Character Development)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "Brownies (Pack 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Brownies (Pack 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Brownies (Pack 2)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Brownies (Pack 1)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2016",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Brownies (Pack 2)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Brownies (Pack 1)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Scout",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"postalCode": "158901",
+	"coordinates": [
+		103.8152327,
+		1.285955
+	],
+	"svy21": [
+		25987.23,
+		29819.97
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 180,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 140,
+		"No. of Applicants in Phase 1": 67,
+		"Places taken up to Phase 1": 67,
+		"Vacancy for Phase 2A1": 73,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 67,
+		"Vacancy for Phase 2A2": 73,
+		"No. of Applicants in Phase 2A2": 6,
+		"Places taken up to Phase 2A2": 73,
+		"Vacancy for Phase 2B": 54,
+		"No. of Applicants in Phase 2B": 1,
+		"Places taken up to Phase 2B": 73,
+		"Vacancy for Phase 2C": 107,
+		"No. of Applicants in Phase 2C": 39,
+		"Places taken up to Phase 2C": 112,
+		"Vacancy for Phase 2C Supplementary": 68,
+		"No. of Applicants in Phase 2C Supplementary": 20
+	},
+	"id": "1221"
+}

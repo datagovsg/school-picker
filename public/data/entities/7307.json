@@ -1,0 +1,438 @@
+{
+	"code": "7307",
+	"name": "Manjusri Secondary School",
+	"levels": "S",
+	"uen": " T07GS7307E",
+	"logo": "./Medias/Images/Schools/logos/tn_7307.jpg",
+	"website": "http://www.manjusrisec.moe.edu.sg",
+	"address": "20, Ubi Avenue 1 (408940)",
+	"telephone": [
+		"68424558"
+	],
+	"fax": [
+		"67454492"
+	],
+	"email": "manjusri_ss@moe.edu.sg",
+	"mrt": [
+		"Eunos MRT",
+		"Macpherson MRT",
+		"Ubi MRT"
+	],
+	"bus": "5 , 8 , 15 , 22 , 25 , 45 , 51 , 55 , 59 , 61 , 63 , 63M , 65 , 66 , 93 , 94 , 854 ",
+	"GeneralInformation": {
+		"Principal": "Mr Sim Chong Boon",
+		"Vice Principal": [
+			"Mdm Heng Wei Shan",
+			"Mr Ho Mingda"
+		],
+		"School Vision": "Passionate Learners, Compassionate Leaders",
+		"School Mission": "Nurturing Manjusrians who are anchored in values whilst global in perspective",
+		"School Philosophy, Culture and Ethos": "The school nurtures Manjusrians as confident, independent and empathetic persons who are committed to life-long learning and possess the moral courage and purpose to serve our society and nation. We achieve this by ensuring that as learners and leaders, Manjusrians are able to make decisions based on sound fundamental beliefs and principles. Our aspiration is for them to understand and appreciate the impact of global interconnectedness while remaining rooted to Singapore.  Guided by our school motto 'Wisdom, Conduct, Benevolence, Aspiration', we pride ourselves in providing a rigorous yet holistic curriculum to foster both excellence and ethics, and in imbuing staff and students with the values of Respect, Integrity, Care and Excellence.  We will systematically cultivate habits and attitudes in our students so that they become effective learners who able to face challenges calmly and resolutely. The school is supported in its inclusive vision and mission by the Singapore Buddhist Federation.",
+		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay",
+		"Affiliated Schools": [
+			"Mee Toh School",
+			"Maha Bodhi School"
+		]
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Combined Humanities (S,G)",
+		"Combined Humanities (S,H)",
+		"Computer Applications",
+		"Design & Technology",
+		"Elements Of Business Skills",
+		"English Language",
+		"Food & Nutrition",
+		"Food And Consumer Education",
+		"Geography",
+		"Higher Chinese",
+		"History",
+		"Literature(E)",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Physics",
+		"Principles Of Accounts",
+		"Science (Chem, Bio)",
+		"Science (Phy, Chem)"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Football",
+			"Table Tennis",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Girl Guides",
+			"Ncc (Land)",
+			"Npcc",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Band - Concert",
+			"Chinese Calligraphy Society",
+			"Choir",
+			"Dance - Chinese",
+			"Media Club",
+			"Orchestra - Chinese"
+		],
+		"Clubs & Societies": [
+			"Cabin Club",
+			"Interact Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"STEM": "Developing sustainable, safe and secure living spaces through Smart home systems",
+			"Music & Performing Arts": "Learning through the ARTS"
+		},
+		"Special Student Development Programmes Offered": "The school has adopted the Building Learning Power approach in integrating character education and academic learning. Through the direct instruction of relevant learning dispositions, students are introduced to good habits and values as a foundation for more effective learning. This will also prepare students to better handle challenges outside the classroom in a calm and confident way.  Our Applied Learning Programme (ALP) - \"Smart Home and Assistive Technologies\" aims for students to learn the science behind SMART Technologies, and understand its application in the modern home.  Students may get to work on innovative ways for how the safety and security of the elderly or handicapped can be enhanced.  This exemplifies the values-driven aspect of our curriculum to enable students to play a part in contributing towards building a more vibrant and caring society. Our Learning for Life Programme (LLP) - \"Learning through the Arts\" aims to develop students' appreciation for various art forms.  Students will have opportunities to experience the arts both as audience and participants; and develop an interest in various forms of cultural expression.  The school has an on-going Taipei Exchange Programme to foster global awareness and cross-cultural skills of students. There is also a whole school approach in the championing of Reading Literacy for personal growth and excellence. With these programmes in place, our students are developed holistically as passionate learners and compassionate leaders."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Orchestra - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Orchestra - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Orchestra - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NCC (Land Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NCC (Land Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NCC (Land Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2017",
+					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 201,
+			"upper": 237,
+			"lowerAffiliated": 188,
+			"upperAffiliated": 236
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 154,
+			"upper": 199,
+			"lowerAffiliated": 154,
+			"upperAffiliated": 183
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": 120,
+			"upper": 159,
+			"lowerAffiliated": 135,
+			"upperAffiliated": 150
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 206,
+			"upper": 231,
+			"lowerAffiliated": 188,
+			"upperAffiliated": 236
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 153,
+			"upper": 199,
+			"lowerAffiliated": 152,
+			"upperAffiliated": 186
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Technical",
+			"lower": 116,
+			"upper": 155,
+			"lowerAffiliated": 111,
+			"upperAffiliated": 151
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 196,
+			"upper": 231,
+			"lowerAffiliated": 189,
+			"upperAffiliated": 235
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 158,
+			"upper": 195,
+			"lowerAffiliated": 154,
+			"upperAffiliated": 191
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Technical",
+			"lower": 117,
+			"upper": 158,
+			"lowerAffiliated": 138,
+			"upperAffiliated": 150
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 227,
+			"lowerAffiliated": 188,
+			"upperAffiliated": 223
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Academic",
+			"lower": 156,
+			"upper": 190,
+			"lowerAffiliated": 153,
+			"upperAffiliated": 187
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Technical",
+			"lower": 117,
+			"upper": 156,
+			"lowerAffiliated": 120,
+			"upperAffiliated": 151
+		}
+	],
+	"postalCode": "408940",
+	"coordinates": [
+		103.90172,
+		1.3274711
+	],
+	"svy21": [
+		35612.38,
+		34410.63
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"id": "7307"
+}

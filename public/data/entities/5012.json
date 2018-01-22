@@ -1,0 +1,223 @@
+{
+	"code": "5012",
+	"name": "St. Gabriel's Primary School",
+	"levels": "P",
+	"uen": " T07GS5012J",
+	"logo": "./Medias/Images/Schools/logos/tn_5012.jpg",
+	"website": "http://www.stgabrielspri.moe.edu.sg",
+	"address": "220, Lorong Chuan (556742)",
+	"telephone": [
+		"62803628"
+	],
+	"fax": [
+		"63820344"
+	],
+	"email": "STGPS@MOE.EDU.SG",
+	"mrt": [],
+	"bus": "73 , 105 , 105A , 159 ",
+	"GeneralInformation": {
+		"Principal": "Mrs Catherine Chiang",
+		"Vice Principal": [
+			"Mr Soh Kai Guan",
+			"Mr Keith Tan Chin Heng"
+		],
+		"School Vision": "A Gabrielite will be God-loving, disciplined, gracious, caring and a life-long learner.",
+		"School Mission": "Shaping Lives for Service to God and Nation.",
+		"School Philosophy, Culture and Ethos": [
+			"Core Belief: Loving Each Child as our Own",
+			"Established as part of the St. Gabriel's School in 1953, the school follows the footsteps of our founder, St. Louis Marie de Montfort, whose belief was to 'Love each child as a son of God'. Staff strives to love each child as our own. ",
+			"Educational Philosophy : Keeping the Flame Alive, The Gift is Theirs, Giving Pupils a Voice, The Community Connect",
+			"We are committed to truly educating the students by nurturing in them, the 'flame of inquiry' so that they will be prepared for a life of learning. A suite of effective academic programmes cater to the different learning needs, styles and interests of our pupils - the Inquiry Week, the Louis Marie de Montfort (LMM) class for the academically gifted, and bridging programmes for those who need the support. We believe that every child is 'gifted' and inspire them to discover their potential. A stable of co-curricular activities that is varied and interesting provides an exciting and immersive school experience for students. Each child is given a 'voice' so that they may learn to have a heart for others, through service to God and the nation. We provide opportunities for students to live out the school virtues of Self-discipline, Generosity, Perseverance, Sincerity, Loyalty, Orderliness, Respect and Diligence through opportunities to 'connect with the community'.",
+			"Motto : 'Labor Omnia Vincit' (Labour conquers all) ",
+			"The motto personifies the importance of giving one's best in all endeavours. It is our hope that each student will approach learning with passion and perseverance; that he will form lasting friendships and thus understand the meaning of loyalty, sincerity and fellowship; that he will become socially responsible citizens who would learn from the youngest age how to give of themselves for the greater good; that he will laugh and play and enjoy being a boy. Above all, he must always be mindful of God's grace and presence."
+		],
+		"Type of School": "Government-aided Sch / Boys' School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "St. Gabriel's Secondary School"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"Co-curricular Activities",
+		"English Language",
+		"Foundation English",
+		"Foundation Mathematics",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Football",
+			"Golf",
+			"Sports Club",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Band - Brass"
+		],
+		"Clubs & Societies": [
+			"Catholic Club",
+			"Robotics Club",
+			"Science & Horticulture & Math (Shm)"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Community Service & Student Leadership": "Montfortian Leadership Programme (MLP)"
+		},
+		"Special Student Development Programmes Offered": "Academic Learning"
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Commendation"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Commendation"
+				},
+				{
+					"year": "2016",
+					"category": "Band-Brass",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Brass",
+					"award": "Commendation"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Scout",
+					"award": "Bronze"
+				}
+			]
+		}
+	},
+	"postalCode": "556742",
+	"coordinates": [
+		103.862324,
+		1.3493373
+	],
+	"svy21": [
+		31228.01,
+		36828.47
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 150,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 110,
+		"No. of Applicants in Phase 1": 30,
+		"Places taken up to Phase 1": 30,
+		"Vacancy for Phase 2A1": 80,
+		"No. of Applicants in Phase 2A1": 4,
+		"Places taken up to Phase 2A1": 33,
+		"Vacancy for Phase 2A2": 77,
+		"No. of Applicants in Phase 2A2": 15,
+		"Places taken up to Phase 2A2": 48,
+		"Vacancy for Phase 2B": 51,
+		"No. of Applicants in Phase 2B": 25,
+		"Places taken up to Phase 2B": 71,
+		"Vacancy for Phase 2C": 79,
+		"No. of Applicants in Phase 2C": 57,
+		"Places taken up to Phase 2C": 128,
+		"Vacancy for Phase 2C Supplementary": 22,
+		"No. of Applicants in Phase 2C Supplementary": 37
+	},
+	"id": "5012"
+}

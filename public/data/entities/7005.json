@@ -1,0 +1,475 @@
+{
+	"code": "7005",
+	"name": "Geylang Methodist School (Secondary)",
+	"levels": "S",
+	"uen": " T07GS7005G",
+	"logo": "./Medias/Images/Schools/logos/tn_7005.jpg",
+	"website": "http://www.geylangmethodistsec.moe.edu.sg",
+	"address": "2, Geylang East Central (389705)",
+	"telephone": [
+		"67466503"
+	],
+	"fax": [
+		"67477317"
+	],
+	"email": "gmss@moe.edu.sg",
+	"mrt": [
+		"Aljunied MRT"
+	],
+	"bus": "40 , 62 , 63 , 80 , 100 , 125 , 134 , 153 , 155 , 158 , 180 ",
+	"GeneralInformation": {
+		"Principal": "Mr Wee Tat Chuen",
+		"Vice Principal": "Mr Eka Tanu",
+		"Vice Principal (Admin)": "Mdm Tan Sor Leng",
+		"School Vision": "Passionate Learners. Courageous Leaders. Caring Citizens.",
+		"School Mission": "With God's help, to be a beacon of light by connecting, nurturing and inspiring GeMS to make a difference.",
+		"School Philosophy, Culture and Ethos": "Founded in 1924, the School continues to stay true to its mission by developing passionate learners, courageous leaders and caring citizens who make a difference to the community.  We are a school where lives are connected and meaningful friendships are fostered. We create a caring and conducive environment for learning and teaching, where our students are inspired, lives are touched and ideas germinate and flourish, all for the purpose of making a positive influence or difference to the world around us.  We hope to see every student who graduate become useful members of society, grounded in sound moral principles.",
+		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": [
+			"Anglo-Chinese Junior College",
+			"Geylang Methodist School (Primary)"
+		]
+	},
+	"SubjectOffered": [
+		"Additional Mathematics",
+		"Art",
+		"Biology",
+		"Chemistry",
+		"Chinese",
+		"Combined Humanities (S,G)",
+		"Combined Humanities (S,H)",
+		"Combined Humanities (S,L)",
+		"Computer Applications",
+		"Design & Technology",
+		"Elements Of Business Skills",
+		"English Language",
+		"English Language (Syll A)",
+		"English Language (Syll T)",
+		"Exercise And Sports Science",
+		"Food & Nutrition",
+		"Food And Consumer Education",
+		"Food Studies, N Level",
+		"Geography",
+		"Higher Chinese",
+		"History",
+		"Literature(E)",
+		"Malay",
+		"Mathematics",
+		"Mathematics (Syllabus A)",
+		"Mathematics (Syllabus T)",
+		"Physics",
+		"Science (Chem, Bio)",
+		"Science (Phy, Chem)",
+		"Science (Syll T)"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Athletics",
+			"Badminton",
+			"Basketball",
+			"Football",
+			"Netball",
+			"Softball",
+			"Table Tennis",
+			"Ten-Pin Bowling",
+			"Volleyball"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Girl Guides",
+			"Girls' Brigade",
+			"Npcc"
+		],
+		"Visual and Performing Arts": [
+			"Band - Symphonic",
+			"Choir",
+			"Dance - Chinese",
+			"Drama - English"
+		],
+		"Clubs & Societies": [
+			"Board Games Club",
+			"Digital Media Club",
+			"Green Club",
+			"Media Resource Club",
+			"Multi - Media Society"
+		],
+		"Others": [
+			"House Appointment",
+			"Students' Council"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"STEM": "GeMs_Applied Learning Programme in Science",
+			"Community & Youth Leadership": "Nurturing Confident and Compassionate Leaders via Values-in-Action"
+		},
+		"Special Student Development Programmes Offered": "The school nurtures students' talents, interests, character and leadership qualities via a vibrant CCE curriculum and distinctive programmes, including a 4/5 years progressive Learning for Life Programme (LLP) in the area of Community and Youth Leadership. The LLP systematically equips students with critical inquiry skills, public-speaking skills and leadership competencies to prepare them for meaningful local and overseas Values-in-Action and service learning experiences.  The school also has an Applied Learning Programme (ALP) in Environmental Science and Sustainable Living.  We have vibrant CCA programmes spanning 21 CCAs, the Music, Art, Dance and Drama (MADD) enrichment programme and level camps for all students.  Through these, we develop all-round students who strive to contribute to our community."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2014": {
+				"Outstanding Development Award": "ODA (National Education)"
+			},
+			"2015": {
+				"Outstanding Development Award": "ODA (National Education)"
+			},
+			"2016": {
+				"Outstanding Development Award": "ODA (National Education)"
+			},
+			"2017": {
+				"Outstanding Development Award": "ODA (National Education)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "Girls' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"PsleAggregateHistory": [
+		{
+			"year": "2014",
+			"programme": "Express",
+			"lower": 221,
+			"upper": 241,
+			"lowerAffiliated": 195,
+			"upperAffiliated": 233
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Academic",
+			"lower": 170,
+			"upper": 195,
+			"lowerAffiliated": 153,
+			"upperAffiliated": 194
+		},
+		{
+			"year": "2014",
+			"programme": "Normal Technical",
+			"lower": 148,
+			"upper": 150,
+			"lowerAffiliated": 103,
+			"upperAffiliated": 154
+		},
+		{
+			"year": "2015",
+			"programme": "Express",
+			"lower": 225,
+			"upper": 237,
+			"lowerAffiliated": 195,
+			"upperAffiliated": 234
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Academic",
+			"lower": 179,
+			"upper": 199,
+			"lowerAffiliated": 153,
+			"upperAffiliated": 193
+		},
+		{
+			"year": "2015",
+			"programme": "Normal Technical",
+			"lower": 129,
+			"upper": 151,
+			"lowerAffiliated": 106,
+			"upperAffiliated": 151
+		},
+		{
+			"year": "2016",
+			"programme": "Express",
+			"lower": 223,
+			"upper": 237,
+			"lowerAffiliated": 195,
+			"upperAffiliated": 240
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Academic",
+			"lower": 174,
+			"upper": 196,
+			"lowerAffiliated": 153,
+			"upperAffiliated": 193
+		},
+		{
+			"year": "2016",
+			"programme": "Normal Technical",
+			"lower": 137,
+			"upper": 150,
+			"lowerAffiliated": 106,
+			"upperAffiliated": 149
+		},
+		{
+			"year": "2017",
+			"programme": "Express",
+			"lower": 224,
+			"upper": 246,
+			"lowerAffiliated": 195,
+			"upperAffiliated": 244
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Academic",
+			"lower": 182,
+			"upper": 198,
+			"lowerAffiliated": 152,
+			"upperAffiliated": 195
+		},
+		{
+			"year": "2017",
+			"programme": "Normal Technical",
+			"lower": 128,
+			"upper": 153,
+			"lowerAffiliated": 114,
+			"upperAffiliated": 151
+		}
+	],
+	"postalCode": "389705",
+	"coordinates": [
+		103.8826734,
+		1.3176708
+	],
+	"svy21": [
+		33492.71,
+		33326.92
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"id": "7005"
+}

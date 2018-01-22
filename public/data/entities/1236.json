@@ -1,0 +1,312 @@
+{
+	"code": "1236",
+	"name": "Peiying Primary School",
+	"levels": "P",
+	"uen": " T07GS1236K",
+	"logo": "./Medias/Images/Schools/logos/tn_1236.jpg",
+	"website": "http://www.peiyingpri.moe.edu.sg",
+	"address": "651, Yishun Ring Road (768687)",
+	"telephone": [
+		"62575684"
+	],
+	"fax": [
+		"67558802"
+	],
+	"email": "peiying_ps@moe.edu.sg",
+	"mrt": [
+		"Khatib MRT"
+	],
+	"bus": "851 , 852 , 853 , 854 , 855 ",
+	"GeneralInformation": {
+		"Principal": "Mr K Govindan",
+		"Vice Principal": "Mdm Josephine Ong Mrs Ng Hang Seng",
+		"Vice Principal (Admin)": "Mr Tommy Yang",
+		"School Vision": [
+			"A School with P.R.I.D.E. *",
+			"*Perseverance; Respect; Integrity; Diligence; Empathy"
+		],
+		"School Mission": "Building Character, Enriching Lives, Stretching Potential",
+		"School Philosophy, Culture and Ethos": [
+			"At Peiying Primary School, the underpinning philosophy of teaching and learning is the belief that every child can learn, improve and fulfil his potential to become contributing citizens. ",
+			"Central to the Peiying brand of education is the nurture of individuals who would be leaders of character, engaged and resilient learners and caring citizens. At Peiying Primary School, we look for the strengths in our students and we strive to help our students realise their full potential. Each child is respected as an individual and nurtured to grow and develop. Our students learn to give their best in all that they do, to persevere and to 'never give up'. The school focuses on character building and on the inculcation of values such as honesty and development of respect and care for the people around them.",
+			"Students of Peiying enjoy a wide variety of programmes that contribute to their holistic development. Student Development Programmes in the school are specially planned and designed to stretch the potential in each and every child to make learning at Peiying fun and meaningful."
+		],
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"English Language",
+		"Foundation English",
+		"Foundation Mathematics",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Netball",
+			"Sepak Takraw",
+			"Swimming",
+			"Volleyball"
+		],
+		"Uniformed Groups": [
+			"Brownies",
+			"Singapore Red Cross Society"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Choir",
+			"Dance - International",
+			"Ensemble - Angklung/Kulintang"
+		],
+		"Clubs & Societies": [
+			"Infocom Club",
+			"Library",
+			"Mathematics Society"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Sports & Outdoor Education": "Sports, Character Development and Adventure Learning Experiences @ Peiying (SCALE@PEIYING)"
+		},
+		"Special Student Development Programmes Offered": "Scale@Peiying: SCALE@Peiying is a 6-year Learning for Life Programme (LLP) that focuses on sports, character development and adventure learning. The LLP provides students with real-life experiential learning to develop their character and values, cultivate positive attitudes, self-expression and strengthen their interaction skills. Peiying has its own Adventure Tower that enables the school to carry out outdoor adventure activities regularly on the school premises. "
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2014",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Red Cross",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"postalCode": "768687",
+	"coordinates": [
+		103.8303003,
+		1.4174081
+	],
+	"svy21": [
+		27664.15,
+		44355.37
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"p1Registration": {
+		"Total Vacancy": 180,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 140,
+		"No. of Applicants in Phase 1": 53,
+		"Places taken up to Phase 1": 53,
+		"Vacancy for Phase 2A1": 87,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 53,
+		"Vacancy for Phase 2A2": 87,
+		"No. of Applicants in Phase 2A2": 16,
+		"Places taken up to Phase 2A2": 69,
+		"Vacancy for Phase 2B": 56,
+		"No. of Applicants in Phase 2B": 0,
+		"Places taken up to Phase 2B": 68,
+		"Vacancy for Phase 2C": 112,
+		"No. of Applicants in Phase 2C": 50,
+		"Places taken up to Phase 2C": 118,
+		"Vacancy for Phase 2C Supplementary": 62,
+		"No. of Applicants in Phase 2C Supplementary": 40
+	},
+	"id": "1236"
+}

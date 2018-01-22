@@ -1,0 +1,110 @@
+{
+	"code": "1264",
+	"name": "Riverside Primary School",
+	"levels": "P",
+	"uen": " T12GS0007G",
+	"logo": "./Medias/Images/Schools/logos/tn_1264.jpg",
+	"website": "http://www.riversidepri.moe.edu.sg",
+	"address": "110, Woodlands Crescent (737803)",
+	"telephone": [
+		"63654490"
+	],
+	"fax": [
+		"63654460"
+	],
+	"email": "riverside_ps@moe.edu.sg",
+	"mrt": [
+		"Admiralty MRT"
+	],
+	"bus": "Bus No 913 and Bus No 964",
+	"GeneralInformation": {
+		"Principal": "Mdm Boey Huey Peng Sharon",
+		"Vice Principal": "Mdm Khoo Phaik Hoon Regina",
+		"Vice Principal (Admin)": "Mdm Neo Bee Bee",
+		"School Vision": "The Best from Each, A Better Future for All - Riverside Primary School aspires to nurture Riverians as Joyful and Productive Learners and Connected Citizens of Good Character and bring out the best from each Riverian to lead, serve and contribute as a member of the community and the world. To achieve our vision, the school adopts a student-centric approach to know every child and grow every child in best ways possible and leverages people and partnerships to add value to the education process.",
+		"School Mission": "Inspire Learning, Nurture Character, Build Community - Riverside Primary School sees its purpose in inspiring engaged and deep learning, nurturing pupils in values, character and citizenship, and building a sense of identity and affiliation to the community and nation. The core business of education is conducted through a positive school tone of care, respect and discipline; a safe and health-promoting school environment; and a vibrant and stimulating learning space.",
+		"School Philosophy, Culture and Ethos": [
+			"Riverside Primary School holds strong beliefs that every child is unique and every child can learn. The work of the school and teachers is to provide a caring environment so that every child feels safe, healthy and valued. It is also to ensure the best possible conditions for every child to be engaged, supported and challenged, thus learning and growing to the best of his/her potential. ",
+			"The school educates not just for results; it educates for outcomes. The outcomes are to be seen in Riverians as Joyful and Productive Learners and Connected Citizens of Good Character who will SPARKLE with Strength of character, Perseverance, Adaptability, Responsibility, Kindness, Leadership, Enthusiasm and Sincerity.",
+			"The school recognises that people and partnerships are key to school and pupil success. The Confident, Competent, Caring and Committed Team Riverside works alongside our collaborative and supportive parents as well as partners with whom we have grown purposeful and sustainable partnerships in education.",
+			"The school motto \"Learning Together, Growing Together, Sparkling Together\" signifies that the school is a common social space for pupils to come together harmoniously to learn, grow and sparkle together.  ",
+			"The school fosters a culture that is rich with inclusiveness and affiliation (For Riverside and Riverians) and propelled by learning and excellence (From Good to Great)."
+		],
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"English Language",
+		"Health Education",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Interdisciplinary": "Playworks – Nurturing Critical and Inventive Thinkers"
+		},
+		"Special Student Development Programmes Offered": "The school's Applied Learning Programme, PlayWorks nurtures Riverians as critical and inventive thinkers and collaborative problem-solvers through play-and-design experiences using different tools and media. Pupils work in groups and apply the protocol \"Understand, Plan, Design, Build, Improvise\" to solve problems. Throughout the problem-solving process, pupils demonstrate the SPARKLE Values and practise communication, collaboration and reflection. At every grade level, there is a signature PlayWorks module, namely P1 LegoWorks, P2 LegoWorks, P3 PaperWorks and P4 ParkWorks. The PlayWorks protocol is also pervasively applied in English Language for writing, Science for inquiry and Art for artmaking.  "
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"Sports & Games Competition": [],
+			"SYF": [
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				}
+			],
+			"Best Unit Award": []
+		}
+	},
+	"postalCode": "737803",
+	"coordinates": [
+		103.801842,
+		1.4470473
+	],
+	"svy21": [
+		24497.19,
+		47632.76
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	],
+	"specialNeeds": [
+		"PD",
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 210,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 170,
+		"No. of Applicants in Phase 1": 101,
+		"Places taken up to Phase 1": 101,
+		"Vacancy for Phase 2A1": 69,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 101,
+		"Vacancy for Phase 2A2": 69,
+		"No. of Applicants in Phase 2A2": 2,
+		"Places taken up to Phase 2A2": 103,
+		"Vacancy for Phase 2B": 54,
+		"No. of Applicants in Phase 2B": 0,
+		"Places taken up to Phase 2B": 103,
+		"Vacancy for Phase 2C": 107,
+		"No. of Applicants in Phase 2C": 124,
+		"Places taken up to Phase 2C": 210
+	},
+	"id": "1264"
+}

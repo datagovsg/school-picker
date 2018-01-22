@@ -1,0 +1,426 @@
+{
+	"code": "0710",
+	"name": "Serangoon Junior College",
+	"levels": "J",
+	"uen": " T07GS0710K",
+	"logo": "./Medias/Images/Schools/logos/tn_0710.jpg",
+	"website": "http://www.srjc.moe.edu.sg",
+	"address": "1033, Upper Serangoon Road (534768)",
+	"telephone": [
+		"62850779"
+	],
+	"fax": [
+		"62825318"
+	],
+	"email": "srjc@moe.edu.sg",
+	"mrt": [
+		"Kovan MRT"
+	],
+	"bus": "25 , 55 , 80 , 81 , 82 , 85 , 97 , 101 , 107 , 111 , 112.113 , 119 , 132 , 136 , 153 ",
+	"GeneralInformation": {
+		"Principal": "Mr Manogaran S/o Suppiah",
+		"Vice Principal": [
+			"Mrs Koh Caiyu",
+			"Miss Wang Siew Ping"
+		],
+		"Vice Principal (Admin)": "Mdm Shirley Yong Wai Yee",
+		"School Vision": "Leaders and Learners driven by Values and Imagination",
+		"School Mission": [
+			"Inspiring all students to have",
+			"the passion to learn, the heart to serve and the courage to lead"
+		],
+		"Type of School": "Government School / Co-ed School / Full Day",
+		"Mother Tongue": "Not Available",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"H1 Biology",
+		"H1 Chemistry",
+		"H1 Chinese Language",
+		"H1 Economics",
+		"H1 General Paper",
+		"H1 Geography",
+		"H1 History",
+		"H1 Literature In English",
+		"H1 Malay Language",
+		"H1 Mathematics",
+		"H1 Physics",
+		"H1 Project Work",
+		"H1 Tamil Language",
+		"H2 Art",
+		"H2 Biology",
+		"H2 Chemistry",
+		"H2 Chinese Language & Literature",
+		"H2 Economics",
+		"H2 Further Mathematics",
+		"H2 Geography",
+		"H2 History",
+		"H2 Literature In English",
+		"H2 Malay Language & Literature",
+		"H2 Mathematics",
+		"H2 Physics",
+		"H2 Tamil Language & Literature"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Canoeing",
+			"Football (Boys)",
+			"Football (Girls)",
+			"Netball",
+			"Rockclimbing",
+			"Runners' Club",
+			"Taekwondo",
+			"Tennis",
+			"Track & Field",
+			"Ultimate Frisbee",
+			"Volleyball"
+		],
+		"Visual and Performing Arts": [
+			"Choir",
+			"Dance - Modern",
+			"Ensemble - Guitar",
+			"Ensemble - Guzheng",
+			"Photographic Society",
+			"Sr Drama",
+			"Symphonic Band"
+		],
+		"Clubs & Societies": [
+			"Ava Club",
+			"Community Champions Council",
+			"Icraft Club",
+			"Odac",
+			"Pilates",
+			"S*Star",
+			"Srjc Debates",
+			"Student Council"
+		]
+	},
+	"SpecialProgrammes": {
+		"Special Student Development Programmes Offered": "Camp ASPIRE:Advanced Student Leadership Programme;SR Global Classroom Experience:Educational Fieldtrips and Community Projects;Get REAL!:Reach out to the Environment,Aged and Less Fortunate"
+	},
+	"AchievementHistory": {
+		"Junior College": {
+			"2014": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2015": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2016": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2017": {
+				"Development Award": "DA (Character Development)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Canoeing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Canoeing",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "2nd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				}
+			],
+			"Best Unit Award": []
+		}
+	},
+	"L1R5History": [
+		{
+			"year": "2014",
+			"programme": "Arts",
+			"lower": 6,
+			"upper": 12
+		},
+		{
+			"year": "2014",
+			"programme": "Science/IB",
+			"lower": 4,
+			"upper": 11
+		},
+		{
+			"year": "2014",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2015",
+			"programme": "Arts",
+			"lower": 7,
+			"upper": 11
+		},
+		{
+			"year": "2015",
+			"programme": "Science/IB",
+			"lower": 7,
+			"upper": 11
+		},
+		{
+			"year": "2015",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2016",
+			"programme": "Arts",
+			"lower": 6,
+			"upper": 11
+		},
+		{
+			"year": "2016",
+			"programme": "Science/IB",
+			"lower": 6,
+			"upper": 11
+		},
+		{
+			"year": "2016",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2017",
+			"programme": "Arts",
+			"lower": 5,
+			"upper": 13
+		},
+		{
+			"year": "2017",
+			"programme": "Science/IB",
+			"lower": 5,
+			"upper": 12
+		},
+		{
+			"year": "2017",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		}
+	],
+	"postalCode": "534768",
+	"coordinates": [
+		103.8870388,
+		1.3650434
+	],
+	"svy21": [
+		33978.42,
+		38565.15
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	],
+	"id": "0710"
+}

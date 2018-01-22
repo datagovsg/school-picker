@@ -1,0 +1,294 @@
+{
+	"code": "1726",
+	"name": "Juying Primary School",
+	"levels": "P",
+	"uen": " T07GS1726D",
+	"logo": "./Medias/Images/Schools/logos/tn_1726.jpg",
+	"website": "http://www.juyingpri.moe.edu.sg/",
+	"address": "31, Jurong West Street 91 (649037)",
+	"telephone": [
+		"67932039"
+	],
+	"fax": [
+		"67932040"
+	],
+	"email": "JUYING_PS@MOE.EDU.SG",
+	"mrt": [
+		"Boon Lay MRT"
+	],
+	"bus": "SBS 99 (From Clementi Inter-change) SBS 241 (From Boon Lay Inter-change)",
+	"GeneralInformation": {
+		"Principal": "Mrs Sroya Jaswant",
+		"Vice Principal": [
+			"Mdm Siti Suhaila Bte Sapihe",
+			"Mdm Wong Wei Yi"
+		],
+		"School Vision": [
+			"A Bright Student ",
+			"A Talented Person",
+			"A Useful Citizen"
+		],
+		"School Mission": "Nurturing holistic and morally upright individuals to pursue excellence and rise to the challenges of the future",
+		"School Philosophy, Culture and Ethos": [
+			"Touching Hearts, Engaging Minds",
+			"Providing a quality education that develops our pupils holistically has always been the mission of Juying Primary School. We firmly believe that every child can learn and wants to learn. We touch hearts and engage minds. ",
+			"Besides providing a strong support for learning, Juying Primary stretches every child's potential by catering to the varied needs and interests of our pupils through a suite of well-designed and innovative programmes. Over the years, our pupils have consistently performed well in the academic and non-academic domains, garnering numerous awards at the Olympiads and accolades in the aesthetics and physical domains. Their success is due to the commitment of our caring teachers, hard work put in by the pupils, and strong support from the parents and stakeholders.",
+			"Caring Teachers, Aspiring Learners",
+			"Juying Primary has dedicated teachers who go the extra mile to show care and concern to their pupils. Immersed in the school's caring culture, our teachers build strong teacher-student relationships through which they motivate and encourage their pupils to be the best that they can be. A community of professionals, our teachers continuously deepen their expertise, taking pride in their work and profession. As they continue to learn, they pass on the love of learning to their pupils. Reaching out to every child, our teachers lead, care and inspire. ",
+			"Nurturing a Growth Mindset, Developing Grit ",
+			"In Juying, we are very keen to provide our students with the opportunities they need to develop a Growth Mindset during the critical and formative period of their lives. Backed by more than thirty years of scientific investigation, the school partners parents in cultivating a growth mindset in our charges so that they will be inspired to always put in their best effort, embrace challenges and never give up. Juying Primary is known to produce resilient pupils with grit."
+		],
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Co-curricular Activities",
+		"English Language",
+		"Foundation Chinese",
+		"Foundation English",
+		"Foundation Malay",
+		"Foundation Science",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Football",
+			"Taekwondo"
+		],
+		"Uniformed Groups": [
+			"Cadet Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Chinese Dance",
+			"Choir",
+			"Malay Dance",
+			"Percussion Ensemble"
+		],
+		"Clubs & Societies": [
+			"Infogreen Club",
+			"Robotics"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Community Service & Student Leadership": "Environmental Education"
+		},
+		"Special Student Development Programmes Offered": "Nurturing Curiosity, Instilling Empathy for the environment"
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"Sports & Games Competition": [
+				{
+					"year": "2017",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Brownies (Pack 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Brownies (Pack 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Brownies (Pack 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Scout",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Scout",
+					"award": "Bronze"
+				}
+			]
+		}
+	},
+	"postalCode": "649037",
+	"coordinates": [
+		103.6878728,
+		1.338951
+	],
+	"svy21": [
+		11813.46,
+		35680.47
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 150,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 110,
+		"No. of Applicants in Phase 1": 21,
+		"Places taken up to Phase 1": 21,
+		"Vacancy for Phase 2A1": 89,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 21,
+		"Vacancy for Phase 2A2": 89,
+		"No. of Applicants in Phase 2A2": 4,
+		"Places taken up to Phase 2A2": 25,
+		"Vacancy for Phase 2B": 63,
+		"No. of Applicants in Phase 2B": 0,
+		"Places taken up to Phase 2B": 24,
+		"Vacancy for Phase 2C": 126,
+		"No. of Applicants in Phase 2C": 19,
+		"Places taken up to Phase 2C": 42,
+		"Vacancy for Phase 2C Supplementary": 108,
+		"No. of Applicants in Phase 2C Supplementary": 30
+	},
+	"id": "1726"
+}

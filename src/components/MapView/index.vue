@@ -15,12 +15,12 @@ import PostalCodeControl from './PostalCodeControl'
 export default {
   name: 'MapView',
   props: {
-    schoolId: String,
+    entityId: String,
     hovered: String,
     selectedTab: String
   },
   computed: {
-    ...mapState(['schoolList', 'bookmarked', 'location']),
+    ...mapState(['entityList', 'bookmarked', 'location']),
     ...mapState({
       schoolLevel: state => state.schoolLevel.selected,
       homeSchoolDistance: state => state.homeSchoolDistance}
@@ -49,9 +49,9 @@ export default {
         return 'default'
       }
 
-      return this.schoolList.map(school => {
+      return this.entityList.map(school => {
         // If a school is selected, highlight the school and provide school details
-        if (school.id === this.schoolId) {
+        if (school.id === this.entityId) {
           return 'focused'
         } else if (this.selectedTab === '/bookmark') {
           if (this.bookmarked.indexOf(school.id) > -1) return 'bookmarked'
@@ -164,7 +164,7 @@ export default {
       permanent: true
     })
 
-    const markers = this.schoolList.map(school => {
+    const markers = this.entityList.map(school => {
       const [lng, lat] = school.coordinates
       return L.marker([lat, lng], {icon: L.divIcon()})
         .on('click', () => {
@@ -172,11 +172,11 @@ export default {
           else this.$emit('focus', school.id)
         })
         .on('mouseover', () => {
-          if (this.schoolId || Platform.is.mobile) return
+          if (this.entityId || Platform.is.mobile) return
           this.$emit('hover', school.id)
         })
         .on('mouseout', () => {
-          if (this.schoolId || Platform.is.mobile) return
+          if (this.entityId || Platform.is.mobile) return
           this.$emit('hover', null)
         })
         .addTo(this.map)
@@ -187,7 +187,7 @@ export default {
     let visibleMarkers = []
 
     function fitBounds () {
-      if (this.schoolId) return
+      if (this.entityId) return
       // const group = [...visibleMarkers]
       // if (homeMarker) group.push(homeMarker)
       // if (group.length > 0) this.map.fitBounds(L.featureGroup(group).getBounds())
@@ -221,7 +221,7 @@ export default {
     }, {immediate: true})
 
     this.$watch('hovered', function (hovered) {
-      this.schoolList.forEach((school, i) => {
+      this.entityList.forEach((school, i) => {
         if (school.id === this.hovered) {
           markers[i].bindTooltip(tooltip).setTooltipContent(school.name)
         } else {
@@ -257,9 +257,9 @@ export default {
       fitBounds.call(this)
     }, {immediate: true})
 
-    this.$watch('schoolId', function (id) {
+    this.$watch('entityId', function (id) {
       if (id) {
-        const [lng, lat] = this.schoolList.filter(school => school.id === id)[0].coordinates
+        const [lng, lat] = this.entityList.filter(school => school.id === id)[0].coordinates
         this.map.flyTo([lat, lng], 15)
         this.$emit('hover', id)
       } else {

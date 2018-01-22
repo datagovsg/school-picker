@@ -32,11 +32,10 @@
   "homepage": "https://github.com/yongjun21/datagovsg-school-picker#readme",
   "babel": {
     "presets": [
-      "es2015",
       "stage-2"
     ],
     "plugins": [
-      "transform-runtime"
+      "babel-plugin-transform-es2015-modules-commonjs"
     ]
   },
   "devDependencies": {
@@ -52,6 +51,8 @@
     "babel-watch": "^2.0.6",
     "css-loader": "^0.26.1",
     "extract-text-webpack-plugin": "^2.1.0",
+    "html2json": "^1.0.2",
+    "nearest-mrt": "^1.4.0",
     "node-sass": "^4.5.3",
     "sass-loader": "^4.1.1",
     "standard": "^8.6.0",

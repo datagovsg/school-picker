@@ -1,0 +1,191 @@
+{
+	"code": "1260",
+	"name": "Punggol View Primary School",
+	"levels": "P",
+	"uen": " T12GS0003A",
+	"logo": "./Medias/Images/Schools/logos/tn_1260.jpg",
+	"website": "http://www.punggolviewpri.moe.edu.sg",
+	"address": "9, Punggol Place (828845)",
+	"telephone": [
+		"6570 1588"
+	],
+	"fax": [
+		"6570 3680"
+	],
+	"email": "punggolview_ps@moe.edu.sg",
+	"mrt": [
+		"Punggol MRT"
+	],
+	"bus": "50 382",
+	"GeneralInformation": {
+		"Principal": "Dr Ang Wek Cheng",
+		"Vice Principal": "Mr Chua Chye Hock",
+		"Vice Principal (Admin)": "Mdm Lai Soo Hong",
+		"School Vision": [
+			"Confident Learners, Active Citizens",
+			"After 6 years in Punggol View, we want our students to become confident learenrs and active citizens. ",
+			"A Confident Learner is ",
+			"-Cognitively robust ",
+			"-Aesthetically aware",
+			"-Physically active",
+			"An Active Citizen is ",
+			"-Morally upright",
+			"-Emotionally adept",
+			"-Socially responsible",
+			"We want our students to strive to \"Do the Right Thing\" and\"Give of their Best\" for future learning, employment and citizenship."
+		],
+		"School Mission": [
+			"Touching Lives, Inspiring Future",
+			"To nurture the whole child through a values-based,holistic education in a caring and rich learning environment so that our students will become persons of character who are good and useful citizens of tomorrow. ",
+			"We want to provide strong fundamentals for Future Learning that includes:",
+			"- Nurturing sound values and social-emotional skills to develop character.",
+			"- Develop the love for Singapore for active citizenry."
+		],
+		"School Philosophy, Culture and Ethos": [
+			"We adopt the Starfish Story as our philosophy to guide us to make a difference in the lives of our students, staff and stakeholders.  Our motto \"Grow and Glow\" is an aspiration that as the school grows, it will glow in the community as a school of distinction.  ",
+			"We believe in nurturing the whole child by guiding our students to develop their moral, emotional, social, cognitive, aesthetic and physical (MESCAP) domains to the fullest so that they will become persons of character who are good and useful citizens of tomorrow.",
+			"We want our students to:   ",
+			"- Learn the subject disciplines comprising the Languages, Social Studies, the Arts and Physical Education, Mathematics and Science so as to build a strong foundation in literacy, numeracy, scientific and life skills for the future,  ",
+			"- Inculcate and cultivate values and social-emotional skills to develop moral character,  ",
+			"- Foster the emerging 21st Century Competencies so as to develop performance character, and  ",
+			"- Enrich our students' learning experiences especially in the areas of creativity, outdoor education, student leadership and talent development so as to meet their diverse needs and interests, and to realise their full potential.",
+			"We believe that we can do so by building a culture of care and learning in the school.  We provide a caring climate for our students to grow through positive teacher-student relationship and restorative practice to manage good behaviour and peer relationship.  We design a rigorous and sound school-based curriculum to foster the joy of learning and the drive for lifelong learning.  To further develop our students' talent and interest, our students are provided opportunities to experience the following key programmes, namely, creativity and play-based learning, outdoor education, and student life and leadership programme.",
+			"We will need to: (1) enhance our staff capacity and well-being and (2) collaborate with the home and community to bring out the best in every student."
+		],
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"English Language",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Floorball",
+			"Sports & Adventure Club",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Choir",
+			"Dance",
+			"Young Artist's Club"
+		],
+		"Clubs & Societies": [
+			"Service & Interact Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Sports & Outdoor Education": "Building Character through Outdoor Education"
+		},
+		"Special Student Development Programmes Offered": "Living Out our Values Every day (LOVE@PGVP)"
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"Sports & Games Competition": [
+				{
+					"year": "2017",
+					"category": "Rugby",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2016",
+					"category": "Scout",
+					"award": "Bronze"
+				},
+				{
+					"year": "2017",
+					"category": "Scout",
+					"award": "Silver"
+				}
+			]
+		}
+	},
+	"postalCode": "828845",
+	"coordinates": [
+		103.9054402,
+		1.4049905
+	],
+	"svy21": [
+		36026.18,
+		42982.42
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	],
+	"specialNeeds": [
+		"PD",
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 270,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 230,
+		"No. of Applicants in Phase 1": 121,
+		"Places taken up to Phase 1": 121,
+		"Vacancy for Phase 2A1": 109,
+		"No. of Applicants in Phase 2A1": 2,
+		"Places taken up to Phase 2A1": 122,
+		"Vacancy for Phase 2A2": 108,
+		"No. of Applicants in Phase 2A2": 1,
+		"Places taken up to Phase 2A2": 123,
+		"Vacancy for Phase 2B": 74,
+		"No. of Applicants in Phase 2B": 1,
+		"Places taken up to Phase 2B": 124,
+		"Vacancy for Phase 2C": 146,
+		"No. of Applicants in Phase 2C": 154,
+		"Places taken up to Phase 2C": 270
+	},
+	"id": "1260"
+}

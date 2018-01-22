@@ -14,7 +14,7 @@ const routes = [
   {path: '/intro', component: QuestionView},
   {path: '/explore', components: {default: MapView, aside: ListView, header: FilterView}},
   {path: '/bookmark', components: {default: MapView, aside: ListView}},
-  {path: '/detail/:schoolId', components: {default: MapView, aside: DetailView}, props: {default: true, aside: true}},
+  {path: '/detail/:entityId', components: {default: MapView, aside: DetailView}, props: {default: true, aside: true}},
   // {path: '/compare', component: CompareView},
   {path: '/*', redirect: '/intro'}
 ]

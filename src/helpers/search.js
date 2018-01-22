@@ -8,12 +8,12 @@ export function getData (featureExtractor, fields) {
   fields.forEach(field => {
     data[field] = {}
   })
-  const filenames = fs.readdirSync('public/data/schools/')
+  const filenames = fs.readdirSync('public/data/entities/')
     .filter(file => file.match(/\.json$/))
   filenames.forEach(filename => {
-    const school = require('../../public/data/schools/' + filename)
+    const entity = require('../../public/data/entities/' + filename)
     fields.forEach(field => {
-      data[field][school.id] = featureExtractor[field](school)
+      data[field][entity.id] = featureExtractor[field](entity)
     })
   })
   return data
@@ -132,7 +132,7 @@ export function documentFrequency (data, sortFunction) {
 export function documentMatch (data) {
   const result = {}
   Object.keys(data).forEach(doc => {
-    if (typeof data[doc] === 'string') {
+    if (data[doc] == null || typeof data[doc] === 'boolean' || typeof data[doc] === 'string') {
       const term = data[doc]
       result[term] = result[term] || []
       result[term].push(doc)

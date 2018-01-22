@@ -1,0 +1,524 @@
+{
+	"code": "5013",
+	"name": "St. Margaret's Primary School",
+	"levels": "P",
+	"uen": " T07GS5013E",
+	"logo": "./Medias/Images/Schools/logos/tn_5013.jpg",
+	"website": "http://www.stmargaretspri.moe.edu.sg",
+	"address": "99, Wilkie Road (228091)",
+	"telephone": [
+		"63394247"
+	],
+	"fax": [
+		"63394264"
+	],
+	"email": "STMARGARETPS@MOE.EDU.SG",
+	"mrt": [
+		"Little India MRT"
+	],
+	"bus": "64 , 65 , 65M , 85 , 97 , 103 , 111 , 131 , 139 ",
+	"GeneralInformation": {
+		"Principal": "Miss Pang Wee Mian",
+		"Vice Principal": "Mdm Alison Ang Siok Phing",
+		"Vice Principal (Admin)": "Ms Moey Kit Ming",
+		"School Vision": "A Community of Learners Growing and Glowing For God.",
+		"School Mission": "The school was established for the education and nurture of young girls, that each may develop in body, soul and spirit, and be trained in righteousness to become a woman of God, equipped for every good work.",
+		"School Philosophy, Culture and Ethos": [
+			"St Margaret's Primary School was founded in 1842 by Mrs Maria Dyer, a missionary of the London Missionary Society. It is the oldest girls' school in Singapore and the Far East. Today, even as the school aims to equip her pupils with skills and competencies for the global economy of the 21st century, this will be done based on the foundation of the school vision, mission and values.  The school believes that it will achieve its goals through nurturing girls of character, striving for excellence in academic and non-academic areas, building competent staff and developing strong partnership with our key stakeholders and the larger community. ",
+			"The school places a priority on staff development and staff engagement, and aims to be a vibrant Professional Learning Community.  Multiple platforms have been put in place to facilitate professional development and sharing, and conversation with staff. ",
+			"The St. Margaret's Ex-Students Association (SMESA) was officially registered on 19 December 1961.  It serves to strengthen ties among our ex-students and between past and present pupils of the school. In 2004, the Youth Wing was formed to enable the ex-students of the school to maintain contact with the school by joining the Alumni activities on an informal basis.  Annually, SMESA organizes the St Margaret's Day Dinner, which brings together all ex-students of the St Margaret's family. ",
+			"The St. Margaret's Parents Teachers Association (PTA) was registered on 24 December 1980 and continues to provide strong support to the school. It organizes and supports various school programmes, one of which is its annual Green Dot Event. This event aims to bring together the families represented in the school for a time of bonding.  ",
+			"Chapel of Christ the King supports the school by running the spiritual programme of the school.  They help to reinforce the values promoted by the school through sharing of bible stories, camps and other recess activities."
+		],
+		"Type of School": "Government-aided Sch / Girls' School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "St. Margaret's Secondary School"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"English Language",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Netball Training Squad",
+			"Ten-Pin Bowling",
+			"Tennis"
+		],
+		"Uniformed Groups": [
+			"Brownies",
+			"Girls' Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Choir",
+			"Dance - Chinese",
+			"Dance - International",
+			"Ensemble - Harmonica"
+		],
+		"Clubs & Societies": [
+			"Infocom Club/Ava"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Music & Performing Arts": "Dance A.L.I.V.E!: Dance for Agility, Life, Ingenuity, Versatility and Expression",
+			"Sports & Outdoor Education": [
+				"Sports A. C",
+				null,
+				". E: Sports for All; Sports for Continuity & Character; Sports for Excellence"
+			]
+		},
+		"Special Student Development Programmes Offered": "To enable every SMPS pupil to be an engaged and values-centred learner, the school has in place a robust instructional programme that has enabled it to help pupils achieve good PSLE results, equal to or above those of her comparable schools. This is complemented by a wide range of enrichment programmes, learning journeys and CCAs, of which two are recognised as niche of excellence (Netball) and Learning for Life Programme (Dance). The school works closely with Chapel of Christ the King, Singapore Anglican Community Services and other community partners to provide wide opportunities for a holistic education for pupils. From our surveys of P1 parents, many have chosen SMPS because of her Character Development Program. This augers well for the school's intention to position itself to be known as one that nurtures confident girls with character who aim to contribute to society"
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": "DA (Character Development)",
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"2015": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2016": {
+				"Development Award": "DA (Character Development)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2014",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2014",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'D' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2015",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Harmonica",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Harmonica",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Harmonica",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Harmonica",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Brownies (Pack 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2014",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Brownies (Pack 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2015",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2016",
+					"category": "Brownies (Pack 1)",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"postalCode": "228091",
+	"coordinates": [
+		103.8462744,
+		1.3037756
+	],
+	"svy21": [
+		29441.9,
+		31790.47
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 210,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 170,
+		"No. of Applicants in Phase 1": 59,
+		"Places taken up to Phase 1": 59,
+		"Vacancy for Phase 2A1": 111,
+		"No. of Applicants in Phase 2A1": 6,
+		"Places taken up to Phase 2A1": 65,
+		"Vacancy for Phase 2A2": 105,
+		"No. of Applicants in Phase 2A2": 18,
+		"Places taken up to Phase 2A2": 83,
+		"Vacancy for Phase 2B": 64,
+		"No. of Applicants in Phase 2B": 32,
+		"Places taken up to Phase 2B": 111,
+		"Vacancy for Phase 2C": 99,
+		"No. of Applicants in Phase 2C": 111,
+		"Places taken up to Phase 2C": 210
+	},
+	"id": "5013"
+}

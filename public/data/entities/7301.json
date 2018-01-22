@@ -1,0 +1,393 @@
+{
+	"code": "7301",
+	"name": "Marymount Convent School",
+	"levels": "P",
+	"uen": " T07GS7301G",
+	"logo": "./Medias/Images/Schools/logos/tn_7301.jpg",
+	"website": "http://www.marymountconvent.moe.edu.sg",
+	"address": "20, Marymount Road (297754)",
+	"telephone": [
+		"6256 6701",
+		"62566532"
+	],
+	"fax": [
+		"62543080"
+	],
+	"email": "MMCS@MOE.EDU.SG",
+	"mrt": [
+		"Braddell MRT",
+		"Caldecott MRT"
+	],
+	"bus": "141 , 235 ",
+	"GeneralInformation": {
+		"Principal": "Mrs Allison Lim",
+		"Vice Principal": [
+			"Mdm Lynette Fernandez",
+			"Mdm Lee Swee Mei Cheryl"
+		],
+		"Vice Principal (Admin)": "Mdm Christina Tee Siew Ping",
+		"School Vision": "Ladies of compassion, eloquence and intellect with GOD as our shepherd",
+		"School Mission": "We are committed to reaching out with compassion and respect and empowering each person to develop her full potential holistically.",
+		"School Philosophy, Culture and Ethos": [
+			"At Marymount, we take direction from our foundress, St Mary Euphrasia, whom we acknowledge as one of the earliest proponents of student-centricity when she espoused that \"One Person is of More Value than the Whole World\". ",
+			"As a school, we put the child at the centre of all we do as we strive to cater to the needs of our pupils and develop them holistically. We offer a rigorous academic curriculum that is complemented by a comprehensive and values-driven co-curricular programme. Taken collectively, both aim to equip our pupils with the necessary skills, attributes and 21st century competencies to not only survive but thrive when they leave school."
+		],
+		"Type of School": "Government-aided Sch / Girls' School / Single Session",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Civics & Moral Education",
+		"Co-curricular Activities",
+		"English Language",
+		"Foundation Chinese",
+		"Foundation English",
+		"Foundation Malay",
+		"Foundation Mathematics",
+		"Foundation Science",
+		"Foundation Tamil",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Artistic Gymnastics",
+			"Netball",
+			"Rhythmic Gymnastics",
+			"Tennis"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Chinese Dance Club",
+			"Choir",
+			"Drama Club",
+			"Modern Dance Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Sports & Outdoor Education": "Sports Excellence (SPEX) @ Marymount",
+			"Music & Performing Arts/ Visual Arts & Design": "Grooming Cultured and Refined Ladies through the Aesthetics"
+		},
+		"Special Student Development Programmes Offered": "We aim to raise our daughters of Marymount by developing them cognitively, physically, socially and morally to be future-ready. Some of our school's signature programmes are outlined below:"
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Sustained Achievement Award": "SAA (Aesthetics)"
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2014",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2014",
+					"category": "Gymnastics (Rhythmic)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2015",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Taekwondo",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2015",
+					"category": "Gymnastics (Rhythmic)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2015",
+					"category": "Gymnastics (Rhythmic)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2016",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2016",
+					"category": "Gymnastics (Rhythmic)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2016",
+					"category": "Gymnastics (Rhythmic)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Gymnastics (Rhythmic)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2017",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2014",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2015",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2016",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": []
+		}
+	},
+	"postalCode": "297754",
+	"coordinates": [
+		103.8397516,
+		1.3402767
+	],
+	"svy21": [
+		28715.96,
+		35826.57
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	],
+	"specialNeeds": [
+		"PD",
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 210,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 170,
+		"No. of Applicants in Phase 1": 48,
+		"Places taken up to Phase 1": 48,
+		"Vacancy for Phase 2A1": 122,
+		"No. of Applicants in Phase 2A1": 1,
+		"Places taken up to Phase 2A1": 49,
+		"Vacancy for Phase 2A2": 121,
+		"No. of Applicants in Phase 2A2": 9,
+		"Places taken up to Phase 2A2": 57,
+		"Vacancy for Phase 2B": 77,
+		"No. of Applicants in Phase 2B": 10,
+		"Places taken up to Phase 2B": 67,
+		"Vacancy for Phase 2C": 143,
+		"No. of Applicants in Phase 2C": 72,
+		"Places taken up to Phase 2C": 139,
+		"Vacancy for Phase 2C Supplementary": 71,
+		"No. of Applicants in Phase 2C Supplementary": 55
+	},
+	"id": "7301"
+}

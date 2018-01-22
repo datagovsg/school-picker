@@ -1,0 +1,255 @@
+{
+	"code": "1750",
+	"name": "Unity Primary School",
+	"levels": "P",
+	"uen": " T07GS1750K",
+	"logo": "./Medias/Images/Schools/logos/tn_1750.jpg",
+	"website": "http://www.unitypri.moe.edu.sg",
+	"address": "21, Choa Chu Kang Crescent (688268)",
+	"telephone": [
+		"67676750"
+	],
+	"fax": [
+		"67676751"
+	],
+	"email": "UNITY_PS@MOE.EDU.SG",
+	"mrt": [
+		"Yew Tee MRT"
+	],
+	"bus": "TIBs 302",
+	"GeneralInformation": {
+		"Principal": "Mrs Jasmail Singh Gill",
+		"Vice Principal": [
+			"Mr Koh Peng Yeow",
+			"Mdm Lee Suet Fong"
+		],
+		"School Vision": "Creative Minds, Caring Hearts",
+		"School Mission": "We shall nurture our pupils to be responsible individuals of integrity who respect others and have a passion for learning.",
+		"School Philosophy, Culture and Ethos": [
+			"We anchor our beliefs on growing the school 'from good to great' and structure our school processes through the UPS School Management Model which reflects the four principles of Quality Relationships, Building Capacity, Effective Leadership and Effective Systems. Guided by our philosophy of 'Everyone Matters', we strive to provide all students with our very own Unity experience, where we believe that all children can learn and are committed to achieving success.",
+			"Our commitment is to ensure that quality teaching and learning are the focus both in and out of classrooms. Through our CORE values of IC2R (Integrity, Courage, Respect and Responsibility), we guide our students to develop the foundations for lifelong learning, and also provide an educational experience that is both student centric and values driven. Over the years, our students have done well and their success is due to the hard work of a nurturing team of dedicated teachers and supportive parents. ",
+			"Teamwork amongst staff is also our strength and it defines our work at Unity Primary. We have a strong team in place and with a shared commitment, we continue to make great things possible for all our students. Our belief that Everyone Matters is our cornerstone and this experience will be wholesome, enriching and joyful, whereby we seek to nurture every student and staff to achieve our vision of Creative Minds, Caring Hearts."
+		],
+		"Type of School": "Government School / Co-ed School / Single Session",
+		"Mother Tongue": "Chinese / Malay",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"Co-curricular Activities",
+		"English Language",
+		"Foundation Chinese",
+		"Foundation English",
+		"Foundation Malay",
+		"Foundation Mathematics",
+		"Foundation Science",
+		"Health Education",
+		"Higher Chinese",
+		"Higher Malay",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Physical Education",
+		"Science",
+		"Social Studies"
+	],
+	"Cca": {},
+	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Languages": "CAPtivate! – Critical Thinking Accelerated Programme @ UPS",
+			"Community Service & Student Leadership": "CharGE UP! (Character Development through Green & Experiential Learning @ Unity Primary)"
+		},
+		"Special Student Development Programmes Offered": "We believe that academic pursuits and character building are complementary in nature and equally important in the holistic development of our students."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"2015": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"Sports & Games Competition": [
+				{
+					"year": "2014",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2016",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2014",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2014",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2015",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2016",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
+				}
+			],
+			"Best Unit Award": [
+				{
+					"year": "2014",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2015",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2016",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2017",
+					"category": "Scout",
+					"award": "Gold"
+				}
+			]
+		}
+	},
+	"postalCode": "688268",
+	"coordinates": [
+		103.7470193,
+		1.4028227
+	],
+	"svy21": [
+		18396.1,
+		42742.77
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	],
+	"specialNeeds": [
+		"Mild SEN"
+	],
+	"studentCare": true,
+	"p1Registration": {
+		"Total Vacancy": 210,
+		"Vacancies Reserved for Phase 2B and 2C": 40,
+		"Vacancy for Phase 1": 170,
+		"No. of Applicants in Phase 1": 95,
+		"Places taken up to Phase 1": 95,
+		"Vacancy for Phase 2A1": 75,
+		"No. of Applicants in Phase 2A1": 0,
+		"Places taken up to Phase 2A1": 95,
+		"Vacancy for Phase 2A2": 75,
+		"No. of Applicants in Phase 2A2": 9,
+		"Places taken up to Phase 2A2": 104,
+		"Vacancy for Phase 2B": 53,
+		"No. of Applicants in Phase 2B": 0,
+		"Places taken up to Phase 2B": 104,
+		"Vacancy for Phase 2C": 106,
+		"No. of Applicants in Phase 2C": 95,
+		"Places taken up to Phase 2C": 198,
+		"Vacancy for Phase 2C Supplementary": 12,
+		"No. of Applicants in Phase 2C Supplementary": 6
+	},
+	"id": "1750"
+}
