@@ -59,7 +59,7 @@
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.1",
     "vue-loader": "^10.3.0",
-    "vue-template-compiler": "^2.2.6",
+    "vue-template-compiler": "2.2.6",
     "webpack": "^2.2.1",
     "webpack-dev-server": "^2.4.2"
   },
@@ -75,7 +75,7 @@
     "node-fetch": "^1.6.3",
     "quasar-framework": "^0.13.6",
     "sg-heatmap": "^2.5.7",
-    "vue": "^2.2.6",
+    "vue": "2.2.6",
     "vue-router": "^2.3.1",
     "vuex": "^2.2.1",
     "whatwg-fetch": "^2.0.2"

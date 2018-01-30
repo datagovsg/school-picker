@@ -29,6 +29,7 @@ export default {
 
     // Set styling of marker depending on settings
     visibleSchools () {
+      const {filtered, suggested, bookmarked, entityId, selectedTab} = this
       const {oneKm, twoKm} = this.homeSchoolDistance
       const location = this.location && toSVY21(this.location)
 
@@ -49,19 +50,19 @@ export default {
         return 'default'
       }
 
-      return this.entityList.map(school => {
+      return this.entityList.map((school, i) => {
         // If a school is selected, highlight the school and provide school details
-        if (school.id === this.entityId) {
+        if (school.id === entityId) {
           return 'focused'
-        } else if (this.selectedTab === '/bookmark') {
-          if (this.bookmarked.indexOf(school.id) > -1) return 'bookmarked'
+        } else if (selectedTab === '/bookmark') {
+          if (bookmarked.indexOf(school.id) > -1) return 'bookmarked'
         } else {
-          if (this.filtered.indexOf(school.id) > -1) {
-            if (this.bookmarked.indexOf(school.id) > -1) return 'bookmarked'
+          if (filtered[i]) {
+            if (bookmarked.indexOf(school.id) > -1) return 'bookmarked'
             return getMarkerLabel(school)
           }
-          if (this.suggested.indexOf(school.id) > -1) {
-            if (this.bookmarked.indexOf(school.id) > -1) return 'bookmarked'
+          if (suggested[i]) {
+            if (bookmarked.indexOf(school.id) > -1) return 'bookmarked'
             return 'suggested'
           }
         }

@@ -16,7 +16,7 @@ const multiInputs = [
 
 export function getFiltered (state, getters) {
   return state.entityList
-    .filter(school => {
+    .map(school => {
       let match = true
       if (state.schoolLevel.selected) {
         const selected = state.schoolLevel.selected
@@ -69,11 +69,10 @@ export function getFiltered (state, getters) {
       }
       return match
     })
-    .map(school => school.id)
 }
 
 export function getSuggested (state, getters) {
-  return []
+  return state.entityList.map(school => false)
 }
 
 export function importOptions (context, query) {
