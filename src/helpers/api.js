@@ -1,4 +1,4 @@
-import fetch from 'node-fetch'
+import axios from 'axios'
 
 let onemapToken
 fetchOnemapToken()
@@ -19,7 +19,7 @@ export function onemapApi (cb) {
 
 function fetchOnemapToken () {
   const url = 'https://developers.onemap.sg/publicapi/publicsessionid'
-  return fetch(url).then(res => res.json()).then(json => {
+  return axios.get(url).then(res => res.data).then(json => {
     onemapToken = json.access_token
     console.log('Using OneMap access token:', onemapToken)
     return onemapToken

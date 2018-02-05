@@ -1,3 +1,4 @@
+import axios from 'axios'
 import {optionsSelected} from 'helpers/util'
 import {capitalize} from 'helpers/text'
 
@@ -19,10 +20,10 @@ export const homeSchoolDistance = {
       let url = window.location.origin + '/nearby-school'
       if (postalCode && blkNo) {
         url += `?postalcode=${postalCode}&hbn=${blkNo}`
-        return window.fetch(url)
-          .then(res => res.json())
+        return axios.get(url)
+          .then(res => res.data)
           .then(json => context.commit('setData', json.result))
-          .catch(err => console.error(err))
+          .catch(console.error)
       }
     }
   }

@@ -1,10 +1,10 @@
-import fetch from 'node-fetch'
+import axios from 'axios'
 import {html2json} from 'html2json'
 
 export function scrapSpecialNeeds () {
   const url = 'https://www.moe.gov.sg/education/programmes/resources-to-support-mainstream-students-with-special-needs'
-  return fetch(url, {headers: {'Accept-Encoding': 'gzip,deflate'}})
-    .then(res => res.text())
+  return axios.get(url, {responseType: 'text'})
+    .then(res => res.data)
     .then(html => {
       html = html.replace(/\r?\n|\r/g, '').replace(/>\s+</g, '><')
 
@@ -51,8 +51,8 @@ function parseSpecialNeeds ([handicap, ...tables]) {
 
 export function scrapStudentCare () {
   const url = 'http://sis.moe.gov.sg/Pages/SchoolUpdates/SchoolBasedStudentCareCentres.aspx'
-  return fetch(url, {headers: {'Accept-Encoding': 'gzip,deflate'}})
-    .then(res => res.text())
+  return axios.get(url, {responseType: 'text'})
+    .then(res => res.data)
     .then(html => {
       const table = html
         .replace(/\r?\n|\r/g, '').replace(/>\s+</g, '><')
@@ -73,8 +73,8 @@ function parseStudentCare (table) {
 
 export function scrapRelocatedSchools () {
   const url = 'http://sis.moe.gov.sg/Pages/SchoolUpdates/RelocatedSchools.aspx'
-  return fetch(url, {headers: {'Accept-Encoding': 'gzip,deflate'}})
-    .then(res => res.text())
+  return axios.get(url, {responseType: 'text'})
+    .then(res => res.data)
     .then(html => {
       const table = html
         .replace(/\r?\n|\r/g, '').replace(/>\s+</g, '><')
@@ -108,8 +108,8 @@ function parseRelocatedSchools (table) {
 
 export function scrapMergerSchools () {
   const url = 'http://sis.moe.gov.sg/Pages/SchoolUpdates/MergerSchools.aspx'
-  return fetch(url, {headers: {'Accept-Encoding': 'gzip,deflate'}})
-    .then(res => res.text())
+  return axios.get(url, {responseType: 'text'})
+    .then(res => res.data)
     .then(html => {
       const table = html
         .replace(/\r?\n|\r/g, '').replace(/>\s+</g, '><')
@@ -143,8 +143,8 @@ function parseMergerSchools (table) {
 
 export function scrapNewSchools () {
   const url = 'http://sis.moe.gov.sg/Pages/SchoolUpdates/NewSchools.aspx'
-  return fetch(url, {headers: {'Accept-Encoding': 'gzip,deflate'}})
-    .then(res => res.text())
+  return axios.get(url, {responseType: 'text'})
+    .then(res => res.data)
     .then(html => {
       const table = html
         .replace(/\r?\n|\r/g, '').replace(/>\s+</g, '><')
@@ -167,8 +167,8 @@ function parseNewSchools (table) {
 
 export function scrapVacancies () {
   const url = 'https://www.moe.gov.sg/admissions/primary-one-registration/vacancies'
-  return fetch(url, {headers: {'Accept-Encoding': 'gzip,deflate'}})
-    .then(res => res.text())
+  return axios.get(url, {responseType: 'text'})
+    .then(res => res.data)
     .then(html => {
       const tables = html
         .replace(/\r?\n|\r/g, '').replace(/>\s+</g, '><')

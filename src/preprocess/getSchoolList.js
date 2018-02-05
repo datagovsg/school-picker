@@ -1,5 +1,5 @@
 import fs from 'fs'
-import fetch from 'node-fetch'
+import axios from 'axios'
 
 const url = 'http://sis.moe.gov.sg/WebServices/SchoolService.asmx/getChosenSchoolByEducationLevel'
 
@@ -15,8 +15,8 @@ const levels = ['P', 'S', 'J', 'F', 'T']
 
 const apiCalls = levels.map(level => {
   const body = JSON.stringify({educationLevel: level})
-  return fetch(url, Object.assign({body}, options))
-    .then(res => res.json())
+  return axios.get(url, Object.assign({body}, options))
+    .then(res => res.data)
     .then(json => json.d)
     .then(JSON.parse)
     .then(data => data.map(d => ({code: d.schoolCode, name: d.name})))

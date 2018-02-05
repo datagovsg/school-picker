@@ -1,7 +1,6 @@
+import axios from 'axios'
 import express from 'express'
 import compression from 'compression'
-import fetch from 'node-fetch'
-import querystring from 'querystring'
 import path from 'path'
 import fallback from 'express-history-api-fallback'
 
@@ -19,10 +18,10 @@ app.use(express.static(root))
 
 app.get('/nearby-school', function (req, res) {
   function getNearbySchools (token) {
-    const query = Object.assign({token}, req.query)
-    const url = 'https://developers.onemap.sg/publicapi/schooldataAPI/querySchools?' + querystring.stringify(query)
-    return fetch(url)
-      .then(res => res.json())
+    const params = Object.assign({token}, req.query)
+    const url = 'https://developers.onemap.sg/publicapi/schooldataAPI/querySchools'
+    return axios.get(url, {params})
+      .then(res => res.data)
       .then(json => {
         if (json.error) throw new Error(json.error)
         const results = json.SearchResults

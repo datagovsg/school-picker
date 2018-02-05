@@ -1,4 +1,4 @@
-import fetch from 'node-fetch'
+import axios from 'axios'
 import {html2json} from 'html2json'
 
 const parsers = {
@@ -13,8 +13,8 @@ const parsers = {
 
 export default function scrap (endpoint, options) {
   const url = getUrl(endpoint, options)
-  return fetch(url, {headers: {'Accept-Encoding': 'gzip,deflate'}})
-    .then(res => res.text())
+  return axios.get(url, {responseType: 'text'})
+    .then(res => res.data)
     .then(html => {
       const body = html
         .replace(/\r?\n|\r/g, '')

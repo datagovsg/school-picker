@@ -1,5 +1,5 @@
 import fs from 'fs'
-import fetch from 'node-fetch'
+import axios from 'axios'
 import {CustomHeatmap} from '../helpers/geospatial'
 import {onemapApi} from '../helpers/api'
 
@@ -14,10 +14,10 @@ export function geocode () {
   const apiCalls = {
     delay: 50,
     queue: Promise.resolve(),
-    push (url) {
+    push (url, options) {
       this.queue = this.queue.then(() => {
         return new Promise((resolve, reject) => {
-          setTimeout(resolve, this.delay, fetch(url))
+          setTimeout(resolve, this.delay, axios.get(url, options))
         })
       })
       return this.queue
@@ -28,10 +28,14 @@ export function geocode () {
 
   Promise.all(filenames.map(filename => {
     let school = require('../../data/raw/' + filename)
-    const searchVal = 'https://developers.onemap.sg/commonapi/search?searchVal=' +
-      school.postalCode + '&returnGeom=Y&getAddrDetails=Y&pageNum=1'
-    return apiCalls.push(searchVal)
-      .then(res => res.json())
+    return apiCalls.push('https://developers.onemap.sg/commonapi/search', {
+      params: {
+        searchVal: school.postalCode,
+        returnGeom: 'Y',
+        getAddrDetails: 'Y',
+        pageNum: 1
+      }
+    }).then(res => res.data)
       .then(json => {
         const match = json.results.find(address =>
           normalize(school.name) === normalize(address.BUILDING))
@@ -59,7 +63,7 @@ function normalize (str) {
 export function getPrimarySchoolLocations () {
   function fetchSchools (token) {
     const url = 'https://developers.onemap.sg/publicapi/schooldataAPI/retrieveAllSchools?token=' + token
-    return fetch(url).then(res => res.json()).then(json => {
+    return axios.get(url).then(res => res.data).then(json => {
       if (!('SearchResults' in json)) throw new Error()
       return json.SearchResults.slice(1)
     })

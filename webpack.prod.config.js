@@ -3,7 +3,11 @@ var webpack = require('webpack')
 var ExtractTextPlugin = require('extract-text-webpack-plugin')
 
 module.exports = {
-  entry: ['./src/style/base.styl', './src/index.js'],
+  entry: [
+    'babel-polyfill',
+    './src/style/base.styl',
+    './src/entry.client.js'
+  ],
   output: {
     path: path.join(__dirname, '/public'),
     publicPath: '/',
