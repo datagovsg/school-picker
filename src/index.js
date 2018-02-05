@@ -1,5 +1,3 @@
-import 'babel-polyfill'
-import 'whatwg-fetch'
 import Vue from 'vue'
 import Quasar, {Loading, Platform, LocalStorage} from 'quasar-framework'
 

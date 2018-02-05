@@ -75,7 +75,6 @@ export default {
   border-radius: 5px;
   overflow-y: hidden;
 
-
   @media (max-width: 920px) {
     min-width: 100vw;
   }
