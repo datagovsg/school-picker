@@ -13,7 +13,8 @@
     "babel": "mkdir -p dist/ && babel src/server.js -o dist/server.js && babel src/helpers/ -d dist/helpers/",
     "webpack": "webpack --config ./webpack.prod.config.js --colors --progress",
     "deploy": "docker build -t yongjun21/datagovsg-school-picker . && heroku container:push web",
-    "test": "standard src/**/*.js"
+    "test": "standard src/**/*.js",
+    "install": "find ./node_modules/* -mtime +10950 -exec touch {} \\;"
   },
   "repository": {
     "type": "git",

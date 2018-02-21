@@ -6,7 +6,7 @@ fetchOnemapToken()
 export function onemapApi (cb) {
   if (onemapToken) {
     return cb(onemapToken).catch(err => {
-      if (err.message === 'Your token has expired!') {
+      if (err.response && err.response.data.error === 'Your token has expired!') {
         onemapToken = null
         return onemapApi(cb)
       }
