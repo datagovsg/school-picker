@@ -23,10 +23,11 @@
 			"MRS CHIN-LEOW BEE KUAN",
 			"DR CHUNG WEN CHEE",
 			"DR YEO HWEE JOO",
-			"DR LIM HONG SENG MELVYN"
+			"DR LIM HONG SENG MELVYN",
+			"MR TAN PHENG TIONG"
 		],
 		"School Vision": "Empowering our students to Live with Passion and Lead with Compassion.",
-		"School Mission": "We nurture leaders in Research, Industry and Government to serve our nation.",
+		"School Mission": "We nurture Leaders in Research, Industry and Government to serve our nation.",
 		"School Philosophy, Culture and Ethos": "Hwa Chong Institution's (HCI) mission is to nurture leaders for the nation: leaders with a heart to serve the community.  To date, HCI has produced 56 President's Scholars.  Indeed, Hwa Chong is more than a school that produces top scholars. We also want our students to embrace the values of hard work, integrity, passion, and compassion.  All our students receive a sustained character education which encourages them to work with the community through local and global service-learning initiatives.  At Hwa Chong, students approach life with passion. The school provides a caring environment that is intellectually stimulating, secure, and joyful. It offers a curiosity-driven 6-year Integrated Programme (IP). Drawing from the best of East and West, HCI has an extensive global network that links our students to leading universities and industry partners. Working closely with industry captains and professors, students are encouraged to pursue multidisciplinary interests.  Each year, our students go on to leading institutions for their undergraduate study, with a strong entry to some of the world's best universities.  All Hwa Chong students are also committed to serving society.  Hwa Chong prides itself on grooming servant leaders who display civic responsibility and empathy.  Annually, Hwa Chong students provide support and companionship to the underprivileged. Beyond offering assistance, many have partnered key welfare organisations to helm innovative Values-in-Action projects.  As active contributors to civil society, Hwa Chong students have reached out to communities, both locally  and  overseas, through various student-led projects. These projects often mark the beginning of a long-term commitment of service to the community.",
 		"Type of School": "INDEPENDENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"IP Partner Schools": "NANYANG GIRLS' HIGH SCHOOL",
@@ -43,6 +44,7 @@
 		"HIGHER CHINESE",
 		"HISTORY",
 		"INTEGRATED MATHEMATICS",
+		"LITERATURE IN CHINESE",
 		"LITERATURE(E)",
 		"MALAY (SPECIAL PROGRAMME)",
 		"MATHEMATICS",
@@ -50,7 +52,48 @@
 		"PHYSICAL EDUCATION",
 		"PHYSICS"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Air Rifle / Shooting",
+			"Artistic Gymnastics",
+			"Badminton",
+			"Basketball",
+			"Canoeing/Rowing/Dragon Boat",
+			"Cross Country",
+			"Fencing",
+			"Judo",
+			"Softball",
+			"Table Tennis",
+			"Tennis",
+			"Track & Field",
+			"Volleyball",
+			"Water Polo",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Ncc (Land)",
+			"Npcc",
+			"Scouts",
+			"St. John Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Band - Display/Marching",
+			"Choir",
+			"Drama - Chinese",
+			"Drama - English",
+			"Ensemble - String",
+			"Orchestra - Chinese"
+		],
+		"Clubs & Societies": [
+			"Audio & Video/ Pa Club",
+			"Chess Club - Chinese",
+			"Debating And Oratorical Society",
+			"Infocom Club",
+			"Library Council",
+			"Singapore Youth Flying Club",
+			"Weiqi Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Integrated Programme",
@@ -58,7 +101,7 @@
 			"ART ELECTIVE PROGRAMME",
 			"LANGUAGE ELECTIVE PROGRAMME (CHINESE)"
 		],
-		"Special Student Development Programmes Offered": "MOE   Humanities  Programme,  MOE Art Elective Programme, MOE  Bicultural Studies Programme, MOE Language Elective Programme (Chinese),   Hwa  Chong Talent  Development Programmes - Science & Math Talent, School-Based Gifted Education, Ong Teng Cheong Leadership, Gifted and Talented Education, Entrepreneurial Leadership Boarding, Arts & Sports, Global Outreach, Week-long Sabbaticals,  Service Learning, Third Languages (French, German, Japanese, Malay), Future Problem Solving, Advanced Science Research  (including  Biomedical,  Biotechnology and Bioengineering, Defence Science, Environmental Engineering, Nanotechnology, Material Science, Interactive  Digital  Media  & Electronics), Hwa Chong-Beijing Satellite Campus, Xi'an and Wuxi Winter Campuses. Collaborations with overseas institutions of learning, e.g. Staples High School."
+		"Special Student Development Programmes Offered": "MOE   Humanities  Programme,  MOE Art Elective Programme, MOE  Bicultural Studies Programme, MOE Language Elective Programme (Chinese),   Hwa  Chong Talent  Development Programmes - Science & Math Talent, School-Based Gifted Education, Ong Teng Cheong Leadership, Gifted and Talented Education, Entrepreneurial Leadership Boarding, Arts & Sports, Global Outreach, Week-long Sabbaticals,  Service Learning, Malay Special Programme, Future Problem Solving, Advanced Science Research  (including  Biomedical,  Biotechnology and Bioengineering, Defence Science, Environmental Engineering, Nanotechnology, Material Science, Interactive  Digital  Media  & Electronics), Hwa Chong-Beijing Satellite Campus, Xi'an and Wuxi Winter Campuses. Collaborations with overseas institutions of learning, e.g. Staples High School."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -2912,7 +2955,8 @@
 					"Scout (Unit 1)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		},
 		"Junior College": {
 			"2005": {
@@ -5081,7 +5125,8 @@
 					"Ensemble - Strings": "Accomplishment",
 					"Drama - English": "Accomplishment"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -5187,6 +5232,13 @@
 				"279",
 				"None-posted"
 			]
+		},
+		"2018": {
+			"Express": [
+				"258",
+				"280",
+				"None-posted"
+			]
 		}
 	},
 	"L1R5History": {
@@ -5262,6 +5314,20 @@
 			"Science/IB": [
 				"2",
 				"4"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2018": {
+			"Arts": [
+				"2",
+				"5"
+			],
+			"Science/IB": [
+				"2",
+				"5"
 			],
 			"Commerce": [
 				"-",

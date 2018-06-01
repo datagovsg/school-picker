@@ -17,7 +17,7 @@
 	"bus": "49 , 98 , 99 , 157 , 185 , 187 , 198 , 335 , 502 ",
 	"GeneralInformation": {
 		"Principal": "MISS NG SOOK KIT",
-		"Vice Principal": "MISS YUEN CHAI LIN",
+		"Vice Principal": "MS YUEN CHAI LIN",
 		"School Vision": "A Future-Ready School That Inspires Excellence",
 		"School Mission": "Honour Learning, Strengthen Character, Awaken Talents, Inspire Dreams",
 		"School Philosophy, Culture and Ethos": "We firmly believe that education must be forward-looking and robust, recognising that the future, for which Yuhuans are being prepared for, is dynamic, unpredictable and difficult to imagine. Leveraging on the culture of care, learning and excellence, we envision our school to be a learning organisation that empowers staff and nurtures students holistically by equipping them with the competencies and dispositions to thrive in the future. Our school philosophy, \"Every Student, Our Responsibility\" undergirds our commitment to honour learning by instilling in Yuhuans the responsibility and commitment to life-long learning so as to adapt to changes and new situations; strengthen character by inculcating the values of graciousness and integrity, awaken talents by harnessing their strengths to strive towards attaining purposeful goals with passion and resilience, inspire dreams by stretching Yuhuans potential to lead new frontiers and innovate in pursuit of excellence.",
@@ -851,7 +851,8 @@
 				"Best Unit Award": {
 					"Ncc (Land Boys)": "Bronze"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1073,6 +1074,23 @@
 			"Normal Technical": [
 				"105",
 				"154",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"244",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"197",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"121",
+				"151",
 				"None-posted"
 			]
 		}

@@ -21,7 +21,6 @@
 			"MDM ONG LAY YEN",
 			"MR SIM KOK HIAN, KENNETH"
 		],
-		"Vice Principal (Admin)": "MISS TAN HUI HUI JEANIE",
 		"School Vision": "A Learner, A Leader, An Explorer",
 		"School Mission": "Nurturing Life-long Learners, Empowering Them to Lead, Inspiring Them to Explore",
 		"School Philosophy, Culture and Ethos": [
@@ -30,7 +29,7 @@
 			"Camaraderie, Adaptability, Responsibility and Excellence (ICARE) through our teaching and co-curriculum. Our students",
 			"develop resilience through the high standards we expect of them in everything that they do. Every student is teachable and can excel. We ensure",
 			"that the needs of learners of various abilities are catered for through our customised teaching and learning programmes, including the use of",
-			"information and communication technologies. Our academic framework, ACE3 (Assessment, Collaboration, Engagement, Experimentation and Experience),  allows this through various modes of assessment, including formative assessments, enabling our students in collaboration, and the engagement of our learners through a rich curriculum, delving in experimentation and learning through experience. To this end, we work closely with our community partners, institutes of higher learning and members of our Parents",
+			"information and communication technologies. Our academic framework, ACE3 (Assessment, Collaboration, Engagement, Experimentation and Experience),  allows this through various modes of assessment, including formative assessments, enabling our students to collaborate, and the engagement of our learners through a rich curriculum, delving in experimentation and learning through experience. To this end, we work closely with our community partners, institutes of higher learning and members of our Parents",
 			"Support Group who are encouraged to be actively involved in their children's joy of learning."
 		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
@@ -44,9 +43,6 @@
 		"CHEMISTRY",
 		"CHINESE",
 		"CHINESE B",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
-		"COMBINED HUMANITIES (S,L)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
@@ -54,6 +50,9 @@
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"HIGHER CHINESE",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
@@ -77,26 +76,22 @@
 		"Uniformed Groups": [
 			"Boys' Brigade",
 			"Girl Guides",
-			"Girls' Brigade",
 			"Ncc (Land)",
 			"Npcc"
 		],
 		"Visual and Performing Arts": [
 			"Band - Concert",
-			"Choir",
 			"Dance - Chinese",
 			"Dance - Indian",
 			"Dance - Malay",
 			"Dance - Modern & Cultural",
 			"Ensemble - Guitar",
-			"Ensemble - Guzheng",
 			"Festive Drums And Lion Dance Troupe"
 		],
 		"Clubs & Societies": [
 			"Green Club",
 			"Infocomm Club",
 			"Interact Club",
-			"Library",
 			"Mechatronics Club",
 			"Singapore Youth Flying Club"
 		]
@@ -914,7 +909,8 @@
 					"Ncc (Land)": "Silver",
 					"Npcc (Land)": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1134,6 +1130,23 @@
 			],
 			"Normal Technical": [
 				"117",
+				"151",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"241",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"180",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"121",
 				"151",
 				"None-posted"
 			]

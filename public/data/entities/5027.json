@@ -62,13 +62,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"School Distinction Awards": "SDA",
-				"Best Practice Awards": "BPA (Teaching and Learning)",
-				"Development Award": "DA (National Education)",
-				"Outstanding Development Award": "ODA (Character Development)",
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"2015": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": "BPA (Teaching and Learning)",
@@ -83,31 +76,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Choir",
@@ -186,11 +154,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Brownies (Pack 1)",
 					"award": "Bronze"
@@ -229,8 +192,8 @@
 		1.3329399
 	],
 	"svy21": [
-		22450.46,
-		35015.37
+		22450.42,
+		35015.3
 	],
 	"planningArea": "BT",
 	"neighbours": [

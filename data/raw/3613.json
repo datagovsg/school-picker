@@ -23,7 +23,7 @@
 		],
 		"School Vision": "A Choice School, A Caring Home",
 		"School Mission": "Nurturing TOMORROW's learners, who are the pride of their family, society and nation, TODAY.",
-		"School Philosophy, Culture and Ethos": "Pasir Ris Crest Secondary School is committed to helping our students achieve academic success and develop good character and values. We strive to give our students a quality learning experience that is steeped in the learning of values as well as knowledge and skills needed for the 21st Century. We develop Crestians to be active and engaged learners, innovative problem-solvers, effective communicators, self-disciplined and responsible leaders and active and concerned citizens with global awareness. Our emphasis on quality teaching and the belief that all Crestians can learn and achieve have guided us in developing good teaching and learning programmes that have yielded positive outcomes. Through character education and student leadership development, we aim to inculcate in our students sound values and nurture Crestian Overcomers with strength of character to overcome challenges in life.",
+		"School Philosophy, Culture and Ethos": "Pasir Ris Crest Secondary School is committed to helping our students achieve academic success and develop good character and values. We strive to give our students a quality learning experience that is steeped in the learning of values as well as knowledge and skills needed for the 21st Century. We develop Crestians to be active and engaged learners, innovative problem-solvers, effective communicators, self-disciplined and responsible leaders, and active and concerned citizens with global awareness. Our emphasis on quality teaching and the belief that all Crestians can learn and achieve have guided us in developing good teaching and learning programmes that have yielded positive outcomes. Through character education and student leadership development, we aim to inculcate in our students sound values and nurture Crestian Overcomers with strength of character to overcome challenges in life.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -41,9 +41,6 @@
 		"CHINESE",
 		"CHINESE N(A)",
 		"CIVICS & MORAL EDUCATION",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
-		"COMBINED HUMANITIES (S,L)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
@@ -57,6 +54,9 @@
 		"HIGHER CHINESE",
 		"HIGHER TAMIL",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MALAY N(A)",
@@ -807,7 +807,8 @@
 					"Npcc (Land)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1029,6 +1030,23 @@
 			"Normal Technical": [
 				"128",
 				"157",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"215",
+				"234",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"176",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"132",
+				"159",
 				"None-posted"
 			]
 		}

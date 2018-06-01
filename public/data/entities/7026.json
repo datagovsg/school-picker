@@ -38,14 +38,10 @@
 	},
 	"SubjectOffered": [
 		"Additional Mathematics",
-		"Art Na Level",
 		"Art 'O' Level",
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
-		"Combined Humanities (S,L)",
 		"Computer Applications",
 		"Design & Technology",
 		"Elements Of Business Skills",
@@ -55,19 +51,23 @@
 		"Food Studies, N Level",
 		"Geography",
 		"Higher Chinese",
+		"Higher Malay",
 		"Higher Music",
 		"Higher Tamil",
 		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In English)",
 		"Literature(E)",
 		"Malay",
 		"Mathematics",
 		"Music 'O' Level",
 		"Physical Education",
 		"Physics",
-		"Principles Of A/C",
+		"Principles Of Accounts",
 		"Science (Chem, Bio)",
 		"Science (Phy, Chem)",
-		"Social Studies",
+		"Social Studies N(T)",
 		"Tamil"
 	],
 	"Cca": {
@@ -88,7 +88,9 @@
 		"Visual and Performing Arts": [
 			"Band",
 			"Choir",
+			"D'arts Society (Cldds)",
 			"Dance",
+			"Eldds - Drama",
 			"Guitar",
 			"Guzheng",
 			"Handbell Ensemble",
@@ -105,15 +107,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Outstanding Development Award": "ODA (Character Development)"
-			},
 			"2015": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [
@@ -142,36 +135,6 @@
 				"Outstanding Development Award": "ODA (Character Development)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Badminton",
@@ -284,56 +247,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Commendation"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Harp",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category B",
@@ -487,21 +400,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Girls' Brigade",
 					"award": "Gold"
@@ -550,30 +448,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 236,
-			"upper": 250,
-			"lowerAffiliated": 205,
-			"upperAffiliated": 252
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": null,
-			"upper": null,
-			"lowerAffiliated": 164,
-			"upperAffiliated": 199
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 111,
-			"upper": 159,
-			"lowerAffiliated": 134,
-			"upperAffiliated": 151
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -645,6 +519,30 @@
 			"upper": 153,
 			"lowerAffiliated": 128,
 			"upperAffiliated": 159
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": null,
+			"upper": null,
+			"lowerAffiliated": 216,
+			"upperAffiliated": 264
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 185,
+			"upper": 199,
+			"lowerAffiliated": 152,
+			"upperAffiliated": 199
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 107,
+			"upper": 159,
+			"lowerAffiliated": 128,
+			"upperAffiliated": 153
 		}
 	],
 	"postalCode": "536742",

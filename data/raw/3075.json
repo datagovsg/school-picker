@@ -14,17 +14,16 @@
 	],
 	"email": "edgefield_ss@moe.edu.sg",
 	"mrt": "PUNGGOL MRT",
-	"bus": "3 , 34 , 62 , 82 , 83 , 136 ",
+	"bus": "3 , 34 , 62 , 82 , 83 , 119 , 136 , 381 , 382G ",
 	"GeneralInformation": {
 		"Principal": "MR LEE PECK PING",
 		"Vice Principal": [
 			"MR TAN CHAI HOK",
 			"MDM LIM PUAY KHENG"
 		],
-		"Vice Principal (Admin)": "MR NG BOON TIEN",
 		"School Vision": "Collaborative Innovators, Compassionate Leaders",
 		"School Mission": "Growing Minds, Glowing Hearts",
-		"School Philosophy, Culture and Ethos": "At Edgefield, we believe in nurturing our students to be 'Future Ready'. Framed by Five Minds for the Future, our curriculum nurtures Innovators who collaborate actively with others to design and develop creative solutions to problems, and resilient in facing setbacks and challenges. They are also Compassionate Leaders who are inclusive, with the moral courage to do what is right in contributing positively to the society. Built by a dedicated team of experienced educators, and equipped with the newest facilities and the latest technologies, the Edgefield Community prides itself for its curriculum innovation in providing the ideal learning environment and experiences for our students. As Lao Tzu says \"A journey of a thousand miles begins with a single step\", Edgefield Secondary and staff looks forward to this educational partnership with you and your child in 2018.",
+		"School Philosophy, Culture and Ethos": "At Edgefield, we believe in nurturing our students to be 'Future Ready'. Framed by Five Minds for the Future, our curriculum nurtures Innovators who collaborate actively with others to design and develop creative solutions to problems, and are resilient in facing setbacks and challenges. They are also Compassionate Leaders who are inclusive, with the moral courage to do what is right in contributing positively to the society. Built by a dedicated team of experienced educators, and equipped with the newest facilities and the latest technologies, the Edgefield Community prides itself for its curriculum innovation in providing the ideal learning environment and experiences for our students. As Lao Tzu says \"A journey of a thousand miles begins with a single step\", Edgefield Secondary School looks forward to this educational partnership with you and your child in 2019.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -94,8 +93,11 @@
 			"Festive Drums"
 		],
 		"Clubs & Societies": [
+			"Entrepreneur Club",
+			"New Media Club",
 			"Robotics Club",
-			"Singapore Youth Flying Club"
+			"Singapore Youth Flying Club",
+			"Thinkers Society"
 		]
 	},
 	"SpecialProgrammes": {
@@ -106,7 +108,7 @@
 			"Business & Entrepreneurship": "Growing the Entrepreneurial Mindset (GEM)",
 			"Sports & Outdoor Education": "Character Education Through Taekwondo"
 		},
-		"Special Student Development Programmes Offered": "(1) Applied Learning Programme (ALP) - \"Growing the Entrepreneurial Mindset (GEM)\". The programme inculcates in students entrepreneurial traits such as resilience, alertness to opportunities, creativity, and hone their skills in financial/ business management, marketing and advanced problem solving. (2) Learning for Life Programme (LLP) - \"Character Education through Sports anchored on Taekwondo\". Besides developing healthy bodies and self-defence life skill, students develop positive values such as resilience, courage, self-reliance, quick thinking and respect for others. (3) School wide programme: Thinking and Research Programme (includes Analytical Thinking Skills, Creative problem solving); ICT via Apple Education Programme; Challenge Based Learning; Language Arts Programme (including Speech and Drama, Storytelling, Film Appreciation and Creative Writing), Internationalization Programme; Robotics LEGO Mindstorm, Journalism and Broadcasting, Basic Leadership Development Programme, Outward Bound Singapore, Golf Education Programme, Conversational Chinese/ Malay and Third Language classes. (4) Other specific Programmes: Edgefield Scholar / Talent Development Programme; National Youth Achievement Award (NYAA); Life Science Enrichment Programme; Mathematics Olympiad Enrichment; Advanced Leadership Development Programme (based on Kouzes and Posner The Leadership Challenge model); Sustainable Development, Calligraphy, Painting & Music Programme; Tan Kah Kee Young Inventors' Programme."
+		"Special Student Development Programmes Offered": "(1) Applied Learning Programme (ALP) - \"Growing the Entrepreneurial Mindset (GEM)\". The programme inculcates in students entrepreneurial traits such as resilience, alertness to opportunities, creativity, and hone their skills in financial/ business management, marketing and advanced problem solving. (2) Learning for Life Programme (LLP) - \"Character Education through Sports anchored on Taekwondo\". Besides developing healthy bodies and self-defence life skill, students develop positive values such as resilience, courage, self-reliance, quick thinking and respect for others. (3) Future Ready Programme: Challenge-Based Learning (Mini-Challenges), Experiential Learning (Electives & Learning Journeys), Scenario Based Learning (Future Scenarios), Assessment in 21st Century Competencies (4) School Wide Programme: Thinking and Research Programme (includes Analytical Thinking Skills, Creative Problem Solving); ICT via Apple Education Programme; Language Arts Programme (including READ@Edgefield, Speech and Drama, Storytelling, Film Appreciation and Creative Writing), MTL Enrichment Programme (Heritage Trails, Xin Yao Appreciation, Malay Puppetry);Conversational Chinese, Malay and Third Language; Journalism and Broadcasting, PrimeTime@Edgefield (contemporary issues), (5) Other Specific Programmes: Internationalization Programme, Edgefield Scholar / Talent Development Programme, Applied Science Programme, Leadership Development Programme (based on Kouzes and Posner The Leadership Challenge Model), Outward Bound Singapore, Sustainable Development, Tan Kah Kee Young Inventors' Programme."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -541,7 +543,8 @@
 					"Npcc (Sea)": "Gold",
 					"Scout (Unit 1)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -667,6 +670,23 @@
 			"Normal Technical": [
 				"141",
 				"158",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"226",
+				"256",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"184",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"141",
+				"156",
 				"None-posted"
 			]
 		}

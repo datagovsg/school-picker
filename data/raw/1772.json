@@ -17,10 +17,7 @@
 	"bus": "We are just beside Clementi Bus Interchange.",
 	"GeneralInformation": {
 		"Principal": "MR CHIA SEE CHEW ALBERT",
-		"Vice Principal": [
-			"MRS TAN SIEW HONG",
-			"MDM CHUA GEOK LING REBECCA"
-		],
+		"Vice Principal": "MRS TAN SIEW HONG",
 		"School Vision": "A Leader. A Keen Learner. A Friend.",
 		"School Mission": "To inspire Clementians to lead with integrity, strive for excellence and be kind to all.",
 		"School Philosophy, Culture and Ethos": [
@@ -52,7 +49,30 @@
 		"SOCIAL STUDIES",
 		"TAMIL"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"P3 Moe-Sportsg Swimsafer Programme",
+			"Rope Skipping",
+			"Taekwondo"
+		],
+		"Uniformed Groups": [
+			"Brownies"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Band - Brass",
+			"Choir",
+			"Dance - Chinese",
+			"Dance - Indian",
+			"Dance - Malay"
+		],
+		"Clubs & Societies": [
+			"Cheerleading Club",
+			"Infocom Club",
+			"Library"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -715,7 +735,8 @@
 					"Dance - Indian": "Accomplishment",
 					"Dance - Malay": "Distinction"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "129903"

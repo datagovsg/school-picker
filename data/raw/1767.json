@@ -53,7 +53,34 @@
 		"SOCIAL STUDIES",
 		"TAMIL"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Soccer",
+			"Table Tennis",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Girls' Brigade",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Brass Band",
+			"Choir Ensemble",
+			"Creative Dance",
+			"Dance - Chinese",
+			"Dance - Indian",
+			"Dance - Malay",
+			"Dancesports",
+			"Guzheng Ensemble"
+		],
+		"Clubs & Societies": [
+			"Green Innovation Club",
+			"Infocomm"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -841,7 +868,8 @@
 					"Girls' Brigade": "Gold",
 					"Scout": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "757702"

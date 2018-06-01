@@ -16,16 +16,16 @@
 	"mrt": [
 		"Redhill MRT"
 	],
-	"bus": "14 , 32 , 33 , 63 , 64 , 120 , 123 , 132 , 139 , 145 , 147 , 153 , 196 , 197 , 198 , 765 , 855 , 961 ",
+	"bus": "14 , 32 , 33 , 63 , 64 , 120 , 132 , 139 , 145 , 147 , 196 , 197 , 855 , 961 ",
 	"GeneralInformation": {
 		"Principal": "Mr Cheng Ghee Hock Timothy",
 		"Vice Principal": [
 			"Mr Apollos Induchoodan S/o R A P",
 			"Miss Tan Mei Chang Rebekah"
 		],
-		"School Vision": "Every Merahan a resilient, caring and self-directed learner",
+		"School Vision": "Every Merahan a Resilient, Caring and Self-directed learner",
 		"School Mission": "To Nurture Resilient Merahans with Character and Heart",
-		"School Philosophy, Culture and Ethos": "Bukit Merah Secondary School (BMSS) prides itself on cultivating a caring environment and establishing positive expectations to bring out the best in our students.  We are committed to fostering respectful relationships and providing opportunities for active participation so as to imbue students with the school values, 'Respect for self and others, Integrity in word and deed, Self-discipline in conduct, and Empathy for others'. The school offers a balanced curriculum that emphasises academic rigour and value-addedness, character development and citizenship education. We believe in developing students' talents through a comprehensive Aesthetics Education Programme. Our achievements in Aesthetics, Sports and Uniformed Groups have helped provide our students with an all-round educational experience.",
+		"School Philosophy, Culture and Ethos": "Bukit Merah Secondary School (BMSS) prides itself on cultivating a caring environment that establishes positive expectations to bring out the best in our students.  Our staff foster respectful teacher-student relationships. They encourage active student participation so as to nurture in every child the school values, 'Respect for self and others, Integrity in word and deed, Self-discipline in conduct, and Empathy for others'. The school offers a rich curriculum that balances academic rigour with character development and citizenship education. Our Aesthetics, Sports and Uniformed Groups provide our students with an all-round educational experience. The school also develops students' talents through a comprehensive Aesthetics Education Programme.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -105,13 +105,10 @@
 			"STEM": "Creative Robotics and Engineering",
 			"Sports & Outdoor Education": "Character Development & Leadership through Sports"
 		},
-		"Special Student Development Programmes Offered": "I. Curriculum Enhancement: over the years, BMSS students have performed well in Mathematics and Science.  This has been the result of teachers exploring new pedagogy in Professional Learning Teams and stretching student capacity through curricular enrichment activities. Examples include engaging Science project work tasks at the lower secondary level and the use of manipulatives in Mathematics teaching. Our students participate annually in competitions for Mathematics & Science, including the Singapore Mathematics Olympiad, workshops at Singapore Science Centre and Advanced Elective Modules (with a science focus) at local polytechnics.  The school also champions reading literacy. In collaboration with the National Library Board, we have embarked on a whole-school effort to promote reading as a habit among students. We emerged first runner-up in the NLB 2017 Reading Excellence Award."
+		"Special Student Development Programmes Offered": "Over the years, our students have performed well in their academics and the Co-Curriculum.  This is possible because our teachers nurture the whole child. Working in Professional Learning Teams, teachers build up their teaching-learning repertoire and stretch student capacity through carefully designed authentic learning activities, both within and beyond the classroom. Examples include engaging Science project work tasks at the lower secondary level, the use of manipulatives in Mathematics teaching, and Humanities Trails in the neighbourhood. Our students participate annually in competitions for Mathematics & Science and attend Advanced Elective Modules (with a science focus) at local polytechnics.  The school also champions reading literacy. In collaboration with the National Library Board, we have put in place a whole-school effort to promote reading as a habit among students."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": "DA (Character Development)"
-			},
 			"2015": {
 				"Development Award": "DA (Character Development)"
 			},
@@ -119,36 +116,6 @@
 				"Development Award": "DA (Character Development)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
 				{
 					"year": "2015",
 					"category": "Floorball",
@@ -212,16 +179,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2015",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
@@ -279,21 +236,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Silver"
-				},
-				{
 					"year": "2015",
 					"category": "NCC (Land Boys)",
 					"award": "Gold"
@@ -342,30 +284,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 247,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 152,
-			"upper": 191,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 121,
-			"upper": 152,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -435,6 +353,30 @@
 			"programme": "Normal Technical",
 			"lower": 111,
 			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 189,
+			"upper": 256,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 189,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 118,
+			"upper": 153,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

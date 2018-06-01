@@ -23,7 +23,7 @@
 		],
 		"School Vision": "Every Nanyang Girl a Respected Member of Society",
 		"School Mission": "We nurture women of character in a bilingual bicultural environment anchored in values on which our school was founded.",
-		"School Philosophy, Culture and Ethos": "Nanyang Girls' High School has a rich tradition and illustrious history. Founded in 1917, the school has remained true to her goal in nurturing well-educated ladies who will contribute to society. Given the school's rich tradition in bicultural education, NYGH prides herself in providing a holistic education, allowing all girls to thrive in a globalised world.  Our curriculum is anchored in values that seek to develop our students to be reflective, responsive and responsible learners, equipped with the knowledge, skills and attributes for the future. The Nanyang experience engages our students in authentic and relevant learning that guides them to create meaningful, useful and shared outcomes. The curriculum allows students to make meaningful connections within and between disciplines, and develop a heart for the community by paying forward through active service. We also keep our students engaged and excited about learning through 1-1 computing. In addition, through our carefully designed experiential learning opportunities that include the Boarding School Experience at our very own Boarding School and our Global Classroom Programme, we provide our students with a holistic education ready for the globalised future.",
+		"School Philosophy, Culture and Ethos": "Founded in 1917, the school has remained true to our goal in nurturing well-educated ladies who will contribute to society. Given the school's emphasis on bicultural education, we pride ourselves in providing a holistic education, allowing all girls to thrive in a globalised world.  Our curriculum is anchored in values that seek to develop our students to be reflective, responsive and responsible learners, equipped with the knowledge, skills and attributes for the future. The Nanyang experience engages our students in authentic and relevant learning that guides them to create meaningful shared outcomes. The curriculum allows students to make connections within and between disciplines, and develop a heart for the community by paying forward through active service. We also keep our students engaged and excited about learning through 1-1 computing. Through our carefully designed experiential learning opportunities that include the Boarding School Experience and our Global Classroom Programme, we provide our students with an all-round education beyond classroom learning.",
 		"Type of School": "INDEPENDENT SCHOOL / GIRLS' SCHOOL / SINGLE SESSION",
 		"IP Partner Schools": "HWA CHONG INSTITUTION",
 		"Mother Tongue": "Chinese",
@@ -31,16 +31,17 @@
 	},
 	"SubjectOffered": [
 		"ADVANCED LITERATURE",
-		"ART FOR AEP",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"GEOGRAPHY",
+		"HIGHER ART",
 		"HIGHER CHINESE",
-		"HIGHER MUSIC PROGRAMME",
+		"HIGHER MUSIC",
 		"HISTORY",
 		"INTEGRATED HUMANITIES",
 		"INTEGRATED MATHEMATICS",
 		"LANGUAGE ARTS",
+		"LITERATURE IN CHINESE",
 		"MALAY (SPECIAL PROGRAMME)",
 		"PHYSICS"
 	],
@@ -54,7 +55,6 @@
 			"Netball",
 			"Sailing",
 			"Softball",
-			"Swimming",
 			"Table Tennis",
 			"Tennis",
 			"Track & Field",
@@ -84,7 +84,7 @@
 			"Infocomm Club",
 			"Mind Sports Club",
 			"Nanyang Debate Club",
-			"Nanyang Outdoors"
+			"Nanyang Outdoors Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -2977,7 +2977,8 @@
 					"Npcc (Land)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -3095,6 +3096,14 @@
 				"281",
 				"250",
 				"279"
+			]
+		},
+		"2018": {
+			"Express": [
+				"264",
+				"285",
+				"250",
+				"277"
 			]
 		}
 	},

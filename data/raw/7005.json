@@ -57,6 +57,7 @@
 		"MATHEMATICS (SYLLABUS A)",
 		"MATHEMATICS (SYLLABUS T)",
 		"PHYSICS",
+		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)"
@@ -90,7 +91,7 @@
 			"Digital Media Club",
 			"Green Club",
 			"Media Resource Club",
-			"Multi - Media Society"
+			"Photo And Video Society"
 		],
 		"Others": [
 			"House Appointment",
@@ -105,7 +106,7 @@
 			"STEM": "GeMs_Applied Learning Programme in Science",
 			"Community & Youth Leadership": "Nurturing Confident and Compassionate Leaders via Values-in-Action"
 		},
-		"Special Student Development Programmes Offered": "The school nurtures students' talents, interests, character and leadership qualities via a vibrant CCE curriculum and distinctive programmes, including a 4/5 years progressive Learning for Life Programme (LLP) in the area of Community and Youth Leadership. The LLP systematically equips students with critical inquiry skills, public-speaking skills and leadership competencies to prepare them for meaningful local and overseas Values-in-Action and service learning experiences.  The school also has an Applied Learning Programme (ALP) in Environmental Science and Sustainable Living.  We have vibrant CCA programmes spanning 21 CCAs, the Music, Art, Dance and Drama (MADD) enrichment programme and level camps for all students.  Through these, we develop all-round students who strive to contribute to our community."
+		"Special Student Development Programmes Offered": "The school nurtures students' talents, interests, character and leadership qualities via a vibrant CCE curriculum and distinctive programmes, including a 4/5 years progressive Learning for Life Programme (LLP) in the area of Community and Youth Leadership. The LLP systematically equips students with critical inquiry skills, public-speaking skills and leadership competencies to prepare them for meaningful local and overseas Values-in-Action and service learning experiences.  The school also has an Applied Learning Programme (ALP) in Environmental Science and Sustainable Living.  We have vibrant CCA programmes spanning 22 CCAs, the Music, Art, Dance and Drama (MADD) enrichment programme and level camps for all students.  Through these, we develop all-round students who strive to contribute to our community."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -680,7 +681,8 @@
 					"Girls' Brigade": "Gold",
 					"Npcc (Land)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -939,6 +941,26 @@
 				"128",
 				"153",
 				"114",
+				"151"
+			]
+		},
+		"2018": {
+			"Express": [
+				"224",
+				"236",
+				"195",
+				"238"
+			],
+			"Normal Academic": [
+				"181",
+				"198",
+				"152",
+				"199"
+			],
+			"Normal Technical": [
+				"142",
+				"151",
+				"111",
 				"151"
 			]
 		}

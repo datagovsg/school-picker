@@ -13,18 +13,21 @@
 		"67662095"
 	],
 	"email": "kranji_ss@moe.edu.sg",
-	"mrt": [],
-	"bus": "190 , 985 , 975 ",
+	"mrt": [
+		"Yew Tee MRT"
+	],
+	"bus": "302",
 	"GeneralInformation": {
 		"Principal": "Mr Goh Soon Hoe",
+		"Principal-Designate": "MISS TAN HWEE PIN",
 		"Vice Principal": [
 			"Mr Lee Han Hwa",
 			"Mr Christopher Thomas"
 		],
 		"Vice Principal (Admin)": "Mr Loh Kah Hong",
-		"School Vision": "Confident learners with the passion to excel . Active citizens with a heart to serve",
-		"School Mission": "Serving with heart, values and purpose to bring out the best in every child",
-		"School Philosophy, Culture and Ethos": "Guided by the school philosophy - teaching with passion and conviction, every child can learn, developing each child holistically, and preparing students for future challenges, Kranji Secondary builds a shared vision that is values-driven and student-centric. The school believes that, through fostering a culture of learning, innovation and excellence, students will be confident learners with the passion to excel and active citizens with a heart to serve.",
+		"School Vision": "Leaders with a Heart to Serve. Thinkers with the Drive to Excel.",
+		"School Mission": "Serving with heart, values and purposes to bring out the best in every child.",
+		"School Philosophy, Culture and Ethos": "Guided by the school philosophy -  teaching with passion and conviction, every child can learn, developing each child holistically, and preparing students for future challenges, Kranji Secondary builds a shared vision that is values-driven and student-centric. The school believes that through fostering a culture of learning, innovation and excellence, students will be confident leaders with a heart to serve and thinkers with the drive to excel.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -34,16 +37,14 @@
 		"Art",
 		"Art Na Level",
 		"Art Nt Level",
-		"Biology",
-		"Chemistry",
 		"Chinese",
-		"Civics & Moral Education",
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
 		"Computer Applications",
 		"Design & Technology",
 		"English Language",
 		"Food & Nutrition",
+		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
 		"Higher Malay",
@@ -51,12 +52,15 @@
 		"Literature(E)",
 		"Malay",
 		"Mathematics",
+		"Music",
+		"Music Nt Level",
 		"Physical Education",
 		"Physics",
 		"Principles Of Accounts",
 		"Science (Chem, Bio)",
 		"Science (Phy, Chem)",
 		"Science (Syll T)",
+		"Social Studies N(T)",
 		"Tamil"
 	],
 	"Cca": {
@@ -64,7 +68,8 @@
 			"Badminton",
 			"Basketball",
 			"Football",
-			"Table Tennis"
+			"Frisbee",
+			"Table Tennis (Girls)"
 		],
 		"Uniformed Groups": [
 			"Boy's Brigade",
@@ -81,6 +86,7 @@
 			"Symphonic Band"
 		],
 		"Clubs & Societies": [
+			"Debate",
 			"Ecos",
 			"K-Production Technical",
 			"Media Innovation"
@@ -91,20 +97,10 @@
 			"Interdisciplinary": "Nurturing Communities of Reflective and Independent Learners through Thinking Curriculum",
 			"Community & Youth Leadership": "Nurturing a Leader in Every Kranjian"
 		},
-		"Special Student Development Programmes Offered": "In Kranji Secondary School, we see innovation as a way of life to support our vision of developing 'Confident Learners with the Passion to Excel'. Our belief in delivering a holistic education has led the school to develop a well-rounded secondary school curriculum. This includes a vibrant Aesthetics Development Programme, comprehensive Sports Development and CCE Programmes to develop Kranjians with character and graciousness. All lower secondary students are exposed to a range of music skills and dances so that they develop an appreciation for the arts and culture. To inculcate a spirit of active citizenry, the school initiates and collaborates extensively with external partners in Values-In-Action projects."
+		"Special Student Development Programmes Offered": "In Kranji Secondary School, we provide a myriad of opportunities and platforms for Kranjians to learn and grow as leaders in support of our vision in developing \"Leaders with a heart to serve and thinkers with the drive to excel\". "
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"School Distinction Awards": "SDA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Teaching and Learning)"
-				],
-				"Special Awards": "LHL Award for Innovation in the Normal Course",
-				"Development Award": "DA (National Education)",
-				"Outstanding Development Award": "ODA (Character Development)"
-			},
 			"2015": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": [
@@ -136,46 +132,6 @@
 				"Outstanding Development Award": "ODA (Character Development)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
 				{
 					"year": "2015",
 					"category": "Basketball",
@@ -228,31 +184,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -330,31 +261,6 @@
 				}
 			],
 			"Best Unit Award": [
-				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
 				{
 					"year": "2015",
 					"category": "Boys' Brigade",
@@ -435,30 +341,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 232,
-			"upper": 247,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 179,
-			"upper": 198,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 117,
-			"upper": 157,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 232,
@@ -526,6 +408,30 @@
 			"year": "2017",
 			"programme": "Normal Technical",
 			"lower": 117,
+			"upper": 157,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 229,
+			"upper": 242,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 178,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 126,
 			"upper": 157,
 			"lowerAffiliated": null,
 			"upperAffiliated": null

@@ -28,7 +28,7 @@
 		"Vice Principal (Admin)": "Miss See Pei Loo",
 		"School Vision": "The premier school of Leaders of Honour",
 		"School Mission": "To nurture our students to Care, to Serve, and to Lead",
-		"School Philosophy, Culture and Ethos": "In Dunman High School, we view the twin pillars of a rigorous curriculum and character development as fundamental to the education of our students. This educational ethos is influenced by Confucian philosophy, where the Head, Heart and Hands are important in developing all-rounded individuals and Leaders of Honour who are knowledgeable, with a heart to care and serve others within and beyond the school community.",
+		"School Philosophy, Culture and Ethos": "In Dunman High School, we view the twin pillars of a rigorous curriculum and character development as fundamental to the education of our students. This educational ethos is influenced by Confucian philosophy, where the Head, Heart and Hands are important in developing all-round individuals and Leaders of Honour who are knowledgeable, with a heart to care for and serve others within and beyond the school community.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese",
@@ -39,17 +39,16 @@
 		"Art For AEP",
 		"Biology",
 		"Chemistry",
-		"French",
 		"General Science",
 		"Geography",
-		"German",
+		"H1 Art",
 		"H1 Chinese Language",
 		"H1 Economics",
 		"H1 General Paper",
 		"H1 General Studies In Chinese",
 		"H1 Geography",
 		"H1 History",
-		"H1 Japanese Language",
+		"H1 Literature In English",
 		"H1 Mathematics",
 		"H1 Physics",
 		"H1 Project Work",
@@ -61,17 +60,17 @@
 		"H2 Computing",
 		"H2 Economics",
 		"H2 English Language And Linguistics",
-		"H2 French Language",
 		"H2 Further Mathematics",
 		"H2 Geography",
-		"H2 German Language",
 		"H2 History",
-		"H2 Japanese Language",
 		"H2 Literature In English",
 		"H2 Physics",
+		"H2 Translation (Chinese)",
 		"H3 Chinese Language & Literature",
 		"H3 Economics",
 		"H3 Essentials Of Modern Physics",
+		"H3 Geography",
+		"H3 History",
 		"H3 Mathematics",
 		"H3 Pharmaceutical Chemistry",
 		"H3 Proteomics",
@@ -79,7 +78,8 @@
 		"Higher Music",
 		"Higher Music Programme",
 		"History",
-		"Japanese",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
 		"Language Arts",
 		"Literature In Chinese",
 		"Literature(E)",
@@ -89,33 +89,24 @@
 		"Mathematics 2",
 		"Music (MEP)",
 		"Physics",
-		"Spanish",
-		"Thinking And Research Skills Programme 1",
-		"Thinking And Research Skills Programme 3",
-		"Translation (Chinese)"
+		"Thinking And Research Skills Programme"
 	],
 	"Cca": {
 		"Physical Sports": [
 			"Air Rifle / Shooting",
-			"Air Rifle/Shooting (Girls)",
+			"Air Rifle/Shooting",
 			"Badminton",
 			"Basketball",
-			"Bowling",
 			"Bowling (Senior High)",
-			"Golf",
+			"Golf (Senior High)",
 			"Golf(Senior High)",
-			"Netball",
 			"Netball (Senior High)",
-			"Sailing",
 			"Sailing (Senior High)",
-			"Soccer",
 			"Soccer (Senior High)",
 			"Softball",
 			"Softball (Girls)",
 			"Table Tennis",
-			"Taekwondo",
 			"Taekwondo (Senior High)",
-			"Tennis",
 			"Tennis (Senior High)",
 			"Track & Field",
 			"Volleyball",
@@ -146,10 +137,21 @@
 			"Symphonic Band"
 		],
 		"Clubs & Societies": [
+			"Community Service Club",
+			"Community Service Club (Senior High)",
 			"Environment Club (Senior High)",
 			"Environment Club(Senior High)",
 			"Infocomm Club",
+			"International & Strategic Affairs Council (Senior High)",
+			"Japanese Cultural Club (Senior High)",
 			"Library Society",
+			"Mass Communication Society",
+			"Mathematics & Science Programme (Mathematics)",
+			"Mathematics Society (Senior High)",
+			"Oratorical Society",
+			"Oratorical Society (Senior High)",
+			"Pa Crew",
+			"Pa Crew (Senior High)",
 			"Publications (Senior High)",
 			"Robotics Club",
 			"Science Society ( Senior High)",
@@ -166,23 +168,10 @@
 			"Music Elective Programme",
 			"Language Elective Programme (Chinese)"
 		],
-		"Special Student Development Programmes Offered": "Integrated Programme, School-based Gifted Education, Music Elective Program, Bicultural Studies Programme, Chinese Language Elective Programme, Dunman High Research Programme, Malay Special Programme, Thinking & Research Skills Programme, Overseas Immersion, Student Leadership Development Programme"
+		"Special Student Development Programmes Offered": "Established in 1956, Dunman High School has distinguished itself as a Special Assistance Plan (SAP) school (1979) and is among the pioneer batch of schools to be accorded the Autonomous Status in 1994. The school now offers a 6-year Integrated Programme with expanded opportunities in School-based Gifted Education, Music Elective Programme, Bicultural Studies Programme, Chinese Language Elective Programme, Talent Development Programme, Malay Special Programme, Thinking & Research Skills Programme, Overseas Immersion and Student Leadership Development Programme."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Development Award": [
-					"DA (National Education)",
-					"PARTNERS (Merit)"
-				],
-				"Outstanding Development Award": "ODA (Character Development)"
-			},
 			"2015": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [
@@ -223,146 +212,6 @@
 				"Outstanding Development Award": "ODA (Character Development)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Shooting (Air Pistol)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Badminton",
@@ -896,51 +745,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Commendation"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Band - Concert",
 					"award": "Distinction"
@@ -1088,31 +892,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 2)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Girl Guides (Coy 1)",
 					"award": "Gold"
@@ -1195,20 +974,6 @@
 			]
 		},
 		"Junior College": {
-			"2014": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Development Award": [
-					"DA (National Education)",
-					"PARTNERS (Merit)"
-				],
-				"Outstanding Development Award": "ODA (Character Development)",
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"2015": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [
@@ -1249,56 +1014,6 @@
 				"Outstanding Development Award": "ODA (Character Development)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Sailing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Sailing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Shooting (Air Rifle)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
 				{
 					"year": "2015",
 					"category": "Sailing",
@@ -1442,51 +1157,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category C",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category C",
 					"award": "Recognition(Sm)"
@@ -1602,14 +1272,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 256,
-			"upper": 272,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 253,
@@ -1630,6 +1292,14 @@
 			"programme": "Express",
 			"lower": 257,
 			"upper": 280,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 255,
+			"upper": 274,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

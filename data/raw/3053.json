@@ -13,8 +13,8 @@
 		"63183050"
 	],
 	"email": "SPRINGFIELDS@MOE.EDU.SG",
-	"mrt": "TAMPINES MRT",
-	"bus": "8 , 15 , 23 , 69 , 118 , 129 , 291 , 293 , 513 , 518 ",
+	"mrt": "TAMPINES MRT, TAMPINES WEST MRT",
+	"bus": "8 , 15 , 23 , 69 , 118 , 129 , 291 , 293 , 298 , 513 , 518 ",
 	"GeneralInformation": {
 		"Principal": "MDM LOONG CHOO JUAN, JENNY",
 		"Principal-Designate": "MRS MABEL LEONG",
@@ -40,7 +40,6 @@
 		"CHEMISTRY",
 		"CHINESE",
 		"CHINESE N(A)",
-		"CIVICS & MORAL EDUCATION",
 		"COMPUTER APPLICATIONS",
 		"COMPUTING",
 		"DESIGN & TECHNOLOGY",
@@ -63,7 +62,6 @@
 		"MATHEMATICS (SYLLABUS A)",
 		"MATHEMATICS (SYLLABUS T)",
 		"MUSIC",
-		"MUSIC NT LEVEL",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
@@ -92,7 +90,6 @@
 			"Ensemble - Guzheng"
 		],
 		"Clubs & Societies": [
-			"Design & Robotics Club",
 			"Infocom Club",
 			"New Media Arts Club",
 			"Outdoor Pursuits Club"
@@ -110,7 +107,7 @@
 			],
 			"Community & Youth Leadership": "GEARing Springfielders for Success - Grounding in Values, Engaged to Learn and Lead, Aspiring to Serve, Ready to Soar"
 		},
-		"Special Student Development Programmes Offered": "The school's Applied Learning Programme (ALP), 'Exploring Health Sciences through SP2A' explores the Health Sciences through learning experiences in the Sports Science, General Physiology and Nutrition and the Health and Well-being of the Aged. The ALP curriculum has a strong emphasis on promoting the \"maker's culture\" in our students while building content and awareness in the area of Health Sciences. Students also embark on learning journeys and attachments to health science related companies and institutions to experience and understand the challenges, needs and expectations of healthcare professionals. The school's Learning for Life Programme (LLP), 'GEARing Springfielders for Success', seeks to nurture students to be socially responsible and develop in them a spirit of volunteerism to make a difference to the community. Through the school's LLP which focuses on Community and Youth Leadership (CYL), the school designs learning experiences for students to acquire a critical set of skills and knowledge related to CYL. This is done through purposeful partnerships with the community partners to provide opportunities for students to transfer their learning and put into practice the skills learned. To equip our students with the 21st century competencies, the school conducts programmes such as the Code for Fun Programme and the Learning Festival. The Lower Secondary students undergo a 2-year Code for Fun programme to enhance their coding, logical thinking and problem solving skills."
+		"Special Student Development Programmes Offered": "The school's Applied Learning Programme (ALP), 'Exploring Health Sciences and Sports Sciences' aims to deepen students' knowledge and develop their interest in the Health domains (e.g. General Physiology and Nutrition). During the ALP lessons, students learn to apply the skills and knowledge learned to enhance their individual well-being and that of others. In addition, learning journeys and attachments to health science related companies are arranged for the students to experience and understand the challenges, needs and expectations of healthcare professionals. The school's Learning for Life Programme (LLP), 'GEARing Springfielders for Success', seeks to nurture students to be socially responsible and develop in them a spirit of volunteerism to make a difference to the community. Through the school's LLP which focuses on Community and Youth Leadership (CYL), the school designs learning experiences for students to acquire a critical set of skills and knowledge related to CYL. This is done through purposeful partnerships with the community partners to provide opportunities for students to transfer their learning and put into practice the skills learned."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -861,7 +858,8 @@
 					"Npcc (Land)": "Gold",
 					"Npcc (Sea)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1083,6 +1081,23 @@
 			"Normal Technical": [
 				"107",
 				"146",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"189",
+				"264",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"153",
+				"185",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"118",
+				"151",
 				"None-posted"
 			]
 		}

@@ -29,7 +29,7 @@
 			"To Serve the Coming Days",
 			"Family   Society   Eternity"
 		],
-		"School Philosophy, Culture and Ethos": "As a mission school, St Andrew's Sec provides a holistic and values-based education to nurture young men to become servant leaders upholding WISE and TRUE values of St Andrew's Village. It is our belief that no one comes to our school by chance. Growing boys to become men requires our constant focus on three strategic thrusts : Empowering learning : Building self-directed learners who excel in their academic pursuits. Serving and Belonging : Leveraging on their strong sense of belonging, we nurture the boys with a desire to serve their community and nation. Every Boy Aspiring : We help bring out the best in the boys in their talents, skills, character and leadership development.",
+		"School Philosophy, Culture and Ethos": "As a mission school, St Andrew's Secondary school provides a holistic education nurturing young men to become future-ready Servant Leaders. It is our belief that no one comes to the school by chance. Growing boys to become men requires our focus on three strategic areas: Empowering Learning : Building self-directed learners who excel in learning. Serving and Belonging : Fostering in our students, a strong sense of belonging and a disposition toward service and contribution. Every Boy Aspiring : Helping our students discover and hone their skills and talents and bringing out the best in them.",
 		"Type of School": "Government-aided Sch / Boys' School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
@@ -65,32 +65,32 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Athletics",
-			"Basketball",
-			"Cricket",
-			"Football",
-			"Hockey",
-			"Rugby",
-			"Swimming",
-			"Tennis",
-			"Water Polo"
+			"Saints Rugby",
+			"Sports - Athletics",
+			"Sports - Basketball",
+			"Sports - Cricket",
+			"Sports - Football",
+			"Sports - Hockey",
+			"Sports - Swimming",
+			"Sports - Tennis",
+			"Sports - Waterpolo"
 		],
 		"Uniformed Groups": [
-			"Boys' Brigade",
-			"Ncc (Land)",
-			"Npcc",
-			"Scouts"
+			"Ug - Boys' Brigade",
+			"Ug - Ncc (Land)",
+			"Ug - Npcc",
+			"Ug - Scouts"
 		],
 		"Visual and Performing Arts": [
-			"Band - Military",
-			"Choir",
-			"Drama - English",
-			"Photographic Society"
+			"Clubs - Photographic Society",
+			"Pa - Band Military",
+			"Pa - Saints Choir",
+			"Pa - Saints Drama - English"
 		],
 		"Clubs & Societies": [
-			"Robotics Club",
-			"Saint For Christ",
-			"Singapore Youth Flying Club"
+			"Clubs - Robotics",
+			"Clubs - Syfc",
+			"Saints Fellowship"
 		]
 	},
 	"SpecialProgrammes": {
@@ -98,16 +98,10 @@
 			"STEM": "WISE Saints Engineering Design Programme",
 			"Sports & Outdoor Education": "Saints Rugby for Life"
 		},
-		"Special Student Development Programmes Offered": "St Andrew's Secondary offers customised programmes to cater to students with varied interests and strengths. The RKS Adams programme stretches our Express students who are academically strong. The Jacob's Ladder programme engages students in the Normal (Academic) stream to build a strong learning disposition. The Marshall Plan develops students in the Normal Technical stream with the life-skills to leverage their potential. Our Applied Learning programme, an Engineering Design programme, grows Saints with problem solving skills using the Design Thinking process. Saints get to identify themselves as engineers and are inspired with creative energies to design solutions to authentic issues. At the Lower Secondary level, Saints are equipped with 21st Century competencies and grounded with WISE and TRUE values. In key programmes like the Saints Millenium Race, the Young Scientist programme and the Oral History project, Saints learn in real world contexts and delve deep into understanding, and applying the underlying issues behind problems, considering the ethical and practical aspects of each possible solution in decisions they make. At Upper Secondary level, Saints embark on project-based learning via the Elective subjects they pursue. This encourages discovery, exploratory learning and problem solving so that they can better understand how the various subjects help them make sense of their world and prepare them for work. Our distinctive Rugby for Life programme leverages on the school's long standing tradition in this rugged and disciplined sport. Saints undertake a variety of Values-in-action projects (local and overseas), to serve the community around them and beyond, often with a sports or outdoor education dimension."
+		"Special Student Development Programmes Offered": "In St Andrew's Secondary, we develop Saints to be Servant Leaders, equipped with 21st Century competencies including critical thinking and grounded with WISE and TRUE values. Saints undertake a variety of Values-in-action projects to serve the community, both local and overseas. The school offers customised programmes to cater to students with varied interests and strengths. The RKS Adams programme stretches our Express students who are academically strong while the Francis Thomas programme nurtures students to be self-directed learners. The Jacob's Ladder programme engages students in the Normal (Academic) stream to build a strong learning disposition. The Marshall Plan develops students in the Normal Technical stream with the life-skills to harness their potential. At the Lower Secondary level our Applied Learning programme on Engineering Design equips Saints with problem solving skills using the Design Thinking process. Saints get to identify themselves as engineers and are inspired to creatively design solutions to authentic issues. In key programmes like the Young Scientist programme and the Oral History project, Saints learn and apply problem solving skills in real world contexts. At Upper Secondary level, Saints embark on project-based learning via the Elective subjects they pursue. This encourages discovery, exploratory learning and problem solving so that they can make sense of their world and are better prepared for work. Our distinctive Rugby for Life programme leverages on the school's long standing tradition in this rugged and disciplined sport."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Special Awards": "LHL Award for Innovation in the Normal Course",
-				"Development Award": "DA (National Education)",
-				"Outstanding Development Award": "ODA (Character Development)",
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"2015": {
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
 				"Development Award": "DA (National Education)",
@@ -124,56 +118,6 @@
 				"Special Awards": "LHL Award for Innovation in the Normal Course"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Rugby",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Rugby",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Squash",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Squash",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Golf",
@@ -357,21 +301,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Band - Concert",
 					"award": "Distinction"
@@ -428,31 +357,6 @@
 				}
 			],
 			"Best Unit Award": [
-				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
 				{
 					"year": "2015",
 					"category": "Boys' Brigade",
@@ -533,30 +437,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 239,
-			"upper": 246,
-			"lowerAffiliated": 188,
-			"upperAffiliated": 250
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 180,
-			"upper": 199,
-			"lowerAffiliated": 155,
-			"upperAffiliated": 186
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 142,
-			"upper": 154,
-			"lowerAffiliated": 122,
-			"upperAffiliated": 151
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 242,
@@ -626,6 +506,30 @@
 			"lower": 141,
 			"upper": 158,
 			"lowerAffiliated": 118,
+			"upperAffiliated": 151
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 234,
+			"upper": 245,
+			"lowerAffiliated": 189,
+			"upperAffiliated": 262
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 186,
+			"upper": 199,
+			"lowerAffiliated": 153,
+			"upperAffiliated": 187
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 137,
+			"upper": 158,
+			"lowerAffiliated": 110,
 			"upperAffiliated": 151
 		}
 	],

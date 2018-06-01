@@ -52,7 +52,26 @@
 		"SOCIAL STUDIES",
 		"TAMIL"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Football",
+			"Taekwondo",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Dance - International",
+			"Digital Media Club",
+			"Ensemble - Handbell/Handchime",
+			"Ensemble - Harmonica"
+		],
+		"Clubs & Societies": [
+			"Science Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -959,7 +978,8 @@
 				"Best Unit Award": {
 					"Scout": "Bronze"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "689189"

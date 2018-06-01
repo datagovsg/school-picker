@@ -47,9 +47,20 @@
 		"Tamil"
 	],
 	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Football",
+			"Volleyball"
+		],
 		"Uniformed Groups": [
 			"Brownies",
+			"Scouts",
 			"Singapore Red Cross Society"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Choir",
+			"Dance - Chinese"
 		]
 	},
 	"SpecialProgrammes": {
@@ -60,11 +71,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"Development Award": "DA (Character Development)",
-				"Outstanding Development Award": "ODA (National Education)",
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"2015": {
 				"Development Award": "DA (Character Development)",
 				"Outstanding Development Award": "ODA (National Education)"
@@ -78,16 +84,6 @@
 				"Outstanding Development Award": "ODA (National Education)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Volleyball",
@@ -120,36 +116,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Gamelan",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category A",
@@ -238,16 +204,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Brownies (Pack 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Scout",
-					"award": "Bronze"
-				},
-				{
 					"year": "2015",
 					"category": "Brownies (Pack 1)",
 					"award": "Gold"
@@ -281,8 +237,8 @@
 		1.3713962
 	],
 	"svy21": [
-		33536.1,
-		39267.67
+		33536.06,
+		39267.6
 	],
 	"planningArea": "HG",
 	"neighbours": [

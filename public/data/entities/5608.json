@@ -50,8 +50,7 @@
 	"Cca": {
 		"Physical Sports": [
 			"Badminton",
-			"Basketball School Team",
-			"Table Tennis"
+			"Basketball School Team"
 		],
 		"Uniformed Groups": [
 			"Singapore Red Cross Society"
@@ -60,7 +59,6 @@
 			"Choir",
 			"Dance Ensemble",
 			"Ensemble - Angklung/Kulintang",
-			"Lion Dance Troupe",
 			"Orchestra - Chinese",
 			"Visual Arts Club"
 		],
@@ -83,13 +81,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				],
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"2015": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -103,36 +94,6 @@
 				"Development Award": "DA (Character Development)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Basketball",
@@ -276,31 +237,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -378,11 +314,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Red Cross",
-					"award": "Silver"
-				},
-				{
 					"year": "2015",
 					"category": "Red Cross",
 					"award": "Silver"
@@ -411,8 +342,8 @@
 		1.3374071
 	],
 	"svy21": [
-		29606.9,
-		35509.27
+		29606.86,
+		35509.2
 	],
 	"planningArea": "TP",
 	"neighbours": [

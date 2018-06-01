@@ -14,12 +14,12 @@
 	],
 	"email": "TWSS@MOE.EDU.SG",
 	"mrt": [],
-	"bus": "975 , 985 , 190 , 307 ",
+	"bus": "975 , 985 , 190 , 982E , 557 ",
 	"GeneralInformation": {
 		"Principal": "Mr Chan Yew Heng Edwin",
 		"Vice Principal": [
-			"Miss Diana Goh Boon Lang",
-			"Mr Wu Tian Hwee"
+			"Mr Wu Tian Hwee",
+			"Miss Diana Goh Boon Lang"
 		],
 		"School Vision": "A Community of Future-Ready Learners who Lead, Serve and Achieve",
 		"School Mission": "Empowering Lives, Transforming Our Future",
@@ -30,9 +30,9 @@
 	},
 	"SubjectOffered": [
 		"Additional Mathematics",
+		"Art",
 		"Art Na Level",
 		"Art Nt Level",
-		"Art 'O' Level",
 		"Basic Chinese",
 		"Basic Malay",
 		"Basic Tamil",
@@ -50,14 +50,20 @@
 		"English Language (Syll A)",
 		"English Language (Syll T)",
 		"Food And Consumer Education",
+		"Food Studies, N Level",
+		"Higher Chinese",
+		"Higher Tamil",
+		"Literature(E)",
 		"Malay",
 		"Malay N(A)",
 		"Mathematics",
 		"Mathematics (Syllabus A)",
 		"Mathematics (Syllabus T)",
+		"Music",
 		"Physical Education",
 		"Physics",
 		"Principles Of A/C",
+		"Principles Of Accounts",
 		"Science (Chem, Bio)",
 		"Science (Phy, Chem)",
 		"Science (Syll T)",
@@ -78,8 +84,7 @@
 			"Boys' Brigade",
 			"Girl Guides",
 			"Ncc (Land)",
-			"Npcc",
-			"St. John Brigade"
+			"Npcc"
 		],
 		"Visual and Performing Arts": [
 			"Art And Craft Club",
@@ -91,7 +96,6 @@
 		"Clubs & Societies": [
 			"Environmental Club",
 			"Infocom Club",
-			"Library",
 			"Robotics Club"
 		]
 	},
@@ -100,24 +104,11 @@
 			"STEM": "Re-designing the Future with Materials Science",
 			"Sports & Outdoor Education": "Sports and Sportsmanship Programme @ TWSS (Experience, Expose, Excel)"
 		},
-		"Special Student Development Programmes Offered": "Teck Whye Secondary School offers the Applied Learning Programme (ALP) which provides opportunities for students to learn interesting STEM (Science Technology Engineering Mathematics) applications in the area of Material Sciences and Engineering.  Students will learn more about material properties, integration with Robotics and applications in the context of Defence Science. The emphasis is on the design thinking, connecting knowledge from across disciplines, stretching the imagination and applying these in authentic settings and real world contexts. In the area of Co-Curriculum, excellent platforms are provided for our students to develop strength of character, values and inculcate the Growth Mindset to overcome challenges that come their way in life. It is with this that we have structured our Learning for Life Programme (LLP) for our students - the Sports Experience, the Sports Development and Sports Excellence. In particular, our strong Hockey programme - \"Nurturing Sports Stars of Tomorrow through Hockey\" seeks to further develop the skills of our students in the sport to lead and contribute at the national levels. Throughout these programmes, our students participate in and develop their passion and aptitude in the respective sports and activities. Sportsmanship values, character and attitudes are constantly emphasised.  Other key programmes offered include Leadership Development Programme, Drama Programme, Sec 3 Adventure and Leadership Camp and Talent Development Programme."
+		"Special Student Development Programmes Offered": "The Applied Learning Programme (ALP) provides opportunities for students to learn interesting STEM (Science, Technology, Engineering, Mathematics) applications, through using the Design Thinking Process in LEGO Education Solutions. In this ALP - C.R.E.A.T.E. or Creative Robotics Experience through Authentic Thinking Exposure - students will develop problem-solving, critical thinking and collaborative learning skills when they build LEGO robotic sets to complete specific tasks which transform abstract STEM concepts into tangible hands-on learning experiences. In the co-curriculum area, excellent platforms are provided for our students to develop strength of character, values and inculcate the Growth Mindset to overcome challenges that come their way in life. Our Learning for Life Programme (LLP), Sports & Sportsmanship Programme (Sports Experience, Sports Development and Sports Excellence), is the core programme for character building. Our students actively participate in and develop their passion and aptitude in a wide variety of sports and activities. Sportsmanship values, character and attitudes are constantly emphasised. Other key programmes in character building include Student Leadership Development Programme, Sec 3 Adventure and Leadership Camp and Science Talent Development Programme."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": "DA (Character Development)"
-			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Floorball",
@@ -201,26 +192,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
@@ -282,26 +253,6 @@
 				}
 			],
 			"Best Unit Award": [
-				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
 				{
 					"year": "2015",
 					"category": "Boys' Brigade",
@@ -382,30 +333,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 190,
-			"upper": 249,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 163,
-			"upper": 194,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 125,
-			"upper": 157,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 191,
@@ -474,6 +401,30 @@
 			"programme": "Normal Technical",
 			"lower": 108,
 			"upper": 154,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 238,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 157,
+			"upper": 182,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 114,
+			"upper": 152,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

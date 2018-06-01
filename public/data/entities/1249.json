@@ -106,26 +106,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category A",
 					"award": "Recognition(Sm)"
@@ -203,11 +183,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Scout",
-					"award": "Bronze"
-				},
-				{
 					"year": "2015",
 					"category": "Scout",
 					"award": "Silver"
@@ -231,8 +206,8 @@
 		1.3840987
 	],
 	"svy21": [
-		21361.6,
-		40672.27
+		21361.56,
+		40672.2
 	],
 	"planningArea": "BP",
 	"neighbours": [

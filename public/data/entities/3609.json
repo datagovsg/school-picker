@@ -21,6 +21,7 @@
 	"GeneralInformation": {
 		"Principal": "Mr Teoh Teik Hoe",
 		"Vice Principal": "Mr Ang Johnny",
+		"Vice Principal (Admin)": "Mr Lee Chee Seng",
 		"School Vision": "Creative Learners, Upright Citizens, Global Thinkers",
 		"School Mission": "To nurture East Springians to be confident, vibrant, compassionate and responsible adults who are able to contribute as citizens and as individuals.",
 		"School Philosophy, Culture and Ethos": "East Spring Secondary School embraces a nurturing, synergistic and innovative staff culture. Teachers exercise duty of care and professionalism to develop students to their fullest potential in the total curriculum. Our staff are collegial and collaborative, working collectively and interdependently towards common goals for continuous improvement and excellence. To build staff capacity in their pedagogical and instructional competency, the school plans and intentionally put in place professional development sessions and reflective practices. The Instructional Programme (IP) Departments are empowered to experiment with practices to deepen student engagement in learning. The school strives to develop every student's ability and talent to the fullest to benefit the self, community and nation. We prepare our students for the 21st century by cultivating innovation and creativity, as well as competencies such as leadership and cross cultural literacy. Through these programmes, East Spring provides diverse experiences for all-round development of her student to emerge as creative learners, upright citizens and global thinkers. The expectations set for staff and students are best expressed with the tagline Aim High, Act Now, encapsulating the school belief anchored upon the school's R3ISE values.",
@@ -95,12 +96,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				]
-			},
 			"2015": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -117,16 +112,6 @@
 				"Special Awards": "LHL Award for Innovation in the Normal Course"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Floorball",
@@ -159,36 +144,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -277,31 +232,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCDCC",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Bronze"
-				},
-				{
 					"year": "2015",
 					"category": "NCC (Land Boys)",
 					"award": "Gold"
@@ -381,30 +311,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 210,
-			"upper": 236,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 161,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 105,
-			"upper": 150,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 210,
@@ -473,6 +379,30 @@
 			"programme": "Normal Technical",
 			"lower": 94,
 			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 227,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 162,
+			"upper": 185,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 100,
+			"upper": 156,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

@@ -14,7 +14,7 @@
 	],
 	"email": "YISHUN_SS@MOE.EDU.SG",
 	"mrt": "YISHUN MRT, KHATIB MRT",
-	"bus": "167 , 169 , 171 , 800 , 811 , 812 , 856 , 858 , 859 , 969 , 980 ",
+	"bus": "167 , 169 , 171 , 800 , 807 , 811 , 812 , 856 , 858 , 859 , 860 , 969 , 980 ",
 	"GeneralInformation": {
 		"Principal": "MDM NG SHOK YAN",
 		"Vice Principal": [
@@ -35,24 +35,27 @@
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ENGLISH LANGUAGE",
+		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
+		"FOOD STUDIES, N LEVEL",
 		"HIGHER CHINESE",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
-		"MUSIC",
+		"MUSIC NT LEVEL",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
-		"PRINCIPLES OF A/C",
+		"PRINCIPLES OF ACCOUNTS",
 		"RETAIL OPERATIONS",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
-		"SOCIAL STUDIES",
+		"SCIENCE (SYLL T)",
+		"SOCIAL STUDIES N(T)",
 		"TAMIL"
 	],
 	"Cca": {
@@ -68,8 +71,8 @@
 			"Boys' Brigade",
 			"Girl Guides",
 			"Ncc (Land)",
-			"Npcc",
-			"St. John Brigade"
+			"Ncdcc",
+			"Npcc"
 		],
 		"Visual and Performing Arts": [
 			"Band - Symphonic",
@@ -879,7 +882,8 @@
 					"Npcc (Land)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1101,6 +1105,23 @@
 			"Normal Technical": [
 				"132",
 				"159",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"200",
+				"243",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"166",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"137",
+				"158",
 				"None-posted"
 			]
 		}

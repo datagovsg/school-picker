@@ -107,17 +107,10 @@
 			"STEM": "Interdisciplinary Research & Problem Solving",
 			"Sports & Outdoor Education": "Outdoor Education for Character & Leadership Development"
 		},
-		"Special Student Development Programmes Offered": "Learning for Life Programme (Outdoor Education), Applied Learning Programme (Game Design & Simulation and Robotics), Talent Development Programmes in Math (Math Olympiad), Science (Research), English (Debate), Developing Confidence in Public Speaking Programme and Mother Tongue Languages (Higher Mother Tongue), Problem & Inquiry Based Learning, Geography Field Studies, ICT Project Work, Lower Secondary Science Project, Character, Leadership & Citizenship  Programme, Normal Technical Achievers Programme, Normal Academic Excellence Programme, Reading Programme, and Overseas Exchanges."
+		"Special Student Development Programmes Offered": "Learning for Life Programme (Outdoor Education), Applied Learning Programme (Game Design & Simulation and Robotics), Talent Development Programmes in Math (Math Olympiad), English Debate, Developing Confidence in Public Speaking Programme, Literature Speech and Drama Programme, Problem & Inquiry Based Learning, Geography Field Studies, ICT Project Work, Lower Secondary Science Project, Character, Leadership & Citizenship  Programme, Stretch Programme, Normal Technical Achievers Programme, Normal Academic Excellence Programme, Reading Programme, and Overseas Exchanges."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Special Awards": "LHL Award for Innovation in the Normal Course",
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				]
-			},
 			"2015": {
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
 				"Development Award": [
@@ -148,36 +141,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category A",
@@ -266,36 +229,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 2)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Air)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Girl Guides (Coy 1)",
 					"award": "Gold"
@@ -380,30 +313,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 213,
-			"upper": 238,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 173,
-			"upper": 197,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 132,
-			"upper": 159,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 214,
@@ -472,6 +381,30 @@
 			"programme": "Normal Technical",
 			"lower": 132,
 			"upper": 155,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 206,
+			"upper": 235,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 171,
+			"upper": 198,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 110,
+			"upper": 159,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

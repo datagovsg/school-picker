@@ -50,6 +50,7 @@
 		"Literature(E)",
 		"Malay",
 		"Mathematics",
+		"Mathematics (Syllabus A)",
 		"Mathematics (Syllabus T)",
 		"Music",
 		"Physical Education",
@@ -69,7 +70,8 @@
 			"Football",
 			"Golf",
 			"Judo",
-			"Karate"
+			"Karate",
+			"Softball"
 		],
 		"Uniformed Groups": [
 			"Ncc (Air)",
@@ -93,18 +95,10 @@
 			"STEM": "Aviation",
 			"Community & Youth Leadership": "Developing Life Skills through Uniformed Groups Experience"
 		},
-		"Special Student Development Programmes Offered": "Gabrielites are developed in their Cognitive, Leadership, Aesthetics, Physical, Social and Moral domains so as to grow into STAR (Special, Transformed, Active and Ready) Gabrielites, equipped and prepared for future challenges with 21st Century competencies, anchored in the core values of Respect, Resilience, Responsibility and Care. Our Community and Youth Leadership Programme nurtures Gabrielites into leaders of character and service. The 4-year programme provides learning opportunities integrating Service Learning, Student Leadership and Outdoor Education. In their junior years, Gabrielities grow as Learners and Leaders who are Self-Directed and Collaborative. In their senior years, they become Active and Effective Learners and Leaders through their self-initiated service to the community, advocating for the causes they serve. In their growth and development to become Servant Leaders, Gabrielites acquire skills, attitudes and values through experiential activities in STAR Camp, Applied Design Service Learning, Project Work Service Learning, Digital Media Arts, Elective Modules, Heritage Trial, Mission Day, iMAD Carnival and Applied Learning Programme in Flight and Aerospace."
+		"Special Student Development Programmes Offered": "Gabrielites are developed in their Cognitive, Leadership, Aesthetics, Physical, Social and Moral domains so as to grow into STAR (Special, Transformed, Active and Ready) Gabrielites, equipped and prepared for future challenges with 21st Century competencies, anchored in the core values of Respect, Resilience, Responsibility and Care. Our Community and Youth Leadership Programme nurtures Gabrielites into leaders of character and service. The 4-year programme provides learning opportunities integrating Service Learning, Student Leadership and Outdoor Education. In their junior years, Gabrielities grow as Learners and Leaders who are Self-Directed and Collaborative. In their senior years, they become Active and Effective Learners and Leaders through their self-initiated service to the community, advocating for the causes they serve. In their growth and development to become Servant Leaders, Gabrielites acquire skills, attitudes and values through experiential activities in STAR Camp, Applied Design Service Learning, Project Work Service Learning, Digital Media Arts, Elective Modules, iMAD (i Make a Difference)Carnival - a biennial event where all Gabrielites come together to serve and to make a difference to the community, and Applied Learning Programme in Flight and Aerospace."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Best Practice Awards": "BPA (Staff Well-Being)",
-				"Development Award": [
-					"DA (Character Development)",
-					"PARTNERS (Merit)"
-				],
-				"Outstanding Development Award": "ODA (National Education)"
-			},
 			"2015": {
 				"Best Practice Awards": "BPA (Staff Well-Being)",
 				"Development Award": [
@@ -130,76 +124,6 @@
 				"Outstanding Development Award": "ODA (National Education)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Golf",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Golf",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Judo",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
 				{
 					"year": "2015",
 					"category": "Football",
@@ -363,21 +287,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2015",
 					"category": "Band - Concert",
 					"award": "Distinction"
@@ -429,31 +338,6 @@
 				}
 			],
 			"Best Unit Award": [
-				{
-					"year": "2014",
-					"category": "NCC (Air Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Red Cross",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
 				{
 					"year": "2015",
 					"category": "NCC (Air Boys)",
@@ -523,30 +407,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 221,
-			"upper": 245,
-			"lowerAffiliated": 188,
-			"upperAffiliated": 231
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 170,
-			"upper": 192,
-			"lowerAffiliated": 152,
-			"upperAffiliated": 194
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 107,
-			"upper": 152,
-			"lowerAffiliated": 135,
-			"upperAffiliated": 148
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -618,6 +478,30 @@
 			"upper": 153,
 			"lowerAffiliated": 122,
 			"upperAffiliated": 144
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 222,
+			"upper": 244,
+			"lowerAffiliated": 188,
+			"upperAffiliated": 233
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 174,
+			"upper": 198,
+			"lowerAffiliated": 153,
+			"upperAffiliated": 187
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 122,
+			"upper": 154,
+			"lowerAffiliated": 118,
+			"upperAffiliated": 151
 		}
 	],
 	"postalCode": "556140",

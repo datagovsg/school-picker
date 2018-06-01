@@ -16,7 +16,7 @@
 	"mrt": [
 		"King Albert Park MRT"
 	],
-	"bus": "66 , 67 , 74 , 77 , 151 , 154 , 156 , 157 , 170 , 171 , 174 , 563 , 852 , 961 , 961C , 970 ",
+	"bus": "66 , 67 , 74 , 77 , 151 , 154 , 157 , 170 , 171 , 174 , 563 , 852 , 961 , 970 ",
 	"GeneralInformation": {
 		"Principal": "Miss Ng Wun Har Grace",
 		"Vice Principal": [
@@ -38,10 +38,11 @@
 	"SubjectOffered": [
 		"Additional Mathematics",
 		"Art",
+		"Art 'O' Level",
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Combined Humanities",
+		"Chinese B",
 		"Computer Studies",
 		"English Language",
 		"Geography",
@@ -52,35 +53,64 @@
 		"Higher Tamil",
 		"History",
 		"Home Economics",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In English)",
+		"Language Arts",
 		"Literature(E)",
 		"Malay",
 		"Mathematics",
 		"Music",
 		"Music (MEP)",
+		"Music 'O' Level",
 		"Physical Education",
 		"Physics",
 		"Project Work",
 		"Tamil"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Football",
+			"Golf",
+			"Netball",
+			"Softball",
+			"Squash",
+			"Swimming",
+			"Synchronised Swimming",
+			"Ten-Pin Bowling",
+			"Tennis",
+			"Track"
+		],
+		"Uniformed Groups": [
+			"Girl Guides",
+			"Girls' Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Choir",
+			"Dance",
+			"Drama",
+			"Guitar Ensemble",
+			"Handbell Choir",
+			"String Ensemble",
+			"Visual Arts Club"
+		],
+		"Clubs & Societies": [
+			"Chess",
+			"Infocomm",
+			"Library",
+			"S.A.L.T.",
+			"The Sophia Society"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Integrated Programme - Dual Track School (offers both IP and O Levels)",
 			"Music Elective Programme"
 		],
-		"Special Student Development Programmes Offered": "MGS is a dual track school with an Integrated Programme leading to the International Baccalaureate Diploma in Anglo-Chinese School (Independent) and the O level track. Programmes include the Music Elective Programme (MEP), Sophia Blackmore Academies (SBA) - an in-house scholastic 'O' level programme, 1:1 Learning, Robotics, Code4Life, STEM Curriculum and Science Mentorship Programme. Other school-based programmes include Reality Outside Classrooms (ROCs), local and overseas learning journeys, Regional Youth Conference, Sophia Blackmore Lectures, GEL Curriculum, Education and Career Counselling, Community Service and Advocacy, Arts Appreciation, Outdoor Adventure Camp, Swimming Programme, Sports Mental Skills Training and Leadership Training."
+		"Special Student Development Programmes Offered": "MGS is a dual-track school with the O-level track and an Integrated Programme leading to the International Baccalaureate Diploma in Anglo-Chinese School (Independent). Programmes include the Music Elective Programme (MEP), Sophia Blackmore Academy (SBA) - an in-house scholastic O-Level programme, 1:1 Learning, Robotics, Code4Life, STEM Curriculum and Science Mentorship Programme. Other school-based programmes include Reality Outside Classrooms (ROCs), GEL Curriculum, Education and Career Guidance, Community Service and Advocacy, Arts Appreciation, Outdoor Education, Swimming Programme and Student Leadership Training."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"School Distinction Awards": "SDA",
-				"Best Practice Awards": "BPA (Teaching and Learning)",
-				"Development Award": "DA (National Education)",
-				"Outstanding Development Award": [
-					"ODA (Character Development)",
-					"Outstanding PARTNERS"
-				]
-			},
 			"2015": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": "BPA (Teaching and Learning)",
@@ -97,146 +127,6 @@
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Golf",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Golf",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Squash",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Squash",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Swimming",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Swimming",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
 				{
 					"year": "2015",
 					"category": "Golf",
@@ -660,51 +550,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -837,21 +682,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 2)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Girl Guides (Coy 1)",
 					"award": "Silver"
@@ -901,22 +731,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Integrated Programme",
-			"lower": 256,
-			"upper": 266,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "'O' Level Programme",
-			"lower": 252,
-			"upper": 257,
-			"lowerAffiliated": 220,
-			"upperAffiliated": 268
-		},
-		{
 			"year": "2015",
 			"programme": "Integrated Programme",
 			"lower": 256,
@@ -963,6 +777,22 @@
 			"upper": 259,
 			"lowerAffiliated": 221,
 			"upperAffiliated": 260
+		},
+		{
+			"year": "2018",
+			"programme": "Integrated Programme",
+			"lower": 260,
+			"upper": 279,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "'O' Level Programme",
+			"lower": 254,
+			"upper": 263,
+			"lowerAffiliated": 220,
+			"upperAffiliated": 262
 		}
 	],
 	"postalCode": "599986",

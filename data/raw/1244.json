@@ -25,7 +25,7 @@
 		"School Vision": "Empowered Learners, Creative Minds.",
 		"School Mission": "Nurturing Creative and Values-driven Leaders to be Contributing Citizens",
 		"School Philosophy, Culture and Ethos": "Our School's Vision \"Empowered Learners, Creative Minds\" espouses the desire to nurture our students to be Confident, Creative, Conscientious and Caring Citizens (5Cs). In working towards achieving these 5Cs, we firmly believe that students need to be equipped with knowledge, life skills and 21st Century Competencies (21CC) for success in school and in life. The ideals require us not only to imbue head knowledge but also strong moral values and strength of judgement to be caring citizens. The school has embarked on a programme of Personal and Social Effectiveness (PSE) for students based on Stephen Covey's 7 Habits of Highly Effective People since 2006.   The school takes a student-centric approach and creates opportunities for students to develop curiosity for knowledge and the inclination to think critically and creatively. Since 2012, the school has incorporated 21CC in the total curriculum.",
-		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / DOUBLE SESSION",
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
 	},
@@ -52,9 +52,7 @@
 		"Physical Sports": [
 			"Badminton",
 			"Basketball",
-			"Football",
-			"Swimming",
-			"Wushu"
+			"Football"
 		],
 		"Uniformed Groups": [
 			"Scouts"
@@ -875,7 +873,8 @@
 				"Best Unit Award": {
 					"Red Cross": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "689905"

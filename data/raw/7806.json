@@ -34,12 +34,14 @@
 		"BASIC MALAY",
 		"BASIC TAMIL",
 		"CHARACTER & CITIZENSHIP (NT)",
+		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
 		"INFOCOMM TECHNOLOGY (NT)",
 		"ISC FACILITY SERVICES",
 		"ISC HOSPITALITY SERVICES",
 		"ISC MECHANICAL SERVICING",
 		"ISC RETAIL SERVICES",
+		"MATHEMATICS (SYLLABUS A)",
 		"MATHEMATICS (SYLLABUS T)",
 		"PHYSICAL EDUCATION",
 		"SCIENCE",
@@ -84,7 +86,7 @@
 		"MOE Programmes": [
 			"Not Available"
 		],
-		"Special Student Development Programmes Offered": "Vocational Taster Modules (TMs) and ISC Subjects conducted in authentic school-based learning facilities; Industry Experiential Programme and Work Experience Learning Journey (in collaboration with numerous industry partners); Outdoor Interdisciplinary Learning (e.g. Gardens by the Bay, Singapore Zoo, KidZania); NTUC Income OrangeAid CREST Quest Student Development Programme and Visual Arts Talent Development Programme to strengthen students' social and emotional competencies e.g. Guitar, Dance & Movement, Graffiti Art, Inline Skating, Drama and Communication, Photography and Videography, Media Production; Local and Overseas Cultural Immersion and Values-In-Action Programme (Vietnam, Myanmar, Cambodia, Indonesia); School Twinning Programme with Meridian International Learning Experience (High School from the Philippines); Local Adventure Programme"
+		"Special Student Development Programmes Offered": "Vocational Taster Modules (TMs) and ISC Subjects conducted in authentic school-based learning facilities; Industry Experiential Programme and Work Experience Learning Journey (in collaboration with numerous industry partners); Outdoor Interdisciplinary Learning (e.g. Gardens by the Bay, Singapore Zoo, KidZania); CREST Quest Student Development Programme and Visual Arts Talent Development Programme to strengthen students' social and emotional competencies e.g. Dance & Movement, Graffiti Art, Inline Skating, Drama and Communication, Photography and Videography, Media Production; Local and Overseas Cultural Immersion and Values-In-Action Programme (Vietnam, Cambodia, Indonesia); School Twinning Programme with Meridian International Learning Experience (High School from the Philippines); Local Adventure Programme"
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -167,7 +169,8 @@
 					"Dance - International": "Accomplishment",
 					"Ensemble - Guitar": "Accomplishment"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -183,7 +186,8 @@
 		"2014": {},
 		"2015": {},
 		"2016": {},
-		"2017": {}
+		"2017": {},
+		"2018": {}
 	},
 	"postalCode": "609561"
 }

@@ -14,7 +14,7 @@
 	],
 	"email": "waterway_ps@moe.edu.sg",
 	"mrt": [],
-	"bus": "50",
+	"bus": "50 , 381 ",
 	"GeneralInformation": {
 		"Principal": "Mrs Wee Kwan Liam",
 		"Vice Principal": "Mr Hoy Kin Chung Edwin",
@@ -39,7 +39,19 @@
 		"Physical Education",
 		"Social Studies"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Football"
+		],
+		"Visual and Performing Arts": [
+			"Band - Brass",
+			"Dance - International"
+		],
+		"Clubs & Societies": [
+			"Robotics Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Languages": "Orators@Waterway"
@@ -59,8 +71,8 @@
 		1.398828
 	],
 	"svy21": [
-		37490.29,
-		42301.06
+		37490.25,
+		42300.98
 	],
 	"planningArea": "PG",
 	"neighbours": [

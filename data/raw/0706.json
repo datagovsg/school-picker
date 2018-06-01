@@ -91,7 +91,66 @@
 		"NUS-A*STAR-VJC SCIENCE RESEARCH (PHY)",
 		"SMU GAME THEORY"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Cricket",
+			"Cross Country",
+			"Floorball",
+			"Hockey",
+			"Netball",
+			"Rockclimbing",
+			"Sailing",
+			"Soccer",
+			"Softball",
+			"Swimming",
+			"Table Tennis",
+			"Taekwondo",
+			"Tennis",
+			"Track & Field",
+			"Volleyball",
+			"Wushu"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Chinese Orchestra",
+			"Choir",
+			"Dance Club",
+			"Drama",
+			"Guitar Ensemble",
+			"Harmonica Band",
+			"Photographic Society",
+			"Photography Society",
+			"Piano Ensemble",
+			"String Ensemble",
+			"Symphonic Band"
+		],
+		"Clubs & Societies": [
+			"Astronomy Club",
+			"Bizclub",
+			"Chinese Society",
+			"Debates",
+			"Earth Watch",
+			"First Aid Club",
+			"Horticultural Society",
+			"Iglobe",
+			"Indian Cultural Society",
+			"Interact Club",
+			"Japanese Club",
+			"Library Council",
+			"Malay Cultural Society",
+			"Mathematics Society",
+			"Medical Society",
+			"Outdoor Activities Club",
+			"Pa Crew",
+			"Robotics Club",
+			"Singapore Youth Flying Club",
+			"Strategic Games Club",
+			"Students' Council",
+			"Writers' Circle"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Integrated Programme",
@@ -1878,7 +1937,8 @@
 					"Ensemble - Strings": "Accomplishment",
 					"Ensemble - Guzheng": "Accomplishment"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"L1R5History": {
@@ -1954,6 +2014,20 @@
 			"Science/IB": [
 				"2",
 				"5"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2018": {
+			"Arts": [
+				"2",
+				"8"
+			],
+			"Science/IB": [
+				"2",
+				"6"
 			],
 			"Commerce": [
 				"-",

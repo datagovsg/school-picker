@@ -34,9 +34,8 @@
 		"ART",
 		"CHEMISTRY",
 		"CHINESE",
+		"CHINESE B",
 		"CIVICS & MORAL EDUCATION",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELECTRONICS",
@@ -47,8 +46,12 @@
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HISTORY",
+		"HOME ECONOMICS",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
 		"LITERATURE(E)",
 		"MALAY",
+		"MALAY B",
 		"MATHEMATICS",
 		"MUSIC",
 		"PHYSICAL EDUCATION",
@@ -58,8 +61,10 @@
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
+		"SMART ELECTRICAL TECHNOLOGY",
 		"SOCIAL STUDIES",
-		"TAMIL"
+		"TAMIL",
+		"TAMIL B"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -86,6 +91,10 @@
 		],
 		"Clubs & Societies": [
 			"Infocomm Club"
+		],
+		"Others": [
+			"Student Leadership - The Prefectorial & Sports Leadership Board",
+			"The Students' Council"
 		]
 	},
 	"SpecialProgrammes": {
@@ -96,7 +105,7 @@
 			"Languages & Humanities": "Tanglin P.L.U.S. (Perspectives and Literacies to Understand Society)",
 			"Music & Performing Arts / Visual Arts & Design": "S4 THROUGH THE ARTS @ TANGLIN SECONDARY SCHOOL (TSS)"
 		},
-		"Special Student Development Programmes Offered": "The TSS curriculum is designed to provide students with rich learning opportunities to maximise their potential in the academic and co-curricular areas for future-readiness. Students can pursue subjects such as Electronics, Literature (English) and Art, on top of Pure Sciences and Additional Mathematics. Our Applied Learning Programme, Tanglin PLUS, is a distinctive programme which gives focus to the Humanities. It is aimed at developing students to become informed persons, critical thinkers, confident and effective communicators. Tanglin PLUS takes the learning of Geography, History and Social Studies beyond the classroom, enabling students to apply their knowledge and skills to real-life contexts such as in habitat enhancement programmes in the Singapore Botanic Gardens and community programmes that promote Singapore's unity and security. Tanglin PLUS complements the school's existing strengths in Mathematics, Science and Applied Subjects. For its Lifelong Learning Programme (LLP), TSS is proud to offer the Arts Programme, focusing on Music, Dance and Visual Arts. Students begin with a broad-based exposure to various musical, dance and visual art forms before opting for talent development electives to deepen their skills in show choir, dance, guitar or the visual arts. In collaboration with NAFA and NAC, the Arts Programme also provides students the exposure to the local arts scene and the career opportunities it has to offer. In TSS, it is always about growing leaders. Our customised four-year Student Leadership Development Programme ensures that students are equipped with the leadership skills and competencies so that they become compassionate leaders who are ready to serve society. The partnerships with National University of Singapore, Nanyang Technological University and Singapore Institute of Technology enable us to offer leadership mentoring programmes that inspire our students to set high goals for themselves and strive for excellence."
+		"Special Student Development Programmes Offered": "The TSS curriculum is designed to provide students with rich learning opportunities to maximise their potential in the academic and co-curricular areas for future-readiness. Students can pursue subjects such as Electronics, Smart Electrical Technology, Literature (English) and Art, on top of Pure Sciences and Additional Mathematics. Our Applied Learning Programme, Tanglin PLUS, where PLUS is an acronym for Perspectives and Literacies to Understand Society, aims to nurture students who possess effective communication and critical thinking skills, are innovative and civic-minded members of society. With these attributes, our students will be able to participate effectively in the 21st century learning and work environment that is increasingly marked by volatility, uncertainty, complexity and ambiguity. For its Lifelong Learning Programme (LLP), TSS is proud to offer the Arts Programme, focusing on Music, Dance and Visual Arts. Students begin with a broad-based exposure to various musical, dance and visual art forms before opting for talent development electives to deepen their skills in show choir, dance, guitar or the visual arts. In collaboration with NAFA and NAC, the Arts Programme also provides students the exposure to the local arts scene and the career opportunities it has to offer. In TSS, it is always about growing leaders. Our customised four-year Student Leadership Development Programme ensures that students are equipped with the leadership skills and competencies so that they become compassionate leaders who are ready to serve society. The partnerships with National University of Singapore, Nanyang Technological University and Singapore Institute of Technology enable us to offer leadership mentoring programmes that inspire our students to set high goals for themselves and strive for excellence."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -615,7 +624,8 @@
 					"Scout (Unit 1)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -834,6 +844,23 @@
 			"Normal Technical": [
 				"110",
 				"153",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"254",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"99",
+				"156",
 				"None-posted"
 			]
 		}

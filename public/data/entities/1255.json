@@ -92,26 +92,6 @@
 		"Primary": {
 			"Sports & Games Competition": [
 				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
 					"year": "2017",
 					"category": "Rope Skipping",
 					"subCategory": [
@@ -123,16 +103,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category C",
@@ -199,8 +169,8 @@
 		1.4000086
 	],
 	"svy21": [
-		36872.81,
-		42431.57
+		36872.77,
+		42431.5
 	],
 	"planningArea": "PG",
 	"neighbours": [

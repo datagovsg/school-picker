@@ -48,6 +48,7 @@
 		"COMBINED HUMANITIES (S,L)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
+		"DRAMA",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
@@ -82,7 +83,7 @@
 		],
 		"Uniformed Groups": [
 			"Girl Guides",
-			"St. John Brigade"
+			"National Civil Defence Cadet Corps"
 		],
 		"Visual and Performing Arts": [
 			"Band - Concert",
@@ -107,7 +108,7 @@
 		"MOE Programmes": [
 			"Not Available"
 		],
-		"Special Student Development Programmes Offered": "Performing Arts Education, which is delivered as part of the lower secondary curriculum for all students, aims to develop students with a good foundation in music and drama, as well as to promote an appreciation for the arts and aesthetics. Through this programme, students develop problem-solving abilities and thinking skills like analysing, synthesising and evaluating. This helps them identify, appreciate and deepen their understanding of the art forms of our different ethnic and other national communities. Different modes of assessment have been used to measure the level of cognitive and affective development in the subject. Various platforms, such as the Performing Arts Showcases and Arts Alive! Concerts, have also been organised for students to display their talents by performing to the school community and stakeholders."
+		"Special Student Development Programmes Offered": "Performing Arts Education, which is delivered as part of the lower secondary curriculum for all students, aims to develop students with a good foundation in music and drama, as well as to promote an appreciation for the arts and aesthetics. Through this programme, students develop problem-solving abilities and thinking skills like analysing, synthesising and evaluating. This helps them identify, appreciate and deepen their understanding of the art forms of our different ethnic and other national communities. Different modes of assessment have been used to measure the level of cognitive and affective development in the subjects. Various platforms, such as the Performing Arts Showcases and Arts Alive! Concerts, have also been organised for students to display their talents by performing to the school community and stakeholders."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -599,7 +600,8 @@
 					"Girl Guides (Coy 1)": "Gold",
 					"St John Ambulance Brigade": "Bronze"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -860,6 +862,26 @@
 				"156",
 				"130",
 				"150"
+			]
+		},
+		"2018": {
+			"Express": [
+				"223",
+				"240",
+				"188",
+				"248"
+			],
+			"Normal Academic": [
+				"162",
+				"196",
+				"153",
+				"190"
+			],
+			"Normal Technical": [
+				"122",
+				"148",
+				"118",
+				"154"
 			]
 		}
 	},

@@ -23,7 +23,7 @@
 		],
 		"School Vision": "Gessians of Excellence, Standing and Significance.",
 		"School Mission": "Our school is a community that nurtures the best in each and strives ever ONWARD.",
-		"School Philosophy, Culture and Ethos": "The school strongly believes in providing a Quality Student Experience provided by a Quality School Team, which is committed to building quality relationships with our Partners. It believes that education in the 21st century is about nurturing the whole person, in which his/ her actions are guided by the school mission of nurturing the best in each to strive ever ONWARD. The school nurtures an environment where every student and staff member is valued, encouraged and empowered to excel, learn and care for others, and where their accomplishments are celebrated. The school designs a wide range of academic and student development programmes to provide students with both formal and informal learning opportunities. Through its distinctive programmes, the school builds students' confidence, nurtures in them 21st century competencies, and prepares them for the future. The school's CCE curriculum engages the students' heads, hearts and hands; every student will go through programmes such as level camps, community and youth leadership events and overseas expeditions that focus on developing self-mastery skills and contributing to the community.",
+		"School Philosophy, Culture and Ethos": "The school strongly believes in providing a Quality Student Experience provided by a Quality School Team, which is committed to building quality relationships with our Partners. It believes that education in the 21st century is about nurturing the whole person, in which his/ her actions are guided by the school mission of nurturing the best in each to strive ever ONWARD. The school nurtures an environment where every student and staff member is valued, encouraged and empowered to excel, learn and care for others, and where their accomplishments are celebrated. The school designs a wide range of academic and student development programmes to provide students with both formal and informal learning opportunities. Through its distinctive programmes, the school builds students' confidence, nurtures in them 21st century competencies, and prepares them for the future. The school's CCE curriculum engages the students' heads, hearts and hands; every student will go through programmes such as level camps and community and youth leadership events that focus on developing self-mastery skills and contributing to the community.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -31,7 +31,6 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART NA LEVEL",
-		"ART NT LEVEL",
 		"ART 'O' LEVEL",
 		"BASIC CHINESE",
 		"BASIC MALAY",
@@ -41,8 +40,6 @@
 		"CHINESE",
 		"CHINESE B",
 		"CHINESE N(A)",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
@@ -52,12 +49,15 @@
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"HIGHER CHINESE",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MALAY N(A)",
 		"MATHEMATICS",
 		"MATHEMATICS (SYLLABUS A)",
 		"MATHEMATICS (SYLLABUS T)",
+		"MOBILE ROBOTICS",
 		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
@@ -104,7 +104,7 @@
 			"STEM": "GESS Probes Programme",
 			"Community & Youth Leadership": "GESS LIFE Programme"
 		},
-		"Special Student Development Programmes Offered": "The GESS LIFE programme seeks to develop students to be confident and effective student leaders who positively impact their community through the 3D approach - Discovering myself, Developing good habits, and Designing our world. Students discover themselves and develop a better appreciation of one another's uniqueness using the Myers-Briggs Type Indicator assessment. They will learn effective strategies to leverage their strengths and build competencies in other areas, and collaborate with others. The LIFE programme will provide school-wide, cohort and personal opportunities for every student to purposefully apply their knowledge and skills to impact their school and community. The GESS Applied Learning Programme, GESS Probes*, serves to prepare students for their future workplace. It aims to develop future workskills 2020 such as transdisciplinarity, design thinking, and novel and adaptive thinking in students. The programme focuses on STEAM (Science, Technology, Engineering, Aesthetics and Mathematics) as well as the design thinking process. Probes* refers to the underwater probe that students will be tasked to design. They will also learn basic coding as part of their learning process. There are two tiers for the programme catering to different needs of the students."
+		"Special Student Development Programmes Offered": "The GESS LIFE programme seeks to develop students to be confident and effective student leaders who positively impact their community through the 3D approach - Discovering myself, Developing good habits, and Designing our world. Students discover themselves and develop a better appreciation of one another's uniqueness using the Myers-Briggs Type Indicator assessment. They will learn effective strategies to leverage their strengths and build competencies in other areas, and collaborate with others. The GESS LIFE programme will provide school-wide, cohort and personal opportunities for every student to purposefully apply their knowledge and skills to impact their school and community. The GESS Applied Learning Programme and GESS Probes* serve to prepare students for their future workplace. It aims to develop future workskills such as transdisciplinarity, design thinking, and novel and adaptive thinking in students. The programme focuses on STEAM (Science, Technology, Engineering, Aesthetics and Mathematics) as well as the design thinking process. Probes* refers to the underwater probe that students will be tasked to design. They will also learn basic coding as part of their learning process. There are two tiers for the programme catering to different needs of the students."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1103,7 +1103,8 @@
 					"Scout (Unit 1)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1325,6 +1326,23 @@
 			"Normal Technical": [
 				"138",
 				"158",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"223",
+				"249",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"172",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"119",
+				"157",
 				"None-posted"
 			]
 		}

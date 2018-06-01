@@ -115,9 +115,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": "DA (Character Development)"
-			},
 			"2015": {
 				"Special Awards": "LHL Award for Innovation in the Normal Course"
 			},
@@ -128,36 +125,6 @@
 				"Special Awards": "LHL Award for Innovation in the Normal Course"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Netball",
@@ -240,46 +207,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -403,21 +330,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Silver"
-				},
-				{
 					"year": "2015",
 					"category": "Girl Guides (Coy 1)",
 					"award": "Silver"
@@ -466,30 +378,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 229,
-			"upper": 246,
-			"lowerAffiliated": 200,
-			"upperAffiliated": 242
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 180,
-			"upper": 199,
-			"lowerAffiliated": 153,
-			"upperAffiliated": 195
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 124,
-			"upper": 158,
-			"lowerAffiliated": 124,
-			"upperAffiliated": 151
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -561,6 +449,30 @@
 			"upper": 159,
 			"lowerAffiliated": 136,
 			"upperAffiliated": 152
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 232,
+			"upper": 254,
+			"lowerAffiliated": 200,
+			"upperAffiliated": 257
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 194,
+			"upper": 199,
+			"lowerAffiliated": 152,
+			"upperAffiliated": 199
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 125,
+			"upper": 157,
+			"lowerAffiliated": 108,
+			"upperAffiliated": 150
 		}
 	],
 	"postalCode": "548595",

@@ -76,7 +76,6 @@
 			"Gamelan"
 		],
 		"Clubs & Societies": [
-			"Chess Club",
 			"Cool Science Club",
 			"Robotics Club"
 		]
@@ -91,16 +90,6 @@
 	"AchievementHistory": {
 		"Primary": {
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Basketball",
@@ -224,36 +213,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Gamelan",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -359,8 +318,8 @@
 		1.3541546
 	],
 	"svy21": [
-		19198.65,
-		37361.27
+		19198.61,
+		37361.2
 	],
 	"planningArea": "BK",
 	"neighbours": [

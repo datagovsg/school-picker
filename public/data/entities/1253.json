@@ -45,7 +45,27 @@
 		"Physical Education",
 		"Social Studies"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Excellence Rugby",
+			"Excellence Softball"
+		],
+		"Uniformed Groups": [
+			"Excellence Boys' Brigade",
+			"Excellence Girls' Brigade",
+			"Excellence Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Excellence Art Connoisseur Club",
+			"Excellence Band",
+			"Excellence Choir",
+			"Modular Art Connoisseur Club"
+		],
+		"Clubs & Societies": [
+			"Excellence El Literary Club",
+			"Excellence Environment Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"ICT & Media": "Developing 21st Century Competencies through ICT",
@@ -55,12 +75,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				]
-			},
 			"2015": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -80,36 +94,6 @@
 				]
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "2nd"
-				},
 				{
 					"year": "2015",
 					"category": "Softball",
@@ -273,31 +257,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -375,21 +334,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Scout",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Boys' Brigade",
 					"award": "Gold"
@@ -443,8 +387,8 @@
 		1.3828931
 	],
 	"svy21": [
-		34957.42,
-		40538.97
+		34957.38,
+		40538.9
 	],
 	"planningArea": "SE",
 	"neighbours": [

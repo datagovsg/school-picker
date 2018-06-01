@@ -60,7 +60,6 @@
 	"Cca": {
 		"Physical Sports": [
 			"Athletics",
-			"Basketball",
 			"Football",
 			"Netball",
 			"Rope Skipping",
@@ -77,9 +76,8 @@
 			"Malay Dance"
 		],
 		"Clubs & Societies": [
-			"Environment Club",
-			"Infocom Club (It Media)",
-			"Infocom Club (Robotics)"
+			"Environmental Club",
+			"Infocom Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -91,76 +89,6 @@
 	"AchievementHistory": {
 		"Primary": {
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "4th"
-				},
 				{
 					"year": "2015",
 					"category": "Football",
@@ -444,31 +372,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2015",
 					"category": "Choir",
 					"award": "Accomplishment"
@@ -551,11 +454,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Brownies (Pack 1)",
-					"award": "Bronze"
-				},
-				{
 					"year": "2015",
 					"category": "Scout",
 					"award": "Bronze"
@@ -584,8 +482,8 @@
 		1.3484672
 	],
 	"svy21": [
-		12645.73,
-		36732.67
+		12645.69,
+		36732.6
 	],
 	"planningArea": "JW",
 	"neighbours": [

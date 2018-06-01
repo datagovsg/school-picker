@@ -74,6 +74,7 @@
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
 		"SOCIAL STUDIES",
+		"SOCIAL STUDIES N(T)",
 		"TAMIL",
 		"TAMIL B",
 		"TAMIL N(A)"
@@ -991,7 +992,8 @@
 					"Npcc (Land)": "Silver",
 					"St John Ambulance Brigade": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1210,7 +1212,8 @@
 				"187",
 				"None-posted"
 			]
-		}
+		},
+		"2018": {}
 	},
 	"postalCode": "529177"
 }

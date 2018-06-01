@@ -5,7 +5,7 @@
 	"uen": " T07GS7020D",
 	"logo": "./Medias/Images/Schools/logos/tn_7020.jpg",
 	"website": "http://www.sji.edu.sg",
-	"address": "38, Malcolm Road ( 308274 )",
+	"address": "38, MALCOLM ROAD ( 308274 )",
 	"telephone": [
 		"62500022"
 	],
@@ -25,7 +25,7 @@
 		],
 		"School Vision": "A mission school of choice, recognised for values-centred education and learning driven by passion, that nurtures persons who make a difference to society.",
 		"School Mission": "Enabling youth in a Lasallian community to learn how to learn and to learn how to live; empowering them to become men and women of integrity and men and women for others.",
-		"School Philosophy, Culture and Ethos": "Catholic Lasallian Core Values: Faith, our foundation, Service, our way and Community, our support. School Slogan/Brand Statement: Nurturing Men & Women of Integrity and Men & Women for Others. A Lasallian community nurturing persons of integrity and persons for others. At SJI, we pride ourselves on producing young people of integrity with a strong desire to serve others, especially the poor. Character and faith formation are central to an SJI education.",
+		"School Philosophy, Culture and Ethos": "Catholic Lasallian Core Values: Faith, our foundation, Service, our way and Community, our support. School Slogan/Brand Statement: Nurturing Men & Women of Integrity and Men & Women for Others. At SJI, we endeavour to nurture young people to pursue their talents and interests so as to realize their fullest potential and to become persons of integrity with a strong desire to lead and serve others, especially the poor. Character and faith formation are central to an SJI education.",
 		"Type of School": "INDEPENDENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
@@ -42,9 +42,9 @@
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"COMPUTER STUDIES",
 		"ENGLISH LANGUAGE",
 		"GEOGRAPHY",
+		"HIGHER ART",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
 		"HIGHER TAMIL",
@@ -55,16 +55,51 @@
 		"MALAY",
 		"MATHEMATICS",
 		"MUSIC",
-		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"TAMIL"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Canoeing",
+			"Canoeing/Rowing/Dragon Boat",
+			"Cross Country",
+			"Fencing",
+			"Football",
+			"Hockey",
+			"Judo",
+			"Rugby",
+			"Sailing",
+			"Squash",
+			"Table Tennis",
+			"Tennis",
+			"Track & Field"
+		],
+		"Uniformed Groups": [
+			"Ncc (Land)",
+			"Ncc(Air)",
+			"Npcc",
+			"Scouts",
+			"St. John Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Drama Club",
+			"Guitar Ensemble",
+			"Sji Military Band",
+			"Sji Pipe Band",
+			"Sji Vocal Ensemble"
+		],
+		"Clubs & Societies": [
+			"Legion Of Mary",
+			"St Vincent De Paul Society",
+			"Young Christian Students"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Integrated Programme - Dual Track School (offers both IP and O Levels)"
 		],
-		"Special Student Development Programmes Offered": "SJI offers both the 4-year 'O'-level programme and a 6-year Integrated Programme (IP) leading to the International Baccalaureate (IB) Diploma at the end of the 6-year programme.  An SJI education aims to educate the whole person by providing a broad-based academic curriculum that is integrated with a comprehensive student development curriculum with a strong emphasis on character and leadership development.  The SJI Education adopts a framework with 3-levels of Learning. Academic Foundations in Level 1 lays the foundations in core subjects such as English Language, Mother Tongue Languages, Humanities, Sciences, Mathematics and the Arts. Academic Extensions in Level 2 provides opportunities for students to further explore their areas of interest in specific subjects/topics. At Level 3 - Sustained Inquiry and Thinking, students will delve deeper into specific areas through a sustained project or in innovative thinking programmes such as ArtScience, Design Thinking and World and Me, a multi-disciplinary programme developed by SJI.  Character and leadership development is nurtured throughout the curriculum, along with SJI's unique Religious, Moral and Social Education programme, co-curricular activities, leadership development opportunities, physical and outdoors education, international experience and overseas residential programmes."
+		"Special Student Development Programmes Offered": "SJI offers both the 4-year 'O'-level programme and a 6-year Integrated Programme (IP) leading to the International Baccalaureate (IB) Diploma at the end of the 6-year programme.  An SJI education aims to educate the whole person by providing a broad-based academic curriculum that is integrated with a comprehensive student development curriculum emphasising character and leadership development.  The SJI Education adopts a framework with 3-levels of Learning. Academic Foundations in Level 1 lays the foundations in core subjects such as English Language, Mother Tongue Languages, Humanities, Sciences, Mathematics and the Arts. Academic Extensions in Level 2 provides opportunities for students to further explore their areas of interest in specific subjects/topics. Sustained Inquiry and Thinking in Level 3 enables students to delve deeper into specific areas through sustained project work, including research work, or in innovative thinking programmes developed by SJI. Character and leadership development are nurtured through the curriculum, along with SJI's unique Religious, Moral and Social Education programme, co-curricular activities, leadership development opportunities, international experience, physical and outdoors education."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -2200,7 +2235,8 @@
 					"Scout (Unit 1)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		},
 		"Junior College": {
 			"2005": {},
@@ -2292,7 +2328,8 @@
 				"SYF Arts Presentation": {
 					"Drama - English": "Commendation"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -2424,6 +2461,19 @@
 				"238",
 				"258"
 			]
+		},
+		"2018": {
+			"Integrated Programme": [
+				"253",
+				"266",
+				"None-posted"
+			],
+			"'O' Level Programme": [
+				"244",
+				"255",
+				"238",
+				"260"
+			]
 		}
 	},
 	"L1R5History": {
@@ -2499,6 +2549,20 @@
 			"Science/IB": [
 				"2",
 				"7"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2018": {
+			"Arts": [
+				"-",
+				"-"
+			],
+			"Science/IB": [
+				"2",
+				"8"
 			],
 			"Commerce": [
 				"-",

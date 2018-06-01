@@ -28,9 +28,9 @@
 			"Geylang Methodist School (Primary) believes in nurturing the whole child. Each child will 'enter to learn' and be equipped with a strong foundation in literacy, numeracy and scientific skills. This is to help them 'depart to serve', and be ready to demonstrate their concern for their school, community and country through active participation and contribution for the good of Singapore.",
 			"Our school aims to instil in every pupil a strong desire to pursue academic and character excellence; to take risks and to give one's best. We equip our pupils with the skills, knowledge and passion for learning to develop them holistically as we believe that every child can learn.  The school believes in developing 21st CC in every child using ICT where the learner is the focal point of curriculum.  Curriculum is centred on nurturing self-directed and collaborative learning competencies in every pupil, heightening pupils' motivation and engagement in learning through innovations in T&L. ",
 			"In alignment with the Desired Outcomes of Education, we believe very strongly in inculcating the right values and attitudes in our pupils. The pupils will be imbued with the competencies and school values that will develop good character, equipped with leadership competencies.",
-			"The staff in the school believe that we 'enter to serve' the needs of our pupils well, so as to 'etch a legacy' in our pupils and in the Geylang community.  "
+			"The staff in the school believe that we 'enter to serve' the needs of our pupils well, so as to 'etch a legacy' in our pupils and in the Geylang community."
 		],
-		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / DOUBLE SESSION",
+		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "GEYLANG METHODIST SCHOOL (SECONDARY)"
 	},
@@ -814,7 +814,8 @@
 					"Boys' Brigade": "Gold",
 					"Girls' Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "389706"

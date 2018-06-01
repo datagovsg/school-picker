@@ -13,8 +13,8 @@
 		"67443752"
 	],
 	"email": "MBS@MOE.EDU.SG",
-	"mrt": "Eunos Station (Transfer Bus No.63, 63M)",
-	"bus": "8 , 15 , 22 , 25 , 51 , 55 , 61 , 63 , 63M , 65 , 66 , 93 , 94 , 854 ",
+	"mrt": "Eunos Station (Transfer Bus No.63, 63M) Ubi Station (Transfer Bus No. 137)",
+	"bus": "5 , 8 , 15 , 22 , 25 , 45 , 51 , 55 , 59 , 61 , 63 , 63M , 65 , 66 , 93 , 94 , 854 ",
 	"GeneralInformation": {
 		"Principal": "MRS ELAINE QUEK-LIM HWEE BIN",
 		"Vice Principal": [
@@ -68,12 +68,12 @@
 		],
 		"Clubs & Societies": [
 			"Chinese Tea Appreciation",
-			"Debate Club",
+			"Debating Club",
+			"Environmental & Science Club",
 			"Homec Club",
 			"I & E Club",
-			"Library Club",
-			"Robotics Club",
-			"Science Club"
+			"Library (Mrl) Club",
+			"Robotics Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -904,7 +904,8 @@
 				"Best Unit Award": {
 					"Scout": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "408931"

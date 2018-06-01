@@ -67,7 +67,6 @@
 			"Air Weapons",
 			"Badminton",
 			"Basketball",
-			"Fencing",
 			"Floorball",
 			"Football",
 			"Netball",
@@ -97,7 +96,7 @@
 			"Students' Council"
 		],
 		"Others": [
-			"House Executive Committee"
+			"House Committee"
 		]
 	},
 	"SpecialProgrammes": {
@@ -635,7 +634,8 @@
 					"Drama - English": "Accomplishment",
 					"Ensemble - Guitar": "Accomplishment"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"L1R5History": {
@@ -711,6 +711,20 @@
 			"Science/IB": [
 				"5",
 				"16"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2018": {
+			"Arts": [
+				"6",
+				"20"
+			],
+			"Science/IB": [
+				"10",
+				"20"
 			],
 			"Commerce": [
 				"-",

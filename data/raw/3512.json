@@ -42,6 +42,7 @@
 		"COMBINED HUMANITIES (S,H)",
 		"DESIGN & TECHNOLOGY",
 		"ENGLISH LANGUAGE",
+		"EXERCISE AND SPORTS SCIENCE",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -50,16 +51,15 @@
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
-		"OECIE PHYSICAL EDUCATION",
 		"PHYSICS",
 		"SCIENCE (PHY, CHEM)"
 	],
 	"Cca": {
 		"Physical Sports": [
 			"Air Rifle / Shooting",
-			"Basketball",
-			"Floorball",
-			"Football",
+			"Basketball (Boys)",
+			"Floorball (Girls)",
+			"Football (Boys)",
 			"Netball",
 			"Track & Field"
 		],
@@ -72,7 +72,7 @@
 		],
 		"Visual and Performing Arts": [
 			"Art And Craft Club",
-			"Band - Display/Marching",
+			"Band-Display/Concert",
 			"Choir",
 			"Dance - Modern",
 			"Drama - English"
@@ -86,7 +86,7 @@
 		"MOE Programmes": [
 			"Not Available"
 		],
-		"Special Student Development Programmes Offered": "Signature programmes: Da Vinci Programme which develops 21st century communication, collaboration and information skills, while sharpening critical and inventive thinking via applied learning opportunities; Principal's Honours List Programme; TK Current Affairs which builds general knowledge and discernment; SKILLS Programme which develops in students skills for self-directed learning, and critical and inventive thinking; TK Student Leadership programme; Outdoor Education at TK that stretches students mentally, physically and emotionally while instilling firm belief and confidence in their own ability to succeed; Overseas twinning programmes with schools, that broaden students' global outlook and increase cultural quotient. Programmes to deepen disciplinary understanding include the Mathematics and Chemistry Olympiads, the Australian Mathematics Competition and the EMAS Programme. Students also participate in Debating Competitions and the CB Paul Science Quiz. TKSS is renowned for its vibrancy and excellent CCAs in sports, the performing arts and uniformed groups. TeamTK's sportsmen and sportswomen have excelled in various sports such as Netball, Floorball and Football. The Uniformed Groups have a proven track record and have continuously excelled in national competitions. TKSS is the East Zone Centre of Excellence (COE) for Character and Citizenship Education as well as Design Education. As a COE, TK leads in the teaching and learning and supports collaboration in these areas for East Zone schools."
+		"Special Student Development Programmes Offered": "Signature programmes: Da Vinci Programme which develops 21st century communication, collaboration and information skills, while sharpening critical and inventive thinking via applied learning opportunities; Einstein Programme which develops computational thinking through programming micro-controllers to create solutions to solve real world problems; Principal's Honours List Programme which includes research curriculum; TK Current Affairs which builds general knowledge and discernment; SKILLS Programme which develops in students skills for self-directed learning, and critical and inventive thinking; TK Student Leadership programme; Outdoor Education at TK that stretches students mentally, physically and emotionally while instilling firm belief and confidence in their own ability to succeed; Overseas twinning programmes with schools, that broaden students' global outlook and increase cultural quotient. Programmes to deepen disciplinary understanding include the Mathematics and Science Olympiads and the EMAS Programme. Students also participate in Debating Competitions and the CB Paul Science Quiz. TKSS is renowned for its vibrancy and excellent CCAs in sports, the performing arts and uniformed groups. TeamTK's sportsmen and sportswomen have excelled in various sports such as Netball, Floorball and Football. The Uniformed Groups have a proven track record and have continuously excelled in national competitions. TKSS is the East Zone Centre of Excellence (COE) for Character and Citizenship Education as well as Design Education. As a COE, TK leads in the teaching and learning and supports collaboration in these areas for East Zone schools."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -954,7 +954,8 @@
 					"Npcc (Land)": "Gold",
 					"Scout (Unit 1)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1046,6 +1047,13 @@
 			"Express": [
 				"232",
 				"255",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"231",
+				"248",
 				"None-posted"
 			]
 		}

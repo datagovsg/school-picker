@@ -14,7 +14,7 @@
 	],
 	"email": "FAJAR_SS@MOE.EDU.SG",
 	"mrt": "BUKIT PANJANG MRT, BUKIT PANJANG LRT, PETIR LRT",
-	"bus": "67 , 75 , 170 , 171 , 176 , 177 , 178 , 960 , 961 , 961C , 963 , 963E , 963R , 970 , 979 , 979M ",
+	"bus": "67 , 75 , 170 , 171 , 176 , 177 , 178 , 180 , 960 , 961 , 961C , 963 , 963E , 963R , 970 , 979 , 979M ",
 	"GeneralInformation": {
 		"Principal": "MISS HO SOOK FUN DORIS",
 		"Vice Principal": [
@@ -42,8 +42,6 @@
 		"CHINESE",
 		"CHINESE B",
 		"CHINESE N(A)",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
@@ -54,7 +52,10 @@
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
+		"HIGHER TAMIL",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MALAY B",
@@ -92,10 +93,9 @@
 			"St John Brigade"
 		],
 		"Visual and Performing Arts": [
-			"Choir",
+			"Arts Society (Choir & Dance)",
 			"Concert Band",
-			"Drama",
-			"Movement & Dance (Modern & Ethnic)"
+			"Drama"
 		],
 		"Clubs & Societies": [
 			"Infocomm Club",
@@ -110,7 +110,7 @@
 			"STEM": "Sustainability through 21st Century Applied Critical and Inventive Thinking Skills (ACIT)",
 			"Community & Youth Leadership": "Lead to Shape"
 		},
-		"Special Student Development Programmes Offered": "The school is committed to equipping our students with the necessary 21st century competencies (21CC) for the future via our CCE curriculum, Values In Action programmes including Service Learning, a vibrant CCA programme, Creative Arts Programme, Leadership opportunities, Applied Learning (ALP) and Learning for Life (LLP) Programmes. Partnering with the Curriculum Planning and Development Division of MOE, our ALP on 'Sustainability' seeks to enable our students to attain the relevant knowledge, in particular, the Scientific Thinking and Engineering Design approaches. We also seek to develop 21CC in our students, especially Applied Critical and Inventive Thinking Skills (ACIT), values and attitudes to enable them to contribute positively and effectively to a sustainable 21st century world. Our ALP makes relevant the knowledge in our classrooms to our students' daily life experiences via authentic learning tasks, and enables our students to learn the process skills of design thinking, problem-based learning, and inquiry-based learning. The school is committed to bringing out the leadership potential in every student through our Student Leadership Programme (our LLP). This programme aims to build in our students the necessary 21st century skills, core values, and social and emotional competencies to face the challenges of the future. Our 'Educate-Encourage-Empower' framework and whole-staff involvement ensure an integrated and systematic student leadership development effort. Every student is 'educated' with an enhanced awareness of leading self and others, as well as relevant life-skills, and student leaders are given additional training to perform their roles and responsibilities well. Recognition structures are in place to 'encourage' personal mastery and development of leadership skills. Our students are also 'empowered' to undertake self- and class-initiated projects, to organise student-led programmes, and to give feedback and take action for school improvement."
+		"Special Student Development Programmes Offered": "The school is committed to equipping our students with the necessary 21st Century Competencies (21CC) for the future via our CCE curriculum, Values In Action programmes including Service Learning, a vibrant CCA programme, Creative Arts Programme, Leadership opportunities, Applied Learning (ALP) and Learning for Life (LLP) Programmes. Our ALP on 'Sustainability' seeks to enable our students to attain the relevant knowledge, in particular, the Scientific Thinking and Engineering Design approaches. We also seek to develop 21CC in our students, especially Applied Critical and Inventive Thinking Skills (ACIT), values and attitudes to enable them to contribute positively and effectively to a sustainable 21st century world. Our ALP makes relevant the knowledge in our classrooms to our students' daily life experiences via authentic learning tasks, and enables our students to learn the process skills of design thinking, problem-based learning, and inquiry-based learning. The school is committed to bringing out the leadership potential in every student through our Student Leadership Programme (our LLP). This programme aims to build in our students the necessary 21st century skills, core values, and social and emotional competencies to face the challenges of the future. Our 'Educate-Encourage-Empower' framework and whole school involvement ensure an integrated and systematic student leadership development effort. Every student is 'educated' with an enhanced awareness of leading self and others, as well as relevant life-skills, and student leaders are given additional training to perform their roles and responsibilities well. Recognition structures are in place to 'encourage' development and personal mastery of leadership skills. Our students are also 'empowered' to undertake self- and class-initiated projects, to organise student-led programmes, and to give feedback and take action for school improvement."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -537,7 +537,8 @@
 					"Scout (Unit 1)": "Bronze",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -759,6 +760,23 @@
 			"Normal Technical": [
 				"96",
 				"149",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"239",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"186",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"94",
+				"158",
 				"None-posted"
 			]
 		}

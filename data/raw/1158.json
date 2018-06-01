@@ -64,8 +64,8 @@
 			"Fusion Dance"
 		],
 		"Clubs & Societies": [
-			"Environmental Club",
-			"Robotics Club"
+			"Robotics Club",
+			"Science & Environmental Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -955,7 +955,8 @@
 					"Dance - Chinese": "Accomplishment",
 					"Dance - International": "Accomplishment"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "569299"

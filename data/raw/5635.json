@@ -53,7 +53,30 @@
 		"SOCIAL STUDIES",
 		"TAMIL"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Rope Skipping",
+			"Sports Club",
+			"Table Tennis",
+			"Track & Field"
+		],
+		"Uniformed Groups": [
+			"Girls' Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Angklung Ensemble",
+			"Art Club",
+			"Choir",
+			"Handbell Ensemble",
+			"International Dance",
+			"Media Club",
+			"String Ensemble"
+		],
+		"Clubs & Societies": [
+			"Christian Fellowship"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -1224,7 +1247,8 @@
 				"Best Unit Award": {
 					"Girls' Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "536741"

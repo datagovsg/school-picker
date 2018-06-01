@@ -70,7 +70,33 @@
 		"SCIENCE (SYLL T)",
 		"SOCIAL STUDIES N(T)"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Athletics",
+			"Badminton",
+			"Netball",
+			"Rugby",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Ncc Boys (Land)",
+			"Ncdcc",
+			"Npcc",
+			"Red Cross Youth"
+		],
+		"Visual and Performing Arts": [
+			"Art & Environment Club",
+			"Concert Band",
+			"Dance Club",
+			"Drama Club",
+			"Guzheng Ensemble",
+			"Lighthouse Productions"
+		],
+		"Clubs & Societies": [
+			"Media Resource Library",
+			"Robotics Enterprise"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -279,7 +305,8 @@
 					"Npcc (Land)": "Bronze",
 					"Red Cross": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -501,6 +528,23 @@
 			"Normal Technical": [
 				"127",
 				"157",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"197",
+				"235",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"162",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"128",
+				"158",
 				"None-posted"
 			]
 		}

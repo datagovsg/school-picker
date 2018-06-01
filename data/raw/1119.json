@@ -51,7 +51,29 @@
 		"SOCIAL STUDIES",
 		"TAMIL"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Netball",
+			"Sepak Takraw",
+			"Soccer",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Singapore Red Cross Society"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Choir",
+			"Dance - Chinese",
+			"Dance - Indian",
+			"Dance - Malay"
+		],
+		"Clubs & Societies": [
+			"New Media Club",
+			"Robotics Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -806,7 +828,8 @@
 				"Best Unit Award": {
 					"Red Cross": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "419529"

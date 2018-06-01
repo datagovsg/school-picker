@@ -13,7 +13,7 @@
 		"62919262"
 	],
 	"email": "STAMFORD_PS@MOE.EDU.SG",
-	"mrt": "Bugis MRT Station",
+	"mrt": "Bugis MRT Station.",
 	"bus": "Along Victoria Street:2 , 7 , 12 , 32 , 33 , 61 , 62 , 63 , 80 , 130 , 133 , 145 , 197 , NR8. ",
 	"GeneralInformation": {
 		"Principal": "MDM FAN YUEN FUN CASSIE",
@@ -49,21 +49,17 @@
 		"Physical Sports": [
 			"Floorball",
 			"Football",
-			"Netball",
 			"Track & Field",
 			"Wushu"
 		],
 		"Uniformed Groups": [
-			"Boys' Brigade",
-			"Cub Scouts",
-			"Girls' Brigade"
+			"Cub Scouts"
 		],
 		"Visual and Performing Arts": [
 			"Art And Craft Club",
 			"Dance - Chinese"
 		],
 		"Clubs & Societies": [
-			"Environment Club",
 			"Outdoor Activities Club"
 		]
 	},
@@ -679,7 +675,8 @@
 					"Boys' Brigade": "Silver",
 					"Scout": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "198423"

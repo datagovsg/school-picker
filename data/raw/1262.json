@@ -4,7 +4,7 @@
 	"levels": "P",
 	"uen": " T12GS0005D",
 	"logo": "./Medias/Images/Schools/logos/tn_1262.jpg",
-	"website": "http://www.springdalepri.moe.edu.sg/",
+	"website": "http://springdalepri.moe.edu.sg/",
 	"address": "71, Anchorvale Link ( 544799 )",
 	"telephone": [
 		"+65 63157600"
@@ -13,8 +13,8 @@
 		"+65 63153351"
 	],
 	"email": "springdale_ps@moe.edu.sg",
-	"mrt": "Nearest MRT station: - Sengkang MRT (NE16) *10-15 mins walk from MRT station",
-	"bus": "Nearest Bus Stop Opposite Blk 317B: - Bus 85 (from Punggol Temp Int) - Bus 372 (from Sengkang Int) *1-2 mins walk from bus stop number no. 67389 *Enter by Main Gate along Anchorvale Link or Rear G",
+	"mrt": "Sengkang Station (NE16)  Nearest LRT station: Farmway  *10-15 min walk from either station",
+	"bus": "50 , 85 , 102 , 372    Nearest Bus Stop: In front of Blk 326 Car Park  *1-2 min walk from bus stop; enter by Main Gate along Anchorvale Link or Rear Gate ",
 	"GeneralInformation": {
 		"Principal": "MDM KOH SIEW CHENG",
 		"Vice Principal": "MR HO WEE MIN KELVIN",
@@ -38,20 +38,31 @@
 		"MATHEMATICS",
 		"MUSIC",
 		"PHYSICAL EDUCATION",
+		"SCIENCE",
 		"SOCIAL STUDIES",
 		"TAMIL"
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Multi-Sports Club (P3 Modular)",
+			"Basketball",
+			"Floorball",
+			"Frisbee",
+			"Gymnastics",
 			"Outdoor Adventure Club"
 		],
+		"Uniformed Groups": [
+			"Scouts"
+		],
 		"Visual and Performing Arts": [
-			"Performing Arts Club (P3 Modular)"
+			"Choir",
+			"Dance - International",
+			"Ukulele"
 		],
 		"Clubs & Societies": [
-			"Environment Club (P3 Modular)",
-			"Innovators' Club"
+			"Green Artists Club",
+			"Innovators' Club",
+			"Media Club",
+			"Science Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -89,7 +100,8 @@
 				"SYF Arts Presentation": {
 					"Art - Category C": "Recognition"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "544799"

@@ -21,22 +21,19 @@
 			"MDM LOH SOI HONG MICHELLE",
 			"MDM MASAYU BINTE MAHMUD"
 		],
-		"School Vision": [
-			"Weave - quality teaching, learning & values",
-			"Dream - the best",
-			"Lead - to inspire"
-		],
-		"School Mission": "Nurturing Caring, Confident and Creative individuals equipped to face life's challenges.",
-		"School Philosophy, Culture and Ethos": "A School Distinction Award and Singapore Quality Class school, the school is committed to achieving its mission, 'Nurturing caring, confident and creative individuals equipped to face life's challenges'. Through the school motto 'Wisdom and Truth', the school seeks to imbue in each student the school values, represented in the acronym WISDOM, which stands for: Working with others, Integrity, PerSeverance, Dedication, LOyalty and Mindset of excellence. The school strongly believes that quality staff, and strong partnerships with alumni, parents, community and educational partners are the foundation for organisational excellence. The students' many achievements in the Academics, Sports, Performing Arts and Uniform Groups are a testament to the impact of our programmes and commitment in equipping them with the values, skills and knowledge to excel even when students may or may not have the background or prerequisites. The school's best practices on Teaching & Learning, Student-all-round Development, Character & Citizenship education and Staff Well-being & Development signifies that the school is committed in grooming our students to be confident and ready for the ever changing economic and social landscape.",
+		"School Vision": "Every Woodlander a Gift to Society",
+		"School Mission": "Nurturing Enduring Hearts and Creative Minds Ready to Serve the Society",
+		"School Philosophy, Culture and Ethos": "A School Distinction Award and Singapore Quality Class school, the school is committed to achieving its mission, Nurturing Enduring Hearts and Creative Minds Ready to Serve Society. Through the school motto 'Wisdom and Truth', the school seeks to imbue in each student the school values, represented in the acronym GR2EAT, which stands for: Growth, Respect, Resilience, Empathy, Appreciation and Trustworthiness. The school strongly believes that quality staff, and strong partnerships with alumni, parents, community and educational partners are the foundation for organisational excellence. The students' many achievements in the Academics, Sports, Performing Arts and Uniformed Groups are a testament to the impact of our programmes and commitment in equipping them with the values, skills and knowledge to excel even when students may or may not have the background or prerequisites. The school's best practices on Teaching & Learning, Student-all-round Development, Character & Citizenship education and Staff Well-being & Development signifies that the school is committed in grooming our students to be confident and ready for the ever changing economic and social landscape.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
 	},
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
-		"ART NA LEVEL",
-		"ART NT LEVEL",
-		"ART 'O' LEVEL",
+		"ART",
+		"BASIC CHINESE",
+		"BASIC MALAY",
+		"BASIC TAMIL",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
@@ -65,6 +62,7 @@
 		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
+		"SCIENCE (SYLL T)",
 		"TAMIL"
 	],
 	"Cca": {
@@ -84,13 +82,9 @@
 			"St. John Brigade"
 		],
 		"Visual and Performing Arts": [
-			"Art And Craft Club",
-			"Concert Band",
-			"Dance - Chinese",
-			"Dance - Indian",
-			"Dance - Malay",
-			"Drama - English",
-			"Ensemble - Guitar"
+			"Art Club",
+			"Band - Concert",
+			"Drama - English"
 		],
 		"Clubs & Societies": [
 			"Infocom Club"
@@ -1028,7 +1022,8 @@
 					"Npcc (Land)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1250,6 +1245,23 @@
 			"Normal Technical": [
 				"130",
 				"155",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"240",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"156",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"131",
+				"156",
 				"None-posted"
 			]
 		}

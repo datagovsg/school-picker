@@ -31,17 +31,19 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART",
+		"ART NA LEVEL",
+		"ART 'O' LEVEL",
 		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BIOLOGY",
 		"CHEMISTRY",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
-		"COMBINED HUMANITIES (S,L)",
+		"CHINESE",
+		"CHINESE N(A)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
+		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
 		"EXERCISE AND SPORTS SCIENCE",
 		"FOOD & NUTRITION",
@@ -50,10 +52,15 @@
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"LITERATURE(E)",
+		"MALAY",
+		"MALAY N(A)",
 		"MATHEMATICS",
+		"MATHEMATICS (SYLLABUS A)",
 		"MATHEMATICS (SYLLABUS T)",
-		"OECIE PHYSICAL EDUCATION",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"SCIENCE",
@@ -960,7 +967,8 @@
 					"Npcc (Land)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1182,6 +1190,23 @@
 			"Normal Technical": [
 				"131",
 				"151",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"208",
+				"239",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"175",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"138",
+				"159",
 				"None-posted"
 			]
 		}

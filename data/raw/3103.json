@@ -62,6 +62,7 @@
 		"H2 LITERATURE IN ENGLISH",
 		"H2 MATHEMATICS",
 		"H2 PHYSICS",
+		"H2 TRANSLATION (CHINESE)",
 		"H3 ESSENTIALS OF MODERN PHYSICS",
 		"H3 LITERATURE IN ENGLISH",
 		"H3 MATHEMATICS",
@@ -73,14 +74,12 @@
 		"MATHEMATICS",
 		"MUSIC",
 		"PHYSICAL EDUCATION",
-		"PHYSICS",
-		"TRANSLATION (CHINESE)"
+		"PHYSICS"
 	],
 	"Cca": {
 		"Physical Sports": [
 			"Badminton",
 			"Basketball",
-			"Cross Country",
 			"Floorball",
 			"Netball",
 			"Softball",
@@ -98,19 +97,18 @@
 		"Visual and Performing Arts": [
 			"Chinese Orchestra",
 			"Choir",
-			"Cldds",
 			"Concert Band",
 			"Dance Society",
-			"Eldds",
 			"Guitar Ensemble",
-			"Photography Club",
-			"Street Dance"
+			"Photography Club"
 		],
 		"Clubs & Societies": [
+			"Audio & Video/ Pa Club",
 			"History And Current Affairs Society",
-			"Infocomm Club",
+			"Infocom Club",
+			"Ldds - Chinese",
+			"Ldds - English",
 			"Library And Editorial Club",
-			"Pa/Ava Club",
 			"Science Leaders Academy",
 			"Service And Citizenship Society",
 			"Singapore Youth Flying Club",
@@ -123,7 +121,7 @@
 			"Integrated Programme",
 			"SAP"
 		],
-		"Special Student Development Programmes Offered": "The RV Integrated Programme (RV IP) offers a balanced education that seeks to develop every student's interests and talents to their fullest potential across areas of the academics, CCA and leadership. Our Leadership - Character Development Curriculum aims to inculcate sound values and nurture character and leadership in our students through programmes such as the Personal Leadership Programme, Overseas Experiential Learning Programme, Education and Career Guidance Week, National Education and Values in Action as well as our annual leadership seminar. Through our academic Cognitive Interest Development Curriculum, most notably our Construct, Integrate, Differentiate (CID) Programme, we empower students to be innovative and critical thinkers and prepare them to thrive in higher education. Our other academic talent development platforms include the Bicultural Studies Programme and Bicultural Leaders Academy, the Science Leaders Academy, the Mathematics Leaders Academy, the Humanities and Social Studies Leaders Academy and the Eco-Sustainability Leaders Academy. Our Co-Curricular Activities nurture 21st century competencies and develop the interests and talents of our students in a full range of sports, performing arts, uniformed groups, clubs and societies."
+		"Special Student Development Programmes Offered": "The RV Integrated Programme (RV IP) offers a balanced education that seeks to develop every student's interests and talents to their fullest potential across areas of the academics, CCA and leadership. Our Leadership - Character Development Curriculum aims to inculcate sound values and nurture character and leadership in our students through programmes such as the Personal Leadership Programme, Overseas Experiential Learning Programme, Education and Career Guidance Week, National Education and Values in Action as well as our annual leadership seminar. Through our academic Cognitive Interest Development Curriculum, most notably our Construct, Integrate, Differentiate (CID) Programme, we empower students to be innovative and critical thinkers and prepare them to thrive in higher education. Our other academic talent development platforms include the Bicultural Studies Programme and Bicultural Leaders Academy, the Science Leaders Academy, the Mathematics Leaders Academy, the Humanities and Social Studies Leaders Academy, the Eco-Sustainability Leaders Academy and the Student Leadership Development Academy. Our Co-Curricular Activities nurture 21st century competencies and develop the interests and talents of our students in a full range of sports, performing arts, uniformed groups, clubs and societies."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1488,7 +1486,8 @@
 					"Scout (Unit 1)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		},
 		"Junior College": {
 			"2005": {},
@@ -2041,7 +2040,8 @@
 					"Ensemble - Guitar": "Accomplishment",
 					"Ensemble - Strings": "Accomplishment"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -2148,6 +2148,13 @@
 				"273",
 				"None-posted"
 			]
+		},
+		"2018": {
+			"Express": [
+				"250",
+				"270",
+				"None-posted"
+			]
 		}
 	},
 	"L1R5History": {
@@ -2163,7 +2170,8 @@
 		"2014": {},
 		"2015": {},
 		"2016": {},
-		"2017": {}
+		"2017": {},
+		"2018": {}
 	},
 	"postalCode": "649961"
 }

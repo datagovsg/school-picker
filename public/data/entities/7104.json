@@ -27,8 +27,8 @@
 		"School Vision": "Institution of Eminence, Generations of Leaders; Grounded in Values, Global in Outlook",
 		"School Mission": "Empowering our students to be Role Models of Learning, Leaders of Society and Pillars of the Nation.",
 		"School Philosophy, Culture and Ethos": [
-			"Guided by the school's philosophy \"Excellence in Education for All\", Chung Cheng High School (Main) is committed to the development of our students and the nurturing of 21st century leaders through a holistic learning experience anchored on strong values. As the East Zone Centre of Excellence (Chinese), the school seeks to promote good practices in the teaching and learning of Chinese and Chinese Culture. A SAP school since 1979, we are committed to deliver an effective bilingual and values-based education. Through comprehensive bi-cultural programmes and various overseas immersion programmes, the school aims to nurture bi-cultural Chung Cheng leaders who are grounded in values, global in outlook and equipped with cross-cultural literacy. The school's rich tradition in culture and arts has seen many renowned talents in the cultural, literary and arts scene amongst our graduates. The Chung Cheng Education Framework focuses on delivering a forward-looking curriculum for the 21st century, equipping all students of Chung Cheng the values and skills that will enable them to excel in the evolving global landscape. As",
-			"an institution of eminence, the school offers a scenic and cultural environment with ample facilities to continue delivering quality education well into the 21st century."
+			"Guided by the school's philosophy \"Excellence in Education for All\", Chung Cheng High School (Main) is committed to the development of our students and the nurturing of 21st century leaders through a holistic learning experience anchored on strong values. As the East Zone Centre of Excellence (Chinese), the school seeks to promote good practices in the teaching and learning of Chinese and Chinese Culture. A SAP school since 1979, we are committed to deliver an effective bilingual and values-based education. Through comprehensive bi-cultural programmes and various overseas immersion programmes, the school aims to nurture bi-cultural Chung Cheng leaders who are grounded in values, global in outlook and equipped with cross-cultural literacy. The school's rich tradition in culture and the arts has seen many renowned talents in the cultural, literary and arts scene among our graduates. The Chung Cheng Total Curriculum Framework focuses on delivering a forward-looking curriculum for the 21st century, equipping all students with the values and skills that will enable them to excel in the evolving global landscape. As",
+			"an institution of eminence, the school offers an immersive environment that is well-resourced to deliver quality education well into the 21st century."
 		],
 		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
 		"Status of School": "Autonomous",
@@ -111,10 +111,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"School Distinction Awards": "SDA",
-				"Best Practice Awards": "BPA (Student All-Round Development)"
-			},
 			"2015": {
 				"School Distinction Awards": "SDA"
 			},
@@ -125,116 +121,6 @@
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Badminton",
@@ -588,51 +474,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -760,36 +601,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 2)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Girl Guides (Coy 1)",
 					"award": "Gold"
@@ -889,14 +700,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 241,
-			"upper": 259,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 238,
@@ -917,6 +720,14 @@
 			"programme": "Express",
 			"lower": 240,
 			"upper": 275,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 242,
+			"upper": 263,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

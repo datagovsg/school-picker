@@ -51,7 +51,6 @@
 		"HIGHER MUSIC",
 		"HIGHER TAMIL",
 		"HISTORY",
-		"LITERATURE IN CHINESE",
 		"LITERATURE(E)",
 		"MALAY",
 		"MALAY (SPECIAL PROGRAMME)",
@@ -62,6 +61,7 @@
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"SCIENCE",
+		"SOCIAL STUDIES",
 		"TAMIL"
 	],
 	"Cca": {
@@ -71,20 +71,19 @@
 			"Cross Country",
 			"Hockey",
 			"Netball",
-			"Softball"
+			"Softball",
+			"Track & Field"
 		],
 		"Uniformed Groups": [
 			"Girl Guides",
 			"Ncc (Land)",
-			"Npcc",
 			"Singapore Red Cross Youth"
 		],
 		"Visual and Performing Arts": [
-			"Art & Photographic Club",
 			"Band - Symphonic",
 			"Chinese And Modern Dance",
 			"Choir",
-			"Dance - Indian",
+			"Digital Art & Photography Club",
 			"Ensemble - Angklung/Kulintang"
 		],
 		"Clubs & Societies": [
@@ -1285,7 +1284,8 @@
 					"Npcc (Land)": "Gold",
 					"Red Cross": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1374,6 +1374,13 @@
 			]
 		},
 		"2017": {
+			"Express": [
+				"241",
+				"260",
+				"None-posted"
+			]
+		},
+		"2018": {
 			"Express": [
 				"241",
 				"260",

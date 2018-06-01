@@ -13,15 +13,14 @@
 		"63445370"
 	],
 	"email": "TKPS@MOE.EDU.SG",
-	"mrt": "From Kallang MRT Station: Bus 31 From Paya Lebar MRT station: Bus 76 & Bus 135",
-	"bus": "East Coast Road:10 , 12 , 14 , 32 , 40 , 608 , NR12  Dunman Road:16 , 33  Amber Road:196 , 197 , 31 , 36 , 76 , 135 ",
+	"mrt": "From Bedok MRT: 2, 9, 24, 31, 35, 35M, 222 From Tenah Merah MRT: 2, 9, 24, 31, 35, 35M, 45",
+	"bus": "New Upper Changi Road (Opposite the school): 2 , 9 , 24 , 31 , 35 , 35M , 45 , 222 , 506 , NR7 (School side): 2 , 9 , 24 , 31 , 35 , 35M , 45 , 222 , 506 ",
 	"GeneralInformation": {
 		"Principal": "MRS CAROLINE WU",
 		"Vice Principal": [
 			"MRS ELIZA YEONG",
 			"MDM HOO WAI LING"
 		],
-		"Vice Principal (Admin)": "MDM BOEY HSU HSIEN",
 		"School Vision": "To nurture pupils so that they can excel in their pursuits and contribute to the society, through providing a holistic education and a dynamic learning environment.",
 		"School Mission": "Passionate Learners,Caring Leaders, Global Citizens",
 		"School Philosophy, Culture and Ethos": [
@@ -76,8 +75,7 @@
 			"Dance - Modern"
 		],
 		"Clubs & Societies": [
-			"Infocom Club",
-			"Modular Robotics Club"
+			"Infocom Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -1015,7 +1013,8 @@
 				"Best Unit Award": {
 					"Scout": "Bronze"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "467353"

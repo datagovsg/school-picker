@@ -41,19 +41,40 @@
 		"Co-curricular Activities",
 		"Mathematics"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Floorball",
+			"Football",
+			"Horse Management",
+			"Netball",
+			"Sepak Takraw",
+			"Silat",
+			"Table Tennis",
+			"Track & Field"
+		],
+		"Uniformed Groups": [
+			"Girl Guides",
+			"National Civil Defence Cadet Corps"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Dance Club"
+		],
+		"Clubs & Societies": [
+			"Entrepreneur Club",
+			"Gardening Club",
+			"It & Media Club",
+			"Ripples",
+			"Students' Council"
+		]
+	},
 	"SpecialProgrammes": {
 		"Special Student Development Programmes Offered": "NorthLight Programme, Sports & Wellness Programme, Arts Appreciation Programme, Language & Literacy Programme, 'Math Works for Us!' Programme, ICT Literacy Programme, Vocational Training Programme, Industrial Attachment Programme, Pre-employment Skills Training Programme"
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Outstanding Development Award": [
-					"ODA (Character Development)",
-					"ODA (National Education)",
-					"Outstanding PARTNERS"
-				]
-			},
 			"2015": {
 				"Outstanding Development Award": [
 					"ODA (Character Development)",

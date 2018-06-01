@@ -27,7 +27,7 @@
 			"Nurturing Ladies and Gentlemen in Pursuit of Excellence.  ",
 			"\"Shaping Character, Engaging Learners, Touching Lives\""
 		],
-		"School Philosophy, Culture and Ethos": "The school is guided by Our West Spring Way, 'I want to, I can and I will be the best that I can be'. It believes all are winners; all will achieve and its culture of care nurtures students to embrace a broad definition of success. A conducive learning environment that integrates respect with responsibility and integrity is provided for the students. All students are addressed as ladies and gentlemen. There are high expectations of student behavior and students are guided to set goals and persevere towards their achievement. The school's brand of student-centric, values-driven and holistic education has served it well with good outcomes in both the academic and non-academic domains.",
+		"School Philosophy, Culture and Ethos": "We believe that all students will achieve success being guided by \"Our West Spring Way - I want to, I can and I will be the best that I can be!\". We believe that \"All can be winners\" in a caring and conducive learning environment. All students are addressed as ladies and gentlemen, reflecting high expectation of student behaviour as well as educational outcomes.  The school's brand of student-centric, values-driven and holistic education has served it well with sustained good outcomes in both the academic and non-academic domains.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -39,8 +39,6 @@
 		"Chemistry",
 		"Chinese",
 		"Civics & Moral Education",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
 		"Computer Applications",
 		"Design & Technology",
 		"Elements Of Business Skills",
@@ -51,6 +49,8 @@
 		"Higher Chinese",
 		"History",
 		"Home Economics",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
 		"Literature(E)",
 		"Malay",
 		"Mathematics",
@@ -78,15 +78,15 @@
 		],
 		"Visual and Performing Arts": [
 			"Band - Display/Marching",
-			"Dance - Chinese",
+			"Dance - Modern",
 			"Drama - English",
 			"Ensemble - Guitar",
 			"Ensemble - Guzheng",
-			"Malay Cultural Performing Group"
+			"Festive Drums"
 		],
 		"Clubs & Societies": [
 			"Audio & Video/ Pa Club",
-			"Library Council",
+			"Infocom Club",
 			"Photography & Digital Media"
 		]
 	},
@@ -95,17 +95,10 @@
 			"Languages & Humanities": "MeLit - Critical Thinking and Effective Communication through Media Literacy",
 			"Sports & Outdoor Education": "FOCUS (Finding, Optimising, Communicating, Understanding Sports)"
 		},
-		"Special Student Development Programmes Offered": "The school offers 'Critical Thinking and Effective Communication Through Media Literacy' (MeLIT) as its Applied Learning Programme and 'Finding, Optimising, Communicating and Understanding Sports' (FOCUS) as its Learning for Life Programme. MeLIT is a three-year programme which incorporates various elements of the Humanities Instructional Programme to develop students' skills of evaluating sources, and creating media products to deliver specific messages. FOCUS emphasises broad-based development for students in terms of core values, fundamental skills and physical competencies which provide a strong foundation for the learning, participation and enjoyment of a wide variety of physical activities and sports. To nurture students into Global Citizens of Character and Learning, all Sec 1 students attend a Character Development Camp, all Sec 2 students participate in an Adventure Camp and all Sec 3 students carry out Overseas Values-in-Action (VIA) projects. There are opportunities for Student Leaders to take part in student exchange programmes with schools in Cambodia, India, Taiwan and Australia. In addition, students take part in Integrated Humanities and CCE Learning Journeys, CCE Lectures, Harmony@Senja (Integrated VIA/CCE Programme) and Leadership Development Programmes. Co-curricular programmes include a 2-year ICT Programme, Swimming, Advanced Elective Modules for Sec 3 students, Elective Modules for Sec 2, 3 and 4 NT students, as well as work experience/attachment."
+		"Special Student Development Programmes Offered": "The school offers 'Critical Thinking' and 'Effective Communication' through our Applied Learning Programme of Media Literacy (MeLIT). MeLIT is a three-year programme to develop students' information management skills such as evaluating and interpreting information sources, and to deliver specific messages through the creation of media products.  The school's Life-Long Programme is STAR (Sportsmanship Teamwork And Resilience) where students develop these values through physical activities such as sports and outdoor adventure camps. To nurture students into Global Citizens of Character and Learning, all Lower Secondary students attend a Character Development Adventure Camp and Sec 3 students participate in a 5-day MOE-Outward Bound School Challenge Programme at Pulau Ubin.  There are opportunities for Student Leaders to take part in student exchange programmes with schools in Cambodia, Taiwan and Australia. In addition, students take part in Integrated Humanities and CCE Learning Journeys, CCE Lectures, Harmony@Senja (Integrated VIA/CCE Programme) and Leadership Development Programmes."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				],
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"2015": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -119,26 +112,6 @@
 				]
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Shooting (Air Pistol)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Shooting (Air Pistol)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
 				{
 					"year": "2015",
 					"category": "Badminton",
@@ -191,41 +164,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Display / Marching",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category B",
@@ -334,26 +272,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "NCDCC",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Girl Guides (Coy 1)",
 					"award": "Silver"
@@ -412,30 +330,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 221,
-			"upper": 262,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 170,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 132,
-			"upper": 157,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -504,6 +398,30 @@
 			"year": "2017",
 			"programme": "Normal Technical",
 			"lower": 137,
+			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 220,
+			"upper": 244,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 178,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 141,
 			"upper": 159,
 			"lowerAffiliated": null,
 			"upperAffiliated": null

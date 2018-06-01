@@ -51,21 +51,17 @@
 		"Physical Sports": [
 			"Floorball",
 			"Football",
-			"Netball",
 			"Track & Field",
 			"Wushu"
 		],
 		"Uniformed Groups": [
-			"Boys' Brigade",
-			"Cub Scouts",
-			"Girls' Brigade"
+			"Cub Scouts"
 		],
 		"Visual and Performing Arts": [
 			"Art And Craft Club",
 			"Dance - Chinese"
 		],
 		"Clubs & Societies": [
-			"Environment Club",
 			"Outdoor Activities Club"
 		]
 	},
@@ -78,26 +74,6 @@
 	"AchievementHistory": {
 		"Primary": {
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "2nd"
-				},
 				{
 					"year": "2015",
 					"category": "Floorball",
@@ -181,11 +157,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Dance - International",
 					"award": "Distinction"
@@ -228,21 +199,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "Scout",
-					"award": "Silver"
-				},
-				{
 					"year": "2015",
 					"category": "Boys' Brigade",
 					"award": "Silver"
@@ -281,8 +237,8 @@
 		1.3037465
 	],
 	"svy21": [
-		30636.27,
-		31787.27
+		30636.24,
+		31787.2
 	],
 	"planningArea": "CA",
 	"neighbours": [

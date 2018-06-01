@@ -14,7 +14,7 @@
 	],
 	"email": "BGSS@MOE.EDU.SG",
 	"mrt": "BEDOK MRT, BEDOK RESERVOIR MRT",
-	"bus": "506 , 228 , 222 , 168 , 66 , 67 , 69 , 28 , 14 , 17 ",
+	"bus": "14 , 17 , 28 , 66 , 67 , 69 , 168 , 222 , 228 , 506 ",
 	"GeneralInformation": {
 		"Principal": "MR LIM YU KEE",
 		"Vice Principal": [
@@ -22,8 +22,8 @@
 			"MS FOO SHEUE FENG (FU XUEFENG)"
 		],
 		"Vice Principal (Admin)": [
-			"MR CHIA TUCK MAN",
-			"MR LEE CHEE CHONG"
+			"MR LEE CHEE CHONG",
+			"MR CHIA TUCK MAN"
 		],
 		"School Vision": "A School of Choice and a Community of Life-Long Learners.",
 		"School Mission": "To provide a nurturing environment where pupils are imbued with sound values, a passion for learning and confidence to face future challenges.",
@@ -98,7 +98,7 @@
 			"STEM": "Developing scientific thinking and inquiry skills through real-life applications",
 			"Music & Performing Arts": "Building Character and Values through the Performing Arts"
 		},
-		"Special Student Development Programmes Offered": "We offer a wide range of programmes to cater to students with varied profiles, needs and abilities. Key in developing 21st Century Competencies is our Applied Learning Programme (ALP) in Science, Technology, Engineering and Mathematics (STEM). It aims to develop scientific thinking and inquiry skills through real-life applications, and rides upon our Integrated Project Work (IPW) where students solve authentic problems and learn important skills like programming, electronics and product design. Student projects are showcased at the BGSS Learning Festival. Our Learning for Life Programme (LLP) builds students' character and values through a whole-school Performing Arts programme, PAssion. All lower secondary students attend a modular Aesthetics Programme in Music, Dance and Drama, and exhibit their learning at the Aesthetics Showcase. The school promotes a strong culture in Sports and Outdoor Activities to develop resilience and ruggedness. Every student goes through Outdoor Education modules in PE, enrichment such as abseiling, as well as the Sec 2 Adventure Camp. We also organise many sporting activities such as Sports Fiesta, and offers PE as a GCE O-Level subject. The Values-in-Action (VIA) Programme promotes Service Learning to cultivate compassion and leadership in our students. It includes the Sec 3 Overseas VIA to orphanages in Indonesia, as well as student-initiated projects in collaboration with community partners such as PAYM. To ensure student well-being and development, we provide individualised support through our Year Head System, the STAR mentoring programme for graduating students, and many others."
+		"Special Student Development Programmes Offered": "We offer a wide range of programmes to cater to students with varied profiles, needs and abilities. Key in developing 21st Century Competencies is our Applied Learning Programme (ALP) in Science, Technology, Engineering and Mathematics (STEM). It aims to develop scientific thinking and inquiry skills through real-life applications, and rides upon our Integrated Project Work (IPW) where students solve authentic problems and learn important skills like programming, electronics and product design. Student projects are showcased at the BGSS Learning Festival. Our Learning for Life Programme (LLP) builds students' character and values through a whole-school Performing Arts programme, PAssion. All lower secondary students attend a modular Aesthetics Programme in Music, Dance and Drama, and exhibit their learning at the Aesthetics Showcase. The school promotes a strong culture in Sports and Outdoor Activities to develop resilience and ruggedness. Every student goes through Outdoor Education modules in PE, enrichment such as abseiling, as well as the Sec 2 Adventure Camp. We also organise many sporting activities such as Sports Fiesta, and offers Exercise and Sports Science as a GCE O-Level subject. The Values-in-Action (VIA) Programme promotes Service Learning to cultivate compassion and leadership in our students. It includes the Sec 3 Overseas VIA to orphanages in Indonesia, as well as student-initiated projects in collaboration with community partners such as PAYM. To ensure student well-being and development, we provide individualised support through our Year Head System, the STAR mentoring programme for graduating students, and many others."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -601,7 +601,8 @@
 					"Npcc (Land)": "Bronze",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -823,6 +824,23 @@
 			"Normal Technical": [
 				"125",
 				"156",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"239",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"159",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"125",
+				"157",
 				"None-posted"
 			]
 		}

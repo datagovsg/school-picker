@@ -99,9 +99,7 @@
 			"Photographic Society"
 		],
 		"Clubs & Societies": [
-			"Broadcasting Club",
-			"Infocomm Club",
-			"Innovation And Enterprise Club"
+			"Ava & Broadcasting Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -112,7 +110,7 @@
 			"Languages": "Speech Communication Arts",
 			"Community & Youth Leadership": "Active Citizenship for Social Change"
 		},
-		"Special Student Development Programmes Offered": "We are committed to creating the Whitley Experience which is focused on building a strong foundation for academic success and developing students' interests and strengths through core academic and student development programmes.  The school's Learning for Life Programme, \"Active Citizenship for Social Change\", seeks to nurture active concerned citizens. Focused on building empathy and ownership of societal issues, it provides opportunities for every Whitleyan to hone his skills in design thinking to better understand the needs of the community, co-construct solutions or advocate for social causes.  The school's Applied Learning Programme, \"Speech Communication Arts\", nurtures students to be confident and self-directed learners with a curriculum that enhances communication skills through speech and art forms such as public speaking and drama."
+		"Special Student Development Programmes Offered": "We are committed to creating the Whitley Experience in building a strong foundation for academic success and developing students' interests and strengths through our total curriculum. The school's Learning for Life Programme, Active Citizenship for Social Change (ACSC), seeks to nurture active concerned citizens. Focused on building empathy and ownership of societal issues, ACSC provides opportunities for every Whitleyan to hone his skills in Design Thinking Protocol to empathise and better understand the needs of the community, ideate and co-construct solutions, as well as to advocate for social causes. The school's Applied Learning Programme, Speech Communication Arts, nurtures students to be confident and self-directed learners with a curriculum that enhances communication skills through speech and art forms such as public speaking, drama and current affairs presentation. To spark interest and support students' decision to pursue further studies in Science, Technology, Engineering and Mathematics (STEM), the school has a robust STEM enrichment programme, which includes learning computational thinking through coding programme, learning about the genetic engineering process through our Amgen Biotechnology Experience, and experiencing STEM courses and career guidance through STEM Elective Modules and Advanced Elective Modules. To stretch students' potential, we have a Talent Development Programme to nurture students' academic strengths and non-academic talents, providing training opportunities such as Author-in-Residence, debating and Olympiad training, and challenging students to excel through participation in competitions and research projects. Another key element of our school's holistic programmes is our focus on leadership development and building of qualities such as resilience, team work, empathy, sound planning, among others. This is done through our cohort camps, student leadership programme and Overseas Service Learning, to name a few."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1001,7 +999,8 @@
 					"Ncc (Land Boys)": "Silver",
 					"Npcc (Land)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1211,6 +1210,23 @@
 			"Normal Academic": [
 				"152",
 				"180",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"241",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"192",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"91",
+				"147",
 				"None-posted"
 			]
 		}

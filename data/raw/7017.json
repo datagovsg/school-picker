@@ -48,6 +48,7 @@
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
+		"MATHEMATICS (SYLLABUS A)",
 		"MATHEMATICS (SYLLABUS T)",
 		"MUSIC",
 		"PHYSICAL EDUCATION",
@@ -67,7 +68,8 @@
 			"Football",
 			"Golf",
 			"Judo",
-			"Karate"
+			"Karate",
+			"Softball"
 		],
 		"Uniformed Groups": [
 			"Ncc (Air)",
@@ -94,7 +96,7 @@
 			"STEM": "Aviation",
 			"Community & Youth Leadership": "Developing Life Skills through Uniformed Groups Experience"
 		},
-		"Special Student Development Programmes Offered": "Gabrielites are developed in their Cognitive, Leadership, Aesthetics, Physical, Social and Moral domains so as to grow into STAR (Special, Transformed, Active and Ready) Gabrielites, equipped and prepared for future challenges with 21st Century competencies, anchored in the core values of Respect, Resilience, Responsibility and Care. Our Community and Youth Leadership Programme nurtures Gabrielites into leaders of character and service. The 4-year programme provides learning opportunities integrating Service Learning, Student Leadership and Outdoor Education. In their junior years, Gabrielities grow as Learners and Leaders who are Self-Directed and Collaborative. In their senior years, they become Active and Effective Learners and Leaders through their self-initiated service to the community, advocating for the causes they serve. In their growth and development to become Servant Leaders, Gabrielites acquire skills, attitudes and values through experiential activities in STAR Camp, Applied Design Service Learning, Project Work Service Learning, Digital Media Arts, Elective Modules, Heritage Trial, Mission Day, iMAD Carnival and Applied Learning Programme in Flight and Aerospace."
+		"Special Student Development Programmes Offered": "Gabrielites are developed in their Cognitive, Leadership, Aesthetics, Physical, Social and Moral domains so as to grow into STAR (Special, Transformed, Active and Ready) Gabrielites, equipped and prepared for future challenges with 21st Century competencies, anchored in the core values of Respect, Resilience, Responsibility and Care. Our Community and Youth Leadership Programme nurtures Gabrielites into leaders of character and service. The 4-year programme provides learning opportunities integrating Service Learning, Student Leadership and Outdoor Education. In their junior years, Gabrielities grow as Learners and Leaders who are Self-Directed and Collaborative. In their senior years, they become Active and Effective Learners and Leaders through their self-initiated service to the community, advocating for the causes they serve. In their growth and development to become Servant Leaders, Gabrielites acquire skills, attitudes and values through experiential activities in STAR Camp, Applied Design Service Learning, Project Work Service Learning, Digital Media Arts, Elective Modules, iMAD (i Make a Difference)Carnival - a biennial event where all Gabrielites come together to serve and to make a difference to the community, and Applied Learning Programme in Flight and Aerospace."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1272,7 +1274,8 @@
 					"Red Cross": "Bronze",
 					"Scout (Unit 1)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1534,6 +1537,26 @@
 				"153",
 				"122",
 				"144"
+			]
+		},
+		"2018": {
+			"Express": [
+				"222",
+				"244",
+				"188",
+				"233"
+			],
+			"Normal Academic": [
+				"174",
+				"198",
+				"153",
+				"187"
+			],
+			"Normal Technical": [
+				"122",
+				"154",
+				"118",
+				"151"
 			]
 		}
 	},

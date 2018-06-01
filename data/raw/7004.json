@@ -21,6 +21,7 @@
 			"MISS TEO GEOK SIAN",
 			"MISS PHUA AI LING ADELINE"
 		],
+		"Vice Principal (Admin)": "MISS KESAVAN PAULA ANNE",
 		"School Vision": "A Woman of Distinction",
 		"School Mission": "The mission of an Infant Jesus Convent is the creation of a Christ-centred school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of persons who are disadvantaged in any way.",
 		"School Philosophy, Culture and Ethos": "CHIJ Secondary stands as the second oldest girls school in Singapore. Every IJ Girl shares the vision of being A Woman of Distinction, who is a Thinker, Leader, Communicator, confident with humility, principled with compassion and cultured with grace. At CHIJ Secondary, we believe that every IJ Girl matters. As such, we customise our curriculum to meet their needs and talents. With a strong foundation in character and values-education, CHIJ nurtures our girls through a holistic education, with the support of a competent and forward-looking staff. Our strong partnerships with key stakeholders also enable the school to build a strong network of support. We remain, through the years, Simple in Virtue, Steadfast in Duty.",
@@ -35,6 +36,7 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART FOR AEP",
+		"ART NA LEVEL",
 		"ART 'O' LEVEL",
 		"BASIC CHINESE",
 		"BASIC MALAY",
@@ -44,22 +46,30 @@
 		"CHINESE",
 		"CHINESE B",
 		"CHINESE N(A)",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
-		"COMBINED HUMANITIES (S,L)",
 		"COMPUTER APPLICATIONS",
+		"DRAMA",
+		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
+		"ENGLISH LANGUAGE (SYLL T)",
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
+		"HIGHER ART",
 		"HIGHER CHINESE",
+		"HIGHER TAMIL",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"LITERATURE(E)",
 		"MALAY",
+		"MALAY B",
 		"MALAY N(A)",
 		"MATHEMATICS",
 		"MATHEMATICS (SYLLABUS A)",
+		"MATHEMATICS (SYLLABUS T)",
+		"MUSIC 'O' LEVEL",
 		"OECIE DRAMA (GCEO)",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
@@ -69,6 +79,7 @@
 		"SCIENCE (PHY, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"TAMIL",
+		"TAMIL B",
 		"TAMIL N(A)"
 	],
 	"Cca": {
@@ -97,6 +108,7 @@
 		"Clubs & Societies": [
 			"Arc (Robotics)",
 			"Chij Youth Mission",
+			"Debating And Oratory Society",
 			"Ij Media Club",
 			"Legion Of Mary",
 			"Outdoor Activities Club"
@@ -106,7 +118,7 @@
 		"MOE Programmes": [
 			"ART ELECTIVE PROGRAMME"
 		],
-		"Special Student Development Programmes Offered": "CHIJ Secondary is progressive in its approach whilst remaining steeped in tradition. The IJ Education and Experience is undergirded by the 3Ls@IJ approach which encompasses both the academic and affective domains and focuses on developing students holistically through Learning, Living and Leading. In CHIJ, all lower secondary students experience our in-house drama programme which enable students to realise their creative talents and develop their artistic vision. Our Affective Programmes focus on character development and include the Developmental Leadership Programme, the Values-in-Action programme, self-awareness camps, work attachment programme, and adventure camps. As the South Zone Centre of Excellence for Language and the Arts, CHIJ is home to many strong performing arts groups. At the same time, CHIJ's sports CCA groups have experienced success on the school scene. Our signature IJ Goes Global Programme aims to equip IJ students with a more global perspective and includes Immersion and Twinning Programmes with overseas schools, and the IJ Beacon Programme which focuses on serving the disadvantaged in neighbouring countries."
+		"Special Student Development Programmes Offered": "CHIJ Secondary is progressive in its approach whilst remaining steeped in tradition. The IJ Education and Experience is undergirded by the 3Ls@IJ approach which encompasses both the academic and affective domains and focuses on developing students holistically through Learning, Living and Leading. In CHIJ, all lower secondary students experience our in-house drama programme which enables students to realise their creative talents and develop their artistic vision. Our Affective Programmes focus on character development and include the Developmental Leadership Programme, the Values-in-Action programme, self-awareness camps, work attachment programme, and adventure camps. As the South Zone Centre of Excellence for Language and the Arts, CHIJ is home to many strong performing arts groups. At the same time, CHIJ's sports CCA groups have experienced success on the school scene. Our signature IJ Goes Global Programme aims to equip IJ students with a more global perspective and includes Immersion and Twinning Programmes with overseas schools, and the IJ Beacon Programme focuses on serving the disadvantaged in neighbouring countries as well as in our own communities."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1402,7 +1414,8 @@
 					"Girl Guides (Coy 1)": "Bronze",
 					"Red Cross": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1627,6 +1640,26 @@
 				"151",
 				"134",
 				"142"
+			]
+		},
+		"2018": {
+			"Express": [
+				"243",
+				"251",
+				"201",
+				"260"
+			],
+			"Normal Academic": [
+				"185",
+				"198",
+				"154",
+				"199"
+			],
+			"Normal Technical": [
+				"102",
+				"159",
+				"123",
+				"152"
 			]
 		}
 	},

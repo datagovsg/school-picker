@@ -21,7 +21,7 @@
 		"Vice Principal (Admin)": "MR QUEK SER HIANG",
 		"School Vision": "Men and Women of Character and Learning, in the Service of God and Community",
 		"School Mission": "To educate the whole person in the Montfortian spirit of charity and love where effective academic programmes and CCAs are integrated with the development of character.",
-		"School Philosophy, Culture and Ethos": "Assumption English School is a government-aided school founded by the Montfort Brothers of St. Gabriel. The school is one of the seven Gabrielite institutions in Singapore and many others in 33 countries worldwide. The school subscribes to the Montfortian Education Charter which serves as a guide to 'form enlightened and harmonious persons committed to a just and fraternal world'. Thus the school's  philosophy is that 'We believe that Education is a journey of Self Discovery where students discover their talents, clarify their values & form their moral compass.' The school creates an ethos that cares and challenges our students to become confident and able leaders who embody the Assumption Spirit of Excellence in Character & Learning. The school motto, Labor Omnia Vincit, sums it up clearly - our students will, through work, achieve success.",
+		"School Philosophy, Culture and Ethos": "Assumption English School is a government-aided school founded by the Montfort Brothers of St. Gabriel. The school is one of the seven Gabrielite institutions in Singapore and many others in 33 countries worldwide. The school subscribes to the Montfortian Education Charter which serves as a guide to 'form enlightened and harmonious persons committed to a just and fraternal world'. Thus the school's  philosophy is that 'We believe that Education is a journey of Self Discovery where students discover their talents, clarify their values & form their moral compass.' The school creates an ethos that cares and challenges our students to become confident and able leaders who embody the Assumption Spirit of Excellence in Character and Learning. The school motto, Labor Omnia Vincit, sums it up clearly - our students will, through work, achieve success.",
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "CATHOLIC JUNIOR COLLEGE"
@@ -46,9 +46,9 @@
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
-		"HISTORY",
 		"LITERATURE(E)",
 		"MALAY",
+		"MALAY B",
 		"MATHEMATICS",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
@@ -783,7 +783,8 @@
 					"Npcc (Land)": "Silver",
 					"Red Cross": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1005,6 +1006,23 @@
 			"Normal Technical": [
 				"104",
 				"151",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"227",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"197",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"111",
+				"148",
 				"None-posted"
 			]
 		}

@@ -56,7 +56,39 @@
 		"H2 PHYSICS",
 		"H2 TAMIL LANGUAGE & LITERATURE"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Cross Country/ Track & Field",
+			"Football",
+			"Netball",
+			"Rugby",
+			"Shooting",
+			"Squash",
+			"Table Tennis",
+			"Taekwondo",
+			"Tennis",
+			"Touch Rugby",
+			"Volleyball"
+		],
+		"Visual and Performing Arts": [
+			"Band - Symphonic",
+			"Dance - Modern",
+			"Ensemble - Guitar",
+			"Orchestra - Chinese",
+			"Photographic Society"
+		],
+		"Clubs & Societies": [
+			"Chess Club",
+			"Chinese Cultural Society",
+			"Indian Cultural Society",
+			"Interact Club",
+			"Jjc-Cd Lionhearter Club",
+			"Malay Cultural Society",
+			"Student Council"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"LANGUAGE ELECTIVE PROGRAMME (CHINESE)"
@@ -589,7 +621,8 @@
 					"Drama - English": "Accomplishment",
 					"Ensemble - Guitar": "Accomplishment"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"L1R5History": {
@@ -670,7 +703,8 @@
 				"-",
 				"-"
 			]
-		}
+		},
+		"2018": {}
 	},
 	"postalCode": "649809"
 }

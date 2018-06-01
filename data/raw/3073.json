@@ -18,12 +18,12 @@
 	"GeneralInformation": {
 		"Principal": "MDM YONG LI LING BELINDA",
 		"Vice Principal": [
-			"MDM RADHA D/O G SUBRAMANIAM",
+			"MISS RADHA D/O G SUBRAMANIAM",
 			"MR TAN CHER HUI PHILIP"
 		],
 		"School Vision": "Pride of the community.",
 		"School Mission": "To develop innovative and compassionate citizens.",
-		"School Philosophy, Culture and Ethos": "At Pei Hwa, students are developed to be 'A Leader, A Scholar and An Altruist', our desired Pei Hwa student outcomes. Pei Hwa adopts a holistic approach in developing talents. We leverage on the Experiential Education approach to make learning relevant and authentic, within and outside the school. We also place a strong emphasis on grooming our students to be the PRIDE of the Community through active involvement in community service and contributions within and beyond the school. This is reinforced through the PRIDE values: Passion for Learning, Resilience, Integrity, Diligence and Excellence for Self & Others. This is only made possible with a strong team of dedicated teachers who care deeply for our students and our close collaboration with their parents.",
+		"School Philosophy, Culture and Ethos": "Pei Hwa, with its long history in serving the community, prides ourselves in developing students' talents and getting them ready for 21st century challenges with the emphasis of being innovative, and care for the community. We believe in engaging students effectively in teaching and learning to make sure that knowledge skill is transferred effectively.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -38,11 +38,13 @@
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
@@ -78,7 +80,7 @@
 			"Symphonic Band"
 		],
 		"Clubs & Societies": [
-			"Literary Drama And Debating Society",
+			"Drama Society",
 			"Outdoor Activities Club",
 			"Pei Hwa Times",
 			"Robotics Club"
@@ -92,7 +94,7 @@
 			"STEM": "Robotics and Programming - Nurturing Leaders, Scholars and Altruists",
 			"Community & Youth Leadership": "PRIDE of the Community: Developing Altruists"
 		},
-		"Special Student Development Programmes Offered": "Pei Hwa, with its long history in serving the community, pride ourselves in providing our students with a STEM (Science, Technology, Engineering and Mathematics) education through our distinctive-Applied Learning Programme (ALP) in Robotics & Programming, which includes micro:bit technology training (Code for Fun with IMDA), Co-Space Robotics Competitions (collaboration with Singapore Polytechnic), Science and Engineering Electives and Advanced Elective Modules (with other Polytechnics) and Internship with Newcastle University International. This emphasis on developing the 21st Century Competencies can also be seen in our \"Learning For Life Programme: Community Youth Leadership\" (LLP: CYL), which commits our students to Values-In-Action (VIA) activities to develop their spirit of social innovation through learning about community issues, initiating actions to make a difference and reflecting on the values and life-skills learnt. Pei Hwa's curriculum is also anchored upon the Experiential Education (EE) Framework, which focuses on the joy of learning through engaging and effective equipping of knowledge, skills and values. For example, through the school's School-Based Curriculum Innovation (SCI), students conduct inter-disciplinary research projects in diverse Singapore's contexts such as Sengkang West Estate, Tiong Bahru's heritage sites and Army Museum. Through our Special Learning Spaces such as the Makers' Space, our students can be designers and creators of knowledge through building an innovative, inquiring and scientific mindset."
+		"Special Student Development Programmes Offered": "We offer a distinctive Project Work Curriculum that integrates both our Applied Learning Programme (Robotics and Programming) and Learning for Life Programme (Community Youth leadership) to develop our student as innovative and compassionate leaders to serve the community. This is done through emphasis on STEM (Science, Technology, Engineering and Mathematics) Education with emerging technologies such as Micro:bit (Code for Fun with IMDA), Co-Space Robotics (collaboration with Singapore Polytechnic), Science and Engineering Electives and Advanced Elective Modules (with Polytechnics), and Python Programming (Robotics CCA). We adopt a three-pronged approach on the 'Head', 'Heart' and 'Hands' to develop our students' cognitive abilities through leveraging on Design Thinking, character through inculcating the values of altruism, and skills through equipping them with the 21st Century Competencies respectively. To facilitate our students' development, we are also leveraging on customized learning spaces such as Maker-Space to develop them as designers and creators of new knowledge and skill."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -613,7 +615,8 @@
 					"Ncdcc": "Gold",
 					"Npcc (Land)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -834,6 +837,23 @@
 			],
 			"Normal Technical": [
 				"142",
+				"159",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"219",
+				"244",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"179",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"143",
 				"159",
 				"None-posted"
 			]

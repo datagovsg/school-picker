@@ -44,25 +44,24 @@
 	"SubjectOffered": [
 		"Additional Mathematics",
 		"Art",
-		"Art 'O' Level",
 		"Basic Chinese",
 		"Basic Malay",
 		"Biology",
 		"Chemistry",
 		"Chinese",
 		"Chinese B",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
 		"Computer Applications",
 		"Design & Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"Food & Nutrition",
 		"Food And Consumer Education",
-		"Food Studies, N Level",
 		"Geography",
 		"Higher Chinese",
 		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In English)",
 		"Ict",
 		"Literature(E)",
 		"Malay",
@@ -73,7 +72,6 @@
 		"Project Work",
 		"Science",
 		"Science (Phy, Chem)",
-		"Social Studies",
 		"Social Studies N(T)"
 	],
 	"Cca": {
@@ -86,7 +84,7 @@
 		"Uniformed Groups": [
 			"Ncc (Land)",
 			"Npcc",
-			"Red Cross Youth"
+			"Singapore Red Cross Society"
 		],
 		"Visual and Performing Arts": [
 			"Chinese Orchestra",
@@ -107,18 +105,10 @@
 			"STEM": "Materials Science for Sustainable Living",
 			"Community & Youth Leadership": "Learners and Leaders for Life"
 		},
-		"Special Student Development Programmes Offered": "The school has two distinctive programmes to provide holistic development of students: Learning for Life Programme (LLP) - 'Community Youth Leadership' and Applied Learning Programme (ALP) - 'Material Science for Sustainable Living'. The 'Community Youth Leadership' programme aims to develop student leaders to attain the 3A qualities of Awareness, Affection and Ability to Act while the 'Material Science for Sustainable Living' programme aims to nurture students to be self-directed and become dynamic learners with a keen interest in STEM-related domains such as materials science. "
+		"Special Student Development Programmes Offered": "The school has two distinctive programmes to provide holistic development of students: Learning for Life Programme (LLP) - 'Community Youth Leadership' and Applied Learning Programme (ALP) - 'Material Science for Sustainable Living'. The 'Community Youth Leadership' programme aims to develop student leaders to attain the 3A qualities of Awareness, Affection and Ability to Act while the 'Material Science for Sustainable Living' programme aims to leverage on the school's strengths on Environmental Education and Design Education, to nurture students to be self-directed and become dynamic learners with a keen interest in STEM-related domains such as materials science. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Best Practice Awards": "BPA (Staff Well-Being)",
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)",
-					"PARTNERS (Merit)"
-				]
-			},
 			"2015": {
 				"Best Practice Awards": "BPA (Staff Well-Being)",
 				"Development Award": [
@@ -236,36 +226,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Commendation"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -348,21 +308,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "NCC (Land Boys)",
 					"award": "Gold"
@@ -411,30 +356,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 210,
-			"upper": 241,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 168,
-			"upper": 193,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 130,
-			"upper": 157,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -504,6 +425,30 @@
 			"programme": "Normal Technical",
 			"lower": 123,
 			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 204,
+			"upper": 237,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 172,
+			"upper": 197,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 133,
+			"upper": 158,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

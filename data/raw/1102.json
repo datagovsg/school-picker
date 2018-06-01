@@ -13,7 +13,7 @@
 		"64499681"
 	],
 	"email": "DAMAI_PS@MOE.EDU.SG",
-	"mrt": "Bedok MRT Station",
+	"mrt": "Bedok North MRT Station",
 	"bus": "Bus 228 , 66 , 65 , 22 , 21 , 5 and 506 ",
 	"GeneralInformation": {
 		"Principal": "MDM LEE LAY SEE/ MRS LAY SEE NEUFELD",
@@ -59,6 +59,9 @@
 			"Art/Ceramic Club",
 			"Dance - Chinese",
 			"Dance - Malay"
+		],
+		"Clubs & Societies": [
+			"Environmental Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -700,7 +703,8 @@
 				"Best Unit Award": {
 					"Red Cross": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "479226"

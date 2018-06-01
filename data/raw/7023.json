@@ -34,6 +34,7 @@
 	},
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
+		"ART",
 		"ART NA LEVEL",
 		"ART NT LEVEL",
 		"ART 'O' LEVEL",
@@ -59,6 +60,9 @@
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MALAY N(A)",
@@ -73,7 +77,6 @@
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
-		"SOCIAL STUDIES",
 		"TAMIL",
 		"TAMIL N(A)"
 	],
@@ -938,7 +941,8 @@
 					"Ensemble - Angklung / Kulintang": "Accomplishment",
 					"Ensemble - Guitar": "Accomplishment"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1200,6 +1204,26 @@
 				"151",
 				"125",
 				"153"
+			]
+		},
+		"2018": {
+			"Express": [
+				"235",
+				"241",
+				"200",
+				"249"
+			],
+			"Normal Academic": [
+				"185",
+				"198",
+				"153",
+				"198"
+			],
+			"Normal Technical": [
+				"116",
+				"146",
+				"141",
+				"147"
 			]
 		}
 	},

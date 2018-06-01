@@ -4,7 +4,7 @@
 	"levels": "S",
 	"uen": " T16GS0001G",
 	"logo": "./Medias/Images/Schools/logos/tn_3076.jpg",
-	"website": "http://meridiansec.moe.edu.sg",
+	"website": "http://www.meridiansec.moe.edu.sg",
 	"address": "31, PASIR RIS STREET 51 ( 518901 )",
 	"telephone": [
 		"65831387"
@@ -24,19 +24,17 @@
 		"Vice Principal (Admin)": "MDM TER MEI LI",
 		"School Vision": "Joyful Learners, Creative Thinkers, Compassionate Leaders",
 		"School Mission": "To nurture in Meridians inquiring minds and caring hearts for their pursuit of excellence",
-		"School Philosophy, Culture and Ethos": "We believe that every child is a unique and precious individual who can learn and be moulded holistically. We nurture talents and shape the character of students through a range of student-centric and values-driven programmes and experiences. We provide a nurturing and conducive environment for learning so that students can grow, build confidence and strive for success. Students learn best when they collaborate with and are well-supported by their teachers, peers and parents. Our team of unwavering, caring and competent staff lead, care and inspire to bring out the best in students and enable them to discover their passion and fulfil their aspirations. Anchored in sound values, and imbued with a strong sense of integrity and accountability, the staff are committed to serve, innovate and make a positive impact on the community. Our dedicated school partners provide further support through opportunities to enrich the students' learning. Together, we equip students with sound values and competencies they need for the future.",
+		"School Philosophy, Culture and Ethos": "We believe that every child is a unique and precious individual who can learn and be moulded holistically. We nurture talents and shape the character of students through a range of student-centric and values-driven programmes and experiences. We provide a nurturing and conducive environment for learning so that students can grow, build confidence and strive for success. Students learn best when they collaborate with and are well supported by their teachers, peers and parents. Our team of unwavering, caring and competent staff lead, care and inspire to bring out the best in students and enable them to discover their passion and fulfil their aspirations. Anchored in sound values, and imbued with a strong sense of integrity and accountability, the staff are committed to serve, innovate and make a positive impact on the community. Our dedicated school partners provide further support through opportunities to enrich the students' learning. Together, we equip students with sound values and competencies they need for the future.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
 	},
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
+		"ART",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
-		"COMBINED HUMANITIES (S,L)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
@@ -46,6 +44,9 @@
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
@@ -53,7 +54,6 @@
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE",
-		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)"
 	],
 	"Cca": {
@@ -70,14 +70,14 @@
 			"Red Cross Youth"
 		],
 		"Visual and Performing Arts": [
-			"Chinese Orchestra",
 			"Choir",
+			"Dance Club",
 			"Drama & Debating Society",
 			"Meridian Nusantara Orchestra",
 			"Symphonic Band"
 		],
 		"Clubs & Societies": [
-			"Infocomm Club",
+			"Media Club",
 			"Robotics Club"
 		]
 	},
@@ -173,7 +173,8 @@
 					"Ensemble - Gamelan": "Distinction",
 					"Choir": "Accomplishment"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -203,6 +204,23 @@
 			"Normal Technical": [
 				"107",
 				"159",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"208",
+				"240",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"170",
+				"197",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"124",
+				"157",
 				"None-posted"
 			]
 		}

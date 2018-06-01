@@ -19,10 +19,7 @@
 	"bus": "980 , 167 , 169 , 800 , 811 , 812 , 965 , 969 , 858 , 856 , 859 ",
 	"GeneralInformation": {
 		"Principal": "Miss Chew Ing Lim",
-		"Vice Principal": [
-			"Dr Chua Puay Huat",
-			"Mr Au Yong Po Lung"
-		],
+		"Vice Principal": "Dr Chua Puay Huat",
 		"School Vision": "Every AI student, a young lady or gentleman who cares, learns and excels for AI and for nation",
 		"School Mission": "To grow students with strength of character, nurture inquiring and disciplined minds, inspire courage to lead and serve",
 		"School Philosophy, Culture and Ethos": [
@@ -65,8 +62,8 @@
 	"Cca": {
 		"Physical Sports": [
 			"Basketball",
+			"Football",
 			"Shooting",
-			"Soccer",
 			"Track & Field"
 		],
 		"Uniformed Groups": [
@@ -93,31 +90,11 @@
 			"Languages & Humanities": "Critical Social Inquiry and Media Literacy",
 			"Sports & Outdoor Education": "Character Development through Outdoor Learning Experience (OLE)"
 		},
-		"Special Student Development Programmes Offered": "1. Character Development through Outdoor Learning Experience (OLE): Our Learning for Life Programme (LLP) is a broad-based developmental programme that spans from Sec 1 to 3, with extended opportunities for students with special interest in outdoor activities to be trained as OLE leaders.  It provides students with authentic, real world experiences to learn teamwork, build mental and emotional strength, develop self and collective leadership through taking on physical challenges.  OLE also promotes environmental appreciation through outdoor activities.  2. Critical Social Inquiry (CSI) and Media Literacy: Our Applied Learning Programme (ALP) takes a multi-disciplinary approach where students extend their learning from existing curriculum subjects such as Languages, Humanities, Sciences and CCE using a critical media literacy lens. Students explore key issues that are related to the society e.g. social, ethical and environmental issues, and present their perspectives through various media forms.  3. Enhanced Music Programme (EMP):  EMP allows students to develop their passion and interest in music.  It is a two-year programme in upper secondary with visits to music performances and music master classes, culminating in the pursuit of O-Level Music or Higher Music.  There is also an accompanying two-year Music Preparatory Course (MPC) for lower sec students with music interest and talent. 4. Student-initiated Service Learning Programme: To inspire courage to lead and serve, every class takes part in a structured 10-week programme to identify the need of a community to serve, plan and implement a service learning project.  5. With the school's firm belief in academic resilience and stretching student potential, outstanding students are identified and nominated for various stretch programmes which include journalism training, creative writing camp, Science Innovations projects."
+		"Special Student Development Programmes Offered": "1. Character Development through Outdoor Learning Experience (OLE): Our Learning for Life Programme (LLP) is a broad-based developmental programme that spans from Sec 1 to 3, with extended opportunities for students with special interest in outdoor activities to be trained as outdoor leaders.  It provides students with authentic, real world experiences to learn teamwork, build mental and emotional strength, develop self and collective leadership through taking on physical challenges.  OLE also promotes environmental appreciation.  2. Critical Social Inquiry (CSI) and Media Literacy: Our Applied Learning Programme (ALP) extends students' learning from subjects such as Languages, Humanities and CCE. Students collaborate, search, organize and evaluate rich resources such as written texts, short films and forum theatre to deepen their understanding of social issues. There are opportunities to participate in interest-based modules, such as broadcasting and journalism workshops as well as film and media appreciation modules.  3. Enhanced Music Programme (EMP): Our comprehensive music programme offers students opportunities to learn, create, and perform music through various platforms. The two-year Music Preparatory Course (MPC) for lower secondary, with EMP in upper secondary, culminates in the O-Level Music or Higher Music examinations. Students gain strong music fundamentals,enjoy a vibrant enrichment programme, e.g., concerts, masterclasses, arts internships, collaborations, and external mentorship programmes. 4. Student-initiated Service Learning Programme: To inspire courage to lead and serve, every class takes part in a structured 8-week programme to identify the need of a community to serve, plan and implement a service learning project. 5. With the school's firm belief in academic resilience and stretching student potential, outstanding students are nominated for various stretch programmes like journalism training, creative writing camp, Science Innovation project"
 	},
 	"AchievementHistory": {
 		"Secondary": {
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
 				{
 					"year": "2015",
 					"category": "Basketball",
@@ -221,36 +198,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category B",
 					"award": "Recognition(Sm)"
@@ -343,31 +290,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Girl Guides (Coy 1)",
 					"award": "Bronze"
@@ -442,30 +364,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 217,
-			"upper": 240,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 175,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 135,
-			"upper": 159,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 221,
@@ -536,16 +434,40 @@
 			"upper": 158,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 218,
+			"upper": 240,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 175,
+			"upper": 198,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 134,
+			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
 		}
 	],
 	"postalCode": "768928",
 	"coordinates": [
-		103.8297153,
-		1.4360616
+		103.8297187,
+		1.4360598
 	],
 	"svy21": [
-		27599.01,
-		46417.92
+		27599.39,
+		46417.71
 	],
 	"planningArea": "YS",
 	"neighbours": [

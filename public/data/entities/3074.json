@@ -56,6 +56,7 @@
 		"Principles Of Accounts",
 		"Science (Chem, Bio)",
 		"Science (Phy, Chem)",
+		"Smart Electrical Technology",
 		"Social Studies"
 	],
 	"Cca": {
@@ -91,7 +92,7 @@
 			"STEM": "SMART Living: Design. Code. Build",
 			"Sports & Outdoor Education": "Character Development through Outdoor and Adventure Education"
 		},
-		"Special Student Development Programmes Offered": "We believe that every child is unique and talented. Our Talent Development Programme (TDP) offers our students an enhanced learning experience, centred on the 3E approach of 'Exposure, Extension and Excellence'. Students are Exposed to and engaged through different learning experiences and platforms, Their learning is Extended through deepened knowledge and skills acquisition via specific and special enrichment and master classes, and finally students will be able to pursue and achieve Excellence in the cognitive, aesthetics, sporting and life skills domains through targeted activities such as national competitions etc. Through the school's Applied Learning Programme (ALP) in 'Design, Technology and Engineering', students develop in-depth knowledge in engineering and technology, while acquiring critical and inventive thinking skills concurrently. Students will learn how to Design, Code and Build through exposure to Computer Aided Design software and Arduino programming language. There will also be opportunities for them to rapid prototype their ideas through the use of 3D printers and laser cutters. Through the ALP, students will acquire 21st century skills such as design thinking, problem-solving strategies as well as creative and critical thinking techniques to solve real-world problems. In the school's Learning For Life programme (LLP), the school delivers an Outdoor and Adventure Education programme that develops students in their character attributes and specific skillsets through concrete experiences and challenges. Students step out of their comfort zones to develop qualities of resilience, initiative and self-reliance, and competencies in leadership and teamwork. They acquire a range of skills in outdoor activities (e.g. kayaking, rock-climbing, orienteering), building them up as confident leaders. All students also participate in a level camp every year to develop their physical, social, leadership and personal skills."
+		"Special Student Development Programmes Offered": "We believe that every child is unique and talented. Our Talent Development Programme (TDP) offers our students an enhanced learning experience, centred on the 3E approach of 'Exposure, Extension and Excellence'. Students are Exposed to and engaged through different learning experiences and platforms. Their learning is Extended through deepened knowledge and skills acquisition via specific and special enrichment and master classes, and finally students will be able to pursue and achieve Excellence in the cognitive, aesthetics, sporting and life skills domains through targeted activities such as national competitions etc. Through the school's Applied Learning Programme (ALP) in 'Design, Technology and Engineering', students develop in-depth knowledge in engineering and technology, while acquiring critical and inventive thinking skills concurrently. Students will learn how to Design, Code and Build through exposure to Computer Aided Design software and Arduino programming language. There will also be opportunities for them to rapid prototype their ideas through the use of 3D printers and laser cutters. Through the ALP, students will acquire 21st century skills such as design thinking, problem-solving strategies as well as creative and critical thinking techniques to solve real-world problems. In the school's Learning For Life programme (LLP), the school delivers an Outdoor and Adventure Education programme that develops students in their character attributes and specific skillsets through concrete experiences and challenges. Students step out of their comfort zones to develop qualities of resilience, initiative and self-reliance, and competencies in leadership and teamwork. They acquire a range of skills in outdoor activities (e.g. kayaking, rock-climbing, orienteering), building them up as confident leaders. All students also participate in a level camp every year to develop their physical, social, leadership and personal skills."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -108,31 +109,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Choir",
@@ -221,21 +197,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "NCC (Land Boys)",
 					"award": "Gold"
@@ -284,30 +245,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 199,
-			"upper": 241,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 156,
-			"upper": 197,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 122,
-			"upper": 159,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -377,6 +314,30 @@
 			"programme": "Normal Technical",
 			"lower": 136,
 			"upper": 158,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 203,
+			"upper": 227,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 172,
+			"upper": 198,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 139,
+			"upper": 157,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

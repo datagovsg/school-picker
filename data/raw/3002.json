@@ -38,9 +38,6 @@
 		"CHEMISTRY",
 		"CHINESE",
 		"CHINESE B",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
-		"COMBINED HUMANITIES (S,L)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
@@ -50,10 +47,14 @@
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MALAY B",
 		"MATHEMATICS",
+		"MOBILE ROBOTICS",
 		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
@@ -909,7 +910,8 @@
 					"Npcc (Land)": "Gold",
 					"Red Cross": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1130,6 +1132,23 @@
 			],
 			"Normal Technical": [
 				"96",
+				"151",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"260",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"186",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"111",
 				"151",
 				"None-posted"
 			]

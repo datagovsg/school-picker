@@ -58,7 +58,31 @@
 		"SOCIAL STUDIES",
 		"TAMIL"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Netball",
+			"Soccer",
+			"Table Tennis"
+		],
+		"Uniformed Groups": [
+			"Scouts & Girls Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Angklung",
+			"Art And Craft Club",
+			"Chinese Dance",
+			"Chinese Orchestra",
+			"English Drama Club",
+			"Indian Dance",
+			"Malay Dance"
+		],
+		"Clubs & Societies": [
+			"Infocomm Club",
+			"Weiqi Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -1079,7 +1103,8 @@
 				"Best Unit Award": {
 					"Scout": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "738908"

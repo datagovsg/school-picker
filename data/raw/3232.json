@@ -34,7 +34,6 @@
 		"ART NA LEVEL",
 		"BASIC CHINESE",
 		"BASIC MALAY",
-		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
 		"CHINESE B",
@@ -763,7 +762,8 @@
 					"Npcc (Land)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -980,6 +980,23 @@
 			"Normal Academic": [
 				"152",
 				"186",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"249",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"185",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"95",
+				"151",
 				"None-posted"
 			]
 		}

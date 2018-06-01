@@ -41,9 +41,27 @@
 		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"SCIENCE",
-		"SOCIAL STUDIES"
+		"SOCIAL STUDIES",
+		"TAMIL"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Football",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Choir",
+			"Dance - Chinese",
+			"Dance - Malay"
+		],
+		"Clubs & Societies": [
+			"English Society",
+			"It Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -86,7 +104,8 @@
 				"Best Unit Award": {
 					"Girls' Brigade": "Bronze"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "649188"

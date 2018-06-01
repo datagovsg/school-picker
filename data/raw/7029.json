@@ -13,8 +13,8 @@
 		"67865011"
 	],
 	"email": "SHSS@MOE.EDU.SG",
-	"mrt": "TAMPINES MRT",
-	"bus": "22 , 129 , 293 ",
+	"mrt": "TAMPINES MRT, TAMPINES WEST MRT",
+	"bus": "22 , 129 , 293 , 298 ",
 	"GeneralInformation": {
 		"Principal": "MDM HENG SUE LIN, JANICE",
 		"Vice Principal": [
@@ -23,7 +23,7 @@
 		],
 		"School Vision": "An excellent institution recognised for bringing up pupils with a love for God, life and learning.",
 		"School Mission": "As an Anglican school, we are committed to providing through education a balanced development of mind, body and spirit for our pupils, nurturing God-fearing citizens for our nation.",
-		"School Philosophy, Culture and Ethos": "St Hilda's Secondary aims to equip students with the attributes and capabilities to be 'Critical & Inventive Thinkers, Reflective & Self-Directed Learners, Caring & Collaborative Contributors'; desired outcomes that are encapsulated in our Student Distinctive-Every Hildan a Leader, Confident,Caring and Disciplined.The achievement of these outcomes hinges on purposeful programme design and effective delivery via committed teachers,with a culture of care and excellence.The HILDAN experience includes level-specific programmes such as our Learning for Life and Applied Learning Programmes,SOLVE for Innovation, Drama Education Programme, Overseas Integrated Learning Journey and Outward Bound Singapore (OBS) Leadership Camp.Our comprehensive Educational & Career Guidance programme guides and prepares Hildans for Post-Secondary Education.Interested students may tap on our Cultural Immersion programmes with overseas partner schools. The Curriculum is customised to stretch and engage our students in various ways. This includes, STEP (Seeking To Engage students Purposefully) for Normal Technical students, special Normal Academic Programme and the Nellie Mitchell programme for selected Express students. Culture of Excellence: Excellence is a journey in maximising the potential of each student. Character excellence is nurtured collectively through formal Character & Citizenship Education lessons, Co-curricular Activities and Service Learning projects.Centred on the school's core values and desired social-emotional competencies,programmes are delivered via the 3E (Exposure, Experience, Extension) approach. Service Learning serves as a key platform to hone Hildans in leadership skills and develop in them empathy to serve the community they live in.",
+		"School Philosophy, Culture and Ethos": "St Hilda's Secondary aims to equip students with the attributes and capabilities to be 'Critical & Inventive Thinkers, Reflective & Self-Directed Learners, Caring & Collaborative Contributors'; desired outcomes that are encapsulated in our Student Distinctive - Every Hildan a Leader, Confident, Caring and Disciplined. The achievement of these outcomes hinges on purposeful programme design and effective delivery via committed teachers, with a culture of care and excellence. The HILDAN experience includes level-specific programmes such as our Learning for Life and Applied Learning Programmes, SOLVE for Innovation, Drama Education Programme, Overseas Integrated Learning Journey and Outward Bound Singapore (OBS) Leadership Camp. Our comprehensive Educational & Career Guidance programme guides and prepares Hildans for Post-Secondary Education. Students may tap on our Cultural Immersion programmes with overseas partner schools. The Curriculum is customised to stretch and engage our students in various ways. This includes, STEP (Seeking To Engage students Purposefully) for Normal Technical students, special Normal Academic Programme and the Nellie Mitchell programme for selected Express students. Culture of Excellence: Excellence is a journey in maximising the potential of each student. Character excellence is nurtured collectively through formal Character & Citizenship Education lessons, Co-curricular Activities and Service Learning projects. Centred on the school's core values and desired social-emotional competencies, programmes are delivered via the 3E (Exposure, Experience, Extension) approach. Service Learning serves as a key platform to hone Hildans in leadership skills and develop in them empathy to serve the community they live in.",
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
@@ -1058,7 +1058,8 @@
 					"Ncdcc": "Gold",
 					"Npcc (Land)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1320,6 +1321,26 @@
 				"156",
 				"134",
 				"151"
+			]
+		},
+		"2018": {
+			"Express": [
+				"221",
+				"233",
+				"188",
+				"253"
+			],
+			"Normal Academic": [
+				"176",
+				"199",
+				"152",
+				"186"
+			],
+			"Normal Technical": [
+				"118",
+				"157",
+				"121",
+				"150"
 			]
 		}
 	},

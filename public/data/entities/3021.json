@@ -88,7 +88,7 @@
 			"Girl Guides",
 			"Ncc (Land)",
 			"Npcc",
-			"Singapore Red Cross Society"
+			"Singapore Red Cross Youth"
 		],
 		"Visual and Performing Arts": [
 			"Band - Symphonic",
@@ -106,16 +106,10 @@
 			"STEM": "Making Health Science Alive through Authentic Problem-Based Learning",
 			"Community & Youth Leadership": "Developing Student Leadership Through Service Learning"
 		},
-		"Special Student Development Programmes Offered": "The school's Applied Learning Programme (ALP), 'Making Science Alive through Authentic Problem Based Learning', helps students develop an appreciation of concepts and principles related to Health Science. Our Learning for Life Programme (LLP) focuses on Developing Student Leadership through Service Learning, where students are given opportunities to collaborate and lead their peers in level Values-in-Action (VIA) projects.  The school's collaboration with the Kolam Ayer Youth Executive Committee in the 'Dialogue with Minister' Series gives Bendemeerians the opportunity to voice their views on issues affecting their community. The school's internationalisation programme gives every student the opportunity to travel abroad. The Sequoia and NTcipate Life programmes are specially customised to engage N(A) and N(T) students through experiential learning experiences to discover their aspirations and fulfil their potential."
+		"Special Student Development Programmes Offered": "The school's Applied Learning Programme (ALP), 'Making Science Alive through Authentic Problem Based Learning', helps students develop an appreciation of concepts and principles related to Health Science. Our Learning for Life Programme (LLP) focuses on Developing Student Leadership through Service Learning, where students are given opportunities to collaborate and lead their peers in level Values-in-Action (VIA) projects.  The school's collaboration with the Kolam Ayer Youth Executive Committee in the 'Dialogue with Minister' Series gives Bendemeerians the opportunity to voice their views on issues affecting their community. The school's internationalisation programme gives students the opportunity to travel abroad. The NTcipate Life programme is specially customised to engage N(T) students through experiential learning experiences to discover their aspirations and fulfil their potential."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Best Practice Awards": "BPA (Staff Well-Being)",
-				"Special Awards": "LHL Award for Innovation in the Normal Course",
-				"Development Award": "DA (Character Development)",
-				"Outstanding Development Award": "ODA (National Education)"
-			},
 			"2015": {
 				"Best Practice Awards": "BPA (Staff Well-Being)",
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
@@ -135,46 +129,6 @@
 				"Outstanding Development Award": "ODA (National Education)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
 				{
 					"year": "2015",
 					"category": "Football",
@@ -258,31 +212,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2015",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
@@ -360,26 +289,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Girl Guides (Coy 1)",
 					"award": "Silver"
@@ -443,30 +352,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 243,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 153,
-			"upper": 191,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 140,
-			"upper": 159,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -536,6 +421,30 @@
 			"programme": "Normal Technical",
 			"lower": 133,
 			"upper": 154,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 251,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 192,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 101,
+			"upper": 152,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

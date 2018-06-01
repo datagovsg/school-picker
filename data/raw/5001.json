@@ -57,7 +57,33 @@
 		"SOCIAL STUDIES",
 		"TAMIL"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Football",
+			"Rugby",
+			"Sailing",
+			"Table Tennis",
+			"Ten-Pin Bowling",
+			"Tennis"
+		],
+		"Uniformed Groups": [
+			"Cadet Scouts",
+			"The Boys' Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Choir",
+			"Concert Band",
+			"Junior Vibez",
+			"String Orchestra"
+		],
+		"Clubs & Societies": [
+			"Chess Club",
+			"Jmedia",
+			"Science Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -2031,7 +2057,8 @@
 				"Best Unit Award": {
 					"Boys' Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "227988"

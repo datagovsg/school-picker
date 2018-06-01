@@ -19,7 +19,8 @@
 		"Principal": "MR VASUTHEVAN S/O K RAMAMURTHY",
 		"Vice Principal": [
 			"MR WONG WOEN LONG",
-			"MISS WONG KAH WAI SHIRLEY"
+			"MISS WONG KAH WAI SHIRLEY",
+			"MR ANG CHERN KWANG KYRIS"
 		],
 		"School Vision": "A Dynamic Institution That Adds Value To All",
 		"School Mission": "To nurture Bukit Viewans to be creative, passionate and resilient learners who possess moral integrity and are responsible to self and society",
@@ -397,7 +398,8 @@
 					"Ncc (Land Boys)": "Gold",
 					"Npcc (Land)": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -614,6 +616,18 @@
 			"Normal Academic": [
 				"156",
 				"195",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"205",
+				"247",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"158",
+				"199",
 				"None-posted"
 			]
 		}

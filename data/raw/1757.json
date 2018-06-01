@@ -22,14 +22,8 @@
 			"MDM TAN KAY LING"
 		],
 		"Vice Principal (Admin)": "MR FONG KOK WAI",
-		"School Vision": [
-			"Soaring Individuals, Serving Citizens",
-			"As fulfilled individuals, our students go beyond what is ordinary or limiting.  We envision them as achievers who reach new heights. As citizens of Singapore and the world, our students remain rooted in humility, ready to serve and reciprocate for what they have received from society. They seek to return more than they receive, continually."
-		],
-		"School Mission": [
-			"Nurturing Character, Enriching Lives.",
-			"The education and care given to our students impacts on their later development and shape attitudes. We exist to nurture character as the foundation for self-knowledge and success. The meeting of our students' needs, drives us to provide more than the basics, and customised to their abilities and aptitudes. Armed with moral strength and enriched with meaningful life lessons, our students can self-actualise in the near future."
-		],
+		"School Vision": "Thinkers . Leaders . Champions",
+		"School Mission": "To nurture compassionate leaders excelling in service of the community and Singapore",
 		"School Philosophy, Culture and Ethos": "We are guided by our philosophy 'Every child matters and can learn and achieve', in our efforts to develop and nurture our students.  Aligned to the school's belief and commitment to provide a student-centric, values-driven education for every child and in nurturing each child holistically to be the best that he/she can be, the school has laid a strong foundation to deliver this outcome. This is done through growing staff capacity, developing student potential and enhancing its infrastructure and putting the appropriate systems and processes in place.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -656,7 +650,8 @@
 				"Best Unit Award": {
 					"Red Cross": "Bronze"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "545091"

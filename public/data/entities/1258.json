@@ -43,9 +43,27 @@
 		"Music",
 		"Physical Education",
 		"Science",
-		"Social Studies"
+		"Social Studies",
+		"Tamil"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Football",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Choir",
+			"Dance - Chinese",
+			"Dance - Malay"
+		],
+		"Clubs & Societies": [
+			"English Society",
+			"It Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Innovation & Enterprise": "Positive Design Applied Learning Programme",
@@ -118,8 +136,8 @@
 		1.3468335
 	],
 	"svy21": [
-		13228.98,
-		36552
+		13228.94,
+		36551.93
 	],
 	"planningArea": "JW",
 	"neighbours": [

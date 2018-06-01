@@ -22,9 +22,9 @@
 			"MR LIM HOCK CHYE KEVIN"
 		],
 		"Vice Principal (Admin)": "MR DALBIR SINGH S/O SURAT SINGH",
-		"School Vision": "A Community of Learners, Leaders and Innovators.",
-		"School Mission": "Growing Today for where the World is Going Tomorrow.",
-		"School Philosophy, Culture and Ethos": "The school believes that every member of the school community must strive to be an engaged learner, an inspiring leader and an ethical innovator in order to be work-ready and world-ready in the future. The school values, Teamwork, Respect, Responsibility, Integrity and Pride, are the cornerstones that nurture a strong culture of care, excellence and innovation that are critical to the attainment of the school vision. The school programmes are designed to ensure that students are developed holistically in both academics and character, and they are closely aligned to the school motto, 'Pursuit of Knowledge, Service to All'.",
+		"School Vision": "A Community of Learners, Leaders and Innovators",
+		"School Mission": "To nurture students of character who thrive through love of learning and a willingness to grow and lead in meaningful service to self and others.",
+		"School Philosophy, Culture and Ethos": "The school believes that every member of the school community must strive to be a competent learner, a confident leader and a caring innovator in order to be future-ready. The school's GROWTH Values of Gratitude, Respect, Optimism, Wholeheartedness, Teamwork and Honesty form the foundation for the development of character and leadership. The school programmes are designed to ensure that students are developed holistically, and help each one to live out the school motto, 'Pursuit of Knowledge, Service to All'.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -91,8 +91,10 @@
 			"Drama - English"
 		],
 		"Clubs & Societies": [
+			"Infocom 3D Animation",
 			"Mechantronics, Aeronautical & Robotics",
-			"Media Club"
+			"Media Club - Ava & Videography",
+			"Media Club - Photography"
 		]
 	},
 	"SpecialProgrammes": {
@@ -103,7 +105,7 @@
 			"STEM": "Developing inquiring minds and creative learners through Arduino",
 			"Music & Performing Arts": "Character Development through the Arts, Media and Design"
 		},
-		"Special Student Development Programmes Offered": "The school's Learning for Life Programme (LLP) aims to grow strong character and leadership through Arts, Media & Design. The programme features the YCK Arts Foundation classes that provide a wide range of opportunities for creative expression in singing, dance, drama and playing an instrument. Through the design of these activities, students develop confidence, nurture a deeper appreciation of the arts and acquire important collaborative and people skills to lead self and others. Beyond the performing arts, the LLP also has talent development programmes to take the students deeper into creative areas related to technology such as 3D Animation, Videography, Interior Design and Robotics. The school offers an Applied Learning Programme (ALP) to nurture inquiring minds and inventive thinkers through technology. In this programme, students are introduced to technologies and learn to develop innovative ideas and integrated solutions for real-life problems in the community. The ALP gives students opportunities to explore the connections between problem-solving skills needed in the real world and academic knowledge related to Science, Technology, Engineering and Mathematics (STEM). Importantly, the ALP encourages students to stay curious and learn about how technology can be applied in new ways to improve the quality of life around us."
+		"Special Student Development Programmes Offered": "The school's Learning for Life Programme (LLP) aims to grow strong character and leadership through Arts, Media & Design. The programme features the YCK Arts Foundation classes that provide a wide range of opportunities for creative expression in singing, dance, drama, and playing an instrument. Through the design of these activities, students develop confidence, nurture a deeper appreciation of the arts and acquire important collaborative and people skills to lead self and others. Beyond the performing arts, the LLP also has talent development programmes to take the students deeper into creative areas related to technology such as Short-Film Production, and Interior Design. The school offers an Applied Learning Programme (ALP) to nurture inquiring minds and inventive thinkers through technology. In this programme, students are introduced to the world of STEM in the form of Embedded Electronics, learning to develop innovative ideas and integrated solutions for real-life problems in the community. The ALP gives students opportunities to explore the connections between problem-solving skills needed in the real world and academic knowledge related to Science, Technology, Engineering and Mathematics (STEM). Importantly,the ALP encourages students to stay curious and learn about how technology can be applied in new ways to improve the quality of life around us."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -425,7 +427,8 @@
 					"Npcc (Land)": "Silver",
 					"Red Cross": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -642,6 +645,23 @@
 			"Normal Technical": [
 				"87",
 				"141",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"230",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"163",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"115",
+				"151",
 				"None-posted"
 			]
 		}

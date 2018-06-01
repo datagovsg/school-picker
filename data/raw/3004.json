@@ -21,7 +21,7 @@
 		"Vice Principal (Admin)": "MDM JUSTINE TAN",
 		"School Vision": "Bringing out the Best in our People: Social Innovators, Passionate Learners",
 		"School Mission": "Nurturing Leaders of Character",
-		"School Philosophy, Culture and Ethos": "With the belief that every Cedarian can become a confident and active citizen, Cedar Girls is committed to providing a high quality all-round education. Beside a well-established 4-year O-Level programme, Cedar Girls also offers the Integrated Programme (IP) under the Victoria-Cedar Alliance (VCA). Our IP students will complete 4 years of secondary education in Cedar Girls before advancing to Victoria Junior College for the A-level curriculum. The VCA IP offers a seamless 6-year programme to students who enjoy independent study and exploratory work. They will have the opportunities to heighten their interest and passion through a challenging and enriched curriculum. In our mission to develop Leaders of Character, we have a comprehensive Character, Citizenship and Leadership Development Programme which inculcates the values, attributes and competencies desired of Cedarians in their journey through life. Cedar Girls has received recognition in both the academic and co-curricular domains for its consistent performance and good teaching and learning processes. Graduating students each year have attributed their resilience to take on challenges, confidence in striking out and motivation to always give of their best to the developmental programmes offered by the school.",
+		"School Philosophy, Culture and Ethos": "With the belief that every Cedarian can become a confident and active citizen, Cedar is committed to providing a high quality all-round education. Beside a well-established 4-year O-Level programme, Cedar also offers the Integrated Programme (IP) under the Victoria-Cedar Alliance (VCA). Our IP students will complete 4 years of secondary education in Cedar before advancing to Victoria Junior College for the A-level curriculum. The VCA IP offers a seamless 6-year programme to students who enjoy independent study and exploratory work. They will have the opportunities to heighten their interest and passion through a challenging and enriched curriculum. In our mission to develop Leaders of Character, we have a comprehensive Character, Citizenship and Leadership Development Programme which inculcates the values, attributes and competencies desired of Cedarians in their journey through life. Cedar has received recognition in both the academic and co-curricular domains for its consistent performance and good teaching and learning processes. Graduating students each year have attributed their resilience to take on challenges, confidence in striking out and motivation to always give of their best to the developmental programmes offered by the school.",
 		"Type of School": "GOVERNMENT SCHOOL / GIRLS' SCHOOL / SINGLE SESSION",
 		"IP Partner Schools": [
 			"VICTORIA SCHOOL",
@@ -86,6 +86,7 @@
 		],
 		"Clubs & Societies": [
 			"Eldds (Debate & Advocacy)",
+			"Environmental Club",
 			"Infocomm Club",
 			"Ldds - Chinese",
 			"Ldds - Indian",
@@ -1686,7 +1687,8 @@
 					"Npcc (Land)": "Silver",
 					"Red Cross": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1808,6 +1810,18 @@
 			"'O' Level Programme": [
 				"250",
 				"271",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Integrated Programme": [
+				"254",
+				"271",
+				"None-posted"
+			],
+			"'O' Level Programme": [
+				"249",
+				"265",
 				"None-posted"
 			]
 		}

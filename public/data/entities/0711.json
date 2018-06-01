@@ -19,10 +19,7 @@
 	"bus": "975 , 190 , 985 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Kek Lee Yong",
-		"Vice Principal": [
-			"Mr Leong Chi-Yung Ken",
-			"Miss Seet Ying Ling Britta"
-		],
+		"Vice Principal": "Miss Seet Ying Ling Britta",
 		"Vice Principal (Admin)": "Miss Sim Yoke Hwee",
 		"School Vision": "ALWAYS SERVING, ALWAYS LEARNING",
 		"School Mission": "Nurturing a community of committed learners and compassionate leaders",
@@ -103,15 +100,6 @@
 	},
 	"AchievementHistory": {
 		"Junior College": {
-			"2014": {
-				"School Distinction Awards": "SDA",
-				"Best Practice Awards": "BPA (Teaching and Learning)",
-				"Development Award": "PARTNERS (Merit)",
-				"Outstanding Development Award": [
-					"ODA (Character Development)",
-					"ODA (National Education)"
-				]
-			},
 			"2015": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": "BPA (Teaching and Learning)",
@@ -138,16 +126,6 @@
 			},
 			"Sports & Games Competition": [
 				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
 					"year": "2016",
 					"category": "Basketball",
 					"subCategory": [
@@ -169,46 +147,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Art - Category C",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category C",
@@ -345,24 +283,6 @@
 	},
 	"L1R5History": [
 		{
-			"year": "2014",
-			"programme": "Arts",
-			"lower": 5,
-			"upper": 14
-		},
-		{
-			"year": "2014",
-			"programme": "Science/IB",
-			"lower": 4,
-			"upper": 14
-		},
-		{
-			"year": "2014",
-			"programme": "Commerce",
-			"lower": null,
-			"upper": null
-		},
-		{
 			"year": "2015",
 			"programme": "Arts",
 			"lower": 5,
@@ -412,6 +332,24 @@
 		},
 		{
 			"year": "2017",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2018",
+			"programme": "Arts",
+			"lower": 6,
+			"upper": 17
+		},
+		{
+			"year": "2018",
+			"programme": "Science/IB",
+			"lower": 4,
+			"upper": 14
+		},
+		{
+			"year": "2018",
 			"programme": "Commerce",
 			"lower": null,
 			"upper": null

@@ -49,6 +49,7 @@
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"FOOD STUDIES, N LEVEL",
+		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HISTORY",
 		"LITERATURE(E)",
@@ -89,14 +90,14 @@
 			"Choir",
 			"Dance - Chinese",
 			"Dance - Malay",
-			"Photography Society"
+			"Drama - English"
 		],
 		"Clubs & Societies": [
 			"Audio & Video/ Pa Club",
-			"Green Club",
+			"Editorial Club",
 			"Infocomm Club",
-			"Ldds - English",
-			"Library Council"
+			"Library Council",
+			"Science & Environment Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -1258,7 +1259,8 @@
 					"Npcc (Land)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1480,6 +1482,23 @@
 			"Normal Technical": [
 				"125",
 				"158",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"214",
+				"245",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"197",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"126",
+				"154",
 				"None-posted"
 			]
 		}

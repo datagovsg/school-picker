@@ -24,7 +24,7 @@
 		"Vice Principal (Admin)": "MISS SEE PEI LOO",
 		"School Vision": "The premier school of Leaders of Honour",
 		"School Mission": "To nurture our students to Care, to Serve, and to Lead",
-		"School Philosophy, Culture and Ethos": "In Dunman High School, we view the twin pillars of a rigorous curriculum and character development as fundamental to the education of our students. This educational ethos is influenced by Confucian philosophy, where the Head, Heart and Hands are important in developing all-rounded individuals and Leaders of Honour who are knowledgeable, with a heart to care and serve others within and beyond the school community.",
+		"School Philosophy, Culture and Ethos": "In Dunman High School, we view the twin pillars of a rigorous curriculum and character development as fundamental to the education of our students. This educational ethos is influenced by Confucian philosophy, where the Head, Heart and Hands are important in developing all-round individuals and Leaders of Honour who are knowledgeable, with a heart to care for and serve others within and beyond the school community.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese",
@@ -35,17 +35,16 @@
 		"ART FOR AEP",
 		"BIOLOGY",
 		"CHEMISTRY",
-		"FRENCH",
 		"GENERAL SCIENCE",
 		"GEOGRAPHY",
-		"GERMAN",
+		"H1 ART",
 		"H1 CHINESE LANGUAGE",
 		"H1 ECONOMICS",
 		"H1 GENERAL PAPER",
 		"H1 GENERAL STUDIES IN CHINESE",
 		"H1 GEOGRAPHY",
 		"H1 HISTORY",
-		"H1 JAPANESE LANGUAGE",
+		"H1 LITERATURE IN ENGLISH",
 		"H1 MATHEMATICS",
 		"H1 PHYSICS",
 		"H1 PROJECT WORK",
@@ -57,17 +56,17 @@
 		"H2 COMPUTING",
 		"H2 ECONOMICS",
 		"H2 ENGLISH LANGUAGE AND LINGUISTICS",
-		"H2 FRENCH LANGUAGE",
 		"H2 FURTHER MATHEMATICS",
 		"H2 GEOGRAPHY",
-		"H2 GERMAN LANGUAGE",
 		"H2 HISTORY",
-		"H2 JAPANESE LANGUAGE",
 		"H2 LITERATURE IN ENGLISH",
 		"H2 PHYSICS",
+		"H2 TRANSLATION (CHINESE)",
 		"H3 CHINESE LANGUAGE & LITERATURE",
 		"H3 ECONOMICS",
 		"H3 ESSENTIALS OF MODERN PHYSICS",
+		"H3 GEOGRAPHY",
+		"H3 HISTORY",
 		"H3 MATHEMATICS",
 		"H3 PHARMACEUTICAL CHEMISTRY",
 		"H3 PROTEOMICS",
@@ -75,7 +74,8 @@
 		"HIGHER MUSIC",
 		"HIGHER MUSIC PROGRAMME",
 		"HISTORY",
-		"JAPANESE",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
 		"LANGUAGE ARTS",
 		"LITERATURE IN CHINESE",
 		"LITERATURE(E)",
@@ -85,33 +85,24 @@
 		"MATHEMATICS 2",
 		"MUSIC (MEP)",
 		"PHYSICS",
-		"SPANISH",
-		"THINKING AND RESEARCH SKILLS PROGRAMME 1",
-		"THINKING AND RESEARCH SKILLS PROGRAMME 3",
-		"TRANSLATION (CHINESE)"
+		"THINKING AND RESEARCH SKILLS PROGRAMME"
 	],
 	"Cca": {
 		"Physical Sports": [
 			"Air Rifle / Shooting",
-			"Air Rifle/Shooting (Girls)",
+			"Air Rifle/Shooting",
 			"Badminton",
 			"Basketball",
-			"Bowling",
 			"Bowling (Senior High)",
-			"Golf",
+			"Golf (Senior High)",
 			"Golf(Senior High)",
-			"Netball",
 			"Netball (Senior High)",
-			"Sailing",
 			"Sailing (Senior High)",
-			"Soccer",
 			"Soccer (Senior High)",
 			"Softball",
 			"Softball (Girls)",
 			"Table Tennis",
-			"Taekwondo",
 			"Taekwondo (Senior High)",
-			"Tennis",
 			"Tennis (Senior High)",
 			"Track & Field",
 			"Volleyball",
@@ -142,10 +133,21 @@
 			"Symphonic Band"
 		],
 		"Clubs & Societies": [
+			"Community Service Club",
+			"Community Service Club (Senior High)",
 			"Environment Club (Senior High)",
 			"Environment Club(Senior High)",
 			"Infocomm Club",
+			"International & Strategic Affairs Council (Senior High)",
+			"Japanese Cultural Club (Senior High)",
 			"Library Society",
+			"Mass Communication Society",
+			"Mathematics & Science Programme (Mathematics)",
+			"Mathematics Society (Senior High)",
+			"Oratorical Society",
+			"Oratorical Society (Senior High)",
+			"Pa Crew",
+			"Pa Crew (Senior High)",
 			"Publications (Senior High)",
 			"Robotics Club",
 			"Science Society ( Senior High)",
@@ -162,7 +164,7 @@
 			"MUSIC ELECTIVE PROGRAMME",
 			"LANGUAGE ELECTIVE PROGRAMME (CHINESE)"
 		],
-		"Special Student Development Programmes Offered": "Integrated Programme, School-based Gifted Education, Music Elective Program, Bicultural Studies Programme, Chinese Language Elective Programme, Dunman High Research Programme, Malay Special Programme, Thinking & Research Skills Programme, Overseas Immersion, Student Leadership Development Programme"
+		"Special Student Development Programmes Offered": "Established in 1956, Dunman High School has distinguished itself as a Special Assistance Plan (SAP) school (1979) and is among the pioneer batch of schools to be accorded the Autonomous Status in 1994. The school now offers a 6-year Integrated Programme with expanded opportunities in School-based Gifted Education, Music Elective Programme, Bicultural Studies Programme, Chinese Language Elective Programme, Talent Development Programme, Malay Special Programme, Thinking & Research Skills Programme, Overseas Immersion and Student Leadership Development Programme."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1769,7 +1771,8 @@
 					"Scout (Unit 1)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		},
 		"Junior College": {
 			"2005": {},
@@ -2432,7 +2435,8 @@
 					"Drama - Multi-Lingual": "Distinction",
 					"Ensemble - Strings": "Distinction"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -2538,6 +2542,13 @@
 				"280",
 				"None-posted"
 			]
+		},
+		"2018": {
+			"Express": [
+				"255",
+				"274",
+				"None-posted"
+			]
 		}
 	},
 	"L1R5History": {
@@ -2553,7 +2564,8 @@
 		"2014": {},
 		"2015": {},
 		"2016": {},
-		"2017": {}
+		"2017": {},
+		"2018": {}
 	},
 	"postalCode": "436895"
 }

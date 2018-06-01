@@ -24,7 +24,7 @@
 		],
 		"School Vision": "A Kent Ridgean has the Heart of a Saint, the Passion of an Inventor, and the Will of an Olympian.",
 		"School Mission": "Kent Ridge Secondary nurtures the heart, ignites the passion and strengthens the will of all Kent Ridgeans to become individuals of exemplary character.",
-		"School Philosophy, Culture and Ethos": "The hallmark of an education at Kent Ridge is the culture of care and excellence. Guided by our philosophy that 'Every Student Counts', our passionate and dedicated staff place our students at the centre of all that we do and spare no effort to instil the right values in them. This commitment to excellence has been recognised at the national level by the awarding of the President's Award for Teachers in 2013, the nation's highest award for teachers and the Caring Teacher Award in 2011. Our holistic curriculum has also been recognised by the awarding of the Best Practice (Student All Round Development) in 2015. Kent Ridge is proud of what we have achieved in nurturing our students to be exemplary individuals who have the Heart of a Saint, Passion of an Inventor and Will of an Olympian. We look forward to scaling greater heights as we continue to go 'Beyond Frontiers'. Kent Ridge offers many opportunities for our students to learn and grow through our rich array of programmes such as KR Hands-On Day (School VIA), Project Work, the Arts Programme, Speak Up, Speak Out, Speak Right Oracy Programme, Debating, the Shanghai Twinning Programme, Overseas Learning Journeys, Sports Electives, Applied Learning Programme in Robotics and Learning for Life Programme in Sports and Outdoor Education.",
+		"School Philosophy, Culture and Ethos": "The hallmark of an education at Kent Ridge is the culture of care and excellence. Guided by our philosophy that 'Every Student Counts', our passionate and dedicated staff place our students at the centre of all that we do and spare no effort to instil the right values in them. This commitment to excellence has been recognised at the national level by the awarding of the President's Award for Teachers in 2013, the nation's highest award for teachers and the Caring Teacher Award in 2011. Our holistic curriculum has also been recognised by the awarding of the Best Practice (Student All Round Development) in 2015. Kent Ridge is proud of what we have achieved in nurturing our students to be exemplary individuals who have the Heart of a Saint, Passion of an Inventor and Will of an Olympian. We look forward to scaling greater heights as we continue to go 'Beyond Frontiers'. Kent Ridge offers many opportunities for our students to learn and grow through our rich array of programmes such as the Experiential Week, KR Hands-On Day (School VIA), Entrepreneurship Fair, Project Work, the Arts Programme, Inter-class games, Speak Up, Speak Out, Speak Right Oracy Programme, Shanghai Twinning Programme, Hong Kong Immersion Programme, Overseas Learning Journeys, Sports Electives, Applied Learning Programme in Robotics and Learning for Life Programme in Sports and Outdoor Education.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay",
 		"Affiliated Schools": "Not Applicable"
@@ -47,6 +47,7 @@
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
 		"FOOD & NUTRITION",
+		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HISTORY",
@@ -79,7 +80,6 @@
 			"Boys' Brigade",
 			"Girls' Brigade",
 			"Ncc (Land)",
-			"Ncdcc",
 			"Npcc"
 		],
 		"Visual and Performing Arts": [
@@ -663,7 +663,8 @@
 					"Ncdcc": "Bronze",
 					"Npcc (Land)": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -885,6 +886,23 @@
 			"Normal Technical": [
 				"104",
 				"151",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"206",
+				"237",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"161",
+				"196",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"107",
+				"158",
 				"None-posted"
 			]
 		}

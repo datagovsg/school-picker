@@ -59,6 +59,7 @@
 		"Mathematics (Syllabus A)",
 		"Mathematics (Syllabus T)",
 		"Physics",
+		"Principles Of Accounts",
 		"Science (Chem, Bio)",
 		"Science (Phy, Chem)",
 		"Science (Syll T)"
@@ -92,7 +93,7 @@
 			"Digital Media Club",
 			"Green Club",
 			"Media Resource Club",
-			"Multi - Media Society"
+			"Photo And Video Society"
 		],
 		"Others": [
 			"House Appointment",
@@ -104,13 +105,10 @@
 			"STEM": "GeMs_Applied Learning Programme in Science",
 			"Community & Youth Leadership": "Nurturing Confident and Compassionate Leaders via Values-in-Action"
 		},
-		"Special Student Development Programmes Offered": "The school nurtures students' talents, interests, character and leadership qualities via a vibrant CCE curriculum and distinctive programmes, including a 4/5 years progressive Learning for Life Programme (LLP) in the area of Community and Youth Leadership. The LLP systematically equips students with critical inquiry skills, public-speaking skills and leadership competencies to prepare them for meaningful local and overseas Values-in-Action and service learning experiences.  The school also has an Applied Learning Programme (ALP) in Environmental Science and Sustainable Living.  We have vibrant CCA programmes spanning 21 CCAs, the Music, Art, Dance and Drama (MADD) enrichment programme and level camps for all students.  Through these, we develop all-round students who strive to contribute to our community."
+		"Special Student Development Programmes Offered": "The school nurtures students' talents, interests, character and leadership qualities via a vibrant CCE curriculum and distinctive programmes, including a 4/5 years progressive Learning for Life Programme (LLP) in the area of Community and Youth Leadership. The LLP systematically equips students with critical inquiry skills, public-speaking skills and leadership competencies to prepare them for meaningful local and overseas Values-in-Action and service learning experiences.  The school also has an Applied Learning Programme (ALP) in Environmental Science and Sustainable Living.  We have vibrant CCA programmes spanning 22 CCAs, the Music, Art, Dance and Drama (MADD) enrichment programme and level camps for all students.  Through these, we develop all-round students who strive to contribute to our community."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Outstanding Development Award": "ODA (National Education)"
-			},
 			"2015": {
 				"Outstanding Development Award": "ODA (National Education)"
 			},
@@ -121,26 +119,6 @@
 				"Outstanding Development Award": "ODA (National Education)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
 				{
 					"year": "2016",
 					"category": "Volleyball",
@@ -173,31 +151,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -276,21 +229,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Silver"
-				},
-				{
 					"year": "2015",
 					"category": "Boys' Brigade",
 					"award": "Gold"
@@ -354,30 +292,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 221,
-			"upper": 241,
-			"lowerAffiliated": 195,
-			"upperAffiliated": 233
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 170,
-			"upper": 195,
-			"lowerAffiliated": 153,
-			"upperAffiliated": 194
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 148,
-			"upper": 150,
-			"lowerAffiliated": 103,
-			"upperAffiliated": 154
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -448,6 +362,30 @@
 			"lower": 128,
 			"upper": 153,
 			"lowerAffiliated": 114,
+			"upperAffiliated": 151
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 224,
+			"upper": 236,
+			"lowerAffiliated": 195,
+			"upperAffiliated": 238
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 181,
+			"upper": 198,
+			"lowerAffiliated": 152,
+			"upperAffiliated": 199
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 142,
+			"upper": 151,
+			"lowerAffiliated": 111,
 			"upperAffiliated": 151
 		}
 	],

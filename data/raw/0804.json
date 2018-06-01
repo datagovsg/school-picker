@@ -18,7 +18,10 @@
 	"bus": "SBSTransit: 8 , 26 , 31 , 90 , 142 , 151 , 154 (Diocese of Singapore) SMRT Buses:  857 , 966 , 985 (Diocese of Singapore) , 853 (Upper Serangoon Road) ",
 	"GeneralInformation": {
 		"Principal": "MR LO KHEE TIAN MARK",
-		"Vice Principal": "MR ANG KHENG SAN CECIL",
+		"Vice Principal": [
+			"MR ANG KHENG SAN CECIL",
+			"MDM YEOW CHERN EE"
+		],
 		"Vice Principal (Admin)": "MR CHAN KWANG HOW BERNARD",
 		"School Vision": [
 			"Home of Servant Leaders",
@@ -102,7 +105,7 @@
 			"Mentoring Club",
 			"Outdoor Activities Club",
 			"Saints For Christ",
-			"Sports & Fitness Club"
+			"Saints Sports Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -1248,7 +1251,8 @@
 					"Drama - English": "Commendation",
 					"Ensemble - Guitar": "Accomplishment"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"L1R5History": {
@@ -1324,6 +1328,20 @@
 			"Science/IB": [
 				"3",
 				"9"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2018": {
+			"Arts": [
+				"3",
+				"12"
+			],
+			"Science/IB": [
+				"2",
+				"11"
 			],
 			"Commerce": [
 				"-",

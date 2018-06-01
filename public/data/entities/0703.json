@@ -59,7 +59,39 @@
 		"H2 Physics",
 		"H2 Tamil Language & Literature"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Cross Country/ Track & Field",
+			"Football",
+			"Netball",
+			"Rugby",
+			"Shooting",
+			"Squash",
+			"Table Tennis",
+			"Taekwondo",
+			"Tennis",
+			"Touch Rugby",
+			"Volleyball"
+		],
+		"Visual and Performing Arts": [
+			"Band - Symphonic",
+			"Dance - Modern",
+			"Ensemble - Guitar",
+			"Orchestra - Chinese",
+			"Photographic Society"
+		],
+		"Clubs & Societies": [
+			"Chess Club",
+			"Chinese Cultural Society",
+			"Indian Cultural Society",
+			"Interact Club",
+			"Jjc-Cd Lionhearter Club",
+			"Malay Cultural Society",
+			"Student Council"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Language Elective Programme (Chinese)"
@@ -68,9 +100,6 @@
 	},
 	"AchievementHistory": {
 		"Junior College": {
-			"2014": {
-				"Outstanding Development Award": "ODA (Character Development)"
-			},
 			"2015": {
 				"Outstanding Development Award": "ODA (Character Development)"
 			},
@@ -78,26 +107,6 @@
 				"Outstanding Development Award": "ODA (Character Development)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Taekwondo",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Taekwondo",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
 				{
 					"year": "2015",
 					"category": "Football",
@@ -180,46 +189,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -335,24 +304,6 @@
 		}
 	},
 	"L1R5History": [
-		{
-			"year": "2014",
-			"programme": "Arts",
-			"lower": 7,
-			"upper": 14
-		},
-		{
-			"year": "2014",
-			"programme": "Science/IB",
-			"lower": 5,
-			"upper": 15
-		},
-		{
-			"year": "2014",
-			"programme": "Commerce",
-			"lower": null,
-			"upper": null
-		},
 		{
 			"year": "2015",
 			"programme": "Arts",

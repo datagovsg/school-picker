@@ -72,24 +72,24 @@
 		"Physical Sports": [
 			"Badminton (Boys)",
 			"Floorball (Boys)",
-			"Netball"
+			"Netball",
+			"Volleyball (Boys)"
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
 			"Girls' Brigade",
 			"Ncc (Sea)",
-			"Npcc",
-			"St John Ambulance Brigade Singapore"
+			"Npcc"
 		],
 		"Visual and Performing Arts": [
 			"Band - Symphonic",
 			"Choir",
 			"Dance - Malay",
 			"Dance - Modern",
-			"Digital Design Club",
 			"Ensemble - Guzheng"
 		],
 		"Clubs & Societies": [
+			"Digital Media In Visual Arts (Dma)",
 			"Robotics Club"
 		]
 	},
@@ -104,26 +104,6 @@
 		"Secondary": {
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -186,31 +166,6 @@
 				}
 			],
 			"Best Unit Award": [
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Sea Boys)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Silver"
-				},
 				{
 					"year": "2015",
 					"category": "Boys' Brigade",
@@ -291,30 +246,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 201,
-			"upper": 244,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 155,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 116,
-			"upper": 157,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 202,
@@ -383,6 +314,30 @@
 			"programme": "Normal Technical",
 			"lower": 137,
 			"upper": 158,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 225,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 165,
+			"upper": 192,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 122,
+			"upper": 156,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

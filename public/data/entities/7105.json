@@ -16,7 +16,7 @@
 	"mrt": [
 		"Khatib MRT"
 	],
-	"bus": "85 , 811 , 812 , 851 , 852 , 853 , 854 , 855 , 858 , 965 , 969 ",
+	"bus": "85 , 811 , 812 , 851 , 852 , 853 , 854 , 855 , 858 , 860 , 965 , 969 ",
 	"GeneralInformation": {
 		"Principal": "Mr Yap Thiam Chuan",
 		"Vice Principal": [
@@ -60,8 +60,10 @@
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
-		"Higher Malay",
 		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In English)",
 		"Literature(E)",
 		"Malay",
 		"Malay B",
@@ -69,10 +71,10 @@
 		"Mathematics",
 		"Mathematics (Syllabus A)",
 		"Mathematics (Syllabus T)",
-		"Music",
 		"Physical Education",
 		"Physics",
 		"Principles Of A/C",
+		"Principles Of Accounts",
 		"Science",
 		"Science (Chem, Bio)",
 		"Science (Phy, Bio)",
@@ -91,16 +93,17 @@
 		"Uniformed Groups": [
 			"Ncc (Air)",
 			"Npcc",
-			"Scouts",
+			"Peregrine Scouts Group",
 			"St John Brigade"
 		],
 		"Visual and Performing Arts": [
 			"Band - Symphonic",
-			"Chinese Drama",
 			"Choir",
 			"Dance - Chinese",
 			"Dance - International",
+			"Drama Club",
 			"Festival Drums",
+			"Guzheng Ensemble",
 			"Orchestra - Chinese"
 		],
 		"Clubs & Societies": [
@@ -118,9 +121,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": "DA (Character Development)"
-			},
 			"2015": {
 				"Development Award": "DA (Character Development)"
 			},
@@ -128,36 +128,6 @@
 				"Development Award": "DA (Character Development)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Fencing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Fencing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Fencing",
@@ -220,46 +190,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Commendation"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -368,26 +298,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "NCC (Air Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Silver"
-				},
-				{
 					"year": "2015",
 					"category": "NCC (Air Boys)",
 					"award": "Gold"
@@ -446,30 +356,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 236,
-			"upper": 255,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 179,
-			"upper": 198,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 127,
-			"upper": 158,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -539,6 +425,30 @@
 			"programme": "Normal Technical",
 			"lower": 139,
 			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 238,
+			"upper": 269,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 185,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 139,
+			"upper": 158,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

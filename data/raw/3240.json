@@ -23,7 +23,7 @@
 		],
 		"School Vision": "Scholars o Leaders",
 		"School Mission": "Nurturing Zhonghuarians to be passionate learners in pursuit of excellence; dynamic and resilient leaders with a passion for innovation; cultured and caring citizens with a global outlook.",
-		"School Philosophy, Culture and Ethos": "At Zhonghua, a culture of care permeates the whole school.  Guided by our time-tested motto Li Yi Lian Chi  (Courteous, Righteous, Edified, Dignified) and anchored on our core values of Responsibility, Integrity, Care and Excellence, the school is committed to preserving our rich centennial heritage and positive school culture as we evolve and grow with the times. Our future-ready curriculum and signature programmes equip our students with 21st Century skills and competencies to prepare them to be scholars and leaders of the future with a heart and will to lead and serve the community.",
+		"School Philosophy, Culture and Ethos": "At Zhonghua, a culture of care permeates the whole school. Guided by our time-tested motto Li Yi Lian Chi  (Courteous, Righteous, Edified, Dignified) and anchored on our core values of Responsibility, Integrity, Care and Excellence, the school is committed to preserving our rich centennial heritage and positive school culture as we evolve and grow with the times. Our future-ready curriculum and signature programmes equip our students with 21st Century skills and competencies to prepare them to be scholars and leaders of the future with a heart and will to lead and serve the community.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese / Malay",
@@ -34,11 +34,11 @@
 		"ART",
 		"ART FOR AEP",
 		"ART NA LEVEL",
+		"ART NT LEVEL",
 		"ART 'O' LEVEL",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"CHINESE N(A)",
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
@@ -48,6 +48,7 @@
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
+		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -103,7 +104,7 @@
 		"MOE Programmes": [
 			"ART ELECTIVE PROGRAMME"
 		],
-		"Special Student Development Programmes Offered": "Zhonghua is the South Zone Centre of Excellence for Science. As part of our Science and Technology Research Education, all our lower secondary students go through Design Thinking to equip every child with a problem-solving mindset, to come up with innovative solutions in the design of products to meet human-centric needs. At the higher levels, students are challenged in our Science Research Programme to solve real-life issues and problems under the mentorship of researchers from selected research institutes. Riding on the push for STEM education, our Robotics and Computing Programme has been integrated into our lower-secondary science and mathematics curricula for enhancing programming and creative problem-solving skills. GCE 'O' Computing and Music have been offered since 2017 to cater to the varied interests and aptitudes of our students. Our Environmental and Sustainability Education prepares our students to be future-ready leaders who reflect and research on the challenges that the world faces through experiential and collaborative learning experiences that take them beyond the classroom to explore the use of clean and green technology. The Student Leadership Programme nurtures forward-looking leaders with integrity and commitment to serve the school, the community and the nation and provides tiered leadership training and experiences to all students to level up their leadership competencies with an emphasis on empathy and compassion. Our MOE Art Elective Programme (AEP) adopts the Lincoln Centre Education approach that develops students' capacities for imagination and enables them to realise their artistic potential through a rigorous 4-year programme. Complementing this, the Glocal Perspective Education nurtures students to be cultured, caring and global citizens with a 'think-global-act-local' education by providing them with a plethora of opportunities to engage in a range of cultural activities and global immersion opportunities."
+		"Special Student Development Programmes Offered": "Zhonghua signature programmes are integrated under 3 broad strands of education, namely: Science and Technology Education, Environmental and Sustainability Education and Glocal Perspective Education. Zhonghua is the South Zone Centre of Excellence for Science and students across all levels are given opportunities to discover the wonders of Science and its applications through experiential and student-centred learning activities. All our lower secondary students go through Design Thinking to equip every child with a problem-solving mindset, to come up with innovative solutions in the design of products to meet human-centric needs. Riding on the push for STEM education, our Robotics and Computing Programme has been integrated into our lower-secondary science and mathematics curricula for enhancing programming and creative problem-solving skills. Our Environmental and Sustainability Education prepares our students to be future-ready leaders who reflect and research on the challenges that the world faces through experiential and collaborative learning experiences that take them beyond the classroom. Our MOE Art Elective Programme (AEP) adopts the Lincoln Centre Education approach that develops students' capacities for imagination and enables them to realise their artistic potential through a rigorous 4-year programme. Complementing this, the Glocal Perspective Education nurtures students to be cultured, caring and global citizens with a 'think-global-act-local' education by providing them with a plethora of opportunities to engage in a range of cultural activities and global immersion opportunities. The Student Leadership Programme nurtures forward-looking leaders with integrity and commitment to serve the school, community and nation and provides tiered leadership training and experiences to all students to level up their leadership competencies. Our Talent Development Programme also provides programmes tailored to stretch the potential of selected students."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1273,7 +1274,8 @@
 					"Scout (Unit 1)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1495,6 +1497,23 @@
 			"Normal Technical": [
 				"133",
 				"157",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"234",
+				"257",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"184",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"123",
+				"158",
 				"None-posted"
 			]
 		}

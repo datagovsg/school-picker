@@ -5,7 +5,7 @@
 	"uen": " T07GS3013A",
 	"logo": "./Medias/Images/Schools/logos/tn_3013.jpg",
 	"website": "http://www.tkgs.moe.edu.sg",
-	"address": "2, Bedok South Road (469268)",
+	"address": "20, Dunman Lane (439272)",
 	"telephone": [
 		"63441593",
 		"66441593 (from 2017)"
@@ -16,9 +16,10 @@
 	],
 	"email": "tkgs@moe.edu.sg",
 	"mrt": [
-		"Bedok MRT"
+		"Paya Lebar MRT",
+		"Dakota MRT"
 	],
-	"bus": "2 , 7 , 16 , 24 , 25 , 28 , 30 , 30E , 31 , 32 , 33 , 38 , 40 , 67 , 196 , 197 , 222 , 229 , 401 , 854 ",
+	"bus": "10 , 16 , 31 , 32 , 33 , 40 , 43 , 134 , 135 , 197 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Wong Yee Min Mary",
 		"Vice Principal": [
@@ -28,7 +29,7 @@
 		"Vice Principal (Admin)": "Mdm Koh Seok Lee Shirley",
 		"School Vision": "Accomplished young women of character and grace",
 		"School Mission": "To nurture every TKGian to be a leader",
-		"School Philosophy, Culture and Ethos": "TKGS is dedicated to nurturing high achievers, leaders of character and women of grace. We are committed to nurturing leaders in the academic, character and arts domains. In doing so, we believe in students learning the value of stewardship,where the best and the brightest TKGians must lead through 'noble service' and to 'serve with honour', as inspired by the school song penned by the first principal Ms Maude Scott in 1953. Our aspiration for being a school of distinction must start from within, with the girls who come through our portals understand how special it is to be TKGian, to understand the obligations and responsibilities in upholding that tradition of excellence which we have built over more than 60 years.",
+		"School Philosophy, Culture and Ethos": "TKGS is dedicated to nurturing leaders of character, accomplished learners and women of grace. We are committed to nurturing leaders in the academic, character and arts domains. In doing so, we believe in students learning the value of stewardship,where the best and the brightest TKGians must lead through 'noble service' and to 'serve with honour', as inspired by the school song penned by the first principal Ms Maude Scott in 1953. Our aspiration for being a school of distinction must start from within, with the girls who come through our doors understand how special it is to be TKGian, to understand the obligations and responsibilities in upholding that tradition of excellence which we have built over more than 65 years.",
 		"Type of School": "Government School / Girls' School / Single Session",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -41,9 +42,6 @@
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
-		"Combined Humanities (S,L)",
 		"Design & Technology",
 		"Drama",
 		"English Language",
@@ -53,6 +51,9 @@
 		"Higher Malay",
 		"Higher Tamil",
 		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In English)",
 		"Literature(E)",
 		"Malay",
 		"Mathematics",
@@ -60,6 +61,7 @@
 		"Music (MEP)",
 		"Music 'O' Level",
 		"Oecie Economics (GCEO)",
+		"Physical Education",
 		"Physics",
 		"Science (Chem, Bio)",
 		"Tamil"
@@ -86,10 +88,10 @@
 			"Choir",
 			"Dance - International",
 			"Drama - English",
-			"Ensemble - String"
+			"Ensemble - String",
+			"Media Club"
 		],
 		"Clubs & Societies": [
-			"Audio - Video & Photography Club",
 			"Interact Club",
 			"Library",
 			"Literary & Debating Society"
@@ -99,14 +101,10 @@
 		"MOE Programmes": [
 			"Music Elective Programme"
 		],
-		"Special Student Development Programmes Offered": "The TKGS Curriculum aims to develop 3 distinct characteristics:(a)Leaders of Character, who lead from within in service of others: The TKGS leadership philosophy is founded on the belief that leadership is not about rank, position or title, but service in and through leadership of others. Character & Citizenship Education is implemented through our LEGACY curriculum, CCA and VIA programs, enabling girls to use the Community Problem Solving method to tackle community issues. The TKGS Truly! Programme instils TKGian identity and school pride, while the OBS Experience, Global Perspectives and Work Attachment Programmes complement our integrated approach to CCE."
+		"Special Student Development Programmes Offered": "The TKGS Curriculum develops 3 distinct characteristics: (a) LEADERS OF CHARACTER who lead from within in service of others; (b) ACCOMPLISHED LEARNERS who demonstrate intellectual character; and (c) WOMEN OF GRACE who are creative thinkers in their appreciation and advancement of the arts. LEADERS OF CHARACTER: Grounded on the TKGS leadership philosophy where leadership is not about rank, position or title but towards the service of others, our signature 4-year ViA programme guides all students to take the lead in exploring and deciding the causes they want to champion. Students are supported in such endeavours through practices picked up in lessons facilitated by teachers and working with external partners who all believe in the mission of nurturing TKGians to be leaders. In also believing that every student can lead in her own way, various leadership opportunities within our vibrant student body grow each TKGian to flourish in her own ways. ACCOMPLISHED LEARNERS: The TKGS Academic Curriculum integrates tasks which deepen disciplinary thinking and encourage explorations beyond the syllabus. We take special pride in our rich culture of EL learning, where the school serves as the East Zone Centre of Excellence. Besides being guided to take up a high level of personal responsibility towards their own learning by planning consultations and collaborations outside of class, TKGians can look forward to stretching themselves through the TKGS+ programme, to lead their peers in academic learning and exercise stewardship of their gifts. WOMEN OF GRACE: With a rich tradition in the Performing Arts, we are known for students who enjoy initiating their own performances and engaging with different audiences and fellow performers. Other than the opportunity to pursue Art, Music & Drama at the O levels, our 5 distinguished Performing Arts CCA groups provides for a vibrant Performing Arts scene - not just within the school but also beyond."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": "DA (National Education)",
-				"Outstanding Development Award": "ODA (Character Development)"
-			},
 			"2015": {
 				"School Distinction Awards": "SDA",
 				"Development Award": "DA (National Education)",
@@ -123,86 +121,6 @@
 				"Outstanding Development Award": "ODA (Character Development)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Sailing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Sailing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
 				{
 					"year": "2015",
 					"category": "Badminton",
@@ -426,31 +344,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Band - Concert",
 					"award": "Distinction"
@@ -548,26 +441,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 2)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Red Cross",
-					"award": "Silver"
-				},
-				{
 					"year": "2015",
 					"category": "Girl Guides (Coy 1)",
 					"award": "Gold"
@@ -622,14 +495,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 237,
-			"upper": 259,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 235,
@@ -652,9 +517,17 @@
 			"upper": 257,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 231,
+			"upper": 253,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
 		}
 	],
-	"postalCode": "469268",
+	"postalCode": "439272",
 	"coordinates": [
 		103.9270308,
 		1.3220391

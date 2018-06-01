@@ -19,10 +19,7 @@
 	"bus": "161 , 168 , 901 , 900A ",
 	"GeneralInformation": {
 		"Principal": "Mr Michael De Silva",
-		"Vice Principal": [
-			"Mr Soh Sze Fun, Victor",
-			"Mr Tay Yuan Zhuang"
-		],
+		"Vice Principal": "Mr Tay Yuan Zhuang",
 		"Vice Principal (Admin)": "Mdm Lee Beng Choo",
 		"School Vision": "A forward-looking community of leaders and thinkers",
 		"School Mission": "Develop future-ready leaders and thinkers",
@@ -94,12 +91,6 @@
 	},
 	"AchievementHistory": {
 		"Junior College": {
-			"2014": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				]
-			},
 			"Sports & Games Competition": [
 				{
 					"year": "2017",
@@ -113,21 +104,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Commendation"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Commendation"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -193,24 +169,6 @@
 		}
 	},
 	"L1R5History": [
-		{
-			"year": "2014",
-			"programme": "Arts",
-			"lower": 6,
-			"upper": 19
-		},
-		{
-			"year": "2014",
-			"programme": "Science/IB",
-			"lower": 7,
-			"upper": 20
-		},
-		{
-			"year": "2014",
-			"programme": "Commerce",
-			"lower": null,
-			"upper": null
-		},
 		{
 			"year": "2015",
 			"programme": "Arts",

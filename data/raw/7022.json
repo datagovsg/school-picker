@@ -46,9 +46,6 @@
 		"CHINESE B",
 		"CHINESE N(A)",
 		"CIVICS & MORAL EDUCATION",
-		"CO-CURRICULAR ACTIVITIES",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"COMPUTING",
 		"DESIGN & TECHNOLOGY",
@@ -57,11 +54,11 @@
 		"ENGLISH LANGUAGE (SYLL T)",
 		"FOOD & NUTRITION",
 		"GEOGRAPHY",
-		"HISTORY",
 		"HOME ECONOMICS",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
 		"LITERATURE(E)",
 		"MALAY",
-		"MALAY B",
 		"MALAY N(A)",
 		"MATHEMATICS",
 		"MATHEMATICS (SYLLABUS A)",
@@ -70,13 +67,11 @@
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
-		"SCIENCE",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
 		"SOCIAL STUDIES N(T)",
 		"TAMIL",
-		"TAMIL B",
 		"TAMIL N(A)"
 	],
 	"Cca": {
@@ -1135,7 +1130,8 @@
 					"Npcc (Land)": "Silver",
 					"Scout (Unit 1)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1389,6 +1385,26 @@
 				"154",
 				"109",
 				"150"
+			]
+		},
+		"2018": {
+			"Express": [
+				"225",
+				"237",
+				"190",
+				"249"
+			],
+			"Normal Academic": [
+				"188",
+				"195",
+				"152",
+				"196"
+			],
+			"Normal Technical": [
+				"121",
+				"157",
+				"118",
+				"152"
 			]
 		}
 	},

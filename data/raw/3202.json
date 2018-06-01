@@ -25,8 +25,9 @@
 		"School Vision": "A Dynamic School providing Holistic Education",
 		"School Mission": "Nurturing Broadricans to be future-ready learners with Strength of Character",
 		"School Philosophy, Culture and Ethos": [
-			"Broadrick's vision is to become a vibrant learning community where Broadricians will be equipped with life skills and knowledge to meet the challenges of a complex and changing environment.  We educate the whole child and ensure that learning is developmentally appropriate to increase confidence and motivation for learning.",
-			"Our educational programmes provide opportunities for every Broadrician to be all-rounded and have the zest to lead a purposeful life.  In Broadrick, we focus on developing self-directed Broadricians who are rooted in values.  We also want to educate Broadricians to embrace the spirit of innovation and enterprise so that they are empowered to take calculated risks and develop the resilience to face future challenges.  Teachers are key and students are our focus.  Establishing quality relationships with our stakeholders is crucial to nurture students entrusted in our care.  Broadricians have a sense of responsibility to contribute to the family, school, community, nation and world with the purpose of making a difference.  They learn to serve and serve to learn from others."
+			"Broadrick's vision is to become a vibrant learning community where Broadricians will be equipped with the necessary life skills and knowledge to meet the challenges of a complex and changing future environment.  We are guided by our belief in the intrinsic worth of every individual and that all are capable of learning and achieving. We educate the whole child and ensure that learning is developmentally appropriate to increase confidence and motivation for learning. Our educational programmes provide opportunities for every Broadrician to be all-rounded and have the zest to lead a purposeful life.",
+			"In Broadrick, we believe in acknowledging the different peaks of excellence in our students. We focus on developing self-directed Broadricians who are rooted in values and committed to life-long learning.  We educate Broadricians to embrace the spirit of innovation and enterprise so that they are empowered to take calculated risks and develop resilience to face future challenges.  Teachers are key and students are our focus.  Establishing quality relationships with our stakeholders is crucial to nurturing the students entrusted in our care.  ",
+			"Broadricians grow, learn, develop and serve together as one united community. Everyone in the Broadrick family has a sense of responsibility to contribute to the family, school, community, nation and world with the purpose of making a difference.  They learn to serve and serve to learn from others."
 		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -77,7 +78,6 @@
 			"Taekwondo"
 		],
 		"Uniformed Groups": [
-			"Girl Guides",
 			"Ncc (Land)",
 			"Npcc",
 			"Singapore Red Cross Society"
@@ -89,7 +89,7 @@
 			"Show Choir"
 		],
 		"Clubs & Societies": [
-			"Audio Video And Information Technology Club",
+			"Av/It",
 			"Robotics Club"
 		]
 	},
@@ -101,7 +101,7 @@
 			"STEM": "ENERGISE (Energy in Environmental Science and Sustainable Education)",
 			"Community & Youth Leadership": "Confidence And REsilience (CARE) though Aesthetics, Community and Youth Leadership"
 		},
-		"Special Student Development Programmes Offered": "We are recognised by MOE for \"Entrepreneurship in STEM\", which is an applied learning programme that help our students to become inquisitive leaders, critical and creative thinkers who embrace the spirit of creativity and enterprise.  Through school-based Science curriculum, students are involved in inquiry-based projects in collaboration with partners from Science Centre and Nanyang Polytechnic.  Students also learn about design thinking, marketing and examine commercial viability in product designs.  Enrichment activities include hands-on experience in constructing prototype and the Broadrick Digital Intelligence (DI) Programme, making our students to be part of a new generation of digital natives."
+		"Special Student Development Programmes Offered": "We are recognised by MOE for \"Entrepreneurship in STEM\", which is an applied learning programme that help our students to become inquisitive leaders, critical and creative thinkers who embrace the spirit of creativity and enterprise."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -600,7 +600,8 @@
 					"Npcc (Land)": "Gold",
 					"Red Cross": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -822,6 +823,23 @@
 			"Normal Technical": [
 				"93",
 				"151",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"239",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"92",
+				"150",
 				"None-posted"
 			]
 		}

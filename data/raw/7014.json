@@ -46,6 +46,7 @@
 		"FRENCH",
 		"GEOGRAPHY",
 		"GERMAN",
+		"HIGHER ART",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
 		"HIGHER MUSIC",
@@ -65,12 +66,12 @@
 	"Cca": {
 		"Physical Sports": [
 			"Artistic Gymnastics",
+			"Artistic Swimming",
 			"Badminton",
 			"Basketball",
 			"Netball",
 			"Squash",
 			"Swimming",
-			"Synchronised Swimming",
 			"Tennis",
 			"Trampoline"
 		],
@@ -1730,7 +1731,8 @@
 					"Ncc (Land Girls)": "Gold",
 					"Red Cross": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1861,6 +1863,19 @@
 				"258",
 				"220",
 				"258"
+			]
+		},
+		"2018": {
+			"Integrated Programme": [
+				"252",
+				"269",
+				"None-posted"
+			],
+			"'O' Level Programme": [
+				"250",
+				"257",
+				"220",
+				"265"
 			]
 		}
 	},

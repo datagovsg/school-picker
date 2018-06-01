@@ -23,7 +23,6 @@
 			"Mr Chng Puay Keong",
 			"Mdm Khoo Heng Oi Catherine"
 		],
-		"Vice Principal (Admin)": "Mr Chua Phuay Hiang",
 		"School Vision": "A Caring, Resilient & Innovative Learning Community",
 		"School Mission": "Touching Hearts, Inspiring Learning.",
 		"School Philosophy, Culture and Ethos": "Established in 1925, Shuqun Secondary School has a rich history and tradition. The school focuses on providing all students with a holistic education. In addition to a rigorous academic programme, the school believes in growing men and women of character, and emphasises the need for students to exhibit the school values of Respect, Responsibility, Resilience, Integrity, Care and Harmony in their daily actions. Through building social and emotional competencies, the school seeks to help students form good habits in the 5As, 'Attitude, Attendance, Appearance, Attention and Assignment'. Students are also developed physically, intellectually, emotionally and socially to realise the five desired attributes of a Shuqunite - 'lifelong learner, diligent, self-motivated student, responsible citizen, socially and emotionally skilled person, and self-disciplined and healthy individual'.",
@@ -107,53 +106,7 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				]
-			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
 				{
 					"year": "2015",
 					"category": "Volleyball",
@@ -217,16 +170,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2015",
 					"category": "Band - Concert",
 					"award": "Distinction"
@@ -258,26 +201,6 @@
 				}
 			],
 			"Best Unit Award": [
-				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
 				{
 					"year": "2015",
 					"category": "Boys' Brigade",
@@ -332,30 +255,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 248,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 152,
-			"upper": 195,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 97,
-			"upper": 155,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2015",
 			"programme": "Express",

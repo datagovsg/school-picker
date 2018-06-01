@@ -2,10 +2,10 @@
 	"code": "1272",
 	"name": "Fern Green Primary School",
 	"levels": "P",
-	"uen": " ",
+	"uen": " T17GS0004L",
 	"logo": "./Medias/Images/Schools/logos/tn_1272.jpg",
 	"website": "http://www.ferngreenpri.moe.edu.sg",
-	"address": "70, 70 Fernvale Link (797538)",
+	"address": "70, Fernvale Link (797538)",
 	"telephone": [
 		"68343100"
 	],
@@ -51,12 +51,12 @@
 	},
 	"postalCode": "797538",
 	"coordinates": [
-		103.8803163,
-		1.3972697
+		103.8801962,
+		1.3976208
 	],
 	"svy21": [
-		33230.26,
-		42128.62
+		33216.85,
+		42167.37
 	],
 	"planningArea": "SE",
 	"neighbours": [
@@ -72,6 +72,7 @@
 	"specialNeeds": [
 		"Mild SEN"
 	],
+	"studentCare": true,
 	"p1Registration": {
 		"Total Vacancy": 240,
 		"Vacancies Reserved for Phase 2B and 2C": 40,

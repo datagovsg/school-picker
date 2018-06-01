@@ -52,7 +52,29 @@
 		"SCIENCE",
 		"SOCIAL STUDIES"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Football",
+			"Netball"
+		],
+		"Uniformed Groups": [
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Dance - Chinese",
+			"Dance - Malay",
+			"Ensemble - Angklung/Kulintang",
+			"Ensemble - Handbell/Handchime"
+		],
+		"Clubs & Societies": [
+			"Infocom Club",
+			"Library",
+			"Mathematics Club",
+			"Science And Green Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -792,7 +814,8 @@
 				"Best Unit Award": {
 					"Scout": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "688268"

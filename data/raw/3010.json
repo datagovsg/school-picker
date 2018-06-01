@@ -21,9 +21,10 @@
 			"MRS CHAN TIOW LIANG GARY",
 			"MR JIN SEBASTIAN"
 		],
-		"School Vision": "Moulding Character, Igniting Passion, Building Community",
-		"School Mission": "We will nurture our StaRs to become active, purposeful and upright citizens, with the passion to learn and excel, working for the good of others and the growth of self",
-		"School Philosophy, Culture and Ethos": "SSS provides Possibilities for students. We practise a culture of Care for our students. With an 89-year history, Serangoon Secondary School has produced many illustrious alumni. Serangoon students are StaRs, developed holistically through comprehensive programmes designed to nurture each child's talents and aspirations and enable each child to excel holistically. Students' learning is guided by innovative teaching methodologies such as the Inquiry-based approach in Science and the Integrated Coursework approach in Craft and Technology. Our students are also provided with rich and diverse learning experiences both locally and overseas. Student Recognition is an integral part of our culture. Upper Secondary students can also strive for the Serangoon StaR awards for overall excellence in various areas. More than 90% of students graduate with at least an NYAA (Bronze) award. We value our partners and we value partnerships to enhance student learning. The Parent Support Group is actively involved in providing support, engaging parents, and networking to enrich students' learning. The school offers Computing and Mobile Robotics as Elective Subjects. Our students hone their leadership skills in working for the good of the community through our LLP niche in Project Ablaze: Harnessing Youth Leadership in the Service of Community. We also ensure our students are future ready, through our ALP niche in Real-world Explorations in ICT. We are committed to ensuring that our StaRs SHINE (our Star Qualities).",
+		"Vice Principal (Admin)": "MR MEYYAPPAN NADARAJAN THEVAR",
+		"School Vision": "Resilient Individuals, Passionate Learners, Active Contributors",
+		"School Mission": "Moulding Character, Igniting Passion, Building Community.",
+		"School Philosophy, Culture and Ethos": "SSS provides varied possibilities for students. We practise a culture of care for our students. With a 90-year history, Serangoon Secondary School has produced many illustrious alumni. Serangoon students are StaRs, developed holistically through comprehensive programmes designed to nurture each child's talents and aspirations and enable each child to excel holistically. The joy of learning is made possible with innovative teaching methodologies coupled with real life applications that include approaches such as that of Inquiry-based in Science and the Integrated Coursework in Craft and Technology. Our students are also provided with rich and diverse learning experiences both locally and overseas. Recognising students for their talents and efforts goes beyond achieving accolades and this has become an integral part of our culture. Upper Secondary students can also strive for the Serangoon StaR Awards for overall excellence in various areas. More than 90% of students graduate with at least an NYAA (Bronze) award. We value our partners and we value partnerships to augment our efforts to enhance student learning. The Parent Support Group is actively involved in providing support, engaging parents, and networking to enrich students' learning. The school also offers Computing and Mobile Robotics as Elective Subjects offered for those who take a special interest in these areas. Our students hone their leadership skills in working for the good of the community through our Learning for Life Programme (LLP) in Project Ablaze: Harnessing Youth Leadership in the Service of Community. We also ensure our students are future ready, through our Applied Learning Programme (ALP) in Real-world Explorations in ICT.  Above all we are committed to ensuring that our StaRs SHINE through inculcating our core values of Self-directedness, Harmony, Integrity, Resilience and Excellence.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -34,24 +35,20 @@
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"COMPUTING",
 		"DESIGN & TECHNOLOGY",
-		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"FOOD & NUTRITION",
-		"HIGHER CHINESE",
 		"HISTORY",
-		"HOME ECONOMICS",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
 		"MALAY",
 		"MATHEMATICS",
 		"MOBILE ROBOTICS",
 		"PHYSICS",
-		"PRINCIPLES OF A/C",
+		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
-		"SOCIAL STUDIES",
 		"TAMIL"
 	],
 	"Cca": {
@@ -75,6 +72,7 @@
 			"Drama - English",
 			"Ensemble - Guzheng",
 			"Orchestra - Chinese",
+			"Photographic Society",
 			"Symphonic Band"
 		],
 		"Clubs & Societies": [
@@ -90,7 +88,7 @@
 			"STEM": "Real-world Explorations in ICT",
 			"Community & Youth Leadership": "Project Ablaze: Harnessing Student Leadership in the Service of Community"
 		},
-		"Special Student Development Programmes Offered": "1. 'O' Level Computing is offered as an Elective Subject 2. Mobile Robotics is offered as an Elective Subject. 3. English Excellence to develop Confident Persons - Sec 1 Storytelling, Sec 2 Drama, Sec 3 Debate. 4. Global Students' Programme. 5. Serangoon Student Leadership Development (SSLeaD) incorporating NYAA. 6. Aesthetics Exposure and Enrichment for all students. 7. Character Development. 8. Values in Action, with emphasis on student-initiated activities. 9. LLP Project Ablaze: Harnessing Student Leadership in the Service of Community. 10. ALP: Real-world explorations in ICT. 11. Sports Education Programme. 12. Elective Modules for Normal stream students & Advanced Elective Modules for Express and Normal Academic stream students."
+		"Special Student Development Programmes Offered": "1. 'O' Level Computing is offered as an Elective Subject. 2. Mobile Robotics is offered as an Elective Subject for Normal Technical Stream. 3. Serangoon Student Leadership Development (SSLeaD) incorporating NYAA. 4. Aesthetics Exposure and Enrichment for all students. 5. Values in Action, with emphasis on student-initiated activities. 6. LLP Project Ablaze: Harnessing Student Leadership in the Service of Community. 7. ALP: Real-world explorations in ICT. 8. Special Programme for Normal stream students and Advanced Elective modules for Express and Normal Academic stream students."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -646,7 +644,8 @@
 					"Red Cross": "Gold",
 					"Scout (Unit 1)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -868,6 +867,23 @@
 			"Normal Technical": [
 				"121",
 				"153",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"255",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"155",
+				"185",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"125",
+				"151",
 				"None-posted"
 			]
 		}

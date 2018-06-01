@@ -35,14 +35,10 @@
 	},
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
-		"ART NA LEVEL",
 		"ART 'O' LEVEL",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
-		"COMBINED HUMANITIES (S,L)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
@@ -52,19 +48,23 @@
 		"FOOD STUDIES, N LEVEL",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
+		"HIGHER MALAY",
 		"HIGHER MUSIC",
 		"HIGHER TAMIL",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
 		"MUSIC 'O' LEVEL",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
-		"PRINCIPLES OF A/C",
+		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
-		"SOCIAL STUDIES",
+		"SOCIAL STUDIES N(T)",
 		"TAMIL"
 	],
 	"Cca": {
@@ -85,7 +85,9 @@
 		"Visual and Performing Arts": [
 			"Band",
 			"Choir",
+			"D'arts Society (Cldds)",
 			"Dance",
+			"Eldds - Drama",
 			"Guitar",
 			"Guzheng",
 			"Handbell Ensemble",
@@ -1162,7 +1164,8 @@
 					"Npcc (Land)": "Silver",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1415,6 +1418,25 @@
 				"153",
 				"128",
 				"159"
+			]
+		},
+		"2018": {
+			"Express": [
+				"None-posted",
+				"216",
+				"264"
+			],
+			"Normal Academic": [
+				"185",
+				"199",
+				"152",
+				"199"
+			],
+			"Normal Technical": [
+				"107",
+				"159",
+				"128",
+				"153"
 			]
 		}
 	},

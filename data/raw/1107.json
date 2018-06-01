@@ -61,9 +61,6 @@
 			"Choir",
 			"Ensemble - Guzheng",
 			"Ethnic Dance"
-		],
-		"Clubs & Societies": [
-			"Infocomm Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -825,7 +822,8 @@
 					"Girls' Brigade": "Silver",
 					"Scout": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "609647"

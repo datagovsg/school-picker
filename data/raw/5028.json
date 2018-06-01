@@ -19,8 +19,8 @@
 		"Principal": "MDM QUAH LI LING MAE",
 		"Vice Principal": "MDM LIM SHEUE TYUG",
 		"Vice Principal (Admin)": "MR SEE CHAY MENG",
-		"School Vision": "An innovative school where inspiring educators nurture passionate learners of integrity.",
-		"School Mission": "To foster the cognitive, physical, moral, aesthetic and social growth of Students.",
+		"School Vision": "An Innovative school where Inspiring Educators Nurture Future-ready Leaders with Values.",
+		"School Mission": "To foster Leadership, Cognitive, Physical, Aesthetic, Social and Moral growth of Students.",
 		"School Philosophy, Culture and Ethos": [
 			"Nan Chiau Primary School is an affiliated school of the Singapore Hokkien Huay Kuan (SHHK). Embracing tradition as a Singapore Hokkien Huay Kuan school, the school emphasises on the four core values of 'Respect', 'Responsibility', 'Sincerity' and 'Perseverance' as it continually looks to prepare its students for the future.",
 			"Aligned to SHHK's philosophy, the school is guided by its mission \"To foster the moral, cognitive, physical, social, and aesthetic growth of students\" to achieve its vision \"An innovative school where inspiring educators nurture passionate learners of integrity\". ",
@@ -72,13 +72,13 @@
 			"Choir",
 			"Dance - International",
 			"Guzheng",
-			"Media Club"
+			"Info Comm Club"
 		],
 		"Clubs & Societies": [
 			"Chinese Ldds",
 			"Eldds",
 			"Environmental Club",
-			"Innoscience Club"
+			"Robotics Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -89,7 +89,7 @@
 			"Interdisciplinary": "Applied Learning@NCPS through Project Work",
 			"Sports & Outdoor Education": "Enhancing physical, cognitive, moral and social growth through basketball"
 		},
-		"Special Student Development Programmes Offered": "The vision of becoming an 'innovative school' with 'passionate learners of integrity' provides the impetus for Student-centric 21st Century Competencies (21CC) Curriculum which includes programmes for academic and non-academic development of our students."
+		"Special Student Development Programmes Offered": "The vision of becoming an 'innovative school' with 'future-ready leaders with values' provides the impetus for Student-centric 21st Century Competencies (21CC) Curriculum which includes programmes for academic and non-academic development of our students."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -933,7 +933,8 @@
 					"Dance - Chinese": "Distinction",
 					"Ensemble - Guzheng": "Accomplishment"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "545080"

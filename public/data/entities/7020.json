@@ -27,7 +27,7 @@
 		],
 		"School Vision": "A mission school of choice, recognised for values-centred education and learning driven by passion, that nurtures persons who make a difference to society.",
 		"School Mission": "Enabling youth in a Lasallian community to learn how to learn and to learn how to live; empowering them to become men and women of integrity and men and women for others.",
-		"School Philosophy, Culture and Ethos": "Catholic Lasallian Core Values: Faith, our foundation, Service, our way and Community, our support. School Slogan/Brand Statement: Nurturing Men & Women of Integrity and Men & Women for Others. A Lasallian community nurturing persons of integrity and persons for others. At SJI, we pride ourselves on producing young people of integrity with a strong desire to serve others, especially the poor. Character and faith formation are central to an SJI education.",
+		"School Philosophy, Culture and Ethos": "Catholic Lasallian Core Values: Faith, our foundation, Service, our way and Community, our support. School Slogan/Brand Statement: Nurturing Men & Women of Integrity and Men & Women for Others. At SJI, we endeavour to nurture young people to pursue their talents and interests so as to realize their fullest potential and to become persons of integrity with a strong desire to lead and serve others, especially the poor. Character and faith formation are central to an SJI education.",
 		"Type of School": "Independent School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
@@ -44,9 +44,9 @@
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Computer Studies",
 		"English Language",
 		"Geography",
+		"Higher Art",
 		"Higher Chinese",
 		"Higher Malay",
 		"Higher Tamil",
@@ -57,28 +57,54 @@
 		"Malay",
 		"Mathematics",
 		"Music",
-		"Physical Education",
 		"Physics",
 		"Tamil"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Canoeing",
+			"Canoeing/Rowing/Dragon Boat",
+			"Cross Country",
+			"Fencing",
+			"Football",
+			"Hockey",
+			"Judo",
+			"Rugby",
+			"Sailing",
+			"Squash",
+			"Table Tennis",
+			"Tennis",
+			"Track & Field"
+		],
+		"Uniformed Groups": [
+			"Ncc (Land)",
+			"Ncc(Air)",
+			"Npcc",
+			"Scouts",
+			"St. John Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Drama Club",
+			"Guitar Ensemble",
+			"Sji Military Band",
+			"Sji Pipe Band",
+			"Sji Vocal Ensemble"
+		],
+		"Clubs & Societies": [
+			"Legion Of Mary",
+			"St Vincent De Paul Society",
+			"Young Christian Students"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Integrated Programme - Dual Track School (offers both IP and O Levels)"
 		],
-		"Special Student Development Programmes Offered": "SJI offers both the 4-year 'O'-level programme and a 6-year Integrated Programme (IP) leading to the International Baccalaureate (IB) Diploma at the end of the 6-year programme.  An SJI education aims to educate the whole person by providing a broad-based academic curriculum that is integrated with a comprehensive student development curriculum with a strong emphasis on character and leadership development.  The SJI Education adopts a framework with 3-levels of Learning. Academic Foundations in Level 1 lays the foundations in core subjects such as English Language, Mother Tongue Languages, Humanities, Sciences, Mathematics and the Arts. Academic Extensions in Level 2 provides opportunities for students to further explore their areas of interest in specific subjects/topics. At Level 3 - Sustained Inquiry and Thinking, students will delve deeper into specific areas through a sustained project or in innovative thinking programmes such as ArtScience, Design Thinking and World and Me, a multi-disciplinary programme developed by SJI.  Character and leadership development is nurtured throughout the curriculum, along with SJI's unique Religious, Moral and Social Education programme, co-curricular activities, leadership development opportunities, physical and outdoors education, international experience and overseas residential programmes."
+		"Special Student Development Programmes Offered": "SJI offers both the 4-year 'O'-level programme and a 6-year Integrated Programme (IP) leading to the International Baccalaureate (IB) Diploma at the end of the 6-year programme.  An SJI education aims to educate the whole person by providing a broad-based academic curriculum that is integrated with a comprehensive student development curriculum emphasising character and leadership development.  The SJI Education adopts a framework with 3-levels of Learning. Academic Foundations in Level 1 lays the foundations in core subjects such as English Language, Mother Tongue Languages, Humanities, Sciences, Mathematics and the Arts. Academic Extensions in Level 2 provides opportunities for students to further explore their areas of interest in specific subjects/topics. Sustained Inquiry and Thinking in Level 3 enables students to delve deeper into specific areas through sustained project work, including research work, or in innovative thinking programmes developed by SJI. Character and leadership development are nurtured through the curriculum, along with SJI's unique Religious, Moral and Social Education programme, co-curricular activities, leadership development opportunities, international experience, physical and outdoors education."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Development Award": "DA (Character Development)",
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"2016": {
 				"School Distinction Awards": "SDA"
 			},
@@ -86,166 +112,6 @@
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Canoeing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Canoeing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Cross Country",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Fencing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Gymnastics (Artistic)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Gymnastics (Trampoline)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Gymnastics (Trampoline)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Judo",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Judo",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Rugby",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Sailing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Sailing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Badminton",
@@ -769,46 +635,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category B",
 					"award": "Recognition(Sm)"
@@ -906,31 +732,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "NCC (Air Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "NCC (Air Boys)",
 					"award": "Gold"
@@ -1014,18 +815,7 @@
 			"2017": {
 				"School Distinction Awards": "SDA"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Fencing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "4th"
-				}
-			],
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -1052,22 +842,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Integrated Programme",
-			"lower": 250,
-			"upper": 265,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "'O' Level Programme",
-			"lower": 245,
-			"upper": 257,
-			"lowerAffiliated": 238,
-			"upperAffiliated": 259
-		},
 		{
 			"year": "2015",
 			"programme": "Integrated Programme",
@@ -1115,28 +889,26 @@
 			"upper": 259,
 			"lowerAffiliated": 238,
 			"upperAffiliated": 258
+		},
+		{
+			"year": "2018",
+			"programme": "Integrated Programme",
+			"lower": 253,
+			"upper": 266,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "'O' Level Programme",
+			"lower": 244,
+			"upper": 255,
+			"lowerAffiliated": 238,
+			"upperAffiliated": 260
 		}
 	],
 	"L1R5History": [
 		{
-			"year": "2014",
-			"programme": "Arts",
-			"lower": null,
-			"upper": null
-		},
-		{
-			"year": "2014",
-			"programme": "Science/IB",
-			"lower": 2,
-			"upper": 7
-		},
-		{
-			"year": "2014",
-			"programme": "Commerce",
-			"lower": null,
-			"upper": null
-		},
-		{
 			"year": "2015",
 			"programme": "Arts",
 			"lower": null,
@@ -1186,6 +958,24 @@
 		},
 		{
 			"year": "2017",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2018",
+			"programme": "Arts",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2018",
+			"programme": "Science/IB",
+			"lower": 2,
+			"upper": 8
+		},
+		{
+			"year": "2018",
 			"programme": "Commerce",
 			"lower": null,
 			"upper": null

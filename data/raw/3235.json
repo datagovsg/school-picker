@@ -4,7 +4,7 @@
 	"levels": "S",
 	"uen": " T07GS3235G",
 	"logo": "./Medias/Images/Schools/logos/tn_3235.jpg",
-	"website": "http://www.pasirrissec.moe.edu.sg",
+	"website": "http://pasirrissec.moe.edu.sg",
 	"address": "390, TAMPINES STREET 21 ( 529400 )",
 	"telephone": [
 		"65010800"
@@ -13,17 +13,17 @@
 		"65010900"
 	],
 	"email": "prss@moe.edu.sg",
-	"mrt": "TAMPINES MRT",
-	"bus": "3 , 8 , 10 , 18 , 19 , 22 , 23 , 28 , 29 , 31 , 37 , 38 , 39 , 65 , 67 , 69 , 72 , 81 , 291 , 292 , 293 , 15 , 21 , 27 , 168 ",
+	"mrt": "TAMPINES MRT, TAMPINES EAST MRT, TAMPINEST WEST MRT",
+	"bus": "4 , 8 , 10 , 19 , 20 , 22 , 23 , 28 , 29 , 31 , 37 , 38 , 46 , 65 , 69 , 72 , 81 , 127 , 291 , 292 , 293 , 18 , 39 , 129 ",
 	"GeneralInformation": {
 		"Principal": "MDM GRACE TAN BEE SIM",
 		"Vice Principal": [
 			"MISS SAKINAH BINTE MOHAMED SARIP",
 			"MDM TAN GEOK LAN"
 		],
-		"School Vision": "Independent Learners, Confident Leaders, Caring Citizens",
-		"School Mission": "To nurture Pasirians to have sound values, a passion for life and learning, and a global outlook",
-		"School Philosophy, Culture and Ethos": "At Pasir Ris, we believe that every student is important and has the potential to learn and excel given a nurturing and stimulating environment. We value every student's uniqueness, and provide opportunities for them to discover and nurture their strengths and talents. We believe in a whole school approach in student development and well-being, and that every staff member plays an important role in helping each student fulfil his potential. We take pride in providing a holistic and quality education and are committed to prepare our students for the future. Guided by our teaching and learning framework, we provide meaningful learning experiences within the curriculum and co-curriculum that are authentic, independent, integrated, interactive and reflective. Through these experiences, we develop all Pasirians to be independent learners, confident leaders and caring citizens.",
+		"School Vision": "Confident Learners, Caring & Resilient Citizens",
+		"School Mission": "Inspiring Lives, Nurturing Talents, Realising Dreams",
+		"School Philosophy, Culture and Ethos": "At Pasir Ris, we believe that every student is important and has the potential to learn and excel. Every student is unique and valued, and will have many opportunities to discover and develop his/her strengths and talents.  We provide a nurturing environment and stimulating curriculum for our students to develop them into confident learners, caring and resilient citizens.  Character development is emphasized and our core values of Pride, Responsibility, Integrity, Zeal and Empathy undergrid our school culture and programmes. Every staff member is a designer of learning that builds 21 century competencies and plays an important role in helping every student fulfil his/her potential. We believe in and are committed to providing a holistic and quality education that is forward looking, meaningful and enriching.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -51,7 +51,7 @@
 		"MATHEMATICS",
 		"MUSIC",
 		"PHYSICS",
-		"PRINCIPLES OF A/C",
+		"PRINCIPLES OF ACCOUNTS",
 		"PROJECT WORK",
 		"SCIENCE (PHY, CHEM)"
 	],
@@ -73,11 +73,11 @@
 			"Chinese Orchestra",
 			"Choir",
 			"Concert Band",
-			"Drama Club",
 			"Malay Dance"
 		],
 		"Clubs & Societies": [
-			"Infocomm Club"
+			"Infocomm Club",
+			"Tinkers' Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -740,7 +740,8 @@
 					"Ncdcc": "Gold",
 					"Npcc (Land)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -962,6 +963,23 @@
 			"Normal Technical": [
 				"108",
 				"158",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"216",
+				"232",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"176",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"125",
+				"159",
 				"None-posted"
 			]
 		}

@@ -21,9 +21,9 @@
 			"MR TAN TECK TIAN",
 			"MDM NAZIMAH BTE ABDULLAH"
 		],
-		"School Vision": "The Choice School for Character Development and Learning",
-		"School Mission": "To Nurture Lifelong Learners, Gracious Citizens and Resilient Leaders",
-		"School Philosophy, Culture and Ethos": "Seng Kang Secondary School strives to provide a Student-Centric, Values-Driven (SVE) education that nurtures every student to his/her fullest potential with the belief that every child matters and can learn. Inculcation of values coupled with the development of an excellence mind-set for learning undergird the wide range of opportunities and programmes for students to develop 21st century competencies and skills to prepare them for the future. Through a holistic curriculum delivered within and beyond the classroom, the school provides authentic experiences for students to enjoy learning and to discover their talents and strengths. In tandem with the school's commitment to nurture leaders with resilience and gracious citizens with a caring heart to serve, curricular and co-curricular programmes are designed to engage students as active contributors in their teams to lead and serve for the betterment of others. The school has a team of dedicated and committed teachers who expect the best from their students and go the extra mile to help the students to fulfil their potential. In the pursuit of excellence, teachers actively develop innovative classroom practices and customise curriculum materials to meet the varied needs of every child.",
+		"School Vision": "A community of global citizens & learners for life.",
+		"School Mission": "Shaping character, kindling passion & stretching minds.",
+		"School Philosophy, Culture and Ethos": "Seng Kang Secondary School strives to provide a Student-Centric, Values-Driven (SVE) education that nurtures every student to his / her fullest potential with the belief that every child matters and can learn. Inculcation of values coupled with the development of an excellence mind-set for learning undergird the wide range of opportunities and programmes for students to develop 21st century competencies and skills to prepare them for the future. Through a holistic curriculum delivered within and beyond the classroom, the school provides authentic experiences for students to enjoy learning and to discover their talents and strengths. In tandem with the school's commitment to nurture leaders with resilience and gracious citizens with a caring heart to serve, curricular and co-curricular programmes are designed to engage students as active contributors in their teams to lead and serve for the betterment of others. The school has a team of dedicated and committed teachers who expect the best from their students and go the extra mile to help the students to fulfil their potential. In the pursuit of excellence, teachers actively develop innovative classroom practices and customise curriculum materials to meet the varied needs of every child.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -35,17 +35,19 @@
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"EXERCISE AND SPORTS SCIENCE",
 		"FOOD & NUTRITION",
+		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
 		"MUSIC",
@@ -91,7 +93,7 @@
 			"STEM": "Health Science & Technology",
 			"Sports & Outdoor Education": "Building Character Through Physical Education & Sports"
 		},
-		"Special Student Development Programmes Offered": "Our Learning for Life Programme is Building Character through Physical Education & Sports. We believe that Physical Education and Sports Education are natural platforms for Character Building and our programme seeks to develop active and healthy students with mental toughness, empathy and character that will enables them to act as role models to promote a healthy lifestyle to their peers, family and the community. "
+		"Special Student Development Programmes Offered": "Our Learning for Life Programme is Building Character through Physical Education & Sports. We believe that Physical Education and Sports Education are natural platforms for Character Building and our programme seeks to develop active and healthy students with mental toughness, empathy and character that will enable them to act as role models to promote a healthy lifestyle to their peers, family and the community. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1113,7 +1115,8 @@
 					"Npcc (Land)": "Silver",
 					"Red Cross": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1335,6 +1338,23 @@
 			"Normal Technical": [
 				"137",
 				"159",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"199",
+				"229",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"171",
+				"192",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"133",
+				"158",
 				"None-posted"
 			]
 		}

@@ -37,10 +37,6 @@
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
-		"Combined Humanities (S,L)",
-		"Combined Humanities (SS,LM)",
 		"Computer Applications",
 		"Design & Technology",
 		"English Language",
@@ -49,13 +45,20 @@
 		"Higher Chinese",
 		"Higher Malay",
 		"Higher Tamil",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In English)",
+		"Humanities (Ss, Lit In Malay)",
 		"Literature(E)",
 		"Malay",
 		"Mathematics",
+		"Mobile Robotics",
 		"Physical Education",
 		"Physics",
-		"Principles Of A/C",
+		"Principles Of Accounts",
 		"Science",
+		"Science (Chem, Bio)",
+		"Science (Phy, Chem)",
 		"Tamil",
 		"Visual Arts"
 	],
@@ -88,16 +91,16 @@
 			"Infocomm Club",
 			"Robotics Club",
 			"Science Club"
+		],
+		"Others": [
+			"Students' Council"
 		]
 	},
 	"SpecialProgrammes": {
-		"Special Student Development Programmes Offered": "With the aim to nurture Andersonians to be intellectually curious, innovative, creative and culturally versatile leaders, the school takes pride in its niche and signature programmes that provide the platforms to imbue these qualities and facilitate diverse learning experiences. We have established a comprehensive Science Research Programme that provides opportunities for students to pursue their interests, develop their competencies and hone their talents in this area.  The Basic Coding Enrichment Programme aims to inculcate computational skills in students, to set them up for a lifetime of opportunities. The Drama Programme seeks to develop students into confident communicators and reflective thinkers who are able to challenge common perceptions and stereotypical perspectives. The Malay Elective Programme in Malay Language for Secondary Schools (EMAS) provides opportunities for students to develop a deeper appreciation of the Malay Language and culture. At the same time, the Service and Student Leadership Programme integrates leadership development with community outreach and action, so that students imbibe the qualities and attitudes of a servant leader. We hope to nurture citizens who are socially aware, informed about local and international issues, and able and ready to make a difference to the community and people around them. All in all, there is a strong focus on experiential learning in our academic and non-academic curriculum as we seek to actively engage our students in constructing, integrating and deepening their learning experiences."
+		"Special Student Development Programmes Offered": "With the aim to nurture Andersonians to be intellectually curious, innovative, creative and culturally versatile leaders, the school takes pride in its niche and signature programmes that provide the platforms to imbue these qualities and facilitate diverse learning experiences. We have established a comprehensive Science Research Programme that provides opportunities for students to pursue their interests, develop their competencies and hone their talents in this area.  The Basic Coding Enrichment Programme aims to inculcate computational skills in students, to set them up for a lifetime of opportunities. The Drama Programme seeks to develop students into confident communicators and reflective thinkers who are able to challenge common perceptions and stereotypical perspectives. The Elective Programme in Malay Language in Secondary Schools (EMAS) provides opportunities for students to develop a deeper appreciation of the Malay Language and culture. At the same time, the Service and Student Leadership Programme integrates leadership development with community outreach and action, so that students imbibe the qualities and attitudes of a servant leader. We hope to nurture citizens who are socially aware, informed about local and international issues, and able and ready to make a difference to the community and people around them. All in all, there is a strong focus on experiential learning in our academic and non-academic curriculum as we seek to actively engage our students in constructing, integrating and deepening their learning experiences."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"School Distinction Awards": "SDA"
-			},
 			"2015": {
 				"School Distinction Awards": "SDA"
 			},
@@ -108,116 +111,6 @@
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
 				{
 					"year": "2015",
 					"category": "Basketball",
@@ -441,31 +334,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Band - Concert",
 					"award": "Distinction"
@@ -553,26 +421,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Girl Guides (Coy 1)",
 					"award": "Gold"
@@ -636,30 +484,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 246,
-			"upper": 258,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 188,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 142,
-			"upper": 159,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -729,6 +553,30 @@
 			"programme": "Normal Technical",
 			"lower": 141,
 			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 245,
+			"upper": 273,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 187,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 144,
+			"upper": 158,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

@@ -48,16 +48,20 @@
 		"HIGHER MALAY",
 		"HIGHER TAMIL",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
 		"MUSIC",
 		"PHYSICS",
 		"PRINCIPLES OF A/C",
+		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, BIO)",
 		"SCIENCE (PHY, CHEM)",
+		"SOCIAL STUDIES N(T)",
 		"TAMIL"
 	],
 	"Cca": {
@@ -85,7 +89,8 @@
 		"Clubs & Societies": [
 			"Audio & Video/ Pa Club",
 			"Environment Club",
-			"Library"
+			"Library",
+			"Media Resource Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -96,7 +101,7 @@
 			"STEM": "Inspire through Scientific Innovation and Enterprise",
 			"Sports & Outdoor Education": "Lead through Outdoor and Sporting Adventures"
 		},
-		"Special Student Development Programmes Offered": "Our school is committed to nurturing Unitians to become lifelong learners and inspiring leaders. Key programmes such as the Young Gifted Scientists Programme, Advanced Mathematics Programme, Leaders of English Programme and Social Scientists and Entrepreneurship Programme integrate learning and stretch the potential of our students in their academic learning.  The school conducts an Applied Learning Programme (ALP) for all its students to develop in them a scientific mindset of innovation and enterprise. The Programme focuses on real-world problem-solving through the application of science and problem-solving processes such as design thinking, scientific methods and research skills. The ALP is conducted in collaboration with tertiary institutions and research agencies."
+		"Special Student Development Programmes Offered": "Our school is committed to nurturing Unitians to become lifelong learners and inspiring leaders. Key programmes such as the Young Scientists Programme, Advanced Mathematics Programme, Leaders of English Programme and Unity Humanities Programme integrate learning and stretch the potential of our students in their academic learning.  The school conducts an Applied Learning Programme (ALP) for all its students to develop in them a scientific mindset of innovation and enterprise. The Programme focuses on real-world problem-solving through the application of science and problem-solving processes such as design thinking, scientific methods and research skills. The ALP is conducted in collaboration with tertiary institutions and research agencies."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -956,7 +961,8 @@
 					"Npcc (Land)": "Gold",
 					"Scout (Unit 1)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1178,6 +1184,23 @@
 			"Normal Technical": [
 				"134",
 				"159",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"212",
+				"242",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"167",
+				"196",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"129",
+				"156",
 				"None-posted"
 			]
 		}

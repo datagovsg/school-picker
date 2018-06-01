@@ -24,7 +24,7 @@
 		"Vice Principal (Admin)": "MR SEAH THIAM SIONG",
 		"School Vision": "Where Talents Soar: Bicultural Scholars, Accomplished Achievers, Honourable Leaders",
 		"School Mission": "To nurture creative thinkers, lifelong learners and compassionate leaders who uphold tradition and aspire towards holiness and righteousness.",
-		"School Philosophy, Culture and Ethos": "Anchored on the school philosophy 'Every Child Has Talent, Every Child Can Excel', the school provides all students with a rich learner-centered, holistic educational experience, with the aim of stretching every student's potential in the Cognitive, Leadership, Aesthetics, Moral,  Physical and Social domains. In nurturing the whole child, the school places emphasis on leadership and talent development to build the personal capacity of each child. In addition, students are equipped with life skills to be confident communicators, active collaborators and critical thinkers. As a Special Assistance Plan (SAP) school, the school offers a bicultural learning environment with strong emphasis on the learning of the Chinese language and culture premised on strong values and active citizenry. Besides offering a quality 4-year instructional programme, the school also has a robust and vibrant CCA programme and Student Development Co-curriculum to nurture good character and develop 21st century competencies. With its strong sports tradition, the school is affirmed as the Centre of Excellence (COE) for Sports in the East Zone. The school's total curriculum is characterised as being progressive, competency-based, values-led and passion-driven, and is thoughtfully designed and delivered by a team of highly dedicated and competent teachers.",
+		"School Philosophy, Culture and Ethos": "Anchored on the school philosophy 'Every Child Has Talent, Every Child Can Excel', the school provides all students with a rich learner-centered, holistic educational experience, with the aim of stretching every student's potential in the Cognitive, Leadership, Aesthetics, Moral, Physical and Social domains. In nurturing the whole child, the school places emphasis on leadership and talent development to build the personal capacity of each child. Students are equipped with life skills to be confident communicators, active collaborators and critical thinkers. As a Special Assistance Plan (SAP) school, the school offers a bicultural learning environment with strong emphasis on the learning of the Chinese language and culture premised on strong values and active citizenry. Besides offering a quality 4-year instructional programme, the school also has a robust and vibrant CCA programme and Student Development Co-curriculum to nurture good character and develop 21st century competencies. With its strong sports tradition, the school is affirmed as the Centre of Excellence (COE) for Sports in the East Zone. The school's total curriculum is characterised as being progressive, competency-based, values-led and passion-driven, and is thoughtfully designed and delivered by a team of highly dedicated and competent teachers.",
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese",
@@ -92,7 +92,7 @@
 		"MOE Programmes": [
 			"SAP"
 		],
-		"Special Student Development Programmes Offered": "In Anglican High School (AHS) where 'Talents Soar', the students are developed holistic through the four-year CHAMPS (Cognitive, Headship, Aesthetics, Moral, Physical and Social) Talent Development Programme. The Anglican Critical Thinking Skills (ACTS) is infused in the curriculum to develop critical thinkers. Every student is schooled in Design Thinking through the Innovative Thinkers Self-Directed Learners & Collaborative Researchers (i-ScoRe) Programme where students develop solutions for the under-privileged in the community. Students' interests in STEM are nurtured through Dynamic Science, Robotics and Coding programmes. Learning beyond the classroom is inspired through the IGNITE Elective Modules and cross-disciplinary projects (GEMS). As a SAP school, the Appreciation of Chinese (ACE) programme develops bi-culturally confident global citizens. The AHS student is a servant leader and this philosophy drives the structured Overseas Learning Programme and Student Leadership Development Programme. The Arts Education Programme develops students in their aesthetic talents. A highly personalised ECG programme guides students in preparing themselves to be future-ready."
+		"Special Student Development Programmes Offered": "In Anglican High School (AHS) where 'Talents Soar', students are developed holistically through the four-year CHAMPS (Cognitive, Headship, Aesthetics, Moral, Physical and Social) Talent Development Programme. The Anglican Critical Thinking Skills (ACTS) is infused in the curriculum to develop critical thinkers. Every student is schooled in Design Thinking through the Innovative Thinkers Self-Directed Learners & Collaborative Researchers (i-ScoRe) Programme where students develop solutions for the underprivileged in the community. Students' interests in Science, Technology, Engineering, and Mathematics (STEM) are nurtured through Dynamic Science, Robotics and Coding programmes. Learning beyond the classroom is inspired through the IGNITE Elective Modules and cross-disciplinary projects (GEMS). As a SAP school, the Appreciation of Chinese (ACE) programme develops bi-culturally confident global citizens. The AHS student is a servant leader and this philosophy drives the structured Overseas Learning Programme and Student Leadership Development Programme. The Arts Education Programme develops students in their aesthetic talents. A highly personalised ECG programme guides students in preparing themselves to be future-ready."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1359,7 +1359,8 @@
 					"Scout (Unit 1)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1466,6 +1467,13 @@
 			"Express": [
 				"238",
 				"275",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"238",
+				"272",
 				"None-posted"
 			]
 		}

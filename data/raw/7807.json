@@ -35,24 +35,27 @@
 		"BASIC MALAY",
 		"BASIC TAMIL",
 		"CHARACTER & CITIZENSHIP (NT)",
+		"CHINESE N(A)",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
 		"INFOCOMM TECHNOLOGY (NT)",
+		"MALAY N(A)",
 		"MATHEMATICS (SYLLABUS A)",
 		"MATHEMATICS (SYLLABUS T)",
 		"PERFORMING ARTS",
 		"PHYSICAL EDUCATION",
 		"SCIENCE & TECHNOLOGY",
 		"SCIENCE (SYLL T)",
+		"TAMIL N(A)",
 		"VOCATIONAL EDUCATION"
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Athletics",
-			"Basketball",
-			"Floorball",
-			"Football"
+			"Athletics (Boys & Girls)",
+			"Basketball (Boys)",
+			"Floorball (Boys)",
+			"Football (Boys & Girls)"
 		],
 		"Uniformed Groups": [
 			"Girl Guides",
@@ -61,13 +64,12 @@
 		"Visual and Performing Arts": [
 			"Art Club",
 			"Dance Club",
-			"Drama Club",
 			"Music Club"
 		],
 		"Clubs & Societies": [
-			"Av / Video & Photography Club",
-			"Culinary Art Club",
+			"Culinary Arts Club",
 			"Entrepreneur Club",
+			"Media Club",
 			"Robotics Club"
 		]
 	},
@@ -75,7 +77,7 @@
 		"MOE Programmes": [
 			"Not Available"
 		],
-		"Special Student Development Programmes Offered": "The school's customised Instructional Curriculum is supported by a 1-to-1 computing programme.  Additionally the school offers Vocational Taster Modules (Retail, Hospitality, Mechanical Servicing, Facility Services) in the lower secondary curriculum.  The students specialise in one of these modules and attain the ITE Skills Certificate (ISC) as part of their upper secondary curriculum.  The ISC Programmes provide opportunities for industry experiential attachments.  There is a strong emphasis on Character Development of students in the school that aims to build students' confidence and social-emotional competencies.  Milestone programmes include NTUC Income Orange Aid \"I Believe\", a four-year character development programme, Equine-Assisted Learning (EQUAL), Garden-Based Service Learning Programme, Bonding Camp, Adventure Camp, Outward Bound and Cohort Overseas Cultural Immersion Programmes.  Customised programmes include Swimming, Bowling, Inline Skating, Guitar, Music Production, Basic Song Writing, Process Drama, Juggling for Life, Silat, Capoiera and Caricature."
+		"Special Student Development Programmes Offered": "The school's customized Instructional Curriculum is supported by a 1- to -1 computing programme.  In addition, the school offers Vocational Taster Modules in the areas of Retail, Hospitality, Mechanical Design & Automation, Coding & Connectivity as well as Mobile Web Applications in the lower secondary curriculum.  The students will study two of these modules and will attain the ITE Skills Subject Certification (ISSC) at the upper secondary level.  Students will also have opportunities for industry work experience in their upper secondary years.  There is a strong emphasis on Character Development of students in the school that aims to build students' confidence and social-emotional competencies.  Milestone programmes include \"I Believe\", a four-year character development programme, Equine-Assisted Learning (EQUAL), Garden-Based Service Learning Programme, Bonding Camp, Adventure Camp, Outward Bound and Cohort Overseas Cultural Immersion Programmes.  Customised programmes include Swimming, Bowling, Inline Skating, Guitar, Music Production,  Basic Song Writing & Process Drama and Champions Programme."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -189,7 +191,8 @@
 					"Dance - International": "Accomplishment",
 					"Ensemble - Angklung / Kulintang": "Accomplishment"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -205,7 +208,8 @@
 		"2014": {},
 		"2015": {},
 		"2016": {},
-		"2017": {}
+		"2017": {},
+		"2018": {}
 	},
 	"postalCode": "737758"
 }

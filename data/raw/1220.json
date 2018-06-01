@@ -59,7 +59,6 @@
 			"Football",
 			"Golf",
 			"Netball",
-			"Rope Skipping",
 			"Sailing",
 			"Silat",
 			"Wushu"
@@ -80,8 +79,8 @@
 		],
 		"Clubs & Societies": [
 			"Edison's Club (Science & Robotics)",
-			"Fun And Fitness",
-			"Green Club"
+			"Green Club",
+			"Library"
 		]
 	},
 	"SpecialProgrammes": {
@@ -950,7 +949,8 @@
 					"Girls' Brigade": "Gold",
 					"Scout": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "649332"

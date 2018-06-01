@@ -30,9 +30,9 @@
 			"Geylang Methodist School (Primary) believes in nurturing the whole child. Each child will 'enter to learn' and be equipped with a strong foundation in literacy, numeracy and scientific skills. This is to help them 'depart to serve', and be ready to demonstrate their concern for their school, community and country through active participation and contribution for the good of Singapore.",
 			"Our school aims to instil in every pupil a strong desire to pursue academic and character excellence; to take risks and to give one's best. We equip our pupils with the skills, knowledge and passion for learning to develop them holistically as we believe that every child can learn.  The school believes in developing 21st CC in every child using ICT where the learner is the focal point of curriculum.  Curriculum is centred on nurturing self-directed and collaborative learning competencies in every pupil, heightening pupils' motivation and engagement in learning through innovations in T&L. ",
 			"In alignment with the Desired Outcomes of Education, we believe very strongly in inculcating the right values and attitudes in our pupils. The pupils will be imbued with the competencies and school values that will develop good character, equipped with leadership competencies.",
-			"The staff in the school believe that we 'enter to serve' the needs of our pupils well, so as to 'etch a legacy' in our pupils and in the Geylang community.  "
+			"The staff in the school believe that we 'enter to serve' the needs of our pupils well, so as to 'etch a legacy' in our pupils and in the Geylang community."
 		],
-		"Type of School": "Government-aided Sch / Co-ed School / Double Session",
+		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Geylang Methodist School (Secondary)"
 	},
@@ -63,12 +63,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				]
-			},
 			"2015": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -76,76 +70,6 @@
 				]
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Badminton",
@@ -299,36 +223,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -411,16 +305,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Boys' Brigade",
 					"award": "Gold"
@@ -459,8 +343,8 @@
 		1.3176571
 	],
 	"svy21": [
-		33634.92,
-		33325.47
+		33634.88,
+		33325.4
 	],
 	"planningArea": "GL",
 	"neighbours": [

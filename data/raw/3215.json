@@ -32,6 +32,7 @@
 		"ADDITIONAL MATHEMATICS",
 		"ART",
 		"ART NA LEVEL",
+		"ART NT LEVEL",
 		"ART 'O' LEVEL",
 		"BASIC CHINESE",
 		"BASIC MALAY",
@@ -40,7 +41,6 @@
 		"CHINESE",
 		"CHINESE B",
 		"CHINESE N(A)",
-		"CO-CURRICULAR ACTIVITIES",
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMBINED HUMANITIES (S,L)",
@@ -57,6 +57,7 @@
 		"MATHEMATICS",
 		"MATHEMATICS (SYLLABUS A)",
 		"MATHEMATICS (SYLLABUS T)",
+		"MUSIC",
 		"OECIE BUSINESS STUDIES",
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
@@ -703,7 +704,8 @@
 					"Ncc (Land Boys)": "Bronze",
 					"Npcc (Land)": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -924,6 +926,23 @@
 			],
 			"Normal Technical": [
 				"104",
+				"151",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"237",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"87",
 				"151",
 				"None-posted"
 			]

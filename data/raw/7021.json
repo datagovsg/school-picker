@@ -18,7 +18,7 @@
 		"Principal": "MDM LEE LIN YEE",
 		"Vice Principal": [
 			"MISS LIM HUI KHENG LINDA",
-			"MDM TOH SUSAN"
+			"MS TOH SUSAN"
 		],
 		"School Vision": "A Community of Learners Growing and Glowing for God.",
 		"School Mission": "To provide an All-Round Education in a Christ-centred Environment to nurture Confident, Creative and Caring Young Ladies who will serve God, the Country and the Community.",
@@ -39,7 +39,6 @@
 		"CHINESE",
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
-		"COMBINED HUMANITIES (S,L)",
 		"DRAMA",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
@@ -54,10 +53,9 @@
 		"MATHEMATICS",
 		"MUSIC 'O' LEVEL",
 		"PHYSICS",
-		"PRINCIPLES OF A/C",
+		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
-		"SOCIAL STUDIES",
 		"TAMIL"
 	],
 	"Cca": {
@@ -1347,7 +1345,8 @@
 					"Npcc (Land)": "Bronze",
 					"Red Cross": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1599,6 +1598,26 @@
 				"159",
 				"131",
 				"154"
+			]
+		},
+		"2018": {
+			"Express": [
+				"241",
+				"250",
+				"200",
+				"247"
+			],
+			"Normal Academic": [
+				"193",
+				"199",
+				"152",
+				"199"
+			],
+			"Normal Technical": [
+				"107",
+				"159",
+				"134",
+				"147"
 			]
 		}
 	},

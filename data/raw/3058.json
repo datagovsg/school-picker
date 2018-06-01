@@ -23,7 +23,7 @@
 		],
 		"School Vision": "Learners Who Share, Citizens Who Care, Leaders Who Dare",
 		"School Mission": "Nurturing Character, Inspiring Learning",
-		"School Philosophy, Culture and Ethos": "A merged school since 2017, Northland Secondary offers a new beginning of personal growth and holistic learning. The school believes that learning is a lifelong pursuit that requires discipline, responsibility and self-directedness. To this end, school programmes are all-round, values-driven and anchored on strong fundamentals. It nurtures in students habits of reading, reflection and critical thinking, all of which stand them in good stead in an increasingly complex and ever-changing environment. Northland Secondary also promotes a culture of care by building positive relationships based on respect and empathy for others. The school uses the metaphor of the Northstar to communicate our firm belief in our students' ability and potential, as well as the purpose of our work as educators. Consistent in brilliance, unwavering through different seasons of life, we aim to develop each Northstar to be a Critical Thinker, an Active Sportsman, a Servant Leader, a Concerned Citizen, a Creative Artiste and A Caring Friend.",
+		"School Philosophy, Culture and Ethos": "A merged school since 2017, Northland Secondary offers a new beginning of personal growth and holistic learning. The school believes that learning is a lifelong pursuit that requires discipline, responsibility and self-directedness. To this end, school programmes are all-round, values-driven and anchored on strong fundamentals. It nurtures in students habits of reading, reflection and critical thinking, all of which stand them in good stead in an increasingly complex and ever-changing environment. Northland Secondary also promotes a culture of care by building positive relationships based on respect and empathy for others. The school uses the metaphor of the Northstar to communicate firm belief in our students' ability and potential, as well as the purpose of our work as educators. Consistent in brilliance, unwavering through different seasons of life, we aim to develop each Northstar to be a Critical Thinker, an Active Sportsman, a Servant Leader, a Concerned Citizen, a Creative Artiste and A Caring Friend.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -50,6 +50,7 @@
 		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
+		"RETAIL OPERATIONS",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
@@ -58,7 +59,6 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Badminton",
 			"Basketball",
 			"Floorball",
 			"Hockey",
@@ -66,22 +66,21 @@
 			"Wushu"
 		],
 		"Uniformed Groups": [
-			"Boys' Brigade",
 			"Girl Guides",
 			"Ncc (Land)",
 			"Ncc(Air)",
 			"Npcc"
 		],
 		"Visual and Performing Arts": [
+			"Band - Pipe",
 			"Band - Symphonic",
 			"Dance - Indian",
 			"Dance - Malay",
-			"Fusion Arts (Chinese Dance)",
 			"Guzheng",
 			"Multi Cultural Artiste Club"
 		],
 		"Clubs & Societies": [
-			"Heart Club",
+			"Art Club",
 			"Infocomm Club (Ava, Photography & Videography)"
 		]
 	},
@@ -93,7 +92,7 @@
 			"STEM": "Nurture Critical Thinkers & Self-directed Learners though Health Sciences & Healthcare Technology",
 			"Sports & Outdoor Education": "Game for Life – Developing Social Emotional Competencies through Sports and Physical Activities"
 		},
-		"Special Student Development Programmes Offered": "The school's Applied Learning Programme aims to nurture critical thinkers & self-directed learners in health sciences & healthcare technology. Through project work, students monitor their health in novel ways, gather data to analyse, propose and present plans to improve their well-being. Students conduct research and design ways to aid the elderly so that they are empowered to live more fulfilling lives. 'Game for Life', the school's Learning for Life Programme, leverages sports and physical activities to empower students with passion, knowledge and skills to lead a healthy life. Students with sporting talent are progressively developed through exposure to competitive sports within and beyond the school. The school has a proud sporting tradition, especially in Hockey and Floorball, with several of its alumni players representing Singapore in international competitions and many others representing sports clubs in local leagues. The King's Pipe Band which consists of Scottish bagpipes and drums performers, is a part of the Boys' Brigade contingent, and has been highly regarded in South East Asia. For an all-round educational experience, the school also offers school-based enrichment programmes, such as the Science Research Programme, local and overseas community outreach projects, with Secondary 3 Northland Overseas Values-In-Action (NOVIA) as a signature programme to broaden students' horizons as they share and serve in a cross-cultural context."
+		"Special Student Development Programmes Offered": "The school's Applied Learning Programme aims to expose our students to the rudiments of Gerontology and Geriatrics so that they acquire knowledge about the biological, cognitive and social aspects of aging. A the same time, they will learn about healthcare of the elderly and how to support them in the management of diseases and disabilities in old age. 'Game for Life' is the school Learning for Life Programme, which develops students' Social Emotional Competencies through Sports and Physical Activities, in order to prepare them for life.  The programme also empowers students with passion, knowledge and skills to lead a life of healthy and sporting pursuits. In addition, those with sporting talent are progressively developed through exposure to competitive sports within and beyond the school. The school has a proud sporting tradition, especially in Hockey and Floorball, with several of its alumni players representing Singapore in international competitions and many others representing sports clubs in local leagues. The school Pipe Band which consists of Scottish bagpipes and drums performers, has been well regarded in South East Asia. For an all-round educational experience, school-based enrichment programmes are also offered, such as Science Research Programme and Secondary 3 Northland Overseas Values-In-Action (NOVIA) to broaden students' horizons as they share and serve in a cross-cultural context."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -879,7 +878,8 @@
 					"Girl Guides (Coy 1)": "Bronze",
 					"Npcc (Land)": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1101,6 +1101,23 @@
 			"Normal Technical": [
 				"122",
 				"151",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"237",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"185",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"123",
+				"155",
 				"None-posted"
 			]
 		}

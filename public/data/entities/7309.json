@@ -47,10 +47,6 @@
 		"Chinese",
 		"Chinese B",
 		"Chinese N(A)",
-		"Civics & Moral Education",
-		"Co-curricular Activities",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
 		"Computer Applications",
 		"Design & Technology",
 		"English Language",
@@ -60,6 +56,9 @@
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
+		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
 		"Literature(E)",
 		"Malay",
 		"Malay N(A)",
@@ -97,20 +96,18 @@
 			"Ensemble - Guitar"
 		],
 		"Clubs & Societies": [
+			"Christian Fellowship",
 			"Journalism",
-			"Media@Fairfield"
+			"Media@Fairfield",
+			"Pa Crew",
+			"Robotics Club"
 		]
 	},
 	"SpecialProgrammes": {
-		"Special Student Development Programmes Offered": "Aligned with the WHEEL philosophy, and the development of 21st century competencies, one signature programme of the school is the Fairfield Learning Experience (FLEX) week. During this week, students are exposed to various aspects of holistic education outside the classroom: Aesthetics and Culture, Outdoor Education, Values-in Action and Educational and Career Guidance. The school also offers the 'Voice of a Fairsian' Oracy programme which prepares students to speak with confidence both in English as well as their Mother Tongue. Besides learning to be effective communicators, students also develop a personal voice with which they articulate, persuade and convince others. The Life Science Programme, Inter-disciplinary River Study Project, and Community Problem-Solving Project are other learner-centric academic programmes which enable our students to develop academic thinking and skills. Our Character & Citizenship Education Programme, as well as weekly chapel and daily devotions, emphasises values and lifeskills and provides opportunities for students to be a blessing to the community. To bring about a student-led school, we offer a comprehensive leadership training programme for all students--they learn to lead themselves and influence their peers.  More specific and specialised training is also provided to advance the leadership competencies of student leaders."
+		"Special Student Development Programmes Offered": "Aligned with the WHEEL philosophy, and the development of 21st century competencies, one signature programme of the school is the Fairfield Learning Experience (FLEX) week. During this week, students are exposed to various aspects of holistic education outside the classroom: Social Awareness, Outdoor Education, Values-in Action and Educational and Career Guidance. The school also offers the 'Voice of a Fairsian' Oracy programme which prepares students to speak with confidence both in English as well as their Mother Tongue. Besides learning to be effective communicators, students also develop a personal voice with which they articulate, persuade and convince others. The Life Science Programme, Inter-disciplinary River Study Project, and Community Problem-Solving Project are other learner-centric academic programmes which enable our students to develop academic thinking and skills. Our Character & Citizenship Education Programme, as well as weekly chapel and daily devotions, emphasises values and lifeskills and provides opportunities for students to be a blessing to the community. To bring about a student-led school, we offer a comprehensive leadership training programme for all students--they learn to lead themselves and influence their peers.  More specific and specialised training is also provided to advance the leadership competencies of student leaders."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"School Distinction Awards": "SDA",
-				"Development Award": "DA (National Education)",
-				"Outstanding Development Award": "ODA (Character Development)"
-			},
 			"2015": {
 				"School Distinction Awards": "SDA",
 				"Development Award": "DA (National Education)",
@@ -127,96 +124,6 @@
 				"Outstanding Development Award": "ODA (Character Development)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Squash",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Squash",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Badminton",
@@ -520,36 +427,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2015",
 					"category": "Band - Concert",
 					"award": "Distinction"
@@ -626,31 +503,6 @@
 				}
 			],
 			"Best Unit Award": [
-				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Sea)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
 				{
 					"year": "2015",
 					"category": "Boys' Brigade",
@@ -731,30 +583,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 241,
-			"upper": 252,
-			"lowerAffiliated": 200,
-			"upperAffiliated": 251
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": null,
-			"upper": null,
-			"lowerAffiliated": 175,
-			"upperAffiliated": 199
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 134,
-			"upper": 159,
-			"lowerAffiliated": 134,
-			"upperAffiliated": 159
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 241,
@@ -825,6 +653,30 @@
 			"upper": 150,
 			"lowerAffiliated": 110,
 			"upperAffiliated": 147
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 241,
+			"upper": 261,
+			"lowerAffiliated": 200,
+			"upperAffiliated": 261
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": null,
+			"upper": null,
+			"lowerAffiliated": 154,
+			"upperAffiliated": 197
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 119,
+			"upper": 158,
+			"lowerAffiliated": 120,
+			"upperAffiliated": 157
 		}
 	],
 	"postalCode": "139649",

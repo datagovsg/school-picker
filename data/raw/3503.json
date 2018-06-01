@@ -5,16 +5,16 @@
 	"uen": " T07GS3503F",
 	"logo": "./Medias/Images/Schools/logos/tn_3503.jpg",
 	"website": "http://www.dunearnsec.moe.edu.sg",
-	"address": "21, Bukit Batok West Avenue 2 ( 659204 )",
+	"address": "21, BUKIT BATOK WEST AVENUE 2 ( 659204 )",
 	"telephone": [
-		"65653692 (Secondary)"
+		"65653692"
 	],
 	"fax": [
-		"65668650 (Secondary)"
+		"65668650"
 	],
 	"email": "DUNEARN_SS@MOE.EDU.SG",
-	"mrt": "BOON LAY MRT",
-	"bus": "30 , 154 , 157 , 172 , 174 , 174E , 178 , 180 , 187 , 198 ",
+	"mrt": "BUKIT BATOK MRT, BUKIT GOMBAK MRT",
+	"bus": "160 , 180 , 187 , 188 , 945 , 947 , 985 ",
 	"GeneralInformation": {
 		"Principal": "MDM TAN MIAO LING",
 		"Vice Principal": [
@@ -60,7 +60,33 @@
 		"SCIENCE (SYLL T)",
 		"SOCIAL STUDIES N(T)"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Football",
+			"Table Tennis"
+		],
+		"Uniformed Groups": [
+			"Ncc (Land)",
+			"Npcc",
+			"Scouts",
+			"St. John Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Band (Symphonic)",
+			"Choir",
+			"Drama",
+			"Guzheng Ensemble",
+			"Malay Cultural Society",
+			"Modern Dance Club"
+		],
+		"Clubs & Societies": [
+			"Av Multi-Media Club",
+			"Infocomm",
+			"Library",
+			"Photography Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -69,7 +95,7 @@
 			"STEM": "FSciTech: Developing Dunearnites as confident and creative young scientists through Food Science and Technology",
 			"Community & Youth Leadership": "Developing Leadership in Every Dunearnite"
 		},
-		"Special Student Development Programmes Offered": "In line with developing 21st Century Competencies, students engage in Collaborative and Self-Directed Learning. Alternative assessment modes include coursework, journalling and skills-based investigations. The school has programmes for high achievers, including its Science Ambassadors and Ace in Mathematics programmes. Elective Modules and Advanced Elective Modules provide opportunities for real-world learning. The school's Applied Learning Programme in Food Science and Technology seeks to develop students' creativity, confidence and interest in Science and Technology. The school works with external organisations to design customised programmes such as Timeout and Enhanced Step-Up programmes, and Transition workshops. Character and Citizenship Education lessons integrate the teaching of school values with the teaching of Social-Emotional Competencies.  The Dunearn Character Development Profile is a formative assessment tool to help students take ownership of their character development.  Pupil Teacher Relational Time is dedicated time for Form Teachers and co-Form Teachers to conduct structured dialogues with students. The school emphasises the internalisation of values and putting them into action through its differentiated Values in Action (VIA) programme. Students are involved in learning about and understanding issues pertaining to the environment, school, and local and overseas communities. Education and Career Guidance is implemented through Values Education lessons, visits to post-secondary institutions, and the school's Higher Institutions and Careers Week. The school's Learning for Life Programme focuses on Community Youth Leadership,  which seeks to permeate a culture of school-wide community youth leadership development. It is the school's vision that all students will acquire the necessary knowledge, skills and values to be a personal leader, a team leader, a community leader, and a global leader"
+		"Special Student Development Programmes Offered": "In line with developing 21st Century Competencies, students engage in Collaborative and Self-Directed Learning. Alternative assessment modes include coursework, journalling and skills-based investigations. The school has programmes for high achievers, including its Science Ambassadors and Ace in Mathematics programmes. Elective Modules and Advanced Elective Modules provide opportunities for real-world learning. The school's Applied Learning Programme in Food Science and Technology seeks to develop students' creativity, confidence and interest in Science and Technology. The school works with external organisations to design customised programmes such as Timeout and Enhanced Step-Up programmes, and Transition workshops. Character and Citizenship Education lessons integrate the teaching of school values with the teaching of Social-Emotional Competencies.  The Dunearn Character Development Profile is a formative assessment tool to help students take ownership of their character development.  Pupil Teacher Relational Time is dedicated time for Form Teachers and co-Form Teachers to conduct structured dialogues with students. The school emphasises the internalisation of values and putting them into action through its differentiated Values in Action (VIA) programme. Students are involved in learning about and understanding issues pertaining to the environment, school, and local and overseas communities. Education and Career Guidance is implemented through Values Education lessons, visits to post-secondary institutions, and the school's Higher Institutions and Careers Week. The school's Learning for Life Programme focuses on Community Youth Leadership,  which seeks to permeate a culture of school-wide community youth leadership development. It is the school's vision that all students will acquire the necessary knowledge, skills and values to be a personal leader, a team leader, a community leader, and a global leader."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -775,7 +801,8 @@
 					"Npcc (Land)": "Gold",
 					"Scout (Unit 1)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -997,6 +1024,23 @@
 			"Normal Technical": [
 				"106",
 				"153",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"189",
+				"234",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"153",
+				"197",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"94",
+				"154",
 				"None-posted"
 			]
 		}

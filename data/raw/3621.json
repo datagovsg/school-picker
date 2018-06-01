@@ -70,24 +70,24 @@
 		"Physical Sports": [
 			"Badminton (Boys)",
 			"Floorball (Boys)",
-			"Netball"
+			"Netball",
+			"Volleyball (Boys)"
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
 			"Girls' Brigade",
 			"Ncc (Sea)",
-			"Npcc",
-			"St John Ambulance Brigade Singapore"
+			"Npcc"
 		],
 		"Visual and Performing Arts": [
 			"Band - Symphonic",
 			"Choir",
 			"Dance - Malay",
 			"Dance - Modern",
-			"Digital Design Club",
 			"Ensemble - Guzheng"
 		],
 		"Clubs & Societies": [
+			"Digital Media In Visual Arts (Dma)",
 			"Robotics Club"
 		]
 	},
@@ -584,7 +584,8 @@
 					"Npcc (Land)": "Silver",
 					"St John Ambulance Brigade": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -806,6 +807,23 @@
 			"Normal Technical": [
 				"137",
 				"158",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"225",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"165",
+				"192",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"122",
+				"156",
 				"None-posted"
 			]
 		}

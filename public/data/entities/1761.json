@@ -98,16 +98,6 @@
 		"Primary": {
 			"Sports & Games Competition": [
 				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
 					"year": "2015",
 					"category": "Basketball",
 					"subCategory": [
@@ -159,31 +149,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Strings",
-					"award": "Commendation"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category C",
@@ -262,11 +227,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Scout",
-					"award": "Silver"
-				},
-				{
 					"year": "2015",
 					"category": "Scout",
 					"award": "Silver"
@@ -290,8 +250,8 @@
 		1.3875277
 	],
 	"svy21": [
-		35809.47,
-		41051.47
+		35809.43,
+		41051.4
 	],
 	"planningArea": "SE",
 	"neighbours": [

@@ -19,12 +19,11 @@
 		"Principal": "MDM ONG HUI MIIN ANGELINE",
 		"Vice Principal": [
 			"MISS CHOW WAI HOONG",
-			"MR V HARINDRANATH",
 			"MR MALVIN CHAN HUAN JIAN"
 		],
-		"School Vision": "Learn, Care and Make a Difference",
-		"School Mission": "To nurture Confident and Passionate Hillgrovians who continually Learn with a spirit to do one's best, Care for and Serve others to Make a Difference.",
-		"School Philosophy, Culture and Ethos": "The school's philosophy is 'Potential + Character = Success'. Hillgrove believes in the potential of each student and builds his/her character in order to help him/her to succeed. Hillgrove culture is encapsulated in the word \"CARE\". CARE stands for Collaboration, Affirmation, Respect and Excellence. It speaks of the school's desire to be others-centred. It is about helping one another to be at their best.",
+		"School Vision": "Reflective Learners, Caring Changemakers",
+		"School Mission": "Nurturing Hillgrovians who Learn, Care and Make a Difference",
+		"School Philosophy, Culture and Ethos": "Our vision describes a community of others-centred individuals who can learn, unlearn and relearn. Together with our school philosophy P+C=S, which stands for Potential + Character = Success, Hillgrove recognises that success comes in various forms and every child will chart his own path to realise his potential. We are committed to helping our Hillgrovians follow their strengths and passions by offering many paths and new possibilities, creating opportunities for all to find success. What defines us is CARE - Collaboration, Affirmation, Respect and Excellence. CARE speaks of our desire to help one another to be at our best as we stay united to soar as one.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -33,23 +32,24 @@
 		"ADDITIONAL MATHEMATICS",
 		"ART NA LEVEL",
 		"ART 'O' LEVEL",
-		"AS-FUNDAMENTALS OF ELECTRONICS",
 		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
 		"CHINESE N(A)",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELECTRONICS",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
+		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
 		"FOOD & NUTRITION",
+		"HIGHER CHINESE",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MALAY N(A)",
@@ -100,7 +100,7 @@
 			"STEM": "Broadening our Learning Horizons through Flight and Aerospace",
 			"Music & Performing Arts": "Nurturing Confident and Passionate Hillgrovians through the Arts"
 		},
-		"Special Student Development Programmes Offered": "Hillgrove's Flight & Aerospace (F&A) ALP aims to raise students' understanding of and appreciation for Science, Technology, Engineering and Mathematics (STEM) in the field of aerospace. Through the programme design and strong partnerships with the aerospace industry, we aspire to do our part in nurturing future aerospace professionals in support of Singapore's goal to be Asia's Aviation Hub.  Our F&A ALP is a four-year programme which builds real-life knowledge and skills and raises awareness of the different types of careers within the aerospace industry. The Arts LLP compliments the rigor of the academic and CCA programmes for the holistic development of Hillgrovians."
+		"Special Student Development Programmes Offered": "Hillgrove's Applied Learning Programme (ALP) in Flight and Aerospace (F&A) is a programme which builds real-life knowledge and skills and heightens students' awareness of careers in both aviation and space industries. The programme engages students in projects which develop competencies such as confidence in communication and qualities such as entrepreneurial dare. Hillgrove's Learning for Life Programme (LLP) in the Arts seeks to develop students' understanding and appreciation of various art forms, as well as to inspire students to be arts enthusiasts and professionals. The programme nurtures confidence by providing platforms for students to articulate their creative ideas effectively. It comprises stand-alone modules as well as modules integrated into Art and Music lessons."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -394,7 +394,8 @@
 					"Scout (Unit 1)": "Silver",
 					"Girls' Brigade": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -615,6 +616,23 @@
 			],
 			"Normal Technical": [
 				"120",
+				"159",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"205",
+				"234",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"166",
+				"191",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"112",
 				"159",
 				"None-posted"
 			]

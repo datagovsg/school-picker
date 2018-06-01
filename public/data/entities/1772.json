@@ -19,10 +19,7 @@
 	"bus": "We are just beside Clementi Bus Interchange.",
 	"GeneralInformation": {
 		"Principal": "Mr Chia See Chew Albert",
-		"Vice Principal": [
-			"Mrs Tan Siew Hong",
-			"Mdm Chua Geok Ling Rebecca"
-		],
+		"Vice Principal": "Mrs Tan Siew Hong",
 		"School Vision": "A Leader. A Keen Learner. A Friend.",
 		"School Mission": "To inspire Clementians to lead with integrity, strive for excellence and be kind to all.",
 		"School Philosophy, Culture and Ethos": [
@@ -54,7 +51,30 @@
 		"Social Studies",
 		"Tamil"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"P3 Moe-Sportsg Swimsafer Programme",
+			"Rope Skipping",
+			"Taekwondo"
+		],
+		"Uniformed Groups": [
+			"Brownies"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Band - Brass",
+			"Choir",
+			"Dance - Chinese",
+			"Dance - Indian",
+			"Dance - Malay"
+		],
+		"Clubs & Societies": [
+			"Cheerleading Club",
+			"Infocom Club",
+			"Library"
+		]
+	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Visual Arts & Design": "Instilling Lifelong Learning Through Visual Arts"
@@ -63,40 +83,7 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"Development Award": "DA (National Education)"
-			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Rope Skipping",
@@ -159,36 +146,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category B",
@@ -289,8 +246,8 @@
 		1.3158135
 	],
 	"svy21": [
-		20209.45,
-		33121.67
+		20209.42,
+		33121.6
 	],
 	"planningArea": "CL",
 	"neighbours": [

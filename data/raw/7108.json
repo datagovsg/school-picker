@@ -19,9 +19,9 @@
 		"Principal": "MR YAP WAI MENG",
 		"Vice Principal": "MR NG CHENG SONG JEREMY",
 		"Vice Principal (Admin)": "MISS KOH PIA CHIN ELIZABETH",
-		"School Vision": "A community with Courage to Lead, Compassion to Serve.",
+		"School Vision": "A Christ-centred community with Courage to Lead, Compassion to Serve.",
 		"School Mission": "To nurture students to be compassionate and morally upright citizens committed to serving God and society.",
-		"School Philosophy, Culture and Ethos": "A Catholic mission school with more than 120 years of history, we provide a holistic educational experience, centred on developing performance, ethic and service characters. Our students thrive in a culture of care and excellence in a God-centred environment, supported by strong teacher-student relationships. We believe in bringing out the leader in every child in preparation for service to the home, school, nation and world. Staff and students are guided by the school values of Humility, Integrity, Respect and Love.",
+		"School Philosophy, Culture and Ethos": "A Catholic mission school with more than 125 years of history, we provide a holistic educational experience, centred on developing performance, ethic and service characters. Our students thrive in a culture of care and excellence in a God-centred environment, supported by strong teacher-student relationships. We believe in bringing out the leader in every child in preparation for service to the home, school, nation and world. Staff and students are guided by the school values of Humility, Integrity, Respect and Love.",
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
@@ -61,7 +61,6 @@
 		"MUSIC 'O' LEVEL",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
-		"PRINCIPLES OF A/C",
 		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
@@ -88,6 +87,7 @@
 			"Choir",
 			"Dance - Modern",
 			"Drama - English",
+			"Media Club",
 			"Orchestra - Chinese"
 		],
 		"Clubs & Societies": [
@@ -408,7 +408,8 @@
 					"Scout (Unit 1)": "Silver",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -669,6 +670,26 @@
 				"135",
 				"155",
 				"131",
+				"151"
+			]
+		},
+		"2018": {
+			"Express": [
+				"228",
+				"241",
+				"188",
+				"235"
+			],
+			"Normal Academic": [
+				"180",
+				"197",
+				"152",
+				"185"
+			],
+			"Normal Technical": [
+				"128",
+				"155",
+				"130",
 				"151"
 			]
 		}

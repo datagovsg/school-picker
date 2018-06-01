@@ -60,7 +60,32 @@
 		"SOCIAL STUDIES",
 		"TAMIL"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Athletics",
+			"Basketball",
+			"Football",
+			"Netball",
+			"Silat",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Brownies",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Chinese Dance",
+			"Choir",
+			"Handbell Ensemble",
+			"String Ensemble"
+		],
+		"Clubs & Societies": [
+			"Chess Club",
+			"Infocomm Club @Northland",
+			"Library"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -745,7 +770,8 @@
 				"Best Unit Award": {
 					"Scout": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "769026"

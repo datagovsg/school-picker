@@ -16,7 +16,7 @@
 	"mrt": [
 		"Pioneer MRT"
 	],
-	"bus": "257",
+	"bus": "192",
 	"GeneralInformation": {
 		"Principal": "Mr Chris Loh Kai Mun",
 		"Vice Principal": "Mr Pillay P Krishnan",
@@ -84,12 +84,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				]
-			},
 			"2015": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -139,31 +133,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category B",
@@ -257,11 +226,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Scout",
-					"award": "Bronze"
-				},
-				{
 					"year": "2015",
 					"category": "Scout",
 					"award": "Bronze"
@@ -285,8 +249,8 @@
 		1.3397122
 	],
 	"svy21": [
-		13027.36,
-		35764.57
+		13027.32,
+		35764.5
 	],
 	"planningArea": "JW",
 	"neighbours": [

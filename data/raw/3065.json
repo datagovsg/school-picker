@@ -13,18 +13,19 @@
 		"67662095"
 	],
 	"email": "kranji_ss@moe.edu.sg",
-	"mrt": "CHUA CHU KANG MRT",
-	"bus": "190 , 985 , 975 ",
+	"mrt": "CHUA CHU KANG MRT YEW TEE MRT",
+	"bus": "302",
 	"GeneralInformation": {
 		"Principal": "MR GOH SOON HOE",
+		"Principal-Designate": "MISS TAN HWEE PIN",
 		"Vice Principal": [
 			"MR LEE HAN HWA",
 			"MR CHRISTOPHER THOMAS"
 		],
 		"Vice Principal (Admin)": "MR LOH KAH HONG",
-		"School Vision": "Confident learners with the passion to excel . Active citizens with a heart to serve",
-		"School Mission": "Serving with heart, values and purpose to bring out the best in every child",
-		"School Philosophy, Culture and Ethos": "Guided by the school philosophy - teaching with passion and conviction, every child can learn, developing each child holistically, and preparing students for future challenges, Kranji Secondary builds a shared vision that is values-driven and student-centric. The school believes that, through fostering a culture of learning, innovation and excellence, students will be confident learners with the passion to excel and active citizens with a heart to serve.",
+		"School Vision": "Leaders with a Heart to Serve. Thinkers with the Drive to Excel.",
+		"School Mission": "Serving with heart, values and purposes to bring out the best in every child.",
+		"School Philosophy, Culture and Ethos": "Guided by the school philosophy -  teaching with passion and conviction, every child can learn, developing each child holistically, and preparing students for future challenges, Kranji Secondary builds a shared vision that is values-driven and student-centric. The school believes that through fostering a culture of learning, innovation and excellence, students will be confident leaders with a heart to serve and thinkers with the drive to excel.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -34,16 +35,14 @@
 		"ART",
 		"ART NA LEVEL",
 		"ART NT LEVEL",
-		"BIOLOGY",
-		"CHEMISTRY",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ENGLISH LANGUAGE",
 		"FOOD & NUTRITION",
+		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
@@ -51,12 +50,15 @@
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
+		"MUSIC",
+		"MUSIC NT LEVEL",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
+		"SOCIAL STUDIES N(T)",
 		"TAMIL"
 	],
 	"Cca": {
@@ -64,7 +66,8 @@
 			"Badminton",
 			"Basketball",
 			"Football",
-			"Table Tennis"
+			"Frisbee",
+			"Table Tennis (Girls)"
 		],
 		"Uniformed Groups": [
 			"Boy's Brigade",
@@ -81,6 +84,7 @@
 			"Symphonic Band"
 		],
 		"Clubs & Societies": [
+			"Debate",
 			"Ecos",
 			"K-Production Technical",
 			"Media Innovation"
@@ -94,7 +98,7 @@
 			"Interdisciplinary": "Nurturing Communities of Reflective and Independent Learners through Thinking Curriculum",
 			"Community & Youth Leadership": "Nurturing a Leader in Every Kranjian"
 		},
-		"Special Student Development Programmes Offered": "In Kranji Secondary School, we see innovation as a way of life to support our vision of developing 'Confident Learners with the Passion to Excel'. Our belief in delivering a holistic education has led the school to develop a well-rounded secondary school curriculum. This includes a vibrant Aesthetics Development Programme, comprehensive Sports Development and CCE Programmes to develop Kranjians with character and graciousness. All lower secondary students are exposed to a range of music skills and dances so that they develop an appreciation for the arts and culture. To inculcate a spirit of active citizenry, the school initiates and collaborates extensively with external partners in Values-In-Action projects."
+		"Special Student Development Programmes Offered": "In Kranji Secondary School, we provide a myriad of opportunities and platforms for Kranjians to learn and grow as leaders in support of our vision in developing \"Leaders with a heart to serve and thinkers with the drive to excel\". "
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1085,7 +1089,8 @@
 					"Npcc (Land)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1306,6 +1311,23 @@
 			],
 			"Normal Technical": [
 				"117",
+				"157",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"229",
+				"242",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"178",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"126",
 				"157",
 				"None-posted"
 			]

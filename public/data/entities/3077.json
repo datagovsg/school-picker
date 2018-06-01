@@ -2,15 +2,15 @@
 	"code": "3077",
 	"name": "Loyang View Secondary School",
 	"levels": "S",
-	"uen": " ",
+	"uen": " T17GS0005G",
 	"logo": "./Medias/Images/Schools/logos/tn_3077.jpg",
-	"website": "http://www.loyangviewsec.moe.edu.sg/",
+	"website": "http://www.loyangviewsec.moe.edu.sg",
 	"address": "12, Pasir Ris Street 11 (519073)",
 	"telephone": [
-		"+65 65821727"
+		"65821727"
 	],
 	"fax": [
-		"+65 65810557"
+		"65810557"
 	],
 	"email": "loyangview_ss@moe.edu.sg",
 	"mrt": [
@@ -24,10 +24,10 @@
 			"Miss Tan Chor Hiang"
 		],
 		"Vice Principal (Admin)": "Mr Ho Seng Fatt",
-		"School Vision": "Loyang View Secondary School is a happy and caring school where students achieve their potential, are of robust character and are well prepared for the skilforce of tomorrow.",
-		"School Mission": "To build a team of competent and dedicated staff, working closely with our stakeholders in delivering rigorous and comprehensive academic and character development programmes that bring out the best in every student.",
-		"School Philosophy, Culture and Ethos": "At Loyang View Secondary School (LVSS), every child is unique and important. We do everything with love, constantly and purposefully doing whatever it takes to pursue quality service, thus impacting the lives of students in our care with passion. The school focuses on holistic student development programmes, emphasising on academic value-addedness, character development, and a rewarding school experience. The unique Loyang Experience for all students strengthens the student-centricity and accentuates the distinctiveness of LVSS. The Loyang Experience integrates key programmes (such as Teaching and Learning, Character and Citizenship Education, Applied Learning and Life-Long Learning) through common student outcomes and is aimed at strengthening the holistic development of students.",
-		"Type of School": "Government School / Co-ed School / Full Day",
+		"School Vision": "Loyang View Secondary School is a happy and caring school where students are wholesome individuals with robust character and are well prepared for the skilforce of tomorrow.",
+		"School Mission": "To build a team of competent and dedicated staff, working closely with our stakeholders in delivering rigorous and comprehensive programmes that bring out the best in every student.",
+		"School Philosophy, Culture and Ethos": "At Loyang View Secondary School (LVSS), every child is unique and important. We do everything with love, constantly and purposefully doing whatever it takes to pursue quality service, thus impacting the lives of students in our care with passion. The school focuses on holistic student development programmes, emphasising on academic value-addedness, character development, and a rewarding school experience. The unique LV Experience for all students strengthens the student-centricity and accentuates the distinctiveness of LVSS. The LV Experience integrates key programmes (such as Teaching and Learning, Character and Citizenship Education, Applied Learning and Life-Long Learning) through common student outcomes and is aimed at strengthening the holistic development of students.",
+		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
 	},
@@ -81,6 +81,7 @@
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
+			"Girl Guides",
 			"Ncc",
 			"Npcc"
 		],
@@ -88,10 +89,13 @@
 			"Dance",
 			"Drama",
 			"Symphonic Band"
+		],
+		"Clubs & Societies": [
+			"Infocom Club"
 		]
 	},
 	"SpecialProgrammes": {
-		"Special Student Development Programmes Offered": "Not Available"
+		"Special Student Development Programmes Offered": "Loyang View Secondary is a happy and caring school where students look forward to come to every day.  Students are well-disciplined, confident, focused and aspire to be wholesome individuals well-prepared for the skilforce of tomorrow."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -100,7 +104,32 @@
 			"Best Unit Award": []
 		}
 	},
-	"PsleAggregateHistory": [],
+	"PsleAggregateHistory": [
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 264,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 193,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 104,
+			"upper": 156,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		}
+	],
 	"postalCode": "519073",
 	"coordinates": [
 		103.9569446,

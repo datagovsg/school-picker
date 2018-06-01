@@ -14,7 +14,7 @@
 	],
 	"email": "temasek_ss@moe.edu.sg",
 	"mrt": "BEDOK MRT, TANAH MERAH MRT",
-	"bus": "10 , 10E , 13 , 14 , 25 , 43 , 46 , 229 , 506 , 531 , 853 ",
+	"bus": "10 , 10E , 13 , 14 , 25 , 43 , 46 , 55 , 137 , 229 , 506 , 531 , 853 ",
 	"GeneralInformation": {
 		"Principal": "MRS CHIA MINN DAYNA",
 		"Vice Principal": [
@@ -49,6 +49,7 @@
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
 		"HIGHER TAMIL",
+		"HISTORY",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
@@ -83,6 +84,7 @@
 			"Seriousplay (Drama)"
 		],
 		"Clubs & Societies": [
+			"Green Club",
 			"Infocomm Media Club",
 			"Robotics Club"
 		]
@@ -91,7 +93,7 @@
 		"MOE Programmes": [
 			"Not Available"
 		],
-		"Special Student Development Programmes Offered": "With our school's Student Development Vision of \"Every Temasekian, A Caring Leader\", all students undergo a journey of growth in personal mastery and leadership through a structured 4-year leadership course. This course empowers them with the attitude and aptitude to succeed in their academic pursuits and character development. Students who demonstrate potential and interest, are further developed to lead in various school-level and community-based activities as CCA leaders and/or leaders in one of the five student leadership groups. These experiences allow them to apply their leadership skills as well as develop empathy for others. Students with strong academic and leadership inclinations can also participate in the Temasek IGNIS programme-a talent development programme for students to deepen inquiry, problem-solving and communication skills. To navigate and thrive in a culturally-diverse 21st century workplace and world, all Temasekians are developed in Cross-Cultural Awareness (C2A) through a specially designed and integrated school-based curriculum. Students are introduced to C2A in Secondary 1 via Project Culture which piques their curiosity to learn about various components of culture. Through the Secondary 2 Camp Culture as well as a range of other academic and co-curriculum platforms, students progressively learn to observe, appreciate and interpret different cultural practices and behaviours. The learning culminates in experiential opportunities such as overseas learning trips, collaborations with local international schools and work attachments where students apply their knowledge and skills to work with people from other cultures."
+		"Special Student Development Programmes Offered": "Our school's distinctiveness is founded on four signature programmes; iLEAD@TMS, ii) Cross- Cultural Awareness (C2A), iii) the Temasek Ignis Programme (TIP) and iv) niche CCA opportunities. LEAD@TMS offers student leaders the opportunity to develop values, competencies and knowledge through a customised student leadership programme. Based on their interests and talents, students are formally appointed into one of the five leadership groups where they lead in various school-level and community-based activities. Additionally, to successfully navigate a culturally diverse world, all student leaders are developed in C2A to deepen their understanding of other cultures and strengthen their global perspective.  C2A is also made available to all lower secondary students via Project Culture which piques their curiosity to learn about the similarities and difference between cultures, as well as Camp Culture, which enable students to delve deeper into cultural issues after visiting various religious sites. Beyond leadership and culture, TMS also has a talent development programme known as TIP. This programme caters to students who demonstrate strong intellectual curiosity and personal drive. With the purpose to develop independent learners, confident thinkers and innovators, 'TIPpers' are stretched to further hone academic skills and student leadership ability. Finally, school distinctiveness is also captured through four niche CCAs- Canoeing, Shooting, Drama or Choir, which aim to nurture gifts in sports and the aesthetics; in the process, instilling a sense of commitment, self-reliance and a spirit of service to others."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1028,7 +1030,8 @@
 					"Ncdcc": "Gold",
 					"Npcc (Land)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1250,6 +1253,23 @@
 			"Normal Technical": [
 				"144",
 				"159",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"231",
+				"262",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"186",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"144",
+				"157",
 				"None-posted"
 			]
 		}

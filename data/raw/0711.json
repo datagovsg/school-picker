@@ -17,10 +17,7 @@
 	"bus": "975 , 190 , 985 ",
 	"GeneralInformation": {
 		"Principal": "MDM KEK LEE YONG",
-		"Vice Principal": [
-			"MR LEONG CHI-YUNG KEN",
-			"MISS SEET YING LING BRITTA"
-		],
+		"Vice Principal": "MISS SEET YING LING BRITTA",
 		"Vice Principal (Admin)": "MISS SIM YOKE HWEE",
 		"School Vision": "ALWAYS SERVING, ALWAYS LEARNING",
 		"School Mission": "Nurturing a community of committed learners and compassionate leaders",
@@ -554,7 +551,8 @@
 					"Drama - Malay": "Accomplishment",
 					"Drama - Multi-Lingual": "Distinction"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"L1R5History": {
@@ -630,6 +628,20 @@
 			"Science/IB": [
 				"5",
 				"12"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2018": {
+			"Arts": [
+				"6",
+				"17"
+			],
+			"Science/IB": [
+				"4",
+				"14"
 			],
 			"Commerce": [
 				"-",

@@ -19,7 +19,7 @@
 	"bus": "49 , 98 , 99 , 157 , 185 , 187 , 198 , 335 , 502 ",
 	"GeneralInformation": {
 		"Principal": "Miss Ng Sook Kit",
-		"Vice Principal": "Miss Yuen Chai Lin",
+		"Vice Principal": "Ms Yuen Chai Lin",
 		"School Vision": "A Future-Ready School That Inspires Excellence",
 		"School Mission": "Honour Learning, Strengthen Character, Awaken Talents, Inspire Dreams",
 		"School Philosophy, Culture and Ethos": "We firmly believe that education must be forward-looking and robust, recognising that the future, for which Yuhuans are being prepared for, is dynamic, unpredictable and difficult to imagine. Leveraging on the culture of care, learning and excellence, we envision our school to be a learning organisation that empowers staff and nurtures students holistically by equipping them with the competencies and dispositions to thrive in the future. Our school philosophy, \"Every Student, Our Responsibility\" undergirds our commitment to honour learning by instilling in Yuhuans the responsibility and commitment to life-long learning so as to adapt to changes and new situations; strengthen character by inculcating the values of graciousness and integrity, awaken talents by harnessing their strengths to strive towards attaining purposeful goals with passion and resilience, inspire dreams by stretching Yuhuans potential to lead new frontiers and innovate in pursuit of excellence.",
@@ -102,9 +102,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": "DA (Character Development)"
-			},
 			"2015": {
 				"Development Award": "DA (Character Development)"
 			},
@@ -115,26 +112,6 @@
 				"Development Award": "DA (Character Development)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
 				{
 					"year": "2015",
 					"category": "Sepak Takraw",
@@ -177,31 +154,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Harmonica",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -290,16 +242,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "NCDCC",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
-				{
 					"year": "2015",
 					"category": "NCC (Land Boys)",
 					"award": "Bronze"
@@ -328,30 +270,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 238,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 152,
-			"upper": 183,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 118,
-			"upper": 152,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -421,6 +339,30 @@
 			"programme": "Normal Technical",
 			"lower": 105,
 			"upper": 154,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 244,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 197,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 121,
+			"upper": 151,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

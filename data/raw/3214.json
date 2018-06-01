@@ -53,7 +53,7 @@
 			"Basketball",
 			"Netball",
 			"Sepak Takraw",
-			"Soccer Club",
+			"Soccer",
 			"Table Tennis"
 		],
 		"Uniformed Groups": [
@@ -64,14 +64,14 @@
 		],
 		"Visual and Performing Arts": [
 			"Art Club",
-			"Band - Concert",
 			"Choir",
-			"Dance - International",
-			"Drama - English"
+			"Dance",
+			"English Drama",
+			"Symphonic Band"
 		],
 		"Clubs & Societies": [
 			"Infocomm Club",
-			"Library Club"
+			"Service Library Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -821,7 +821,8 @@
 					"Npcc (Land)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1043,6 +1044,23 @@
 			"Normal Technical": [
 				"134",
 				"155",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"195",
+				"239",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"165",
+				"192",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"134",
+				"158",
 				"None-posted"
 			]
 		}

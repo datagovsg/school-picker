@@ -24,29 +24,34 @@
 		],
 		"School Vision": "To aspire, strive and dare to be active creators of a better age for all.",
 		"School Mission": "Nurturing the high ability girl to be a leader who will realise her talents in service of nation and community.",
-		"School Philosophy, Culture and Ethos": "At RGS, every student is nurtured and developed to her fullest potential. Our students journey beyond traditional boundaries in their pursuit of knowledge in a supportive environment that caters especially to their needs, so that they can live a fulfilling life and contribute back to society.",
+		"School Philosophy, Culture and Ethos": "At RGS, every student is nurtured and developed to her fullest potential. Our students journey beyond traditional boundaries in their pursuit of knowledge in a supportive environment that caters to their needs, so that they can live a fulfilling life and contribute to society.",
 		"Type of School": "INDEPENDENT SCHOOL / GIRLS' SCHOOL / SINGLE SESSION",
 		"IP Partner Schools": "RAFFLES INSTITUTION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
 	},
 	"SubjectOffered": [
+		"AREA STUDIES (SOUTHEAST ASIA)",
 		"ART",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
 		"DESIGN & TECHNOLOGY",
 		"ENGLISH LANGUAGE",
+		"FOOD & DESIGN",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
 		"HIGHER TAMIL",
 		"HISTORY",
+		"INQUIRY & ADVOCACY",
 		"LITERATURE(E)",
 		"MALAY",
+		"MATHEMATICS AND ADDITIONAL MATHEMATICS",
 		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
+		"SCIENCE (LOWER SECONDARY)",
 		"TAMIL"
 	],
 	"Cca": {
@@ -79,12 +84,13 @@
 			"Band Symphonic",
 			"Chinese Orchestra",
 			"Choir",
-			"Cultural Dance",
 			"Dance International",
-			"Drama (English & Chinese)",
+			"Ethnic Dance",
 			"Guitar Ensemble",
 			"Handbell Ensemble",
-			"Photographic Society"
+			"Photographic Society",
+			"Raffles Drama",
+			"String Ensemble"
 		],
 		"Clubs & Societies": [
 			"Cogitare (Science)",
@@ -3547,7 +3553,8 @@
 					"Npcc (Sea)": "Gold",
 					"Red Cross": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -3639,6 +3646,13 @@
 			"Express": [
 				"261",
 				"277",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"260",
+				"279",
 				"None-posted"
 			]
 		}

@@ -13,7 +13,7 @@
 		"64425629"
 	],
 	"email": "damai_ss@moe.edu.sg",
-	"mrt": "BEDOK MRT, TAMPINES MRT",
+	"mrt": "BEDOK RESERVOIR MRT, BEDOK MRT, TAMPINES MRT",
 	"bus": "5 , 21 , 22 , 59 , 65 , 66 , 228 , 506 , CT18 ",
 	"GeneralInformation": {
 		"Principal": "MDM CHAN WAN SIONG",
@@ -22,9 +22,9 @@
 			"MRS OH WEE MING"
 		],
 		"Vice Principal (Admin)": "MR TOO MENG NGEE",
-		"School Vision": "Learning in Damai Today, Growing to be Leaders of Tomorrow.",
-		"School Mission": "We Nurture Our Students to be Committed, Competent and Compassionate Leaders.",
-		"School Philosophy, Culture and Ethos": "In Damai, we believe every child has the capacity to learn with the encouragement, motivation and guidance we give them. In addition to providing students with an academic curriculum to develop cognitive skills, knowledge and attitudes, we also focus on character and leadership development. Our LLP builds students' character, leadership and life-skills like resilience and a collaborative spirit to navigate life's challenges. The school's unique Values-in-Action (VIA) programme provides excellent opportunities to translate values and leadership skills into action and nurture concerned citizens, active contributors and confident leaders of the 21st century. The LLP-infused Waterways Clean-up is a rare opportunity to use kayaking skills to care for the environment and appreciate water as a precious resource. STEM-ALP infused VIA initiatives such as visits to NKF and old folks' homes provide yet another platform to further develop empathy as we nurture them to become compassionate leaders. We are heartened that our students have done well in both academic and character domains over the years.  With support from parents and collaboration with tertiary institutions, we will continue to ride on the waves of academic and character excellences that characterise Damai culture, vision, mission and values.",
+		"School Vision": "A Purposeful and Meaningful Life",
+		"School Mission": "To imbue students with sound values, journey with them on their exploration to discover themselves, their interests and talents, and nurture them to always do their best.",
+		"School Philosophy, Culture and Ethos": "Damai Secondary School aims to nurture students into upright citizens who are determined to do their best always to fulfil their purpose in life in a meaningful way.  The school will create opportunities for students' growth and development laying a strong foundation for them to build their future upon.  Together, members of the school community will forge a new identity with an emerging school culture and ethos.  Concerted efforts by all parties involved in creating a conducive environment for teaching and learning, as well as for growth and development for staff and students will provide the impetus for the school's journey ahead. Every individual has a role to play and a purpose in life. The school will provide students with opportunities to discover themselves through their studies, interaction and engagement with others (peers, teachers as well as the wider community), active participation in school activities and programmes, application of values and skills learnt in authentic settings, and reflections on lessons learnt.  We believe everyone has the capacity to contribute to the good of society and make a positive difference in everything they do.  Imbued with sound values and a positive attitude towards learning and life, students will be able to make informed decisions on the paths they should take upon completion of their studies at Damai Secondary School.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -45,9 +45,14 @@
 		"ENGLISH LANGUAGE",
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
+		"FOOD STUDIES, N LEVEL",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
+		"HIGHER MALAY",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
@@ -56,20 +61,16 @@
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
 		"RETAIL OPERATIONS",
-		"SCIENCE (PHY, BIO)",
-		"SCIENCE (PHY, CHEM)",
-		"SOCIAL STUDIES"
+		"SCIENCE (PHY, CHEM)"
 	],
 	"Cca": {
 		"Physical Sports": [
 			"Canoeing",
-			"Handball",
 			"Netball",
 			"Rugby",
 			"Softball"
 		],
 		"Uniformed Groups": [
-			"Boys' Brigade",
 			"Girl Guides",
 			"Ncc (Land)",
 			"Npcc",
@@ -81,13 +82,11 @@
 			"Choir",
 			"Dance - Ethnic",
 			"Dance - Modern",
+			"Drama - English",
 			"Ensemble - Guzheng"
 		],
 		"Clubs & Societies": [
 			"Infocom Club"
-		],
-		"Others": [
-			"Students' Council"
 		]
 	},
 	"SpecialProgrammes": {
@@ -98,7 +97,7 @@
 			"STEM": "Authentic Learning through Health Sciences",
 			"Sports & Outdoor Education": "Character, Citizenship and Leadership Development through Water Sports"
 		},
-		"Special Student Development Programmes Offered": "The school has 2 distinctive programmes. To embrace the challenges of the 21st century, Damai seeks to anchor students on sound values and develop them as leaders of good character with a sense of belonging to school and nation. Our Learning for Life Programme (LLP) - Character, Citizenship and Leadership Development through Water Sports, develops students to become Committed, Competent and Compassionate Leaders with an appreciation for life-long fitness. Through a tiered experience Damaians are introduced to water sports like swimming, kayaking, dragon boating, wakeboarding and sailing. Through this they also learn to appreciate 'water' not just as a precious resource, but also understand its qualities and value. Our STEM-Applied Learning Programme (ALP) in Health Sciences and Healthcare Technology aims to provide authentic learning experiences for students to apply learning in real-world contexts, acquire complex problem solving skills and widen perspectives on healthcare and health sciences industries. The learning environment also fosters team work and open-ended tinkering to enable students to develop 21st Century Competencies and an innovative spirit. STEM-ALP also aims to create awareness and deepen learning on health-related issues, such as nutritional sciences, infectious diseases, healthcare technologies and palliative care for the disabled and elderly. Our extensive partnership with external partners exposes students to the developments in the healthcare sector and allows them to gain deeper insights into healthcare and health sciences related careers. The school will also offer Retail Operations, an Applied ITE subject, as an optional elective to S3NT students from 2017 to better meet their aspirations."
+		"Special Student Development Programmes Offered": "The school offers a range of programmes to support students' development.  These include:  1.  Applied Learning Programme (ALP) which caters to the aptitudes, skills and knowledge related to Science, Technology, Engineering and Mathematics (STEM).  Our STEM-ALP focuses on Environmental and Health Sciences.  This programme enhances students' competencies in problem solving, scientific inquiry, computational thinking and design thinking through a series of modules that expose students to advanced electronics, programming, healthcare, environmental knowledge as well as related innovative projects.  With this early exposure, students will have the opportunity to explore their interests and talents in careers in the related fields.  2.  Learning for Life Programme (LLP) which aims to build character, citizenship and leadership through water sports and water survival skills.  Students will have opportunities to attain a swimming certification and a Kayak 1-Star award, and enjoy experiences such as Dragon boating, flow-riding, scuba-diving, stand up paddling or windsurfing. Incorporated into the LLP are programmes/activities related to leadership training, life skills and Values-In-Action.  3.  Level-wide programmes including academic and National Education-related learning journeys; comprehensive Values-In-Action Programme as well as Sec 2 and Sec 3 cohort camps."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -857,7 +856,8 @@
 					"Npcc (Land)": "Silver",
 					"St John Ambulance Brigade": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1079,6 +1079,23 @@
 			"Normal Technical": [
 				"123",
 				"151",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"246",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"154",
+				"195",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"110",
+				"157",
 				"None-posted"
 			]
 		}

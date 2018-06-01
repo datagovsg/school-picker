@@ -18,6 +18,10 @@
 	"bus": "7 , 14 , 16 , 36 , 64 , 65 , 77 , 106 , 111 , 124 , 128 , 131 , 147 , 162 , 166 , 167 , 171 , 174 , 175 , 190 , 502 , 518 , 700 , 857 ,  ",
 	"GeneralInformation": {
 		"Principal": "MDM LIM GEOK CHENG",
+		"Vice Principal": [
+			"MS KHOO MEI LING AMY",
+			"MISS PAULINE ANN TAN POH LING"
+		],
 		"School Vision": "Shaping and impacting society through education in the arts.",
 		"School Mission": "To create a vibrant environment for learning that is uniquely anchored in the arts, celebrating experimentation, expression and discovery, with the aim of developing leaders who will draw on their creative talents to enrich society.",
 		"Type of School": "SPECIALISED INDEPENDENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
@@ -46,7 +50,8 @@
 			"2014": {},
 			"2015": {},
 			"2016": {},
-			"2017": {}
+			"2017": {},
+			"2018": {}
 		},
 		"Junior College": {
 			"2005": {},
@@ -61,7 +66,8 @@
 			"2014": {},
 			"2015": {},
 			"2016": {},
-			"2017": {}
+			"2017": {},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -77,7 +83,8 @@
 		"2014": {},
 		"2015": {},
 		"2016": {},
-		"2017": {}
+		"2017": {},
+		"2018": {}
 	},
 	"L1R5History": {
 		"2005": {},
@@ -92,7 +99,8 @@
 		"2014": {},
 		"2015": {},
 		"2016": {},
-		"2017": {}
+		"2017": {},
+		"2018": {}
 	},
 	"postalCode": "227968"
 }

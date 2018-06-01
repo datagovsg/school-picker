@@ -14,7 +14,7 @@
 	],
 	"email": "MAYFLOWER_SS@MOE.EDU.SG",
 	"mrt": "ANG MO KIO MRT",
-	"bus": "76 , 132 , 165 , 166 , 169 , 262 , 265 , 268 ",
+	"bus": "71 , 76 , 132 , 165 , 166 , 169 , 262 , 265 , 268 , 269 ",
 	"GeneralInformation": {
 		"Principal": "MDM LEE EET FONG",
 		"Vice Principal": [
@@ -32,43 +32,38 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART",
-		"BASIC CHINESE",
-		"BASIC MALAY",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
 		"CHINESE B",
-		"CHINESE N(A)",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
-		"COMBINED HUMANITIES (S,L)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
-		"ENGLISH LANGUAGE (SYLL A)",
-		"ENGLISH LANGUAGE (SYLL T)",
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
+		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"LITERATURE(E)",
 		"MALAY",
-		"MALAY N(A)",
 		"MATHEMATICS",
-		"MATHEMATICS (SYLLABUS A)",
-		"MATHEMATICS (SYLLABUS T)",
+		"MOBILE ROBOTICS",
 		"MUSIC",
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE",
 		"SCIENCE (CHEM, BIO)",
-		"SCIENCE (PHY, CHEM)"
+		"SCIENCE (PHY, CHEM)",
+		"SOCIAL STUDIES N(T)",
+		"TAMIL"
 	],
 	"Cca": {
 		"Physical Sports": [
 			"Basketball",
-			"Cross Country",
 			"Football",
 			"Netball",
 			"Table Tennis",
@@ -77,7 +72,6 @@
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
-			"Girl Guides",
 			"Ncc (Land)",
 			"Npcc",
 			"Scouts"
@@ -87,7 +81,6 @@
 			"Chinese Ensembles",
 			"Choir",
 			"Dance - Chinese",
-			"Dance - Malay",
 			"Dance - Modern",
 			"Drama - English"
 		],
@@ -108,7 +101,7 @@
 			"Languages & Humanities": "Developing confidence and curiosity through effective communication",
 			"Music & Performing Arts": "Developing a zest for life through aesthetics"
 		},
-		"Special Student Development Programmes Offered": "Zest for Life: Every aspect of the Mayflower experience is designed to help students develop a strong sense of purpose and a deep love for learning, to attain their personal bests.  Being a school that offers Learning for Life Programme (LLP) in Aesthetics, students enjoy a rich performing arts experience.  The Applied Learning Programme (ALP) in Effective Communication helps our students grow in confidence as bilingual communicators, able to adapt their message to purpose, audience and context."
+		"Special Student Development Programmes Offered": "Zest for Life: Every aspect of the Mayflower experience is designed to help students develop a strong sense of purpose and a deep love for learning, to attain their personal bests.  Being a school that offers Learning for Life Programme (LLP) in Aesthetics, students enjoy a rich performing arts experience.  The Applied Learning Programme (ALP) in Effective Communication (English and Mother Tongue Languages) helps our students grow in confidence as bilingual communicators, able to adapt their message to purpose, audience and context."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1167,7 +1160,8 @@
 					"Npcc (Land)": "Gold",
 					"Scout (Unit 1)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1389,6 +1383,23 @@
 			"Normal Technical": [
 				"116",
 				"159",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"219",
+				"254",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"177",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"124",
+				"158",
 				"None-posted"
 			]
 		}

@@ -64,27 +64,23 @@
 			"Badminton",
 			"Netball",
 			"Sepak Takraw",
-			"Taekwondo",
 			"Track & Field"
 		],
 		"Uniformed Groups": [
-			"Boys' Brigade",
 			"Girl Guides",
-			"National Civil Defence Cadet Corps",
 			"Ncc(Air) Boys",
-			"Ncc(Air) Girls"
+			"Ncc(Air) Girls",
+			"The Boys' Brigade"
 		],
 		"Visual and Performing Arts": [
-			"Art And Craft Club",
 			"Band - Military",
+			"Chinese String Ensemble",
 			"Dance - Malay",
 			"Dance - Modern",
-			"Drama - English",
-			"Orchestra - Chinese",
-			"Photographic Society"
+			"Photography Club"
 		],
 		"Clubs & Societies": [
-			"It/Infocomm Club",
+			"Infocomm Club",
 			"Library"
 		]
 	},
@@ -779,7 +775,8 @@
 					"Npcc (Land)": "Silver",
 					"Ncc (Air Girls)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -996,6 +993,18 @@
 			"Normal Academic": [
 				"152",
 				"198",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"189",
+				"230",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"195",
 				"None-posted"
 			]
 		}

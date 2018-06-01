@@ -28,7 +28,7 @@
 		"School Mission": "Montfort is a Catholic School. Guided by our Montfortian values and spirituality, we nurture each individual to realize his potential and inspire him to be a Man for Others.",
 		"School Philosophy, Culture and Ethos": [
 			"Montfort Secondary, established in 1916, is a Government Aided School of the Montfort Brothers of St Gabriel under the Catholic Archdiocese of Singapore.  As a Catholic school, we espouse the Universal Gospel Values and are committed to providing an inclusive, safe and dynamic environment for all our boys regardless of faith and background.  We also believe that there is a place for an all-boys education and we develop and cater our programmes to the needs of boys - giving them appropriate structure and discipline as well as the space to grow and discover their leadership, talents and strengths.",
-			"Our School Motto \"Age Quod Agis\" translates to \"Do Well in Whatever you Do\".  It reminds our boys of the dignity of work and that the work they do is important and represents who they are.  Therefore, they need to take pride in their assigned tasks and do them to the best of their abilities.  Our School Values are Compassion, Humility, Respect, Integrity, Service, Team Spirit & Excellence - together they spell CHRISTE which also represents our faith in God and Christ."
+			"Our School Motto \"Age Quod Agis\" which translates to \"Do Well in Whatever you Do\", reminds our boys of the dignity of work and that the work they do is important and represents who they are.  Hence, they need to take pride in their assigned tasks and do them to the best of their abilities.  Our School Values are Compassion, Humility, Respect, Integrity, Service, Team Spirit & Excellence - together they spell CHRISTE which also represents our faith in God and Christ."
 		],
 		"Type of School": "Government-aided Sch / Boys' School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -81,7 +81,6 @@
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
-			"Art And Craft Club",
 			"Band - Military",
 			"Choir",
 			"Dance Club"
@@ -99,16 +98,10 @@
 			"STEM": "Made In Montfort – Design, Code, Make",
 			"Sports & Outdoor Education": "Student Leadership through Outdoor Adventure & Sports Programme"
 		},
-		"Special Student Development Programmes Offered": "Underlying Montfort Secondary's teaching and learning approach is the belief that boys learn better when we adopt Boy-Centric Teaching (BCT) strategies. Translated into classroom delivery, this would mean that teachers now incorporate novelty, movement and relevance into their lessons. The Applied Learning Programme (ALP) in Information Systems Technology & Design that was recently introduced aims to provide our students with foundational skills in this frontier learning domain. The development of leadership and character is another vital part of our Montfortian Education.  We do this through our flagship Montfort Values Plus (MVP) programme that is aligned to MOE's CCE curriculum and supported by a tiered Values-in-Action Programme for our boys from Secondary 1 through 5. Montfort's Learning for Life Programme (LLP) is centred on Leadership Development through Sports (Badminton, Softball & Football) & Outdoor Education, where our boys hone their leadership skills through various class, CCA and school activities, embarking on community and school projects based on the Kouzes & Posner Leadership Challenge Model. For our Catholic Boys, we have programmes catered for them including Religious & Moral Education lessons, regular Eucharistic celebrations.  The school also provides opportunities for the students to appreciate the Arts through our 3 \"E\" Approach (Exposure, Expression & Excellence). All Secondary 1 students can look forward to participating in arts, music and theatre workshops organised by the Performing Arts CCAs."
+		"Special Student Development Programmes Offered": "Underlying Montfort Secondary's teaching and learning approach is the belief that boys learn better when we adopt Boy-Centric Teaching (BCT) strategies. Translated into classroom delivery, this would mean that teachers now incorporate novelty, movement and relevance into their lessons. The Applied Learning Programme (ALP) in Information Systems Technology & Design that was recently introduced aims to provide our students with foundational skills in this frontier learning domain. The development of leadership and character is another vital part of our Montfortian Education.  We do this through our flagship Montfort Values Plus (MVP) programme that is aligned to MOE's CCE curriculum and supported by a tiered Values-in-Action Programme for our boys from Secondary 1 through 5. Montfort's Learning for Life Programme (LLP) is centred on Leadership Development through Sports (Badminton, Softball & Football) & Outdoor Education, where our boys hone their leadership skills through various class, CCA and school activities, embarking on community and school projects based on the Kouzes & Posner Leadership Challenge Model. For our Catholic boys, we have programmes catered for them including Religious & Moral Education lessons and regular Eucharistic celebrations.  The school also provides opportunities for the students to appreciate the Arts through our 3 \"E\" Approach (Exposure, Expression & Excellence). All Secondary 1 students can look forward to participating in arts, music and theatre workshops organised by the Performing Arts CCAs."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				]
-			},
 			"2015": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -128,26 +121,6 @@
 				]
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
 				{
 					"year": "2015",
 					"category": "Badminton",
@@ -241,21 +214,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2015",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
@@ -302,26 +260,6 @@
 				}
 			],
 			"Best Unit Award": [
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NCDCC",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Silver"
-				},
 				{
 					"year": "2015",
 					"category": "NCC (Land Boys)",
@@ -386,30 +324,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 208,
-			"upper": 236,
-			"lowerAffiliated": 188,
-			"upperAffiliated": 228
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 156,
-			"upper": 195,
-			"lowerAffiliated": 154,
-			"upperAffiliated": 186
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 104,
-			"upper": 147,
-			"lowerAffiliated": 107,
-			"upperAffiliated": 158
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -481,6 +395,30 @@
 			"upper": 149,
 			"lowerAffiliated": 126,
 			"upperAffiliated": 148
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 204,
+			"upper": 229,
+			"lowerAffiliated": 188,
+			"upperAffiliated": 251
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 166,
+			"upper": 194,
+			"lowerAffiliated": 154,
+			"upperAffiliated": 189
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 117,
+			"upper": 151,
+			"lowerAffiliated": 109,
+			"upperAffiliated": 151
 		}
 	],
 	"postalCode": "538785",

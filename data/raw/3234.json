@@ -21,7 +21,6 @@
 			"MR CHNG PUAY KEONG",
 			"MDM KHOO HENG OI CATHERINE"
 		],
-		"Vice Principal (Admin)": "MR CHUA PHUAY HIANG",
 		"School Vision": "A Caring, Resilient & Innovative Learning Community",
 		"School Mission": "Touching Hearts, Inspiring Learning.",
 		"School Philosophy, Culture and Ethos": "Established in 1925, Shuqun Secondary School has a rich history and tradition. The school focuses on providing all students with a holistic education. In addition to a rigorous academic programme, the school believes in growing men and women of character, and emphasises the need for students to exhibit the school values of Respect, Responsibility, Resilience, Integrity, Care and Harmony in their daily actions. Through building social and emotional competencies, the school seeks to help students form good habits in the 5As, 'Attitude, Attendance, Appearance, Attention and Assignment'. Students are also developed physically, intellectually, emotionally and socially to realise the five desired attributes of a Shuqunite - 'lifelong learner, diligent, self-motivated student, responsible citizen, socially and emotionally skilled person, and self-disciplined and healthy individual'.",
@@ -821,7 +820,8 @@
 					"Npcc (Land)": "Silver",
 					"Boys' Brigade": "Bronze"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1040,7 +1040,8 @@
 				"187",
 				"None-posted"
 			]
-		}
+		},
+		"2018": {}
 	},
 	"postalCode": "609604"
 }

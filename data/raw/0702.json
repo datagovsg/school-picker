@@ -14,7 +14,7 @@
 	],
 	"email": "TEMASEK_JC@MOE.EDU.SG",
 	"mrt": "BEDOK MRT",
-	"bus": "12 , 16 , 31 , 38 , 47 , 155 , 196 , 197 , 229 ",
+	"bus": "12 , 16 , 31 , 38 , 47 , 137 , 155 , 196 , 197 , 229 ",
 	"GeneralInformation": {
 		"Principal": "MDM SIM AY NAR",
 		"Vice Principal": [
@@ -24,23 +24,29 @@
 		"Vice Principal (Admin)": "MR MARK CHAN",
 		"School Vision": "An Institute of Distinction, A Dynamic Learning Culture,  A Caring TJC Family",
 		"School Mission": "Broaden Minds, Touch Hearts, Enrich Lives",
-		"School Philosophy, Culture and Ethos": "Set in sprawling grounds recalling a gracious time past, at TJC our feet are firmly planted on the ground but our arms stretch to the sky. Every TJCian is nurtured to be a trailblazer with a heart for we believe that with sound values, we can steer steadfastly and stay true to our course. Mindful of tradition, roused by imagination and fuelled by ambition, TJCians strive to be active learners, caring and committed citizens and ethical leaders. The college achieved the School Distinction Award in 2015, with five awards for best practices for Teaching and Learning, Student All-Round Development, Staff Well-being and Development, Character and Citizenship Education and Partnership.  Our teachers are passionate about the work they do and are part of a dynamic learning culture which is strong in collaboration and continuous innovation and review.  Our teachers actively develop themselves as curriculum leaders in professional knowledge and practice to enhance student learning. Our motto we proudly serve is, \"For College, For Nation\".",
+		"School Philosophy, Culture and Ethos": "Every TJCian is nurtured to be a trailblazer with a heart. Mindful of tradition, roused by imagination and fuelled by ambition, TJCians are active learners, caring and committed citizens and ethical leaders. Our holistic brand of Temasek Excellence equips students with intellectual, moral and social capital to thrive in a  fast-changing and complex world. The college achieved the School Distinction Award in 2015, with Best Practices for Teaching & Learning, Student All-Round Development, Staff Well-being and Development, Character and Citizenship Education as well as Partnership. Our dynamic staff fraternity continuously innovate and hone our craft, as we guide our students to bring out the best in them. The motto we proudly serve is 'For College, For Nation'.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / FULL DAY",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
 	},
 	"SubjectOffered": [
+		"ADVANCED MATHEMATICS",
+		"AESTHETICS EDUCATION",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
+		"CHINESE ELECTIVE PROGRAMME",
+		"CORE HUMANITIES",
+		"ENGLISH LITERATURE",
+		"FUNDAMENTAL HUMANITIES",
+		"FUNDAMENTAL MATHEMATICS",
 		"GEOGRAPHY",
+		"GREEN SCIENCE",
 		"H1 BIOLOGY",
 		"H1 CHEMISTRY",
-		"H1 CHINA STUDIES IN ENGLISH",
 		"H1 CHINESE LANGUAGE",
 		"H1 ECONOMICS",
 		"H1 GENERAL PAPER",
-		"H1 GEOGRAPHY",
 		"H1 HISTORY",
 		"H1 LITERATURE IN ENGLISH",
 		"H1 MALAY LANGUAGE",
@@ -51,7 +57,6 @@
 		"H2 ART",
 		"H2 BIOLOGY",
 		"H2 CHEMISTRY",
-		"H2 CHINA STUDIES IN ENGLISH",
 		"H2 CHINESE LANGUAGE & LITERATURE",
 		"H2 ECONOMICS",
 		"H2 FURTHER MATHEMATICS",
@@ -63,33 +68,96 @@
 		"H2 MUSIC",
 		"H2 PHYSICS",
 		"H3 ART",
+		"H3 CHEMISTRY",
 		"H3 CHINESE LANGUAGE & LITERATURE",
 		"H3 ECONOMICS",
-		"H3 ESSENTIALS OF MODERN PHYSICS",
 		"H3 GEOGRAPHY",
 		"H3 HISTORY",
 		"H3 LITERATURE IN ENGLISH",
 		"H3 MATHEMATICS",
 		"H3 MUSIC",
-		"H3 PHARMACEUTICAL CHEMISTRY",
-		"H3 PROTEOMICS",
+		"H3 PHYSICS",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
 		"HIGHER TAMIL",
 		"HISTORY",
+		"INTERMEDIATE MATHEMATICS",
+		"LANGUAGE ARTS",
 		"MALAY",
-		"PHYSICAL EDUCATION",
+		"MUSIC ELECTIVE PROGRAMME",
 		"PHYSICS",
+		"SKILLS AND KNOWLEDGE",
 		"TAMIL"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Air Rifle / Shooting",
+			"Badminton",
+			"Basketball",
+			"Bowling",
+			"Cross Country",
+			"Cross Country (Jc Only)",
+			"Floorball",
+			"Floorball (Boys-Jc Only)",
+			"Football",
+			"Football (Boys-Sec & Jc, Girls-Jc Only)",
+			"Netball",
+			"Netball (Girls-Jc Only)",
+			"Shooting (Jc Only)",
+			"Squash",
+			"Squash (Girls)",
+			"Swimming",
+			"Table Tennis",
+			"Table Tennis (Jc Only)",
+			"Taekwondo",
+			"Ten-Pin Bowling",
+			"Tennis",
+			"Tennis (Jc Only)",
+			"Volleyball",
+			"Volleyball (Girls-Sec & Jc, Boys-Jc Only)",
+			"Water Polo",
+			"Water Polo (Girls-Jc Only)"
+		],
+		"Visual and Performing Arts": [
+			"Band - Symphonic",
+			"Chinese Drama (Jc Only)",
+			"Chinese Orchestra (Jc Only)",
+			"Choir",
+			"Dance - Modern",
+			"Drama - Chinese",
+			"Drama - English",
+			"Drama Club (Jc Only)",
+			"Ensemble - Guitar",
+			"Ensemble - String",
+			"Guitar Ensemble",
+			"Modern Dance",
+			"Orchestra - Chinese",
+			"String Ensemble (Jc Only)",
+			"Symphonic Band"
+		],
+		"Clubs & Societies": [
+			"Debate Club (Jc Only)",
+			"Debating And Oratorical Society",
+			"First Aid Club",
+			"First Aid Club (Jc Only)",
+			"Indian Cultural Society",
+			"Indian Cultural Society (Jc Only)",
+			"Infocom Club",
+			"Leo Club",
+			"Leo Club (Jc Only)",
+			"Malay Cultural Society",
+			"Malay Cultural Society (Jc Only)",
+			"Outdoor Activities Club",
+			"Outdoor Adventure Club (Jc Only)"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Integrated Programme",
 			"LANGUAGE ELECTIVE PROGRAMME (CHINESE)",
 			"MUSIC ELECTIVE PROGRAMME"
 		],
-		"Special Student Development Programmes Offered": "TJC 6-Year Integrated Programme provides a seamless progression of learning, empowering students beyond the basics by exposing them to both breadth and depth, leading up to the GCE A-Level Examination in Year 6. The design of the 6-year IP curriculum supports integrative and interdisciplinary learning, extending 'Beyond Basics' through the core curriculum, 'Beyond Boundaries' through extended learning and 'Beyond Self' through student development. It aims at 'Temasek Excellence', engendering in students greatness in intellect, character and leadership. At TJC IP, students have a plethora of programmes to whet their appetites on. There are signature IP programmes crafted by our school such as those for special talent areas (academic, aesthetics, sports), World without Borders, Wonder.Observe.Weave! attachment to external organisations, ACE CCE Programme and Temasek Leadership Showdown.  In addition, there are MOE Elective Programmes - Music Elective Programme (Year 1 to 6), Chinese Language Elective Programme (Year 3 to 6) and Humanities Programme (Year 5 and 6). All TJC IP students will be holistically developed, going forth to green the world."
+		"Special Student Development Programmes Offered": "The TJC 6-Year Integrated Programme provides a seamless progression of learning, empowering students beyond the basics by exposing them to both breadth and depth of knowledge, leading up to the GCE A-Level Examination in Year 6. The design of the 6-year IP curriculum supports integrative and interdisciplinary learning, extending 'Beyond Basics' through the core curriculum, 'Beyond Boundaries' through extended learning and 'Beyond Self' through student development. It aims at achieving 'Temasek Excellence', engendering in students greatness in intellect, character and leadership. IP students have a plethora of programmes to whet their appetites."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -477,7 +545,8 @@
 					"Dance - International": "Accomplishment",
 					"Ensemble - Guitar": "Accomplishment"
 				}
-			}
+			},
+			"2018": {}
 		},
 		"Junior College": {
 			"2005": {
@@ -1488,7 +1557,8 @@
 					"Ensemble - Strings": "Distinction",
 					"Dance - International": "Distinction"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1532,6 +1602,13 @@
 			"Express": [
 				"250",
 				"267",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"249",
+				"265",
 				"None-posted"
 			]
 		}
@@ -1609,6 +1686,20 @@
 			"Science/IB": [
 				"2",
 				"9"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2018": {
+			"Arts": [
+				"3",
+				"11"
+			],
+			"Science/IB": [
+				"2",
+				"10"
 			],
 			"Commerce": [
 				"-",

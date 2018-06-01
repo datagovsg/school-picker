@@ -13,8 +13,8 @@
 		"64435973"
 	],
 	"email": "taonan_sch@moe.edu.sg",
-	"mrt": "Paya Lebar",
-	"bus": "13 , 16 , 31 , 36 , 43 , 48 , 55 , 196 , 197 ",
+	"mrt": "Paya Lebar, Eunos",
+	"bus": "13 , 16 , 31 , 36 , 43 , 48 , 55 , 134 , 196 , 197 ",
 	"GeneralInformation": {
 		"Principal": "DR CHIN KIM WOON",
 		"Vice Principal": [
@@ -67,7 +67,7 @@
 		],
 		"Clubs & Societies": [
 			"Advanced Mathematics Enrichment Club",
-			"Chinese Calligraphy & Painting Club",
+			"Chinese Club",
 			"Infocomm Club",
 			"International Chess",
 			"Library",
@@ -1582,7 +1582,8 @@
 					"Girls' Brigade": "Gold",
 					"Scout": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "449761"
