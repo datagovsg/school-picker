@@ -28,8 +28,8 @@
           <template v-if="p1Registration">
             <dt>
               {{p1Registration.year}} {{p1Registration.label}}:
-              <!-- &nbsp;<a href="https://www.moe.gov.sg/admissions/primary-one-registration/vacancies"><small>(as at {{p1Registration.lastUpdated}})</small></a> -->
-              &nbsp;<a href="https://www.moe.gov.sg/admissions/primary-one-registration/vacancies"><small style="color: red;">(application closed)</small></a>
+              &nbsp;<a href="https://www.moe.gov.sg/admissions/primary-one-registration/vacancies"><small>(as at {{p1Registration.lastUpdated}})</small></a>
+              <!-- &nbsp;<a href="https://www.moe.gov.sg/admissions/primary-one-registration/vacancies"><small style="color: red;">(application closed)</small></a> -->
             </dt>
             <dd>
               <table class="p1-registration">
@@ -205,7 +205,7 @@
         <dl>
           <template v-for="row in generalInfo" v-if="row.value">
             <dt>{{row.label}}</dt>
-            <template v-if="row.value instanceof Array">
+            <template v-if="Array.isArray(row.value)">
               <dd v-for="value in row.value">{{value}}</dd>
             </template>
             <dd v-else>{{row.value}}</dd>
@@ -524,17 +524,17 @@ export default {
         }
       }
       if (info) {
-        // const phases = Object.keys(info).filter(key => key.match(/^Places taken up to/)).map(key => key.slice(19))
-        // const placesTaken = info['Places taken up to ' + max(phases)]
+        const phases = Object.keys(info).filter(key => key.match(/^Places taken up to/)).map(key => key.slice(19))
+        const placesTaken = info['Places taken up to ' + max(phases)]
         const rows = [
           {label: 'Total Vacancy', value: info['Total Vacancy'], class: 'text-bold'},
-          // {label: 'Reserved for Phase 2B & 2C', value: info['Vacancies Reserved for Phase 2B and 2C']},
-          // {
-          //   label: 'Places Taken So Far',
-          //   value: placesTaken,
-          //   class: placesTaken >= info['Total Vacancy'] && 'fully-booked',
-          //   title: 'Up until Phase 2C\nResult of Phase 2C(S) will be out on 21 August 2017'
-          // },
+          {label: 'Reserved for Phase 2B & 2C', value: info['Vacancies Reserved for Phase 2B and 2C']},
+          {
+            label: 'Places Taken So Far',
+            value: placesTaken,
+            class: placesTaken >= info['Total Vacancy'] && 'fully-booked'
+            // title: 'Up until Phase 2C\nResult of Phase 2C(S) will be out on 21 August 2017'
+          },
           {
             values: [
               {label: 'Phase 1 applicants', value: getApplicants('Phase 1')},
@@ -549,8 +549,8 @@ export default {
         ]
         return {
           label: 'P1 Registration Exercise',
-          year: '2017',
-          lastUpdated: '28 August 2017',
+          year: '2018',
+          lastUpdated: '27 June 2018',
           rows
         }
       }
@@ -677,7 +677,6 @@ export default {
             width: 45px;
             position: relative;
 
-
             &.year-label {
               text-align: center;
             }
@@ -738,7 +737,6 @@ export default {
 
   .item-content.has-secondary::after {
     content: '';
-    float: right;
     position: absolute;
     display: inline-block;
     top: 18px;

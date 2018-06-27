@@ -195,7 +195,7 @@ function parseVacancies (table) {
     const key = row[0]
     const value = {}
     header.forEach((h, i) => {
-      value[h] = +row[i + 4]
+      value[h.replace(/For/g, 'for')] = +row[i + 4]
     })
     result[key] = value
   })

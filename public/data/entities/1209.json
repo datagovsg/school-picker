@@ -211,25 +211,9 @@
 	],
 	"studentCare": true,
 	"p1Registration": {
-		"Total Vacancy": 180,
+		"Total Vacancy": 210,
 		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 140,
-		"No. of Applicants in Phase 1": 64,
-		"Places taken up to Phase 1": 64,
-		"Vacancy for Phase 2A1": 76,
-		"No. of Applicants in Phase 2A1": 0,
-		"Places taken up to Phase 2A1": 64,
-		"Vacancy for Phase 2A2": 76,
-		"No. of Applicants in Phase 2A2": 8,
-		"Places taken up to Phase 2A2": 72,
-		"Vacancy for Phase 2B": 54,
-		"No. of Applicants in Phase 2B": 1,
-		"Places taken up to Phase 2B": 70,
-		"Vacancy for Phase 2C": 110,
-		"No. of Applicants in Phase 2C": 65,
-		"Places taken up to Phase 2C": 135,
-		"Vacancy for Phase 2C Supplementary": 45,
-		"No. of Applicants in Phase 2C Supplementary": 47
+		"Vacancy for Phase 1": 170
 	},
 	"id": "1209"
 }
