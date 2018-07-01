@@ -195,11 +195,15 @@ function parseVacancies (table) {
     const key = row[0]
     const value = {}
     header.forEach((h, i) => {
-      value[h.replace(/For/g, 'for')] = +row[i + 4]
+      value[removeArtifacts(h).toUpperCase()] = +removeArtifacts(row[i + 4])
     })
     result[key] = value
   })
   return result
+}
+
+function removeArtifacts (str) {
+  return str.trim().replace(/&nbsp;/g, '').replace(/\u200b/g, '')
 }
 
 // https://www.moe.gov.sg/admissions/primary-one-registration/balloting

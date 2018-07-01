@@ -48,10 +48,10 @@ scrapVacancies().then(json => {
   })
   Object.keys(vacancies).forEach(key => {
     const school = vacancies[key]
-    if ('No. of Children Registered' in school) {
-      const phases = Object.keys(school).filter(key => key.match(/^Vacancy for/)).map(key => key.slice(12))
-      school['No. of Applicants in ' + _max(phases)] = school['No. of Children Registered']
-      delete school['No. of Children Registered']
+    if ('NO. OF CHILDREN REGISTERED' in school) {
+      const phases = Object.keys(school).filter(key => key.match(/^VACANCY FOR/)).map(key => key.slice(12))
+      school['NO. OF APPLICANTS IN ' + _max(phases)] = school['NO. OF CHILDREN REGISTERED']
+      delete school['NO. OF CHILDREN REGISTERED']
     }
   })
   const now = new Date()

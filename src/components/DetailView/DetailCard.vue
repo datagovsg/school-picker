@@ -519,38 +519,38 @@ export default {
     p1Registration () {
       const info = this.info.p1Registration
       function getApplicants (phase) {
-        if (!isNaN(info['No. of Applicants in ' + phase]) && !isNaN(info['Vacancy for ' + phase])) {
-          return info['No. of Applicants in ' + phase] + ' out of ' + info['Vacancy for ' + phase]
+        if (!isNaN(info['NO. OF APPLICANTS IN ' + phase]) && !isNaN(info['VACANCY FOR ' + phase])) {
+          return info['NO. OF APPLICANTS IN ' + phase] + ' out of ' + info['VACANCY FOR ' + phase]
         }
       }
       if (info) {
-        const phases = Object.keys(info).filter(key => key.match(/^Places taken up to/)).map(key => key.slice(19))
-        const placesTaken = info['Places taken up to ' + max(phases)]
+        const phases = Object.keys(info).filter(key => key.match(/^PLACES TAKEN UP TO/)).map(key => key.slice(19))
+        const placesTaken = info['PLACES TAKEN UP TO ' + max(phases)]
         const rows = [
-          {label: 'Total Vacancy', value: info['Total Vacancy'], class: 'text-bold'},
-          {label: 'Reserved for Phase 2B & 2C', value: info['Vacancies Reserved for Phase 2B and 2C']},
+          {label: 'Total Vacancy', value: info['TOTAL VACANCY'], class: 'text-bold'},
+          {label: 'Reserved for Phase 2B & 2C', value: info['VACANCIES RESERVED FOR PHASE 2B AND 2C']},
           {
             label: 'Places Taken So Far',
             value: placesTaken,
-            class: placesTaken >= info['Total Vacancy'] && 'fully-booked'
+            class: placesTaken >= info['TOTAL VACANCY'] && 'fully-booked'
             // title: 'Up until Phase 2C\nResult of Phase 2C(S) will be out on 21 August 2017'
           },
           {
             values: [
-              {label: 'Phase 1 applicants', value: getApplicants('Phase 1')},
-              {label: 'Phase 2A(1) applicants', value: getApplicants('Phase 2A1')},
-              {label: 'Phase 2A(2) applicants', value: getApplicants('Phase 2A2')},
-              {label: 'Phase 2B applicants', value: getApplicants('Phase 2B')},
-              {label: 'Phase 2C applicants', value: getApplicants('Phase 2C')},
-              {label: 'Phase 2C(S) applicants', value: getApplicants('Phase 2C Supplementary')},
-              {label: 'Phase 3 applicants', value: getApplicants('Phase 3')}
+              {label: 'Phase 1 applicants', value: getApplicants('PHASE 1')},
+              {label: 'Phase 2A(1) applicants', value: getApplicants('PHASE 2A1')},
+              {label: 'Phase 2A(2) applicants', value: getApplicants('PHASE 2A2')},
+              {label: 'Phase 2B applicants', value: getApplicants('PHASE 2B')},
+              {label: 'Phase 2C applicants', value: getApplicants('PHASE 2C')},
+              {label: 'Phase 2C(S) applicants', value: getApplicants('PHASE 2C SUPPLEMENTARY')},
+              {label: 'Phase 3 applicants', value: getApplicants('PHASE 3')}
             ]
           }
         ]
         return {
           label: 'P1 Registration Exercise',
           year: '2018',
-          lastUpdated: '27 June 2018',
+          lastUpdated: '29 June 2018',
           rows
         }
       }
