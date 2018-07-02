@@ -20,7 +20,7 @@
 		"Principal": "Mdm Lee Lin Yee",
 		"Vice Principal": [
 			"Miss Lim Hui Kheng Linda",
-			"Mdm Toh Susan"
+			"Ms Toh Susan"
 		],
 		"School Vision": "A Community of Learners Growing and Glowing for God.",
 		"School Mission": "To provide an All-Round Education in a Christ-centred Environment to nurture Confident, Creative and Caring Young Ladies who will serve God, the Country and the Community.",
@@ -41,7 +41,6 @@
 		"Chinese",
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
-		"Combined Humanities (S,L)",
 		"Drama",
 		"Elements Of Business Skills",
 		"English Language",
@@ -56,10 +55,9 @@
 		"Mathematics",
 		"Music 'O' Level",
 		"Physics",
-		"Principles Of A/C",
+		"Principles Of Accounts",
 		"Science (Chem, Bio)",
 		"Science (Phy, Chem)",
-		"Social Studies",
 		"Tamil"
 	],
 	"Cca": {
@@ -101,19 +99,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"School Distinction Awards": "SDA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Development Award": [
-					"DA (National Education)",
-					"PARTNERS (Merit)"
-				],
-				"Outstanding Development Award": "ODA (Character Development)"
-			},
 			"2015": {
 				"Best Practice Awards": "BPA (Student All-Round Development)",
 				"Development Award": "DA (National Education)",
@@ -128,76 +113,6 @@
 				"Best Practice Awards": "BPA (Student All-Round Development)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Fencing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Fencing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Gymnastics (Rhythmic)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Gymnastics (Rhythmic)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
 				{
 					"year": "2015",
 					"category": "Basketball",
@@ -461,56 +376,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -663,31 +528,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Red Cross",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 2)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
-				{
 					"year": "2015",
 					"category": "Girl Guides (Coy 1)",
 					"award": "Silver"
@@ -756,30 +596,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 242,
-			"upper": 252,
-			"lowerAffiliated": 200,
-			"upperAffiliated": 249
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 175,
-			"upper": 199,
-			"lowerAffiliated": 155,
-			"upperAffiliated": 198
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 134,
-			"upper": 159,
-			"lowerAffiliated": 123,
-			"upperAffiliated": 150
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -851,6 +667,30 @@
 			"upper": 159,
 			"lowerAffiliated": 131,
 			"upperAffiliated": 154
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 241,
+			"upper": 250,
+			"lowerAffiliated": 200,
+			"upperAffiliated": 247
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 193,
+			"upper": 199,
+			"lowerAffiliated": 152,
+			"upperAffiliated": 199
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 107,
+			"upper": 159,
+			"lowerAffiliated": 134,
+			"upperAffiliated": 147
 		}
 	],
 	"postalCode": "259240",

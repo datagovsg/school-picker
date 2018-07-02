@@ -14,12 +14,12 @@
 	],
 	"email": "TWSS@MOE.EDU.SG",
 	"mrt": "CHUA CHU KANG MRT, PHOENIX LRT",
-	"bus": "975 , 985 , 190 , 307 ",
+	"bus": "975 , 985 , 190 , 982E , 557 ",
 	"GeneralInformation": {
 		"Principal": "MR CHAN YEW HENG EDWIN",
 		"Vice Principal": [
-			"MISS DIANA GOH BOON LANG",
-			"MR WU TIAN HWEE"
+			"MR WU TIAN HWEE",
+			"MISS DIANA GOH BOON LANG"
 		],
 		"School Vision": "A Community of Future-Ready Learners who Lead, Serve and Achieve",
 		"School Mission": "Empowering Lives, Transforming Our Future",
@@ -30,9 +30,9 @@
 	},
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
+		"ART",
 		"ART NA LEVEL",
 		"ART NT LEVEL",
-		"ART 'O' LEVEL",
 		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BASIC TAMIL",
@@ -50,14 +50,20 @@
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
 		"FOOD AND CONSUMER EDUCATION",
+		"FOOD STUDIES, N LEVEL",
+		"HIGHER CHINESE",
+		"HIGHER TAMIL",
+		"LITERATURE(E)",
 		"MALAY",
 		"MALAY N(A)",
 		"MATHEMATICS",
 		"MATHEMATICS (SYLLABUS A)",
 		"MATHEMATICS (SYLLABUS T)",
+		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF A/C",
+		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
@@ -78,8 +84,7 @@
 			"Boys' Brigade",
 			"Girl Guides",
 			"Ncc (Land)",
-			"Npcc",
-			"St. John Brigade"
+			"Npcc"
 		],
 		"Visual and Performing Arts": [
 			"Art And Craft Club",
@@ -91,7 +96,6 @@
 		"Clubs & Societies": [
 			"Environmental Club",
 			"Infocom Club",
-			"Library",
 			"Robotics Club"
 		]
 	},
@@ -103,7 +107,7 @@
 			"STEM": "Re-designing the Future with Materials Science",
 			"Sports & Outdoor Education": "Sports and Sportsmanship Programme @ TWSS (Experience, Expose, Excel)"
 		},
-		"Special Student Development Programmes Offered": "Teck Whye Secondary School offers the Applied Learning Programme (ALP) which provides opportunities for students to learn interesting STEM (Science Technology Engineering Mathematics) applications in the area of Material Sciences and Engineering.  Students will learn more about material properties, integration with Robotics and applications in the context of Defence Science. The emphasis is on the design thinking, connecting knowledge from across disciplines, stretching the imagination and applying these in authentic settings and real world contexts. In the area of Co-Curriculum, excellent platforms are provided for our students to develop strength of character, values and inculcate the Growth Mindset to overcome challenges that come their way in life. It is with this that we have structured our Learning for Life Programme (LLP) for our students - the Sports Experience, the Sports Development and Sports Excellence. In particular, our strong Hockey programme - \"Nurturing Sports Stars of Tomorrow through Hockey\" seeks to further develop the skills of our students in the sport to lead and contribute at the national levels. Throughout these programmes, our students participate in and develop their passion and aptitude in the respective sports and activities. Sportsmanship values, character and attitudes are constantly emphasised.  Other key programmes offered include Leadership Development Programme, Drama Programme, Sec 3 Adventure and Leadership Camp and Talent Development Programme."
+		"Special Student Development Programmes Offered": "The Applied Learning Programme (ALP) provides opportunities for students to learn interesting STEM (Science, Technology, Engineering, Mathematics) applications, through using the Design Thinking Process in LEGO Education Solutions. In this ALP - C.R.E.A.T.E. or Creative Robotics Experience through Authentic Thinking Exposure - students will develop problem-solving, critical thinking and collaborative learning skills when they build LEGO robotic sets to complete specific tasks which transform abstract STEM concepts into tangible hands-on learning experiences. In the co-curriculum area, excellent platforms are provided for our students to develop strength of character, values and inculcate the Growth Mindset to overcome challenges that come their way in life. Our Learning for Life Programme (LLP), Sports & Sportsmanship Programme (Sports Experience, Sports Development and Sports Excellence), is the core programme for character building. Our students actively participate in and develop their passion and aptitude in a wide variety of sports and activities. Sportsmanship values, character and attitudes are constantly emphasised. Other key programmes in character building include Student Leadership Development Programme, Sec 3 Adventure and Leadership Camp and Science Talent Development Programme."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -950,7 +954,8 @@
 					"Npcc (Land)": "Silver",
 					"St John Ambulance Brigade": "Bronze"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1172,6 +1177,23 @@
 			"Normal Technical": [
 				"108",
 				"154",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"238",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"157",
+				"182",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"114",
+				"152",
 				"None-posted"
 			]
 		}

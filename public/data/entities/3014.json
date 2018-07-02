@@ -17,7 +17,7 @@
 		"Bedok MRT",
 		"Paya Lebar MRT"
 	],
-	"bus": "31 , 36 , 43 , 47 , 48 , 55 , 76 , 135 , 155 , 196 , 196E , 197 , 401 , 541 , 763 , 853 , 853C , 4N ",
+	"bus": "31 , 36 , 43 , 47 , 48 , 55 , 135 , 155 , 196 , 196E , 197 , 541 , 763 ",
 	"GeneralInformation": {
 		"Principal": "Mr Chow Weisi",
 		"Vice Principal": [
@@ -50,6 +50,7 @@
 		"Combined Humanities (S,H)",
 		"Design & Technology",
 		"English Language",
+		"Exercise And Sports Science",
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Art",
@@ -115,12 +116,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"School Distinction Awards": "SDA",
-				"Best Practice Awards": "BPA (Student All-Round Development)",
-				"Development Award": "PARTNERS (Merit)",
-				"Outstanding Development Award": "ODA (Character Development)"
-			},
 			"2015": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": "BPA (Student All-Round Development)",
@@ -134,186 +129,6 @@
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Cricket",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Cricket",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Cross Country",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Sailing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Sailing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Shooting (Air Pistol)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
 				{
 					"year": "2015",
 					"category": "Badminton",
@@ -1017,46 +832,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -1148,36 +923,6 @@
 				}
 			],
 			"Best Unit Award": [
-				{
-					"year": "2014",
-					"category": "NCC (Sea Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
 				{
 					"year": "2015",
 					"category": "Boys' Brigade",
@@ -1273,22 +1018,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Integrated Programme",
-			"lower": 251,
-			"upper": 264,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "'O' Level Programme",
-			"lower": 247,
-			"upper": 265,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Integrated Programme",
 			"lower": 249,
@@ -1333,6 +1062,22 @@
 			"programme": "'O' Level Programme",
 			"lower": 245,
 			"upper": 259,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Integrated Programme",
+			"lower": 252,
+			"upper": 271,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "'O' Level Programme",
+			"lower": 246,
+			"upper": 270,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

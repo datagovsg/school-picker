@@ -93,9 +93,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": "DA (Character Development)"
-			},
 			"2015": {
 				"Development Award": "DA (Character Development)"
 			},
@@ -103,56 +100,6 @@
 				"Development Award": "DA (Character Development)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
 				{
 					"year": "2015",
 					"category": "Football",
@@ -236,26 +183,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2015",
 					"category": "Dance - International",
 					"award": "Accomplishment"
@@ -292,36 +219,6 @@
 				}
 			],
 			"Best Unit Award": [
-				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "NCDCC",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
 				{
 					"year": "2015",
 					"category": "Boys' Brigade",
@@ -376,30 +273,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 244,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 154,
-			"upper": 183,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 116,
-			"upper": 150,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2015",
 			"programme": "Express",

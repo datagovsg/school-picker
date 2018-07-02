@@ -72,7 +72,6 @@
 			"Squash",
 			"Table Tennis",
 			"Tennis",
-			"Track & Field",
 			"Volleyball",
 			"Wushu"
 		],
@@ -1022,7 +1021,8 @@
 					"Ensemble - Guitar": "Accomplishment",
 					"Ensemble - Harmonica": "Distinction"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"L1R5History": {
@@ -1098,6 +1098,20 @@
 			"Science/IB": [
 				"3",
 				"9"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2018": {
+			"Arts": [
+				"5",
+				"12"
+			],
+			"Science/IB": [
+				"3",
+				"12"
 			],
 			"Commerce": [
 				"-",

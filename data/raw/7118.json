@@ -49,21 +49,21 @@
 		"CHEMISTRY",
 		"CHINESE",
 		"CIVICS & MORAL EDUCATION",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
-		"COMBINED HUMANITIES (S,L)",
 		"DESIGN & TECHNOLOGY",
 		"ENGLISH LANGUAGE",
 		"EXERCISE AND SPORTS SCIENCE",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
+		"HIGHER MUSIC",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"LITERATURE IN CHINESE",
 		"LITERATURE(E)",
 		"MATHEMATICS",
 		"MUSIC",
-		"MUSIC (MEP)",
 		"PHYSICAL EDUCATION",
 		"PHYSICS"
 	],
@@ -99,7 +99,6 @@
 			"Chinese Cultural Society",
 			"Clcc Performing Arts",
 			"Debate Society",
-			"Debating And Oratorical Society",
 			"Green Club",
 			"Library",
 			"Library Society",
@@ -3388,7 +3387,8 @@
 					"Brownies (Pack 1)": "Bronze",
 					"Brownies (Pack 2)": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		},
 		"Secondary": {
 			"2005": {
@@ -5483,7 +5483,8 @@
 					"Npcc (Land)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -5629,6 +5630,19 @@
 				"264",
 				"230",
 				"270"
+			]
+		},
+		"2018": {
+			"Integrated Programme": [
+				"256",
+				"284",
+				"None-posted"
+			],
+			"'O' Level Programme": [
+				"253",
+				"276",
+				"230",
+				"261"
 			]
 		}
 	},

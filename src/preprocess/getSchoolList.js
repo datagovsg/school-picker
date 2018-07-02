@@ -14,8 +14,8 @@ const options = {
 const levels = ['P', 'S', 'J', 'F', 'T']
 
 const apiCalls = levels.map(level => {
-  const body = JSON.stringify({educationLevel: level})
-  return axios.get(url, Object.assign({body}, options))
+  const data = JSON.stringify({educationLevel: level})
+  return axios.post(url, data, options)
     .then(res => res.data)
     .then(json => json.d)
     .then(JSON.parse)
@@ -36,6 +36,7 @@ Promise.all(apiCalls)
         }
       })
     })
+    console.log(schoolList)
     fs.writeFileSync('data/schoolList.json', JSON.stringify(schoolList))
   })
   .catch(console.error)

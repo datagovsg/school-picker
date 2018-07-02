@@ -33,6 +33,7 @@
 	"SubjectOffered": [
 		"Additional Mathematics",
 		"Art",
+		"Basic Chinese",
 		"Basic Malay",
 		"Basic Tamil",
 		"Biology",
@@ -54,7 +55,6 @@
 		"Malay",
 		"Malay B",
 		"Mathematics",
-		"Music 'O' Level",
 		"Physical Education",
 		"Physics",
 		"Principles Of A/C",
@@ -101,23 +101,10 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": "DA (Character Development)"
-			},
 			"2015": {
 				"Development Award": "DA (Character Development)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2016",
 					"category": "Basketball",
@@ -180,41 +167,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Commendation"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -292,31 +244,6 @@
 				}
 			],
 			"Best Unit Award": [
-				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NCDCC",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
 				{
 					"year": "2015",
 					"category": "Boys' Brigade",
@@ -397,30 +324,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 202,
-			"upper": 246,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 168,
-			"upper": 198,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 121,
-			"upper": 157,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 208,
@@ -489,6 +392,30 @@
 			"programme": "Normal Technical",
 			"lower": 118,
 			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 201,
+			"upper": 238,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 166,
+			"upper": 192,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 129,
+			"upper": 150,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

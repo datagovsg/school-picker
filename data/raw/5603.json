@@ -62,7 +62,6 @@
 		],
 		"Visual and Performing Arts": [
 			"Art And Craft Club",
-			"Band - Military",
 			"Chinese Calligraphy And Brush Painting",
 			"Chinese Drums",
 			"Dance - Chinese",
@@ -1045,7 +1044,8 @@
 				"Best Unit Award": {
 					"Scout": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "529067"

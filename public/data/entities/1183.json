@@ -68,9 +68,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"Development Award": "DA (National Education)"
-			},
 			"2015": {
 				"Development Award": "DA (National Education)"
 			},
@@ -78,66 +75,6 @@
 				"Development Award": "DA (National Education)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "1st"
-				},
 				{
 					"year": "2015",
 					"category": "Rope Skipping",
@@ -250,21 +187,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category B",

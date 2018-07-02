@@ -52,7 +52,27 @@
 		"SOCIAL STUDIES",
 		"TAMIL"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Netball",
+			"Softball",
+			"Table Tennis"
+		],
+		"Uniformed Groups": [
+			"Brownies"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Choir",
+			"El Drama Club",
+			"Fusion Dance",
+			"Tap Dance"
+		],
+		"Clubs & Societies": [
+			"Cl Cultural Club",
+			"Environmental Science Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -782,7 +802,8 @@
 					"Dance - Chinese": "Accomplishment",
 					"Dance - International": "Accomplishment"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "679287"

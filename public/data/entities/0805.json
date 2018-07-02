@@ -52,6 +52,7 @@
 		"H1 Chinese Language",
 		"H1 Economics",
 		"H1 General Paper",
+		"H1 General Studies In Chinese",
 		"H1 Geography",
 		"H1 History",
 		"H1 Literature In English",
@@ -63,16 +64,20 @@
 		"H2 Art",
 		"H2 Biology",
 		"H2 Chemistry",
+		"H2 China Studies In Chinese",
 		"H2 Chinese Language & Literature",
+		"H2 Computing",
 		"H2 Economics",
+		"H2 English Language And Linguistics",
+		"H2 Further Mathematics",
 		"H2 Geography",
 		"H2 History",
-		"H2 Knowledge & Inquiry",
 		"H2 Literature In English",
 		"H2 Malay Language & Literature",
 		"H2 Mathematics",
 		"H2 Physics",
 		"H2 Tamil Language & Literature",
+		"H2 Translation (Chinese)",
 		"H3 Art",
 		"H3 Chinese Language & Literature",
 		"H3 Economics",
@@ -81,7 +86,10 @@
 		"H3 History",
 		"H3 Mathematics",
 		"H3 Pharmaceutical Chemistry",
-		"H3 Proteomics"
+		"Ntu Molecular Biology",
+		"Ntu Semiconductor Physics & Devices",
+		"Nus Modern Physics",
+		"Smu Game Theory"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -129,12 +137,6 @@
 	},
 	"AchievementHistory": {
 		"Junior College": {
-			"2014": {
-				"School Distinction Awards": "SDA",
-				"Best Practice Awards": "BPA (Staff Well-Being)",
-				"Development Award": "DA (Character Development)",
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"2015": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": "BPA (Staff Well-Being)",
@@ -147,76 +149,6 @@
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Judo",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Judo",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Badminton",
@@ -490,46 +422,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category C",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category C",
 					"award": "Recognition(Sm)"
@@ -655,73 +547,73 @@
 	},
 	"L1R5History": [
 		{
-			"year": "2014",
+			"year": "2015",
 			"programme": "Arts",
 			"lower": 3,
+			"upper": 7
+		},
+		{
+			"year": "2015",
+			"programme": "Science/IB",
+			"lower": 2,
+			"upper": 7
+		},
+		{
+			"year": "2015",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2016",
+			"programme": "Arts",
+			"lower": 3,
+			"upper": 7
+		},
+		{
+			"year": "2016",
+			"programme": "Science/IB",
+			"lower": 2,
+			"upper": 6
+		},
+		{
+			"year": "2016",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2017",
+			"programme": "Arts",
+			"lower": 3,
+			"upper": 7
+		},
+		{
+			"year": "2017",
+			"programme": "Science/IB",
+			"lower": 2,
+			"upper": 6
+		},
+		{
+			"year": "2017",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2018",
+			"programme": "Arts",
+			"lower": 2,
 			"upper": 8
 		},
 		{
-			"year": "2014",
+			"year": "2018",
 			"programme": "Science/IB",
 			"lower": 2,
 			"upper": 7
 		},
 		{
-			"year": "2014",
-			"programme": "Commerce",
-			"lower": null,
-			"upper": null
-		},
-		{
-			"year": "2015",
-			"programme": "Arts",
-			"lower": 3,
-			"upper": 7
-		},
-		{
-			"year": "2015",
-			"programme": "Science/IB",
-			"lower": 2,
-			"upper": 7
-		},
-		{
-			"year": "2015",
-			"programme": "Commerce",
-			"lower": null,
-			"upper": null
-		},
-		{
-			"year": "2016",
-			"programme": "Arts",
-			"lower": 3,
-			"upper": 7
-		},
-		{
-			"year": "2016",
-			"programme": "Science/IB",
-			"lower": 2,
-			"upper": 6
-		},
-		{
-			"year": "2016",
-			"programme": "Commerce",
-			"lower": null,
-			"upper": null
-		},
-		{
-			"year": "2017",
-			"programme": "Arts",
-			"lower": 3,
-			"upper": 7
-		},
-		{
-			"year": "2017",
-			"programme": "Science/IB",
-			"lower": 2,
-			"upper": 6
-		},
-		{
-			"year": "2017",
+			"year": "2018",
 			"programme": "Commerce",
 			"lower": null,
 			"upper": null

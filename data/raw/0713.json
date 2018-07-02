@@ -17,10 +17,7 @@
 	"bus": "161 , 168 , 901 , 900A ",
 	"GeneralInformation": {
 		"Principal": "MR MICHAEL DE SILVA",
-		"Vice Principal": [
-			"MR SOH SZE FUN, VICTOR",
-			"MR TAY YUAN ZHUANG"
-		],
+		"Vice Principal": "MR TAY YUAN ZHUANG",
 		"Vice Principal (Admin)": "MDM LEE BENG CHOO",
 		"School Vision": "A forward-looking community of leaders and thinkers",
 		"School Mission": "Develop future-ready leaders and thinkers",
@@ -331,7 +328,8 @@
 					"Dance - International": "Accomplishment",
 					"Drama - English": "Accomplishment"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"L1R5History": {
@@ -412,7 +410,8 @@
 				"-",
 				"-"
 			]
-		}
+		},
+		"2018": {}
 	},
 	"postalCode": "737902"
 }

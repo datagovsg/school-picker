@@ -60,9 +60,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"Sports & Games Competition": [
 				{
 					"year": "2016",
@@ -116,26 +113,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -222,8 +199,8 @@
 		1.3377499
 	],
 	"svy21": [
-		20605.39,
-		35547.27
+		20605.36,
+		35547.2
 	],
 	"planningArea": "BT",
 	"neighbours": [
@@ -241,25 +218,10 @@
 	],
 	"studentCare": true,
 	"p1Registration": {
-		"Total Vacancy": 180,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 140,
-		"No. of Applicants in Phase 1": 52,
-		"Places taken up to Phase 1": 52,
-		"Vacancy for Phase 2A1": 88,
-		"No. of Applicants in Phase 2A1": 0,
-		"Places taken up to Phase 2A1": 52,
-		"Vacancy for Phase 2A2": 88,
-		"No. of Applicants in Phase 2A2": 6,
-		"Places taken up to Phase 2A2": 58,
-		"Vacancy for Phase 2B": 61,
-		"No. of Applicants in Phase 2B": 0,
-		"Places taken up to Phase 2B": 56,
-		"Vacancy for Phase 2C": 124,
-		"No. of Applicants in Phase 2C": 59,
-		"Places taken up to Phase 2C": 115,
-		"Vacancy for Phase 2C Supplementary": 65,
-		"No. of Applicants in Phase 2C Supplementary": 48
+		"TOTAL VACANCY": 210,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 170,
+		"NO. OF APPLICANTS IN PHASE 1": 40
 	},
 	"id": "1247"
 }

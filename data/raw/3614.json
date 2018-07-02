@@ -17,10 +17,7 @@
 	"bus": "49 , 98 , 99 , 157 , 180 , 185 , 187 , 198 , 334 , 335 , 502 ",
 	"GeneralInformation": {
 		"Principal": "MISS FOONG LAI LEONG",
-		"Vice Principal": [
-			"MDM YIP SUN YEE",
-			"MR SIM HOW CHONG"
-		],
+		"Vice Principal": "MR SIM HOW CHONG",
 		"Vice Principal (Admin)": "MR PHUA CHENG PENG",
 		"School Vision": "Premier School, Serving Community",
 		"School Mission": "Nurturing The Whole Fuhuanite",
@@ -37,6 +34,7 @@
 		"CHINESE",
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
+		"COMBINED HUMANITIES (S,L)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
@@ -73,14 +71,13 @@
 			"Band",
 			"Chinese Dance And Wushu",
 			"Chinese Orchestra",
-			"Choir",
-			"Dikir Barat",
-			"Malay Dance"
+			"Choir"
 		],
 		"Clubs & Societies": [
 			"Eldds",
 			"Environment Club",
 			"Infocomm Club",
+			"Mlcs",
 			"Robotics Club"
 		]
 	},
@@ -1159,7 +1156,8 @@
 					"Red Cross": "Gold",
 					"Scout (Unit 1)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1381,6 +1379,23 @@
 			"Normal Technical": [
 				"131",
 				"155",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"232",
+				"254",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"176",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"132",
+				"159",
 				"None-posted"
 			]
 		}

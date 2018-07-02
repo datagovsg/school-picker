@@ -54,9 +54,9 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"P6 Netball School Team",
+			"Netball",
+			"Rhythmic Gymnastics",
 			"Rhythmic Gymnastics Recreational Team",
-			"Rhythmic Gymnastics School Team",
 			"Swimming",
 			"Tennis School Team"
 		],
@@ -1210,7 +1210,8 @@
 					"Ensemble - Strings": "Distinction",
 					"Dance - International": "Distinction"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "149059"

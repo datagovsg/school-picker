@@ -99,46 +99,6 @@
 		"Primary": {
 			"Sports & Games Competition": [
 				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "4th"
-				},
-				{
 					"year": "2015",
 					"category": "Rope Skipping",
 					"subCategory": [
@@ -291,26 +251,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2015",
 					"category": "Choir",
 					"award": "Accomplishment"
@@ -378,16 +318,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Boys' Brigade",
 					"award": "Gold"
@@ -426,8 +356,8 @@
 		1.2844981
 	],
 	"svy21": [
-		27202.32,
-		29658.87
+		27202.28,
+		29658.8
 	],
 	"planningArea": "BM",
 	"neighbours": [
@@ -441,23 +371,10 @@
 	],
 	"studentCare": true,
 	"p1Registration": {
-		"Total Vacancy": 210,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 170,
-		"No. of Applicants in Phase 1": 87,
-		"Places taken up to Phase 1": 87,
-		"Vacancy for Phase 2A1": 83,
-		"No. of Applicants in Phase 2A1": 0,
-		"Places taken up to Phase 2A1": 87,
-		"Vacancy for Phase 2A2": 83,
-		"No. of Applicants in Phase 2A2": 24,
-		"Places taken up to Phase 2A2": 111,
-		"Vacancy for Phase 2B": 50,
-		"No. of Applicants in Phase 2B": 1,
-		"Places taken up to Phase 2B": 110,
-		"Vacancy for Phase 2C": 100,
-		"No. of Applicants in Phase 2C": 109,
-		"Places taken up to Phase 2C": 210
+		"TOTAL VACANCY": 210,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 170,
+		"NO. OF APPLICANTS IN PHASE 1": 91
 	},
 	"id": "1199"
 }

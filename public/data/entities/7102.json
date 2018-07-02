@@ -48,6 +48,7 @@
 		"Appre Of Chinese Culture",
 		"Art",
 		"Art 'O' Level",
+		"Art(ip)",
 		"Biology",
 		"Chemistry",
 		"Chinese",
@@ -78,21 +79,16 @@
 	"Cca": {
 		"Physical Sports": [
 			"Basketball",
-			"Cross Country",
 			"Floorball",
 			"Softball",
 			"Table Tennis",
-			"Tennis",
-			"Track & Field",
+			"Track & Field (With Cross Country)",
 			"Volleyball",
 			"Wushu"
 		],
 		"Uniformed Groups": [
-			"National Cadet Corp (Air)",
-			"National Cadet Corp (Land)",
-			"National Police Cadet Corp",
-			"Ncc (Land)",
 			"Ncc(Air)",
+			"Ncc(Land)",
 			"Npcc",
 			"Scouts",
 			"St John Brigade"
@@ -106,9 +102,7 @@
 			"Symphony Band"
 		],
 		"Clubs & Societies": [
-			"Ion",
-			"Nucleii",
-			"Robotics Club"
+			"Ion (Infocomm & Robotics)"
 		]
 	},
 	"SpecialProgrammes": {
@@ -121,27 +115,10 @@
 		"School Distinctive Programmes": {
 			"Sports & Outdoor Education": "VITALS (Values Infused Through Active Learning in Sports)"
 		},
-		"Special Student Development Programmes Offered": "CHS' model of Leader-Gentleman-Bilingual Scholar Curriculum includes development platforms such as :  "
+		"Special Student Development Programmes Offered": "CHS model of Leader-Gentleman-Bilingual Scholar Curriculum includes development platforms such as :  "
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Outstanding Development Award": [
-					"ODA (Character Development)",
-					"Outstanding PARTNERS"
-				],
-				"Achievement Award": "CHERISH Award",
-				"Sustained Achievement Award": [
-					"SAA (Aesthetics)",
-					"SAA (CHERISH)"
-				]
-			},
 			"2015": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [
@@ -181,146 +158,6 @@
 				]
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Swimming",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Basketball",
@@ -673,31 +510,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category A",
@@ -806,11 +618,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Scout",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Scout",
 					"award": "Gold"
@@ -828,18 +635,6 @@
 			]
 		},
 		"Secondary": {
-			"2014": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Outstanding Development Award": [
-					"ODA (Character Development)",
-					"Outstanding PARTNERS"
-				]
-			},
 			"2015": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [
@@ -877,146 +672,6 @@
 				]
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Swimming",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
 				{
 					"year": "2015",
 					"category": "Basketball",
@@ -1369,36 +1024,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -1497,31 +1122,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "NCC (Air Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "NCC (Air Boys)",
 					"award": "Gold"
@@ -1601,22 +1201,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Integrated Programme",
-			"lower": 251,
-			"upper": 262,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "'O' Level Programme",
-			"lower": 249,
-			"upper": 266,
-			"lowerAffiliated": 240,
-			"upperAffiliated": 253
-		},
-		{
 			"year": "2015",
 			"programme": "Integrated Programme",
 			"lower": 249,
@@ -1663,6 +1247,22 @@
 			"upper": 268,
 			"lowerAffiliated": 240,
 			"upperAffiliated": 252
+		},
+		{
+			"year": "2018",
+			"programme": "Integrated Programme",
+			"lower": 253,
+			"upper": 268,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "'O' Level Programme",
+			"lower": 250,
+			"upper": 266,
+			"lowerAffiliated": 240,
+			"upperAffiliated": 253
 		}
 	],
 	"postalCode": "579767",
@@ -1671,8 +1271,8 @@
 		1.354723
 	],
 	"svy21": [
-		29285.74,
-		37423.97
+		29285.7,
+		37423.9
 	],
 	"planningArea": "BS",
 	"neighbours": [
@@ -1686,23 +1286,10 @@
 		"Mild SEN"
 	],
 	"p1Registration": {
-		"Total Vacancy": 240,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 200,
-		"No. of Applicants in Phase 1": 67,
-		"Places taken up to Phase 1": 67,
-		"Vacancy for Phase 2A1": 133,
-		"No. of Applicants in Phase 2A1": 102,
-		"Places taken up to Phase 2A1": 169,
-		"Vacancy for Phase 2A2": 31,
-		"No. of Applicants in Phase 2A2": 23,
-		"Places taken up to Phase 2A2": 192,
-		"Vacancy for Phase 2B": 24,
-		"No. of Applicants in Phase 2B": 27,
-		"Places taken up to Phase 2B": 215,
-		"Vacancy for Phase 2C": 25,
-		"No. of Applicants in Phase 2C": 38,
-		"Places taken up to Phase 2C": 240
+		"TOTAL VACANCY": 240,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 200,
+		"NO. OF APPLICANTS IN PHASE 1": 82
 	},
 	"id": "7102"
 }

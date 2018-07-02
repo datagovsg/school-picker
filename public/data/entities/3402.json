@@ -66,27 +66,23 @@
 			"Badminton",
 			"Netball",
 			"Sepak Takraw",
-			"Taekwondo",
 			"Track & Field"
 		],
 		"Uniformed Groups": [
-			"Boys' Brigade",
 			"Girl Guides",
-			"National Civil Defence Cadet Corps",
 			"Ncc(Air) Boys",
-			"Ncc(Air) Girls"
+			"Ncc(Air) Girls",
+			"The Boys' Brigade"
 		],
 		"Visual and Performing Arts": [
-			"Art And Craft Club",
 			"Band - Military",
+			"Chinese String Ensemble",
 			"Dance - Malay",
 			"Dance - Modern",
-			"Drama - English",
-			"Orchestra - Chinese",
-			"Photographic Society"
+			"Photography Club"
 		],
 		"Clubs & Societies": [
-			"It/Infocomm Club",
+			"Infocomm Club",
 			"Library"
 		]
 	},
@@ -99,9 +95,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": "DA (National Education)"
-			},
 			"2015": {
 				"Development Award": "DA (National Education)"
 			},
@@ -109,36 +102,6 @@
 				"Development Award": "DA (National Education)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
 				{
 					"year": "2015",
 					"category": "Sepak Takraw",
@@ -161,31 +124,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Commendation"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -263,51 +201,6 @@
 				}
 			],
 			"Best Unit Award": [
-				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 2)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Air Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Air Girls)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCDCC",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Bronze"
-				},
 				{
 					"year": "2015",
 					"category": "Boys' Brigade",
@@ -418,30 +311,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 260,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 157,
-			"upper": 184,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 92,
-			"upper": 148,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 188,
@@ -502,6 +371,22 @@
 			"programme": "Normal Academic",
 			"lower": 152,
 			"upper": 198,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 189,
+			"upper": 230,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 195,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

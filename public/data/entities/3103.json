@@ -64,6 +64,7 @@
 		"H2 Literature In English",
 		"H2 Mathematics",
 		"H2 Physics",
+		"H2 Translation (Chinese)",
 		"H3 Essentials Of Modern Physics",
 		"H3 Literature In English",
 		"H3 Mathematics",
@@ -75,14 +76,12 @@
 		"Mathematics",
 		"Music",
 		"Physical Education",
-		"Physics",
-		"Translation (Chinese)"
+		"Physics"
 	],
 	"Cca": {
 		"Physical Sports": [
 			"Badminton",
 			"Basketball",
-			"Cross Country",
 			"Floorball",
 			"Netball",
 			"Softball",
@@ -100,19 +99,18 @@
 		"Visual and Performing Arts": [
 			"Chinese Orchestra",
 			"Choir",
-			"Cldds",
 			"Concert Band",
 			"Dance Society",
-			"Eldds",
 			"Guitar Ensemble",
-			"Photography Club",
-			"Street Dance"
+			"Photography Club"
 		],
 		"Clubs & Societies": [
+			"Audio & Video/ Pa Club",
 			"History And Current Affairs Society",
-			"Infocomm Club",
+			"Infocom Club",
+			"Ldds - Chinese",
+			"Ldds - English",
 			"Library And Editorial Club",
-			"Pa/Ava Club",
 			"Science Leaders Academy",
 			"Service And Citizenship Society",
 			"Singapore Youth Flying Club",
@@ -125,19 +123,10 @@
 			"Integrated Programme",
 			"SAP"
 		],
-		"Special Student Development Programmes Offered": "The RV Integrated Programme (RV IP) offers a balanced education that seeks to develop every student's interests and talents to their fullest potential across areas of the academics, CCA and leadership. Our Leadership - Character Development Curriculum aims to inculcate sound values and nurture character and leadership in our students through programmes such as the Personal Leadership Programme, Overseas Experiential Learning Programme, Education and Career Guidance Week, National Education and Values in Action as well as our annual leadership seminar. Through our academic Cognitive Interest Development Curriculum, most notably our Construct, Integrate, Differentiate (CID) Programme, we empower students to be innovative and critical thinkers and prepare them to thrive in higher education. Our other academic talent development platforms include the Bicultural Studies Programme and Bicultural Leaders Academy, the Science Leaders Academy, the Mathematics Leaders Academy, the Humanities and Social Studies Leaders Academy and the Eco-Sustainability Leaders Academy. Our Co-Curricular Activities nurture 21st century competencies and develop the interests and talents of our students in a full range of sports, performing arts, uniformed groups, clubs and societies."
+		"Special Student Development Programmes Offered": "The RV Integrated Programme (RV IP) offers a balanced education that seeks to develop every student's interests and talents to their fullest potential across areas of the academics, CCA and leadership. Our Leadership - Character Development Curriculum aims to inculcate sound values and nurture character and leadership in our students through programmes such as the Personal Leadership Programme, Overseas Experiential Learning Programme, Education and Career Guidance Week, National Education and Values in Action as well as our annual leadership seminar. Through our academic Cognitive Interest Development Curriculum, most notably our Construct, Integrate, Differentiate (CID) Programme, we empower students to be innovative and critical thinkers and prepare them to thrive in higher education. Our other academic talent development platforms include the Bicultural Studies Programme and Bicultural Leaders Academy, the Science Leaders Academy, the Mathematics Leaders Academy, the Humanities and Social Studies Leaders Academy, the Eco-Sustainability Leaders Academy and the Student Leadership Development Academy. Our Co-Curricular Activities nurture 21st century competencies and develop the interests and talents of our students in a full range of sports, performing arts, uniformed groups, clubs and societies."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Development Award": "DA (Character Development)"
-			},
 			"2015": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [
@@ -166,176 +155,6 @@
 				"Development Award": "DA (Character Development)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Cross Country",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Cross Country",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Badminton",
@@ -719,51 +538,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Strings",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Band - Concert",
 					"award": "Distinction"
@@ -901,41 +675,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 2)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Girls)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Girl Guides (Coy 1)",
 					"award": "Gold"
@@ -1038,16 +777,6 @@
 			]
 		},
 		"Junior College": {
-			"2014": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Development Award": "DA (Character Development)",
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"2015": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [
@@ -1076,36 +805,6 @@
 				"Development Award": "DA (Character Development)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
 				{
 					"year": "2015",
 					"category": "Badminton",
@@ -1349,46 +1048,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Strings",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Band - Concert",
 					"award": "Distinction"
@@ -1519,14 +1178,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 251,
-			"upper": 271,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 249,
@@ -1547,6 +1198,14 @@
 			"programme": "Express",
 			"lower": 251,
 			"upper": 273,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 250,
+			"upper": 270,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

@@ -60,7 +60,6 @@
 			"Badminton",
 			"Basketball",
 			"Football",
-			"Sepak Takraw",
 			"Softball",
 			"Swimming"
 		],
@@ -789,7 +788,8 @@
 					"Boys' Brigade": "Bronze",
 					"Girls' Brigade": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "149303"

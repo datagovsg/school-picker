@@ -46,6 +46,7 @@
 		"APPRE OF CHINESE CULTURE",
 		"ART",
 		"ART 'O' LEVEL",
+		"ART(IP)",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
@@ -76,21 +77,16 @@
 	"Cca": {
 		"Physical Sports": [
 			"Basketball",
-			"Cross Country",
 			"Floorball",
 			"Softball",
 			"Table Tennis",
-			"Tennis",
-			"Track & Field",
+			"Track & Field (With Cross Country)",
 			"Volleyball",
 			"Wushu"
 		],
 		"Uniformed Groups": [
-			"National Cadet Corp (Air)",
-			"National Cadet Corp (Land)",
-			"National Police Cadet Corp",
-			"Ncc (Land)",
 			"Ncc(Air)",
+			"Ncc(Land)",
 			"Npcc",
 			"Scouts",
 			"St John Brigade"
@@ -104,9 +100,7 @@
 			"Symphony Band"
 		],
 		"Clubs & Societies": [
-			"Ion",
-			"Nucleii",
-			"Robotics Club"
+			"Ion (Infocomm & Robotics)"
 		]
 	},
 	"SpecialProgrammes": {
@@ -119,7 +113,7 @@
 		"School Distinctive Programmes": {
 			"Sports & Outdoor Education": "VITALS (Values Infused Through Active Learning in Sports)"
 		},
-		"Special Student Development Programmes Offered": "CHS' model of Leader-Gentleman-Bilingual Scholar Curriculum includes development platforms such as :  "
+		"Special Student Development Programmes Offered": "CHS model of Leader-Gentleman-Bilingual Scholar Curriculum includes development platforms such as :  "
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -2781,7 +2775,8 @@
 				"Best Unit Award": {
 					"Scout": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		},
 		"Secondary": {
 			"2005": {
@@ -4592,7 +4587,8 @@
 					"Scout (Unit 1)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -4741,6 +4737,19 @@
 				"268",
 				"240",
 				"252"
+			]
+		},
+		"2018": {
+			"Integrated Programme": [
+				"253",
+				"268",
+				"None-posted"
+			],
+			"'O' Level Programme": [
+				"250",
+				"266",
+				"240",
+				"253"
 			]
 		}
 	},

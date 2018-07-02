@@ -79,7 +79,6 @@
 			"Volleyball (Boys)"
 		],
 		"Uniformed Groups": [
-			"Girl Guides",
 			"Ncc (Land)",
 			"Npcc",
 			"St. John Brigade"
@@ -92,6 +91,7 @@
 			"Movement And Dance Club"
 		],
 		"Clubs & Societies": [
+			"Green Club",
 			"It Club",
 			"Young Journalists Club"
 		]
@@ -101,34 +101,11 @@
 			"Languages & Humanities": "Languages Alive with Broadcasting and Journalism",
 			"Music & Performing Arts": "Nurturing Confident Communicators and Gracious Citizens through the Arts"
 		},
-		"Special Student Development Programmes Offered": "Deyi's Applied Learning Programme (ALP) -ACTIVE VOICE BROADCAST JOURNALISM- introduces students to the basics of Broadcasting & Journalism, which develops and strengthens language literacy, critical thinking and communication skills. The ALP covers Mass Communication & Media, ICT in Information Gathering, and Writing & Presenting. Students will have a greater engagement with language learning, thus gaining deeper understanding of the uses, impact and influence of language in becoming competent, confident and effective communicators. Deyi's AC3TIve Framework also provides impetus to our MIKEMON curriculum innovation project, by adding a fun twist on language acquisition where students engage in pen-it-down and mike-it-up tasks, to foster Joy of Learning across a range of subjects and topics. Complementing the ALP is our Learning for Life Programme which seeks to nurture gracious contributing citizens through our distinctive ARTS EDUCATION with our signature Dance & Drama-in-curriculum modules. As part of our Talent Development Programme, students with a deeper passion and aptitude in Music/Drama are further developed to receive accreditation from reputable international institutions and are eligible to pursue Drama at the O-Levels. Level Camps are part of our CCE programme that provides authentic experiences to acquire and practise school values, as well as develop physical, social and personal skills. Our YOUTH SOCIAL ENTREPRENEURSHIP is another exciting collaborative platform engaging students with social issues and problem-solving skills to help beneficiaries through hands-on community service projects. We believe that every student is a leader and our Student Leadership Development Programme aims to develop them into confident leaders who contribute actively. Along with learning journeys, field trips, experiential learning, and education and career guidance conducted in partnership with the institutes of higher learning, our students are prepared holistically."
+		"Special Student Development Programmes Offered": "Deyi's Applied Learning Programme (ALP) -ACTIVE VOICE BROADCAST JOURNALISM- introduces students to the basics of Broadcasting & Journalism, which strengthens language literacy, critical thinking and communication skills. The ALP covers Mass Communication & Media, ICT in Information Gathering, Writing & Presenting. Students will have a greater engagement with language learning, thus gaining a deeper understanding of the uses, impact and influence of language in becoming competent, confident and effective communicators. Deyi's AC3TIve Framework also provides impetus to our MIKEMON curriculum innovation project, by adding a fun twist on language acquisition with engagement in pen-it-down and mike-it-up tasks, to foster Joy of Learning across a range of subjects and topics. Complementing the ALP is our Learning for Life Programme which nurtures gracious contributing citizens through our distinctive ARTS EDUCATION with our signature Dance & Drama-in-curriculum modules. Through our Talent Development Programme, students with a deeper passion and aptitude in Music/Drama are further developed to receive accreditation from reputable international institutions and are eligible to pursue Drama O-Levels. Level Camps (NAVIGATION; SYNERGY; CONQUEST; PINNACLE) are part of our CCE programme that provides authentic experiences to acquire and practise school values, and develop physical, social and personal skills. Our YOUTH SOCIAL ENTREPRENEURSHIP is another exciting collaborative platform engaging students with social issues and problem-solving skills to help beneficiaries through hands-on community service projects. We believe that every student is a leader and our Student Leadership Development Programme develops them into confident leaders who contribute actively. Along with learning journeys, field trips, experiential learning, and education & career guidance conducted in partnership with the institutes of higher learning, our students are prepared holistically for the future."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
 				{
 					"year": "2016",
 					"category": "Basketball",
@@ -141,36 +118,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Display / Marching",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category B",
@@ -259,21 +206,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "NCC (Land Boys)",
 					"award": "Silver"
@@ -322,30 +254,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 212,
-			"upper": 239,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 160,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 104,
-			"upper": 150,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -415,6 +323,30 @@
 			"programme": "Normal Technical",
 			"lower": 121,
 			"upper": 158,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 215,
+			"upper": 230,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 170,
+			"upper": 195,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 131,
+			"upper": 156,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

@@ -95,10 +95,8 @@
 			"Hip-Hop"
 		],
 		"Clubs & Societies": [
-			"Green Club",
 			"It / Media Club",
-			"Ldds - English",
-			"Strategic Games Club"
+			"Ldds - English"
 		]
 	},
 	"SpecialProgrammes": {
@@ -109,7 +107,7 @@
 			"Languages & Humanities": "Developing Confident & Competent Communicators through Oracy Skills Programme",
 			"Music & Performing Arts": "Performing Arts : “iACE@Juying” ( I Appreciate, I Create, I Exhibit at Juying)"
 		},
-		"Special Student Development Programmes Offered": "Applied Learning Programme (ALP): Develops students to be competent and confident communicators. Students undergo a series of oracy programmes from Sec 1 to Sec 3 such as storytelling (Sec 1), drama (Sec 2) and debate (Sec 3). A Speaker's Corner, set up in the canteen, provides an additional platform to encourage students to confidently address their fellow schoolmates during recess on issues they are concerned about."
+		"Special Student Development Programmes Offered": "Applied Learning Programme (ALP) in Oracy: Develops students to be competent and confident communicators. Students undergo a tiered oracy programme from Tier 1 for all classes (Stand & Deliver), Tier 2 (TED-Talks) to Tier 2+ (Talent development in journalistic skills such as roving reporters and student emcees). A Speakers' Corner, a podium set up on a stage in the canteen, allows students to confidently address their schoolmates on various issues."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -410,7 +408,8 @@
 					"Ncc (Sea)": "Silver",
 					"Ncdcc": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -631,6 +630,23 @@
 			],
 			"Normal Technical": [
 				"115",
+				"158",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"195",
+				"253",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"156",
+				"194",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"133",
 				"158",
 				"None-posted"
 			]

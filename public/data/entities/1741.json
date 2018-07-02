@@ -60,7 +60,6 @@
 	"Cca": {
 		"Physical Sports": [
 			"Athletics",
-			"Basketball",
 			"Football",
 			"Netball",
 			"Rope Skipping",
@@ -77,9 +76,8 @@
 			"Malay Dance"
 		],
 		"Clubs & Societies": [
-			"Environment Club",
-			"Infocom Club (It Media)",
-			"Infocom Club (Robotics)"
+			"Environmental Club",
+			"Infocom Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -91,76 +89,6 @@
 	"AchievementHistory": {
 		"Primary": {
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "4th"
-				},
 				{
 					"year": "2015",
 					"category": "Football",
@@ -444,31 +372,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2015",
 					"category": "Choir",
 					"award": "Accomplishment"
@@ -551,11 +454,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Brownies (Pack 1)",
-					"award": "Bronze"
-				},
-				{
 					"year": "2015",
 					"category": "Scout",
 					"award": "Bronze"
@@ -584,8 +482,8 @@
 		1.3484672
 	],
 	"svy21": [
-		12645.73,
-		36732.67
+		12645.69,
+		36732.6
 	],
 	"planningArea": "JW",
 	"neighbours": [
@@ -601,25 +499,10 @@
 	],
 	"studentCare": true,
 	"p1Registration": {
-		"Total Vacancy": 150,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 110,
-		"No. of Applicants in Phase 1": 69,
-		"Places taken up to Phase 1": 69,
-		"Vacancy for Phase 2A1": 41,
-		"No. of Applicants in Phase 2A1": 0,
-		"Places taken up to Phase 2A1": 69,
-		"Vacancy for Phase 2A2": 41,
-		"No. of Applicants in Phase 2A2": 9,
-		"Places taken up to Phase 2A2": 78,
-		"Vacancy for Phase 2B": 36,
-		"No. of Applicants in Phase 2B": 0,
-		"Places taken up to Phase 2B": 77,
-		"Vacancy for Phase 2C": 73,
-		"No. of Applicants in Phase 2C": 62,
-		"Places taken up to Phase 2C": 139,
-		"Vacancy for Phase 2C Supplementary": 11,
-		"No. of Applicants in Phase 2C Supplementary": 20
+		"TOTAL VACANCY": 180,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 140,
+		"NO. OF APPLICANTS IN PHASE 1": 63
 	},
 	"id": "1741"
 }

@@ -21,7 +21,8 @@
 		"Principal": "Mr Vasuthevan S/o K Ramamurthy",
 		"Vice Principal": [
 			"Mr Wong Woen Long",
-			"Miss Wong Kah Wai Shirley"
+			"Miss Wong Kah Wai Shirley",
+			"Mr Ang Chern Kwang Kyris"
 		],
 		"School Vision": "A Dynamic Institution That Adds Value To All",
 		"School Mission": "To nurture Bukit Viewans to be creative, passionate and resilient learners who possess moral integrity and are responsible to self and society",
@@ -101,46 +102,8 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": "DA (Character Development)"
-			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category B",
@@ -234,26 +197,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
 					"year": "2015",
 					"category": "Boys' Brigade",
 					"award": "Silver"
@@ -318,30 +261,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 204,
-			"upper": 237,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 152,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 106,
-			"upper": 158,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 206,
@@ -402,6 +321,22 @@
 			"programme": "Normal Academic",
 			"lower": 156,
 			"upper": 195,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 205,
+			"upper": 247,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 158,
+			"upper": 199,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

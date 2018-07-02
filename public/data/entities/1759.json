@@ -23,6 +23,7 @@
 			"Mrs Chay Gek Noi",
 			"Mdm Lim Siew Cheng Cindy"
 		],
+		"Vice Principal (Admin)": "Mr Tan Thiam Siong",
 		"School Vision": "Every Child, A Winner",
 		"School Mission": "Preparing Our Children for Life, For Service to Nation and Humanity",
 		"School Philosophy, Culture and Ethos": [
@@ -69,10 +70,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"Development Award": "DA (Character Development)",
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"2015": {
 				"Development Award": "DA (Character Development)"
 			},
@@ -80,46 +77,6 @@
 				"Development Award": "DA (Character Development)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
 				{
 					"year": "2015",
 					"category": "Track & Field",
@@ -273,36 +230,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -395,11 +322,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Red Cross",
-					"award": "Silver"
-				},
-				{
 					"year": "2015",
 					"category": "Red Cross",
 					"award": "Silver"
@@ -423,8 +345,8 @@
 		1.4450436
 	],
 	"svy21": [
-		26631.99,
-		47411.17
+		26631.96,
+		47411.1
 	],
 	"planningArea": "SB",
 	"neighbours": [
@@ -439,25 +361,10 @@
 	],
 	"studentCare": true,
 	"p1Registration": {
-		"Total Vacancy": 180,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 140,
-		"No. of Applicants in Phase 1": 55,
-		"Places taken up to Phase 1": 55,
-		"Vacancy for Phase 2A1": 85,
-		"No. of Applicants in Phase 2A1": 0,
-		"Places taken up to Phase 2A1": 54,
-		"Vacancy for Phase 2A2": 86,
-		"No. of Applicants in Phase 2A2": 4,
-		"Places taken up to Phase 2A2": 58,
-		"Vacancy for Phase 2B": 61,
-		"No. of Applicants in Phase 2B": 0,
-		"Places taken up to Phase 2B": 56,
-		"Vacancy for Phase 2C": 124,
-		"No. of Applicants in Phase 2C": 72,
-		"Places taken up to Phase 2C": 128,
-		"Vacancy for Phase 2C Supplementary": 52,
-		"No. of Applicants in Phase 2C Supplementary": 16
+		"TOTAL VACANCY": 210,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 170,
+		"NO. OF APPLICANTS IN PHASE 1": 69
 	},
 	"id": "1759"
 }

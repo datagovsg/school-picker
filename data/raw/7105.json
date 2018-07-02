@@ -14,7 +14,7 @@
 	],
 	"email": "cchys@moe.edu.sg",
 	"mrt": "KHATIB MRT",
-	"bus": "85 , 811 , 812 , 851 , 852 , 853 , 854 , 855 , 858 , 965 , 969 ",
+	"bus": "85 , 811 , 812 , 851 , 852 , 853 , 854 , 855 , 858 , 860 , 965 , 969 ",
 	"GeneralInformation": {
 		"Principal": "MR YAP THIAM CHUAN",
 		"Vice Principal": [
@@ -58,8 +58,10 @@
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
-		"HIGHER MALAY",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MALAY B",
@@ -67,10 +69,10 @@
 		"MATHEMATICS",
 		"MATHEMATICS (SYLLABUS A)",
 		"MATHEMATICS (SYLLABUS T)",
-		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF A/C",
+		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, BIO)",
@@ -89,16 +91,17 @@
 		"Uniformed Groups": [
 			"Ncc (Air)",
 			"Npcc",
-			"Scouts",
+			"Peregrine Scouts Group",
 			"St John Brigade"
 		],
 		"Visual and Performing Arts": [
 			"Band - Symphonic",
-			"Chinese Drama",
 			"Choir",
 			"Dance - Chinese",
 			"Dance - International",
+			"Drama Club",
 			"Festival Drums",
+			"Guzheng Ensemble",
 			"Orchestra - Chinese"
 		],
 		"Clubs & Societies": [
@@ -904,7 +907,8 @@
 					"Scout (Unit 1)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1126,6 +1130,23 @@
 			"Normal Technical": [
 				"139",
 				"159",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"238",
+				"269",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"185",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"139",
+				"158",
 				"None-posted"
 			]
 		}

@@ -14,7 +14,7 @@
 	],
 	"email": "waterway_ps@moe.edu.sg",
 	"mrt": "Kadaloor LRT Station",
-	"bus": "50",
+	"bus": "50 , 381 ",
 	"GeneralInformation": {
 		"Principal": "MRS WEE KWAN LIAM",
 		"Vice Principal": "MR HOY KIN CHUNG EDWIN",
@@ -39,7 +39,19 @@
 		"PHYSICAL EDUCATION",
 		"SOCIAL STUDIES"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Football"
+		],
+		"Visual and Performing Arts": [
+			"Band - Brass",
+			"Dance - International"
+		],
+		"Clubs & Societies": [
+			"Robotics Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -63,7 +75,8 @@
 			"2014": {},
 			"2015": {},
 			"2016": {},
-			"2017": {}
+			"2017": {},
+			"2018": {}
 		}
 	},
 	"postalCode": "828802"

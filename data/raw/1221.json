@@ -47,7 +47,11 @@
 		"SOCIAL STUDIES",
 		"TAMIL"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Basketball"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -918,7 +922,8 @@
 					"Brownies (Pack 1)": "Bronze",
 					"Scout": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "158901"

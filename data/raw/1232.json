@@ -73,7 +73,6 @@
 			"Gamelan"
 		],
 		"Clubs & Societies": [
-			"Chess Club",
 			"Cool Science Club",
 			"Robotics Club"
 		]
@@ -808,7 +807,8 @@
 					"Ensemble - Gamelan": "Accomplishment",
 					"Ensemble - Handbell / Handchime": "Accomplishment"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "659243"

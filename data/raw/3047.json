@@ -18,7 +18,7 @@
 	"GeneralInformation": {
 		"Principal": "MRS TAN JONG LEK",
 		"Vice Principal": [
-			"MRS THAI MOK JEE",
+			"MDM TAN MOK JEE",
 			"MDM LINDA YEO SOCK KHOON"
 		],
 		"School Vision": "A school of excellence that nurtures world-ready Bicultural Scholars who embrace tradition and are champions of society.",
@@ -35,14 +35,15 @@
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
+		"DESIGN & TECHNOLOGY",
 		"ENGLISH LANGUAGE",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER ART",
 		"HIGHER CHINESE",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
 		"LITERATURE IN CHINESE",
 		"LITERATURE(E)",
 		"MALAY (SPECIAL PROGRAMME)",
@@ -51,7 +52,42 @@
 		"PHYSICAL EDUCATION",
 		"PHYSICS"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Athletics",
+			"Badminton",
+			"Basketball (Boys)",
+			"Football (Boys)",
+			"Netball (Girls)",
+			"Softball (Girls)",
+			"Table Tennis",
+			"Volleyball (Boys)"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Girl Guides",
+			"Ncc (Land)",
+			"Npcc",
+			"St. John Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Art And Design Club",
+			"Calligraphy Club",
+			"Chinese Drama Society",
+			"Chinese Orchestra",
+			"Choir",
+			"Dance Society",
+			"English Drama & Debating Club",
+			"Guzheng Ensemble",
+			"Harp Ensemble",
+			"Symphonic Band"
+		],
+		"Clubs & Societies": [
+			"Infocomm Club",
+			"Innovation Club",
+			"Service Learning Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"SAP"
@@ -1277,7 +1313,8 @@
 					"Npcc (Land)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1384,6 +1421,13 @@
 			"Express": [
 				"243",
 				"271",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"243",
+				"265",
 				"None-posted"
 			]
 		}

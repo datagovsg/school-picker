@@ -1084,7 +1084,8 @@
 					"Npcc (Land)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1345,6 +1346,26 @@
 				"159",
 				"136",
 				"152"
+			]
+		},
+		"2018": {
+			"Express": [
+				"232",
+				"254",
+				"200",
+				"257"
+			],
+			"Normal Academic": [
+				"194",
+				"199",
+				"152",
+				"199"
+			],
+			"Normal Technical": [
+				"125",
+				"157",
+				"108",
+				"150"
 			]
 		}
 	},

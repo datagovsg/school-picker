@@ -24,7 +24,7 @@
 		"Vice Principal (Admin)": "Mdm Justine Tan",
 		"School Vision": "Bringing out the Best in our People: Social Innovators, Passionate Learners",
 		"School Mission": "Nurturing Leaders of Character",
-		"School Philosophy, Culture and Ethos": "With the belief that every Cedarian can become a confident and active citizen, Cedar Girls is committed to providing a high quality all-round education. Beside a well-established 4-year O-Level programme, Cedar Girls also offers the Integrated Programme (IP) under the Victoria-Cedar Alliance (VCA). Our IP students will complete 4 years of secondary education in Cedar Girls before advancing to Victoria Junior College for the A-level curriculum. The VCA IP offers a seamless 6-year programme to students who enjoy independent study and exploratory work. They will have the opportunities to heighten their interest and passion through a challenging and enriched curriculum. In our mission to develop Leaders of Character, we have a comprehensive Character, Citizenship and Leadership Development Programme which inculcates the values, attributes and competencies desired of Cedarians in their journey through life. Cedar Girls has received recognition in both the academic and co-curricular domains for its consistent performance and good teaching and learning processes. Graduating students each year have attributed their resilience to take on challenges, confidence in striking out and motivation to always give of their best to the developmental programmes offered by the school.",
+		"School Philosophy, Culture and Ethos": "With the belief that every Cedarian can become a confident and active citizen, Cedar is committed to providing a high quality all-round education. Beside a well-established 4-year O-Level programme, Cedar also offers the Integrated Programme (IP) under the Victoria-Cedar Alliance (VCA). Our IP students will complete 4 years of secondary education in Cedar before advancing to Victoria Junior College for the A-level curriculum. The VCA IP offers a seamless 6-year programme to students who enjoy independent study and exploratory work. They will have the opportunities to heighten their interest and passion through a challenging and enriched curriculum. In our mission to develop Leaders of Character, we have a comprehensive Character, Citizenship and Leadership Development Programme which inculcates the values, attributes and competencies desired of Cedarians in their journey through life. Cedar has received recognition in both the academic and co-curricular domains for its consistent performance and good teaching and learning processes. Graduating students each year have attributed their resilience to take on challenges, confidence in striking out and motivation to always give of their best to the developmental programmes offered by the school.",
 		"Type of School": "Government School / Girls' School / Single Session",
 		"IP Partner Schools": [
 			"Victoria School",
@@ -89,6 +89,7 @@
 		],
 		"Clubs & Societies": [
 			"Eldds (Debate & Advocacy)",
+			"Environmental Club",
 			"Infocomm Club",
 			"Ldds - Chinese",
 			"Ldds - Indian",
@@ -103,11 +104,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"School Distinction Awards": "SDA",
-				"Development Award": "DA (National Education)",
-				"Outstanding Development Award": "ODA (Character Development)"
-			},
 			"2015": {
 				"School Distinction Awards": "SDA",
 				"Development Award": "DA (National Education)",
@@ -120,126 +116,6 @@
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Cross Country",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Cross Country",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
 				{
 					"year": "2015",
 					"category": "Badminton",
@@ -593,51 +469,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Band - Concert",
 					"award": "Distinction"
@@ -785,31 +616,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 2)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Girls)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Girl Guides (Coy 1)",
 					"award": "Gold"
@@ -889,22 +695,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Integrated Programme",
-			"lower": 251,
-			"upper": 265,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "'O' Level Programme",
-			"lower": 249,
-			"upper": 265,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Integrated Programme",
 			"lower": 252,
@@ -949,6 +739,22 @@
 			"programme": "'O' Level Programme",
 			"lower": 250,
 			"upper": 271,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Integrated Programme",
+			"lower": 254,
+			"upper": 271,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "'O' Level Programme",
+			"lower": 249,
+			"upper": 265,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

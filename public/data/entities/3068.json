@@ -26,7 +26,7 @@
 		],
 		"School Vision": "A Values-Centred Community where Learning is ignited by Passion, Thinking driven by Innovation and Leading inspired by Service",
 		"School Mission": "To engage the hearts and minds of students to develop them to their full potential enabling them to fulfill their aspirations and contribute as active citizens in society",
-		"School Philosophy, Culture and Ethos": "In our school, we place a premium on the holistic development of students. This is anchored in our strong belief that both academic excellence and character development are pillars of a holistic education. The school's strong academic and CCA achievements, particularly in the Uniformed Groups, Sports as well as Performing Arts, are testimony to the school's commitment to enable each student to reach his/her full potential. The Jurong West (JW) Experience, grounded in Student-Centricity, is premised in our belief that when students have an interest and find enjoyment in what they do, they will do well and find greater motivation to pursue those interests beyond secondary school. As a future-oriented and forward looking school, our distinctive LLP and ALP are designed with the future and national initiatives such as smart nation in mind. The school offers a wide range of exciting opportunities in both the academic and co-curricular areas through programmes such as Student Work Attachment, Student Leadership, Overseas Student Exchange and Talent Development in English, Mathematics, Science, Art and Sports. The school also offers the Enhanced Art Programme and subjects such as Exercise and Sports Science as well as Computing. The JW experience aims to nurture passionate learners, innovative thinkers and caring leaders whilst equipping students with desired knowledge, skills, values and mind-sets to experience success not just in the present but also in the future.",
+		"School Philosophy, Culture and Ethos": "In our school, we place a premium on the holistic development of students. This is anchored in our strong belief that both academic excellence and character development are pillars of a holistic education. The school's strong academic performance and CCA achievements, particularly in the Uniformed Groups, Sports as well as Performing Arts, are testimony to the school's commitment to enable each student to reach his/her full potential. The Jurong West (JW) Experience, grounded in Student-Centricity, is premised in our belief that when students have an interest and find enjoyment in what they do, they will do well and find greater motivation to pursue those interests beyond secondary school. As a future-oriented and forward looking school, our distinctive LLP and ALP are designed with the future and national initiatives such as smart nation in mind. The school offers a wide range of exciting opportunities in both the academic and co-curricular areas through programmes such as Student Work Attachment, Student Leadership, Overseas Student Exchange and Talent Development in English, Mathematics, Science, Art and Sports. The school also offers the Enhanced Art Programme and subjects such as Exercise and Sports Science as well as Computing. The JW experience aims to nurture passionate learners, innovative thinkers and caring leaders whilst equipping students with desired knowledge, skills, values and mind-sets to experience success not just in the present but also in the future.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -113,16 +113,10 @@
 			"Aesthetics": "Harnessing Technology, Communication and the Visual Arts in Authentic Contexts",
 			"Community & Youth Leadership": "Developing Character, Leadership and Citizenship"
 		},
-		"Special Student Development Programmes Offered": "Enhanced Art Programme(EAP)-Provides opportunities for talented Art students to develop their talent at higher levels; Learning for Life Programme(LLP)-Community and Youth Leadership that focuses on equipping students with values and life skills by initiating and leading community projects; Applied Learning Programme(ALP)-Equips students with ICT, communication and design skills to solve real life issues; Student Work Attachment Programme(SWAP)-Provides exposure to the world of work and an understanding of the type of knowledge and skills needed for different industries; Student Leadership Programme; Talent Development Programme (English, Mathematics, Science, Art and Sports)-To deepen students' learning and stretch thinking in the disciplines; Shanghai-Singapore Overseas Student Exchange Programme; Japan-Singapore Overseas Student Exchange Programme; Member of Parliament Attachment Programme."
+		"Special Student Development Programmes Offered": "Talent Development Programme (English, Mathematics, Science, Art and Sports) - To further develop talent and passion in various disciplines; "
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				]
-			},
 			"2015": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -219,21 +213,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
@@ -280,31 +259,6 @@
 				}
 			],
 			"Best Unit Award": [
-				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCDCC",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
 				{
 					"year": "2015",
 					"category": "Boys' Brigade",
@@ -385,30 +339,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 199,
-			"upper": 229,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 156,
-			"upper": 198,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 128,
-			"upper": 155,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 194,
@@ -476,6 +406,30 @@
 			"year": "2017",
 			"programme": "Normal Technical",
 			"lower": 136,
+			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 199,
+			"upper": 247,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 163,
+			"upper": 197,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 131,
 			"upper": 159,
 			"lowerAffiliated": null,
 			"upperAffiliated": null

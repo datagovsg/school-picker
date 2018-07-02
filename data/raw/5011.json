@@ -50,7 +50,28 @@
 		"SCIENCE",
 		"TAMIL"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Bowling",
+			"Netball",
+			"Skipping",
+			"Taekwondo",
+			"Tennis (School Team)",
+			"Tennis Recreation",
+			"Track & Field"
+		],
+		"Uniformed Groups": [
+			"Brownies"
+		],
+		"Visual and Performing Arts": [
+			"Artisque Club",
+			"Chinese Dance Syf",
+			"Choir"
+		],
+		"Clubs & Societies": [
+			"Infocom & Photography Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -993,7 +1014,8 @@
 					"Dance - Chinese": "Accomplishment",
 					"Dance - International": "Accomplishment"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "469701"

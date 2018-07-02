@@ -35,9 +35,6 @@
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"COMPUTING",
 		"DESIGN & TECHNOLOGY",
@@ -48,6 +45,8 @@
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
 		"IPW",
 		"LITERATURE(E)",
 		"MALAY",
@@ -55,10 +54,11 @@
 		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
-		"PRINCIPLES OF A/C",
+		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
+		"SMART ELECTRICAL TECHNOLOGY",
 		"SOCIAL STUDIES"
 	],
 	"Cca": {
@@ -66,15 +66,14 @@
 			"Badminton",
 			"Basketball",
 			"Outdoor Adventure Club",
-			"Table Tennis",
-			"Volleyball",
+			"Volleyball (Girls)",
 			"Wushu"
 		],
 		"Uniformed Groups": [
 			"Girl Guides",
-			"Ncc (Land)",
+			"Ncc (Land) (Boys)",
 			"Npcc",
-			"Scouts"
+			"Scouts (Boys)"
 		],
 		"Visual and Performing Arts": [
 			"Arts And Innovation Club",
@@ -84,20 +83,19 @@
 			"English Drama",
 			"International Dance",
 			"Jam Band",
-			"Photography Club",
-			"String Ensemble"
+			"Media Club",
+			"Photography Club"
 		],
 		"Clubs & Societies": [
-			"Horticulture Club",
-			"International Chess",
-			"Multimedia And Infocomm Club"
+			"Infocomm And Robotics Club",
+			"International Chess"
 		]
 	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
 		],
-		"Special Student Development Programmes Offered": "Ngee Ann Secondary offers a plethora of learning experiences to develop our students to be global citizens of the future. To encourage self-directed learning, our school offers 1-to-1 computing where students bring a personal learning device for lessons. Our SPARKS Talent Development Programme stretches students with potential in Mathematics and Science. Students who have a flair for the English Language are challenged and developed through our Humanities (CHAMPS) Programme. As a school offering the Enhanced Art Programme, we develop in students a love for and mastery of art and design. Other unique student experiences offered by the school include learning about Social Etiquette & Fine Dining, Programming, Innovation & Entrepreneurship Training, and Traditional Chinese Medicine. Our students acquire leadership skills through Adventure Camps and Leadership Training Camps. Students also have opportunities to participate in overseas exchanges and cultural programmes for global exposure, as well as international competitions."
+		"Special Student Development Programmes Offered": "Ngee Ann Secondary offers a plethora of learning experiences to develop our students to be global citizens of the future. To encourage self-directed learning, our school offers 1-to-1 computing where students bring a personal learning device for lessons. Our SPARKS Talent Development Programme stretches students with potential in Mathematics and Science. Students who have a flair for the English Language are challenged and developed through our Humanities (CHAMPS) Programme. As a school offering the Enhanced Art Programme, we develop in students a love for and mastery of art and design. Our CODE@NAS develops students into computational thinkers and stretches those with a passion for coding. Other unique student experiences offered by the school include Maker Faire, Young Academy (NT students) and Career Awareness Days. Our students acquire leadership skills through Adventure Camps and Leadership Training Camps. Students also have opportunities to participate in overseas exchanges and cultural programmes for global exposure, as well as international competitions."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1336,7 +1334,8 @@
 					"Npcc (Land)": "Gold",
 					"Scout (Unit 1)": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1594,6 +1593,26 @@
 				"159",
 				"114",
 				"145"
+			]
+		},
+		"2018": {
+			"Express": [
+				"237",
+				"257",
+				"226",
+				"245"
+			],
+			"Normal Academic": [
+				"191",
+				"199",
+				"152",
+				"193"
+			],
+			"Normal Technical": [
+				"147",
+				"159",
+				"114",
+				"151"
 			]
 		}
 	},

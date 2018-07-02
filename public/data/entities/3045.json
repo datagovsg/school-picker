@@ -91,22 +91,10 @@
 		]
 	},
 	"SpecialProgrammes": {
-		"Special Student Development Programmes Offered": "Students participate in programmes aligned to the YTzen profile that are designed for their holistic development. These programmes teach character education while challenging our students cognitively and physically. Confident Leader: All students participate in the NYAA (Silver) Programme, learning different skill sets and nurturing attributes that ensure holistic development. They also undergo leadership training through the Student Leadership Development Programmes that involve level camps, expeditions and service learning projects. Selected Student Leaders have the opportunities to take part in the Aspiring and Empowering Leaders Programmes to further develop their leadership competencies. NT students develop life skills and vocational skills in the MY LIFE Programme. Active Citizens: Social-emotional competencies are taught through Process Drama and Values@Heart lessons. Classes also plan and carry out Service Learning projects and reflect on our nation's history as they participate in Heritage Trails designed by our teachers. Global Thinkers: The YTSS Cross-Cultural Learning Programmes expand our students' global outlook while developing their intercultural competencies through local and overseas exchange programmes and learning journey. The STAR Programmes also challenges our students cognitively through interesting research projects in collaboration with Institutes of Higher Learning, both local and overseas."
+		"Special Student Development Programmes Offered": "Students participate in programmes aligned to the YTzen profile that are designed for their holistic development. These programmes teach character education while challenging our students cognitively and physically. Confident Leader: All students participate in the NYAA (Silver) Programme, learning different skill sets and nurturing attributes that ensure holistic development. They also undergo leadership training through the Student Leadership Development Programmes that involve level camps, expeditions and service learning projects. Selected Student Leaders have the opportunities to take part in the Aspiring and Empowering Leaders Programmes to further develop their leadership competencies. NA and NT students develop life skills and vocational skills in the MY LIFE Programme. Active Citizens: Social-emotional competencies are taught through Process Drama and Values@Heart lessons. Classes also plan and carry out Service Learning projects and reflect on our nation's history as they participate in Heritage Trails designed by our teachers. Global Thinkers: The YTSS Cross-Cultural Learning Programmes expand our students' global outlook while developing their intercultural competencies through local and overseas exchange programmes and learning journey. The STAR Programmes also challenges our students cognitively through interesting research projects in collaboration with Institutes of Higher Learning, both local and overseas."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"School Distinction Awards": "SDA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Teaching and Learning)"
-				],
-				"Special Awards": "LHL Award for Innovation in the Normal Course",
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				]
-			},
 			"2015": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": [
@@ -128,96 +116,6 @@
 				"Special Awards": "LHL Award for Innovation in the Normal Course"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Shooting (Air Pistol)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Basketball",
@@ -441,26 +339,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Band - Concert",
 					"award": "Distinction"
@@ -522,31 +400,6 @@
 				}
 			],
 			"Best Unit Award": [
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
 				{
 					"year": "2015",
 					"category": "Boys' Brigade",
@@ -627,30 +480,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 236,
-			"upper": 257,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 185,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 141,
-			"upper": 158,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 236,
@@ -719,6 +548,30 @@
 			"programme": "Normal Technical",
 			"lower": 141,
 			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 235,
+			"upper": 261,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 186,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 144,
+			"upper": 157,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

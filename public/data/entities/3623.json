@@ -84,7 +84,6 @@
 			"Gamelan Ensemble",
 			"Guitar Ensemble",
 			"Malay Dance",
-			"Photography Club",
 			"Symphonic Band (Evg Winds)"
 		],
 		"Clubs & Societies": [
@@ -111,16 +110,6 @@
 		"Secondary": {
 			"Sports & Games Competition": [
 				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
 					"year": "2016",
 					"category": "Cross Country",
 					"subCategory": [
@@ -142,41 +131,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Gamelan",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category B",
@@ -275,26 +229,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NCDCC",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "NCC (Land Boys)",
 					"award": "Gold"
@@ -358,30 +292,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 224,
-			"upper": 258,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 180,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 143,
-			"upper": 158,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -450,6 +360,30 @@
 			"year": "2017",
 			"programme": "Normal Technical",
 			"lower": 139,
+			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 224,
+			"upper": 250,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 179,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 133,
 			"upper": 159,
 			"lowerAffiliated": null,
 			"upperAffiliated": null

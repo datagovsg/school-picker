@@ -25,7 +25,11 @@
 			"Mr Chan Weng Yew Marvin"
 		],
 		"Vice Principal (Admin)": "Mr Loh Yuh Por",
-		"School Vision": "The School of Tomorrow, Today",
+		"School Vision": [
+			"Learn with Passion",
+			"Serve with Compassion",
+			"Lead with Vision"
+		],
 		"School Mission": "Maximizing potential through the development of mind, body and soul",
 		"School Philosophy, Culture and Ethos": "Rosythians are grounded in the I-CARE values as we develop our strengths and competencies to be 'Ready to Serve'.   We aspire to Learn with Passion, Serve with Compassion and Lead with Vision.",
 		"Type of School": "Government School / Co-ed School / Single Session",
@@ -90,16 +94,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"School Distinction Awards": "SDA",
-				"Best Practice Awards": "BPA (Teaching and Learning)",
-				"Development Award": [
-					"DA (Character Development)",
-					"PARTNERS (Merit)"
-				],
-				"Outstanding Development Award": "ODA (National Education)",
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"2015": {
 				"School Distinction Awards": "SDA",
 				"Development Award": "DA (Character Development)",
@@ -112,86 +106,6 @@
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Badminton",
@@ -395,46 +309,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -562,11 +436,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Scout",
-					"award": "Silver"
-				},
-				{
 					"year": "2015",
 					"category": "Brownies (Pack 1)",
 					"award": "Bronze"
@@ -605,8 +474,8 @@
 		1.3729157
 	],
 	"svy21": [
-		32603.21,
-		39435.67
+		32603.17,
+		39435.6
 	],
 	"planningArea": "SG",
 	"neighbours": [
@@ -621,23 +490,10 @@
 	],
 	"studentCare": true,
 	"p1Registration": {
-		"Total Vacancy": 300,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 260,
-		"No. of Applicants in Phase 1": 144,
-		"Places taken up to Phase 1": 144,
-		"Vacancy for Phase 2A1": 116,
-		"No. of Applicants in Phase 2A1": 66,
-		"Places taken up to Phase 2A1": 208,
-		"Vacancy for Phase 2A2": 52,
-		"No. of Applicants in Phase 2A2": 42,
-		"Places taken up to Phase 2A2": 250,
-		"Vacancy for Phase 2B": 25,
-		"No. of Applicants in Phase 2B": 26,
-		"Places taken up to Phase 2B": 273,
-		"Vacancy for Phase 2C": 27,
-		"No. of Applicants in Phase 2C": 86,
-		"Places taken up to Phase 2C": 300
+		"TOTAL VACANCY": 300,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 260,
+		"NO. OF APPLICANTS IN PHASE 1": 159
 	},
 	"id": "1077"
 }

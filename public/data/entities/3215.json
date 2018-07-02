@@ -34,6 +34,7 @@
 		"Additional Mathematics",
 		"Art",
 		"Art Na Level",
+		"Art Nt Level",
 		"Art 'O' Level",
 		"Basic Chinese",
 		"Basic Malay",
@@ -42,7 +43,6 @@
 		"Chinese",
 		"Chinese B",
 		"Chinese N(A)",
-		"Co-curricular Activities",
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
 		"Combined Humanities (S,L)",
@@ -59,6 +59,7 @@
 		"Mathematics",
 		"Mathematics (Syllabus A)",
 		"Mathematics (Syllabus T)",
+		"Music",
 		"Oecie Business Studies",
 		"Physics",
 		"Principles Of Accounts",
@@ -107,12 +108,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				]
-			},
 			"2015": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -120,16 +115,6 @@
 				]
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Waterpolo",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
 				{
 					"year": "2015",
 					"category": "Waterpolo",
@@ -183,21 +168,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Commendation"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2015",
 					"category": "Dance - International",
 					"award": "Accomplishment"
@@ -229,21 +199,6 @@
 				}
 			],
 			"Best Unit Award": [
-				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
 				{
 					"year": "2015",
 					"category": "Girls' Brigade",
@@ -283,30 +238,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 253,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 153,
-			"upper": 195,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 103,
-			"upper": 151,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -375,6 +306,30 @@
 			"year": "2017",
 			"programme": "Normal Technical",
 			"lower": 104,
+			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 237,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 187,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 87,
 			"upper": 151,
 			"lowerAffiliated": null,
 			"upperAffiliated": null

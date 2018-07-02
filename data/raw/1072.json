@@ -62,7 +62,6 @@
 			"Chinese Dance",
 			"Chinese Orchestra",
 			"Choir",
-			"Indian Dance",
 			"Visual Arts"
 		],
 		"Clubs & Societies": [
@@ -982,7 +981,8 @@
 					"Girls' Brigade": "Gold",
 					"Scout": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "099840"

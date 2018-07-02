@@ -14,9 +14,10 @@
 	],
 	"email": "SHSS@MOE.EDU.SG",
 	"mrt": [
-		"Tampines MRT"
+		"Tampines MRT",
+		"Tampines West MRT"
 	],
-	"bus": "22 , 129 , 293 ",
+	"bus": "22 , 129 , 293 , 298 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Heng Sue Lin, Janice",
 		"Vice Principal": [
@@ -25,7 +26,7 @@
 		],
 		"School Vision": "An excellent institution recognised for bringing up pupils with a love for God, life and learning.",
 		"School Mission": "As an Anglican school, we are committed to providing through education a balanced development of mind, body and spirit for our pupils, nurturing God-fearing citizens for our nation.",
-		"School Philosophy, Culture and Ethos": "St Hilda's Secondary aims to equip students with the attributes and capabilities to be 'Critical & Inventive Thinkers, Reflective & Self-Directed Learners, Caring & Collaborative Contributors'; desired outcomes that are encapsulated in our Student Distinctive-Every Hildan a Leader, Confident,Caring and Disciplined.The achievement of these outcomes hinges on purposeful programme design and effective delivery via committed teachers,with a culture of care and excellence.The HILDAN experience includes level-specific programmes such as our Learning for Life and Applied Learning Programmes,SOLVE for Innovation, Drama Education Programme, Overseas Integrated Learning Journey and Outward Bound Singapore (OBS) Leadership Camp.Our comprehensive Educational & Career Guidance programme guides and prepares Hildans for Post-Secondary Education.Interested students may tap on our Cultural Immersion programmes with overseas partner schools. The Curriculum is customised to stretch and engage our students in various ways. This includes, STEP (Seeking To Engage students Purposefully) for Normal Technical students, special Normal Academic Programme and the Nellie Mitchell programme for selected Express students. Culture of Excellence: Excellence is a journey in maximising the potential of each student. Character excellence is nurtured collectively through formal Character & Citizenship Education lessons, Co-curricular Activities and Service Learning projects.Centred on the school's core values and desired social-emotional competencies,programmes are delivered via the 3E (Exposure, Experience, Extension) approach. Service Learning serves as a key platform to hone Hildans in leadership skills and develop in them empathy to serve the community they live in.",
+		"School Philosophy, Culture and Ethos": "St Hilda's Secondary aims to equip students with the attributes and capabilities to be 'Critical & Inventive Thinkers, Reflective & Self-Directed Learners, Caring & Collaborative Contributors'; desired outcomes that are encapsulated in our Student Distinctive - Every Hildan a Leader, Confident, Caring and Disciplined. The achievement of these outcomes hinges on purposeful programme design and effective delivery via committed teachers, with a culture of care and excellence. The HILDAN experience includes level-specific programmes such as our Learning for Life and Applied Learning Programmes, SOLVE for Innovation, Drama Education Programme, Overseas Integrated Learning Journey and Outward Bound Singapore (OBS) Leadership Camp. Our comprehensive Educational & Career Guidance programme guides and prepares Hildans for Post-Secondary Education. Students may tap on our Cultural Immersion programmes with overseas partner schools. The Curriculum is customised to stretch and engage our students in various ways. This includes, STEP (Seeking To Engage students Purposefully) for Normal Technical students, special Normal Academic Programme and the Nellie Mitchell programme for selected Express students. Culture of Excellence: Excellence is a journey in maximising the potential of each student. Character excellence is nurtured collectively through formal Character & Citizenship Education lessons, Co-curricular Activities and Service Learning projects. Centred on the school's core values and desired social-emotional competencies, programmes are delivered via the 3E (Exposure, Experience, Extension) approach. Service Learning serves as a key platform to hone Hildans in leadership skills and develop in them empathy to serve the community they live in.",
 		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
@@ -101,11 +102,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"School Distinction Awards": "SDA",
-				"Best Practice Awards": "BPA (Staff Well-Being)",
-				"Development Award": "DA (Character Development)"
-			},
 			"2015": {
 				"School Distinction Awards": "SDA",
 				"Development Award": "DA (Character Development)"
@@ -117,116 +113,6 @@
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
 				{
 					"year": "2015",
 					"category": "Netball",
@@ -480,36 +366,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -602,26 +458,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCDCC",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Boys' Brigade",
 					"award": "Gold"
@@ -685,30 +521,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 231,
-			"upper": 244,
-			"lowerAffiliated": 189,
-			"upperAffiliated": 246
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 169,
-			"upper": 199,
-			"lowerAffiliated": 152,
-			"upperAffiliated": 188
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 140,
-			"upper": 156,
-			"lowerAffiliated": 118,
-			"upperAffiliated": 151
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -780,6 +592,30 @@
 			"upper": 156,
 			"lowerAffiliated": 134,
 			"upperAffiliated": 151
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 221,
+			"upper": 233,
+			"lowerAffiliated": 188,
+			"upperAffiliated": 253
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 176,
+			"upper": 199,
+			"lowerAffiliated": 152,
+			"upperAffiliated": 186
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 118,
+			"upper": 157,
+			"lowerAffiliated": 121,
+			"upperAffiliated": 150
 		}
 	],
 	"postalCode": "528986",

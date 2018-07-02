@@ -21,9 +21,9 @@
 			"MR LEE KAH SIONG JIMMY",
 			"MR GOH KEE YONG @ GOH CHONG HENG"
 		],
-		"School Vision": "Inspiring Leaders, Active Contributors",
-		"School Mission": "To nurture responsible, innovative and concerned citizens in a caring and dynamic learning environment",
-		"School Philosophy, Culture and Ethos": "Learning, Leadership, Creativity, Critical Thinking Skills, Communication, Service, and Excellence are the core tenets of our approach to student holistic development in line with the school's Vision (Inspiring Leaders, Active Contributors). A wide range of in-class and out-of-class learning experiences are provided for students to develop, apply, and hone their skills. Learning is further supplemented by a range of co-curricular programmes including Character Education, a suite of CCAs, and community involvement. A strong Culture of Care provides students with a safe and supportive environment for optimal learning.",
+		"School Vision": "Leaders and Change-Makers",
+		"School Mission": "To nurture our learners to lead purposeful lives by guiding them to be morally upright, civic-minded, resilient, and future-ready",
+		"School Philosophy, Culture and Ethos": "We nurture our students to become Active Learners, Skilful Leaders of Self and Others, and to be Purposeful in Service.  As Active Learners, our students are self-directed, demonstrate love for learning, and are challenged to apply their learning. As Skilful Leaders, our students understand themselves better, develop influential leadership skills, learn to work collaboratively, and lead with a strong moral foundation. Through Purposeful Service, our students develop active citizenship by building strong communities in school and beyond, learning to serve others, leading in community service, and taking responsibility for the environment as global citizens. We believe that learners are best nurtured in a safe and caring environment, and we aspire for all our students to be Leaders and Change-Makers, adding value to society.  To provide a strong moral compass for our students, we develop in them the RESPIRE values (Respect, Responsibility, Integrity, Innovative Spirit, Resilience, and Empathy). We believe every child can learn and must be developed to the fullest potential.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -31,15 +31,9 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART",
-		"BASIC CHINESE",
-		"BASIC MALAY",
-		"BASIC TAMIL",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ENGLISH LANGUAGE",
@@ -48,16 +42,19 @@
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
 		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
-		"PRINCIPLES OF A/C",
+		"PRINCIPLES OF ACCOUNTS",
+		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
-		"SCIENCE (SYLL T)",
-		"SOCIAL STUDIES",
+		"SOCIAL STUDIES N(T)",
 		"TAMIL"
 	],
 	"Cca": {
@@ -77,13 +74,11 @@
 		"Visual and Performing Arts": [
 			"Art And Design Club",
 			"Chinese Dance",
-			"Concert Band, Sembwinds",
+			"Concert Band - Sembwinds",
 			"Malay Dance"
 		],
 		"Clubs & Societies": [
 			"Audio Visual Aids Club",
-			"Green Club",
-			"Health And Fitness Club",
 			"Mediacomm Club"
 		]
 	},
@@ -95,7 +90,7 @@
 			"Languages & Humanities": "Critical & Inventive Thinking (CIT) thru Media Literacy",
 			"Community & Youth Leadership": "Student Leadership (StL) and ViA"
 		},
-		"Special Student Development Programmes Offered": "The school's APPLIED LEARNING PROGRAMME (ALP) - CRITICAL AND INVENTIVE THINKING THROUGH MEDIA LITERACY, focuses on developing students' critical and inventive thinking (CIT) skills. Media literacy anchored in the history and geography curriculum seeks to develop students as critical consumers and producers of information. Through this distinctive programme, students develop the skills to analyse sources of information presented in different media types and acquire an array of media related skills that culminate in the presentation and production of media products such as video clips and infographics set in an authentic context. This programme is also supported by the English Language Department and the Craft and Technology Department.  The school's LEARNING FOR LIFE PROGRAMME (LLP) - DEVELOPING COMMUNITY LEADERS THROUGH VIA AND OUTDOOR EDUCATION, premised on values inculcation and service orientation, seeks to develop Community Leaders who are innovative, confident and caring. To achieve this, Values-in- Action Projects (ranging from service learning to social advocacy) at each level enable students to become change makers who lead and serve at school, community, national and regional levels. Outdoor Education (OE) offers students the opportunity to strengthen leadership development, resilience and ruggedness. Both VIA and OE collectively allow students to acquire and demonstrate the school values of excellence, commitment, integrity, teamwork and empathy."
+		"Special Student Development Programmes Offered": "Our ALP niche - Critical and Inventive Thinking through Media Literacy -  empowers students by developing their critical lens as responsible and active consumers and producers of information. Through authentic projects based in the community (Sec 1 Geographical Investigation, Sec 2 Community Concerns project, Sec 3 Social Documentary production), students develop thinking and collaborative skills, become confident communicators, and market ideas to authentic audiences, while gaining a deeper understanding of concepts through application. IT skills are developed through the elective coding programme, school-initiated PEARL project which facilitates access to independent & collaborative learning tools in ICT, and Micro-bits explorations in Science. In addition, Elective Modules and Advanced Elective Modules are mounted regularly for exploration of student talents. Our LLP niche encompasses Values in Action projects (teacher-facilitated at Lower Sec., student-initiated at Upper Sec.) which develop empathy and civic-consciousness, Outdoor Education programmes (Sec 1 Orienteering, Sec 2 Dragon boating, Sec 3 Adventure Camp) which develop resilience, and Leadership Development. The LLP strengthens student minds, bodies, and hearts, and develops in them strong direction to lead purposeful lives through meaningful and challenging pursuits. A wide range of CCAs and academic subjects are offered to cater to student abilities and interests, and classroom learning is complemented by abundant out-of-classroom learning experiences, expertly facilitated by our caring teachers."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -923,7 +918,8 @@
 					"Ncc (Sea Boys)": "Silver",
 					"Npcc (Land)": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1145,6 +1141,23 @@
 			"Normal Technical": [
 				"120",
 				"152",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"221",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"157",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"120",
+				"157",
 				"None-posted"
 			]
 		}

@@ -50,6 +50,7 @@
 		"Combined Humanities (S,L)",
 		"Computer Applications",
 		"Design & Technology",
+		"Drama",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
@@ -84,7 +85,7 @@
 		],
 		"Uniformed Groups": [
 			"Girl Guides",
-			"St. John Brigade"
+			"National Civil Defence Cadet Corps"
 		],
 		"Visual and Performing Arts": [
 			"Band - Concert",
@@ -106,7 +107,7 @@
 		]
 	},
 	"SpecialProgrammes": {
-		"Special Student Development Programmes Offered": "Performing Arts Education, which is delivered as part of the lower secondary curriculum for all students, aims to develop students with a good foundation in music and drama, as well as to promote an appreciation for the arts and aesthetics. Through this programme, students develop problem-solving abilities and thinking skills like analysing, synthesising and evaluating. This helps them identify, appreciate and deepen their understanding of the art forms of our different ethnic and other national communities. Different modes of assessment have been used to measure the level of cognitive and affective development in the subject. Various platforms, such as the Performing Arts Showcases and Arts Alive! Concerts, have also been organised for students to display their talents by performing to the school community and stakeholders."
+		"Special Student Development Programmes Offered": "Performing Arts Education, which is delivered as part of the lower secondary curriculum for all students, aims to develop students with a good foundation in music and drama, as well as to promote an appreciation for the arts and aesthetics. Through this programme, students develop problem-solving abilities and thinking skills like analysing, synthesising and evaluating. This helps them identify, appreciate and deepen their understanding of the art forms of our different ethnic and other national communities. Different modes of assessment have been used to measure the level of cognitive and affective development in the subjects. Various platforms, such as the Performing Arts Showcases and Arts Alive! Concerts, have also been organised for students to display their talents by performing to the school community and stakeholders."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -129,41 +130,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -277,11 +243,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Silver"
-				},
-				{
 					"year": "2015",
 					"category": "Girl Guides (Coy 1)",
 					"award": "Bronze"
@@ -310,30 +271,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 229,
-			"upper": 249,
-			"lowerAffiliated": 188,
-			"upperAffiliated": 247
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 163,
-			"upper": 198,
-			"lowerAffiliated": 154,
-			"upperAffiliated": 187
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 111,
-			"upper": 159,
-			"lowerAffiliated": 122,
-			"upperAffiliated": 151
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -405,6 +342,30 @@
 			"upper": 156,
 			"lowerAffiliated": 130,
 			"upperAffiliated": 150
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 223,
+			"upper": 240,
+			"lowerAffiliated": 188,
+			"upperAffiliated": 248
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 162,
+			"upper": 196,
+			"lowerAffiliated": 153,
+			"upperAffiliated": 190
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 122,
+			"upper": 148,
+			"lowerAffiliated": 118,
+			"upperAffiliated": 154
 		}
 	],
 	"postalCode": "469700",

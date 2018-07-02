@@ -94,7 +94,66 @@
 		"Nus-a*star-vjc Science Research (Phy)",
 		"Smu Game Theory"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Cricket",
+			"Cross Country",
+			"Floorball",
+			"Hockey",
+			"Netball",
+			"Rockclimbing",
+			"Sailing",
+			"Soccer",
+			"Softball",
+			"Swimming",
+			"Table Tennis",
+			"Taekwondo",
+			"Tennis",
+			"Track & Field",
+			"Volleyball",
+			"Wushu"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Chinese Orchestra",
+			"Choir",
+			"Dance Club",
+			"Drama",
+			"Guitar Ensemble",
+			"Harmonica Band",
+			"Photographic Society",
+			"Photography Society",
+			"Piano Ensemble",
+			"String Ensemble",
+			"Symphonic Band"
+		],
+		"Clubs & Societies": [
+			"Astronomy Club",
+			"Bizclub",
+			"Chinese Society",
+			"Debates",
+			"Earth Watch",
+			"First Aid Club",
+			"Horticultural Society",
+			"Iglobe",
+			"Indian Cultural Society",
+			"Interact Club",
+			"Japanese Club",
+			"Library Council",
+			"Malay Cultural Society",
+			"Mathematics Society",
+			"Medical Society",
+			"Outdoor Activities Club",
+			"Pa Crew",
+			"Robotics Club",
+			"Singapore Youth Flying Club",
+			"Strategic Games Club",
+			"Students' Council",
+			"Writers' Circle"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Integrated Programme",
@@ -104,19 +163,6 @@
 	},
 	"AchievementHistory": {
 		"Junior College": {
-			"2014": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Outstanding Development Award": [
-					"ODA (Character Development)",
-					"ODA (National Education)"
-				],
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"2015": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [
@@ -148,176 +194,6 @@
 				]
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Cricket",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Cross Country",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Cross Country",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Golf",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
 				{
 					"year": "2015",
 					"category": "Cricket",
@@ -821,61 +697,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category C",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Commendation"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Harmonica",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category C",
 					"award": "Recognition(Sm)"
@@ -1041,24 +862,6 @@
 	},
 	"L1R5History": [
 		{
-			"year": "2014",
-			"programme": "Arts",
-			"lower": 2,
-			"upper": 6
-		},
-		{
-			"year": "2014",
-			"programme": "Science/IB",
-			"lower": 2,
-			"upper": 5
-		},
-		{
-			"year": "2014",
-			"programme": "Commerce",
-			"lower": null,
-			"upper": null
-		},
-		{
 			"year": "2015",
 			"programme": "Arts",
 			"lower": 2,
@@ -1108,6 +911,24 @@
 		},
 		{
 			"year": "2017",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2018",
+			"programme": "Arts",
+			"lower": 2,
+			"upper": 8
+		},
+		{
+			"year": "2018",
+			"programme": "Science/IB",
+			"lower": 2,
+			"upper": 6
+		},
+		{
+			"year": "2018",
 			"programme": "Commerce",
 			"lower": null,
 			"upper": null

@@ -75,20 +75,7 @@
 	},
 	"AchievementHistory": {
 		"Junior College": {
-			"2014": {
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
 				{
 					"year": "2015",
 					"category": "Softball",
@@ -111,41 +98,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -261,24 +213,6 @@
 		}
 	},
 	"L1R5History": [
-		{
-			"year": "2014",
-			"programme": "Arts",
-			"lower": 8,
-			"upper": 13
-		},
-		{
-			"year": "2014",
-			"programme": "Science/IB",
-			"lower": 8,
-			"upper": 13
-		},
-		{
-			"year": "2014",
-			"programme": "Commerce",
-			"lower": null,
-			"upper": null
-		},
 		{
 			"year": "2015",
 			"programme": "Arts",

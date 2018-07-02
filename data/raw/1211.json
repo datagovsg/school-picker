@@ -18,6 +18,7 @@
 	"GeneralInformation": {
 		"Principal": "MRS SARA DE SOUZA",
 		"Vice Principal": "MR JAMES PEH CHIN HENG",
+		"Vice Principal (Admin)": "MR TAN MENG KHIANG",
 		"School Vision": "Every Cedarian a Lifelong Learner, a Person of Character",
 		"School Mission": "Nurturing Enthusiastic Learners and Responsible Citizens",
 		"School Philosophy, Culture and Ethos": [
@@ -55,7 +56,16 @@
 		"SOCIAL STUDIES",
 		"TAMIL"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Adventure Club",
+			"Football"
+		],
+		"Visual and Performing Arts": [
+			"Brass Band",
+			"Creative Dance"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -659,7 +669,8 @@
 					"Band-Brass": "Accomplishment",
 					"Dance - International": "Accomplishment"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "349700"

@@ -36,9 +36,8 @@
 		"Art",
 		"Chemistry",
 		"Chinese",
+		"Chinese B",
 		"Civics & Moral Education",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
 		"Computer Applications",
 		"Design & Technology",
 		"Electronics",
@@ -49,8 +48,12 @@
 		"Geography",
 		"Higher Chinese",
 		"History",
+		"Home Economics",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
 		"Literature(E)",
 		"Malay",
+		"Malay B",
 		"Mathematics",
 		"Music",
 		"Physical Education",
@@ -60,8 +63,10 @@
 		"Science (Chem, Bio)",
 		"Science (Phy, Chem)",
 		"Science (Syll T)",
+		"Smart Electrical Technology",
 		"Social Studies",
-		"Tamil"
+		"Tamil",
+		"Tamil B"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -88,6 +93,10 @@
 		],
 		"Clubs & Societies": [
 			"Infocomm Club"
+		],
+		"Others": [
+			"Student Leadership - The Prefectorial & Sports Leadership Board",
+			"The Students' Council"
 		]
 	},
 	"SpecialProgrammes": {
@@ -95,16 +104,10 @@
 			"Languages & Humanities": "Tanglin P.L.U.S. (Perspectives and Literacies to Understand Society)",
 			"Music & Performing Arts / Visual Arts & Design": "S4 THROUGH THE ARTS @ TANGLIN SECONDARY SCHOOL (TSS)"
 		},
-		"Special Student Development Programmes Offered": "The TSS curriculum is designed to provide students with rich learning opportunities to maximise their potential in the academic and co-curricular areas for future-readiness. Students can pursue subjects such as Electronics, Literature (English) and Art, on top of Pure Sciences and Additional Mathematics. Our Applied Learning Programme, Tanglin PLUS, is a distinctive programme which gives focus to the Humanities. It is aimed at developing students to become informed persons, critical thinkers, confident and effective communicators. Tanglin PLUS takes the learning of Geography, History and Social Studies beyond the classroom, enabling students to apply their knowledge and skills to real-life contexts such as in habitat enhancement programmes in the Singapore Botanic Gardens and community programmes that promote Singapore's unity and security. Tanglin PLUS complements the school's existing strengths in Mathematics, Science and Applied Subjects. For its Lifelong Learning Programme (LLP), TSS is proud to offer the Arts Programme, focusing on Music, Dance and Visual Arts. Students begin with a broad-based exposure to various musical, dance and visual art forms before opting for talent development electives to deepen their skills in show choir, dance, guitar or the visual arts. In collaboration with NAFA and NAC, the Arts Programme also provides students the exposure to the local arts scene and the career opportunities it has to offer. In TSS, it is always about growing leaders. Our customised four-year Student Leadership Development Programme ensures that students are equipped with the leadership skills and competencies so that they become compassionate leaders who are ready to serve society. The partnerships with National University of Singapore, Nanyang Technological University and Singapore Institute of Technology enable us to offer leadership mentoring programmes that inspire our students to set high goals for themselves and strive for excellence."
+		"Special Student Development Programmes Offered": "The TSS curriculum is designed to provide students with rich learning opportunities to maximise their potential in the academic and co-curricular areas for future-readiness. Students can pursue subjects such as Electronics, Smart Electrical Technology, Literature (English) and Art, on top of Pure Sciences and Additional Mathematics. Our Applied Learning Programme, Tanglin PLUS, where PLUS is an acronym for Perspectives and Literacies to Understand Society, aims to nurture students who possess effective communication and critical thinking skills, are innovative and civic-minded members of society. With these attributes, our students will be able to participate effectively in the 21st century learning and work environment that is increasingly marked by volatility, uncertainty, complexity and ambiguity. For its Lifelong Learning Programme (LLP), TSS is proud to offer the Arts Programme, focusing on Music, Dance and Visual Arts. Students begin with a broad-based exposure to various musical, dance and visual art forms before opting for talent development electives to deepen their skills in show choir, dance, guitar or the visual arts. In collaboration with NAFA and NAC, the Arts Programme also provides students the exposure to the local arts scene and the career opportunities it has to offer. In TSS, it is always about growing leaders. Our customised four-year Student Leadership Development Programme ensures that students are equipped with the leadership skills and competencies so that they become compassionate leaders who are ready to serve society. The partnerships with National University of Singapore, Nanyang Technological University and Singapore Institute of Technology enable us to offer leadership mentoring programmes that inspire our students to set high goals for themselves and strive for excellence."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": [
-					"DA (National Education)",
-					"PARTNERS (Merit)"
-				]
-			},
 			"2015": {
 				"Development Award": [
 					"DA (National Education)",
@@ -119,26 +122,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -201,26 +184,6 @@
 				}
 			],
 			"Best Unit Award": [
-				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
 				{
 					"year": "2015",
 					"category": "Boys' Brigade",
@@ -285,30 +248,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 253,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 152,
-			"upper": 186,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 102,
-			"upper": 150,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -378,6 +317,30 @@
 			"programme": "Normal Technical",
 			"lower": 110,
 			"upper": 153,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 254,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 187,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 99,
+			"upper": 156,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

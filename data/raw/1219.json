@@ -69,7 +69,6 @@
 			"Volleyball"
 		],
 		"Uniformed Groups": [
-			"Brownies",
 			"Red Cross",
 			"Scouts"
 		],
@@ -80,7 +79,6 @@
 			"Ensemble - String"
 		],
 		"Clubs & Societies": [
-			"Chinese Club",
 			"Infocomm Club"
 		]
 	},
@@ -906,7 +904,8 @@
 					"Scout": "Bronze",
 					"Red Cross": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "529393"

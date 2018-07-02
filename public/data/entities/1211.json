@@ -20,6 +20,7 @@
 	"GeneralInformation": {
 		"Principal": "Mrs Sara De Souza",
 		"Vice Principal": "Mr James Peh Chin Heng",
+		"Vice Principal (Admin)": "Mr Tan Meng Khiang",
 		"School Vision": "Every Cedarian a Lifelong Learner, a Person of Character",
 		"School Mission": "Nurturing Enthusiastic Learners and Responsible Citizens",
 		"School Philosophy, Culture and Ethos": [
@@ -57,7 +58,16 @@
 		"Social Studies",
 		"Tamil"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Adventure Club",
+			"Football"
+		],
+		"Visual and Performing Arts": [
+			"Brass Band",
+			"Creative Dance"
+		]
+	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Interdisciplinary": "Creative and Inventive Thinking (CIT) Programme",
@@ -67,12 +77,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				]
-			},
 			"2015": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -80,26 +84,6 @@
 				]
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Senior"
-					],
-					"award": "2nd"
-				},
 				{
 					"year": "2015",
 					"category": "Football",
@@ -142,21 +126,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Art - Category C",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -203,12 +172,12 @@
 	},
 	"postalCode": "349700",
 	"coordinates": [
-		103.8766681,
-		1.3355573
+		103.8756022,
+		1.3355872
 	],
 	"svy21": [
-		32824.39,
-		35304.77
+		32705.72,
+		35308
 	],
 	"planningArea": "TP",
 	"neighbours": [
@@ -223,26 +192,12 @@
 	"specialNeeds": [
 		"Mild SEN"
 	],
+	"studentCare": true,
 	"p1Registration": {
-		"Total Vacancy": 120,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 80,
-		"No. of Applicants in Phase 1": 34,
-		"Places taken up to Phase 1": 34,
-		"Vacancy for Phase 2A1": 46,
-		"No. of Applicants in Phase 2A1": 0,
-		"Places taken up to Phase 2A1": 34,
-		"Vacancy for Phase 2A2": 46,
-		"No. of Applicants in Phase 2A2": 9,
-		"Places taken up to Phase 2A2": 42,
-		"Vacancy for Phase 2B": 39,
-		"No. of Applicants in Phase 2B": 3,
-		"Places taken up to Phase 2B": 45,
-		"Vacancy for Phase 2C": 75,
-		"No. of Applicants in Phase 2C": 37,
-		"Places taken up to Phase 2C": 82,
-		"Vacancy for Phase 2C Supplementary": 38,
-		"No. of Applicants in Phase 2C Supplementary": 7
+		"TOTAL VACANCY": 180,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 140,
+		"NO. OF APPLICANTS IN PHASE 1": 45
 	},
 	"id": "1211"
 }

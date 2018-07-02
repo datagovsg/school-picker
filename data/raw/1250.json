@@ -58,7 +58,11 @@
 		"SOCIAL STUDIES",
 		"TAMIL"
 	],
-	"Cca": {},
+	"Cca": {
+		"Visual and Performing Arts": [
+			"Art Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -710,7 +714,8 @@
 					"Brownies (Pack 1)": "Bronze",
 					"Red Cross": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "737888"

@@ -39,7 +39,35 @@
 		"CO-CURRICULAR ACTIVITIES",
 		"MATHEMATICS"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Floorball",
+			"Football",
+			"Horse Management",
+			"Netball",
+			"Sepak Takraw",
+			"Silat",
+			"Table Tennis",
+			"Track & Field"
+		],
+		"Uniformed Groups": [
+			"Girl Guides",
+			"National Civil Defence Cadet Corps"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Dance Club"
+		],
+		"Clubs & Societies": [
+			"Entrepreneur Club",
+			"Gardening Club",
+			"It & Media Club",
+			"Ripples",
+			"Students' Council"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -335,7 +363,8 @@
 						"-"
 					]
 				]
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -351,7 +380,8 @@
 		"2014": {},
 		"2015": {},
 		"2016": {},
-		"2017": {}
+		"2017": {},
+		"2018": {}
 	},
 	"postalCode": "327830"
 }

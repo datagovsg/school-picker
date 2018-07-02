@@ -87,12 +87,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				]
-			},
 			"2015": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -106,16 +100,6 @@
 				]
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
 				{
 					"year": "2015",
 					"category": "Track & Field",
@@ -138,16 +122,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category A",
@@ -190,16 +164,6 @@
 				}
 			],
 			"Best Unit Award": [
-				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
 				{
 					"year": "2015",
 					"category": "Boys' Brigade",

@@ -16,7 +16,7 @@
 	"mrt": [
 		"Ang Mo Kio MRT"
 	],
-	"bus": "76 , 132 , 165 , 166 , 169 , 262 , 265 , 268 ",
+	"bus": "71 , 76 , 132 , 165 , 166 , 169 , 262 , 265 , 268 , 269 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Lee Eet Fong",
 		"Vice Principal": [
@@ -34,43 +34,38 @@
 	"SubjectOffered": [
 		"Additional Mathematics",
 		"Art",
-		"Basic Chinese",
-		"Basic Malay",
 		"Biology",
 		"Chemistry",
 		"Chinese",
 		"Chinese B",
-		"Chinese N(A)",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
-		"Combined Humanities (S,L)",
 		"Computer Applications",
 		"Design & Technology",
 		"Elements Of Business Skills",
 		"English Language",
-		"English Language (Syll A)",
-		"English Language (Syll T)",
 		"Food & Nutrition",
 		"Food And Consumer Education",
+		"Geography",
 		"Higher Chinese",
 		"Higher Malay",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In English)",
 		"Literature(E)",
 		"Malay",
-		"Malay N(A)",
 		"Mathematics",
-		"Mathematics (Syllabus A)",
-		"Mathematics (Syllabus T)",
+		"Mobile Robotics",
 		"Music",
 		"Physics",
 		"Principles Of Accounts",
 		"Science",
 		"Science (Chem, Bio)",
-		"Science (Phy, Chem)"
+		"Science (Phy, Chem)",
+		"Social Studies N(T)",
+		"Tamil"
 	],
 	"Cca": {
 		"Physical Sports": [
 			"Basketball",
-			"Cross Country",
 			"Football",
 			"Netball",
 			"Table Tennis",
@@ -79,7 +74,6 @@
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
-			"Girl Guides",
 			"Ncc (Land)",
 			"Npcc",
 			"Scouts"
@@ -89,7 +83,6 @@
 			"Chinese Ensembles",
 			"Choir",
 			"Dance - Chinese",
-			"Dance - Malay",
 			"Dance - Modern",
 			"Drama - English"
 		],
@@ -107,31 +100,11 @@
 			"Languages & Humanities": "Developing confidence and curiosity through effective communication",
 			"Music & Performing Arts": "Developing a zest for life through aesthetics"
 		},
-		"Special Student Development Programmes Offered": "Zest for Life: Every aspect of the Mayflower experience is designed to help students develop a strong sense of purpose and a deep love for learning, to attain their personal bests.  Being a school that offers Learning for Life Programme (LLP) in Aesthetics, students enjoy a rich performing arts experience.  The Applied Learning Programme (ALP) in Effective Communication helps our students grow in confidence as bilingual communicators, able to adapt their message to purpose, audience and context."
+		"Special Student Development Programmes Offered": "Zest for Life: Every aspect of the Mayflower experience is designed to help students develop a strong sense of purpose and a deep love for learning, to attain their personal bests.  Being a school that offers Learning for Life Programme (LLP) in Aesthetics, students enjoy a rich performing arts experience.  The Applied Learning Programme (ALP) in Effective Communication (English and Mother Tongue Languages) helps our students grow in confidence as bilingual communicators, able to adapt their message to purpose, audience and context."
 	},
 	"AchievementHistory": {
 		"Secondary": {
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
 				{
 					"year": "2015",
 					"category": "Table Tennis",
@@ -345,41 +318,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
@@ -492,31 +430,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Silver"
-				},
-				{
 					"year": "2015",
 					"category": "Boys' Brigade",
 					"award": "Bronze"
@@ -586,30 +499,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 221,
-			"upper": 252,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 152,
-			"upper": 196,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 112,
-			"upper": 156,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 223,
@@ -678,6 +567,30 @@
 			"programme": "Normal Technical",
 			"lower": 116,
 			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 219,
+			"upper": 254,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 177,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 124,
+			"upper": 158,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

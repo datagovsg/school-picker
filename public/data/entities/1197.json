@@ -62,7 +62,6 @@
 			"Dance - Chinese",
 			"Dance - Indian",
 			"Dance - Malay",
-			"Ensemble - Angklung/Kulintang",
 			"Ensemble - Guzheng"
 		],
 		"Clubs & Societies": [
@@ -80,76 +79,6 @@
 	"AchievementHistory": {
 		"Primary": {
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "1st"
-				},
 				{
 					"year": "2015",
 					"category": "Basketball",
@@ -373,36 +302,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Commendation"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category C",
 					"award": "Recognition(Sm)"
@@ -520,11 +419,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Scout",
-					"award": "Silver"
-				},
-				{
 					"year": "2015",
 					"category": "Scout",
 					"award": "Bronze"
@@ -553,8 +447,8 @@
 		1.3126209
 	],
 	"svy21": [
-		19512.07,
-		32768.67
+		19512.03,
+		32768.6
 	],
 	"planningArea": "CL",
 	"neighbours": [
@@ -568,23 +462,10 @@
 	],
 	"studentCare": true,
 	"p1Registration": {
-		"Total Vacancy": 240,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 200,
-		"No. of Applicants in Phase 1": 97,
-		"Places taken up to Phase 1": 97,
-		"Vacancy for Phase 2A1": 103,
-		"No. of Applicants in Phase 2A1": 0,
-		"Places taken up to Phase 2A1": 97,
-		"Vacancy for Phase 2A2": 103,
-		"No. of Applicants in Phase 2A2": 28,
-		"Places taken up to Phase 2A2": 125,
-		"Vacancy for Phase 2B": 58,
-		"No. of Applicants in Phase 2B": 8,
-		"Places taken up to Phase 2B": 131,
-		"Vacancy for Phase 2C": 109,
-		"No. of Applicants in Phase 2C": 122,
-		"Places taken up to Phase 2C": 240
+		"TOTAL VACANCY": 240,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 200,
+		"NO. OF APPLICANTS IN PHASE 1": 99
 	},
 	"id": "1197"
 }

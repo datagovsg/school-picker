@@ -38,6 +38,8 @@
 		"CHINESE B",
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
+		"COMPUTER APPLICATIONS",
+		"COMPUTING",
 		"DESIGN & TECHNOLOGY",
 		"ENGLISH LANGUAGE",
 		"FOOD & NUTRITION",
@@ -47,20 +49,21 @@
 		"HISTORY",
 		"LITERATURE(E)",
 		"MALAY",
-		"MALAY B",
 		"MATHEMATICS",
 		"MUSIC",
-		"OECIE DRAMA (GCEO)",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
+		"RETAIL OPERATIONS",
 		"SCIENCE",
 		"SCIENCE (CHEM, BIO)",
-		"SCIENCE (PHY, CHEM)"
+		"SCIENCE (PHY, CHEM)",
+		"TAMIL"
 	],
 	"Cca": {
 		"Physical Sports": [
 			"Basketball",
+			"Judo",
 			"Netball",
 			"Rugby",
 			"Table Tennis",
@@ -74,6 +77,7 @@
 			"St. John Brigade"
 		],
 		"Visual and Performing Arts": [
+			"Art And Craft Club",
 			"Band - Symphonic",
 			"Choir",
 			"Dance - Modern",
@@ -92,7 +96,7 @@
 			"Business & Entrepreneurship": "Nurturing Entrepreneurs through a vibrant Business & Entrepreneurship Development Programme",
 			"Community & Youth Leadership": "Nurturing Leaders with the heart to serve through a vibrant Community Leadership Programme"
 		},
-		"Special Student Development Programmes Offered": "The school offers the Applied Learning Programme (ALP) and Learning for Life Programme (LLP) with the aim of nurturing students to be entrepreneurs and community leaders with the heart to serve. This is in alignment with the school vision of developing 'Resilient Achievers and Responsible Citizens'. The ALP focusses on equipping students with essential skills and knowledge of business and entrepreneurship including ICT and Design Thinking tools and marketing and presentation skills through level wide programmes such as Elective Modules, Advance Elective Modules and Values in Action. The LLP aims to develop leadership skills progressively in all students; beginning with personal and community leadership and culminating in executive leadership. All students will acquire basic leadership competencies, social emotional skills and values to become community leaders.  The programme utilises carefully selected tools including 7 Habits of Effective Teens, National Youth Achievement Award, experiential outdoor learning and leadership profiling tools.  It will also leverage the current strength of the school in Uniformed Groups (UGs) to provide UG experiences for non-UG students.  In all, the school is committed to nurturing learners with skills and values to innovate and gracious citizens with the heart to serve."
+		"Special Student Development Programmes Offered": "The school offers the Applied Learning Programme (ALP) and Learning for Life Programme (LLP) which provide students with learning experiences beyond the formal instructional curriculum. The school's ALP, Broadcast Journalism, allows students to apply English Language skills from various genres in an authentic setting. All lower secondary students go through the programme where they hone their language skills as they engage in scripting, storyboarding and video-making. Students also acquire related ICT skills progressively. The programme promotes the use of the language skills to communicate and serve the community. Students also gain insights into possible careers in the fields of media and journalism. The LLP focusses on developing community leaders with the heart to serve through Uniformed Groups and leadership development programmes. It leverages on the strength of the school in Uniformed Groups (UGs) to provide UG experiences for non-UG students. It aims to develop leadership skills progressively in all students; beginning with personal and community leadership and culminating in executive leadership. All students will acquire basic leadership competencies, social emotional skills and values to become community leaders.  In all, the school is committed to nurturing resilient learners with skills and values for effective communication and gracious citizens with the heart to serve."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -746,7 +750,8 @@
 					"Scout (Unit 1)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -935,6 +940,18 @@
 			"Normal Academic": [
 				"153",
 				"191",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"208",
+				"246",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"157",
+				"187",
 				"None-posted"
 			]
 		}

@@ -64,6 +64,7 @@
 		"MATHEMATICS",
 		"MATHEMATICS (SYLLABUS A)",
 		"MATHEMATICS (SYLLABUS T)",
+		"MOBILE ROBOTICS",
 		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
@@ -935,7 +936,8 @@
 					"Scout (Unit 1)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1157,6 +1159,23 @@
 			"Normal Technical": [
 				"134",
 				"158",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"211",
+				"238",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"171",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"139",
+				"159",
 				"None-posted"
 			]
 		}

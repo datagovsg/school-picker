@@ -14,7 +14,7 @@ const vacancies = require('../../data/vacancies.json')
 let mrtStations = require('nearest-mrt/data/processed/mrt_stations.json').data
 mrtStations = Object.keys(mrtStations).map(name => name.replace(/ MRT STATION$/, ''))
 
-const filteredYears = ['2014', '2015', '2016', '2017']
+const filteredYears = ['2015', '2016', '2017', '2018']
 
 files.forEach(file => {
   try {

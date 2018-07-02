@@ -74,7 +74,6 @@
 			"Choir",
 			"Dance - Chinese",
 			"Dance - Malay",
-			"Idesign  & Visual Arts",
 			"Speech And Drama Club"
 		],
 		"Clubs & Societies": [
@@ -82,7 +81,7 @@
 			"Saving Gaia"
 		],
 		"Others": [
-			"Student Leadership"
+			"Student Council"
 		]
 	},
 	"SpecialProgrammes": {
@@ -774,7 +773,8 @@
 				"Best Unit Award": {
 					"Scout": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "688261"

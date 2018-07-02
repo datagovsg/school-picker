@@ -60,7 +60,11 @@
 		"Social Studies",
 		"Tamil"
 	],
-	"Cca": {},
+	"Cca": {
+		"Visual and Performing Arts": [
+			"Art Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Interdisciplinary": "Creative Problem Solving (CPS) Programme: CPS@IPS for the Holistic Development of a 21st Century Child in Innova Primary School",
@@ -70,9 +74,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"Development Award": "DA (Character Development)"
-			},
 			"2015": {
 				"Development Award": "DA (Character Development)"
 			},
@@ -83,86 +84,6 @@
 				"Development Award": "DA (Character Development)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Rope Skipping",
@@ -326,26 +247,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category C",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Harmonica",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -408,11 +309,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Red Cross",
-					"award": "Bronze"
-				},
-				{
 					"year": "2015",
 					"category": "Red Cross",
 					"award": "Silver"
@@ -441,8 +337,8 @@
 		1.4291843
 	],
 	"svy21": [
-		23242.79,
-		45657.57
+		23242.75,
+		45657.5
 	],
 	"planningArea": "WD",
 	"neighbours": [
@@ -455,23 +351,10 @@
 	],
 	"studentCare": true,
 	"p1Registration": {
-		"Total Vacancy": 210,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 170,
-		"No. of Applicants in Phase 1": 91,
-		"Places taken up to Phase 1": 91,
-		"Vacancy for Phase 2A1": 79,
-		"No. of Applicants in Phase 2A1": 0,
-		"Places taken up to Phase 2A1": 91,
-		"Vacancy for Phase 2A2": 79,
-		"No. of Applicants in Phase 2A2": 5,
-		"Places taken up to Phase 2A2": 96,
-		"Vacancy for Phase 2B": 57,
-		"No. of Applicants in Phase 2B": 27,
-		"Places taken up to Phase 2B": 122,
-		"Vacancy for Phase 2C": 88,
-		"No. of Applicants in Phase 2C": 99,
-		"Places taken up to Phase 2C": 210
+		"TOTAL VACANCY": 210,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 170,
+		"NO. OF APPLICANTS IN PHASE 1": 77
 	},
 	"id": "1250"
 }

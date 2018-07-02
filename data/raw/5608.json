@@ -48,8 +48,7 @@
 	"Cca": {
 		"Physical Sports": [
 			"Badminton",
-			"Basketball School Team",
-			"Table Tennis"
+			"Basketball School Team"
 		],
 		"Uniformed Groups": [
 			"Singapore Red Cross Society"
@@ -58,7 +57,6 @@
 			"Choir",
 			"Dance Ensemble",
 			"Ensemble - Angklung/Kulintang",
-			"Lion Dance Troupe",
 			"Orchestra - Chinese",
 			"Visual Arts Club"
 		],
@@ -803,7 +801,8 @@
 					"Red Cross": "Gold",
 					"Scout": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "319580"

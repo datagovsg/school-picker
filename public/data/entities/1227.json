@@ -62,51 +62,12 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Sports & Outdoor Education": "Empowerment through Sports Education"
-		}
+		},
+		"Special Student Development Programmes Offered": "The school believes that academic learning and character building are equally important in developing the whole child. "
 	},
 	"AchievementHistory": {
 		"Primary": {
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Floorball",
@@ -180,31 +141,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Dance - Chinese",
 					"award": "Accomplishment"
@@ -272,11 +208,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Scout",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Scout",
 					"award": "Gold"
@@ -300,8 +231,8 @@
 		1.4336803
 	],
 	"svy21": [
-		28510.71,
-		46154.67
+		28510.67,
+		46154.6
 	],
 	"planningArea": "YS",
 	"neighbours": [
@@ -319,25 +250,10 @@
 	],
 	"studentCare": true,
 	"p1Registration": {
-		"Total Vacancy": 180,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 140,
-		"No. of Applicants in Phase 1": 52,
-		"Places taken up to Phase 1": 52,
-		"Vacancy for Phase 2A1": 88,
-		"No. of Applicants in Phase 2A1": 0,
-		"Places taken up to Phase 2A1": 52,
-		"Vacancy for Phase 2A2": 88,
-		"No. of Applicants in Phase 2A2": 12,
-		"Places taken up to Phase 2A2": 63,
-		"Vacancy for Phase 2B": 59,
-		"No. of Applicants in Phase 2B": 0,
-		"Places taken up to Phase 2B": 63,
-		"Vacancy for Phase 2C": 117,
-		"No. of Applicants in Phase 2C": 38,
-		"Places taken up to Phase 2C": 101,
-		"Vacancy for Phase 2C Supplementary": 79,
-		"No. of Applicants in Phase 2C Supplementary": 25
+		"TOTAL VACANCY": 240,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 200,
+		"NO. OF APPLICANTS IN PHASE 1": 58
 	},
 	"id": "1227"
 }

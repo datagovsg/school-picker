@@ -23,7 +23,7 @@
 		],
 		"School Vision": "Rooted in Truth and Charity, nurtured for academic, aesthetic, physical, social and moral growth.",
 		"School Mission": "With God in our presence, we strive to create a family of compassionate persons imbibed with integrity. We strive to cultivate confident and independent learners who are adaptable and gracious.",
-		"School Philosophy, Culture and Ethos": "Hai Sing Catholic School was founded in 1959 by the Franciscan Missionaries of Mary (FMM). It is a 58-year old Catholic School with a proud and distinguished history, a school which believes in developing each HaiSian to his fullest potential and to be truthful and have compassion for others. HaiSians walk the Way of Truth through Living for Others. HaiSians serve the young and the elderly in the community who need comfort and support. Our teachers are exemplary in their love for students and strong belief in moulding students to be persons of character and resilience. They use effective teaching strategies and learning technologies to engage students during lessons and are accessible to students who need extra help after school. Hai Sing Catholic School is also recognized for its innovative culture, quality teaching and learning, as well as focus on discipline and values education. With our parents and alumni as our close partners, the school strives to meet the challenges of nurturing our young HaiSians to be good citizens who are adaptable, gracious, compassionate and are persons of integrity.",
+		"School Philosophy, Culture and Ethos": "Hai Sing Catholic School was founded in 1959 by the Franciscan Missionaries of Mary (FMM). Throughout its decades of history, the school believes that each HAIsian is blessed with talents and a unique identity, can become a person of integrity and compassion who contributes to a better world.  Therefore, every HAIsian is deserving of the best care and opportunities.  We help our students redefine their own boundaries of success, and to rethink what they are capable of, to dare to dream of great things.  We develop students who are persons for others and who will make society better bit by bit by having a positive impact on others' lives.  HAIsians serve the young and the elderly in the community who need comfort and support. Our teachers are exemplary in their love for students and strong belief in moulding students to be persons of character and resilience. They use effective teaching strategies and learning technologies to engage students.  Our school ethos is \"With students as our focus and excellence as our pursuit, we work with persistence and in unison, using innovative and exciting approaches to transform the whole school experience for every HAIsian.\"",
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "CATHOLIC JUNIOR COLLEGE"
@@ -59,6 +59,7 @@
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF A/C",
+		"PRINCIPLES OF ACCOUNTS",
 		"PROJECT WORK",
 		"SCIENCE",
 		"SCIENCE (CHEM, BIO)",
@@ -70,7 +71,7 @@
 		"Physical Sports": [
 			"Archery",
 			"Athletics",
-			"Badminton",
+			"Badminton (Boys)",
 			"Golf",
 			"Taekwondo",
 			"Ten-Pin Bowling",
@@ -102,7 +103,7 @@
 			"STEM": "Applied Learning in Robotics and Engineering",
 			"Community & Youth Leadership": "Developing Leadership Competencies in Every HaiSian"
 		},
-		"Special Student Development Programmes Offered": "Hai Sing Catholic School's Applied Learning Programme (ALP) in 'Robotics and Engineering' focusses on nurturing in our students the 21st Century competency of Critical & Inventive Thinking. The ALP comprises the Robotics Proficiency Programme, the Science Inquiry and Applied Mathematics Modelling Programme, and the Design Engineering Programmes. Our students have been recognised internationally for their achievements in Robotics. The school's Learning for Life Programme (LLP) 'Developing Leadership Competencies in Every HaiSian' focusses on nurturing in our students the 21st Century Competency of Communication, Collaboration & Information Skills. Students develop their leadership potential through the school's Community Youth Leadership Programme. The school offers student-centric and values-driven programmes to develop Confident, Independent, Adaptable, and Gracious HaiSians. The HAI Experiential Week, Hai Aesthetics Programme and National Youth Achievement Award (NYAA) Programme, Project-I, together with the Future Problem Solving and Mathematics Olympiad Programmes, enrich our students' learning experiences. Internationalisation trips to China, Japan and Malaysia imbue our students with Civic Literacy, Global Awareness and Cross-Cultural Skills. The school educates HaiSians to protect the environment through its nationally-recognised 3R Programme which includes key programmmes like the Hai Mangrove Digital Trail. Supplementary academic programmes provide learning support for students who need extra coaching."
+		"Special Student Development Programmes Offered": "Hai Sing Catholic School's Applied Learning Programme (ALP) in STEM nurtures students for the future. The ALP comprises the Robotics Proficiency Programme, the Science Inquiry and Applied Mathematics Modelling Programme, and the Design Engineering Programmes. Our students have been recognised internationally for their achievements in Robotics. The school's Learning for Life Programme (LLP) 'Developing Leadership Competencies in Every HaiSian' focuses on Community Youth Leadership. The school offers student-centric and values-driven programmes to develop Confident, Independent, Adaptable, and Gracious HaiSians. The HAI Experiential Week, Hai Aesthetics Programme, Project-I, together with the Future Problem Solving and Mathematics Olympiad Programmes, enrich our students' learning experiences. Internationalisation trips to China, Japan and ASEAN imbue our students with Civic Literacy, Global Awareness and Cross-Cultural Skills. The school educates HaiSians to protect the environment through good practices such as using less plastics and to recycle and repurpose materials."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -646,7 +647,8 @@
 					"Npcc (Land)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -868,6 +870,23 @@
 			"Normal Technical": [
 				"123",
 				"157",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"220",
+				"243",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"176",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"120",
+				"156",
 				"None-posted"
 			]
 		}

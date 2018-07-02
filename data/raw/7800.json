@@ -37,17 +37,30 @@
 		"CHINESE",
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
-		"COMBINED HUMANITIES (S,L)",
 		"ENGLISH LANGUAGE",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
 		"HIGHER TAMIL",
+		"HL Geography",
+		"HL History",
+		"IBDP Biology",
+		"IBDP Chemistry",
+		"IBDP Chinese Language",
+		"IBDP Chinese Language and Literature",
+		"IBDP Economics",
+		"IBDP English Language and Literature",
+		"IBDP Geography",
+		"IBDP History",
+		"IBDP Malay Language",
+		"IBDP Malay Language (Ab Initio)",
+		"IBDP Mathematics",
+		"IBDP Physics",
+		"IBDP Sports, Exercise And Health Science",
+		"IBDP Tamil Language",
 		"MALAY",
 		"MATHEMATICS",
-		"OECIE PHYSICAL EDUCATION",
 		"PHYSICS",
 		"SCIENCE (CHEM, BIO)",
-		"SCIENCE (PHY, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"TAMIL"
 	],
@@ -56,7 +69,7 @@
 		"MOE Programmes": [
 			"Not Available"
 		],
-		"Special Student Development Programmes Offered": "Academy sports: Badminton, Bowling, Fencing, Football, Golf, Netball, Shooting, Swimming, Table Tennis and Track and Field "
+		"Special Student Development Programmes Offered": "All student-athletes will benefit from the School's athlete-friendly academic and student development programmes, boarding environment, and customised sport science support to further develop their sporting potential."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1891,7 +1904,8 @@
 						"-"
 					]
 				]
-			}
+			},
+			"2018": {}
 		},
 		"Junior College": {
 			"2005": {},
@@ -2107,7 +2121,8 @@
 						"-"
 					]
 				]
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -2123,7 +2138,8 @@
 		"2014": {},
 		"2015": {},
 		"2016": {},
-		"2017": {}
+		"2017": {},
+		"2018": {}
 	},
 	"L1R5History": {
 		"2005": {},
@@ -2138,7 +2154,8 @@
 		"2014": {},
 		"2015": {},
 		"2016": {},
-		"2017": {}
+		"2017": {},
+		"2018": {}
 	},
 	"postalCode": "737913"
 }

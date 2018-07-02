@@ -110,7 +110,7 @@
 			"STEM": "Interdisciplinary Research & Problem Solving",
 			"Sports & Outdoor Education": "Outdoor Education for Character & Leadership Development"
 		},
-		"Special Student Development Programmes Offered": "Learning for Life Programme (Outdoor Education), Applied Learning Programme (Game Design & Simulation and Robotics), Talent Development Programmes in Math (Math Olympiad), Science (Research), English (Debate), Developing Confidence in Public Speaking Programme and Mother Tongue Languages (Higher Mother Tongue), Problem & Inquiry Based Learning, Geography Field Studies, ICT Project Work, Lower Secondary Science Project, Character, Leadership & Citizenship  Programme, Normal Technical Achievers Programme, Normal Academic Excellence Programme, Reading Programme, and Overseas Exchanges."
+		"Special Student Development Programmes Offered": "Learning for Life Programme (Outdoor Education), Applied Learning Programme (Game Design & Simulation and Robotics), Talent Development Programmes in Math (Math Olympiad), English Debate, Developing Confidence in Public Speaking Programme, Literature Speech and Drama Programme, Problem & Inquiry Based Learning, Geography Field Studies, ICT Project Work, Lower Secondary Science Project, Character, Leadership & Citizenship  Programme, Stretch Programme, Normal Technical Achievers Programme, Normal Academic Excellence Programme, Reading Programme, and Overseas Exchanges."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -654,7 +654,8 @@
 					"Red Cross": "Gold",
 					"Scout (Unit 1)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -876,6 +877,23 @@
 			"Normal Technical": [
 				"132",
 				"155",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"206",
+				"235",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"171",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"110",
+				"159",
 				"None-posted"
 			]
 		}

@@ -91,36 +91,6 @@
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category B",
 					"award": "Recognition(Sm)"
@@ -255,8 +225,8 @@
 		1.2998106
 	],
 	"svy21": [
-		24289.01,
-		31352.07
+		24288.98,
+		31352
 	],
 	"planningArea": "QT",
 	"neighbours": [
@@ -270,25 +240,10 @@
 	],
 	"studentCare": true,
 	"p1Registration": {
-		"Total Vacancy": 210,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 170,
-		"No. of Applicants in Phase 1": 52,
-		"Places taken up to Phase 1": 52,
-		"Vacancy for Phase 2A1": 118,
-		"No. of Applicants in Phase 2A1": 0,
-		"Places taken up to Phase 2A1": 52,
-		"Vacancy for Phase 2A2": 118,
-		"No. of Applicants in Phase 2A2": 7,
-		"Places taken up to Phase 2A2": 58,
-		"Vacancy for Phase 2B": 76,
-		"No. of Applicants in Phase 2B": 0,
-		"Places taken up to Phase 2B": 58,
-		"Vacancy for Phase 2C": 152,
-		"No. of Applicants in Phase 2C": 55,
-		"Places taken up to Phase 2C": 113,
-		"Vacancy for Phase 2C Supplementary": 97,
-		"No. of Applicants in Phase 2C Supplementary": 13
+		"TOTAL VACANCY": 240,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 200,
+		"NO. OF APPLICANTS IN PHASE 1": 48
 	},
 	"id": "1621"
 }

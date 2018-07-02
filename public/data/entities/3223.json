@@ -25,7 +25,7 @@
 		],
 		"School Vision": "Every Individual a Thinker, an Achiever, a Concerned Citizen",
 		"School Mission": "Enriching Minds, Unleashing Potential, Impacting Lives",
-		"School Philosophy, Culture and Ethos": "The school believes that every student can be developed into fine citizens with a passion for learning, and aims to spur every student to strive for excellence and achieve success beyond expectations. Through a holistic and challenging curriculum that develops values and life skills, we give our students opportunities to pursue their interests and talents so as to realise their full potential and achieve peaks of excellence. Our teachers are caring and dedicated in their efforts to nurture the whole child through strong teacher-student rapport. Through a range of instructional and co-curricula programmes, we shape our students' character and build a culture of affirmation, collaboration and excellence. We believe that our students should contribute to the society in line with our core values of IExCEL (Integrity, Excellence, Compassion, Enterprise and Loyalty). The vibrancy of the school culture develops our students' life skills and empowers them to make a positive difference to others. The school's Values-In-Action programme focuses on four key areas - Care for the Elderly, Love for the Environment, Help the Needy and Community Bonding. Over the years, we have forged a close partnership with Taman Jurong CC to serve the community in our neighbourbood. Through service to others, we are confident that every student will grow to be individuals who epitomise our vision;  'A Thinker, an Achiever and a Concerned Citizen'.",
+		"School Philosophy, Culture and Ethos": "At Yuan Ching, we believe that every student can become a future-ready, contributing citizen with lifelong passion for learning. We put the child at the heart of all we do and believe we can make a difference in our students' lives.  The Yuan Ching Education leverages strong partnership among educators, parents, alumni and the community to nurture the whole child to realise his full potential. Our student is equipped with strong fundamentals and skills to thrive in a globalised, technology-driven world. He is a critical thinker, reflective learner and team player. He learns to be caring and responsible to his family and community; he understands and plays his role in contributing to the future of Singapore.  Resilient and diligent, our student exemplifies the school's motto of 'Efforts Today, Rewards Tomorrow'. Our community is inclusive and welcoming. Our teachers care deeply for their students and will give their utmost support and guidance to their students. It is a safe, nurturing home for our students, grounded in positive discipline, care and concern that values every individual. Riding on the legacy of resilience, resourcefulness and responsibility by our pioneers, the school spirit inspires staff and students to live these virtues and to build a strong school identity and affiliation. It affirms individual strengths and spurs every student to explore new paths and strive for excellence.  It energizes collective efforts and moves teams towards success beyond expectations.  Our environment is vibrant and provides opportunities for individuals to pursue their interests and achieve peaks of excellence. Students are empowered to lead, serve and inspire their peers. Our individuals embody our core values of IExCEL (Integrity, Excellence, Compassion, Enterprise and Loyalty). They are creative, motivated, humble and respectful. They make a difference in the community and beyond, and grow to epitomise our vision of 'A Thinker, an Achiever and Concerned Citizen'.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -38,21 +38,25 @@
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
 		"Computer Applications",
 		"Design & Technology",
 		"English Language",
 		"Food & Nutrition",
+		"Geography",
 		"Higher Chinese",
+		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
 		"Literature(E)",
 		"Malay",
 		"Mathematics",
+		"Physical Education",
 		"Physics",
 		"Principles Of Accounts",
 		"Science (Chem, Bio)",
 		"Science (Phy, Chem)",
-		"Social Studies",
+		"Science (Syll T)",
+		"Social Studies N(T)",
 		"Tamil"
 	],
 	"Cca": {
@@ -90,16 +94,10 @@
 			"STEM": "Marine Architecture and Engineering",
 			"Sports & Outdoor Education": "Dragonboat -- gRowing Values: Mastering Core Dragon Boating Skills and Embracing the Values it Embodies"
 		},
-		"Special Student Development Programmes Offered": "The school is implementing greater flexibility in subject offering at lower secondary levels. Eligible N(A) and N(T) students can take some subjects at a higher level starting from Secondary 1, based on their PSLE results. Beyond the start of Secondary 1, students can also do so if they do well in those subjects. Learning for Life Programme (LLP): Dragon Boat gRowing Values instils the school values in students and enables their acquisition of skills in dragon boating, swimming and life-saving. Applied Learning Programme: Maritime Architecture & Engineering enthuses learners by connecting their knowledge and skills learnt in classrooms to maritime-related context. Students will acquire Scientific Process and Design Thinking skills and apply these skills in the Marine Robotic (SeaPerch) programme. They will also develop relevant values and life skills through collaborating to design and build marine vehicles. Student Leadership Development: The Leadership Challenge Model enhances students' inter-personal and communication skills, develops leadership competencies and builds teamwork. Overseas cultural exchange and outdoor learning programmes expose students to authentic learning experiences that nurture character and values. Environmental education deepens understanding and develops active citizenry in students who will care for the environment. Aesthetics programmes use a  multi-faceted approach to develop in students an appreciation for the aesthetics and to discover their interests and strengths. Student-led programmes reinforce values and promote critical thinking and decision-making."
+		"Special Student Development Programmes Offered": "Applied Learning Programme: Marine Robotics enthuses learners by connecting their knowledge and skills learnt in classrooms to the Underwater Vehicle building and Arduino programming activities. In the process, students also acquire Problem Solving and STEM skills as they learn to overcome assigned challenges in their projects. Working together in teams, helping each another succeed and learning from failed attempts along the way also help to enhance valuable 21st Century Competencies and instil wholesome values in them. Learning for Life Programme (LLP): gRowing Values Through Sports and Outdoor Experiences instils values and builds character in students and enables their acquisition of skills in swimming, life-saving and dragon boating. Student Leadership Development: The Leadership Challenge Model enhances students' inter-personal and communication skills, develops leadership competencies and builds teamwork. Overseas cultural exchange and outdoor learning programmes expose students to authentic learning experiences that nurture character and values. Environmental education deepens understanding and develops active citizenry in students who will care for the environment. Aesthetics programmes use a multi-faceted approach to develop in students an appreciation for the aesthetics and to discover their interests and strengths."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				]
-			},
 			"2015": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -120,36 +118,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -248,21 +216,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Bronze"
-				},
-				{
 					"year": "2015",
 					"category": "NPCC (Land)",
 					"award": "Gold"
@@ -306,30 +259,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 212,
-			"upper": 229,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 164,
-			"upper": 191,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 130,
-			"upper": 155,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -399,6 +328,30 @@
 			"programme": "Normal Technical",
 			"lower": 105,
 			"upper": 158,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 208,
+			"upper": 231,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 160,
+			"upper": 190,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 119,
+			"upper": 154,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

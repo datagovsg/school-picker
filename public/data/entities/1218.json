@@ -84,13 +84,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"Special Awards": "LKY (NE) Award",
-				"Outstanding Development Award": [
-					"ODA (Character Development)",
-					"ODA (National Education)"
-				]
-			},
 			"2015": {
 				"Special Awards": "LKY (NE) Award",
 				"Outstanding Development Award": [
@@ -106,76 +99,6 @@
 				]
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Basketball",
@@ -429,31 +352,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2015",
 					"category": "Choir",
 					"award": "Accomplishment"
@@ -536,16 +434,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Brownies (Pack 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Scout",
-					"award": "Bronze"
-				},
-				{
 					"year": "2015",
 					"category": "Brownies (Pack 1)",
 					"award": "Gold"
@@ -579,8 +467,8 @@
 		1.3309134
 	],
 	"svy21": [
-		36681.68,
-		34791.37
+		36681.65,
+		34791.3
 	],
 	"planningArea": "BD",
 	"neighbours": [
@@ -595,25 +483,10 @@
 	],
 	"studentCare": true,
 	"p1Registration": {
-		"Total Vacancy": 180,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 140,
-		"No. of Applicants in Phase 1": 76,
-		"Places taken up to Phase 1": 76,
-		"Vacancy for Phase 2A1": 64,
-		"No. of Applicants in Phase 2A1": 0,
-		"Places taken up to Phase 2A1": 76,
-		"Vacancy for Phase 2A2": 64,
-		"No. of Applicants in Phase 2A2": 10,
-		"Places taken up to Phase 2A2": 86,
-		"Vacancy for Phase 2B": 47,
-		"No. of Applicants in Phase 2B": 0,
-		"Places taken up to Phase 2B": 86,
-		"Vacancy for Phase 2C": 94,
-		"No. of Applicants in Phase 2C": 66,
-		"Places taken up to Phase 2C": 152,
-		"Vacancy for Phase 2C Supplementary": 28,
-		"No. of Applicants in Phase 2C Supplementary": 7
+		"TOTAL VACANCY": 240,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 200,
+		"NO. OF APPLICANTS IN PHASE 1": 66
 	},
 	"id": "1218"
 }

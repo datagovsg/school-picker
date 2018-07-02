@@ -24,7 +24,7 @@
 		"Vice Principal (Admin)": "MR TIN CHEE KUANG EDMUND",
 		"School Vision": "Every KCPian a Servant Leader & Scholar",
 		"School Mission": "We provide a conducive and nurturing Christian environment for the holistic development of every child through high engagement in, achievement through, and enjoyment of learning.",
-		"School Philosophy, Culture and Ethos": "Kuo Chuan Presbyterian Secondary School seeks to develop servant leaders and scholars in a nurturing, values-based environment. We offer a curriculum focused on the holistic development of every child with a strong focus on leadership of self for the service of others. The school vision captures our legacy as a school started by Christian ministers to provide education opportunities for the community, as well as the aspiration that KCPians will grow to be leaders who will likewise develop their talents and abilities to be of service to others. The KCPian Servant Leader and Scholar will be a self-directed learner who displays integrity and resilience in the face of challenge. He is a conscientious individual who cares for others and empathises with and responds to the needs around him. The school team of dedicated teachers is supported by active alumni, the Parent Support Group and a School Management Committee that takes a keen interest in the quality of teaching and learning and character development programmes offered by the school.",
+		"School Philosophy, Culture and Ethos": "Kuo Chuan Presbyterian Secondary School seeks to develop Servant Leaders and Scholars in a nurturing, values-based environment. We offer a curriculum focused on the holistic development of every child with a strong focus on leadership of self for the service of others. The school vision captures our legacy as a school started by Christian ministers to provide education opportunities for the community, as well as the aspiration that KCPians will grow to be leaders who will likewise develop their talents and abilities to be of service to others. The KCPian Servant Leader and Scholar will be a self-directed learner who displays integrity and resilience in the face of challenge. He is a conscientious individual who cares for others and empathises with and responds to the needs around him. The school team of dedicated teachers is supported by active alumni, the Parent Support Group and a School Management Committee that takes a keen interest in the quality of teaching and learning and character development programmes offered by the school.",
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
@@ -65,7 +65,8 @@
 			"Football",
 			"Netball",
 			"Swimming",
-			"Table Tennis"
+			"Table Tennis",
+			"Volleyball"
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
@@ -78,6 +79,7 @@
 			"Art And Craft Club",
 			"Band - Concert",
 			"Choir",
+			"Dance - Chinese",
 			"Dance - Contemporary",
 			"Drama - English",
 			"Ensemble - Guzheng",
@@ -96,7 +98,7 @@
 			"Languages & Humanities": "A.W.A.R.E (Media Literacy)[Appreciate, Aware, Action, Reach and Evaluate]",
 			"Community & Youth Leadership": "KCPSS Student Leadership Development Programme"
 		},
-		"Special Student Development Programmes Offered": "The school offers a Learning for Life programme (LLP) in the area of Community and Youth Leadership (CYL). This is a whole-school approach to develop every KCPian as a servant leader through the progression from leadership of self, to leadership of others at various impact levels. It is designed to evoke empathy and inculcate a spirit of service while developing the 21st century competencies of critical and inventive thinking. The development of 21st century competencies is reinforced through the school's  Applied Learning Programme (ALP) in Media Literacy. This programme, which is anchored on the English Language and Literature curriculum, is designed to develop in students' communication, collaboration and information skills. Students will inquire into how the media and society shape each other, and analyse the benefits and challenges that different media platforms present to society today."
+		"Special Student Development Programmes Offered": "The school offers a Learning for Life programme (LLP) in the area of Community and Youth Leadership (CYL). This is a whole-school approach to develop every KCPian as a Servant Leader through the progression from leadership of self, to leadership of others at various impact levels. It is designed to evoke empathy and inculcate a spirit of service while developing the 21st century competencies of critical and inventive thinking. The development of 21st century competencies is reinforced through the school's  Applied Learning Programme (ALP) in Media Literacy. This programme, which is anchored on the English Language and Literature curriculum, is designed to develop in students' communication, collaboration and information skills. Students will inquire into how the media and society shape each other, and analyse the benefits and challenges that different media platforms present to society today."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -756,7 +758,8 @@
 					"Ncdcc": "Gold",
 					"Npcc (Land)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -972,6 +975,20 @@
 				"199",
 				"155",
 				"199"
+			]
+		},
+		"2018": {
+			"Express": [
+				"232",
+				"248",
+				"200",
+				"239"
+			],
+			"Normal Academic": [
+				"181",
+				"199",
+				"154",
+				"198"
 			]
 		}
 	},

@@ -25,7 +25,7 @@
 		],
 		"School Vision": "A Distinctive Institution of World-Ready Thinkers and Leaders",
 		"School Mission": "To broaden the minds of NCzens, nurturing bicultural learners who lead, serve and inspire",
-		"School Philosophy, Culture and Ethos": "In NCHS, we believe that every student has unique talents and abilities that can be developed and he/she can learn and achieve if emotional and physical needs are met. We seek to provide a quality school experience to enable every student to develop their character and stretch their potential. Focussed on student-centred learning, our Teaching & Learning Framework harnesses ICT to enhance learning and equip our students with 21st century life skills and competencies. We offer a conducive and caring environment, and have committed and nurturing teachers who believe in setting high expectations, providing authentic and experiential learning experiences, and inspiring our students to excel in their academic performance, character and leadership development, and CCAs. Over the years, our students have done well in both the academic and non-academic domains. Their success has affirmed our continuous effort in striving for excellence to provide a quality holistic education for all our students with the support of dedicated teachers, a strong SMC, committed alumni and supportive parents.",
+		"School Philosophy, Culture and Ethos": "Nan Chiau High School provides opportunities for all students to develop their unique talents and abilities. The positive and nurturing school culture meets the emotional and physical needs of all students, and helps them fulfil their potential. The total curriculum endeavours to develop world- and future-ready students of exemplary characters. Our teachers are committed, nurturing and capable. They coach students on their way to success by setting high expectations and provide authentic learning experiences. Together with a strong SMC, committed alumni and supportive parents, Nan Chiau High School is the choice school to develop future leaders of strong moral and performance character.",
 		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese",
 		"Affiliated Schools": "Not Applicable"
@@ -37,8 +37,6 @@
 		"Chemistry",
 		"Chinese",
 		"Civics & Moral Education",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
 		"Design & Technology",
 		"English Language",
 		"Food & Nutrition",
@@ -47,6 +45,10 @@
 		"Higher Chinese",
 		"Higher Music",
 		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In Chinese)",
+		"Humanities (Ss, Lit In English)",
 		"Literature In Chinese",
 		"Literature(E)",
 		"Malay (Special Programme)",
@@ -102,19 +104,10 @@
 			"STEM": "Science Research Programme",
 			"Music & Performing Arts": "Literary Arts (Bilingual) -- Enhancing Expression, Creativity and Aesthetics Appreciation (ECAA) through the ARTS"
 		},
-		"Special Student Development Programmes Offered": "Our SAP Bicultural & Flagship Programme is designed with the theoretical underpinning of Howard Gardner's \"Five Minds for the Future\", with an additional unique sixth mind, the 'Bicultural Mind'. The programme aims to groom future leaders who are bilingual and well versed in the Chinese language and culture, and have a deep appreciation of other cultures so that they are able to make strong and meaningful connections with the World. These objectives are also strengthened by our Global Classroom Programme which broadens our students' minds through the 4 domains: Bicultural Learning, Talent Development, Service Learning and Immersion & Exchange. NCzens are thus groomed to be world-ready, and to possess the meritorious Cultural Intelligence."
+		"Special Student Development Programmes Offered": "Our SAP Bicultural Flagship Programme aims to nurture bicultural learners who can thrive in a rising Asia. They will develop strong cultural intelligence and be adept in the appreciation of Chinese and other cultures. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"School Distinction Awards": "SDA",
-				"Best Practice Awards": [
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Development Award": "DA (Character Development)",
-				"Outstanding Development Award": "ODA (National Education)"
-			},
 			"2015": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": [
@@ -155,51 +148,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Strings",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category B",
@@ -348,26 +296,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Silver"
-				},
-				{
 					"year": "2015",
 					"category": "NCC (Land Boys)",
 					"award": "Gold"
@@ -432,14 +360,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 242,
-			"upper": 262,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 240,
@@ -460,6 +380,14 @@
 			"programme": "Express",
 			"lower": 241,
 			"upper": 268,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 243,
+			"upper": 266,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

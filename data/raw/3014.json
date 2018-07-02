@@ -14,7 +14,7 @@
 	],
 	"email": "VICTORIA_SCH@MOE.EDU.SG",
 	"mrt": "BEDOK MRT, PAYA LEBAR MRT",
-	"bus": "31 , 36 , 43 , 47 , 48 , 55 , 76 , 135 , 155 , 196 , 196E , 197 , 401 , 541 , 763 , 853 , 853C , 4N ",
+	"bus": "31 , 36 , 43 , 47 , 48 , 55 , 135 , 155 , 196 , 196E , 197 , 541 , 763 ",
 	"GeneralInformation": {
 		"Principal": "MR CHOW WEISI",
 		"Vice Principal": [
@@ -47,6 +47,7 @@
 		"COMBINED HUMANITIES (S,H)",
 		"DESIGN & TECHNOLOGY",
 		"ENGLISH LANGUAGE",
+		"EXERCISE AND SPORTS SCIENCE",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER ART",
@@ -2264,7 +2265,8 @@
 					"Red Cross": "Gold",
 					"Scout (Unit 1)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -2386,6 +2388,18 @@
 			"'O' Level Programme": [
 				"245",
 				"259",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Integrated Programme": [
+				"252",
+				"271",
+				"None-posted"
+			],
+			"'O' Level Programme": [
+				"246",
+				"270",
 				"None-posted"
 			]
 		}

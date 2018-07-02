@@ -37,8 +37,6 @@
 		"CHEMISTRY",
 		"CHINESE",
 		"CHINESE N(A)",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
@@ -52,6 +50,9 @@
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
 		"HIGHER TAMIL",
+		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MALAY N(A)",
@@ -1026,7 +1027,8 @@
 					"Ncdcc": "Gold",
 					"Npcc (Land)": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1248,6 +1250,23 @@
 			"Normal Technical": [
 				"142",
 				"159",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"224",
+				"244",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"177",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"138",
+				"157",
 				"None-posted"
 			]
 		}

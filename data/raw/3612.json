@@ -14,7 +14,7 @@
 	],
 	"email": "NORTHBROOKS@MOE.EDU.SG",
 	"mrt": "YISHUN MRT, KHATIB MRT",
-	"bus": "804 , 806 , 860 ",
+	"bus": "804 , 806 , 807 , 860 , 103 ",
 	"GeneralInformation": {
 		"Principal": "MR CHAN CHOON LOONG",
 		"Vice Principal": [
@@ -57,7 +57,6 @@
 		"MATHEMATICS (SYLLABUS T)",
 		"PHYSICS",
 		"SCIENCE (CHEM, BIO)",
-		"SCIENCE (PHY, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
 		"SOCIAL STUDIES"
@@ -66,8 +65,7 @@
 		"Physical Sports": [
 			"Badminton",
 			"Basketball",
-			"Floorball",
-			"Rugby"
+			"Floorball"
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
@@ -86,7 +84,8 @@
 		"Clubs & Societies": [
 			"Audio Visual Aids Club",
 			"Infocomm Club",
-			"Northbrooks Youth Flying Club"
+			"Northbrooks Youth Flying Club",
+			"Outdoor Activities Club"
 		],
 		"Others": [
 			"Students' Council"
@@ -100,7 +99,7 @@
 			"STEM": "Northbrooks Aerospace Programme (Applied Learning In Aerospace)",
 			"Sports & Outdoor Education": "Northbrooks Outdoor Education: Adventure, Character, Environment (A.C.E.) Programme"
 		},
-		"Special Student Development Programmes Offered": "The school's distinctive Applied Learning Programme (ALP) in Aerospace provides our students an edge when applying for aerospace-related courses in ITE and the Polytechnics, which in turn opens a career pathway for them in the rapidly growing aerospace industry. All Lower Secondary students are equipped with basic knowledge in general aerospace topics and essential ICT skills. Students who demonstrate passion in this field of study would be further engaged/stretched in related external competitions and programmes. Through a three-tiered programme that is based on nature and the outdoor, our Learning for Life Programme (LLP) in Outdoor Education (Adventure, Character, Environment -  A.C.E) aims to inculcate values, develop character and build leadership skills of all our students. Through programmes such as orienteering, rock wall climbing and Values-In-Action (VIA) activities, we hope to cultivate students' love for the outdoors and a heart for the environment. Annual camps that emphasise experiential learning, values education and self-leadership are held for every level concurrently. The school offers a variety of enrichment programmes to widen the students' learning experiences for greater development in cognitive, physical and aesthetics domains. For example, the Stained Glass Art Programme empowers the students to express their creativity and to develop their spirit of innovation and enterprise. As the making of stained glass artwork is rather intricate and requires skill and patience, students working in teams will develop fortitude and resilience while learning to value each other's strengths. The Whole-School Approach to Effective Communication (WSA-EC) aims to build students' competencies in communicating in English by raising students' interest and motivation in reading and speaking good English through specific learning activities in their various subjects."
+		"Special Student Development Programmes Offered": "The school offers a variety of programmes to widen the students' learning experiences for greater development in cognitive, physical and aesthetic domains. The school's distinctive Applied Learning Programme (ALP) in Aerospace provides our students an edge when applying for aerospace-related courses which in turn opens a career pathway for them in the rapidly growing aerospace industry. All Lower Secondary students are equipped with basic knowledge in aerospace topics and essential STEM skills. Students who demonstrate passion in this field would be further engaged in related external programmes. Our Learning for Life Programme (LLP) in Outdoor Education which is known as A.C.E (Adventure, Character, Environment) aims to develop character, inculcate values of grit and resilience and build leadership traits in all students, as they learn adventure skills such as orienteering as well as cultivate an appreciation for the environment. Students who excel at the various adventure skills may have the opportunity to participate in various competitions. In addition, the Stained Glass Art Programme empowers the students to express their creativity and develop their spirit of innovation. As the making of stained glass artwork requires skill and patience, students working in teams will develop fortitude while learning to value each other's strengths. Northbrooks offers a range of VIA opportunities for all students.  All students take part in Recyclatron, an annual recycling activity which allows students to spread the message of recycling.  The Secondary Two students undergo a learning journey to VWOs to learn the fundamentals of Service Learning.  This culminates in the Secondary Three student-initiated service learning project. The Whole-School Approach to Effective Communication (WSA-EC) aims to build students' competencies in communicating in English by raising students' interest and motivation in reading and speaking good English through specific learning activities."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -498,7 +497,8 @@
 					"Npcc (Land)": "Bronze",
 					"Red Cross": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -720,6 +720,23 @@
 			"Normal Technical": [
 				"124",
 				"154",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"230",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"156",
+				"188",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"131",
+				"153",
 				"None-posted"
 			]
 		}

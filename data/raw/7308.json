@@ -14,7 +14,7 @@
 	],
 	"email": "presbyterian@moe.edu.sg",
 	"mrt": "YIO CHU KANG MRT",
-	"bus": "45 , 70 , 76 , 86 , 128 , 529 , 668 , 733 , 825 , 851 , 852 , 853 ",
+	"bus": "45 , 70 , 71 , 76 , 86 , 128 , 668 , 733 , 825 , 851 , 852 , 853 ",
 	"GeneralInformation": {
 		"Principal": "MR OWYONG TUCK SING VICTOR",
 		"Vice Principal": [
@@ -35,17 +35,17 @@
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
-		"COMBINED HUMANITIES (S,L)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ENGLISH LANGUAGE",
+		"EXERCISE AND SPORTS SCIENCE",
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
@@ -1183,7 +1183,8 @@
 					"Ncdcc": "Bronze",
 					"Npcc (Land)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1405,6 +1406,23 @@
 			"Normal Technical": [
 				"137",
 				"154",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"232",
+				"256",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"182",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"133",
+				"159",
 				"None-posted"
 			]
 		}

@@ -77,53 +77,8 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"Development Award": "DA (Character Development)",
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
-			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "4th"
-				}
-			],
+			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category B",
@@ -205,12 +160,12 @@
 	},
 	"postalCode": "387621",
 	"coordinates": [
-		103.8816793,
-		1.3265127
+		103.8815472,
+		1.3268557
 	],
 	"svy21": [
-		33382.09,
-		34304.67
+		33367.35,
+		34342.53
 	],
 	"planningArea": "GL",
 	"neighbours": [
@@ -223,26 +178,5 @@
 	"specialNeeds": [
 		"Mild SEN"
 	],
-	"p1Registration": {
-		"Total Vacancy": 120,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 80,
-		"No. of Applicants in Phase 1": 6,
-		"Places taken up to Phase 1": 6,
-		"Vacancy for Phase 2A1": 74,
-		"No. of Applicants in Phase 2A1": 2,
-		"Places taken up to Phase 2A1": 8,
-		"Vacancy for Phase 2A2": 72,
-		"No. of Applicants in Phase 2A2": 4,
-		"Places taken up to Phase 2A2": 12,
-		"Vacancy for Phase 2B": 54,
-		"No. of Applicants in Phase 2B": 2,
-		"Places taken up to Phase 2B": 13,
-		"Vacancy for Phase 2C": 107,
-		"No. of Applicants in Phase 2C": 24,
-		"Places taken up to Phase 2C": 37,
-		"Vacancy for Phase 2C Supplementary": 83,
-		"No. of Applicants in Phase 2C Supplementary": 7
-	},
 	"id": "5003"
 }

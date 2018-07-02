@@ -23,6 +23,7 @@
 			"Miss Teo Geok Sian",
 			"Miss Phua Ai Ling Adeline"
 		],
+		"Vice Principal (Admin)": "Miss Kesavan Paula Anne",
 		"School Vision": "A Woman of Distinction",
 		"School Mission": "The mission of an Infant Jesus Convent is the creation of a Christ-centred school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of persons who are disadvantaged in any way.",
 		"School Philosophy, Culture and Ethos": "CHIJ Secondary stands as the second oldest girls school in Singapore. Every IJ Girl shares the vision of being A Woman of Distinction, who is a Thinker, Leader, Communicator, confident with humility, principled with compassion and cultured with grace. At CHIJ Secondary, we believe that every IJ Girl matters. As such, we customise our curriculum to meet their needs and talents. With a strong foundation in character and values-education, CHIJ nurtures our girls through a holistic education, with the support of a competent and forward-looking staff. Our strong partnerships with key stakeholders also enable the school to build a strong network of support. We remain, through the years, Simple in Virtue, Steadfast in Duty.",
@@ -37,6 +38,7 @@
 	"SubjectOffered": [
 		"Additional Mathematics",
 		"Art For AEP",
+		"Art Na Level",
 		"Art 'O' Level",
 		"Basic Chinese",
 		"Basic Malay",
@@ -46,22 +48,30 @@
 		"Chinese",
 		"Chinese B",
 		"Chinese N(A)",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
-		"Combined Humanities (S,L)",
 		"Computer Applications",
+		"Drama",
+		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
+		"English Language (Syll T)",
 		"Food & Nutrition",
 		"Food And Consumer Education",
 		"Geography",
+		"Higher Art",
 		"Higher Chinese",
+		"Higher Tamil",
 		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In English)",
 		"Literature(E)",
 		"Malay",
+		"Malay B",
 		"Malay N(A)",
 		"Mathematics",
 		"Mathematics (Syllabus A)",
+		"Mathematics (Syllabus T)",
+		"Music 'O' Level",
 		"Oecie Drama (GCEO)",
 		"Physical Education",
 		"Physics",
@@ -71,6 +81,7 @@
 		"Science (Phy, Bio)",
 		"Science (Phy, Chem)",
 		"Tamil",
+		"Tamil B",
 		"Tamil N(A)"
 	],
 	"Cca": {
@@ -99,6 +110,7 @@
 		"Clubs & Societies": [
 			"Arc (Robotics)",
 			"Chij Youth Mission",
+			"Debating And Oratory Society",
 			"Ij Media Club",
 			"Legion Of Mary",
 			"Outdoor Activities Club"
@@ -108,19 +120,10 @@
 		"MOE Programmes": [
 			"Art Elective Programme"
 		],
-		"Special Student Development Programmes Offered": "CHIJ Secondary is progressive in its approach whilst remaining steeped in tradition. The IJ Education and Experience is undergirded by the 3Ls@IJ approach which encompasses both the academic and affective domains and focuses on developing students holistically through Learning, Living and Leading. In CHIJ, all lower secondary students experience our in-house drama programme which enable students to realise their creative talents and develop their artistic vision. Our Affective Programmes focus on character development and include the Developmental Leadership Programme, the Values-in-Action programme, self-awareness camps, work attachment programme, and adventure camps. As the South Zone Centre of Excellence for Language and the Arts, CHIJ is home to many strong performing arts groups. At the same time, CHIJ's sports CCA groups have experienced success on the school scene. Our signature IJ Goes Global Programme aims to equip IJ students with a more global perspective and includes Immersion and Twinning Programmes with overseas schools, and the IJ Beacon Programme which focuses on serving the disadvantaged in neighbouring countries."
+		"Special Student Development Programmes Offered": "CHIJ Secondary is progressive in its approach whilst remaining steeped in tradition. The IJ Education and Experience is undergirded by the 3Ls@IJ approach which encompasses both the academic and affective domains and focuses on developing students holistically through Learning, Living and Leading. In CHIJ, all lower secondary students experience our in-house drama programme which enables students to realise their creative talents and develop their artistic vision. Our Affective Programmes focus on character development and include the Developmental Leadership Programme, the Values-in-Action programme, self-awareness camps, work attachment programme, and adventure camps. As the South Zone Centre of Excellence for Language and the Arts, CHIJ is home to many strong performing arts groups. At the same time, CHIJ's sports CCA groups have experienced success on the school scene. Our signature IJ Goes Global Programme aims to equip IJ students with a more global perspective and includes Immersion and Twinning Programmes with overseas schools, and the IJ Beacon Programme focuses on serving the disadvantaged in neighbouring countries as well as in our own communities."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"School Distinction Awards": "SDA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Teaching and Learning)"
-				],
-				"Development Award": "DA (National Education)",
-				"Outstanding Development Award": "ODA (Character Development)"
-			},
 			"2016": {
 				"School Distinction Awards": "SDA"
 			},
@@ -128,96 +131,6 @@
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Gymnastics (Rhythmic)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Gymnastics (Rhythmic)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Badminton",
@@ -501,46 +414,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -663,16 +536,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Girl Guides (Coy 1)",
 					"award": "Gold"
@@ -706,30 +569,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 244,
-			"upper": 255,
-			"lowerAffiliated": 200,
-			"upperAffiliated": 253
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 177,
-			"upper": 199,
-			"lowerAffiliated": 158,
-			"upperAffiliated": 198
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": null,
-			"upper": null,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -793,6 +632,30 @@
 			"upper": 151,
 			"lowerAffiliated": 134,
 			"upperAffiliated": 142
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 243,
+			"upper": 251,
+			"lowerAffiliated": 201,
+			"upperAffiliated": 260
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 185,
+			"upper": 198,
+			"lowerAffiliated": 154,
+			"upperAffiliated": 199
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 102,
+			"upper": 159,
+			"lowerAffiliated": 123,
+			"upperAffiliated": 152
 		}
 	],
 	"postalCode": "319764",

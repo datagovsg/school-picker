@@ -47,9 +47,20 @@
 		"Tamil"
 	],
 	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Football",
+			"Volleyball"
+		],
 		"Uniformed Groups": [
 			"Brownies",
+			"Scouts",
 			"Singapore Red Cross Society"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Choir",
+			"Dance - Chinese"
 		]
 	},
 	"SpecialProgrammes": {
@@ -60,11 +71,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"Development Award": "DA (Character Development)",
-				"Outstanding Development Award": "ODA (National Education)",
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"2015": {
 				"Development Award": "DA (Character Development)",
 				"Outstanding Development Award": "ODA (National Education)"
@@ -78,16 +84,6 @@
 				"Outstanding Development Award": "ODA (National Education)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Volleyball",
@@ -120,36 +116,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Gamelan",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category A",
@@ -238,16 +204,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Brownies (Pack 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Scout",
-					"award": "Bronze"
-				},
-				{
 					"year": "2015",
 					"category": "Brownies (Pack 1)",
 					"award": "Gold"
@@ -281,8 +237,8 @@
 		1.3713962
 	],
 	"svy21": [
-		33536.1,
-		39267.67
+		33536.06,
+		39267.6
 	],
 	"planningArea": "HG",
 	"neighbours": [
@@ -298,23 +254,10 @@
 	],
 	"studentCare": true,
 	"p1Registration": {
-		"Total Vacancy": 210,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 170,
-		"No. of Applicants in Phase 1": 72,
-		"Places taken up to Phase 1": 72,
-		"Vacancy for Phase 2A1": 98,
-		"No. of Applicants in Phase 2A1": 0,
-		"Places taken up to Phase 2A1": 72,
-		"Vacancy for Phase 2A2": 98,
-		"No. of Applicants in Phase 2A2": 39,
-		"Places taken up to Phase 2A2": 111,
-		"Vacancy for Phase 2B": 50,
-		"No. of Applicants in Phase 2B": 12,
-		"Places taken up to Phase 2B": 120,
-		"Vacancy for Phase 2C": 90,
-		"No. of Applicants in Phase 2C": 94,
-		"Places taken up to Phase 2C": 210
+		"TOTAL VACANCY": 210,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 170,
+		"NO. OF APPLICANTS IN PHASE 1": 80
 	},
 	"id": "1724"
 }

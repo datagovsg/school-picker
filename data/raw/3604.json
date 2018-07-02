@@ -31,6 +31,8 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART",
+		"ART NA LEVEL",
+		"ART 'O' LEVEL",
 		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BIOLOGY",
@@ -38,11 +40,14 @@
 		"CHINESE",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
+		"ELECTRONICS",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
+		"HIGHER CHINESE",
+		"HIGHER MALAY",
 		"HISTORY",
 		"HUMANITIES (SS, GEOGRAPHY)",
 		"HUMANITIES (SS, HISTORY)",
@@ -55,8 +60,8 @@
 		"PHYSICS",
 		"SCIENCE",
 		"SCIENCE (CHEM, BIO)",
+		"SCIENCE (PHY, BIO)",
 		"SCIENCE (PHY, CHEM)",
-		"SCIENCE (SYLL T)",
 		"SOCIAL STUDIES N(T)"
 	],
 	"Cca": {
@@ -69,9 +74,9 @@
 			"Volleyball (Girls Only)"
 		],
 		"Uniformed Groups": [
+			"National Civil Defence Cadet Corps",
 			"Ncc (Land) (Boys Only)",
-			"Npcc",
-			"St. John Brigade"
+			"Npcc"
 		],
 		"Visual and Performing Arts": [
 			"Band - Symphonic",
@@ -96,7 +101,7 @@
 			"STEM": "The Robotics Education & Enterprise (TREE)",
 			"Community & Youth Leadership": "Student Leadership Development through Involvement in the Community Programme"
 		},
-		"Special Student Development Programmes Offered": "We adopt a Values-based and Student-centric focussed curriculum with our Strategic Thrusts of Engaged Learning and Character Excellence as the common threads that bind both the academic and co-curricular programmes in WRS. True to our philosophy that every student is unique and can contribute to society, we strive to inculcate critical thinking and future-ready skills. The school's Applied Learning Programme, The Robotics Education & Enterprise  [TREE], instils in students a curiosity to learn through experimentation, questioning, problem-solving and risk-taking. Dedicated to providing authentic and engaging experiences, TREE integrates learning across disciplines such as Science, Technology, Engineering and Mathematics (STEM), and develops in students the ability to make connections with real-life problems. As an extension of learning and early exposure to possible post-secondary courses of study and future work opportunities, the school is offering Applied Subjects such as Mobile Robotics to Upper Secondary students. With an emphasis on building confidence and strengthening effective communication, programmes such as Drama-in-Curriculum and Career Presentation Programmes are introduced to develop Oracy and Self-Confidence through creative expression. Our Learning for Life Programme, Student Leadership Development through Involvement in the Community, aims to instil the purpose of caring for and leading others in the community through their involvement in community outreach activities. By working with partners, both locally and overseas, the programme is designed to help students better appreciate what they have and live out the school values of 'Responsibility, Respect & Resilience' and motto 'Serve the School and Community'. As part of our Resilience programme, our Sec 2 students attend a CCE camp during which they are given opportunities to demonstrate and hone their SE competencies and our Sec 3 students learn about team challenges and adaptation through OBS."
+		"Special Student Development Programmes Offered": "We adopt a Values-based and Student-centric focussed curriculum where our Strategic Thrusts of Engaged Learning and Character Excellence are the common threads that bind both the academic and co-curricular programmes. True to our philosophy that every student is unique and can contribute to society, we strive to inculcate critical thinking and future-ready skills. The school's Applied Learning Programme, The Robotics Education & Enterprise  [TREE], instils in students a curiosity to learn through experimentation, questioning, problem-solving and risk-taking. Dedicated to providing authentic and engaging experiences, TREE integrates learning across disciplines such as Science, Technology, Engineering and Mathematics (STEM), and develops in students the ability to make connections with real-life problems. As an extension of learning and early exposure to possible post-secondary courses of study and future work opportunities, the school is offering Applied Subjects such as Mobile Robotics and Electronics, to Upper Secondary students. With an emphasis on building confidence and strengthening effective communication, programmes are introduced to develop Oracy and Self-Confidence through creative expression in the languages. Our Learning for Life Programme (LLP), Student Leadership Development through Involvement in the Community, aims to instil the purpose of caring for and leading others in the community through their outreach activities. Our Sec 2 students attend a CCE camp during which they demonstrate and hone their SE competencies and our Sec 3 students learn about team challenges and adaptation through OBS. By working with partners, both locally and overseas, the LLP programme is designed to help students better appreciate what they have and live out the school values of 'Responsibility, Respect & Resilience' and motto 'Serve the School and Community'."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -549,7 +554,8 @@
 					"Npcc (Land)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -770,6 +776,23 @@
 			],
 			"Normal Technical": [
 				"130",
+				"159",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"211",
+				"245",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"170",
+				"197",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"133",
 				"159",
 				"None-posted"
 			]

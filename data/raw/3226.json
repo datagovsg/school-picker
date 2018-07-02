@@ -18,8 +18,8 @@
 	"GeneralInformation": {
 		"Principal": "MISS GWEE SU PIN SANDRA",
 		"Vice Principal": [
-			"MDM MANDY CHENG MUN YI",
-			"MR JUSTIN TAN"
+			"MR JUSTIN TAN",
+			"MDM MANDY CHENG MUN YI"
 		],
 		"Vice Principal (Admin)": "MR CHAN KAI SUM",
 		"School Vision": "Where Learning Is Vibrant And Teaching Is Dynamic.",
@@ -37,9 +37,6 @@
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
-		"COMBINED HUMANITIES (S,L)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
@@ -47,6 +44,10 @@
 		"FOOD & NUTRITION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
+		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
@@ -75,12 +76,11 @@
 		],
 		"Visual and Performing Arts": [
 			"Aesthetics & Design Club",
-			"Choir",
 			"Concert Band",
 			"Dance Society",
-			"Guitar Ensemble",
 			"Guzheng Ensemble",
-			"Hip-Hop Dance Club"
+			"Hip-Hop Dance Club",
+			"Show Choir"
 		],
 		"Clubs & Societies": [
 			"Chinese Cultural Society",
@@ -102,7 +102,7 @@
 			"STEM": "Fostering 21st Century Competencies through Design Thinking",
 			"Community & Youth Leadership": "Community and Youth Leadership in Hua Yi"
 		},
-		"Special Student Development Programmes Offered": "Our programmes are designed to achieve student outcomes through integrated and holistic platforms. These range from Level Learning Programmes which blend camps, workshops and Learning Journeys, to cultural immersion with partners in Bangkok and Indonesia, and signature events such as our Learning Fiesta. The school seeks to bring the school philosophy and school values to life through integrated, dynamic and exciting programmes. Each semester, post-exam activities combine visits to exhibitions, talent competitions, sport electives, and subject learning into dynamic experiences. These allow students to apply their learning in authentic contexts while developing their 21st Century Competencies. The school accepts DSA students for Basketball (Boys), Concert Band, Volleyball (Girls) and Student Leadership, and develops them through a values-based talent development programme. Our Learning for Life Programme in Community and Youth Leadership develops leaders using the Leadership Challenge model and community service. This goes beyond our VIA and National Youth Achievement Award (NYAA) programmes which see all students attain NYAA Silver. Since 2013, an Applied Learning Programme (ALP) has used Design Thinking (DT) to develop empathy, design and prototyping skills in the Health Sciences. Each year, Elective Modules (EMs) and Advanced EMs enrich our students learning and awareness of career pathways. Hua Yi is a caring school which closely monitors student development, and uses time-out and experiential programmes to ensure that no Hua Yian is left behind. We continue to leverage support from stakeholders and partners to align programmes with future demands on students as they enter the workforce, and lead exciting new lives in a future Singapore and global context."
+		"Special Student Development Programmes Offered": "Since 1956, Hua Yi has developed a comprehensive values-based curriculum focussed on developing Hua Yians to be empathetic, resilient, passionate and glocal (global and local in perspective) citizens. Hua Yi's vibrant school heritage and culture provides a caring, authentic environment for students to participate in a wide range of quality programmes. Our Applied Learning Programme in Healthcare Technologies for the Elderly deepens awareness of healthcare issues facing the elderly in Singapore. It develops in students skills and innovative mindsets through learning journeys, elective modules and school-based experiences integrated across academic subjects. Our Learning for Life Programme in Community Youth Leadership develops in all Hua Yians a range of leadership and socio-emotional competencies through the Leadership Challenge Model and its 5 core leadership practices. Student leaders grow to become confident, responsible and socially aware, and have opportunities to serve beyond the school. These are combined with a range of exciting co-curricular experiences for all students, including a focus on our DSA talent areas of sport, student leadership and the performing and visual arts. Hua Yians have opportunities for cultural immersion in Thailand, Indonesia and Taiwan, and resources are set aside in a Talent Development Programme to ensure that students receive customised support to fulfil their potential. Hua Yi emphasises a student-centric curriculum, with school-wide programmes which develop a sense of belonging, joy of learning and culture of care. These includes our signature Start It Right! activities in January, colourful House programme, Level Learning Programmes and camps, Learning Fiesta, Montage school concert, Drop Everything and Read (DEAR), and semestral post-exam activities. These programmes are enriched by the sustained support of our passionate alumni and committed PSG, providing Hua Yians with a school experience that prepares them for life."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -866,7 +866,8 @@
 					"Npcc (Land)": "Silver",
 					"Red Cross": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1087,6 +1088,23 @@
 			],
 			"Normal Technical": [
 				"140",
+				"158",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"221",
+				"245",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"176",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"141",
 				"158",
 				"None-posted"
 			]

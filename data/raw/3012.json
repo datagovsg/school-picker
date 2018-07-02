@@ -35,10 +35,14 @@
 		"ART",
 		"ART NA LEVEL",
 		"ART 'O' LEVEL",
+		"BASIC CHINESE",
+		"BASIC MALAY",
+		"BASIC TAMIL",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"COMBINED HUMANITIES (S,H)",
+		"CHINESE B",
+		"CHINESE N(A)",
 		"COMPUTER APPLICATIONS",
 		"COMPUTING",
 		"DESIGN & TECHNOLOGY",
@@ -48,13 +52,17 @@
 		"ENGLISH LANGUAGE (SYLL T)",
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
+		"FOOD STUDIES, N LEVEL",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
 		"HIGHER TAMIL",
-		"LITERATURE IN CHINESE",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
 		"LITERATURE(E)",
 		"MALAY",
+		"MALAY B",
+		"MALAY N(A)",
 		"MATHEMATICS",
 		"MATHEMATICS (SYLLABUS A)",
 		"MATHEMATICS (SYLLABUS T)",
@@ -62,6 +70,7 @@
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
+		"SCIENCE",
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
 		"SOCIAL STUDIES N(T)",
@@ -648,7 +657,8 @@
 					"Npcc (Land)": "Bronze",
 					"Red Cross": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -869,6 +879,23 @@
 			],
 			"Normal Technical": [
 				"134",
+				"159",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"237",
+				"252",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"181",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"130",
 				"159",
 				"None-posted"
 			]

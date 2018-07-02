@@ -4,7 +4,7 @@
 	"levels": "S",
 	"uen": " T07GS7032A",
 	"logo": "./Medias/Images/Schools/logos/tn_7032.jpg",
-	"website": "http://acsbr.net",
+	"website": "http://acsbr.moe.edu.sg",
 	"address": "60, Barker Road (309919)",
 	"telephone": [
 		"62561633"
@@ -26,7 +26,7 @@
 		],
 		"School Vision": "Generations of educated men who are God-fearing and growing in Grace.",
 		"School Mission": "Touch Hearts, Empower Minds, Enrich Souls",
-		"School Philosophy, Culture and Ethos": "Anglo-Chinese School (Barker Road) belongs to the ACS family of schools. Established in 1994 as a school of Hope for our feeder boys who desired a continued ACS education in a secondary school, we have been consistently moving towards our aspiration to be a school of Excellence. As a Methodist institution, we inculcate the core values of Respect, Integrity, Commitment and Excellence in our students. We believe that our students have the potential to excel and provide opportunities for them to do so through a unique ACS(BR) education that nurtures future-ready leaders.  Our double niche areas are in our Applied Learning Programme \"Developing Effective Communicators through Drama, Debates and Public Speaking\" and Lifelong Learning Programme \"Building Character through Sports and Outdoor Education\".  We offer a holistic and broad-based education that strikes a balance between the academic and non-academic, so that we can provide an environment that is happy, enriching and fulfilling.  True to our mission, we aim to touch hearts by creating memories and giving meaning to all that we do, empower minds by sharpening the intellect and broadening perspectives, and enrich souls by growing in faith and serving others. Our product - the ACS(BR) Gentleman.",
+		"School Philosophy, Culture and Ethos": "Anglo-Chinese School (Barker Road) belongs to the ACS family of schools. Established in 1994 as a school of Hope for our feeder boys who desired a continued ACS education in a secondary school, we have been consistently moving towards our aspiration to be a school of Excellence. As a Methodist institution, we inculcate the core values of Respect, Integrity, Commitment and Excellence in our students. We believe that our students have the potential to excel and provide opportunities for them to do so through a unique ACS(BR) education that nurtures future-ready leaders.  Our double niche areas are in our Applied Learning Programme \"Developing Confident and Effective Communicators\" and Lifelong Learning Programme \"Building Character through Sports and Outdoor Education\".  We offer a holistic and broad-based education that strikes a balance between the academic and non-academic, so that we can provide an environment that is happy, enriching and fulfilling.  True to our mission, we aim to touch hearts by creating memories and giving meaning to all that we do, empower minds by sharpening the intellect and broadening perspectives, and enrich souls by growing in faith and serving others. Our product - the ACS(BR) Gentleman.",
 		"Type of School": "Government-aided Sch / Boys' School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
@@ -37,9 +37,11 @@
 	},
 	"SubjectOffered": [
 		"Additional Mathematics",
+		"Art",
 		"Biology",
 		"Chemistry",
 		"Chinese",
+		"Chinese B",
 		"Computer Applications",
 		"Computing",
 		"Design & Technology",
@@ -47,10 +49,15 @@
 		"English Language",
 		"Food & Nutrition",
 		"Food And Consumer Education",
+		"Food Studies, N Level",
 		"Geography",
+		"History",
+		"Humanities (Ss, Geography)",
 		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In English)",
 		"Literature(E)",
 		"Malay",
+		"Malay B",
 		"Mathematics",
 		"Music",
 		"Physical Education",
@@ -58,7 +65,7 @@
 		"Principles Of Accounts",
 		"Science (Phy, Chem)",
 		"Tamil",
-		"Visual Arts"
+		"Tamil B"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -97,17 +104,10 @@
 			"Languages & Humanities": "Developing Effective Communicators through Drama, Debates and Public Speaking",
 			"Sports & Outdoor Education": "Building Character through Sports (Basketball, Rugby, Tennis and Water Polo) & Outdoor Education"
 		},
-		"Special Student Development Programmes Offered": "1:1 Learning Programme, Aesthetics Programme, Applied Learning Programme \"Developing Effective Communicators through Drama, Debates and Public Speaking\", Character Development encompassing Spiritual, Enterprise, Citizenship, Personal & Social Lifeskills and Service Learning, Cyber-wellness Programme, Integrated Values-In-Action programme that culminates in C21@ACS(BR) that incorporates VIA and 21st century competencies, Highly Effective Youth! Programme, Level Camps, Lifelong Learning Programme \"Building Character through Sports & Outdoor Education\", Sports Education Programme, Student mentoring by staff, Swimming and Flippa Ball Programme, Study Skills Modules, Talent Development Programme and Whole school Approach to Effective Communication."
+		"Special Student Development Programmes Offered": "1:1 Learning Programme, Aesthetics Programme, Applied Learning Programme \"Developing Confident and Effective Communicators\", Character Development encompassing Spiritual, Enterprise, Citizenship, Personal & Social Lifeskills and Service Learning, Cyber-wellness Programme, Integrated Values-In-Action programme that involves overseas exposure, Highly Effective Youth! Programme, Level Camps, Lifelong Learning Programme \"Building Character through Sports & Outdoor Education\", Sports Education Programme, Student mentoring by staff, Swimming and Flippa Ball Programme, Study Skills Modules, Talent Development Programme and Whole school Approach to Effective Communication."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": [
-					"DA (Character Development)",
-					"PARTNERS (Merit)"
-				],
-				"Outstanding Development Award": "ODA (National Education)"
-			},
 			"2015": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -126,96 +126,6 @@
 				"Outstanding Development Award": "ODA (National Education)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Rugby",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Rugby",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Taekwondo",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Waterpolo",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Waterpolo",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
 				{
 					"year": "2015",
 					"category": "Basketball",
@@ -579,36 +489,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -696,26 +576,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Sea Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Boys' Brigade",
 					"award": "Gold"
@@ -779,30 +639,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 236,
-			"upper": 248,
-			"lowerAffiliated": 194,
-			"upperAffiliated": 250
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 173,
-			"upper": 199,
-			"lowerAffiliated": 154,
-			"upperAffiliated": 199
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": null,
-			"upper": null,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -874,6 +710,30 @@
 			"upper": 159,
 			"lowerAffiliated": 126,
 			"upperAffiliated": 151
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 240,
+			"upper": 252,
+			"lowerAffiliated": 189,
+			"upperAffiliated": 246
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": null,
+			"upper": null,
+			"lowerAffiliated": 156,
+			"upperAffiliated": 198
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 122,
+			"upper": 156,
+			"lowerAffiliated": 104,
+			"upperAffiliated": 150
 		}
 	],
 	"postalCode": "309919",

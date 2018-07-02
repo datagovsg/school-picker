@@ -14,16 +14,16 @@
 	],
 	"email": "TPSS@MOE.EDU.SG",
 	"mrt": "TAMPINES MRT",
-	"bus": "3 , 8 , 15 , 17 , 18 , 20 , 21 , 27 , 28 , 34 , 39 , 59 , 168 , 292 , 518 ",
+	"bus": "3 , 8 , 15 , 17 , 18 , 20 , 21 , 27 , 28 , 34 , 39 , 59 , 129 , 168 , 292 , 298 , 518 ",
 	"GeneralInformation": {
 		"Principal": "MR SHANE KWOK POH KEONG",
 		"Vice Principal": [
 			"MRS ROSE CHEN",
 			"MDM SO MUN YEE"
 		],
-		"School Vision": "A caring community of Learners, Thinkers and Leaders",
+		"School Vision": "A Caring Community of Learners, Thinkers and Leaders",
 		"School Mission": "To provide a well-rounded education in a nurturing environment to prepare Tampinesians for the future",
-		"School Philosophy, Culture and Ethos": "We believe that every child should learn and function in an inclusive, secure, caring, and stimulating environment to inspire a love for learning. As every child has the potential to excel, we, as a school, play the important role of equipping and empowering our students to become confident learners, thinkers and leaders. Additionally, we ensure that Tampinesians learn and practise good values to serve with empathy and care for the community and nation.",
+		"School Philosophy, Culture and Ethos": "We believe that every child should learn and function in an inclusive, secure, caring and stimulating environment to inspire a love for learning. As every child has the potential to excel, we, as a school, play the important role of equipping and empowering our students to become confident learners, thinkers and leaders. Additionally, we ensure that Tampinesians learn and practise good values to serve with empathy and care for the community and nation.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -31,6 +31,8 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART",
+		"ART NA LEVEL",
+		"ART 'O' LEVEL",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
@@ -93,7 +95,7 @@
 			"STEM": "Creative Engineering : Inter-disciplinary Authentic Problem Solving",
 			"Music & Performing Arts / Visual Arts & Design": "Creative Expressions: Expressing creatively through visual and performing arts (Arts Education)"
 		},
-		"Special Student Development Programmes Offered": "The school offers a Learning for Life Programme (LLP) 'Creative Expressions: Character Development Through Visual and Performing Arts'. By actively involving students in artistic exposure, artistic creation, and artistic outreach, our LLP forms a core component of the school's co-curriculum. Learning through the arts, our students will embody intellectual curiosity in art-making, tenacity in learning attitude, and steadfast values in collaborative endeavours. Above all, Tampinesians should grow through our LLP to become individuals of good character who are responsible to family, community, and nation. To promote applied learning in the academic domain, the school has an Applied Learning Programme in 'Creative Engineering: Inter-disciplinary Authentic Problem Solving'.  Using the Design Thinking framework, the school aims to integrate problem solving into the disciplines of Mathematics, Science, and Design and Technology."
+		"Special Student Development Programmes Offered": "The school offers a Learning for Life Programme (LLP) titled 'Creative Expressions: Character Development Through Visual and Performing Arts'. By actively involving students in artistic exposure, artistic creation, and artistic outreach, our LLP forms a core component of the school's co-curriculum. Learning through the arts, our students will embody intellectual curiosity in art-making, tenacity in their learning attitude, and steadfast values in collaborative endeavours. Above all, Tampinesians should grow through our LLP to become individuals of good character who are responsible to family, community, and nation. To promote applied learning in the academic domain, the school has an Applied Learning Programme (ALP) in 'Creative Engineering: Inter-disciplinary Authentic Problem Solving'. The school has integrated problem solving into the disciplines of Science, Technology, Engineering and Mathematics (STEM). Since 2017, the school has introduced Maker Faire as a CCA and from 2019 the subject, Electronics into the upper secondary curriculum to extend the interests of students in STEM."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -581,7 +583,8 @@
 					"Npcc (Land)": "Bronze",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -803,6 +806,23 @@
 			"Normal Technical": [
 				"129",
 				"159",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"203",
+				"225",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"170",
+				"191",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"132",
+				"157",
 				"None-posted"
 			]
 		}

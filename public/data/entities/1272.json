@@ -2,10 +2,10 @@
 	"code": "1272",
 	"name": "Fern Green Primary School",
 	"levels": "P",
-	"uen": " ",
+	"uen": " T17GS0004L",
 	"logo": "./Medias/Images/Schools/logos/tn_1272.jpg",
 	"website": "http://www.ferngreenpri.moe.edu.sg",
-	"address": "70, 70 Fernvale Link (797538)",
+	"address": "70, Fernvale Link (797538)",
 	"telephone": [
 		"68343100"
 	],
@@ -51,12 +51,12 @@
 	},
 	"postalCode": "797538",
 	"coordinates": [
-		103.8803163,
-		1.3972697
+		103.8801962,
+		1.3976208
 	],
 	"svy21": [
-		33230.26,
-		42128.62
+		33216.85,
+		42167.37
 	],
 	"planningArea": "SE",
 	"neighbours": [
@@ -72,26 +72,12 @@
 	"specialNeeds": [
 		"Mild SEN"
 	],
+	"studentCare": true,
 	"p1Registration": {
-		"Total Vacancy": 240,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 200,
-		"No. of Applicants in Phase 1": 0,
-		"Places taken up to Phase 1": 0,
-		"Vacancy for Phase 2A1": 200,
-		"No. of Applicants in Phase 2A1": 0,
-		"Places taken up to Phase 2A1": 0,
-		"Vacancy for Phase 2A2": 200,
-		"No. of Applicants in Phase 2A2": 0,
-		"Places taken up to Phase 2A2": 0,
-		"Vacancy for Phase 2B": 120,
-		"No. of Applicants in Phase 2B": 0,
-		"Places taken up to Phase 2B": 0,
-		"Vacancy for Phase 2C": 240,
-		"No. of Applicants in Phase 2C": 140,
-		"Places taken up to Phase 2C": 140,
-		"Vacancy for Phase 2C Supplementary": 100,
-		"No. of Applicants in Phase 2C Supplementary": 94
+		"TOTAL VACANCY": 300,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 260,
+		"NO. OF APPLICANTS IN PHASE 1": 21
 	},
 	"id": "1272"
 }

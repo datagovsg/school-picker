@@ -12,9 +12,9 @@
 	"fax": [
 		"64494286"
 	],
-	"email": "BEDOKVIEW_SS@MOE.EDU.SG",
+	"email": "bedokview_ss@moe.edu.sg",
 	"mrt": "TANAH MERAH MRT",
-	"bus": "2 , 9 , 12 , 14 , 24 , 25 , 31 , 35 , 38 , 45 , 46 , 47 , 48 , 506 , 545 ",
+	"bus": "2 , 9 , 12 , 14 , 24 , 25 , 31 , 35 , 38 , 45 , 46 , 47 , 48 , 506 ",
 	"GeneralInformation": {
 		"Principal": "MRS VALERIE PINTO",
 		"Vice Principal": [
@@ -805,7 +805,8 @@
 					"Npcc (Land)": "Silver",
 					"St John Ambulance Brigade": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1027,6 +1028,18 @@
 			"Normal Technical": [
 				"124",
 				"159",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"212",
+				"235",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"168",
+				"198",
 				"None-posted"
 			]
 		}

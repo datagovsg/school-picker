@@ -30,11 +30,10 @@
 	},
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
+		"ART",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
@@ -43,8 +42,10 @@
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
-		"HIGHER MALAY",
+		"HIGHER TAMIL",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
@@ -87,7 +88,7 @@
 			"STEM": "Programme for Authentic Science, Technology and Environmental Learning",
 			"Music & Performing Arts / Visual Arts & Design": "H2eArts in Tune Programme: History & Heritage through Arts & Music Programme"
 		},
-		"Special Student Development Programmes Offered": "The school hosts the Centre for Teaching & Learning Excellence, a unique collaboration among the Academy of Singapore Teachers (AST), the National Institute of Education (NIE) and the Ministry of Education (MOE). Master Teachers (MTT) are attached to the Centre where they co-plan and co-teach with our teachers as part of in-situ professional development. Our Applied Learning Programme (ALP), PASTEL (Programme for Authentic Science, Technology and Environmental Learning) promotes interest in Science, Technology, Engineering and Mathematics (STEM). Students learn water conservation and water quality analysis methods through fieldwork. They experience programming, use of electronics, building of prototypes and work attachments at post-secondary institutions and industries. Through our Learning for Life Programme (LLP), H2eArts in Tune Programme (History & Heritage through Arts & Music Programme), students are nurtured to develop a keen sense and appreciation of the aesthetics in its various forms and its rich cultural heritage. It comprises exposure to and experiences in the performing arts, music, as well as digital and visual arts. Through the breadth and depth of experience, students develop their strength of character, self-discipline, self-confidence, teamwork and leadership competencies. Students' learning culminate in a biennial performances-cum-exhibition of art work, a school-based platform in collaboration with the community. The annual Student Conference is a platform for our students to share their knowledge and skills in topics of their passion. Teacher Mentors coach students, resulting in confident speakers and quality learning for all. Under the 1:1 Computing Programme, each student, equipped with a Chromebook, is developed as a self-directed and collaborative learner through progressive teaching pedagogies and cyberwellness programme."
+		"Special Student Development Programmes Offered": "The school hosts the Centre for Teaching & Learning Excellence, a unique collaboration among the Academy of Singapore Teachers (AST), the National Institute of Education (NIE) and the Ministry of Education (MOE). Master Teachers (MTT) are attached to the Centre where they co-plan and co-teach with our teachers as part of in-situ professional development. Our Applied Learning Programme (ALP), PASTEL (Programme for Authentic Science, Technology and Environmental Learning) promotes interest in Science, Technology, Engineering and Mathematics (STEM). Students learn water conservation and water quality analysis methods through fieldwork. They experience programming, use of electronics, building of prototypes and work attachments at post-secondary institutions and industries. Through our Learning for Life Programme (LLP), H2eArts in Tune Programme (History & Heritage through Arts & Music Programme), students are nurtured to develop a keen sense and appreciation of the aesthetics in its various forms and its rich cultural heritage. It comprises exposure to and experiences in the performing arts, music, as well as digital and visual arts. Through the various meaningful experiences, students develop strength of character, self-discipline, self-confidence, critical thinking, teamwork and leadership competencies. Students' learning culminate in a biennial performances-cum-exhibition of art work, a school-based platform in collaboration with the community. The annual Student Conference is a platform for our students to share their knowledge and skills in topics of their passion. Teacher Mentors coach students, resulting in confident speakers and quality learning for all. Under the 1:1 Computing Programme, each student, equipped with a Chromebook, is developed as a self-directed and collaborative learner through progressive teaching pedagogies and cyberwellness programme."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -749,7 +750,8 @@
 					"Ncc (Land Girls)": "Gold",
 					"Npcc (Land)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -970,6 +972,23 @@
 			],
 			"Normal Technical": [
 				"114",
+				"151",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"245",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"185",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"113",
 				"151",
 				"None-posted"
 			]

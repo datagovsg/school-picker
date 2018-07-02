@@ -99,10 +99,8 @@
 			"Hip-Hop"
 		],
 		"Clubs & Societies": [
-			"Green Club",
 			"It / Media Club",
-			"Ldds - English",
-			"Strategic Games Club"
+			"Ldds - English"
 		]
 	},
 	"SpecialProgrammes": {
@@ -110,35 +108,12 @@
 			"Languages & Humanities": "Developing Confident & Competent Communicators through Oracy Skills Programme",
 			"Music & Performing Arts": "Performing Arts : “iACE@Juying” ( I Appreciate, I Create, I Exhibit at Juying)"
 		},
-		"Special Student Development Programmes Offered": "Applied Learning Programme (ALP): Develops students to be competent and confident communicators. Students undergo a series of oracy programmes from Sec 1 to Sec 3 such as storytelling (Sec 1), drama (Sec 2) and debate (Sec 3). A Speaker's Corner, set up in the canteen, provides an additional platform to encourage students to confidently address their fellow schoolmates during recess on issues they are concerned about."
+		"Special Student Development Programmes Offered": "Applied Learning Programme (ALP) in Oracy: Develops students to be competent and confident communicators. Students undergo a tiered oracy programme from Tier 1 for all classes (Stand & Deliver), Tier 2 (TED-Talks) to Tier 2+ (Talent development in journalistic skills such as roving reporters and student emcees). A Speakers' Corner, a podium set up on a stage in the canteen, allows students to confidently address their schoolmates on various issues."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": "DA (Character Development)"
-			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Commendation"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -207,16 +182,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "NCDCC",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Sea Boys)",
-					"award": "Bronze"
-				},
-				{
 					"year": "2015",
 					"category": "NCC (Sea)",
 					"award": "Bronze"
@@ -250,30 +215,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 193,
-			"upper": 239,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 152,
-			"upper": 185,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 122,
-			"upper": 152,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -342,6 +283,30 @@
 			"year": "2017",
 			"programme": "Normal Technical",
 			"lower": 115,
+			"upper": 158,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 195,
+			"upper": 253,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 156,
+			"upper": 194,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 133,
 			"upper": 158,
 			"lowerAffiliated": null,
 			"upperAffiliated": null

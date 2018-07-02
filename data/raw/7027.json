@@ -13,8 +13,8 @@
 		"62871607"
 	],
 	"email": "yuying_ss@moe.edu.sg",
-	"mrt": "KOVAN MRT",
-	"bus": "25 , 51 , 53 , 55 , 62 , 87 , 113 , 119 , 151 , 854 ",
+	"mrt": "KOVAN MRT, SERANGOON MRT, HOUGANG MRT",
+	"bus": "25 , 51 , 53 , 53M , 55 , 62 , 87 , 113 , 119 , 151 , 854 ",
 	"GeneralInformation": {
 		"Principal": "MR LO CHEE LIN",
 		"Vice Principal": [
@@ -23,7 +23,7 @@
 		],
 		"School Vision": "Enterprising Learners for Excellence",
 		"School Mission": "To Nurture Wholesome Individuals with Global Mindset, Passion to Learn  and Spirit to Serve",
-		"School Philosophy, Culture and Ethos": "Yuying Secondary School is a 107 year old government-aided school steeped in Chinese history, culture and tradition. The school embraces the philosophy that all students can be nurtured and their talents cultivated so that they can contribute to society. The school believes in providing a holistic education that anchors its students firmly in the school values of 'Integrity, Resilience, Respect and Responsibility' (IR3), through its strong Character and Citizenship Education Progamme, and its focus on critical and inventive thinking. As signified by its emblem of a soaring eagle, the school seeks to produce students who are not just academically able but are also wholesome in character, strong and resilient even in the face of adversities and always soaring towards greater heights. It also adopts an active approach in developing students to be leaders in the school and of the community, with a passion to serve.",
+		"School Philosophy, Culture and Ethos": "Founded in 1910, Yuying Secondary School is a government-aided school steeped in history, culture and tradition. The school believes in providing a positive learning environment to develop skills and competencies necessary for students to be future-ready. With the understanding that students are motivated to learn when they are encouraged and feel a sense of belonging, the school focuses on fostering strong teacher-student rapport. The school values of Integrity, Resilience, Respect and Responsibility undergird the belief that it is essential to help each student develop self-awareness and self-management. Celebrating diversity, the school offers a suite of curricular and co-curricular experiences that are engaging and invites students to explore and develop their talents and interests. The school seeks to nurture students to be wholesome in character, possessing resilience and skills to see possibilities and seize opportunities wherever they go.",
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -33,8 +33,6 @@
 		"ART",
 		"CHEMISTRY",
 		"CHINESE",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
@@ -42,17 +40,16 @@
 		"EXERCISE AND SPORTS SCIENCE",
 		"FOOD & NUTRITION",
 		"HIGHER CHINESE",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
 		"MALAY",
 		"MATHEMATICS",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
-		"PRINCIPLES OF A/C",
-		"PROJECT WORK",
-		"SCIENCE",
+		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, BIO)",
-		"SCIENCE (PHY, CHEM)",
-		"SOCIAL STUDIES"
+		"SCIENCE (PHY, CHEM)"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -71,12 +68,11 @@
 		],
 		"Visual and Performing Arts": [
 			"24 - Season Drums",
-			"Art Club",
 			"Band - Concert",
 			"Dance - Chinese",
 			"Dance - Malay",
 			"Ensemble - Guitar",
-			"Orchestra - Chinese",
+			"Ensemble - Guzheng",
 			"Photography Club"
 		],
 		"Clubs & Societies": [
@@ -94,7 +90,7 @@
 			"Business & Entrepreneurship": "Fostering  Inventive and  Critical Thinking through Design Thinking for Enterprising Learners",
 			"Community & Youth Leadership": "Totally Wholesome Engaged and Empowered TeenS (TWEETS)"
 		},
-		"Special Student Development Programmes Offered": "In line with the school's vision, 'Enterprising Learners for Excellence', the school's  Applied Learning Programme (ALP) seeks to foster critical and inventive thinking and an entrepreneurial spirit through a comprehensive 3-year structured programme that is offered to all students. Students are taught the fundamental skills and processes of Design Thinking through the Design and Technology curriculum and Project Work. The school is on board the YES! (Young Entrepreneurs Scheme for  Schools)programme, leveraging on its Design and Entrepreneurship Club and adopted by Koufu Pte Ltd and Innervative Learning Pte Ltd under an `Entrepreneur-Adopt-a-School' initiative to provide entrepreneurship education to her students. The Learning for Life Programme (LLP) `Totally Wholesome Engaged and Empowered Teens' (TWEETS) is another signature programme offered to all students. It seeks to provide students with a holistic experience through their active involvement in Values in Action (ViA) activities as part of the school's Character and Citizenship Education Programme. Through EPIC (Equipping, Planning, Initiating and Closure), students acquire the necessary knowledge and skills to plan, initiate and execute a ViA project. It also provides them with a platform  to practise and live out the school values and to  network and collaborate with external organizations. Through its LLP, the school seeks to make community and youth leadership more pervasive and to foster a culture of volunteerism. The school is also on board the `Whole School Approach to Effective Communication' (WSA-EC), to provide a conducive environment for the  learning of the English Language."
+		"Special Student Development Programmes Offered": "In line with the school's vision, 'Enterprising Learners for Excellence', the school develops key programmes that cater to the diverse profile of students. Student leadership development in Yuying provides all students with opportunities to take on leadership roles and receive tiered leadership training that develops their 21st century competencies and leadership skills. Grounded in leadership principles, the Lifelong Learning Programme (LLP) seeks to nurture students in self-leadership to become community youth leaders. Through Values-in-Action activities in the LLP, students are given opportunities to be environmental advocates and social changemakers. To foster inventive and critical thinking for enterprising learners, the Applied Learning Programme (ALP) trains students in the Design Thinking protocol to solve real-life problems. Through ALP, students develop both cognitive and affective empathy in the process of ideating and creating solutions for a better future for the community. The school also taps on its Vertical Farming resource to design authentic and experiential learning experiences for students when teaching subject-specific concepts. This makes learning meaningful for students. Industry partnerships and attachment opportunities provide our students the insights to the skills and competencies necessary for them to be future-ready. In addition, students are able to identify their areas of strengths and interests beyond the context of a classroom. With heightened self-awareness, many are able to pursue their passion and engage in purposeful learning."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1080,7 +1076,8 @@
 					"Ncc (Land Boys)": "Bronze",
 					"Npcc (Land)": "Bronze"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1300,6 +1297,23 @@
 			],
 			"Normal Technical": [
 				"103",
+				"151",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"233",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"181",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"111",
 				"151",
 				"None-posted"
 			]

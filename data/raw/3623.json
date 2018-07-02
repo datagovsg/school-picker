@@ -82,7 +82,6 @@
 			"Gamelan Ensemble",
 			"Guitar Ensemble",
 			"Malay Dance",
-			"Photography Club",
 			"Symphonic Band (Evg Winds)"
 		],
 		"Clubs & Societies": [
@@ -642,7 +641,8 @@
 					"Npcc (Land)": "Gold",
 					"Red Cross": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -863,6 +863,23 @@
 			],
 			"Normal Technical": [
 				"139",
+				"159",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"224",
+				"250",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"179",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"133",
 				"159",
 				"None-posted"
 			]

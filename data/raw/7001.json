@@ -44,6 +44,7 @@
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
+		"CHINESE B",
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMBINED HUMANITIES (S,L)",
@@ -53,7 +54,6 @@
 		"HIGHER MALAY",
 		"HIGHER TAMIL",
 		"HISTORY",
-		"INDIVIDUALISED STUDY OPTION",
 		"LIFE SCIENCES",
 		"LITERATURE(E)",
 		"MALAY",
@@ -77,9 +77,7 @@
 			"Cross Country",
 			"Floorball",
 			"Football",
-			"Frisbee",
 			"Golf",
-			"Netball",
 			"Rugby",
 			"Sailing",
 			"Softball",
@@ -98,8 +96,7 @@
 			"Ncc(Air)",
 			"Npcc",
 			"Scouts",
-			"St. John Brigade",
-			"Ventures"
+			"St. John Brigade"
 		],
 		"Visual and Performing Arts": [
 			"Cultural Performing Arts Club",
@@ -113,15 +110,11 @@
 			"Vocal Accord"
 		],
 		"Clubs & Societies": [
-			"Acspress",
 			"Astronomy Club",
 			"Chess Club",
-			"Chess Club - Chinese",
 			"Co-Operative Society",
-			"Computer Services Team",
 			"Debate Club",
 			"Environment Focus Group",
-			"Health And Fitness Club",
 			"Interact Club",
 			"Library Council",
 			"Mathematics Competition Team",
@@ -133,8 +126,7 @@
 			"Young Diplomat's Society"
 		],
 		"Others": [
-			"Prefectorial Board",
-			"Student Council"
+			"Prefectorial Board"
 		]
 	},
 	"SpecialProgrammes": {
@@ -3146,7 +3138,8 @@
 					"Scout (Unit 1)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		},
 		"Junior College": {
 			"2005": {},
@@ -4594,7 +4587,8 @@
 					"Ensemble - Guitar": "Distinction",
 					"Ensemble - Strings": "Distinction"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -4726,6 +4720,19 @@
 				"235",
 				"259"
 			]
+		},
+		"2018": {
+			"Integrated Programme": [
+				"256",
+				"273",
+				"None-posted"
+			],
+			"'O' Level Programme": [
+				"249",
+				"260",
+				"235",
+				"255"
+			]
 		}
 	},
 	"L1R5History": {
@@ -4801,6 +4808,20 @@
 			"Science/IB": [
 				"2",
 				"5"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2018": {
+			"Arts": [
+				"-",
+				"-"
+			],
+			"Science/IB": [
+				"2",
+				"6"
 			],
 			"Commerce": [
 				"-",

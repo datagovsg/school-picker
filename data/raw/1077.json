@@ -22,7 +22,11 @@
 			"MR CHAN WENG YEW MARVIN"
 		],
 		"Vice Principal (Admin)": "MR LOH YUH POR",
-		"School Vision": "The School of Tomorrow, Today",
+		"School Vision": [
+			"Learn with Passion",
+			"Serve with Compassion",
+			"Lead with Vision"
+		],
 		"School Mission": "Maximizing potential through the development of mind, body and soul",
 		"School Philosophy, Culture and Ethos": "Rosythians are grounded in the I-CARE values as we develop our strengths and competencies to be 'Ready to Serve'.   We aspire to Learn with Passion, Serve with Compassion and Lead with Vision.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
@@ -1237,7 +1241,8 @@
 					"Brownies (Pack 1)": "Silver",
 					"Scout": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "555855"

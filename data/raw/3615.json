@@ -24,7 +24,7 @@
 		"Vice Principal (Admin)": "MR TAN TONG AIK",
 		"School Vision": "A Community of Dynamic, Confident and Caring Learners",
 		"School Mission": "To nurture agile minds and build character through holistic education",
-		"School Philosophy, Culture and Ethos": "We aim to seed the skills and dispositions of confident learners and develop caring individuals with a heart for the society. We pride ourselves on providing a holistic education that develops our students into respectful, responsible and resilient individuals. The school adopts a whole-school approach towards student development with 'every educator, a character builder and a discipline teacher'. Our staff subscribes to the guiding principle of 'High Care and High Expectations' to shape the daily interactions between teachers and students. Our literacy and numeracy programmes strengthen the foundations of our weaker students and stretch the more able ones. We are also committed to staff professional development to ensure that our staff members are competent in helping students experience success in both the academic and non-academic domains.  There is a strong and pervasive ethos of care and our students feel that the school is a safe environment for learning and growth.",
+		"School Philosophy, Culture and Ethos": "We aim to seed the skills and dispositions of confident learners and develop caring individuals with a heart for the society. We pride ourselves on providing a holistic education that develops our students into respectful, responsible and resilient individuals. The school adopts a whole-school approach towards student development with 'every educator, a character builder and a discipline teacher'. Our staff subscribes to the guiding principle of 'High Expectations, High Care' to shape the daily interactions between teachers and students. Our literacy and numeracy programmes strengthen the foundations of our weaker students and stretch the more able ones. We are also committed to staff professional development to ensure that our staff members are competent in helping students experience success in both the academic and non-academic domains.  There is a strong and pervasive ethos of care and our students feel that the school is a safe environment for learning and growth.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -41,8 +41,6 @@
 		"CHINESE",
 		"CHINESE B",
 		"CHINESE N(A)",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
@@ -56,6 +54,8 @@
 		"HIGHER CHINESE",
 		"HIGHER TAMIL",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MALAY B",
@@ -95,10 +95,12 @@
 			"Band - Concert",
 			"Dance - Malay",
 			"Drama Society",
+			"International Dance",
 			"Orchestra - Chinese"
 		],
 		"Clubs & Societies": [
 			"Ava / Infocomm Club",
+			"Library Council",
 			"Scrabble Club"
 		]
 	},
@@ -110,7 +112,7 @@
 			"STEM": "Eco-sustainability through Inquiry-Based Learning",
 			"Sports & Outdoor Education": "VALOUR - Values and ChAracter BuiLding through OUtdoor CuRriculum"
 		},
-		"Special Student Development Programmes Offered": "The school was awarded the MOE Niche Programme in Environment education in 2010. It was one of 3 recipients of the 2012 President's Award for the Environment. In 2014, the school transitioned its niche into an Applied Learning Programme (ALP) - Eco-sustainability through Inquiry-Based Learning - in the fields of Science, Technology, Engineering and Mathematics (STEM). The ALP offers a robust interdisciplinary curriculum for students to appreciate the vital connections between text-book knowledge and skills to solve real-world problems and arrive at useful solutions. This three-year programme provides students the opportunity to engage in critical inquiry, hands-on research and field investigations to apply scientific principles in real life situations. Our Learning for Life Programme (LLP) - Values And character buiLding through Outdoor cURiculum (VALOUR) - focuses on values acquisition and character building through an outdoor education curriculum. Unique learning opportunities incorporating adventure skills enhance students' self-esteem, self-confidence, independence and social-emotional competencies.  We customise the school curriculum to cater to students' interests, needs, abilities and learning styles. Our Normal Technical students are offered Retail Operations, an Applied Learning Subject. Students from the various courses are given the opportunities to take up Elective Modules and Advanced Elective Modules conducted at the Institutes of Technical Education and the Polytechnics respectively. All students are given opportunities to attain the National Youth Achievement Award (Bronze) through participation in Outdoor Adventure Camps and Values-in-Action (VIA) programmes."
+		"Special Student Development Programmes Offered": "It is the aspiration of the school that all Marsilians graduate as dynamic, confident and caring learners who are skilled in the 21st century competencies and care for self, family, nation and beyond. We believe these qualities can be developed through our distinctive programmes which complement our forward looking curriculum that caters to students' interests, strengths, abilities and learning styles.  A recipient of the 2012 President's Award for the Environment, MSS proudly offers its Applied Learning Programme (ALP) - Eco-sustainability through Inquiry-Based Learning - in the fields of Science, Technology, Engineering and Mathematics (STEM). The ALP seeks to imbue in students a Design Thinking mindset and provide a robust interdisciplinary curriculum for students to engage in critical inquiry, hands-on research and field investigations to apply scientific principles in authentic situations. Our Learning for Life Programme (LLP) - Values And Leadership development through Outdoor cURriculum (VALOUR) - offers unique learning opportunities incorporating adventure and leadership skills which enhance students' self-esteem, self-confidence, independence and socio-emotional competencies. All students are given the opportunity to take up cross-stream subjects as well as Elective Modules and Advanced Elective Modules conducted at the Institutes of Technical Education and the Polytechnics respectively. Some of these modules explore the ALP and LLP in greater depth. Our Normal Technical students are offered Retail Operations, an Applied Learning subject. Students may also look forward to attaining the National Youth Achievement Award (Silver) through participation in outdoor adventure camps and various student leadership enrichment activities."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -741,7 +743,8 @@
 					"Npcc (Land)": "Gold",
 					"Red Cross": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -963,6 +966,23 @@
 			"Normal Technical": [
 				"106",
 				"154",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"226",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"117",
+				"152",
 				"None-posted"
 			]
 		}

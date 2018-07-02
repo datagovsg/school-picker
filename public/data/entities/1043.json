@@ -74,7 +74,6 @@
 			"Choir",
 			"Dance - Chinese",
 			"Dance - Malay",
-			"Idesign  & Visual Arts",
 			"Speech And Drama Club"
 		],
 		"Clubs & Societies": [
@@ -82,7 +81,7 @@
 			"Saving Gaia"
 		],
 		"Others": [
-			"Student Leadership"
+			"Student Council"
 		]
 	},
 	"SpecialProgrammes": {
@@ -94,20 +93,7 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "2nd"
-				},
 				{
 					"year": "2016",
 					"category": "Track & Field",
@@ -150,21 +136,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Dance - Chinese",
@@ -218,11 +189,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Scout",
-					"award": "Silver"
-				},
-				{
 					"year": "2015",
 					"category": "Scout",
 					"award": "Bronze"
@@ -251,8 +217,8 @@
 		1.3835582
 	],
 	"svy21": [
-		19140.17,
-		40612.57
+		19140.13,
+		40612.5
 	],
 	"planningArea": "CK",
 	"neighbours": [
@@ -267,25 +233,10 @@
 	],
 	"studentCare": true,
 	"p1Registration": {
-		"Total Vacancy": 180,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 140,
-		"No. of Applicants in Phase 1": 42,
-		"Places taken up to Phase 1": 42,
-		"Vacancy for Phase 2A1": 98,
-		"No. of Applicants in Phase 2A1": 0,
-		"Places taken up to Phase 2A1": 42,
-		"Vacancy for Phase 2A2": 98,
-		"No. of Applicants in Phase 2A2": 6,
-		"Places taken up to Phase 2A2": 48,
-		"Vacancy for Phase 2B": 66,
-		"No. of Applicants in Phase 2B": 0,
-		"Places taken up to Phase 2B": 47,
-		"Vacancy for Phase 2C": 133,
-		"No. of Applicants in Phase 2C": 27,
-		"Places taken up to Phase 2C": 74,
-		"Vacancy for Phase 2C Supplementary": 106,
-		"No. of Applicants in Phase 2C Supplementary": 53
+		"TOTAL VACANCY": 180,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 140,
+		"NO. OF APPLICANTS IN PHASE 1": 47
 	},
 	"id": "1043"
 }

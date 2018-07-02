@@ -34,10 +34,6 @@
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
-		"COMBINED HUMANITIES (S,L)",
-		"COMBINED HUMANITIES (SS,LM)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ENGLISH LANGUAGE",
@@ -46,13 +42,20 @@
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
 		"HIGHER TAMIL",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
+		"HUMANITIES (SS, LIT IN MALAY)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
+		"MOBILE ROBOTICS",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
-		"PRINCIPLES OF A/C",
+		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE",
+		"SCIENCE (CHEM, BIO)",
+		"SCIENCE (PHY, CHEM)",
 		"TAMIL",
 		"VISUAL ARTS"
 	],
@@ -85,13 +88,16 @@
 			"Infocomm Club",
 			"Robotics Club",
 			"Science Club"
+		],
+		"Others": [
+			"Students' Council"
 		]
 	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
 		],
-		"Special Student Development Programmes Offered": "With the aim to nurture Andersonians to be intellectually curious, innovative, creative and culturally versatile leaders, the school takes pride in its niche and signature programmes that provide the platforms to imbue these qualities and facilitate diverse learning experiences. We have established a comprehensive Science Research Programme that provides opportunities for students to pursue their interests, develop their competencies and hone their talents in this area.  The Basic Coding Enrichment Programme aims to inculcate computational skills in students, to set them up for a lifetime of opportunities. The Drama Programme seeks to develop students into confident communicators and reflective thinkers who are able to challenge common perceptions and stereotypical perspectives. The Malay Elective Programme in Malay Language for Secondary Schools (EMAS) provides opportunities for students to develop a deeper appreciation of the Malay Language and culture. At the same time, the Service and Student Leadership Programme integrates leadership development with community outreach and action, so that students imbibe the qualities and attitudes of a servant leader. We hope to nurture citizens who are socially aware, informed about local and international issues, and able and ready to make a difference to the community and people around them. All in all, there is a strong focus on experiential learning in our academic and non-academic curriculum as we seek to actively engage our students in constructing, integrating and deepening their learning experiences."
+		"Special Student Development Programmes Offered": "With the aim to nurture Andersonians to be intellectually curious, innovative, creative and culturally versatile leaders, the school takes pride in its niche and signature programmes that provide the platforms to imbue these qualities and facilitate diverse learning experiences. We have established a comprehensive Science Research Programme that provides opportunities for students to pursue their interests, develop their competencies and hone their talents in this area.  The Basic Coding Enrichment Programme aims to inculcate computational skills in students, to set them up for a lifetime of opportunities. The Drama Programme seeks to develop students into confident communicators and reflective thinkers who are able to challenge common perceptions and stereotypical perspectives. The Elective Programme in Malay Language in Secondary Schools (EMAS) provides opportunities for students to develop a deeper appreciation of the Malay Language and culture. At the same time, the Service and Student Leadership Programme integrates leadership development with community outreach and action, so that students imbibe the qualities and attitudes of a servant leader. We hope to nurture citizens who are socially aware, informed about local and international issues, and able and ready to make a difference to the community and people around them. All in all, there is a strong focus on experiential learning in our academic and non-academic curriculum as we seek to actively engage our students in constructing, integrating and deepening their learning experiences."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1345,7 +1351,8 @@
 					"Npcc (Land)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1567,6 +1574,23 @@
 			"Normal Technical": [
 				"141",
 				"159",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"245",
+				"273",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"187",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"144",
+				"158",
 				"None-posted"
 			]
 		}

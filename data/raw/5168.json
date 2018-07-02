@@ -42,7 +42,35 @@
 		"SCIENCE",
 		"SOCIAL STUDIES"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Netball",
+			"Table Tennis",
+			"Tchoukball",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Brownies",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Chinese Calligraphy And Brush Painting",
+			"Choir",
+			"Dance - Chinese",
+			"Drama - English",
+			"Ensemble - Guzheng",
+			"Orchestra - Chinese"
+		],
+		"Clubs & Societies": [
+			"Chess Club - Chinese",
+			"Chess Club - International",
+			"Infocom Club",
+			"Weiqi Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"SAP"
@@ -980,7 +1008,8 @@
 					"Boys' Brigade": "Gold",
 					"Scout": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "399772"

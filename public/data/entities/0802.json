@@ -129,13 +129,6 @@
 	},
 	"AchievementHistory": {
 		"Junior College": {
-			"2014": {
-				"Outstanding Development Award": [
-					"ODA (Character Development)",
-					"ODA (National Education)"
-				],
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"2016": {
 				"School Distinction Awards": "SDA"
 			},
@@ -143,66 +136,6 @@
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Cross Country",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Fencing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Golf",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Shooting (Air Pistol)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Shooting (Air Pistol)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
 				{
 					"year": "2015",
 					"category": "Fencing",
@@ -295,46 +228,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -446,24 +339,6 @@
 	},
 	"L1R5History": [
 		{
-			"year": "2014",
-			"programme": "Arts",
-			"lower": 2,
-			"upper": 10
-		},
-		{
-			"year": "2014",
-			"programme": "Science/IB",
-			"lower": 2,
-			"upper": 10
-		},
-		{
-			"year": "2014",
-			"programme": "Commerce",
-			"lower": null,
-			"upper": null
-		},
-		{
 			"year": "2015",
 			"programme": "Arts",
 			"lower": 2,
@@ -513,6 +388,24 @@
 		},
 		{
 			"year": "2017",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2018",
+			"programme": "Arts",
+			"lower": 3,
+			"upper": 14
+		},
+		{
+			"year": "2018",
+			"programme": "Science/IB",
+			"lower": 2,
+			"upper": 15
+		},
+		{
+			"year": "2018",
 			"programme": "Commerce",
 			"lower": null,
 			"upper": null

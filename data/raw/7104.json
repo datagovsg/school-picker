@@ -25,8 +25,8 @@
 		"School Vision": "Institution of Eminence, Generations of Leaders; Grounded in Values, Global in Outlook",
 		"School Mission": "Empowering our students to be Role Models of Learning, Leaders of Society and Pillars of the Nation.",
 		"School Philosophy, Culture and Ethos": [
-			"Guided by the school's philosophy \"Excellence in Education for All\", Chung Cheng High School (Main) is committed to the development of our students and the nurturing of 21st century leaders through a holistic learning experience anchored on strong values. As the East Zone Centre of Excellence (Chinese), the school seeks to promote good practices in the teaching and learning of Chinese and Chinese Culture. A SAP school since 1979, we are committed to deliver an effective bilingual and values-based education. Through comprehensive bi-cultural programmes and various overseas immersion programmes, the school aims to nurture bi-cultural Chung Cheng leaders who are grounded in values, global in outlook and equipped with cross-cultural literacy. The school's rich tradition in culture and arts has seen many renowned talents in the cultural, literary and arts scene amongst our graduates. The Chung Cheng Education Framework focuses on delivering a forward-looking curriculum for the 21st century, equipping all students of Chung Cheng the values and skills that will enable them to excel in the evolving global landscape. As",
-			"an institution of eminence, the school offers a scenic and cultural environment with ample facilities to continue delivering quality education well into the 21st century."
+			"Guided by the school's philosophy \"Excellence in Education for All\", Chung Cheng High School (Main) is committed to the development of our students and the nurturing of 21st century leaders through a holistic learning experience anchored on strong values. As the East Zone Centre of Excellence (Chinese), the school seeks to promote good practices in the teaching and learning of Chinese and Chinese Culture. A SAP school since 1979, we are committed to deliver an effective bilingual and values-based education. Through comprehensive bi-cultural programmes and various overseas immersion programmes, the school aims to nurture bi-cultural Chung Cheng leaders who are grounded in values, global in outlook and equipped with cross-cultural literacy. The school's rich tradition in culture and the arts has seen many renowned talents in the cultural, literary and arts scene among our graduates. The Chung Cheng Total Curriculum Framework focuses on delivering a forward-looking curriculum for the 21st century, equipping all students with the values and skills that will enable them to excel in the evolving global landscape. As",
+			"an institution of eminence, the school offers an immersive environment that is well-resourced to deliver quality education well into the 21st century."
 		],
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Status of School": "Autonomous",
@@ -1409,7 +1409,8 @@
 					"Scout (Unit 1)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1516,6 +1517,13 @@
 			"Express": [
 				"240",
 				"275",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"242",
+				"263",
 				"None-posted"
 			]
 		}

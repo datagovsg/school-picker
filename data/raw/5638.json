@@ -62,7 +62,37 @@
 		"SOCIAL STUDIES",
 		"TAMIL"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Badminton School Team",
+			"Basketball",
+			"Floorball",
+			"Football",
+			"Rugby",
+			"Softball",
+			"Swimming",
+			"Tennis",
+			"Track & Field"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Choir",
+			"Ensemble - Guitar",
+			"Ensemble - String",
+			"Synergy"
+		],
+		"Clubs & Societies": [
+			"Chess Club",
+			"Computer Club",
+			"Pa Club",
+			"Robotics Club",
+			"Science Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Gifted Education Programme"
@@ -2007,7 +2037,8 @@
 					"Boys' Brigade": "Gold",
 					"Scout": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "309918"

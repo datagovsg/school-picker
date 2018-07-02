@@ -23,7 +23,13 @@
 		],
 		"School Vision": "Everyone Empowered and Enlightened",
 		"School Mission": "To nurture our students into lifelong learners anchored in PRIDE values, to lead and to serve",
-		"School Philosophy, Culture and Ethos": "We are guided by our philosophy 'Everyone can Learn, Everyone can Achieve and Everyone can Contribute' in our efforts to nurture our students to be empowered and enlightened. We offer a student-centric, values-driven education that helps our students to enjoy their school experience as well as to pursue their passion and interests for life-long learning. Over the years, our students have done well in both the academic and non-academic domains. Our school community strongly believes in the school motto 'Beyond Self' in leading the school towards achieving our vision. Our students' success is due to the hard work of a nurturing team of dedicated teachers, supportive parents, alumni and community.",
+		"School Philosophy, Culture and Ethos": [
+			"We are guided by our philosophy 'Everyone can Learn, Everyone can Achieve and Everyone can Contribute' in our efforts to nurture our students",
+			"to be empowered and enlightened. We offer a student-centric, values-driven education that helps our students to enjoy their school experience",
+			"as well as to pursue their passion and interests for life-long learning. Over the years, our students have done well in both the academic and",
+			"non-academic domains. Our school community strongly believes in the school motto 'Beyond Self' in leading the school towards achieving our",
+			"vision. Our students' success is due to the hard work of a nurturing team of dedicated teachers, supportive parents, alumni and community."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -43,6 +49,7 @@
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
+		"ELECTRONICS",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
@@ -66,7 +73,7 @@
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
-		"SOCIAL STUDIES",
+		"SMART ELECTRICAL TECHNOLOGY",
 		"TAMIL",
 		"TAMIL N(A)"
 	],
@@ -85,19 +92,21 @@
 			"Girl Guides",
 			"Ncc (Land)",
 			"Npcc",
+			"Scouts",
 			"St. John Brigade"
 		],
 		"Visual and Performing Arts": [
 			"Band - Concert",
 			"Choir",
+			"Cultural Ensemble - Malay",
 			"Dance - Chinese",
 			"Dance - Malay",
 			"Drama - English",
-			"Ensemble - Angklung/Kulintang",
+			"Drumatix Batucada",
 			"Orchestra - Chinese"
 		],
 		"Clubs & Societies": [
-			"Audio & Video/ Pa Club"
+			"Infocomm Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -108,7 +117,7 @@
 			"STEM": "Science in Health and Wellness – An Interdisciplinary Approach",
 			"Sports & Outdoor Education": "Sports for Life"
 		},
-		"Special Student Development Programmes Offered": "At Jurongville Secondary School, we believe in preparing our students for life. The school envisions each student to be a concerned citizen and a caring leader within and beyond the school community. Through the CCE and Leadership Curriculum, we engage our students in learning, achieving and contributing beyond self towards a larger community. There are two core programmes that allow students to exhibit Values in Action: the Overseas Service Learning (OSL) in countries such as Cambodia and Indonesia, and Values-in-Action (VIA) programmes. We believe that every student have potential and can be developed.  Thus, in Jurongville Secondary School, we provide a comprehensive and holistic curriculum and strive to provide learning opportunities for the varying needs and interests of our students. As such, Jurongville Secondary prides itself in offering 2 distinctive programmes, 'Real-World Learning Through Electronics' and 'Sports for Life'. In the Applied Learning Programme, 'Real-World Learning Through Electronics', all students receive opportunities to learn electronics and apply their learning in real-world settings. Lower Secondary students design electronic games and assistive technologies to help the community such as toys, walking sticks and LED shoes. Upper Secondary students have the opportunity to specialise in programmes that suit their strengths and interests. These include taking up the O-level Applied Subject, 'Electronics', ITE Applied Subject, 'Smart Electrical Technology'. 'Sports for Life' is a whole-school approach to character building through sports. Here, we teach students that the building of positive relationships is key to learning and growth. Besides DSA Sports in Tchoukball, Football and Netball, the students get to choose and enjoy a variety of sports in their PE lessons through games electives. Beyond PE curriculum, students could also opt for sports CCAs like Basketball, Sailing, Badminton, Sepak Takraw."
+		"Special Student Development Programmes Offered": "At Jurongville Secondary School, we believe in preparing our students for life. The school envisions each student to be a concerned citizen and a"
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1028,7 +1037,8 @@
 					"St John Ambulance Brigade": "Silver",
 					"Girl Guides (Coy 1)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1249,6 +1259,23 @@
 			],
 			"Normal Technical": [
 				"138",
+				"157",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"195",
+				"231",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"161",
+				"193",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"126",
 				"157",
 				"None-posted"
 			]

@@ -20,7 +20,11 @@
 		"Vice Principal": "MR KEONG WEN HAN",
 		"Vice Principal (Admin)": "MDM ONG SEOW PENG",
 		"School Vision": "We Learn, We Grow, We Achieve",
-		"School Mission": "To Nurture All Pupils To Their Fullest Potential Whilst Inculcating In Them Values Worthy Of Good Citizens",
+		"School Mission": [
+			"Grow Leaders",
+			"Empower Learners",
+			"Mould Character"
+		],
 		"School Philosophy, Culture and Ethos": [
 			"Through the school's vision, OEPS aims to create a positive learning environment and to provide meaningful learning experiences that nurture the child to be a caring and confident lifelong learner who strives for his/her best. The school believes that every child deserves the opportunity to learn and to grow as good role models, and to serve and to contribute back to the school and the society.",
 			"Building on the strong Culture of Care and focus on Character Development, the school strives to strengthen its total curriculum through multiple structured learning platforms that allow students to practise 21st Century Competencies so that they can be self-directed and stay resilient in their pursuit for both academic and non-academic excellence. For example, the strengthening of the school's student leadership programme is intended to provide leadership experience for all students in VIA service-learning projects so that they can internalize the importance of serving and contributing to the society. ",
@@ -536,7 +540,8 @@
 				"Best Unit Award": {
 					"Scout": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "458436"

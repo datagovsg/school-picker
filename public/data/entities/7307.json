@@ -25,9 +25,9 @@
 			"Mdm Heng Wei Shan",
 			"Mr Ho Mingda"
 		],
-		"School Vision": "Passionate Learners, Compassionate Leaders",
-		"School Mission": "Nurturing Manjusrians who are anchored in values whilst global in perspective",
-		"School Philosophy, Culture and Ethos": "The school nurtures Manjusrians as confident, independent and empathetic persons who are committed to life-long learning and possess the moral courage and purpose to serve our society and nation. We achieve this by ensuring that as learners and leaders, Manjusrians are able to make decisions based on sound fundamental beliefs and principles. Our aspiration is for them to understand and appreciate the impact of global interconnectedness while remaining rooted to Singapore.  Guided by our school motto 'Wisdom, Conduct, Benevolence, Aspiration', we pride ourselves in providing a rigorous yet holistic curriculum to foster both excellence and ethics, and in imbuing staff and students with the values of Respect, Integrity, Care and Excellence.  We will systematically cultivate habits and attitudes in our students so that they become effective learners who able to face challenges calmly and resolutely. The school is supported in its inclusive vision and mission by the Singapore Buddhist Federation.",
+		"School Vision": "A Vibrant Learning Community distinguished by Wisdom, Conduct, Benevolence and Aspiration",
+		"School Mission": "Nurturing Passionate Learners and Compassionate Leaders who are future-ready and anchored in values.",
+		"School Philosophy, Culture and Ethos": "Our Vision to be a Vibrant Learning Community distinguished by Wisdom, Conduct, Benevolence and Aspiration takes its inspiration from the school motto.  Teachers strive to be respected for their professionalism, expertise and integrity (Wisdom & Conduct) in building a culture of learning.  As an education institution, we seek to embody a spirit of charity and kindness balanced against the pursuit of excellence (Benevolence & Aspiration).  Our mission is to nurture confident engaged learners able to face future challenges with composure and resilience; as well as responsible citizens who possess a moral compass, a generosity of spirit and a sense of their purpose and place in society.  The school prides itself in providing a rigorous yet holistic curriculum that strengthens skills and dispositions as well as imbuing the values of Respect, Integrity, Care and Excellence in Manjusrians.  The school enjoys the support of the Singapore Buddhist Federation in its inclusive and balanced approach to educating all students.",
 		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay",
 		"Affiliated Schools": [
@@ -94,31 +94,11 @@
 			"STEM": "Developing sustainable, safe and secure living spaces through Smart home systems",
 			"Music & Performing Arts": "Learning through the ARTS"
 		},
-		"Special Student Development Programmes Offered": "The school has adopted the Building Learning Power approach in integrating character education and academic learning. Through the direct instruction of relevant learning dispositions, students are introduced to good habits and values as a foundation for more effective learning. This will also prepare students to better handle challenges outside the classroom in a calm and confident way.  Our Applied Learning Programme (ALP) - \"Smart Home and Assistive Technologies\" aims for students to learn the science behind SMART Technologies, and understand its application in the modern home.  Students may get to work on innovative ways for how the safety and security of the elderly or handicapped can be enhanced.  This exemplifies the values-driven aspect of our curriculum to enable students to play a part in contributing towards building a more vibrant and caring society. Our Learning for Life Programme (LLP) - \"Learning through the Arts\" aims to develop students' appreciation for various art forms.  Students will have opportunities to experience the arts both as audience and participants; and develop an interest in various forms of cultural expression.  The school has an on-going Taipei Exchange Programme to foster global awareness and cross-cultural skills of students. There is also a whole school approach in the championing of Reading Literacy for personal growth and excellence. With these programmes in place, our students are developed holistically as passionate learners and compassionate leaders."
+		"Special Student Development Programmes Offered": "A Building Learning Power approach complemented with elements of mindfulness is infused in the character education and academic curriculum.  Through direct instruction of key thinking competencies and basic mindfulness ideas, students are equipped with good habits and skills for more effective learning; and to solve challenges they may encounter with greater confidence.  The school's signature Applied Learning Programme in Smart Home and Assistive Technology is carried out with the support of Science Centre and IMDA.  This introduces students to sensor technology, electronics and simple coding in designing solutions for the modern home in aid of the elderly and disabled.  It is aligned to the school's values-focused orientation to enable students to play a part in contributing towards a compassionate and caring society. The school is developing another niche through its Learning through the Arts programme.  Student interest and skills in the aesthetics will be developed through experiencing music, art and drama with students as participants in enrichment workshops; and as performers in both school and public platforms. This will serve to strengthen their abilities for teamwork and self-expression. Those with the talent and passion can further develop themselves by joining our visual and performing arts CCAs - all of whom have attained high standards. Finally, there is also a whole school commitment in championing Reading Literacy in the young for personal growth, wisdom and excellence."
 	},
 	"AchievementHistory": {
 		"Secondary": {
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
 				{
 					"year": "2016",
 					"category": "Basketball",
@@ -141,31 +121,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category B",
@@ -234,26 +189,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Girl Guides (Coy 1)",
 					"award": "Gold"
@@ -317,30 +252,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 201,
-			"upper": 237,
-			"lowerAffiliated": 188,
-			"upperAffiliated": 236
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 154,
-			"upper": 199,
-			"lowerAffiliated": 154,
-			"upperAffiliated": 183
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 120,
-			"upper": 159,
-			"lowerAffiliated": 135,
-			"upperAffiliated": 150
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -411,6 +322,30 @@
 			"lower": 117,
 			"upper": 156,
 			"lowerAffiliated": 120,
+			"upperAffiliated": 151
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 228,
+			"lowerAffiliated": 188,
+			"upperAffiliated": 222
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 157,
+			"upper": 195,
+			"lowerAffiliated": 152,
+			"upperAffiliated": 184
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 109,
+			"upper": 149,
+			"lowerAffiliated": 119,
 			"upperAffiliated": 151
 		}
 	],

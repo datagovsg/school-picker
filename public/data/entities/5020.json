@@ -82,16 +82,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"School Distinction Awards": "SDA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Development Award": "DA (Character Development)",
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"2015": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": [
@@ -120,66 +110,6 @@
 				"Development Award": "DA (Character Development)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "1st"
-				},
 				{
 					"year": "2015",
 					"category": "Badminton",
@@ -373,36 +303,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category A",
 					"award": "Recognition(Sm)"
@@ -500,21 +400,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Red Cross",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Boys' Brigade",
 					"award": "Gold"
@@ -568,8 +453,8 @@
 		1.300798
 	],
 	"svy21": [
-		22701.01,
-		31461.27
+		22700.98,
+		31461.2
 	],
 	"planningArea": "QT",
 	"neighbours": [
@@ -582,23 +467,10 @@
 		"Mild SEN"
 	],
 	"p1Registration": {
-		"Total Vacancy": 270,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 230,
-		"No. of Applicants in Phase 1": 123,
-		"Places taken up to Phase 1": 123,
-		"Vacancy for Phase 2A1": 107,
-		"No. of Applicants in Phase 2A1": 62,
-		"Places taken up to Phase 2A1": 185,
-		"Vacancy for Phase 2A2": 45,
-		"No. of Applicants in Phase 2A2": 31,
-		"Places taken up to Phase 2A2": 212,
-		"Vacancy for Phase 2B": 29,
-		"No. of Applicants in Phase 2B": 26,
-		"Places taken up to Phase 2B": 236,
-		"Vacancy for Phase 2C": 34,
-		"No. of Applicants in Phase 2C": 47,
-		"Places taken up to Phase 2C": 270
+		"TOTAL VACANCY": 270,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 230,
+		"NO. OF APPLICANTS IN PHASE 1": 99
 	},
 	"id": "5020"
 }

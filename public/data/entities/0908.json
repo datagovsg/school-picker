@@ -104,13 +104,6 @@
 	},
 	"AchievementHistory": {
 		"Junior College": {
-			"2014": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)",
-					"PARTNERS (Merit)"
-				]
-			},
 			"2015": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -134,46 +127,6 @@
 			},
 			"Sports & Games Competition": [
 				{
-					"year": "2014",
-					"category": "Rugby",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
 					"year": "2017",
 					"category": "Hockey",
 					"subCategory": [
@@ -195,46 +148,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Commendation"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category C",
@@ -371,24 +284,6 @@
 	},
 	"L1R5History": [
 		{
-			"year": "2014",
-			"programme": "Arts",
-			"lower": 10,
-			"upper": 20
-		},
-		{
-			"year": "2014",
-			"programme": "Science/IB",
-			"lower": 9,
-			"upper": 18
-		},
-		{
-			"year": "2014",
-			"programme": "Commerce",
-			"lower": 6,
-			"upper": 20
-		},
-		{
 			"year": "2015",
 			"programme": "Arts",
 			"lower": 10,
@@ -438,6 +333,24 @@
 		},
 		{
 			"year": "2017",
+			"programme": "Commerce",
+			"lower": 9,
+			"upper": 20
+		},
+		{
+			"year": "2018",
+			"programme": "Arts",
+			"lower": 10,
+			"upper": 18
+		},
+		{
+			"year": "2018",
+			"programme": "Science/IB",
+			"lower": 3,
+			"upper": 17
+		},
+		{
+			"year": "2018",
 			"programme": "Commerce",
 			"lower": 9,
 			"upper": 20

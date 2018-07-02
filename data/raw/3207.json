@@ -13,7 +13,7 @@
 		"67842164"
 	],
 	"email": "DUNMAN_SS@MOE.EDU.SG",
-	"mrt": "TAMPINES MRT",
+	"mrt": "TAMPINES EAST MRT Station (Downtown Line)",
 	"bus": "28 , 29 , 293 ",
 	"GeneralInformation": {
 		"Principal": "MR SURESH S/O BALAKRISHNAN",
@@ -41,6 +41,7 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART",
+		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BASIC TAMIL",
 		"BIOLOGY",
@@ -76,16 +77,16 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Badminton",
+			"Badminton (Boys)",
 			"Basketball",
-			"Football",
+			"Football (Girls)",
 			"Netball",
-			"Table Tennis",
+			"Table Tennis (Boys)",
 			"Volleyball"
 		],
 		"Uniformed Groups": [
-			"Ncc (Land)",
-			"Ncc(Air)",
+			"Ncc (Air) (Boys)",
+			"Ncc (Land) (Boys)",
 			"Npcc",
 			"Scouts",
 			"Singapore Red Cross Society"
@@ -96,7 +97,6 @@
 			"Dance - Modern",
 			"Ensemble - Guitar",
 			"Ensemble - String",
-			"Lion Dance Troupe",
 			"Stagearts Drama"
 		],
 		"Clubs & Societies": [
@@ -1278,7 +1278,8 @@
 					"Npcc (Land)": "Bronze",
 					"Scout (Unit 1)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1500,6 +1501,23 @@
 			"Normal Technical": [
 				"132",
 				"157",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"229",
+				"242",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"185",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"141",
+				"156",
 				"None-posted"
 			]
 		}

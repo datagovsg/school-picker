@@ -14,7 +14,7 @@
 	],
 	"email": "pyss@moe.edu.sg",
 	"mrt": "BEDOK MRT",
-	"bus": "26 , 222 , 222P , 2 , 7 , 24 , 25 , 28 , 30 , 30E , 32 , 33 , 40 , 67 , 229 , 401 , 854 , 45 , 60 , 87 ",
+	"bus": "26 , 222 , 222P , 2 , 7 , 24 , 25 , 28 , 30 , 30E , 32 , 33 , 40 , 67 , 229 , 401 , 854 , 60 , 87 ",
 	"GeneralInformation": {
 		"Principal": "MR ANG CHEE SENG",
 		"Vice Principal": [
@@ -23,7 +23,7 @@
 		],
 		"School Vision": "A School of Distinction in Learning and Service",
 		"School Mission": "To nurture and develop our students to be strong and upright in character, passionate about learning and innovative in spirit so as to serve the community",
-		"School Philosophy, Culture and Ethos": "Ping Yi is well-known for its Restorative Practices (RP), where character development and positive relationships are of paramount importance. We believe in the justice of restoration, participatory learning and responsible decision-making. Our teachers engage our students through relational and innovative teaching strategies, and nurture them through their adolescence, better preparing them for life. The team of very dedicated staff believes that creative and fun ways help students learn more effectively. Lessons are crafted in an exciting, experiential, authentic and meaningful way.  By believing in our students, creating opportunities for them to discover their talents, and developing their abilities to the fullest, the teachers give them confidence to dare to dream and the courage to turn their dreams into reality.  This has led to very good educational outcomes over the years.",
+		"School Philosophy, Culture and Ethos": "Ping Yi is well-known for its Restorative Practices (RP), where character development and positive relationships are of paramount importance. We believe in the justice of restoration, participatory learning and responsible decision-making. Our teachers engage our students through relational and innovative teaching strategies, and nurture them through their adolescence, better preparing them for life. The team of very dedicated staff believes in creative and fun ways to help students learn more effectively. Lessons are crafted in an exciting, experiential, authentic and meaningful way.  By believing in our students, creating opportunities for them to discover their talents, and developing their abilities to the fullest, the teachers give them confidence to dare to dream and courage to turn their dreams into reality.  This has led to very good educational outcomes over the years.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -38,9 +38,9 @@
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ENGLISH LANGUAGE",
+		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
-		"HIGHER CHINESE",
 		"HISTORY",
 		"MALAY",
 		"MATHEMATICS",
@@ -64,7 +64,6 @@
 			"Tchoukball"
 		],
 		"Uniformed Groups": [
-			"Girl Guides",
 			"Ncc (Land)",
 			"Npcc"
 		],
@@ -86,7 +85,7 @@
 			"STEM": "Design Education and Aeronautical Engineering",
 			"Community & Youth Leadership": "Leadership through CCE"
 		},
-		"Special Student Development Programmes Offered": "Design and Aeronautical Engineering @ Ping Yi (our distinctive applied learning programme) provides our students the opportunity to be trained extensively in design protocol, a design process skillset that gives students a structured approach towards enhancing their critical thinking skills in design principles and developing ideas and solutions. They learn the Art and Science of Flight: from Aerodynamics (the theory of flight), to Aeronautics (the movement of planes in the air) and Aircraft Design (flying with style). Design and aeronautical fundamentals have also been integrated into the Maths and Science curriculum to deepen students understanding. In partnership with Polytechnics and industry partners, and through our Young Designer series of authentic learning experiences and workshops, our students experience the challenges of design and production in a fun and dynamic way. Elements of entrepreneurship are introduced to allow students to conduct feasibility and scalability studies, and to communicate their proposals effectively.  Our Leadership through Character and Citizenship Education (our distinctive life-long learning programme) programme provides opportunities for our students to develop desired character traits like resilience, tenacity, initiative, team spirit and an orientation towards excellence. Annual level camps, values in action activities, work experience, local and overseas service learning, the NYAA platform and leadership modules provide ample opportunities for students to further develop their competencies and to serve the community."
+		"Special Student Development Programmes Offered": "Design and Aeronautical Engineering @ Ping Yi (our distinctive Applied Learning Programme) provides our students the opportunity to be trained extensively in the Design Protocol, a design process skillset that gives students a structured approach towards enhancing their critical thinking skills in design principles and developing ideas and solutions. They learn the Art and Science of Flight: from Aerodynamics (the theory of flight), to Aeronautics (the movement of planes in the air) and Aircraft Design (flying with style). Design and aeronautical fundamentals have also been integrated into the Maths and Science curriculum to deepen students understanding. In partnership with Polytechnics and industry partners, and through our own series of authentic learning experiences and workshops, our students experience the challenges of design and production in a fun and dynamic way. Elements of entrepreneurship are introduced to allow students to conduct feasibility and scalability studies, and to communicate their proposals effectively.  Our Leadership through Character and Citizenship Education (our distinctive Life-long Learning Programme) programme provides opportunities for our students to develop desired character traits like resilience, tenacity, initiative, team spirit and an orientation towards excellence. Annual level camps, values in action activities, work experience, local and overseas service learning, the NYAA platform and leadership modules provide ample opportunities for students to further develop their competencies and to serve the community."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -836,7 +835,8 @@
 					"Ncc (Land)": "Gold",
 					"Npcc (Land)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1058,6 +1058,23 @@
 			"Normal Technical": [
 				"105",
 				"148",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"189",
+				"264",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"108",
+				"154",
 				"None-posted"
 			]
 		}

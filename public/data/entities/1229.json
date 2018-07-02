@@ -55,7 +55,20 @@
 		"Social Studies",
 		"Tamil"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Football",
+			"Netball"
+		],
+		"Uniformed Groups": [
+			"Brownies",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Choir"
+		]
+	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Music & Performing Arts": "Developing 21st CC through Arts Education Programme @ Dazhong (AEP@D)"
@@ -64,9 +77,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"Development Award": "DA (National Education)"
-			},
 			"Sports & Games Competition": [
 				{
 					"year": "2016",
@@ -100,26 +110,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Commendation"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category C",
@@ -173,16 +163,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Brownies (Pack 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Scout",
-					"award": "Bronze"
-				},
-				{
 					"year": "2015",
 					"category": "Brownies (Pack 1)",
 					"award": "Gold"
@@ -221,8 +201,8 @@
 		1.3590588
 	],
 	"svy21": [
-		18525.7,
-		37903.57
+		18525.67,
+		37903.5
 	],
 	"planningArea": "BK",
 	"neighbours": [
@@ -239,25 +219,10 @@
 	],
 	"studentCare": true,
 	"p1Registration": {
-		"Total Vacancy": 150,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 110,
-		"No. of Applicants in Phase 1": 61,
-		"Places taken up to Phase 1": 61,
-		"Vacancy for Phase 2A1": 49,
-		"No. of Applicants in Phase 2A1": 0,
-		"Places taken up to Phase 2A1": 61,
-		"Vacancy for Phase 2A2": 49,
-		"No. of Applicants in Phase 2A2": 12,
-		"Places taken up to Phase 2A2": 73,
-		"Vacancy for Phase 2B": 39,
-		"No. of Applicants in Phase 2B": 0,
-		"Places taken up to Phase 2B": 73,
-		"Vacancy for Phase 2C": 77,
-		"No. of Applicants in Phase 2C": 35,
-		"Places taken up to Phase 2C": 108,
-		"Vacancy for Phase 2C Supplementary": 42,
-		"No. of Applicants in Phase 2C Supplementary": 23
+		"TOTAL VACANCY": 210,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 170,
+		"NO. OF APPLICANTS IN PHASE 1": 46
 	},
 	"id": "1229"
 }

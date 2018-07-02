@@ -29,7 +29,7 @@
 			"The school strives to provide an education which prepares the students beyond academic excellence. With the provision of a bi-cultural learning environment, students are nurtured to be learners of character and leaders who will create a positive impact on their communities and society. ",
 			"The Nanyang Curriculum adopts the Head, Heart and Hands approach for the holistic development of the students, as the school believes that internalisation, reflection and putting into action values and skills, are key to learning. The key leverage for the holistic development of students in the Nanyang Curriculum is differentiation which caters to students' different learning needs. Building on its rich Chinese traditions and values while equipping our students with 21st century skills and competencies underscores curriculum innovation in NYPS.  ",
 			"An extensive culture for learning and innovation permeates the school as evident in the whole school embarking on the Professional Learning Community (PLC) journey, introducing Lesson Study (LS) as an additional tool to Action Research (AR) and Learning Circle (LC) for teachers to implement curriculum innovations that will deepen their pedagogical knowledge.  ",
-			"The school also believes in establishing strong partnership for the holistic development of students.  The key partners comprising the School Management Committee, Nanyang Schools Alumni Association and Parent Teacher Association work collaboratively to preserve the NYPS spirit and identity, reinforcing the values-based culture via role-modelling and their contributions and support.  "
+			"The school also believes in establishing strong partnership for the holistic development of students.  The key partners comprising the School Management Committee, Nanyang Schools Alumni Association and Parent Teacher Association work collaboratively to preserve the NYPS spirit and identity, reinforcing the values-based culture via role-modelling and their contributions and support."
 		],
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese",
@@ -58,8 +58,9 @@
 			"Badminton",
 			"Basketball",
 			"Football",
-			"Swimming",
+			"Swimming / Flippa Ball",
 			"Table Tennis",
+			"Tennis",
 			"Track & Field",
 			"Wushu"
 		],
@@ -72,6 +73,7 @@
 		"Visual and Performing Arts": [
 			"Art And Craft Club",
 			"Chinese Calligraphy Club",
+			"Chinese Speech And Drama Club",
 			"Choir",
 			"Dance - Chinese",
 			"Ensemble - String",
@@ -79,8 +81,9 @@
 		],
 		"Clubs & Societies": [
 			"Advanced Mathematics Enrichment Club",
+			"Chess Club",
 			"Computer Club",
-			"Future Problem Solving Programme",
+			"Green Club",
 			"Robotics Club",
 			"Weiqi Club"
 		]
@@ -2516,7 +2519,8 @@
 					"Girls' Brigade": "Gold",
 					"Scout": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "268097"

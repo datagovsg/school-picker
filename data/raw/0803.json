@@ -127,7 +127,6 @@
 			"Media Resource Crew",
 			"Singapore Youth Flying Club",
 			"Strategic Games Club",
-			"Students' Council",
 			"Tamil Cultural Society"
 		]
 	},
@@ -1873,7 +1872,8 @@
 					"Ensemble - Harp": "Commendation",
 					"Ensemble - Strings": "Distinction"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"L1R5History": {
@@ -1949,6 +1949,20 @@
 			"Science/IB": [
 				"2",
 				"7"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2018": {
+			"Arts": [
+				"2",
+				"10"
+			],
+			"Science/IB": [
+				"2",
+				"9"
 			],
 			"Commerce": [
 				"-",

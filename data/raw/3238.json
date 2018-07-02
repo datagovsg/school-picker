@@ -689,7 +689,8 @@
 					"Npcc (Land)": "Gold",
 					"Red Cross": "Bronze"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -911,6 +912,23 @@
 			"Normal Technical": [
 				"109",
 				"156",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"232",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"157",
+				"181",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"113",
+				"155",
 				"None-posted"
 			]
 		}

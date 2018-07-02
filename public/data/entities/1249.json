@@ -106,26 +106,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category A",
 					"award": "Recognition(Sm)"
@@ -203,11 +183,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Scout",
-					"award": "Bronze"
-				},
-				{
 					"year": "2015",
 					"category": "Scout",
 					"award": "Silver"
@@ -231,8 +206,8 @@
 		1.3840987
 	],
 	"svy21": [
-		21361.6,
-		40672.27
+		21361.56,
+		40672.2
 	],
 	"planningArea": "BP",
 	"neighbours": [
@@ -246,25 +221,10 @@
 		"Mild SEN"
 	],
 	"p1Registration": {
-		"Total Vacancy": 210,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 170,
-		"No. of Applicants in Phase 1": 78,
-		"Places taken up to Phase 1": 78,
-		"Vacancy for Phase 2A1": 92,
-		"No. of Applicants in Phase 2A1": 0,
-		"Places taken up to Phase 2A1": 78,
-		"Vacancy for Phase 2A2": 92,
-		"No. of Applicants in Phase 2A2": 7,
-		"Places taken up to Phase 2A2": 85,
-		"Vacancy for Phase 2B": 63,
-		"No. of Applicants in Phase 2B": 1,
-		"Places taken up to Phase 2B": 83,
-		"Vacancy for Phase 2C": 127,
-		"No. of Applicants in Phase 2C": 74,
-		"Places taken up to Phase 2C": 156,
-		"Vacancy for Phase 2C Supplementary": 54,
-		"No. of Applicants in Phase 2C Supplementary": 16
+		"TOTAL VACANCY": 240,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 200,
+		"NO. OF APPLICANTS IN PHASE 1": 76
 	},
 	"id": "1249"
 }

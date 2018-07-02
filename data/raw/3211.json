@@ -21,8 +21,8 @@
 		"Vice Principal (Admin)": "MISS KOH MUI GEK",
 		"School Vision": [
 			"Learn with Purpose",
-			"  Serve with Passion",
-			"  Lead with Heart"
+			"Serve with Passion",
+			"Lead with Heart"
 		],
 		"School Mission": [
 			"Nurturing Hearts, Enriching Minds - ",
@@ -36,30 +36,51 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART",
+		"ART NA LEVEL",
+		"ART 'O' LEVEL",
+		"BASIC CHINESE",
+		"BASIC MALAY",
+		"BASIC TAMIL",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
+		"CHINESE N(A)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
+		"ENGLISH LANGUAGE (SYLL A)",
+		"ENGLISH LANGUAGE (SYLL T)",
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
+		"FOOD STUDIES, N LEVEL",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
+		"HIGHER MALAY",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN CHINESE)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"LITERATURE(E)",
 		"MALAY",
+		"MALAY N(A)",
 		"MATHEMATICS",
+		"MATHEMATICS (SYLLABUS A)",
+		"MATHEMATICS (SYLLABUS T)",
 		"MOBILE ROBOTICS",
 		"MUSIC",
+		"MUSIC NT LEVEL",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
+		"SCIENCE",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SOCIAL STUDIES",
-		"TAMIL"
+		"SOCIAL STUDIES N(T)",
+		"TAMIL",
+		"TAMIL N(A)"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -67,7 +88,6 @@
 			"Cross Country",
 			"Dragon Boat",
 			"Floorball",
-			"Sports And Recreation Club",
 			"Track & Field",
 			"Volleyball"
 		],
@@ -79,7 +99,6 @@
 			"Singapore Red Cross Society"
 		],
 		"Visual and Performing Arts": [
-			"Asian Languages & Culture Club",
 			"Band - Symphonic",
 			"Choir",
 			"Contemporary Dance",
@@ -101,7 +120,7 @@
 			"Languages & Humanities": "Environmental Studies: An Inter-disciplinary Approach To Sustainable Living",
 			"Sports & Outdoor Education": "Sports For Life: Leading a Sporty and Sporting Lifestyle"
 		},
-		"Special Student Development Programmes Offered": "In JSS, we value every student, believing that they can contribute meaningfully to the society in all that they do. Our Special Programmes are designed to nurture their hearts and minds, in order for them to become contributing members of the society. "
+		"Special Student Development Programmes Offered": "In JSS, we value every student, believing that they can contribute meaningfully to the society in all that they do. Our Special Programmes are designed to nurture their hearts and enrich their minds, for them to become contributing members of the society. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1046,7 +1065,8 @@
 					"Red Cross": "Silver",
 					"Scout (Unit 1)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1268,6 +1288,23 @@
 			"Normal Technical": [
 				"133",
 				"159",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"224",
+				"253",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"174",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"122",
+				"158",
 				"None-posted"
 			]
 		}

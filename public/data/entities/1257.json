@@ -89,16 +89,6 @@
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -179,8 +169,8 @@
 		1.336413
 	],
 	"svy21": [
-		13133.93,
-		35399.75
+		13133.89,
+		35399.68
 	],
 	"planningArea": "JW",
 	"neighbours": [
@@ -196,23 +186,10 @@
 	],
 	"studentCare": true,
 	"p1Registration": {
-		"Total Vacancy": 210,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 170,
-		"No. of Applicants in Phase 1": 103,
-		"Places taken up to Phase 1": 103,
-		"Vacancy for Phase 2A1": 67,
-		"No. of Applicants in Phase 2A1": 0,
-		"Places taken up to Phase 2A1": 103,
-		"Vacancy for Phase 2A2": 67,
-		"No. of Applicants in Phase 2A2": 1,
-		"Places taken up to Phase 2A2": 104,
-		"Vacancy for Phase 2B": 53,
-		"No. of Applicants in Phase 2B": 26,
-		"Places taken up to Phase 2B": 128,
-		"Vacancy for Phase 2C": 82,
-		"No. of Applicants in Phase 2C": 93,
-		"Places taken up to Phase 2C": 210
+		"TOTAL VACANCY": 240,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 200,
+		"NO. OF APPLICANTS IN PHASE 1": 135
 	},
 	"id": "1257"
 }

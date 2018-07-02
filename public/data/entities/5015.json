@@ -100,50 +100,7 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Taekwondo",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'D' Div"
-					],
-					"award": "1st"
-				},
 				{
 					"year": "2015",
 					"category": "Track & Field",
@@ -287,21 +244,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -349,11 +291,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Scout",
-					"award": "Bronze"
-				},
-				{
 					"year": "2015",
 					"category": "Scout",
 					"award": "Bronze"
@@ -377,8 +314,8 @@
 		1.318897
 	],
 	"svy21": [
-		37352.25,
-		33462.67
+		37352.21,
+		33462.6
 	],
 	"planningArea": "BD",
 	"neighbours": [
@@ -393,25 +330,10 @@
 	],
 	"studentCare": true,
 	"p1Registration": {
-		"Total Vacancy": 210,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 170,
-		"No. of Applicants in Phase 1": 37,
-		"Places taken up to Phase 1": 37,
-		"Vacancy for Phase 2A1": 133,
-		"No. of Applicants in Phase 2A1": 0,
-		"Places taken up to Phase 2A1": 37,
-		"Vacancy for Phase 2A2": 133,
-		"No. of Applicants in Phase 2A2": 27,
-		"Places taken up to Phase 2A2": 63,
-		"Vacancy for Phase 2B": 74,
-		"No. of Applicants in Phase 2B": 31,
-		"Places taken up to Phase 2B": 90,
-		"Vacancy for Phase 2C": 120,
-		"No. of Applicants in Phase 2C": 52,
-		"Places taken up to Phase 2C": 142,
-		"Vacancy for Phase 2C Supplementary": 68,
-		"No. of Applicants in Phase 2C Supplementary": 26
+		"TOTAL VACANCY": 210,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 170,
+		"NO. OF APPLICANTS IN PHASE 1": 40
 	},
 	"id": "5015"
 }

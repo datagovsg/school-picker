@@ -78,7 +78,6 @@
 			"Wind Orchestra"
 		],
 		"Clubs & Societies": [
-			"Green Club",
 			"Mediatech Club"
 		]
 	},
@@ -87,25 +86,11 @@
 			"Aesthetics": "ARTopIA - Arts Appreciation & Values Inculcation through Visual Art",
 			"Community & Youth Leadership": "OPSS CORE Programme – Orchid Park Secondary School Community OutReach Education Programme"
 		},
-		"Special Student Development Programmes Offered": "True to our commitment to provide a holistic education, OPSS offers a diverse range of programmes to cater to the development of our students.  Some key school-wide programmes offered include: a whole-school approach to the learning of EL, Sec 1 Science Camp, Sec 2 Speech and Drama lessons, 3-tier Student Empowerment Programme (through the Student Leadership Challenge Model), PE Outdoor Learning (through kayaking, dragon-boating, expeditions and student-initiated interest groups, eg. Track and Field and Taekwondo), Service Learning, interdisciplinary learning, school-based Normal curriculum, including puppetry and sailing (through the Young Explorers Programme) and overseas immersion.  OPSS delivers its LLP through Community OutReach Education (CORE), which works towards building student leadership, particularly through community leadership.  CORE seeks to raise OPSS youths into confident and contributing individuals who will continue to serve and lead others through life.  Aligned with our vision to develop our students into gracious and cultured individuals, our ALP, ARTopIA equips students with artistic and critical thinking skills through the infusion of studio habits in the curriculum design, and enriches their learning experiences in Visual Arts and Design through exploration of different art forms.  An Enhanced Art Programme (EAP) school since 2016, the school is working very closely with Arts Education Branch to design a school-based Art Curriculum to more richly develop art passions and talents in our school.  Two pieces of enhanced infrastructure are the newly set-up Ceramics Corner and Digital Printing Laboratory."
+		"Special Student Development Programmes Offered": "True to our commitment to provide a holistic education, OPSS offers a diverse range of programmes to cater to the development of our students.  Some key school-wide programmes offered include: a whole-school approach to the learning of EL, Sec 2 Drama-in-Curriculum, 3-tier Student Empowerment Programme (through the Student Leadership Challenge Model), PE Outdoor Learning (through kayaking, dragon-boating, expeditions and student-initiated interest groups, eg. Track and Field and Taekwondo), Service Learning, interdisciplinary learning, school-based Normal curriculum, including puppetry and sailing (through the Young Explorers Programme) and overseas immersion.  OPSS delivers its LLP through Community OutReach Education (CORE), which works towards building student leadership, particularly through community leadership.  CORE seeks to raise OPSS youths into confident and contributing individuals who will continue to serve and lead others through life.  Aligned with our vision to develop our students into gracious and cultured individuals, our ALP, ARTopIA equips students with artistic and critical thinking skills through the infusion of studio habits in the curriculum design, and enriches their learning experiences in Visual Arts and Design through exploration of different art forms.  An Enhanced Art Programme (EAP) school since 2016, the school is working very closely with Arts Education Branch to design a school-based Art Curriculum to more richly develop art passions and talents in our school.  Two pieces of enhanced infrastructure are the newly set-up Ceramics Corner and Digital Printing Laboratory."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": "DA (Character Development)",
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
 				{
 					"year": "2015",
 					"category": "Floorball",
@@ -148,41 +133,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category A",
@@ -291,26 +241,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Sea Boys)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
 					"year": "2015",
 					"category": "Boys' Brigade",
 					"award": "Bronze"
@@ -390,30 +320,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 206,
-			"upper": 249,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 165,
-			"upper": 193,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 109,
-			"upper": 151,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 209,
@@ -482,6 +388,30 @@
 			"programme": "Normal Technical",
 			"lower": 133,
 			"upper": 157,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 208,
+			"upper": 238,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 173,
+			"upper": 198,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 142,
+			"upper": 159,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

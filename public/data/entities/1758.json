@@ -62,7 +62,8 @@
 			"Netball",
 			"Rope Skipping",
 			"Table Tennis",
-			"Taekwondo"
+			"Taekwondo",
+			"Wushu"
 		],
 		"Uniformed Groups": [
 			"Brownies",
@@ -97,9 +98,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"Development Award": "DA (Character Development)"
-			},
 			"2015": {
 				"Development Award": "DA (Character Development)"
 			},
@@ -107,46 +105,6 @@
 				"Development Award": "DA (Character Development)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Rope Skipping",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Taekwondo",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Senior"
-					],
-					"award": "2nd"
-				},
 				{
 					"year": "2015",
 					"category": "Rope Skipping",
@@ -340,41 +298,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Commendation"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Commendation"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -505,8 +428,8 @@
 		1.4330577
 	],
 	"svy21": [
-		23224.18,
-		46085.87
+		23224.14,
+		46085.8
 	],
 	"planningArea": "WD",
 	"neighbours": [
@@ -518,25 +441,10 @@
 		"Mild SEN"
 	],
 	"p1Registration": {
-		"Total Vacancy": 210,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 170,
-		"No. of Applicants in Phase 1": 87,
-		"Places taken up to Phase 1": 87,
-		"Vacancy for Phase 2A1": 83,
-		"No. of Applicants in Phase 2A1": 0,
-		"Places taken up to Phase 2A1": 87,
-		"Vacancy for Phase 2A2": 83,
-		"No. of Applicants in Phase 2A2": 15,
-		"Places taken up to Phase 2A2": 102,
-		"Vacancy for Phase 2B": 54,
-		"No. of Applicants in Phase 2B": 7,
-		"Places taken up to Phase 2B": 109,
-		"Vacancy for Phase 2C": 101,
-		"No. of Applicants in Phase 2C": 94,
-		"Places taken up to Phase 2C": 203,
-		"Vacancy for Phase 2C Supplementary": 7,
-		"No. of Applicants in Phase 2C Supplementary": 8
+		"TOTAL VACANCY": 210,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 170,
+		"NO. OF APPLICANTS IN PHASE 1": 101
 	},
 	"id": "1758"
 }

@@ -76,7 +76,6 @@
 			"Wind Orchestra"
 		],
 		"Clubs & Societies": [
-			"Green Club",
 			"Mediatech Club"
 		]
 	},
@@ -88,7 +87,7 @@
 			"Aesthetics": "ARTopIA - Arts Appreciation & Values Inculcation through Visual Art",
 			"Community & Youth Leadership": "OPSS CORE Programme – Orchid Park Secondary School Community OutReach Education Programme"
 		},
-		"Special Student Development Programmes Offered": "True to our commitment to provide a holistic education, OPSS offers a diverse range of programmes to cater to the development of our students.  Some key school-wide programmes offered include: a whole-school approach to the learning of EL, Sec 1 Science Camp, Sec 2 Speech and Drama lessons, 3-tier Student Empowerment Programme (through the Student Leadership Challenge Model), PE Outdoor Learning (through kayaking, dragon-boating, expeditions and student-initiated interest groups, eg. Track and Field and Taekwondo), Service Learning, interdisciplinary learning, school-based Normal curriculum, including puppetry and sailing (through the Young Explorers Programme) and overseas immersion.  OPSS delivers its LLP through Community OutReach Education (CORE), which works towards building student leadership, particularly through community leadership.  CORE seeks to raise OPSS youths into confident and contributing individuals who will continue to serve and lead others through life.  Aligned with our vision to develop our students into gracious and cultured individuals, our ALP, ARTopIA equips students with artistic and critical thinking skills through the infusion of studio habits in the curriculum design, and enriches their learning experiences in Visual Arts and Design through exploration of different art forms.  An Enhanced Art Programme (EAP) school since 2016, the school is working very closely with Arts Education Branch to design a school-based Art Curriculum to more richly develop art passions and talents in our school.  Two pieces of enhanced infrastructure are the newly set-up Ceramics Corner and Digital Printing Laboratory."
+		"Special Student Development Programmes Offered": "True to our commitment to provide a holistic education, OPSS offers a diverse range of programmes to cater to the development of our students.  Some key school-wide programmes offered include: a whole-school approach to the learning of EL, Sec 2 Drama-in-Curriculum, 3-tier Student Empowerment Programme (through the Student Leadership Challenge Model), PE Outdoor Learning (through kayaking, dragon-boating, expeditions and student-initiated interest groups, eg. Track and Field and Taekwondo), Service Learning, interdisciplinary learning, school-based Normal curriculum, including puppetry and sailing (through the Young Explorers Programme) and overseas immersion.  OPSS delivers its LLP through Community OutReach Education (CORE), which works towards building student leadership, particularly through community leadership.  CORE seeks to raise OPSS youths into confident and contributing individuals who will continue to serve and lead others through life.  Aligned with our vision to develop our students into gracious and cultured individuals, our ALP, ARTopIA equips students with artistic and critical thinking skills through the infusion of studio habits in the curriculum design, and enriches their learning experiences in Visual Arts and Design through exploration of different art forms.  An Enhanced Art Programme (EAP) school since 2016, the school is working very closely with Arts Education Branch to design a school-based Art Curriculum to more richly develop art passions and talents in our school.  Two pieces of enhanced infrastructure are the newly set-up Ceramics Corner and Digital Printing Laboratory."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -667,7 +666,8 @@
 					"Npcc (Land)": "Silver",
 					"Girls' Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -889,6 +889,23 @@
 			"Normal Technical": [
 				"133",
 				"157",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"208",
+				"238",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"173",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"142",
+				"159",
 				"None-posted"
 			]
 		}

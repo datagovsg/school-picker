@@ -4,7 +4,7 @@
 	"levels": "S",
 	"uen": " T07GS3050L",
 	"logo": "./Medias/Images/Schools/logos/tn_3050.jpg",
-	"website": "http://www.xinminss.edu.sg",
+	"website": "http://www.xinminsec.moe.edu.sg",
 	"address": "11, Hougang Avenue 8 (538789)",
 	"telephone": [
 		"62889382"
@@ -26,7 +26,7 @@
 		"Vice Principal (Admin)": "Mr Fong Kim Wah",
 		"School Vision": "Leading Hearts, Leading Minds",
 		"School Mission": "To develop Xinmin students to their full potential, to inculcate in them sound values, as well as a mindset for excellence, and to nurture them to be responsible and caring members of society.",
-		"School Philosophy, Culture and Ethos": "Xinmin strives to maintain its rich heritage and tradition of providing the very best learning environment for its students. In this school, staff and stakeholders inculcate good personal, moral, and social values in our students, as well as discipline and a focus on learning for life to shape the whole person. This is done through a range of activities and programmes. Our students excel in sports and outdoor activities, arts, service to school and community, as well as in their academic studies. The school community is strongly supported by a committed and dedicated team of alumni and the School Advisory Committee, who believe in providing a holistic and enriching school experience for our students. Facilities in the school are constantly upgraded and leading programmes are developed to stretch the cognitive, physical, aesthetics, and social-moral domains of development of our students. Student learning is also enabled through a capable team of teachers who demonstrate the highest level of professionalism and care as they design and carry out activities and programmes, both in and out of the classrooms. Our students thrive in this stimulating environment of care, discipline and excellence.",
+		"School Philosophy, Culture and Ethos": "Xinmin's rich heritage and tradition in providing positive learning experiences for students is continually realised through our environment of care and excellence.  Our Xinmin family strives to nurture students into well-rounded persons who possess sound personal and moral values, and the dispositions and competencies to lead hearts and minds. Our students are passionate about serving their school and the community, as much as they thrive in sports, the arts and their academic studies.  They are supported in their learning by our capable and dedicated staff who demonstrate the highest level of professionalism and care when they design and engage our students through a range of meaningful learning experiences in and beyond the classrooms. Our school community is also strongly supported by our committed alumni, School Advisory Committee and parents who work collaboratively towards the common goal of providing a holistic and enriching school experience for our students.  Equipped with facilities that are continually upgraded and programmes that stretch our students' social-moral, cognitive, physical, and aesthetics domains of development, Xinmin offers our students a stimulating environment characterised by care, discipline and excellence.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -36,13 +36,10 @@
 		"Additional Mathematics",
 		"Art",
 		"Basic Chinese",
+		"Basic Malay",
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
-		"Combined Humanities (S,L)",
-		"Combined Humanities (SS,LC)",
 		"Computer Applications",
 		"Computing",
 		"Design & Technology",
@@ -50,16 +47,22 @@
 		"Elements Of Business Skills",
 		"English Language",
 		"Food & Nutrition",
+		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
 		"Higher Malay",
 		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In Chinese)",
+		"Humanities (Ss, Lit In English)",
 		"Literature(E)",
 		"Malay",
 		"Mathematics",
 		"Physics",
 		"Principles Of Accounts",
 		"Science",
+		"Science (Chem, Bio)",
 		"Science (Phy, Chem)"
 	],
 	"Cca": {
@@ -88,24 +91,18 @@
 		"Clubs & Societies": [
 			"Debate Club",
 			"Library",
+			"Mother Tongue Culture Club (Cldds)",
+			"Mother Tongue Culture Club (Mldds)",
 			"Outdoor Adventure Club",
+			"Singapore Youth Flying Club",
 			"Students' Council"
 		]
 	},
 	"SpecialProgrammes": {
-		"Special Student Development Programmes Offered": "In Xinmin, the development of 21st century skills is integrated into our curriculum and our tiered approach provides varying developmental opportunities to students according to their interests and abilities. In addition, all our students look forward to our school-based curriculum, comprising Analytical Thinking Skills, a games-based approach to learning thinking skills; Applied Science Programme which allows students to apply their Science knowledge in research and problem solving; Coding@Xinmin which develops our students to be fluent in programming languages; Drama at Sec 2 level which allows students to express their thoughts and ideas through performance; as well as an enjoyable and challenging PE programme that allows students to develop psychomotor skills, learn new games, acquire soft skills and mindsets of resilience and teamwork. Leadership training is provided to all students and student leaders are given many opportunities for further development in skills and exposure to real-world learning.  Our teaching and learning environment facilitates the development of collaborative and self-directed learners through the use of ICT and in particular, our signature Flipped Classroom pedagogy.  From 2018, we are implementing a Bring Your Own Device Programme for the Sec 1 to enhance the learning experiences in the classrooms."
+		"Special Student Development Programmes Offered": "In Xinmin, we are committed to preparing our students well for further learning and the future world of work by developing them into leaders of hearts and leaders of minds. We develop 21st Century Competencies (21CCC) in our students through our thoughtfully designed curriculum and a tiered approach to provide students with a range of learning experiences that would cater to their different interests and readiness levels. Some of our key school-based curriculum include (i) Coding@Xinmin, in which we develop computational thinking in our students through coding; (ii) our lower secondary Drama programme, through which we build our students' self-confidence, ability to empathise and understanding of the human condition; (iii) a challenging and enjoyable PE programme that helps our students develop both the skills and dispositions that allow them to lead a healthy active lifestyle; and (iv) our Student Leadership Development Programme that provides authentic learning opportunities to groom our students as leaders who will go on to make a difference to the school and their community. These key programmes are embedded within an enriching learning environment that incorporates a games-based approach to develop core 21CC like critical and inventive thinking; harnesses the affordance of technology to enhance students' learning, develop them as responsible online citizens, and as collaborative and self-directed learners (e.g., through our signature Flipped Classroom Pedagogy); and emphasises application of knowledge in real life."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Outstanding Development Award": "ODA (Character Development)"
-			},
 			"2015": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [
@@ -134,76 +131,6 @@
 				"Outstanding Development Award": "ODA (Character Development)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Shooting (Air Pistol)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Shooting (Air Pistol)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
 				{
 					"year": "2015",
 					"category": "Badminton",
@@ -417,31 +344,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Band - Concert",
 					"award": "Distinction"
@@ -524,31 +426,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Boys' Brigade",
 					"award": "Silver"
@@ -628,30 +505,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 235,
-			"upper": 256,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 185,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 111,
-			"upper": 159,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 235,
@@ -720,6 +573,30 @@
 			"programme": "Normal Technical",
 			"lower": 130,
 			"upper": 153,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 233,
+			"upper": 253,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 182,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 134,
+			"upper": 158,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

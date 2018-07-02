@@ -72,7 +72,33 @@
 		"Science (Syll T)",
 		"Social Studies N(T)"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Athletics",
+			"Badminton",
+			"Netball",
+			"Rugby",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Ncc Boys (Land)",
+			"Ncdcc",
+			"Npcc",
+			"Red Cross Youth"
+		],
+		"Visual and Performing Arts": [
+			"Art & Environment Club",
+			"Concert Band",
+			"Dance Club",
+			"Drama Club",
+			"Guzheng Ensemble",
+			"Lighthouse Productions"
+		],
+		"Clubs & Societies": [
+			"Media Resource Library",
+			"Robotics Enterprise"
+		]
+	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"STEM": "Design Thinking Through Innovation and Technology",
@@ -82,9 +108,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": "DA (Character Development)"
-			},
 			"2015": {
 				"Development Award": "DA (Character Development)"
 			},
@@ -93,36 +116,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Commendation"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category B",
@@ -211,26 +204,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCDCC",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "NCC (Land Boys)",
 					"award": "Gold"
@@ -289,30 +262,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 200,
-			"upper": 229,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 165,
-			"upper": 198,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 134,
-			"upper": 158,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -382,6 +331,30 @@
 			"programme": "Normal Technical",
 			"lower": 127,
 			"upper": 157,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 197,
+			"upper": 235,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 162,
+			"upper": 198,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 128,
+			"upper": 158,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

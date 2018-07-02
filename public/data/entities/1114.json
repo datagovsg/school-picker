@@ -86,11 +86,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"Best Practice Awards": "BPA (Teaching and Learning)",
-				"Development Award": "DA (Character Development)",
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"2015": {
 				"Best Practice Awards": "BPA (Teaching and Learning)"
 			},
@@ -101,56 +96,6 @@
 				"Best Practice Awards": "BPA (Teaching and Learning)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "1st"
-				},
 				{
 					"year": "2015",
 					"category": "Volleyball",
@@ -314,36 +259,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -436,11 +351,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Scout",
-					"award": "Gold"
-				},
-				{
 					"year": "2016",
 					"category": "Scout",
 					"award": "Gold"
@@ -459,8 +369,8 @@
 		1.4367457
 	],
 	"svy21": [
-		23377.95,
-		46493.67
+		23377.91,
+		46493.6
 	],
 	"planningArea": "WD",
 	"neighbours": [
@@ -472,23 +382,10 @@
 		"Mild SEN"
 	],
 	"p1Registration": {
-		"Total Vacancy": 210,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 170,
-		"No. of Applicants in Phase 1": 91,
-		"Places taken up to Phase 1": 91,
-		"Vacancy for Phase 2A1": 79,
-		"No. of Applicants in Phase 2A1": 0,
-		"Places taken up to Phase 2A1": 91,
-		"Vacancy for Phase 2A2": 79,
-		"No. of Applicants in Phase 2A2": 19,
-		"Places taken up to Phase 2A2": 110,
-		"Vacancy for Phase 2B": 50,
-		"No. of Applicants in Phase 2B": 2,
-		"Places taken up to Phase 2B": 109,
-		"Vacancy for Phase 2C": 101,
-		"No. of Applicants in Phase 2C": 107,
-		"Places taken up to Phase 2C": 210
+		"TOTAL VACANCY": 210,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 170,
+		"NO. OF APPLICANTS IN PHASE 1": 110
 	},
 	"id": "1114"
 }

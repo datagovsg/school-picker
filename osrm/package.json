@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "express": "^4.15.2",
-    "osrm": "^5.7.0"
+    "express": "4.15.2",
+    "osrm": "5.14.0"
   },
   "scripts": {
     "start": "node server.js",
     "dev": "docker run -it -p 5000:5000 routing-server",
-    "build":  "docker build -t routing-server .",
+    "build": "docker build -t routing-server .",
     "deploy": "now --docker --public"
   }
 }

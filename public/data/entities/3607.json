@@ -23,9 +23,9 @@
 			"Mr Tan Teck Tian",
 			"Mdm Nazimah Bte Abdullah"
 		],
-		"School Vision": "The Choice School for Character Development and Learning",
-		"School Mission": "To Nurture Lifelong Learners, Gracious Citizens and Resilient Leaders",
-		"School Philosophy, Culture and Ethos": "Seng Kang Secondary School strives to provide a Student-Centric, Values-Driven (SVE) education that nurtures every student to his/her fullest potential with the belief that every child matters and can learn. Inculcation of values coupled with the development of an excellence mind-set for learning undergird the wide range of opportunities and programmes for students to develop 21st century competencies and skills to prepare them for the future. Through a holistic curriculum delivered within and beyond the classroom, the school provides authentic experiences for students to enjoy learning and to discover their talents and strengths. In tandem with the school's commitment to nurture leaders with resilience and gracious citizens with a caring heart to serve, curricular and co-curricular programmes are designed to engage students as active contributors in their teams to lead and serve for the betterment of others. The school has a team of dedicated and committed teachers who expect the best from their students and go the extra mile to help the students to fulfil their potential. In the pursuit of excellence, teachers actively develop innovative classroom practices and customise curriculum materials to meet the varied needs of every child.",
+		"School Vision": "A community of global citizens & learners for life.",
+		"School Mission": "Shaping character, kindling passion & stretching minds.",
+		"School Philosophy, Culture and Ethos": "Seng Kang Secondary School strives to provide a Student-Centric, Values-Driven (SVE) education that nurtures every student to his / her fullest potential with the belief that every child matters and can learn. Inculcation of values coupled with the development of an excellence mind-set for learning undergird the wide range of opportunities and programmes for students to develop 21st century competencies and skills to prepare them for the future. Through a holistic curriculum delivered within and beyond the classroom, the school provides authentic experiences for students to enjoy learning and to discover their talents and strengths. In tandem with the school's commitment to nurture leaders with resilience and gracious citizens with a caring heart to serve, curricular and co-curricular programmes are designed to engage students as active contributors in their teams to lead and serve for the betterment of others. The school has a team of dedicated and committed teachers who expect the best from their students and go the extra mile to help the students to fulfil their potential. In the pursuit of excellence, teachers actively develop innovative classroom practices and customise curriculum materials to meet the varied needs of every child.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -37,17 +37,19 @@
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
 		"Computer Applications",
 		"Design & Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"Exercise And Sports Science",
 		"Food & Nutrition",
+		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
 		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Literature(E)",
 		"Malay",
 		"Mathematics",
 		"Music",
@@ -90,13 +92,10 @@
 			"STEM": "Health Science & Technology",
 			"Sports & Outdoor Education": "Building Character Through Physical Education & Sports"
 		},
-		"Special Student Development Programmes Offered": "Our Learning for Life Programme is Building Character through Physical Education & Sports. We believe that Physical Education and Sports Education are natural platforms for Character Building and our programme seeks to develop active and healthy students with mental toughness, empathy and character that will enables them to act as role models to promote a healthy lifestyle to their peers, family and the community. "
+		"Special Student Development Programmes Offered": "Our Learning for Life Programme is Building Character through Physical Education & Sports. We believe that Physical Education and Sports Education are natural platforms for Character Building and our programme seeks to develop active and healthy students with mental toughness, empathy and character that will enable them to act as role models to promote a healthy lifestyle to their peers, family and the community. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": "DA (Character Development)"
-			},
 			"2015": {
 				"Development Award": "DA (Character Development)"
 			},
@@ -107,66 +106,6 @@
 				"Development Award": "DA (Character Development)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
 				{
 					"year": "2015",
 					"category": "Basketball",
@@ -280,41 +219,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category A",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Commendation"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category A",
 					"award": "Recognition(Sm)"
@@ -417,31 +321,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 2)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "Red Cross",
-					"award": "Bronze"
-				},
-				{
 					"year": "2015",
 					"category": "Girl Guides (Coy 1)",
 					"award": "Gold"
@@ -505,30 +384,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 202,
-			"upper": 248,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 162,
-			"upper": 190,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 133,
-			"upper": 159,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2015",
 			"programme": "Express",
@@ -598,6 +453,30 @@
 			"programme": "Normal Technical",
 			"lower": 137,
 			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 199,
+			"upper": 229,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 171,
+			"upper": 192,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 133,
+			"upper": 158,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

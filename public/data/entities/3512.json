@@ -45,6 +45,7 @@
 		"Combined Humanities (S,H)",
 		"Design & Technology",
 		"English Language",
+		"Exercise And Sports Science",
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
@@ -53,16 +54,15 @@
 		"Literature(E)",
 		"Malay",
 		"Mathematics",
-		"Oecie Physical Education",
 		"Physics",
 		"Science (Phy, Chem)"
 	],
 	"Cca": {
 		"Physical Sports": [
 			"Air Rifle / Shooting",
-			"Basketball",
-			"Floorball",
-			"Football",
+			"Basketball (Boys)",
+			"Floorball (Girls)",
+			"Football (Boys)",
 			"Netball",
 			"Track & Field"
 		],
@@ -75,7 +75,7 @@
 		],
 		"Visual and Performing Arts": [
 			"Art And Craft Club",
-			"Band - Display/Marching",
+			"Band-Display/Concert",
 			"Choir",
 			"Dance - Modern",
 			"Drama - English"
@@ -86,24 +86,10 @@
 		]
 	},
 	"SpecialProgrammes": {
-		"Special Student Development Programmes Offered": "Signature programmes: Da Vinci Programme which develops 21st century communication, collaboration and information skills, while sharpening critical and inventive thinking via applied learning opportunities; Principal's Honours List Programme; TK Current Affairs which builds general knowledge and discernment; SKILLS Programme which develops in students skills for self-directed learning, and critical and inventive thinking; TK Student Leadership programme; Outdoor Education at TK that stretches students mentally, physically and emotionally while instilling firm belief and confidence in their own ability to succeed; Overseas twinning programmes with schools, that broaden students' global outlook and increase cultural quotient. Programmes to deepen disciplinary understanding include the Mathematics and Chemistry Olympiads, the Australian Mathematics Competition and the EMAS Programme. Students also participate in Debating Competitions and the CB Paul Science Quiz. TKSS is renowned for its vibrancy and excellent CCAs in sports, the performing arts and uniformed groups. TeamTK's sportsmen and sportswomen have excelled in various sports such as Netball, Floorball and Football. The Uniformed Groups have a proven track record and have continuously excelled in national competitions. TKSS is the East Zone Centre of Excellence (COE) for Character and Citizenship Education as well as Design Education. As a COE, TK leads in the teaching and learning and supports collaboration in these areas for East Zone schools."
+		"Special Student Development Programmes Offered": "Signature programmes: Da Vinci Programme which develops 21st century communication, collaboration and information skills, while sharpening critical and inventive thinking via applied learning opportunities; Einstein Programme which develops computational thinking through programming micro-controllers to create solutions to solve real world problems; Principal's Honours List Programme which includes research curriculum; TK Current Affairs which builds general knowledge and discernment; SKILLS Programme which develops in students skills for self-directed learning, and critical and inventive thinking; TK Student Leadership programme; Outdoor Education at TK that stretches students mentally, physically and emotionally while instilling firm belief and confidence in their own ability to succeed; Overseas twinning programmes with schools, that broaden students' global outlook and increase cultural quotient. Programmes to deepen disciplinary understanding include the Mathematics and Science Olympiads and the EMAS Programme. Students also participate in Debating Competitions and the CB Paul Science Quiz. TKSS is renowned for its vibrancy and excellent CCAs in sports, the performing arts and uniformed groups. TeamTK's sportsmen and sportswomen have excelled in various sports such as Netball, Floorball and Football. The Uniformed Groups have a proven track record and have continuously excelled in national competitions. TKSS is the East Zone Centre of Excellence (COE) for Character and Citizenship Education as well as Design Education. As a COE, TK leads in the teaching and learning and supports collaboration in these areas for East Zone schools."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Outstanding Development Award": [
-					"ODA (Character Development)",
-					"ODA (National Education)",
-					"Outstanding PARTNERS"
-				],
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"2015": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [
@@ -124,96 +110,6 @@
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
 				{
 					"year": "2015",
 					"category": "Floorball",
@@ -387,36 +283,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Display / Marching",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2015",
 					"category": "Band - Concert",
 					"award": "Distinction"
@@ -509,41 +375,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 2)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Sea Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Girl Guides (Coy 1)",
 					"award": "Silver"
@@ -623,14 +454,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 236,
-			"upper": 259,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 231,
@@ -651,6 +474,14 @@
 			"programme": "Express",
 			"lower": 232,
 			"upper": 255,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 231,
+			"upper": 248,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

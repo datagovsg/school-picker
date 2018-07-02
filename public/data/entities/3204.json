@@ -40,11 +40,13 @@
 		"Biology",
 		"Chemistry",
 		"Chinese",
+		"Chinese N(A)",
 		"Civics & Moral Education",
 		"Computer Applications",
 		"Design & Technology",
 		"Elements Of Business Skills",
 		"English Language",
+		"English Language (Syll A)",
 		"English Language (Syll T)",
 		"Food & Nutrition",
 		"Food And Consumer Education",
@@ -57,9 +59,11 @@
 		"Humanities (Ss, Geography)",
 		"Humanities (Ss, History)",
 		"Humanities (Ss, Lit In English)",
+		"Humanities (Ss, Lit In Malay)",
 		"Literature In Malay",
 		"Literature(E)",
 		"Malay",
+		"Malay N(A)",
 		"Mathematics",
 		"Mathematics (Syllabus A)",
 		"Mathematics (Syllabus T)",
@@ -69,7 +73,6 @@
 		"Principles Of A/C",
 		"Science",
 		"Science (Chem, Bio)",
-		"Science (Phy, Bio)",
 		"Science (Phy, Chem)",
 		"Science (Syll T)",
 		"Social Studies N(T)"
@@ -110,15 +113,10 @@
 		"MOE Programmes": [
 			"Art Elective Programme"
 		],
-		"Special Student Development Programmes Offered": "The school offers a comprehensive range of distinctive programmes that complement our curriculum to provide BPians with a holistic learning experience.  The Code for Fun Programme is offered to all BPians to enhance their information and communication technology (ICT) skills so they will be able to navigate the changing digital landscape.  The Applied Science Programme provides an opportunity for all BPians to harness the knowledge they have learnt from different disciplines and apply it on an investigative research task that hones the inquiry and critical thinking skills and encourages them to pursue their passion in Science.  Under the Elective Programme in Malay Language in Secondary Schools (EMAS), BPians undergo a structured curriculum and local and overseas enrichment programmes to develop a deeper appreciation of the Malay Language and culture.  Through the Art Elective Programme, BPians hone and develop their aesthetic skills in various art forms including painting, ceramics, sculpturing, design digital art and mixed media.  Other special programmes to develop the desired qualities and competencies among BPians include the Leadership Development Programme, Cross-cultural Programme and Internship and Work Attachment Programmes."
+		"Special Student Development Programmes Offered": "The school offers a comprehensive range of distinctive programmes that complements our curriculum to provide BPians with a holistic learning experience.  The Code for Fun Programme is offered to all BPians to enhance their information and communication technology (ICT) skills so they will be able to navigate the changing digital landscape.  The Applied Science Programme provides an opportunity for all BPians to harness the knowledge they have learnt from different disciplines and apply it on an investigative research task that hones the inquiry and critical thinking skills and encourages them to pursue their passion in Science.  Under the Elective Programme in Malay Language in Secondary Schools (EMAS), BPians undergo a structured curriculum and local and overseas enrichment programmes to develop a deeper appreciation of the Malay Language and culture.  Through the Art Elective Programme, BPians hone and develop their aesthetic skills in various art forms including painting, ceramics, sculpturing, design digital art and mixed media.  Other special programmes to develop the desired qualities and competencies among BPians include the Leadership Development Programme, Cross-cultural Programme and Apprenticeship and Work Attachment Programmes."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"School Distinction Awards": "SDA",
-				"Outstanding Development Award": "ODA (Character Development)",
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"2015": {
 				"School Distinction Awards": "SDA"
 			},
@@ -129,106 +127,6 @@
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Canoeing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
 				{
 					"year": "2015",
 					"category": "Basketball",
@@ -512,51 +410,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Display / Marching",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Gamelan",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -709,31 +562,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Girl Guides (Coy 1)",
 					"award": "Gold"
@@ -813,30 +641,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 245,
-			"upper": 262,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 191,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 148,
-			"upper": 159,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 245,
@@ -905,6 +709,30 @@
 			"programme": "Normal Technical",
 			"lower": 146,
 			"upper": 157,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 244,
+			"upper": 258,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 193,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 146,
+			"upper": 159,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

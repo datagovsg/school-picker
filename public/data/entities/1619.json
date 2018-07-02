@@ -26,7 +26,7 @@
 		],
 		"School Vision": [
 			"Mindful Learners, Making a Difference",
-			"Guided by strong values, students will take ownership of their learning and have the courage to change and adapt to the VUCA environment. With the emphasis on Social Emotional Learning (SEL) competencies, students will become lifelong learners through their self-awareness, self-management and social awareness. They will continue to build on their knowledge and skills and apply their learning through relationship management and responsible decision making so as to contribute positively and meaningfully to the family, community and nation."
+			"Guided by strong values, students will take ownership of their learning and have the courage to change and adapt to the VUCA environment. With the emphasis on Social Emotional Learning (SEL) competencies, students will become lifelong learners through their self-awareness, self-management and social awareness."
 		],
 		"School Mission": [
 			"Moulding Lives, Inspiring Learning",
@@ -86,14 +86,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"Development Award": [
-					"DA (Character Development)",
-					"PARTNERS (Merit)"
-				],
-				"Outstanding Development Award": "ODA (National Education)",
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"2015": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -109,46 +101,6 @@
 				"Outstanding Development Award": "ODA (National Education)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
 				{
 					"year": "2015",
 					"category": "Softball",
@@ -171,46 +123,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Commendation"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Gamelan",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category C",
@@ -318,21 +230,6 @@
 				}
 			],
 			"Best Unit Award": [
-				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Brownies (Pack 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
 				{
 					"year": "2015",
 					"category": "Boys' Brigade",

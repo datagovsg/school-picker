@@ -22,12 +22,11 @@
 		"Principal": "Mdm Ong Hui Miin Angeline",
 		"Vice Principal": [
 			"Miss Chow Wai Hoong",
-			"Mr V Harindranath",
 			"Mr Malvin Chan Huan Jian"
 		],
-		"School Vision": "Learn, Care and Make a Difference",
-		"School Mission": "To nurture Confident and Passionate Hillgrovians who continually Learn with a spirit to do one's best, Care for and Serve others to Make a Difference.",
-		"School Philosophy, Culture and Ethos": "The school's philosophy is 'Potential + Character = Success'. Hillgrove believes in the potential of each student and builds his/her character in order to help him/her to succeed. Hillgrove culture is encapsulated in the word \"CARE\". CARE stands for Collaboration, Affirmation, Respect and Excellence. It speaks of the school's desire to be others-centred. It is about helping one another to be at their best.",
+		"School Vision": "Reflective Learners, Caring Changemakers",
+		"School Mission": "Nurturing Hillgrovians who Learn, Care and Make a Difference",
+		"School Philosophy, Culture and Ethos": "Our vision describes a community of others-centred individuals who can learn, unlearn and relearn. Together with our school philosophy P+C=S, which stands for Potential + Character = Success, Hillgrove recognises that success comes in various forms and every child will chart his own path to realise his potential. We are committed to helping our Hillgrovians follow their strengths and passions by offering many paths and new possibilities, creating opportunities for all to find success. What defines us is CARE - Collaboration, Affirmation, Respect and Excellence. CARE speaks of our desire to help one another to be at our best as we stay united to soar as one.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -36,23 +35,24 @@
 		"Additional Mathematics",
 		"Art Na Level",
 		"Art 'O' Level",
-		"As-fundamentals Of Electronics",
 		"Basic Chinese",
 		"Basic Malay",
 		"Biology",
 		"Chemistry",
 		"Chinese",
 		"Chinese N(A)",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
 		"Computer Applications",
 		"Design & Technology",
 		"Electronics",
 		"Elements Of Business Skills",
 		"English Language",
+		"English Language (Syll A)",
 		"English Language (Syll T)",
 		"Food & Nutrition",
+		"Higher Chinese",
 		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
 		"Literature(E)",
 		"Malay",
 		"Malay N(A)",
@@ -100,37 +100,12 @@
 			"STEM": "Broadening our Learning Horizons through Flight and Aerospace",
 			"Music & Performing Arts": "Nurturing Confident and Passionate Hillgrovians through the Arts"
 		},
-		"Special Student Development Programmes Offered": "Hillgrove's Flight & Aerospace (F&A) ALP aims to raise students' understanding of and appreciation for Science, Technology, Engineering and Mathematics (STEM) in the field of aerospace. Through the programme design and strong partnerships with the aerospace industry, we aspire to do our part in nurturing future aerospace professionals in support of Singapore's goal to be Asia's Aviation Hub.  Our F&A ALP is a four-year programme which builds real-life knowledge and skills and raises awareness of the different types of careers within the aerospace industry. The Arts LLP compliments the rigor of the academic and CCA programmes for the holistic development of Hillgrovians."
+		"Special Student Development Programmes Offered": "Hillgrove's Applied Learning Programme (ALP) in Flight and Aerospace (F&A) is a programme which builds real-life knowledge and skills and heightens students' awareness of careers in both aviation and space industries. The programme engages students in projects which develop competencies such as confidence in communication and qualities such as entrepreneurial dare. Hillgrove's Learning for Life Programme (LLP) in the Arts seeks to develop students' understanding and appreciation of various art forms, as well as to inspire students to be arts enthusiasts and professionals. The programme nurtures confidence by providing platforms for students to articulate their creative ideas effectively. It comprises stand-alone modules as well as modules integrated into Art and Music lessons."
 	},
 	"AchievementHistory": {
 		"Secondary": {
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Commendation"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -218,26 +193,6 @@
 				}
 			],
 			"Best Unit Award": [
-				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Air Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
 				{
 					"year": "2015",
 					"category": "Boys' Brigade",
@@ -333,30 +288,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 203,
-			"upper": 243,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 162,
-			"upper": 191,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 123,
-			"upper": 159,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 209,
@@ -424,6 +355,30 @@
 			"year": "2017",
 			"programme": "Normal Technical",
 			"lower": 120,
+			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 205,
+			"upper": 234,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 166,
+			"upper": 191,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 112,
 			"upper": 159,
 			"lowerAffiliated": null,
 			"upperAffiliated": null

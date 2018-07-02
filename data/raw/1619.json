@@ -23,7 +23,7 @@
 		],
 		"School Vision": [
 			"Mindful Learners, Making a Difference",
-			"Guided by strong values, students will take ownership of their learning and have the courage to change and adapt to the VUCA environment. With the emphasis on Social Emotional Learning (SEL) competencies, students will become lifelong learners through their self-awareness, self-management and social awareness. They will continue to build on their knowledge and skills and apply their learning through relationship management and responsible decision making so as to contribute positively and meaningfully to the family, community and nation."
+			"Guided by strong values, students will take ownership of their learning and have the courage to change and adapt to the VUCA environment. With the emphasis on Social Emotional Learning (SEL) competencies, students will become lifelong learners through their self-awareness, self-management and social awareness."
 		],
 		"School Mission": [
 			"Moulding Lives, Inspiring Learning",
@@ -881,7 +881,8 @@
 					"Boys' Brigade": "Silver",
 					"Girls' Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "387724"

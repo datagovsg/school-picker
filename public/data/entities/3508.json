@@ -56,17 +56,14 @@
 		"Food Studies, N Level",
 		"Geography",
 		"History",
-		"Home Economics",
 		"Literature(E)",
 		"Malay",
 		"Malay N(A)",
 		"Mathematics",
 		"Mathematics (Syllabus A)",
 		"Mathematics (Syllabus T)",
-		"Oecie Physical Education",
 		"Physics",
 		"Principles Of Accounts",
-		"Science",
 		"Science (Chem, Bio)",
 		"Science (Phy, Bio)",
 		"Science (Phy, Chem)",
@@ -78,8 +75,8 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Basketball",
-			"Football",
+			"Basketball (Boys)",
+			"Football (Boys)",
 			"Volleyball",
 			"Wushu"
 		],
@@ -87,7 +84,7 @@
 			"Girl Guides",
 			"Ncc (Land)",
 			"Npcc",
-			"Scouts",
+			"Scouts (Sea)",
 			"Singapore Red Cross Society"
 		],
 		"Visual and Performing Arts": [
@@ -95,11 +92,11 @@
 			"Choir",
 			"Dance - Chinese",
 			"Dance - Malay",
-			"Drama - English"
+			"Drama - English",
+			"Photographic Society"
 		],
 		"Clubs & Societies": [
 			"Info Communication Club",
-			"Library Council",
 			"Thinkers Club"
 		]
 	},
@@ -108,13 +105,10 @@
 			"Humanities": "Minds for the Future – First Cultivating the Disciplined and Synthesising Mind",
 			"Community & Youth Leadership": "Dare to Serve -- QUEST Leadership Development"
 		},
-		"Special Student Development Programmes Offered": "The school sets out to prepare our students to be Future-Ready by equipping them with the skill-sets and mind-sets to navigate the uncertainties ahead. With this in mind, the school embarked on an Applied Learning Programme (ALP) which focuses on cultivating Disciplined and Synthesising Minds (based on Howard Gardner's 5 Minds for the Future) through investigative thinking. The emphasis is on the application of thinking skills, connecting knowledge across subject disciplines and applying these skills in authentic settings. The ALP lays a strong foundation in our students so that they will gain a competitive edge in the future. In line with the school's motto 'Dare to Serve', the school's Learning for Life Programme (LLP) focuses on Community Youth Leadership. The LLP aims to grow our students to be leaders who are aware of the needs of the community, championing and advocating for them. Through school programmes, such as the annual Quest Learning Festival, leadership development programmes and overseas immersion programmes, students are provided with meaningful learning experiences for them to grow as a Community Youth Leader. The school leverages on the National Youth Achievement Award (NYAA) to achieve its mission to nurture a leader for tomorrow, anchored in values and committed to serve.  The programme develops self-reliance, perseverance, personal responsibility and responsibility to society and nation. With strong processes in place, the school was recognised for the 1000th NYAA awardee in 2013 and affirmed by our Minister for Education. Our other accolades include the sustained LOTUS Award for our pervasive Green Efforts and the sustained achievements of our various CCA Groups"
+		"Special Student Development Programmes Offered": "The school sets out to prepare our students to be Future-Ready by equipping them with the skill-sets and mind-sets to navigate the uncertainties ahead. With this in mind, the school embarked on an Applied Learning Programme (ALP) which focuses on cultivating Disciplined and Synthesising Minds (based on Howard Gardner's 5 Minds for the Future) through investigative thinking. The emphasis is on the application of thinking skills, connecting knowledge across subject disciplines and applying these skills in authentic settings. The ALP lays a strong foundation in our students so that they will gain a competitive edge in the future. In line with the school's motto 'Dare to Serve', the school's Learning for Life Programme (LLP) focuses on Community Youth Leadership. The LLP aims to grow our students to be leaders who are aware of the needs of the community, championing and advocating for them. Through school programmes, such as the annual Quest Learning Festival, leadership development programmes and overseas immersion programmes, students are provided with meaningful learning experiences for them to grow as a Community Youth Leader. The school leverages on the National Youth Achievement Award (NYAA) to achieve its mission to nurture a leader for tomorrow, anchored in values and committed to serve.  The programme develops self-reliance, perseverance, personal responsibility and responsibility to society and nation. Our students will attain NYAA Bronze Award with many going on to achieve the Silver Award. Our other accolades include the sustained LOTUS Award for our pervasive Green Efforts and the sustained achievements of our various CCA Groups. To promote the Joy of Learning and Innovation in our students, the school started the Makers' Club in 2017 to allow students to exercise their creativity and apply their skills and knowledge."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": "DA (National Education)"
-			},
 			"2015": {
 				"Development Award": "DA (National Education)"
 			},
@@ -144,36 +138,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category B",
@@ -267,31 +231,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Girl Guides (Coy 1)",
 					"award": "Gold"
@@ -371,30 +310,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 190,
-			"upper": 244,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 152,
-			"upper": 192,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 113,
-			"upper": 147,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 195,
@@ -463,6 +378,30 @@
 			"programme": "Normal Technical",
 			"lower": 123,
 			"upper": 155,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 247,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 154,
+			"upper": 191,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 123,
+			"upper": 157,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

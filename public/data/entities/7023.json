@@ -37,6 +37,7 @@
 	},
 	"SubjectOffered": [
 		"Additional Mathematics",
+		"Art",
 		"Art Na Level",
 		"Art Nt Level",
 		"Art 'O' Level",
@@ -62,6 +63,9 @@
 		"Geography",
 		"Higher Chinese",
 		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In English)",
 		"Literature(E)",
 		"Malay",
 		"Malay N(A)",
@@ -76,7 +80,6 @@
 		"Science (Chem, Bio)",
 		"Science (Phy, Chem)",
 		"Science (Syll T)",
-		"Social Studies",
 		"Tamil",
 		"Tamil N(A)"
 	],
@@ -117,12 +120,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				]
-			},
 			"2015": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -136,46 +133,6 @@
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
 				{
 					"year": "2015",
 					"category": "Hockey",
@@ -279,41 +236,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2015",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
@@ -415,30 +337,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 231,
-			"upper": 241,
-			"lowerAffiliated": 200,
-			"upperAffiliated": 237
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 160,
-			"upper": 199,
-			"lowerAffiliated": 153,
-			"upperAffiliated": 196
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 115,
-			"upper": 158,
-			"lowerAffiliated": 133,
-			"upperAffiliated": 150
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 234,
@@ -509,6 +407,30 @@
 			"upper": 151,
 			"lowerAffiliated": 125,
 			"upperAffiliated": 153
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 235,
+			"upper": 241,
+			"lowerAffiliated": 200,
+			"upperAffiliated": 249
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 185,
+			"upper": 198,
+			"lowerAffiliated": 153,
+			"upperAffiliated": 198
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 116,
+			"upper": 146,
+			"lowerAffiliated": 141,
+			"upperAffiliated": 147
 		}
 	],
 	"postalCode": "099138",

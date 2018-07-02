@@ -14,9 +14,10 @@
 	],
 	"email": "SPRINGFIELDS@MOE.EDU.SG",
 	"mrt": [
-		"Tampines MRT"
+		"Tampines MRT",
+		"Tampines West MRT"
 	],
-	"bus": "8 , 15 , 23 , 69 , 118 , 129 , 291 , 293 , 513 , 518 ",
+	"bus": "8 , 15 , 23 , 69 , 118 , 129 , 291 , 293 , 298 , 513 , 518 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Loong Choo Juan, Jenny",
 		"Principal-Designate": "MRS MABEL LEONG",
@@ -42,7 +43,6 @@
 		"Chemistry",
 		"Chinese",
 		"Chinese N(A)",
-		"Civics & Moral Education",
 		"Computer Applications",
 		"Computing",
 		"Design & Technology",
@@ -65,7 +65,6 @@
 		"Mathematics (Syllabus A)",
 		"Mathematics (Syllabus T)",
 		"Music",
-		"Music Nt Level",
 		"Physical Education",
 		"Physics",
 		"Principles Of Accounts",
@@ -94,7 +93,6 @@
 			"Ensemble - Guzheng"
 		],
 		"Clubs & Societies": [
-			"Design & Robotics Club",
 			"Infocom Club",
 			"New Media Arts Club",
 			"Outdoor Pursuits Club"
@@ -109,54 +107,11 @@
 			],
 			"Community & Youth Leadership": "GEARing Springfielders for Success - Grounding in Values, Engaged to Learn and Lead, Aspiring to Serve, Ready to Soar"
 		},
-		"Special Student Development Programmes Offered": "The school's Applied Learning Programme (ALP), 'Exploring Health Sciences through SP2A' explores the Health Sciences through learning experiences in the Sports Science, General Physiology and Nutrition and the Health and Well-being of the Aged. The ALP curriculum has a strong emphasis on promoting the \"maker's culture\" in our students while building content and awareness in the area of Health Sciences. Students also embark on learning journeys and attachments to health science related companies and institutions to experience and understand the challenges, needs and expectations of healthcare professionals. The school's Learning for Life Programme (LLP), 'GEARing Springfielders for Success', seeks to nurture students to be socially responsible and develop in them a spirit of volunteerism to make a difference to the community. Through the school's LLP which focuses on Community and Youth Leadership (CYL), the school designs learning experiences for students to acquire a critical set of skills and knowledge related to CYL. This is done through purposeful partnerships with the community partners to provide opportunities for students to transfer their learning and put into practice the skills learned. To equip our students with the 21st century competencies, the school conducts programmes such as the Code for Fun Programme and the Learning Festival. The Lower Secondary students undergo a 2-year Code for Fun programme to enhance their coding, logical thinking and problem solving skills."
+		"Special Student Development Programmes Offered": "The school's Applied Learning Programme (ALP), 'Exploring Health Sciences and Sports Sciences' aims to deepen students' knowledge and develop their interest in the Health domains (e.g. General Physiology and Nutrition). During the ALP lessons, students learn to apply the skills and knowledge learned to enhance their individual well-being and that of others. In addition, learning journeys and attachments to health science related companies are arranged for the students to experience and understand the challenges, needs and expectations of healthcare professionals. The school's Learning for Life Programme (LLP), 'GEARing Springfielders for Success', seeks to nurture students to be socially responsible and develop in them a spirit of volunteerism to make a difference to the community. Through the school's LLP which focuses on Community and Youth Leadership (CYL), the school designs learning experiences for students to acquire a critical set of skills and knowledge related to CYL. This is done through purposeful partnerships with the community partners to provide opportunities for students to transfer their learning and put into practice the skills learned."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": "DA (Character Development)"
-			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Taekwondo",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Taekwondo",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Taekwondo",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Taekwondo",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
 				{
 					"year": "2015",
 					"category": "Floorball",
@@ -300,26 +255,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Display / Marching",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2015",
 					"category": "Band - Concert",
 					"award": "Commendation"
@@ -407,31 +342,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Sea Girls)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Sea)",
-					"award": "Bronze"
-				},
-				{
 					"year": "2015",
 					"category": "Boys' Brigade",
 					"award": "Silver"
@@ -506,30 +416,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 248,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 156,
-			"upper": 187,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 110,
-			"upper": 151,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 188,
@@ -598,6 +484,30 @@
 			"programme": "Normal Technical",
 			"lower": 107,
 			"upper": 146,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 189,
+			"upper": 264,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 153,
+			"upper": 185,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 118,
+			"upper": 151,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

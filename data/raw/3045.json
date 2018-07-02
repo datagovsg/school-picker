@@ -92,7 +92,7 @@
 		"MOE Programmes": [
 			"Not Available"
 		],
-		"Special Student Development Programmes Offered": "Students participate in programmes aligned to the YTzen profile that are designed for their holistic development. These programmes teach character education while challenging our students cognitively and physically. Confident Leader: All students participate in the NYAA (Silver) Programme, learning different skill sets and nurturing attributes that ensure holistic development. They also undergo leadership training through the Student Leadership Development Programmes that involve level camps, expeditions and service learning projects. Selected Student Leaders have the opportunities to take part in the Aspiring and Empowering Leaders Programmes to further develop their leadership competencies. NT students develop life skills and vocational skills in the MY LIFE Programme. Active Citizens: Social-emotional competencies are taught through Process Drama and Values@Heart lessons. Classes also plan and carry out Service Learning projects and reflect on our nation's history as they participate in Heritage Trails designed by our teachers. Global Thinkers: The YTSS Cross-Cultural Learning Programmes expand our students' global outlook while developing their intercultural competencies through local and overseas exchange programmes and learning journey. The STAR Programmes also challenges our students cognitively through interesting research projects in collaboration with Institutes of Higher Learning, both local and overseas."
+		"Special Student Development Programmes Offered": "Students participate in programmes aligned to the YTzen profile that are designed for their holistic development. These programmes teach character education while challenging our students cognitively and physically. Confident Leader: All students participate in the NYAA (Silver) Programme, learning different skill sets and nurturing attributes that ensure holistic development. They also undergo leadership training through the Student Leadership Development Programmes that involve level camps, expeditions and service learning projects. Selected Student Leaders have the opportunities to take part in the Aspiring and Empowering Leaders Programmes to further develop their leadership competencies. NA and NT students develop life skills and vocational skills in the MY LIFE Programme. Active Citizens: Social-emotional competencies are taught through Process Drama and Values@Heart lessons. Classes also plan and carry out Service Learning projects and reflect on our nation's history as they participate in Heritage Trails designed by our teachers. Global Thinkers: The YTSS Cross-Cultural Learning Programmes expand our students' global outlook while developing their intercultural competencies through local and overseas exchange programmes and learning journey. The STAR Programmes also challenges our students cognitively through interesting research projects in collaboration with Institutes of Higher Learning, both local and overseas."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1233,7 +1233,8 @@
 					"Npcc (Land)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1455,6 +1456,23 @@
 			"Normal Technical": [
 				"141",
 				"159",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"235",
+				"261",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"186",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"144",
+				"157",
 				"None-posted"
 			]
 		}

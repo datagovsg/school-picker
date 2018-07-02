@@ -52,10 +52,10 @@
 	],
 	"Cca": {
 		"Physical Sports": [
+			"Athletics",
 			"Badminton",
 			"Table Tennis",
 			"Ten-Pin Bowling",
-			"Track & Field",
 			"Wushu"
 		],
 		"Uniformed Groups": [
@@ -87,80 +87,7 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "4th"
-				},
 				{
 					"year": "2015",
 					"category": "Badminton",
@@ -394,26 +321,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Choir",
 					"award": "Accomplishment"
@@ -491,11 +398,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Scout",
-					"award": "Bronze"
-				},
-				{
 					"year": "2015",
 					"category": "Scout",
 					"award": "Gold"
@@ -519,8 +421,8 @@
 		1.3333914
 	],
 	"svy21": [
-		39262.63,
-		35065.47
+		39262.59,
+		35065.4
 	],
 	"planningArea": "BD",
 	"neighbours": [
@@ -534,23 +436,10 @@
 		"Mild SEN"
 	],
 	"p1Registration": {
-		"Total Vacancy": 240,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 200,
-		"No. of Applicants in Phase 1": 99,
-		"Places taken up to Phase 1": 99,
-		"Vacancy for Phase 2A1": 101,
-		"No. of Applicants in Phase 2A1": 78,
-		"Places taken up to Phase 2A1": 177,
-		"Vacancy for Phase 2A2": 23,
-		"No. of Applicants in Phase 2A2": 22,
-		"Places taken up to Phase 2A2": 199,
-		"Vacancy for Phase 2B": 21,
-		"No. of Applicants in Phase 2B": 11,
-		"Places taken up to Phase 2B": 207,
-		"Vacancy for Phase 2C": 33,
-		"No. of Applicants in Phase 2C": 58,
-		"Places taken up to Phase 2C": 240
+		"TOTAL VACANCY": 240,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 200,
+		"NO. OF APPLICANTS IN PHASE 1": 125
 	},
 	"id": "5214"
 }

@@ -34,16 +34,21 @@
 		"ART 'O' LEVEL",
 		"BIOLOGY",
 		"CHEMISTRY",
+		"CHINESE",
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMBINED HUMANITIES (S,L)",
+		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
+		"ELEMENTS OF BUSINESS SKILLS",
+		"ENGLISH LANGUAGE",
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HISTORY",
 		"LITERATURE(E)",
+		"MALAY",
 		"MATHEMATICS",
 		"MUSIC 'O' LEVEL",
 		"PHYSICS",
@@ -88,7 +93,7 @@
 			"STEM": "Environment Science & Technology",
 			"Music & Performing Arts": "Integrated Arts Programme"
 		},
-		"Special Student Development Programmes Offered": "Unique to the school is the lower secondary Learning for Life Programme (LLP), a curriculum designed to expose every student to drama, visual arts, dance and music. Opportunities are provided for students to hone their talents through performances such as Lunchtime Performances, school concerts and the biennial Night of Music, Arts and Dance (NOMAD). In 'Developing 21st Century Learners', the school has embarked on Alternative Modes of Assessment  (AMA) as a whole-school approach to engage students in Assessment for Learning and Assessment as Learning, so as to cultivate self-directed and independent learners. The school's Applied Learning Programme (ALP), 'Environment Science & Sustainable Living', equips students with 21st century competencies by developing them in scientific inquiry skills."
+		"Special Student Development Programmes Offered": "Unique to the school are the Learning for Life Programme (LLP) in Arts Education; and the Applied Learning Programme (ALP) in Environmental Sustainability.  The LLP Integrated Arts Programme is designed to expose every student to drama, visual"
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1219,7 +1224,8 @@
 					"Npcc (Land)": "Silver",
 					"Red Cross": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1441,6 +1447,23 @@
 			"Normal Technical": [
 				"118",
 				"155",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"224",
+				"252",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"175",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"131",
+				"159",
 				"None-posted"
 			]
 		}

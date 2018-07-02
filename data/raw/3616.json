@@ -42,25 +42,24 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART",
-		"ART 'O' LEVEL",
 		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
 		"CHINESE B",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
-		"FOOD STUDIES, N LEVEL",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"ICT",
 		"LITERATURE(E)",
 		"MALAY",
@@ -71,7 +70,6 @@
 		"PROJECT WORK",
 		"SCIENCE",
 		"SCIENCE (PHY, CHEM)",
-		"SOCIAL STUDIES",
 		"SOCIAL STUDIES N(T)"
 	],
 	"Cca": {
@@ -84,7 +82,7 @@
 		"Uniformed Groups": [
 			"Ncc (Land)",
 			"Npcc",
-			"Red Cross Youth"
+			"Singapore Red Cross Society"
 		],
 		"Visual and Performing Arts": [
 			"Chinese Orchestra",
@@ -108,7 +106,7 @@
 			"STEM": "Materials Science for Sustainable Living",
 			"Community & Youth Leadership": "Learners and Leaders for Life"
 		},
-		"Special Student Development Programmes Offered": "The school has two distinctive programmes to provide holistic development of students: Learning for Life Programme (LLP) - 'Community Youth Leadership' and Applied Learning Programme (ALP) - 'Material Science for Sustainable Living'. The 'Community Youth Leadership' programme aims to develop student leaders to attain the 3A qualities of Awareness, Affection and Ability to Act while the 'Material Science for Sustainable Living' programme aims to nurture students to be self-directed and become dynamic learners with a keen interest in STEM-related domains such as materials science. "
+		"Special Student Development Programmes Offered": "The school has two distinctive programmes to provide holistic development of students: Learning for Life Programme (LLP) - 'Community Youth Leadership' and Applied Learning Programme (ALP) - 'Material Science for Sustainable Living'. The 'Community Youth Leadership' programme aims to develop student leaders to attain the 3A qualities of Awareness, Affection and Ability to Act while the 'Material Science for Sustainable Living' programme aims to leverage on the school's strengths on Environmental Education and Design Education, to nurture students to be self-directed and become dynamic learners with a keen interest in STEM-related domains such as materials science. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -762,7 +760,8 @@
 					"Npcc (Land)": "Gold",
 					"Red Cross": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -984,6 +983,23 @@
 			"Normal Technical": [
 				"123",
 				"159",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"204",
+				"237",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"172",
+				"197",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"133",
+				"158",
 				"None-posted"
 			]
 		}

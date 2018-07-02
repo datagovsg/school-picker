@@ -42,6 +42,8 @@
 		"Chinese B",
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
+		"Computer Applications",
+		"Computing",
 		"Design & Technology",
 		"English Language",
 		"Food & Nutrition",
@@ -51,20 +53,21 @@
 		"History",
 		"Literature(E)",
 		"Malay",
-		"Malay B",
 		"Mathematics",
 		"Music",
-		"Oecie Drama (GCEO)",
 		"Physical Education",
 		"Physics",
 		"Principles Of Accounts",
+		"Retail Operations",
 		"Science",
 		"Science (Chem, Bio)",
-		"Science (Phy, Chem)"
+		"Science (Phy, Chem)",
+		"Tamil"
 	],
 	"Cca": {
 		"Physical Sports": [
 			"Basketball",
+			"Judo",
 			"Netball",
 			"Rugby",
 			"Table Tennis",
@@ -78,6 +81,7 @@
 			"St. John Brigade"
 		],
 		"Visual and Performing Arts": [
+			"Art And Craft Club",
 			"Band - Symphonic",
 			"Choir",
 			"Dance - Modern",
@@ -93,16 +97,10 @@
 			"Business & Entrepreneurship": "Nurturing Entrepreneurs through a vibrant Business & Entrepreneurship Development Programme",
 			"Community & Youth Leadership": "Nurturing Leaders with the heart to serve through a vibrant Community Leadership Programme"
 		},
-		"Special Student Development Programmes Offered": "The school offers the Applied Learning Programme (ALP) and Learning for Life Programme (LLP) with the aim of nurturing students to be entrepreneurs and community leaders with the heart to serve. This is in alignment with the school vision of developing 'Resilient Achievers and Responsible Citizens'. The ALP focusses on equipping students with essential skills and knowledge of business and entrepreneurship including ICT and Design Thinking tools and marketing and presentation skills through level wide programmes such as Elective Modules, Advance Elective Modules and Values in Action. The LLP aims to develop leadership skills progressively in all students; beginning with personal and community leadership and culminating in executive leadership. All students will acquire basic leadership competencies, social emotional skills and values to become community leaders.  The programme utilises carefully selected tools including 7 Habits of Effective Teens, National Youth Achievement Award, experiential outdoor learning and leadership profiling tools.  It will also leverage the current strength of the school in Uniformed Groups (UGs) to provide UG experiences for non-UG students.  In all, the school is committed to nurturing learners with skills and values to innovate and gracious citizens with the heart to serve."
+		"Special Student Development Programmes Offered": "The school offers the Applied Learning Programme (ALP) and Learning for Life Programme (LLP) which provide students with learning experiences beyond the formal instructional curriculum. The school's ALP, Broadcast Journalism, allows students to apply English Language skills from various genres in an authentic setting. All lower secondary students go through the programme where they hone their language skills as they engage in scripting, storyboarding and video-making. Students also acquire related ICT skills progressively. The programme promotes the use of the language skills to communicate and serve the community. Students also gain insights into possible careers in the fields of media and journalism. The LLP focusses on developing community leaders with the heart to serve through Uniformed Groups and leadership development programmes. It leverages on the strength of the school in Uniformed Groups (UGs) to provide UG experiences for non-UG students. It aims to develop leadership skills progressively in all students; beginning with personal and community leadership and culminating in executive leadership. All students will acquire basic leadership competencies, social emotional skills and values to become community leaders.  In all, the school is committed to nurturing resilient learners with skills and values for effective communication and gracious citizens with the heart to serve."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				]
-			},
 			"2015": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -122,16 +120,6 @@
 				]
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
 				{
 					"year": "2015",
 					"category": "Basketball",
@@ -215,31 +203,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2015",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
@@ -301,26 +264,6 @@
 				}
 			],
 			"Best Unit Award": [
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
 				{
 					"year": "2015",
 					"category": "NCC (Land Boys)",
@@ -386,30 +329,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 212,
-			"upper": 229,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 152,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": null,
-			"upper": null,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 215,
@@ -454,6 +373,22 @@
 			"programme": "Normal Academic",
 			"lower": 153,
 			"upper": 191,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 208,
+			"upper": 246,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 157,
+			"upper": 187,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

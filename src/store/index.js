@@ -71,7 +71,7 @@ const store = new Vuex.Store({
         })
     },
     fetchEntityDetail (context, id) {
-      return axios.get(window.location.origin + '/data/entities/' + id + '.json')
+      return axios.get('https://s3.ap-southeast-1.amazonaws.com/school-picker/' + id + '.json')
         .then(res => res.data)
         .then(json => {
           context.commit('addEntityDetail', json)

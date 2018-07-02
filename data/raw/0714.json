@@ -95,15 +95,31 @@
 			"Badminton",
 			"Basketball",
 			"Floorball",
-			"Hockey",
-			"Netball",
+			"Hockey (Girls)",
+			"Netball (Girls)",
 			"Softball",
 			"Squash",
-			"Swimming",
 			"Table Tennis",
 			"Tennis",
 			"Track & Field",
 			"Volleyball"
+		],
+		"Visual and Performing Arts": [
+			"Chinese Orchestra",
+			"Choir",
+			"Dance",
+			"Drama",
+			"Symphonic Band"
+		],
+		"Clubs & Societies": [
+			"Computing & Robotics",
+			"Debate",
+			"Media",
+			"Outdoor Adventure (Odac)",
+			"Service Learning"
+		],
+		"Others": [
+			"Students' Council"
 		]
 	},
 	"SpecialProgrammes": {
@@ -131,7 +147,8 @@
 					"Band - Concert": "Distinction",
 					"Dance - International": "Distinction"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"L1R5History": {
@@ -155,6 +172,20 @@
 			"Science/IB": [
 				"2",
 				"9"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2018": {
+			"Arts": [
+				"6",
+				"11"
+			],
+			"Science/IB": [
+				"2",
+				"10"
 			],
 			"Commerce": [
 				"-",

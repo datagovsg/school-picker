@@ -60,14 +60,14 @@
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
-			"Art And Craft Club",
-			"Dance - Contemporary",
-			"Dance - Malay"
+			"Art Club",
+			"Contemporary Dance",
+			"Malay Dance"
 		],
 		"Clubs & Societies": [
 			"Infocomm Club",
 			"Library",
-			"Science Tinkerer Club"
+			"Makers Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -1057,7 +1057,8 @@
 				"Best Unit Award": {
 					"Scout": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "469623"

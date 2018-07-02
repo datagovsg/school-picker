@@ -71,15 +71,14 @@
 		"Visual and Performing Arts": [
 			"Art Club",
 			"Choir",
+			"Drama Box",
 			"Guzheng",
-			"Language Drama Club",
 			"Malay Dance",
 			"Modern Dance",
 			"String Ensemble"
 		],
 		"Clubs & Societies": [
 			"Chess Club",
-			"Chinese Cultural Club",
 			"Infocomm Club",
 			"Library",
 			"Scrabble Club",
@@ -1403,7 +1402,8 @@
 					"Boys' Brigade": "Gold",
 					"Girls' Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "529706"

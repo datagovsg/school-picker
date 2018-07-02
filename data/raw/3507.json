@@ -40,7 +40,6 @@
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
-		"HIGHER CHINESE",
 		"HUMANITIES (SS, GEOGRAPHY)",
 		"HUMANITIES (SS, HISTORY)",
 		"HUMANITIES (SS, LIT IN ENGLISH)",
@@ -76,8 +75,7 @@
 		],
 		"Clubs & Societies": [
 			"Library",
-			"Media & Communications Club",
-			"Media And Communications Club"
+			"Media & Communications"
 		],
 		"Others": [
 			"Students' Council"
@@ -757,7 +755,8 @@
 					"Npcc (Land)": "Silver",
 					"Scout (Unit 1)": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -952,6 +951,18 @@
 			"Normal Academic": [
 				"154",
 				"192",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"189",
+				"225",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"198",
 				"None-posted"
 			]
 		}

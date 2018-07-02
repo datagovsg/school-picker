@@ -50,6 +50,7 @@
 		"H1 CHINESE LANGUAGE",
 		"H1 ECONOMICS",
 		"H1 GENERAL PAPER",
+		"H1 GENERAL STUDIES IN CHINESE",
 		"H1 GEOGRAPHY",
 		"H1 HISTORY",
 		"H1 LITERATURE IN ENGLISH",
@@ -61,16 +62,20 @@
 		"H2 ART",
 		"H2 BIOLOGY",
 		"H2 CHEMISTRY",
+		"H2 CHINA STUDIES IN CHINESE",
 		"H2 CHINESE LANGUAGE & LITERATURE",
+		"H2 COMPUTING",
 		"H2 ECONOMICS",
+		"H2 ENGLISH LANGUAGE AND LINGUISTICS",
+		"H2 FURTHER MATHEMATICS",
 		"H2 GEOGRAPHY",
 		"H2 HISTORY",
-		"H2 KNOWLEDGE & INQUIRY",
 		"H2 LITERATURE IN ENGLISH",
 		"H2 MALAY LANGUAGE & LITERATURE",
 		"H2 MATHEMATICS",
 		"H2 PHYSICS",
 		"H2 TAMIL LANGUAGE & LITERATURE",
+		"H2 TRANSLATION (CHINESE)",
 		"H3 ART",
 		"H3 CHINESE LANGUAGE & LITERATURE",
 		"H3 ECONOMICS",
@@ -79,7 +84,10 @@
 		"H3 HISTORY",
 		"H3 MATHEMATICS",
 		"H3 PHARMACEUTICAL CHEMISTRY",
-		"H3 PROTEOMICS"
+		"NTU MOLECULAR BIOLOGY",
+		"NTU SEMICONDUCTOR PHYSICS & DEVICES",
+		"NUS MODERN PHYSICS",
+		"SMU GAME THEORY"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -922,7 +930,8 @@
 					"Drama - English": "Distinction",
 					"Ensemble - Guzheng": "Distinction"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"L1R5History": {
@@ -998,6 +1007,20 @@
 			"Science/IB": [
 				"2",
 				"6"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2018": {
+			"Arts": [
+				"2",
+				"8"
+			],
+			"Science/IB": [
+				"2",
+				"7"
 			],
 			"Commerce": [
 				"-",

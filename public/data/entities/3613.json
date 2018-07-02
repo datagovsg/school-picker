@@ -25,7 +25,7 @@
 		],
 		"School Vision": "A Choice School, A Caring Home",
 		"School Mission": "Nurturing TOMORROW's learners, who are the pride of their family, society and nation, TODAY.",
-		"School Philosophy, Culture and Ethos": "Pasir Ris Crest Secondary School is committed to helping our students achieve academic success and develop good character and values. We strive to give our students a quality learning experience that is steeped in the learning of values as well as knowledge and skills needed for the 21st Century. We develop Crestians to be active and engaged learners, innovative problem-solvers, effective communicators, self-disciplined and responsible leaders and active and concerned citizens with global awareness. Our emphasis on quality teaching and the belief that all Crestians can learn and achieve have guided us in developing good teaching and learning programmes that have yielded positive outcomes. Through character education and student leadership development, we aim to inculcate in our students sound values and nurture Crestian Overcomers with strength of character to overcome challenges in life.",
+		"School Philosophy, Culture and Ethos": "Pasir Ris Crest Secondary School is committed to helping our students achieve academic success and develop good character and values. We strive to give our students a quality learning experience that is steeped in the learning of values as well as knowledge and skills needed for the 21st Century. We develop Crestians to be active and engaged learners, innovative problem-solvers, effective communicators, self-disciplined and responsible leaders, and active and concerned citizens with global awareness. Our emphasis on quality teaching and the belief that all Crestians can learn and achieve have guided us in developing good teaching and learning programmes that have yielded positive outcomes. Through character education and student leadership development, we aim to inculcate in our students sound values and nurture Crestian Overcomers with strength of character to overcome challenges in life.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -43,9 +43,6 @@
 		"Chinese",
 		"Chinese N(A)",
 		"Civics & Moral Education",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
-		"Combined Humanities (S,L)",
 		"Computer Applications",
 		"Design & Technology",
 		"Elements Of Business Skills",
@@ -59,6 +56,9 @@
 		"Higher Chinese",
 		"Higher Tamil",
 		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In English)",
 		"Literature(E)",
 		"Malay",
 		"Malay N(A)",
@@ -117,36 +117,6 @@
 	"AchievementHistory": {
 		"Secondary": {
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Fencing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Fencing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Fencing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Fencing",
@@ -219,36 +189,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -341,36 +281,6 @@
 				}
 			],
 			"Best Unit Award": [
-				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Girls)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Silver"
-				},
 				{
 					"year": "2015",
 					"category": "Boys' Brigade",
@@ -466,30 +376,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 221,
-			"upper": 237,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 175,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 125,
-			"upper": 157,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 221,
@@ -558,6 +444,30 @@
 			"programme": "Normal Technical",
 			"lower": 128,
 			"upper": 157,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 215,
+			"upper": 234,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 176,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 132,
+			"upper": 159,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

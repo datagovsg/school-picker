@@ -17,16 +17,16 @@
 		"Choa Chu Kang MRT",
 		"Yew Tee MRT"
 	],
-	"bus": "307 , 301 , 302 , 160 , 170 , 178 , 925 , 927 , 960 , 983 , 961 ",
+	"bus": "307 , 301 , 302 , 160 , 170 , 178 , 925 , 927 , 960 , 983 , 961 , 979M ",
 	"GeneralInformation": {
 		"Principal": "Mr Leong Kok Kee",
 		"Vice Principal": [
 			"Mdm Pushparani D/o K Nadarajah",
 			"Mrs Tang Huay Jiuan Patrine"
 		],
-		"School Vision": "A Learner and Leader - Responsible, Confident and Committed to Excellence",
+		"School Vision": "A Self-Directed Learner. A Confident Leader. In pursuit of Excellence",
 		"School Mission": "Realising Our Potential",
-		"School Philosophy, Culture and Ethos": "In Regent, our students learn to be responsible and confident \"Learners and Leaders\", committed to academic and character excellence. They become self-directed and reflective in learning and competent in leading positive change. More importantly, they are grounded in the right school values of \"Respect, Empathy, Determination and Integrity\".  Our staff firmly believes in a student-centric education and we are committed to help students maximise their talents and realise their aspirations. In our quest for our students to \"Blaze Forth to Glory\", we forge a strong \"3C\" culture of \"Cherish\" the star in everyone; \"Care\" for all; and \"Commitment to excellence\".",
+		"School Philosophy, Culture and Ethos": "In Regent, our students learn to be self-directed learners, who take pride in learning, think critically and make informed decisions. They lead and motivate others to effect positive changes in school and community. In the pursuit of excellence, our students embrace self-belief, seek progress and turn challenges into opportunities for learning and growth.  More importantly, they are grounded in the right school values of \"Respect, Empathy, Determination and Integrity\". Our staff firmly believes in a student-centric education and we are committed to help students maximise their talents and realise their aspirations.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -34,22 +34,19 @@
 	"SubjectOffered": [
 		"Additional Mathematics",
 		"Art",
-		"Basic Chinese",
-		"Basic Malay",
 		"Biology",
 		"Chemistry",
 		"Chinese",
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
 		"Combined Humanities (S,L)",
-		"Computer Applications",
 		"Design & Technology",
-		"Elements Of Business Skills",
 		"English Language",
 		"Exercise And Sports Science",
 		"Food & Nutrition",
 		"Food And Consumer Education",
-		"Home Economics",
+		"Geography",
+		"History",
 		"Literature(E)",
 		"Malay",
 		"Mathematics",
@@ -63,23 +60,19 @@
 	"Cca": {
 		"Physical Sports": [
 			"Badminton",
+			"Basketball",
 			"Football",
-			"Handball",
 			"Netball",
-			"Rugby",
-			"Table Tennis",
 			"Taekwondo"
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
-			"Ncc (Land)",
 			"Npcc",
 			"Singapore Red Cross Society"
 		],
 		"Visual and Performing Arts": [
 			"Band - Concert",
 			"Elds",
-			"Movement & Dance",
 			"Show Choir"
 		],
 		"Clubs & Societies": [
@@ -95,31 +88,11 @@
 			"STEM": "Future Ready – Engineering @ Regent: Underwater Robotics",
 			"Community & Youth Leadership": "HEY Regent!Empowering every Regenite to be a Responsible and Confident Leader, Committed to Excellence"
 		},
-		"Special Student Development Programmes Offered": "Regent delivers a comprehensive curriculum with customised programmes to support the varied learning needs and interests of our students. In the instructional programme, Assessment for Learning (AfL) strategies are adopted as a school-wide teaching and learning approach to develop our students to be self-directed and reflective.  "
+		"Special Student Development Programmes Offered": "Regent delivers a comprehensive curriculum with customised programmes to support the varied learning needs and interests of our students. In the instructional programme, Assessment for Learning (AfL) strategies are adopted as a school-wide teaching and learning approach to develop our students to be self-directed. Our Applied Learning Programme (ALP) is supported by the Science Centre and serves as a platform to guide and expose our students in the area of STEM (Science, Technology, Engineering and Math) which they learn to appreciate the relevance and value of what they learn in the academic curriculum. Students will have the opportunity to build an Underwater Remotely Operated Vehicle (ROV) from scratch while learning to work in teams. This builds up students' skills in thinking, self-directing, problem-solving and decision-making. In Secondary 2, they will be taught coding and they will attempt to apply it on their ROV. Secondary 3 students are exposed to a wider range of STEM industries via Learning Journeys, Elective Modules and Advanced Elective Modules. In addition, Regent's Learning for Life Programme (LLP) adopts a whole-school approach to develop student's character, leadership and spirit for volunteering. The approach is achieved through our school's Student Leadership Programme and the Values-in-Action Programme (for youth volunteerism development). The Student Leadership programme equips our students with the attitude, knowledge and skills to lead self, peers and community. The Values-in-Action programme provides our students with the platforms and opportunities to take action and make a difference in school and community. Other enrichment programmes provided include the Mathematics & Science Olympiad, Writers-in-Residence and the Youth Arts Incubation. We are increasing opportunities for students to initiate VIA activities so that our students will be able to lead change in causes they are passionate about."
 	},
 	"AchievementHistory": {
 		"Secondary": {
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
 				{
 					"year": "2015",
 					"category": "Football",
@@ -162,31 +135,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -260,26 +208,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "Red Cross",
-					"award": "Silver"
-				},
-				{
 					"year": "2015",
 					"category": "Boys' Brigade",
 					"award": "Gold"
@@ -344,30 +272,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 250,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 162,
-			"upper": 188,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 114,
-			"upper": 158,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 189,
@@ -428,6 +332,22 @@
 			"programme": "Normal Academic",
 			"lower": 160,
 			"upper": 189,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 190,
+			"upper": 233,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 159,
+			"upper": 191,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

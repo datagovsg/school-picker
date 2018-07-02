@@ -23,7 +23,6 @@
 			"Mr Kenny Raphael Reyes",
 			"Mrs Esther See-Ling Szengen"
 		],
-		"Vice Principal (Admin)": "Mdm Rosewati Binte Sukiman",
 		"School Vision": "Where Potential Becomes Reality",
 		"School Mission": "Providing a Holistic Education",
 		"School Philosophy, Culture and Ethos": [
@@ -72,14 +71,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"Development Award": [
-					"DA (Character Development)",
-					"PARTNERS (Merit)"
-				],
-				"Outstanding Development Award": "ODA (National Education)",
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"2015": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -99,56 +90,6 @@
 				"Outstanding Development Award": "ODA (National Education)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "1st"
-				},
 				{
 					"year": "2015",
 					"category": "Volleyball",
@@ -302,16 +243,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2015",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -359,11 +290,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Scout",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Scout",
 					"award": "Gold"
@@ -387,8 +313,8 @@
 		1.3751228
 	],
 	"svy21": [
-		40449.55,
-		39679.97
+		40449.51,
+		39679.9
 	],
 	"planningArea": "PR",
 	"neighbours": [
@@ -403,23 +329,10 @@
 		"Mild SEN"
 	],
 	"p1Registration": {
-		"Total Vacancy": 180,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 140,
-		"No. of Applicants in Phase 1": 62,
-		"Places taken up to Phase 1": 62,
-		"Vacancy for Phase 2A1": 78,
-		"No. of Applicants in Phase 2A1": 0,
-		"Places taken up to Phase 2A1": 62,
-		"Vacancy for Phase 2A2": 78,
-		"No. of Applicants in Phase 2A2": 4,
-		"Places taken up to Phase 2A2": 66,
-		"Vacancy for Phase 2B": 57,
-		"No. of Applicants in Phase 2B": 0,
-		"Places taken up to Phase 2B": 66,
-		"Vacancy for Phase 2C": 114,
-		"No. of Applicants in Phase 2C": 119,
-		"Places taken up to Phase 2C": 180
+		"TOTAL VACANCY": 180,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 140,
+		"NO. OF APPLICANTS IN PHASE 1": 72
 	},
 	"id": "1737"
 }

@@ -14,7 +14,7 @@
 	],
 	"email": "SCSS@MOE.EDU.SG",
 	"mrt": "BUKIT GOMBAK MRT",
-	"bus": "945 , 187 ",
+	"bus": "187 , 188 , 985 , 945 ",
 	"GeneralInformation": {
 		"Principal": "MR SHERWIN CHENG SAN SHIAN",
 		"Vice Principal": "MR HOI WENG KIT DERRICK",
@@ -49,6 +49,7 @@
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
+		"HIGHER ART",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
 		"HIGHER TAMIL",
@@ -63,12 +64,13 @@
 		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
-		"PRINCIPLES OF A/C",
+		"PRINCIPLES OF ACCOUNTS",
 		"PROJECT WORK",
 		"SCIENCE",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
+		"SMART ELECTRICAL TECHNOLOGY",
 		"SOCIAL STUDIES N(T)",
 		"TAMIL",
 		"TAMIL B",
@@ -77,10 +79,10 @@
 	"Cca": {
 		"Physical Sports": [
 			"Badminton (Girls)",
-			"Basketball (Boys)",
+			"Basketball (Mixed)",
 			"Floorball (Mixed)",
 			"Football (Boys)",
-			"Tenpin Bowling"
+			"Tenpin Bowling (Boys)"
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
@@ -615,7 +617,8 @@
 					"Scout (Unit 1)": "Gold",
 					"St John Ambulance Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -837,6 +840,23 @@
 			"Normal Technical": [
 				"143",
 				"158",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"239",
+				"255",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"187",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"146",
+				"159",
 				"None-posted"
 			]
 		}

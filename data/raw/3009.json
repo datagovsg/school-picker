@@ -14,7 +14,7 @@
 	],
 	"email": "comms@ri.edu.sg",
 	"mrt": "BISHAN MRT, MARYMOUNT MRT",
-	"bus": "410 , 13 , 50 , 52 , 53 , 54 , 55 , 56 , 57 , 58 , 59 , 74 , 88 , 93 , 128 , 130 , 132 , 156 , 157 , 162 , 163 , 165 , 166 , 167 , 851 , 852 , 855 , 980 ",
+	"bus": "410 , 13 , 50 , 52 , 53 , 54 , 55 , 56 , 57 , 58 , 59 , 71 , 74 , 88 , 93 , 128 , 130 , 132 , 156 , 157 , 162 , 163 , 165 , 166 , 167 , 851 , 852 , 855 , 980 ",
 	"GeneralInformation": {
 		"Principal": "MR YEO KOK PENG FREDERICK",
 		"Vice Principal": [
@@ -26,7 +26,7 @@
 		],
 		"School Vision": "To be the 'Hope of a Better Age', as encapsulated in the school's Latin motto, Auspicium Melioris Aevi.",
 		"School Mission": "Nurturing Thinkers, Leaders and Pioneers of character who serve by leading and lead in serving.",
-		"School Philosophy, Culture and Ethos": "Founded in 1823, Raffles Institution (RI) aims to provide all students with an all-round education that enables them to excel in their many passions and pursuits. Our six-year Raffles Programme (RP) culminates in the GCE A-Level examinations. Graduating students also receive the Raffles Diploma (RD), a criterion-referenced certification which honours student participation and achievements in five key domains: Cognitive, Character and Leadership, Community and Citizenship, Sports and Health, and Arts and Aesthetics. It encourages Rafflesians to develop their particular strengths, talents and needs, as they prepare for life ahead. RI's special focus is on character and leadership development, particularly in giving back to the community. Student and CCA groups are actively involved in Values in Action activities. RI has committed to nurturing leaders who will contribute to the community by having its students explore social issues, exchange ideas, and generate solutions for a more sustainable and equitable future through a range of programmes and activities. In this way, the school inculcates in its students her ethos of being the 'hope of a better age'.",
+		"School Philosophy, Culture and Ethos": "Founded in 1823, Raffles Institution (RI) provides its students with an all-round education through its integrated six-year Raffles Programme, which leads to the GCE A-Level certification for boys aged 13 to 18 and girls aged 17 to 18. Modelled on exemplary gifted education principles and practices for high-ability learners, the programme lays a solid foundation for critical thinking, innovation and character development. The Cognitive development domain of the programme is based on the GCE A-Level subject specialisations with extended enrichment modules. Through a wide spectrum of programmes, students are nurtured in this and four other domains of life: Character and Leadership; Community and Citizenship; Sports and Health, and Arts and Aesthetics. RI's special focus is on Character and Leadership development, particularly in giving back to the community. The Raffles Programme develops students into thinkers, leaders and pioneers, who understand that the basis of leadership is service, and actively seek to serve others. Students will come to a greater awareness of their talents and gifts, and learn where and how to put these talents to their best use.",
 		"Type of School": "INDEPENDENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"IP Partner Schools": "RAFFLES GIRLS' SCHOOL (SECONDARY)",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -38,25 +38,90 @@
 		"CHEMISTRY",
 		"CHINESE",
 		"CHINESE (SPECIAL PROGRAMME)",
+		"Computer Studies",
+		"Design Thinking",
 		"ENGLISH LANGUAGE",
+		"FRENCH",
 		"GEOGRAPHY",
+		"GERMAN",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
 		"HIGHER TAMIL",
 		"HISTORY",
+		"JAPANESE",
 		"LITERATURE(E)",
 		"MALAY",
 		"MALAY (SPECIAL PROGRAMME)",
 		"MATHEMATICS",
 		"MUSIC",
+		"Philosophy",
 		"PHYSICS",
-		"School Subject 1",
-		"School Subject 2",
-		"School Subject 3",
+		"Research Education",
 		"SOCIAL STUDIES",
+		"SPANISH",
 		"TAMIL"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Air Rifle / Air Pistol",
+			"Badminton",
+			"Basketball",
+			"Cricket",
+			"Cross Country",
+			"Fencing",
+			"Floorball",
+			"Hockey",
+			"Judo",
+			"Rugby",
+			"Sailing",
+			"Shooting",
+			"Softball",
+			"Squash",
+			"Swimming",
+			"Table Tennis",
+			"Tennis",
+			"Track & Field",
+			"Water Polo"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Ncc (Land)",
+			"Npcc",
+			"Raffles 01 & 02 Scouts",
+			"Raffles Scouts",
+			"Red Cross",
+			"Red Cross Youth"
+		],
+		"Visual and Performing Arts": [
+			"Guitar Ensemble",
+			"Raffles Photography & Arts Club",
+			"Raffles Players",
+			"Raffles Voices",
+			"Rico (Ri Chinese Orchestra)",
+			"Rimb (Ri Military Band)",
+			"String Ensemble"
+		],
+		"Clubs & Societies": [
+			"Astronomy Club",
+			"Chess Club",
+			"Chinese Cultural Club",
+			"Chinese Drama Circle / Literary Club",
+			"Humanities Club",
+			"Indian Cultural Club",
+			"Infocomm Club",
+			"Interact Club",
+			"Malay Cultural Club",
+			"Mathematics Club",
+			"Raffles Archives & Museum",
+			"Raffles Debaters",
+			"Raffles Publications",
+			"Science Club"
+		],
+		"Others": [
+			"House Appointment",
+			"Prefectorial Board"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Integrated Programme",
@@ -3599,7 +3664,8 @@
 					"Scout (Unit 1)": "Gold",
 					"Scout (Unit 2)": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		},
 		"Junior College": {
 			"2005": {
@@ -6300,7 +6366,8 @@
 					"Ensemble - Guitar": "Distinction",
 					"Dance - International": "Distinction"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -6394,6 +6461,13 @@
 				"278",
 				"None-posted"
 			]
+		},
+		"2018": {
+			"Express": [
+				"257",
+				"279",
+				"None-posted"
+			]
 		}
 	},
 	"L1R5History": {
@@ -6469,6 +6543,20 @@
 			"Science/IB": [
 				"2",
 				"4"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2018": {
+			"Arts": [
+				"2",
+				"5"
+			],
+			"Science/IB": [
+				"2",
+				"5"
 			],
 			"Commerce": [
 				"-",

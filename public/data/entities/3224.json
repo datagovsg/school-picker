@@ -20,8 +20,8 @@
 	"GeneralInformation": {
 		"Principal": "Mr Tan Chor Pang",
 		"Vice Principal": [
-			"Mr Abdulattif S/o Abdullah",
-			"Mdm Rina D/o Bhasi"
+			"Mdm Rina D/o Bhasi",
+			"Mr Abdulattif S/o Abdullah"
 		],
 		"School Vision": "An extended family which brings out the greatness in every child to be a responsible and passionate learner and leader.",
 		"School Mission": "To care for and guide every child to achieve their aspirations. To inculcate right values in every child to contribute to family, community and nation.",
@@ -36,6 +36,7 @@
 		"Basic Chinese",
 		"Basic Malay",
 		"Basic Tamil",
+		"Biology",
 		"Chemistry",
 		"Chinese",
 		"Chinese B",
@@ -66,18 +67,16 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"7-A-Side Rugby (Boys)",
 			"Badminton (Boys)",
 			"Basketball (Boys)",
-			"Netball (Girls)",
-			"Volleyball (Girls)"
+			"Netball (Girls)"
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
 			"National Cadet Corps (Land) (Boys)",
 			"National Civil Defence Cadet Corps",
 			"National Police Cadet Corps",
-			"St. John's Brigade"
+			"St. John Brigade"
 		],
 		"Visual and Performing Arts": [
 			"Chinese Orchestra",
@@ -98,16 +97,10 @@
 			"STEM": "Materials Science",
 			"Music & Performing Arts": "Music & Performing Arts"
 		},
-		"Special Student Development Programmes Offered": "The school's Student Development (SD) Programme offers specially designed modules: Digital & info-com technology, Relation & business, Engineering, science & maths, Arts & humanities, Media & design, and Sports & leisure (DREAMS) enables our students to discover their interest & passion, learn new skills,  build their portfolios and work towards their aspirations. The SD Programme comprises mandatory and choice modules.  Within the SD programme, our Applied Learning Programme (ALP) - 'Exploring Possibilities with Materials Science', Learning for Life Programme (LLP) - INSPIRE@BLS and Project Work (ASEF/I&E) are mandatory modules for all lower secondary students. ALP equips students with design thinking skills to explore with materials to solve everyday problems.  Eventually, students use chromebooks to access online tools to create 3D-printable products and use 3D printer and laser cutter to produce prototypes of their designs. With a focus on Music and the Performing Arts, INSPIRE@BLS (Igniting Students' Passion and Interests through Arts-related Experiences), contributes to the holistic development of our students by inculcating values, socio-emotional competencies, life skills  and a passion for lifelong learning and appreciation for the arts. The Asia Europe Foundation (ASEF) programme offers online project opportunities for our students to work in collaboration with Asian and European partner schools from countries such as Italy, India and Netherlands. This programme allows them to push their learning frontiers for active citizenry, self-discovery and the development of multi-cultural literacy.  The Innovation & Enterprise (I&E) programme focuses on developing students in innovative thinking and the understanding of the business process towards creating a social enterprise."
+		"Special Student Development Programmes Offered": "The school's Student Development (SD) Programme aims to help every student to find and work towards their aspirations."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				]
-			},
 			"2015": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -120,59 +113,8 @@
 					"DA (National Education)"
 				]
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				}
-			],
+			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -256,31 +198,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Bronze"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCDCC",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Boys' Brigade",
 					"award": "Bronze"
@@ -360,30 +277,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 222,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 153,
-			"upper": 187,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 120,
-			"upper": 156,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 188,
@@ -452,6 +345,30 @@
 			"programme": "Normal Technical",
 			"lower": 112,
 			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 233,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 190,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 115,
+			"upper": 156,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

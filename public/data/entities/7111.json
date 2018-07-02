@@ -28,7 +28,7 @@
 			"Mr Tan Kim Koon"
 		],
 		"Vice Principal (Admin)": "Mr Kuek Joo Leng",
-		"School Vision": "Every Marist a Gentleman of Faith, Vision and Service.",
+		"School Vision": "Every Marist, a Gentleman of Faith, Vision and Service.",
 		"School Mission": "The holistic development of each Marist that blends faith, culture and life with respect to his human dignity.",
 		"School Philosophy, Culture and Ethos": "Maris Stella High School is an autonomous all-boys Catholic school committed to educating Marists holistically and anchored in the Marist values. As one of the first SAP schools in Singapore, our SAP programme, the Br Chanel Programme, named after our Founding Principal, is designed to realise his vision of nurturing bicultural Marists as we seek to educate them to exhibit bicultural sensitivity, steep in traditional Chinese values with a global outlook, ready to serve society. As an all-boys school, we adopt a boy-centred approach focussing on sports, outdoor education, the Sciences and ICT in our school-wide programmes, whilst supporting individual interests of Marists, to bring out the best in them. We further inculcate our school motto of Diligence, Determination, Loyalty and Dedication, and Courage, and Marist Values in Marists so that they are equipped with the attitudes and competencies to become contributing members of society. Caring teachers and strong programmes geared towards building school spirit anchor the learning experiences of Marists.",
 		"Type of School": "Government-aided Sch / Boys' School / Single Session",
@@ -72,7 +72,6 @@
 			"Athletics",
 			"Badminton",
 			"Basketball",
-			"Cross Country",
 			"Softball",
 			"Table Tennis",
 			"Taekwondo",
@@ -114,10 +113,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"School Distinction Awards": "SDA",
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"2015": {
 				"School Distinction Awards": "SDA"
 			},
@@ -128,66 +123,6 @@
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Badminton",
@@ -430,31 +365,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Ensemble - Strings",
-					"award": "Commendation"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category B",
@@ -508,11 +418,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Scout",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "Scout",
 					"award": "Gold"
@@ -530,10 +435,6 @@
 			]
 		},
 		"Secondary": {
-			"2014": {
-				"School Distinction Awards": "SDA",
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"2015": {
 				"School Distinction Awards": "SDA"
 			},
@@ -544,66 +445,6 @@
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Badminton",
@@ -846,31 +687,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2014",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
 				{
 					"year": "2015",
 					"category": "Art - Category A",
@@ -939,26 +755,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "NCC (Sea Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
 					"year": "2015",
 					"category": "NCC (Sea Boys)",
 					"award": "Gold"
@@ -1023,14 +819,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 236,
-			"upper": 249,
-			"lowerAffiliated": 226,
-			"upperAffiliated": 259
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 235,
@@ -1053,6 +841,14 @@
 			"upper": 259,
 			"lowerAffiliated": 226,
 			"upperAffiliated": 252
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 235,
+			"upper": 249,
+			"lowerAffiliated": 226,
+			"upperAffiliated": 250
 		}
 	],
 	"postalCode": "368051",
@@ -1061,8 +857,8 @@
 		1.3413217
 	],
 	"svy21": [
-		32957.93,
-		35942.17
+		32957.89,
+		35942.1
 	],
 	"planningArea": "TP",
 	"neighbours": [
@@ -1080,23 +876,10 @@
 	],
 	"studentCare": true,
 	"p1Registration": {
-		"Total Vacancy": 270,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 230,
-		"No. of Applicants in Phase 1": 71,
-		"Places taken up to Phase 1": 71,
-		"Vacancy for Phase 2A1": 159,
-		"No. of Applicants in Phase 2A1": 48,
-		"Places taken up to Phase 2A1": 118,
-		"Vacancy for Phase 2A2": 112,
-		"No. of Applicants in Phase 2A2": 36,
-		"Places taken up to Phase 2A2": 151,
-		"Vacancy for Phase 2B": 60,
-		"No. of Applicants in Phase 2B": 63,
-		"Places taken up to Phase 2B": 211,
-		"Vacancy for Phase 2C": 59,
-		"No. of Applicants in Phase 2C": 68,
-		"Places taken up to Phase 2C": 270
+		"TOTAL VACANCY": 270,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 230,
+		"NO. OF APPLICANTS IN PHASE 1": 103
 	},
 	"id": "7111"
 }

@@ -27,7 +27,7 @@
 		],
 		"School Vision": "A Kent Ridgean has the Heart of a Saint, the Passion of an Inventor, and the Will of an Olympian.",
 		"School Mission": "Kent Ridge Secondary nurtures the heart, ignites the passion and strengthens the will of all Kent Ridgeans to become individuals of exemplary character.",
-		"School Philosophy, Culture and Ethos": "The hallmark of an education at Kent Ridge is the culture of care and excellence. Guided by our philosophy that 'Every Student Counts', our passionate and dedicated staff place our students at the centre of all that we do and spare no effort to instil the right values in them. This commitment to excellence has been recognised at the national level by the awarding of the President's Award for Teachers in 2013, the nation's highest award for teachers and the Caring Teacher Award in 2011. Our holistic curriculum has also been recognised by the awarding of the Best Practice (Student All Round Development) in 2015. Kent Ridge is proud of what we have achieved in nurturing our students to be exemplary individuals who have the Heart of a Saint, Passion of an Inventor and Will of an Olympian. We look forward to scaling greater heights as we continue to go 'Beyond Frontiers'. Kent Ridge offers many opportunities for our students to learn and grow through our rich array of programmes such as KR Hands-On Day (School VIA), Project Work, the Arts Programme, Speak Up, Speak Out, Speak Right Oracy Programme, Debating, the Shanghai Twinning Programme, Overseas Learning Journeys, Sports Electives, Applied Learning Programme in Robotics and Learning for Life Programme in Sports and Outdoor Education.",
+		"School Philosophy, Culture and Ethos": "The hallmark of an education at Kent Ridge is the culture of care and excellence. Guided by our philosophy that 'Every Student Counts', our passionate and dedicated staff place our students at the centre of all that we do and spare no effort to instil the right values in them. This commitment to excellence has been recognised at the national level by the awarding of the President's Award for Teachers in 2013, the nation's highest award for teachers and the Caring Teacher Award in 2011. Our holistic curriculum has also been recognised by the awarding of the Best Practice (Student All Round Development) in 2015. Kent Ridge is proud of what we have achieved in nurturing our students to be exemplary individuals who have the Heart of a Saint, Passion of an Inventor and Will of an Olympian. We look forward to scaling greater heights as we continue to go 'Beyond Frontiers'. Kent Ridge offers many opportunities for our students to learn and grow through our rich array of programmes such as the Experiential Week, KR Hands-On Day (School VIA), Entrepreneurship Fair, Project Work, the Arts Programme, Inter-class games, Speak Up, Speak Out, Speak Right Oracy Programme, Shanghai Twinning Programme, Hong Kong Immersion Programme, Overseas Learning Journeys, Sports Electives, Applied Learning Programme in Robotics and Learning for Life Programme in Sports and Outdoor Education.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay",
 		"Affiliated Schools": "Not Applicable"
@@ -50,6 +50,7 @@
 		"English Language (Syll A)",
 		"English Language (Syll T)",
 		"Food & Nutrition",
+		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
 		"History",
@@ -82,7 +83,6 @@
 			"Boys' Brigade",
 			"Girls' Brigade",
 			"Ncc (Land)",
-			"Ncdcc",
 			"Npcc"
 		],
 		"Visual and Performing Arts": [
@@ -108,31 +108,8 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2014": {
-				"Development Award": "DA (Character Development)"
-			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2014",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2015",
 					"category": "Band - Concert",
@@ -195,31 +172,6 @@
 				}
 			],
 			"Best Unit Award": [
-				{
-					"year": "2014",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2014",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NCDCC",
-					"award": "Silver"
-				},
-				{
-					"year": "2014",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
 				{
 					"year": "2015",
 					"category": "Boys' Brigade",
@@ -300,30 +252,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2014",
-			"programme": "Express",
-			"lower": 195,
-			"upper": 233,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Academic",
-			"lower": 152,
-			"upper": 193,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2014",
-			"programme": "Normal Technical",
-			"lower": 112,
-			"upper": 158,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2015",
 			"programme": "Express",
 			"lower": 199,
@@ -392,6 +320,30 @@
 			"programme": "Normal Technical",
 			"lower": 104,
 			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Express",
+			"lower": 206,
+			"upper": 237,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Academic",
+			"lower": 161,
+			"upper": 196,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2018",
+			"programme": "Normal Technical",
+			"lower": 107,
+			"upper": 158,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

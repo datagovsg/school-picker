@@ -34,20 +34,24 @@
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ENGLISH LANGUAGE",
+		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
 		"HIGHER TAMIL",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"LITERATURE IN TAMIL",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE (CHEM, BIO)",
@@ -71,8 +75,8 @@
 		],
 		"Visual and Performing Arts": [
 			"Band - Symphonic",
-			"Chinese Dance & Martial Arts",
 			"Choir",
+			"Dance - Chinese",
 			"Dance - Indian",
 			"Dance - Malay",
 			"Dance - Modern",
@@ -448,7 +452,8 @@
 					"Npcc (Land)": "Silver",
 					"St John Ambulance Brigade": "Bronze"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -669,6 +674,23 @@
 			],
 			"Normal Technical": [
 				"141",
+				"159",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"230",
+				"248",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"182",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"138",
 				"159",
 				"None-posted"
 			]

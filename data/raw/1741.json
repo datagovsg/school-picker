@@ -58,7 +58,6 @@
 	"Cca": {
 		"Physical Sports": [
 			"Athletics",
-			"Basketball",
 			"Football",
 			"Netball",
 			"Rope Skipping",
@@ -75,9 +74,8 @@
 			"Malay Dance"
 		],
 		"Clubs & Societies": [
-			"Environment Club",
-			"Infocom Club (It Media)",
-			"Infocom Club (Robotics)"
+			"Environmental Club",
+			"Infocom Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -1065,7 +1063,8 @@
 					"Girls' Brigade": "Bronze",
 					"Boys' Brigade": "Bronze"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"postalCode": "649076"

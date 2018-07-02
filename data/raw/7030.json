@@ -14,7 +14,7 @@
 	],
 	"email": "MGSS@MOE.EDU.SG",
 	"mrt": "KING ALBERT PARK MRT",
-	"bus": "66 , 67 , 74 , 77 , 151 , 154 , 156 , 157 , 170 , 171 , 174 , 563 , 852 , 961 , 961C , 970 ",
+	"bus": "66 , 67 , 74 , 77 , 151 , 154 , 157 , 170 , 171 , 174 , 563 , 852 , 961 , 970 ",
 	"GeneralInformation": {
 		"Principal": "MISS NG WUN HAR GRACE",
 		"Vice Principal": [
@@ -36,10 +36,11 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART",
+		"ART 'O' LEVEL",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"COMBINED HUMANITIES",
+		"CHINESE B",
 		"COMPUTER STUDIES",
 		"ENGLISH LANGUAGE",
 		"GEOGRAPHY",
@@ -50,23 +51,61 @@
 		"HIGHER TAMIL",
 		"HISTORY",
 		"HOME ECONOMICS",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
+		"LANGUAGE ARTS",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
 		"MUSIC",
 		"MUSIC (MEP)",
+		"MUSIC 'O' LEVEL",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PROJECT WORK",
 		"TAMIL"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Football",
+			"Golf",
+			"Netball",
+			"Softball",
+			"Squash",
+			"Swimming",
+			"Synchronised Swimming",
+			"Ten-Pin Bowling",
+			"Tennis",
+			"Track"
+		],
+		"Uniformed Groups": [
+			"Girl Guides",
+			"Girls' Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Choir",
+			"Dance",
+			"Drama",
+			"Guitar Ensemble",
+			"Handbell Choir",
+			"String Ensemble",
+			"Visual Arts Club"
+		],
+		"Clubs & Societies": [
+			"Chess",
+			"Infocomm",
+			"Library",
+			"S.A.L.T.",
+			"The Sophia Society"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Integrated Programme - Dual Track School (offers both IP and O Levels)",
 			"MUSIC ELECTIVE PROGRAMME"
 		],
-		"Special Student Development Programmes Offered": "MGS is a dual track school with an Integrated Programme leading to the International Baccalaureate Diploma in Anglo-Chinese School (Independent) and the O level track. Programmes include the Music Elective Programme (MEP), Sophia Blackmore Academies (SBA) - an in-house scholastic 'O' level programme, 1:1 Learning, Robotics, Code4Life, STEM Curriculum and Science Mentorship Programme. Other school-based programmes include Reality Outside Classrooms (ROCs), local and overseas learning journeys, Regional Youth Conference, Sophia Blackmore Lectures, GEL Curriculum, Education and Career Counselling, Community Service and Advocacy, Arts Appreciation, Outdoor Adventure Camp, Swimming Programme, Sports Mental Skills Training and Leadership Training."
+		"Special Student Development Programmes Offered": "MGS is a dual-track school with the O-level track and an Integrated Programme leading to the International Baccalaureate Diploma in Anglo-Chinese School (Independent). Programmes include the Music Elective Programme (MEP), Sophia Blackmore Academy (SBA) - an in-house scholastic O-Level programme, 1:1 Learning, Robotics, Code4Life, STEM Curriculum and Science Mentorship Programme. Other school-based programmes include Reality Outside Classrooms (ROCs), GEL Curriculum, Education and Career Guidance, Community Service and Advocacy, Arts Appreciation, Outdoor Education, Swimming Programme and Student Leadership Training."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1793,7 +1832,8 @@
 					"Girl Guides (Coy 2)": "Silver",
 					"Girls' Brigade": "Gold"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1924,6 +1964,19 @@
 				"259",
 				"221",
 				"260"
+			]
+		},
+		"2018": {
+			"Integrated Programme": [
+				"260",
+				"279",
+				"None-posted"
+			],
+			"'O' Level Programme": [
+				"254",
+				"263",
+				"220",
+				"262"
 			]
 		}
 	},

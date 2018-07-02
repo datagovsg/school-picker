@@ -82,70 +82,7 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2014": {
-				"Sustained Achievement Award": "SAA (Aesthetics)"
-			},
 			"Sports & Games Competition": [
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2014",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2014",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2015",
 					"category": "Basketball",
@@ -259,21 +196,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2014",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2014",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2014",
-					"category": "Orchestra - Chinese",
-					"award": "Commendation"
-				},
-				{
 					"year": "2015",
 					"category": "Choir",
 					"award": "Distinction"
@@ -316,11 +238,6 @@
 			],
 			"Best Unit Award": [
 				{
-					"year": "2014",
-					"category": "Brownies (Pack 1)",
-					"award": "Bronze"
-				},
-				{
 					"year": "2015",
 					"category": "Brownies (Pack 1)",
 					"award": "Bronze"
@@ -334,8 +251,8 @@
 		1.4326995
 	],
 	"svy21": [
-		22711.22,
-		46046.27
+		22711.18,
+		46046.2
 	],
 	"planningArea": "WD",
 	"neighbours": [
@@ -348,25 +265,10 @@
 	],
 	"studentCare": true,
 	"p1Registration": {
-		"Total Vacancy": 180,
-		"Vacancies Reserved for Phase 2B and 2C": 40,
-		"Vacancy for Phase 1": 140,
-		"No. of Applicants in Phase 1": 43,
-		"Places taken up to Phase 1": 43,
-		"Vacancy for Phase 2A1": 97,
-		"No. of Applicants in Phase 2A1": 0,
-		"Places taken up to Phase 2A1": 42,
-		"Vacancy for Phase 2A2": 98,
-		"No. of Applicants in Phase 2A2": 8,
-		"Places taken up to Phase 2A2": 50,
-		"Vacancy for Phase 2B": 65,
-		"No. of Applicants in Phase 2B": 0,
-		"Places taken up to Phase 2B": 50,
-		"Vacancy for Phase 2C": 130,
-		"No. of Applicants in Phase 2C": 29,
-		"Places taken up to Phase 2C": 78,
-		"Vacancy for Phase 2C Supplementary": 102,
-		"No. of Applicants in Phase 2C Supplementary": 2
+		"TOTAL VACANCY": 210,
+		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
+		"VACANCY FOR PHASE 1": 170,
+		"NO. OF APPLICANTS IN PHASE 1": 57
 	},
 	"id": "1161"
 }

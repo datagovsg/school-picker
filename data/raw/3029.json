@@ -1023,7 +1023,8 @@
 					"Scout (Unit 1)": "Gold",
 					"St John Ambulance Brigade": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1245,6 +1246,23 @@
 			"Normal Technical": [
 				"131",
 				"155",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"231",
+				"242",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"175",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"109",
+				"157",
 				"None-posted"
 			]
 		}

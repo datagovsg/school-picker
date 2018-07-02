@@ -67,13 +67,33 @@
 		"H3 PHARMACEUTICAL CHEMISTRY",
 		"H3 PROTEOMICS"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Canoeing/ Dragon Boat",
+			"Shooting",
+			"Softball",
+			"Squash",
+			"Track & Field/ Cross Country"
+		],
+		"Visual and Performing Arts": [
+			"Chinese Dance",
+			"Chinese Orchestra/Guzheng Ensemble",
+			"Choir",
+			"Guitar Ensemble",
+			"Indian Dance",
+			"Malay Dance",
+			"String Orchestra",
+			"Symphonic Band",
+			"Western Dance"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Integrated Programme",
 			"ART ELECTIVE PROGRAMME"
 		],
-		"Special Student Development Programmes Offered": "For the Integrated Programme (Junior High), we offer Language Arts (English & Literature), Chemistry, Physics, Biology, Governance & Society, Mathematics (both E and A Maths), History, Geography, Higher Mother Tongue and Mother Tongue for the first 4 years, as well as Integrated Sciences, Thinking, and General Arts Programme (Art and Music) for the first 2 years. Advanced Language Arts, Advanced Humanities and Man & Ideas are also offered to capable students at JH3 & JH4. The College offers a wide range of special programmes in various domains. They are: SPIRE (Special Programme in Inquiry and Research), Research@NJC, Accelerated Mathematics, Advanced Sciences, Art Elective Programme (AEP), NJC Music Programme, Enhanced Boarding Programme, Cultural Mapping-On-The-Move, Leadership,  Values In Action and Guidance Programmes, Humanities Scholarship Programme, Sapphire Scholars Programme and International Programmes.  Students may also offer a Third Language outside of College. Junior High 1 students undergo a special CCA programme known as CAFE."
+		"Special Student Development Programmes Offered": "For the Integrated Programme (Junior High), we offer Language Arts (English & Literature), Chemistry, Physics, Biology, Governance & Society, Mathematics (both E and A Maths), History, Geography, Higher Mother Tongue and Mother Tongue for the first 4 years, as well as Integrated Sciences, Thinking, and General Arts Programme (Art and Music) for the first 2 years. Advanced Language Arts, Advanced Humanities and Man & Ideas are also offered to capable students at JH3 & JH4. The College offers a wide range of special programmes in various domains. They are: SPIRE (Special Programme in Inquiry and Research), Research@NJC, Accelerated Mathematics, Advanced Sciences, Art Elective Programme (AEP), NJC Music Programme, Enhanced Boarding Programme, Leadership,  Values-In-Action, Guidance Programmes, Humanities Scholarship Programme, Sapphire Scholars Programme and International Programmes.  Students may also offer a Third Language outside of College. Junior High 1 students undergo a special CCA programme known as CAFE, where students will attend one Sports or Performing Arts CCA in Term 1 and another in Term 2 before deciding which CCA to join for the rest of the JH (Sec) years. Students may also join any CCA under the Talent Management Scheme. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1094,7 +1114,8 @@
 					"Ensemble - Guzheng": "Accomplishment",
 					"Art - Category A": "Recognition"
 				}
-			}
+			},
+			"2018": {}
 		},
 		"Junior College": {
 			"2005": {
@@ -2304,7 +2325,8 @@
 					"Ensemble - Guitar": "Accomplishment",
 					"Ensemble - Guzheng": "Accomplishment"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -2372,6 +2394,13 @@
 			"Express": [
 				"256",
 				"272",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"256",
+				"281",
 				"None-posted"
 			]
 		}
@@ -2449,6 +2478,20 @@
 			"Science/IB": [
 				"2",
 				"6"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2018": {
+			"Arts": [
+				"5",
+				"9"
+			],
+			"Science/IB": [
+				"2",
+				"8"
 			],
 			"Commerce": [
 				"-",

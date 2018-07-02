@@ -31,6 +31,7 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART",
+		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BASIC TAMIL",
 		"BIOLOGY",
@@ -52,7 +53,6 @@
 		"MALAY",
 		"MALAY B",
 		"MATHEMATICS",
-		"MUSIC 'O' LEVEL",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF A/C",
@@ -756,7 +756,8 @@
 					"Ncdcc": "Bronze",
 					"Npcc (Land)": "Silver"
 				}
-			}
+			},
+			"2018": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -978,6 +979,23 @@
 			"Normal Technical": [
 				"118",
 				"151",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"201",
+				"238",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"166",
+				"192",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"129",
+				"150",
 				"None-posted"
 			]
 		}
