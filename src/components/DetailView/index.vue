@@ -27,8 +27,8 @@ export default {
   computed: {
     ...mapState(['entityDetail', 'travelTime', 'bookmarked', 'location']),
     ...mapState({
-      homeSchoolDistance: state => state.homeSchoolDistance}
-    ),
+      homeSchoolDistance: state => state.homeSchoolDistance
+    }),
     detail () {
       if (this.entityId in this.entityDetail) {
         let school = this.entityDetail[this.entityId]
