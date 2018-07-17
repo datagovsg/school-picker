@@ -528,12 +528,13 @@ export default {
         const placesTaken = info['PLACES TAKEN UP TO ' + max(phases)]
         const rows = [
           {label: 'Total Vacancy', value: info['TOTAL VACANCY'], class: 'text-bold'},
-          {label: 'Reserved for Phase 2B & 2C', value: info['VACANCIES RESERVED FOR PHASE 2B AND 2C']},
+          // {label: 'Reserved for Phase 2B & 2C', value: info['VACANCIES RESERVED FOR PHASE 2B AND 2C']},
+          {label: 'Reserved for Phase 2C', value: Math.floor((info['TOTAL VACANCY'] - placesTaken) / 2)},
           {
             label: 'Places Taken So Far',
             value: placesTaken,
             class: placesTaken >= info['TOTAL VACANCY'] && 'fully-booked',
-            title: 'Up until Phase 2A(1)\nResult of Phase 2A(2) will be out on 17 July 2018'
+            title: 'Up until Phase 2A(2)\nResult of Phase 2B will be out on 26 July 2018'
           },
           {
             values: [
@@ -550,7 +551,7 @@ export default {
         return {
           label: 'P1 Registration Exercise',
           year: '2018',
-          lastUpdated: '12 July 2018',
+          lastUpdated: '17 July 2018',
           rows
         }
       }
