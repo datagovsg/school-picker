@@ -1,4 +1,5 @@
 import axios from 'axios'
+import cheerio from 'cheerio'
 import {html2json} from 'html2json'
 
 export function scrapSpecialNeeds () {
@@ -168,42 +169,37 @@ function parseNewSchools (table) {
 export function scrapVacancies () {
   const url = 'https://www.moe.gov.sg/admissions/primary-one-registration/vacancies'
   return axios.get(url, {responseType: 'text'})
-    .then(res => res.data)
-    .then(html => {
-      const tables = html
-        .replace(/\r?\n|\r/g, '').replace(/>\s+</g, '><')
-        .match(/<table.*?<\/table>/g)
-      const arrays = tables.map(html2json).map(parseVacancies)
-      return arrays.reduce((o, v) => Object.assign(o, v), {})
-    })
+    .then(res => cheerio.load(res.data))
+    .then(parseVacancies)
     .catch(err => {
       console.error(err.stack)
     })
 }
 
-function parseVacancies (table) {
-  const [first, second, ...rest] = table.child[0].child[0].child // eslint-disable-line
-  const header = first.child.slice(2).map(c => {
-    const target = c.child[0].child[0]
-    return target.text && target.text.trim() ||
-      target.child.filter(c => c.node === 'text').map(c => c.text.trim()).join(' ')
-  })
-
+function parseVacancies ($) {
   const result = {}
-  rest.forEach(c => {
-    const row = c.child.map(c => c.child[0].text || c.child[0].child[0].text)
-    const key = row[0]
-    const value = {}
-    header.forEach((h, i) => {
-      value[removeArtifacts(h).toUpperCase()] = +removeArtifacts(row[i + 4])
+  $('table').each(function () {
+    const $trs = $(this).find('tr')
+    const $headers = $trs.eq(0).find('td')
+    const headers = $headers.slice(2)
+      .map((i, el) => $(el).text()).get()
+      .map(h => removeArtifacts(h).toUpperCase())
+    const $rows = $trs.slice(2)
+    $rows.each(function () {
+      const $row = $(this).find('td')
+      const school = $row.eq(0).text().trim()
+      result[school] = {}
+      headers.forEach((key, i) => {
+        const value = +removeArtifacts($row.eq(i + 4).text())
+        result[school][key] = value
+      })
     })
-    result[key] = value
   })
   return result
 }
 
 function removeArtifacts (str) {
-  return str.trim().replace(/&nbsp;/g, '').replace(/\u200b/g, '')
+  return str.trim().replace(/&nbsp;/g, '').replace(/\u200b/g, '').replace(/\s\s+/g, ' ')
 }
 
 // https://www.moe.gov.sg/admissions/primary-one-registration/balloting
