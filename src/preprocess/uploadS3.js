@@ -20,7 +20,9 @@ filenames.forEach(filename => {
         ContentEncoding: 'gzip',
         ACL: 'public-read',
         CacheControl: 'max-age=3600'
-      }).send()
+      }, function (err) {
+        if (err) console.error(err)
+      })
     }
   })
 })

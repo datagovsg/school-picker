@@ -534,7 +534,7 @@ export default {
             label: 'Places Taken So Far',
             value: placesTaken,
             class: placesTaken >= info['TOTAL VACANCY'] && 'fully-booked',
-            title: 'Up until Phase 2B\nResult of Phase 2C will be out on 8 August 2018'
+            title: 'Up until Phase 2C\nResult of Phase 2C(S) will be out on 21 August 2018'
           },
           {
             values: [
@@ -551,7 +551,7 @@ export default {
         return {
           label: 'P1 Registration Exercise',
           year: '2018',
-          lastUpdated: '26 July 2018',
+          lastUpdated: '8 August 2018',
           rows
         }
       }
