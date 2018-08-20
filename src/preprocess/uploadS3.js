@@ -1,5 +1,5 @@
 const AWS = require('aws-sdk')
-const credentials = new AWS.SharedIniFileCredentials()
+const credentials = new AWS.SharedIniFileCredentials({profile: 'yongjun21'})
 const s3 = new AWS.S3({apiVersion: '2006-03-01', region: 'ap-southeast-1', credentials})
 
 const fs = require('fs')
