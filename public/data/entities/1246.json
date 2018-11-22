@@ -172,6 +172,26 @@
 					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -204,6 +224,16 @@
 					"year": "2017",
 					"category": "Girls' Brigade",
 					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
+					"award": "Bronze"
 				}
 			]
 		}
@@ -225,9 +255,7 @@
 		"TP",
 		"CA"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 180,

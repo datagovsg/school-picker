@@ -95,6 +95,10 @@
 		]
 	},
 	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"STEM": "Design and Engineering",
+			"Sports & Outdoor Education": "Sports and Outdoor Education"
+		},
 		"Special Student Development Programmes Offered": "Loyang View Secondary is a happy and caring school where students look forward to come to every day.  Students are well-disciplined, confident, focused and aspire to be wholesome individuals well-prepared for the skilforce of tomorrow."
 	},
 	"AchievementHistory": {
@@ -147,8 +151,6 @@
 		"CH",
 		"TM"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3077"
 }

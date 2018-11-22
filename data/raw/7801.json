@@ -213,7 +213,65 @@
 					"Scout (Unit 1)": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Accomplishment",
+					"Drama - English": "Distinction"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Scout": "Silver"
+				}
+			}
 		},
 		"Junior College": {
 			"2005": {},
@@ -285,7 +343,16 @@
 					"Ensemble - Strings": "Accomplishment"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition(Sm)",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Drama - English": "Distinction",
+					"Ensemble - Gamelan": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

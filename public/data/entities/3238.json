@@ -19,7 +19,10 @@
 	"bus": "410 , 13 , 56 , 57 , 59 , 88 , 93 , 157 , 163 ",
 	"GeneralInformation": {
 		"Principal": "Mr Lim Hock Chuan Alvin",
-		"Vice Principal": "Mr Fathul Rahman Bin Kamsani",
+		"Vice Principal": [
+			"Mr Fathul Rahman Bin Kamsani",
+			"Mr Koh Lip Kang"
+		],
 		"Vice Principal (Admin)": "Mr Anbalagan S/o Thangarajah",
 		"School Vision": "An engaged learner today, a life-long learner tomorrow.",
 		"School Mission": "GYSS - A place where learning is an enjoyable and sustainable journey.",
@@ -191,6 +194,46 @@
 						"'C' Div"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Cross Country",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -241,6 +284,26 @@
 				},
 				{
 					"year": "2017",
+					"category": "Drama - English",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
 					"category": "Drama - English",
 					"award": "Commendation"
 				}
@@ -295,6 +358,26 @@
 					"year": "2017",
 					"category": "Red Cross",
 					"award": "Bronze"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Red Cross",
+					"award": "Silver"
 				}
 			]
 		}
@@ -413,8 +496,6 @@
 		"CC",
 		"TP"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3238"
 }

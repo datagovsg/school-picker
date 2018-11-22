@@ -107,6 +107,26 @@
 						"Senior"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -159,6 +179,21 @@
 					"year": "2017",
 					"category": "Dance - International",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -191,6 +226,16 @@
 					"year": "2017",
 					"category": "Scout",
 					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Brownies",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Silver"
 				}
 			]
 		}
@@ -214,8 +259,7 @@
 		"CL"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"studentCare": true,
 	"p1Registration": {

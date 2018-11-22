@@ -44,6 +44,9 @@
 	"SubjectOffered": [],
 	"Cca": {},
 	"SpecialProgrammes": {
+		"School Distinctive Programmes": {
+			"Languages": "Holistic English Literacy Programme (HELP)"
+		},
 		"Special Student Development Programmes Offered": "Holistic English Literacy Program (HELP)"
 	},
 	"AchievementHistory": {
@@ -52,6 +55,11 @@
 			"SYF": [
 				{
 					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
 					"category": "Art - Category A",
 					"award": "Recognition"
 				}
@@ -75,8 +83,7 @@
 		"SE"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"studentCare": true,
 	"p1Registration": {

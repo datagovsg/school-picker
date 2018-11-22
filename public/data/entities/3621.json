@@ -70,14 +70,15 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Badminton (Boys)",
-			"Floorball (Boys)",
+			"Badminton",
+			"Floorball",
 			"Netball",
 			"Volleyball (Boys)"
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
 			"Girls' Brigade",
+			"National Civil Defence Cadet Corps",
 			"Ncc (Sea)",
 			"Npcc"
 		],
@@ -98,11 +99,22 @@
 			"Aesthetics": "Digital Media in Visual Arts",
 			"Community & Youth Leadership": "Active Holistic Health Advocates (AHHAs) Championing Efforts towards a Healthier Community"
 		},
-		"Special Student Development Programmes Offered": "Canberra Secondary offers a rigorous academic programme and a comprehensive range of Character and Citizenship Education (CCE) programmes that are well-aligned to MOE's Framework for 21st CC skills. "
+		"Special Student Development Programmes Offered": "Canberra Secondary offers a rigorous academic programme and a comprehensive range of Character and Citizenship Education (CCE) programmes that are well-aligned to MOE's Framework for 21st CC skills. The school develops students to be grateful, respectful and compassionate, by providing students opportunities to serve the community alongside teachers on a regular basis as part of their CCA programme. Furthermore, our Global Canberran Programme, involving Secondary Three students, aims to inculcate the value of compassion through active contribution to the global community. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"Sports & Games Competition": [],
+			"Sports & Games Competition": [
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				}
+			],
 			"SYF": [
 				{
 					"year": "2015",
@@ -161,6 +173,36 @@
 				},
 				{
 					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
 				}
@@ -238,6 +280,31 @@
 				},
 				{
 					"year": "2017",
+					"category": "St John Ambulance Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Sea)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2018",
 					"category": "St John Ambulance Brigade",
 					"award": "Silver"
 				}
@@ -358,8 +425,6 @@
 		"SM",
 		"YS"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3621"
 }

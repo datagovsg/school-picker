@@ -20,7 +20,7 @@
 	"bus": "42",
 	"GeneralInformation": {
 		"Principal": "Mdm Loe Lai Pink",
-		"Vice Principal": "Mr Keong Wen Han",
+		"Vice Principal": "Mdm Adila Ong Kim Luan",
 		"Vice Principal (Admin)": "Mdm Ong Seow Peng",
 		"School Vision": "We Learn, We Grow, We Achieve",
 		"School Mission": [
@@ -112,6 +112,26 @@
 						"Junior"
 					],
 					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -149,6 +169,21 @@
 					"year": "2017",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -166,6 +201,11 @@
 					"year": "2017",
 					"category": "Scout",
 					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Bronze"
 				}
 			]
 		}
@@ -187,9 +227,7 @@
 		"PL",
 		"TM"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 180,

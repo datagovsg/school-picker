@@ -50,7 +50,13 @@
 	"AchievementHistory": {
 		"Primary": {
 			"Sports & Games Competition": [],
-			"SYF": [],
+			"SYF": [
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				}
+			],
 			"Best Unit Award": []
 		}
 	},
@@ -70,8 +76,7 @@
 		"SE"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"studentCare": true,
 	"p1Registration": {

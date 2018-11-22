@@ -81,8 +81,8 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Community Service & Student Leadership": "Inculcating Attitudes and Habits to Conserve the Environment through Environmental Education",
-			"Music & Performing Arts/ Visual Arts & Design": "A.G.P.S Arts (Aspire, Grow, Passion and Serve through the Arts)"
+			"Community Service & Student Leadership": "Serve and Lead through Environmental Education",
+			"Music & Performing Arts": "A.G.P.S Arts (Aspire, Grow, Passion and Serve through the Arts)"
 		},
 		"Special Student Development Programmes Offered": "SLEEC (Serve and Lead through Environment Education) is a programme designed to raise awareness about caring for the environment and building an eco-conscious culture among its students and staff. Over the years, structured school-wide as well as level-wide programmes have been put in place, leveraging its strong foundation in environmental education, with the aim of nurturing in our students the desired character, talent and skills in which they would be able to apply later on in life."
 	},
@@ -197,6 +197,46 @@
 						"Senior"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
 				}
 			],
 			"SYF": [
@@ -259,11 +299,41 @@
 					"year": "2017",
 					"category": "Ensemble - Handbell / Handchime",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
 				{
 					"year": "2015",
+					"category": "Scout",
+					"award": "Bronze"
+				},
+				{
+					"year": "2018",
 					"category": "Scout",
 					"award": "Bronze"
 				}
@@ -290,9 +360,7 @@
 		"SG",
 		"YS"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 270,

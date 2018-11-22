@@ -92,10 +92,10 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"STEM": "Aviation",
+			"STEM": "Project GaIA - Gabrielites Inspired for Aviation",
 			"Community & Youth Leadership": "Developing Life Skills through Uniformed Groups Experience"
 		},
-		"Special Student Development Programmes Offered": "Gabrielites are developed in their Cognitive, Leadership, Aesthetics, Physical, Social and Moral domains so as to grow into STAR (Special, Transformed, Active and Ready) Gabrielites, equipped and prepared for future challenges with 21st Century competencies, anchored in the core values of Respect, Resilience, Responsibility and Care. Our Community and Youth Leadership Programme nurtures Gabrielites into leaders of character and service. The 4-year programme provides learning opportunities integrating Service Learning, Student Leadership and Outdoor Education. In their junior years, Gabrielities grow as Learners and Leaders who are Self-Directed and Collaborative. In their senior years, they become Active and Effective Learners and Leaders through their self-initiated service to the community, advocating for the causes they serve. In their growth and development to become Servant Leaders, Gabrielites acquire skills, attitudes and values through experiential activities in STAR Camp, Applied Design Service Learning, Project Work Service Learning, Digital Media Arts, Elective Modules, iMAD (i Make a Difference)Carnival - a biennial event where all Gabrielites come together to serve and to make a difference to the community, and Applied Learning Programme in Flight and Aerospace."
+		"Special Student Development Programmes Offered": "Gabrielites are developed in their Cognitive, Leadership, Aesthetics, Physical, Social and Moral domains so as to grow into STAR (Special, Transformed, Active and Ready) Gabrielites, equipped and prepared for future challenges with 21st Century competencies, anchored in the core values of Respect, Resilience, Responsibility and Care. Our Community and Youth Leadership Programme nurtures Gabrielites into leaders of character and service. The 4-year programme provides learning opportunities integrating Service Learning, Student Leadership and Outdoor Education. In their junior years, Gabrielities grow as Learners and Leaders who are Self-Directed and Collaborative. In their senior years, they become Active and Effective Learners and Leaders through their self-initiated service to the community, advocating for the causes they serve. In their growth and development to become Servant Leaders, Gabrielites acquire skills, attitudes and values through experiential activities in STAR Camp, Applied Design Service Learning, Project Work Service Learning, Digital Media Arts, Elective Modules, iMAD (i Make a Difference) Carnival - a biennial event where all Gabrielites come together to serve and to make a difference to the community, and Applied Learning Programme in Flight and Aerospace."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -283,6 +283,46 @@
 						"'B' Div"
 					],
 					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Golf",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Golf",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Judo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -335,6 +375,26 @@
 					"year": "2017",
 					"category": "Choir",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -401,6 +461,31 @@
 				{
 					"year": "2017",
 					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Air Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Red Cross",
+					"award": "Bronze"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
 					"award": "Gold"
 				}
 			]
@@ -521,8 +606,6 @@
 		"SE",
 		"TP"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "7017"
 }

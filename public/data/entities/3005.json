@@ -24,9 +24,9 @@
 			"Miss Low Shiok Cheng Cindy"
 		],
 		"Vice Principal (Admin)": "Miss Chuang Siew Chin",
-		"School Vision": "Our vision is to be a premier school with a nurturing and innovative environment that prepares students to be ladies and leaders of tomorrow.",
-		"School Mission": "Our mission is to develop and inspire in each Crescentian a sense of her own potential as \"An excellent and well-balanced scholar\", \"A disciplined, responsible member of society\", and \"A caring, gracious citizen of the world\".",
-		"School Philosophy, Culture and Ethos": "Crescent Girls' School provides a nurturing and innovative environment with a distinctive brand of education that empowers generations of students to grow into gracious and confident ladies, and caring visionary leaders. The school focuses on transforming the learning experiences of students through pervasive and purposeful use of technology. As one of the pioneer FutureSchools@Singapore, we continually harness technology to develop in our students a passion for learning and for life so that they are well-prepared for the challenges of the 21st century. Beyond academic excellence, the school is committed to inculcating sound values in our students so that they are able to contribute to the community. There is a pervasive culture of care in the school, and a strong emphasis on development of strength of character, a mindset of excellence, and commitment to teamwork to nurture our students to be responsible members of society and gracious citizens of the world. The school has done well in many aspects over the years. This is possible due to a team of dedicated and innovative staff and the support of parents, alumnae and the school advisory committee.",
+		"School Vision": "Ladies and Leaders of Tomorrow",
+		"School Mission": "We nurture Crescentians to be Confident Learners, Global Citizens and Servant Leaders.",
+		"School Philosophy, Culture and Ethos": "Crescent Girls' School provides a nurturing and innovative environment with a distinctive brand of education that empowers generations of students to grow into gracious and confident ladies, and caring visionary leaders. The school focuses on transforming the learning experiences of students through pervasive and purposeful use of technology. As one of the pioneer FutureSchools@Singapore, we continually harness technology to develop in our students a passion for learning and for life so that they are well-prepared for the challenges of the 21st century. Beyond academic excellence, the school is committed to inculcating sound values in our students so that they are able to contribute to the community. There is a pervasive culture of care in the school, and a strong emphasis on development of strength of character, focusing on moral courage, resilience, empathy and commitment to teamwork to nurture our students to be responsible members of society and gracious citizens of the world. The school has done well in many aspects over the years. This is possible due to a team of dedicated and innovative staff and the support of parents, alumnae and the school advisory committee.",
 		"Type of School": "Government School / Girls' School / Single Session",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -119,6 +119,13 @@
 				]
 			},
 			"2017": {
+				"School Distinction Awards": "SDA",
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)"
+				]
+			},
+			"2018": {
 				"School Distinction Awards": "SDA",
 				"Outstanding Development Award": [
 					"ODA (Character Development)",
@@ -325,6 +332,56 @@
 						"'C' Div"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Canoeing",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -422,6 +479,36 @@
 					"year": "2017",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -499,6 +586,26 @@
 					"year": "2017",
 					"category": "Red Cross",
 					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Girls)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Red Cross",
+					"award": "Gold"
 				}
 			]
 		}
@@ -553,5 +660,6 @@
 		"SI",
 		"CA"
 	],
+	"specialNeeds": [],
 	"id": "3005"
 }

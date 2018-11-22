@@ -25,7 +25,7 @@
 		],
 		"School Vision": "A school of excellence that nurtures world-ready Bicultural Scholars who embrace tradition and are champions of society.",
 		"School Mission": "To nurture confident, creative and cultured students with a passion for learning.",
-		"School Philosophy, Culture and Ethos": "Nan Hua High School is founded on the Confucian values Li Yi Lian Chi Zhong Xiao Ren Ai. We take pride in our school heritage and believe in providing a student-centric, values-driven holistic education anchored on the four tenets of school culture -'Ren',Excellence,Learning and Collegiality. Our learning environment nurtures each child's talents and interests especially through our niche programmes, namely the SAP (Special Assistance Plan) & Biculture Programme, Performing Arts, and Environment Education. Our values education emphasises the development of each Nanhuarian as \"junzi\" or scholar in the Confucian context.",
+		"School Philosophy, Culture and Ethos": "Nan Hua High School is founded on the Confucian values Li Yi Lian Chi Zhong Xiao Ren Ai. We take pride in our school heritage and believe in providing a student-centric, values-driven holistic education anchored on the four tenets of school culture -'Ren', Excellence, Learning and Collegiality. Our learning environment nurtures each child's talents and interests especially through our niche programmes, namely the SAP (Special Assistance Plan) & Bicultural Programme, Performing Arts, and Environment Education. Our values education emphasises the development of each Nanhuarian as \"junzi\" or scholar in the Confucian context.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese",
@@ -58,7 +58,7 @@
 		"Physical Sports": [
 			"Athletics",
 			"Badminton",
-			"Basketball (Boys)",
+			"Basketball",
 			"Football (Boys)",
 			"Netball (Girls)",
 			"Softball (Girls)",
@@ -94,7 +94,7 @@
 		"MOE Programmes": [
 			"SAP"
 		],
-		"Special Student Development Programmes Offered": "The school's SAP and Biculture Programme emphasises the inculcation of school values and culture. In line with our school vision of developing bicultural scholars, our Biculture Programme nurtures our students to have bicultural perspectives; to understand the western and eastern ways of thinking and distil the best of both. In the curriculum, Secondary 1 students learn to appreciate Chinese culture and traditions. Translation and Interpretation as well as learning about Contemporary China enable Secondary 2 and 3 students to learn techniques of translation and the issues and trends in modern China respectively. The Biculture Week activities, Confucian Camp and celebration of the Mid-Autumn Festival are examples of opportunities for students to learn and live out values beyond the classroom."
+		"Special Student Development Programmes Offered": "The school's SAP and Bicultural Programme emphasises the inculcation of school values and culture. In line with our school vision of developing bicultural scholars, our Bicultural Programme nurtures students to have bicultural perspectives; to understand the western and eastern ways of thinking and distil the best of both. In the curriculum, Secondary 1 students learn to appreciate Chinese culture and traditions. Translation, Bicultural Studies as well as learning about Contemporary China enable Secondary 2 and 3 students to learn techniques of translation, discuss issues of bicultural interests as well as issues and trends in modern China respectively. The Bicultural Week activities, Confucius Camp and celebration of the Mid-Autumn Festival are examples of opportunities for students to learn and live out values beyond the classroom."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -477,6 +477,126 @@
 						"'C' Div"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Cross Country",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Softball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -634,6 +754,61 @@
 					"year": "2017",
 					"category": "Ensemble - Harp",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Brass Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Harp",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -741,6 +916,36 @@
 					"year": "2017",
 					"category": "St John Ambulance Brigade",
 					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Girls)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
 				}
 			]
 		}
@@ -795,5 +1000,6 @@
 		"JE",
 		"QT"
 	],
+	"specialNeeds": [],
 	"id": "3047"
 }

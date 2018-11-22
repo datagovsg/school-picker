@@ -111,7 +111,7 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"STEM": "Swiss Applied Sciences Programme",
+			"STEM": "Applied Sciences for Sustainable Development",
 			"Community & Youth Leadership": "Swiss Thoughtful Leadership Programme"
 		},
 		"Special Student Development Programmes Offered": "Swiss Cottage delivers a Total Curriculum covering a comprehensive Student Development Programme, a rigorous Instructional Programme and two Distinctive Programmes: Swiss Thoughtful Leadership Programme (TLP) and Applied Sciences for Sustainable Development Programme. The TLP integrates Student Leadership, Values in-Action (VIA), and our school-based Glocal (global and local) Perspectives programmes. It provides our students with the knowledge, skills and values to explore and embark on possible VIA or social action projects. The Applied Sciences for Sustainable Development Programme aims to equip our students with specialised scientific skills and knowledge through the curriculum and authentic learning platforms such as VIA and research projects, attachment opportunities and mentoring by our teachers or industry/academia partners. The Student Development Programme includes the core CCE and student well-being programmes, a wide range of CCAs, enrichment and talent development programmes to broaden our students' world view and hone their unique strengths. The Instructional Programme provides a broad-based and rigorous foundation for post-secondary education. We implement academic enrichment programmes across to develop students' 21st century competencies. These include the Horizons Programme (overseas cultural immersion trip), Future Problem Solving Programme, Maths Olympiad and Science Talent Development programmes."
@@ -194,6 +194,46 @@
 						"'C' Div"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -301,6 +341,36 @@
 					"year": "2017",
 					"category": "Drama - English",
 					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Commendation"
 				}
 			],
 			"Best Unit Award": [
@@ -391,6 +461,36 @@
 				},
 				{
 					"year": "2017",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Air)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "St John Ambulance Brigade",
 					"award": "Gold"
 				}
@@ -513,8 +613,6 @@
 		"CK",
 		"CL"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3304"
 }

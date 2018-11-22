@@ -17,17 +17,14 @@
 	"bus": "39 , 85 , 171 , 800 , 803 , 804 , 806 , 811 , 812 , 851 , 852 , 853 , 853C , 854 , 854E , 855 , 856 , 857 , 859 , 860 ",
 	"GeneralInformation": {
 		"Principal": "MDM SHARON YEO EU-LIN",
-		"Vice Principal": "MR OW WENG KEONG",
+		"Vice Principal": [
+			"MR OW WENG KEONG",
+			"MR LOONG CHIEH YUNG (LONG JIRONG)"
+		],
 		"Vice Principal (Admin)": "MR CHEW CHEE YONG",
 		"School Vision": [
 			"A School of Distinction.",
-			"A Community of Leaders.",
-			"School motto : We Will Excel. ",
-			"School Values :",
-			"Integrity we uphold",
-			"Respect we show",
-			"Gratitude we express  ",
-			"Resilience we develop"
+			"A Community of Leaders."
 		],
 		"School Mission": "Nurturing Confident Leaders, Active Citizens and Global Thinkers - YTzens for the Future",
 		"School Philosophy, Culture and Ethos": "YTSS is guided by its vision, 'A School of Distinction, A Community of Leaders', and is committed to developing every YTzen to be a Confident Leader, Active Citizen and a Global Thinker. It holds firmly to the belief that every student can and wants to learn, and this translates into a commitment to unlock the potential of every child. The school also places a strong emphasis on cultivating self-discipline and imbuing the core values of Integrity, Respect, Resilience and Gratitude in our students. This student-centric approach in educating our students can also be seen in our curriculum. It is designed and implemented by our caring and professional team of teachers who embrace the core belief of 'leave no child behind'. The curriculum is crafted with the learners in mind and seeks to deepen our students' understanding of the various disciplines, making learning engaging and meaningful for them. Working closely with supportive parents and alumni, as well as the community and other partners in education, there is a strong community of support in YTSS to create a nurturing environment and provide the best learning experience for all YTzens. The school motto, 'We will Excel' is the guiding beacon for all YTzens and it permeates the school culture. The various awards and accolades the school is accorded and has achieved are testimonies of our steadfast commitment to excellence.",
@@ -1234,7 +1231,79 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"2nd",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides": "Gold",
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Silver"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

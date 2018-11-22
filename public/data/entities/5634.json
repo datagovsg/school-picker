@@ -90,7 +90,7 @@
 		],
 		"School Distinctive Programmes": {
 			"Coding": "Digiminds@HIPS",
-			"Music & Performing Arts": "ARTistry@HIPS"
+			"Visual Arts & Design": "ARTistry@HIPS"
 		},
 		"Special Student Development Programmes Offered": "a)The Total Curriculum Framework"
 	},
@@ -144,6 +144,16 @@
 						"Senior"
 					],
 					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -206,6 +216,26 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -253,6 +283,21 @@
 					"year": "2017",
 					"category": "Red Cross",
 					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Brownies (Pack 2)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Red Cross",
+					"award": "Gold"
 				}
 			]
 		}
@@ -275,9 +320,7 @@
 		"SG",
 		"TP"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 270,

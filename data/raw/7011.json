@@ -17,10 +17,7 @@
 	"bus": "74 , 74E , 88 , 101 , 147 , 147A , 161 ",
 	"GeneralInformation": {
 		"Principal": "MR MARK GERARD MINJOOT",
-		"Vice Principal": [
-			"MR KOH LIP KANG",
-			"MR LEE THUAN SIM"
-		],
+		"Vice Principal": "MR LEE THUAN SIM",
 		"Vice Principal (Admin)": "MR CHEONG WING FOOK MELVIN",
 		"School Vision": "A Man for Others - a Scholar, Sportsman, Gentleman and Leader",
 		"School Mission": "Montfort is a Catholic School. Guided by our Montfortian values and spirituality, we nurture each individual to realize his potential and inspire him to be a Man for Others.",
@@ -97,7 +94,7 @@
 		],
 		"School Distinctive Programmes": {
 			"STEM": "Made In Montfort – Design, Code, Make",
-			"Sports & Outdoor Education": "Student Leadership through Outdoor Adventure & Sports Programme"
+			"Sports & Outdoor Education": "Student Leadership through Outdoor Adventure & Sports"
 		},
 		"Special Student Development Programmes Offered": "Underlying Montfort Secondary's teaching and learning approach is the belief that boys learn better when we adopt Boy-Centric Teaching (BCT) strategies. Translated into classroom delivery, this would mean that teachers now incorporate novelty, movement and relevance into their lessons. The Applied Learning Programme (ALP) in Information Systems Technology & Design that was recently introduced aims to provide our students with foundational skills in this frontier learning domain. The development of leadership and character is another vital part of our Montfortian Education.  We do this through our flagship Montfort Values Plus (MVP) programme that is aligned to MOE's CCE curriculum and supported by a tiered Values-in-Action Programme for our boys from Secondary 1 through 5. Montfort's Learning for Life Programme (LLP) is centred on Leadership Development through Sports (Badminton, Softball & Football) & Outdoor Education, where our boys hone their leadership skills through various class, CCA and school activities, embarking on community and school projects based on the Kouzes & Posner Leadership Challenge Model. For our Catholic boys, we have programmes catered for them including Religious & Moral Education lessons and regular Eucharistic celebrations.  The school also provides opportunities for the students to appreciate the Arts through our 3 \"E\" Approach (Exposure, Expression & Excellence). All Secondary 1 students can look forward to participating in arts, music and theatre workshops organised by the Performing Arts CCAs."
 	},
@@ -993,7 +990,92 @@
 					"Scout (Unit 1)": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Drama - English": "Distinction",
+					"Art - Category B": "Recognition"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Ncdcc": "Gold",
+					"Npcc (Land)": "Gold",
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

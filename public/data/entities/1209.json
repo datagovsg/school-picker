@@ -59,7 +59,7 @@
 	"Cca": {},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Interdisciplinary": "Developing Creative and Critical Thinkers",
+			"Interdisciplinary": "Developing Thinkers, Collaborators and Communicators",
 			"Music & Performing Arts": "Nurturing Values and Character through Aesthetics"
 		},
 		"Special Student Development Programmes Offered": "In alignment to the aspiration for our students, our programmes will focus on the holistic education of Bukit Viewians. In particular, our niche programmes - (1) 'Nurturing Values and Character through Aesthetics' programme which serves to nurture confidence and resilience in our students through the arts, and to develop their social awareness and management; and (2) 'Developing Thinkers, Collaborators & Communicators' Programme' which aims to equip students with critical and inventive thinking skills and dispositions."
@@ -69,6 +69,16 @@
 			"Sports & Games Competition": [
 				{
 					"year": "2016",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
 					"category": "Netball",
 					"subCategory": [
 						"Zone",
@@ -183,6 +193,46 @@
 					"year": "2017",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": []
@@ -206,9 +256,7 @@
 		"CK",
 		"CL"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 210,

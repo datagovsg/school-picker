@@ -19,7 +19,10 @@
 	"bus": "181 , 502 & 243 ",
 	"GeneralInformation": {
 		"Principal": "Mr Ng Yeow Ling",
-		"Vice Principal": "Miss Tracy Tan I Lian",
+		"Vice Principal": [
+			"Ms Tracy Tan I Lian",
+			"Mrs Ruth Tai Mei Fen"
+		],
 		"Vice Principal (Admin)": "Mr Chin Hong Fai Humphrey",
 		"School Vision": "A positive institution in Jurong West that inspires the community to lead meaningful and engaged lives",
 		"School Mission": "To provide positive education that nurtures thriving teachers and flourishing pupils",
@@ -73,7 +76,18 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"Sports & Games Competition": [],
+			"Sports & Games Competition": [
+				{
+					"year": "2018",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				}
+			],
 			"SYF": [
 				{
 					"year": "2016",
@@ -119,11 +133,51 @@
 					"year": "2017",
 					"category": "Dance - Malay",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Brass Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
 				{
 					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2018",
 					"category": "Girls' Brigade",
 					"award": "Bronze"
 				}
@@ -148,8 +202,7 @@
 		"WC"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"studentCare": true,
 	"p1Registration": {

@@ -43,7 +43,13 @@
 		},
 		"Junior College": {
 			"Sports & Games Competition": [],
-			"SYF": [],
+			"SYF": [
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition(Sm)"
+				}
+			],
 			"Best Unit Award": []
 		}
 	},
@@ -66,5 +72,6 @@
 		"NV",
 		"TN"
 	],
+	"specialNeeds": [],
 	"id": "7802"
 }

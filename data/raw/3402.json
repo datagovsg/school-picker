@@ -776,7 +776,24 @@
 					"Ncc (Air Girls)": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"SYF Arts Presentation": {
+					"Band-Brass Ensemble": "Accomplishment",
+					"Chinese Orchestra-Mixed Ensemble": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Commendation"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides (Coy 1)": "Gold",
+					"Girl Guides (Coy 2)": "Gold",
+					"Ncc (Air Boys)": "Gold",
+					"Ncc (Air Girls)": "Gold",
+					"Ncdcc": "Silver",
+					"Npcc (Land)": "Bronze"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

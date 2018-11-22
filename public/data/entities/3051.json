@@ -101,9 +101,9 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Languages & Humanities": "The Use of Media in Engaging 21st Century Learners in the English Language Classroom -- Camera. Lights. Action. Programme (CLAP)",
-			"Music & Performing Arts / Visual Arts & Design": "Learning for Life Programme through the Arts"
+			"Music & Performing Arts / Visual Arts & Design": "Developing Creative and Confident persons, impacting the community through the Arts"
 		},
-		"Special Student Development Programmes Offered": "Greeenridge Secondary School emphasizes academic and character excellence as we develop all our students holistically. Our key programmes include an integrated Character and Citizenship Education programme that inculcates in our students' moral values, resilience, social-emotional competencies and responsibility to self and others. Our Learning for Life Programme through the Arts is a 3-year progressive programme that caters to all students and develops the aesthetic talents and creativity of students through exposure in Music, Performing Arts, Visual Art and Drama.  To develop our students to be effective communicators in the use of the languages, our school's Applied Learning Programme provides authentic learning experiences for students to apply their language skills in the real-life context such as news broadcasting and at various public speaking platforms. Other programmes include overseas learning journeys, taking Elective Modules with higher institution of learning and comprehensive Educational and Career Guidance Programmes for all students."
+		"Special Student Development Programmes Offered": "Greeenridge Secondary School emphasizes academic and character excellence as we develop all our students holistically. Our key programmes include an integrated Character and Citizenship Education programme that inculcates in our students moral values, resilience, social-emotional competencies and responsibility to self and others. Our Learning for Life Programme through the Arts is a 3-year progressive programme that caters to all students and develops the aesthetic talents and creativity of students through exposure in Music, Performing Arts, Visual Art and Drama. To develop our students to be effective communicators in the use of the languages, our school's Applied Learning Programme provides authentic learning experiences for students to apply their language skills in the real-life context such as news broadcasting and at various public speaking platforms. Other programmes include overseas learning journeys, Advanced Elective Modules and Elective Modules with higher institutions of learning and a comprehensive Educational and Career Guidance Programme for all students."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -188,6 +188,41 @@
 					"year": "2017",
 					"category": "Drama - English (2nd Entry)",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English (2nd Entry)",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -249,6 +284,26 @@
 				{
 					"year": "2017",
 					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
 					"award": "Gold"
 				}
 			]
@@ -369,5 +424,6 @@
 		"SK",
 		"CK"
 	],
+	"specialNeeds": [],
 	"id": "3051"
 }

@@ -47,7 +47,8 @@
 	"Cca": {},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Science": "Sustaining the Earth with Applied Solutions (SEAS)"
+			"Science": "Sustaining the Earth with Applied Solutions (SEAS)",
+			"Sports & Outdoor Education": "Joyful ExperienC.E. @ West Spring (ExperienC.E. – Experience Challenging Endeavours)"
 		},
 		"Special Student Development Programmes Offered": "The school believes in nurturing both the academic potential of our students and their character development. "
 	},
@@ -63,6 +64,21 @@
 				{
 					"year": "2017",
 					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
 					"award": "Recognition"
 				}
 			],
@@ -87,8 +103,7 @@
 		"CK"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"studentCare": true,
 	"p1Registration": {

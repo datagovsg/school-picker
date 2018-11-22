@@ -115,8 +115,8 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"STEM": "Developing Analytical, Research, Communication and Interpersonal Skills through Food Science and Technology",
-			"Music & Performing Arts": "Developing Values Through Aesthetics"
+			"STEM": "Food and Science Technology",
+			"Music & Performing Arts": "Cultivating Values Through Aesthetics"
 		},
 		"Special Student Development Programmes Offered": "The school's Learning for Life Programme 'Developing Character by understanding Chinese culture and values through Aesthetics' imbues in all students a deeper understanding and appreciation of Chinese culture, values and philosophy through music and the arts.  They will develop critical thinking skills and advanced skills in communication, interpretation and perception related to music and the arts.  It complements the school-designed Dizigui curriculum that includes the teaching of Chinese morals and values to all our students."
 	},
@@ -908,7 +908,80 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					],
+					[
+						"Wushu",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Multi-Lingual": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Best Unit Award": {
+					"Ncc (Air Boys)": "Silver",
+					"Npcc (Land)": "Bronze",
+					"Scout": "Bronze",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

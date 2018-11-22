@@ -87,7 +87,7 @@
 		],
 		"School Distinctive Programmes": {
 			"Languages": "Bilingual Media Studies (BMS) Programme",
-			"Sports & Outdoor Education": "Building Character Through Volleyball"
+			"Community Service & Student Leadership": "Pei Chun Leaders Programme (PCLP)"
 		},
 		"Special Student Development Programmes Offered": "SAP Flagship Programme - Chinese History and Culture Programme  "
 	},
@@ -116,6 +116,14 @@
 				]
 			},
 			"2017": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": "DA (Character Development)"
+			},
+			"2018": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": [
 					"BPA (Staff Well-Being)",
@@ -533,6 +541,96 @@
 						"Senior"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'D' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -590,6 +688,26 @@
 					"year": "2017",
 					"category": "Dance - Chinese",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -610,6 +728,16 @@
 				},
 				{
 					"year": "2017",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Brownies",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "Scout",
 					"award": "Silver"
 				}
@@ -635,9 +763,7 @@
 		"SG",
 		"CC"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"p1Registration": {
 		"TOTAL VACANCY": 300,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,

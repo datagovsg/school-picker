@@ -99,7 +99,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"STEM": "Fostering 21st Century Competencies through Design Thinking",
+			"STEM": "Health Sciences: Healthcare technologies for the elderly",
 			"Community & Youth Leadership": "Community and Youth Leadership in Hua Yi"
 		},
 		"Special Student Development Programmes Offered": "Since 1956, Hua Yi has developed a comprehensive values-based curriculum focussed on developing Hua Yians to be empathetic, resilient, passionate and glocal (global and local in perspective) citizens. Hua Yi's vibrant school heritage and culture provides a caring, authentic environment for students to participate in a wide range of quality programmes. Our Applied Learning Programme in Healthcare Technologies for the Elderly deepens awareness of healthcare issues facing the elderly in Singapore. It develops in students skills and innovative mindsets through learning journeys, elective modules and school-based experiences integrated across academic subjects. Our Learning for Life Programme in Community Youth Leadership develops in all Hua Yians a range of leadership and socio-emotional competencies through the Leadership Challenge Model and its 5 core leadership practices. Student leaders grow to become confident, responsible and socially aware, and have opportunities to serve beyond the school. These are combined with a range of exciting co-curricular experiences for all students, including a focus on our DSA talent areas of sport, student leadership and the performing and visual arts. Hua Yians have opportunities for cultural immersion in Thailand, Indonesia and Taiwan, and resources are set aside in a Talent Development Programme to ensure that students receive customised support to fulfil their potential. Hua Yi emphasises a student-centric curriculum, with school-wide programmes which develop a sense of belonging, joy of learning and culture of care. These includes our signature Start It Right! activities in January, colourful House programme, Level Learning Programmes and camps, Learning Fiesta, Montage school concert, Drop Everything and Read (DEAR), and semestral post-exam activities. These programmes are enriched by the sustained support of our passionate alumni and committed PSG, providing Hua Yians with a school experience that prepares them for life."
@@ -867,7 +867,70 @@
 					"Red Cross": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Commendation",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Commendation",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Girl Guides": "Silver",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Silver"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

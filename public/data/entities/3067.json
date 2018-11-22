@@ -82,20 +82,20 @@
 			"Drama - English",
 			"Ensemble - Guitar",
 			"Ensemble - Guzheng",
-			"Festive Drums"
+			"Festive Drums",
+			"Infocomm Club"
 		],
 		"Clubs & Societies": [
 			"Audio & Video/ Pa Club",
-			"Infocom Club",
 			"Photography & Digital Media"
 		]
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Languages & Humanities": "MeLit - Critical Thinking and Effective Communication through Media Literacy",
+			"Languages & Humanities": "Effective Communication and Critical Thinking through Media Literacy",
 			"Sports & Outdoor Education": "FOCUS (Finding, Optimising, Communicating, Understanding Sports)"
 		},
-		"Special Student Development Programmes Offered": "The school offers 'Critical Thinking' and 'Effective Communication' through our Applied Learning Programme of Media Literacy (MeLIT). MeLIT is a three-year programme to develop students' information management skills such as evaluating and interpreting information sources, and to deliver specific messages through the creation of media products.  The school's Life-Long Programme is STAR (Sportsmanship Teamwork And Resilience) where students develop these values through physical activities such as sports and outdoor adventure camps. To nurture students into Global Citizens of Character and Learning, all Lower Secondary students attend a Character Development Adventure Camp and Sec 3 students participate in a 5-day MOE-Outward Bound School Challenge Programme at Pulau Ubin.  There are opportunities for Student Leaders to take part in student exchange programmes with schools in Cambodia, Taiwan and Australia. In addition, students take part in Integrated Humanities and CCE Learning Journeys, CCE Lectures, Harmony@Senja (Integrated VIA/CCE Programme) and Leadership Development Programmes."
+		"Special Student Development Programmes Offered": "The school offers 'Critical Thinking' and 'Effective Communication' through our Applied Learning Programme of Media Literacy (MeLIT). MeLIT is a three-year programme to develop students' information management skills such as evaluating and interpreting information sources, and to deliver specific messages through the creation of media products.  The school's Life-Long Programme is STAR (Sportsmanship Teamwork And Resilience) where students develop these values through physical activities such as sports and outdoor adventure camps. To nurture students into Global Citizens of Character and Learning, all Lower Secondary students attend a Character Development Adventure Camp and Sec 3 students participate in a 5-day MOE-Outward Bound School Challenge Programme at Pulau Ubin.  There are opportunities for Student Leaders to take part in student exchange programmes with schools in Cambodia and Taiwan. In addition, students take part in Integrated Humanities and CCE Learning Journeys, CCE Lectures, Harmony@Senja (Integrated VIA/CCE Programme) and Leadership Development Programmes."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -159,6 +159,36 @@
 						"National",
 						"Girls",
 						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Shooting (Air Pistol)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Shooting (Air Rifle)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
 					],
 					"award": "4th"
 				}
@@ -268,6 +298,36 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Display",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -323,6 +383,26 @@
 				},
 				{
 					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCDCC",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
 					"category": "NPCC (Land)",
 					"award": "Gold"
 				}
@@ -444,8 +524,6 @@
 		"SK",
 		"CK"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3067"
 }

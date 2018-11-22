@@ -24,9 +24,9 @@
 			"Mdm Lee Kee Chin"
 		],
 		"Vice Principal (Admin)": "Mr Teo Chee Keong, Jason",
-		"School Vision": "A school of choice with a Culture of Learning, a Mindset for Excellence and a Spirit of Service.",
-		"School Mission": "To provide a holistic education that nurtures lifelong learners, responsible citizens and resilient individuals.",
-		"School Philosophy, Culture and Ethos": "With a strong conviction that 'Every Child Matters', the school believes that every student is unique and capable of learning. The school focuses on identifying students' talents and interests to develop them to their full potential through its curricular and co-curricular programmes. The school has put in place multiple pathways and learning processes that cater to the individual needs of its students. Its mission is to nurture students to become independent learners who take full responsibility for their own learning. The highly committed staff endeavours to develop diverse talents amongst the students by creating a positive and collaborative learning culture. The school sets high expectations to realise its vision, 'Mindset for Excellence'.",
+		"School Vision": "A School of Choice with a Culture of Learning, a Mindset for Excellence and a Spirit of Service.",
+		"School Mission": "To provide a Holistic Education that nurtures Lifelong Learners, Responsible Citizens and Resilient Individuals.",
+		"School Philosophy, Culture and Ethos": "With a strong conviction that 'Every Child Matters', the school believes that every student is unique and capable of learning.  The school focuses on identifying students' talents and interests to develop them to their full potential through its curricular and co-curricular programmes.  The school has put in place multiple pathways and learning processes that cater to the individual needs of its students.  Its mission is to nurture students to become independent learners who take full responsibility for their own learning. The highly committed staff endeavours to develop diverse talents amongst the students by creating a positive and collaborative learning culture.  The school sets high expectations to realise its vision, 'Mindset for Excellence'.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -56,7 +56,8 @@
 		"Physics",
 		"Science (Chem, Bio)",
 		"Science (Phy, Bio)",
-		"Science (Phy, Chem)"
+		"Science (Phy, Chem)",
+		"Smart Electrical Technology"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -92,7 +93,7 @@
 			"STEM": "Environment Science & Technology",
 			"Music & Performing Arts": "Integrated Arts Programme"
 		},
-		"Special Student Development Programmes Offered": "Unique to the school are the Learning for Life Programme (LLP) in Arts Education; and the Applied Learning Programme (ALP) in Environmental Sustainability.  The LLP Integrated Arts Programme is designed to expose every student to drama, visual"
+		"Special Student Development Programmes Offered": "Unique to the school are the Learning for Life Programme (LLP) in Arts Education; and the Applied Learning Programme (ALP) in Environmental Sustainability.  The LLP Integrated Arts Programme is designed to expose every student to drama, visual arts, dance and music. Further opportunities are provided for students to nurture their interest and hone their talents through CCA and O Level Art/Music programmes, as well as through platforms such as Lunchtime Performances, school concerts and the biennial Night of Music, Arts and Dance (NOMAD).  The school's ALP on Environmental Sustainability equips students with 21st century competencies by developing them in scientific inquiry skills.  Students have the opportunities to apply what they have learned in areas of STEM (Science, Technology, Engineering & Mathematics) through hands-on and minds-on activities. The ALP curriculum comprises three major themes, namely Biodiversity, Energy and Resources, and Electronics & Coding."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -382,6 +383,66 @@
 						"'C' Div"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Gymnastics (Artistic)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -467,6 +528,31 @@
 				},
 				{
 					"year": "2017",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
 					"category": "Drama - English",
 					"award": "Distinction"
 				}
@@ -561,6 +647,36 @@
 					"year": "2017",
 					"category": "Red Cross",
 					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Air)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Red Cross",
+					"award": "Silver"
 				}
 			]
 		}
@@ -680,8 +796,6 @@
 		"CC",
 		"YS"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3026"
 }

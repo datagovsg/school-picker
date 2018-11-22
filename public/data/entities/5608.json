@@ -70,11 +70,6 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Interdisciplinary": [
-				"C",
-				null,
-				" at KCS  - Chess for Critical Thinking, Chess for Confidence Building, and Chess for All"
-			],
 			"Community Service & Student Leadership": "Student Voice & Advocacy (SVA) @ KCS"
 		},
 		"Special Student Development Programmes Offered": "Learning for Life Programme (LLP): Student Voice Advocacy@KCS"
@@ -91,6 +86,9 @@
 				"Development Award": "DA (Character Development)"
 			},
 			"2017": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2018": {
 				"Development Award": "DA (Character Development)"
 			},
 			"Sports & Games Competition": [
@@ -233,6 +231,66 @@
 						"Senior"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -310,6 +368,31 @@
 					"year": "2017",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -330,6 +413,21 @@
 				},
 				{
 					"year": "2017",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "Scout",
 					"award": "Silver"
 				}
@@ -355,9 +453,7 @@
 		"SG",
 		"CC"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 240,

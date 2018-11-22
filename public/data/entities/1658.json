@@ -20,8 +20,8 @@
 	"GeneralInformation": {
 		"Principal": "Mrs Clara Lim-Tan",
 		"Vice Principal": [
-			"Miss Yee Siew Mei Emily",
-			"Mrs Tay-Lee Li Theng"
+			"Mrs Tay-Lee Li Theng",
+			"Miss Ong Pei Fen Jamie"
 		],
 		"School Vision": "A Vibrant and Connected Community that Aspires, Learns and Leads",
 		"School Mission": "Together, we build an inviting and enriched environment to nurture passionate learners, creative thinkers and caring leaders.",
@@ -75,7 +75,11 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"ICT & Media": "The 3E Experience @ YNPS: Nurturing Future-Ready 21st Century Learners",
-			"Sports & Outdoor Education": "Fitness, Character and Leadership through Sports Excellence in Table-tennis"
+			"Sports & Outdoor Education": [
+				"GOal GR",
+				null,
+				"IT – Character Development through Sports @ Yu Neng Primary"
+			]
 		},
 		"Special Student Development Programmes Offered": "The well-rounded 6-year curriculum is designed to provide every student the opportunity to grow the joy of learning, demonstrate thinking and creativity, and nurture leadership skills. A variety of pedagogical approaches are adopted to engage the mind, heart and hands of the students. The school's vibrant learning environment, supported by ICT, extends learning beyond the classrooms and lends a leading edge for our students in the knowledge-driven society. "
 	},
@@ -94,6 +98,9 @@
 				]
 			},
 			"2017": {
+				"Development Award": "DA (Character Development)"
+			},
+			"2018": {
 				"Development Award": "DA (Character Development)"
 			},
 			"Sports & Games Competition": [
@@ -326,6 +333,76 @@
 						"Junior"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -388,6 +465,31 @@
 					"year": "2017",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -403,6 +505,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "Scout",
 					"award": "Gold"
 				}
@@ -427,8 +534,7 @@
 		"TM"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"p1Registration": {
 		"TOTAL VACANCY": 180,

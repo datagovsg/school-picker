@@ -93,7 +93,7 @@
 			"Interact Club",
 			"Library Council",
 			"Outdoor Activities Club",
-			"Students' Council"
+			"Student Leaders"
 		],
 		"Others": [
 			"House Committee"
@@ -635,7 +635,18 @@
 					"Ensemble - Guitar": "Accomplishment"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Drama - Chinese": "Commendation",
+					"Drama - English": "Commendation",
+					"Ensemble - Guitar": "Accomplishment"
+				}
+			}
 		}
 	},
 	"L1R5History": {

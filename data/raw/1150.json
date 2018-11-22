@@ -865,7 +865,63 @@
 					"Red Cross": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Dance - International": "Accomplishment",
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition",
+					"Band-Brass": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "569920"

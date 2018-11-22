@@ -22,7 +22,8 @@
 		"Principal": "Mr Hanafi B Asmore",
 		"Vice Principal": [
 			"Mr Yap Meng Hong",
-			"Mr Ho Seng Tat Sunny"
+			"Mr Ho Seng Tat Sunny",
+			"Miss Karen Yaw Li Ling"
 		],
 		"Vice Principal (Admin)": "Mdm Lim Bee Tin",
 		"School Vision": "A Gracious Community of Confident and Innovative Life-Long Learners.",
@@ -104,6 +105,9 @@
 				"Best Practice Awards": "BPA (Staff Well-Being)"
 			},
 			"2017": {
+				"School Distinction Awards": "SDA"
+			},
+			"2018": {
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
@@ -219,6 +223,36 @@
 				},
 				{
 					"year": "2017",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
 					"category": "Hockey",
 					"subCategory": [
 						"National",
@@ -363,6 +397,56 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Commendation"
 				}
 			],
 			"Best Unit Award": [
@@ -395,6 +479,16 @@
 					"year": "2017",
 					"category": "Girls' Brigade",
 					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
+					"award": "Gold"
 				}
 			]
 		}
@@ -418,8 +512,7 @@
 		"TP"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"p1Registration": {
 		"TOTAL VACANCY": 210,

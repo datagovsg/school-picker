@@ -4,7 +4,7 @@
 	"levels": "S",
 	"uen": " T07GS3231A",
 	"logo": "./Medias/Images/Schools/logos/tn_3231.jpg",
-	"website": "http://www.pingyisec.moe.edu.sg",
+	"website": "https://pingyisec.moe.edu.sg/",
 	"address": "61, Chai Chee Street (468980)",
 	"telephone": [
 		"64489580"
@@ -35,8 +35,6 @@
 		"Art",
 		"Chemistry",
 		"Chinese",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
 		"Computer Applications",
 		"Design & Technology",
 		"English Language",
@@ -44,6 +42,9 @@
 		"Food And Consumer Education",
 		"Geography",
 		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In English)",
 		"Malay",
 		"Mathematics",
 		"Music",
@@ -105,6 +106,14 @@
 				]
 			},
 			"2017": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)",
+					"Outstanding PARTNERS"
+				]
+			},
+			"2018": {
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
 				"Outstanding Development Award": [
 					"ODA (Character Development)",
@@ -239,6 +248,31 @@
 					"year": "2017",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Display-Percussion Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Percussion Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -284,6 +318,16 @@
 				},
 				{
 					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "NPCC (Land)",
 					"award": "Gold"
 				}
@@ -405,8 +449,6 @@
 		"PL",
 		"TM"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3231"
 }

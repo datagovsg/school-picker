@@ -21,7 +21,7 @@
 		"Principal": "Mdm Tan Siew Woon",
 		"Vice Principal": [
 			"Mr Yip Kok Hoong (Ye Guoxiong)",
-			"Mdm Hoo Wei Che, Delia"
+			"Miss Bian Yu Wei"
 		],
 		"School Vision": "Learners Who Share, Citizens Who Care, Leaders Who Dare",
 		"School Mission": "Nurturing Character, Inspiring Learning",
@@ -88,7 +88,7 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"STEM": "Nurture Critical Thinkers & Self-directed Learners though Health Sciences & Healthcare Technology",
+			"STEM": "ALP Health Sciences - Healthy Lifestyle and Caring for Elderly",
 			"Sports & Outdoor Education": "Game for Life – Developing Social Emotional Competencies through Sports and Physical Activities"
 		},
 		"Special Student Development Programmes Offered": "The school's Applied Learning Programme aims to expose our students to the rudiments of Gerontology and Geriatrics so that they acquire knowledge about the biological, cognitive and social aspects of aging. A the same time, they will learn about healthcare of the elderly and how to support them in the management of diseases and disabilities in old age. 'Game for Life' is the school Learning for Life Programme, which develops students' Social Emotional Competencies through Sports and Physical Activities, in order to prepare them for life.  The programme also empowers students with passion, knowledge and skills to lead a life of healthy and sporting pursuits. In addition, those with sporting talent are progressively developed through exposure to competitive sports within and beyond the school. The school has a proud sporting tradition, especially in Hockey and Floorball, with several of its alumni players representing Singapore in international competitions and many others representing sports clubs in local leagues. The school Pipe Band which consists of Scottish bagpipes and drums performers, has been well regarded in South East Asia. For an all-round educational experience, school-based enrichment programmes are also offered, such as Science Research Programme and Secondary 3 Northland Overseas Values-In-Action (NOVIA) to broaden students' horizons as they share and serve in a cross-cultural context."
@@ -113,6 +113,16 @@
 						"National",
 						"Boys",
 						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
 					],
 					"award": "3rd"
 				}
@@ -197,6 +207,36 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -254,6 +294,26 @@
 					"year": "2017",
 					"category": "NPCC (Land)",
 					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Air)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Bronze"
 				}
 			]
 		}
@@ -375,8 +435,6 @@
 		"CC",
 		"SM"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3058"
 }

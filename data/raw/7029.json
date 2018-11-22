@@ -96,7 +96,7 @@
 		],
 		"School Distinctive Programmes": {
 			"Languages & Humanities": "iTHink -- the HILDAN Approach to Learning the English Language",
-			"Sports & Outdoor Education": "Develop the Whole Person through Sports"
+			"Sports & Outdoor Education": "Develop the Whole Person through Sports and Outdoor Education"
 		},
 		"Special Student Development Programmes Offered": "The school's Applied Learning Programme 'iTHink' integrates the acquisition of Thinking Skills with the learning of the English Language.  Through thinking approaches such as 'Paul's Wheel of Reasoning' and thinking routines like 'See-Think-Wonder', Hildans will be developed to be Critical & Inventive Thinkers and to be more proficient users of the English Language."
 	},
@@ -1059,7 +1059,80 @@
 					"Npcc (Land)": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"3rd",
+						"1st"
+					],
+					[
+						"Volleyball",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"3rd",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Drama - English": "Distinction",
+					"Ensemble - Guitar": "Accomplishment",
+					"Ensemble - Handbell / Handchime": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Silver",
+					"Ncdcc": "Gold",
+					"Npcc (Land)": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

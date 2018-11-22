@@ -122,7 +122,7 @@
 			"Red Cross Youth (Nanyang Jc Chapter)",
 			"Robotics Club",
 			"Science Research Programme",
-			"Student Interest Group:Chess Club",
+			"Student Interest Group: Ny Chess Club",
 			"The Drum - Media Resource"
 		]
 	},
@@ -931,7 +931,84 @@
 					"Ensemble - Guzheng": "Distinction"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"3rd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"3rd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition(Sm)",
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Commendation",
+					"Ensemble - Guzheng": "Distinction"
+				}
+			}
 		}
 	},
 	"L1R5History": {

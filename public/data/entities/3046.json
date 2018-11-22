@@ -26,7 +26,7 @@
 		],
 		"School Vision": "Passionate Learners. Principled Leaders. Grateful Citizens",
 		"School Mission": "Care. Lead. Inspire. Partner",
-		"School Philosophy, Culture and Ethos": "Founded in 2001, Hougang Secondary School (HS) provides a holistic education for Hougeans to pursue their strengths and passions. A school of distinction, HS is recognised for having best practices in Student All-Round Development, Character and Citizenship Education (CCE), and Teaching & Learning. In HS, \"Every Student Counts\". Premised on this belief, the school partners both parents and stakeholders to care, lead and inspire students to discover their passion and fulfil their aspirations. HS places strong emphasis on character and values education. The school is committed to nurture every Hougean into Passionate Learners, Principled Leaders and Grateful Citizens, who will make the difference in their life journey even after they have left the gates of HS. There are opportunities for our students to be imbued with the school's core values of GRIT (Gratitude, Respect, Ingenuity, Trustworthiness and Grit) through the school's Instructional, Character and Citizenship Education, Student Leadership, CCAs, Learning for Life and Applied Learning programmes which cater to the different needs and interests of the students.",
+		"School Philosophy, Culture and Ethos": "Founded in 2001, Hougang Secondary School (HS) provides a holistic education for Hougeans to pursue their strengths and passions. A school of distinction, HS is recognised for having best practices in Student All-Round Development, Character and Citizenship Education (CCE), and Teaching & Learning. In HS, \"Every Student Counts\". Premised on this belief, the school partners both parents and stakeholders to care, lead and inspire students to discover their passion and fulfil their aspirations. HS places strong emphasis on character and values education. The school is committed to nurture every Hougean into Passionate Learners, Principled Leaders and Grateful Citizens, who will make the difference in their life journey even after they have left the gates of HS. There are opportunities for our students to be imbued with the school's core values of GRIT (Gratitude, Respect, Ingenuity, Trustworthiness and Grit) through its Instructional, Character and Citizenship Education, Student Leadership, CCAs, Learning for Life and Applied Learning programmes which cater to the different needs and interests of the students.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -92,7 +92,7 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Languages & Humanities": "English Communication Skills through Authentic Learning",
-			"Community & Youth Leadership": "GRC (Gratitude, Respect & Compassion) in Action"
+			"Community & Youth Leadership": "GRC (Gratitude, Respect & Compassion) in Action, a Hougean way of life"
 		},
 		"Special Student Development Programmes Offered": "HS has a strong conviction in character excellence as the school believes that strong values will provide students the impetus towards academic excellence. Hence, the school's Learning for Life Programme-Community Youth Leadership, \"Values in Action, A Hougean Way of Life\", provides a sustained and enhanced values education progressively over 4/5 years. Leveraging on the Service Learning approach, students take ownership of their involvement in VIA projects, seek to understand the needs of the community, and co-construct and mentor their peers to bring about awareness, action and advocacy in their chosen area of community need. To nurture Hougeans to be confident and competent speakers, the school's Applied Learning Programme, \"Promoting Communication Skills through Authentic Learning\" strives to promote communication skills using real life learning platforms. By furnishing students with authentic settings and problems, they will be able to acquire useful and transferable communication skills. The programme includes broadcasting, public speaking, debates, drama and journalism. As part of our Internationalisation Programme, all Secondary 3 students will have an opportunity to extend their learning overseas through exchange programmes. Through the trips, students will be able to appreciate other cultures and establish friendships with their overseas counterparts. HS provides a robust Teaching & Learning curriculum that draws from a range of learning experiences to help students discover their passion and fulfil their aspirations. Key programmes include Project Work using Design Thinking methodology, National Education Learning Journeys, Math Enrichment such as:Math Trail and Math Magic, HS Math Talent Programme, Science Funtasia, Humanities Inquiry Learning Journey, Outreach Programme to Universities, Polytechnics and Institutes of Technical Education, Earth Week, Sec 2 Adventure Camp, Sports Education Programme, Inter-class Games, Sports Carnival and SciTechHuMatics."
 	},
@@ -108,6 +108,9 @@
 				"School Distinction Awards": "SDA"
 			},
 			"2017": {
+				"School Distinction Awards": "SDA"
+			},
+			"2018": {
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
@@ -170,6 +173,36 @@
 						"'B' Div"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Judo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Judo",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Judo",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -282,6 +315,41 @@
 					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Gamelan",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -388,6 +456,41 @@
 				{
 					"year": "2017",
 					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Red Cross",
 					"award": "Gold"
 				}
 			]
@@ -509,8 +612,6 @@
 		"SG",
 		"TP"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3046"
 }

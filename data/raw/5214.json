@@ -78,8 +78,8 @@
 			"SAP"
 		],
 		"School Distinctive Programmes": {
-			"Community Service & Student Leadership": "Every RSS Student A Leader",
-			"Sports & Outdoor Education": "RSS Tenpin Bowling - Excellence In Character and Sports"
+			"Coding": "Tinkers to Thinkers (T2T) Programme",
+			"Community Service & Student Leadership": "Every RSS Student A Leader"
 		},
 		"Special Student Development Programmes Offered": "The school-based enrichment curriculum focuses on inculcating values and equipping students with 21st century competencies which are essential for them to become independent learners, effective communicators, active citizens and reflective leaders. Some signature programmes which for students include:"
 	},
@@ -1133,7 +1133,86 @@
 					"Scout": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"3rd"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition(Sm)",
+					"Chinese Orchestra-Mixed Ensemble": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "469719"

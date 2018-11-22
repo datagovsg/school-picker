@@ -18,8 +18,8 @@
 	"GeneralInformation": {
 		"Principal": "MRS TAN-NG WIE PIN",
 		"Vice Principal": [
-			"MDM ADILA ONG KIM LUAN",
-			"MDM NGOH YING LI, JANE"
+			"MDM NGOH YING LI, JANE",
+			"MDM HOO WEI CHE, DELIA"
 		],
 		"Vice Principal (Admin)": "MR LOW KAH SHEN",
 		"School Vision": "Learners with Passion.  Leaders with Heart.  Citizens of Character.",
@@ -29,21 +29,55 @@
 			"Learners with Passion",
 			"Engagement in learning is the ignition for our curriculum design. Our signature programme, ANDventure, aims to nurture confident communicators equipped with critical thinking skills. With modules in Learning through the Arts (integration of EL with Drama, Sc with Dance), Leadership & ICT, ANDventure builds their performance character as a life-long learner. The inquiry-based approach in Science and games-based learning in Math also serve to enhance the quality of pupil learning. Our curriculum designs are woven with 21st century competencies to better prepare our pupils for the future.",
 			"Leaders with Heart",
-			"To empower Andersonians as leaders, we provide a heart education for them to be contributing members of our community. Our ViA, Anderson Gives Back, develops moral character in pupils with valuable experiences to serve the community. To heighten leadership skills and global awareness, pupils embark on Internationalisation Experience where they interact with people from different cultures.",
+			"To empower Andersonians as leaders, we provide opportunities for them to be contributing members of our community. Our ViA, Anderson Gives Back, develops moral character in pupils with valuable experiences to serve the community. To heighten leadership skills and global awareness, pupils embark on Internationalisation Experiences where they interact with people from different cultures.",
 			"Citizens of Character",
-			"Our vibrant CCA programme creates opportunities for Andersonians to take their interests to the next level while building strength of character. Across varied CCAs, pupils learn important virtues such as teamwork and commitment. As they progress in skills, they also overcome challenges with diligence and resilience. Our LLPs, ALIVE and VIVACE, are testimonies to our belief in strengthening our pupils' talents through values-based CCA.",
-			"With a balance of academic rigour and a robust CCE culture, our Andersonians are poised to shine with Courage and Sincerity."
+			"Our vibrant CCA programmes create opportunities for Andersonians to take their interests to the next level while building strength of character. Across varied CCAs, pupils learn important virtues such as teamwork and commitment. As they progress in skills, they also overcome challenges with diligence and resilience. Our LLPs, ALIVE and VIVACE, are testimonies to our belief in strengthening our pupils' talents through values-based CCA.",
+			"With a balance of academic rigour and a robust CCE culture, our Andersonians are poised to shine with Courage and Sincerity"
 		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
 	},
 	"SubjectOffered": [
+		"ART",
+		"CHINESE",
+		"ENGLISH LANGUAGE",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
-		"HIGHER TAMIL"
+		"HIGHER TAMIL",
+		"MALAY",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"SCIENCE",
+		"SOCIAL STUDIES",
+		"TAMIL"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Bowling Enrichment",
+			"Football",
+			"Gymnastics Enrichment",
+			"Volleyball"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Band - Brass",
+			"Dance - Chinese",
+			"Dance - International",
+			"Drama - English",
+			"Ensemble - Angklung/Kulintang",
+			"Ensemble - Guitar",
+			"Ensemble - Guzheng"
+		],
+		"Clubs & Societies": [
+			"Gaia Club",
+			"Infocom Club",
+			"Robotics Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -1095,7 +1129,78 @@
 					"Ensemble - Guzheng": "Distinction"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band-Brass": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Accomplishment",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				}
+			}
 		}
 	},
 	"postalCode": "569785"

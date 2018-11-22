@@ -22,9 +22,9 @@
 			"MISS LOW SHIOK CHENG CINDY"
 		],
 		"Vice Principal (Admin)": "MISS CHUANG SIEW CHIN",
-		"School Vision": "Our vision is to be a premier school with a nurturing and innovative environment that prepares students to be ladies and leaders of tomorrow.",
-		"School Mission": "Our mission is to develop and inspire in each Crescentian a sense of her own potential as \"An excellent and well-balanced scholar\", \"A disciplined, responsible member of society\", and \"A caring, gracious citizen of the world\".",
-		"School Philosophy, Culture and Ethos": "Crescent Girls' School provides a nurturing and innovative environment with a distinctive brand of education that empowers generations of students to grow into gracious and confident ladies, and caring visionary leaders. The school focuses on transforming the learning experiences of students through pervasive and purposeful use of technology. As one of the pioneer FutureSchools@Singapore, we continually harness technology to develop in our students a passion for learning and for life so that they are well-prepared for the challenges of the 21st century. Beyond academic excellence, the school is committed to inculcating sound values in our students so that they are able to contribute to the community. There is a pervasive culture of care in the school, and a strong emphasis on development of strength of character, a mindset of excellence, and commitment to teamwork to nurture our students to be responsible members of society and gracious citizens of the world. The school has done well in many aspects over the years. This is possible due to a team of dedicated and innovative staff and the support of parents, alumnae and the school advisory committee.",
+		"School Vision": "Ladies and Leaders of Tomorrow",
+		"School Mission": "We nurture Crescentians to be Confident Learners, Global Citizens and Servant Leaders.",
+		"School Philosophy, Culture and Ethos": "Crescent Girls' School provides a nurturing and innovative environment with a distinctive brand of education that empowers generations of students to grow into gracious and confident ladies, and caring visionary leaders. The school focuses on transforming the learning experiences of students through pervasive and purposeful use of technology. As one of the pioneer FutureSchools@Singapore, we continually harness technology to develop in our students a passion for learning and for life so that they are well-prepared for the challenges of the 21st century. Beyond academic excellence, the school is committed to inculcating sound values in our students so that they are able to contribute to the community. There is a pervasive culture of care in the school, and a strong emphasis on development of strength of character, focusing on moral courage, resilience, empathy and commitment to teamwork to nurture our students to be responsible members of society and gracious citizens of the world. The school has done well in many aspects over the years. This is possible due to a team of dedicated and innovative staff and the support of parents, alumnae and the school advisory committee.",
 		"Type of School": "GOVERNMENT SCHOOL / GIRLS' SCHOOL / SINGLE SESSION",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -1285,7 +1285,106 @@
 					"Red Cross": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					],
+					[
+						"Canoeing",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Drama - English": "Commendation",
+					"Ensemble - Angklung / Kulintang": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girl Guides": "Gold",
+					"Ncc (Land Girls)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

@@ -71,6 +71,7 @@
 		"Physical Education",
 		"Physics",
 		"Principles Of A/C",
+		"Principles Of Accounts",
 		"Science",
 		"Science (Chem, Bio)",
 		"Science (Phy, Chem)",
@@ -113,7 +114,7 @@
 		"MOE Programmes": [
 			"Art Elective Programme"
 		],
-		"Special Student Development Programmes Offered": "The school offers a comprehensive range of distinctive programmes that complements our curriculum to provide BPians with a holistic learning experience.  The Code for Fun Programme is offered to all BPians to enhance their information and communication technology (ICT) skills so they will be able to navigate the changing digital landscape.  The Applied Science Programme provides an opportunity for all BPians to harness the knowledge they have learnt from different disciplines and apply it on an investigative research task that hones the inquiry and critical thinking skills and encourages them to pursue their passion in Science.  Under the Elective Programme in Malay Language in Secondary Schools (EMAS), BPians undergo a structured curriculum and local and overseas enrichment programmes to develop a deeper appreciation of the Malay Language and culture.  Through the Art Elective Programme, BPians hone and develop their aesthetic skills in various art forms including painting, ceramics, sculpturing, design digital art and mixed media.  Other special programmes to develop the desired qualities and competencies among BPians include the Leadership Development Programme, Cross-cultural Programme and Apprenticeship and Work Attachment Programmes."
+		"Special Student Development Programmes Offered": "The school offers a comprehensive range of distinctive programmes that complements our curriculum to provide BPians with a holistic learning experience.  The Code for Fun Programme (CFF) is offered to all BPians to enhance their information and communication technology (ICT) skills so they will be able to navigate the changing digital landscape.  The Applied Science Programme (ASP) provides an opportunity for all BPians to harness the knowledge they have learnt from different disciplines and apply it on an investigative research task that hones the inquiry and critical thinking skills and encourages them to pursue their passion in Science.  Under the Elective Programme in Malay Language in Secondary Schools (EMAS), BPians undergo a structured curriculum and local and overseas enrichment programmes to develop a deeper appreciation of the Malay Language and culture.  Through the Art Elective Programme (AEP), BPians hone and develop their aesthetic skills in various art forms including painting, ceramics, sculpturing, design digital art and mixed media.  Other special programmes to develop the desired qualities and competencies among BPians include the Leadership Development Programme, Cross-cultural Programme and Apprenticeship and Work Attachment Programmes."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -124,6 +125,9 @@
 				"School Distinction Awards": "SDA"
 			},
 			"2017": {
+				"School Distinction Awards": "SDA"
+			},
+			"2018": {
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
@@ -406,6 +410,96 @@
 						"'C' Div"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -558,6 +652,56 @@
 					"year": "2017",
 					"category": "Ensemble - Gamelan",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Display",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - Chinese",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Gamelan",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -633,6 +777,31 @@
 				},
 				{
 					"year": "2017",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "St John Ambulance Brigade",
 					"award": "Gold"
 				}
@@ -754,8 +923,6 @@
 		"TH",
 		"WC"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3204"
 }

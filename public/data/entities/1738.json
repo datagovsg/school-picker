@@ -78,6 +78,9 @@
 			"2017": {
 				"Outstanding Development Award": "Outstanding PARTNERS"
 			},
+			"2018": {
+				"Outstanding Development Award": "Outstanding PARTNERS"
+			},
 			"Sports & Games Competition": [
 				{
 					"year": "2015",
@@ -166,6 +169,16 @@
 						"Zone",
 						"Girls",
 						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
 					],
 					"award": "4th"
 				}
@@ -265,6 +278,41 @@
 					"year": "2017",
 					"category": "Ensemble - Harmonica",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Harmonica",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -272,6 +320,11 @@
 					"year": "2017",
 					"category": "Scout",
 					"award": "Bronze"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Silver"
 				}
 			]
 		}
@@ -296,8 +349,7 @@
 		"SM"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"studentCare": true,
 	"p1Registration": {

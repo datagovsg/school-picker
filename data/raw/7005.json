@@ -14,7 +14,7 @@
 	],
 	"email": "gmss@moe.edu.sg",
 	"mrt": "ALJUNIED MRT",
-	"bus": "40 , 62 , 63 , 80 , 100 , 125 , 134 , 153 , 155 , 158 , 180 ",
+	"bus": "40 , 62 , 63 , 80 , 100 , 125 , 134 , 155 , 158 ",
 	"GeneralInformation": {
 		"Principal": "MR WEE TAT CHUEN",
 		"Vice Principal": "MR EKA TANU",
@@ -103,7 +103,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"STEM": "GeMs_Applied Learning Programme in Science",
+			"STEM": "Environmental Science and Sustainable Living",
 			"Community & Youth Leadership": "Nurturing Confident and Compassionate Leaders via Values-in-Action"
 		},
 		"Special Student Development Programmes Offered": "The school nurtures students' talents, interests, character and leadership qualities via a vibrant CCE curriculum and distinctive programmes, including a 4/5 years progressive Learning for Life Programme (LLP) in the area of Community and Youth Leadership. The LLP systematically equips students with critical inquiry skills, public-speaking skills and leadership competencies to prepare them for meaningful local and overseas Values-in-Action and service learning experiences.  The school also has an Applied Learning Programme (ALP) in Environmental Science and Sustainable Living.  We have vibrant CCA programmes spanning 22 CCAs, the Music, Art, Dance and Drama (MADD) enrichment programme and level camps for all students.  Through these, we develop all-round students who strive to contribute to our community."
@@ -682,7 +682,79 @@
 					"Npcc (Land)": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Outstanding Development Award": "ODA (National Education)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girl Guides": "Gold",
+					"Girls' Brigade": "Gold",
+					"Npcc (Land)": "Silver"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

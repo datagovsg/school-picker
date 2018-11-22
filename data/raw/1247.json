@@ -46,14 +46,23 @@
 		"SOCIAL STUDIES",
 		"TAMIL"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Rugby"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Brass Band"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
 			"Interdisciplinary": "Inquiry-based Learning Supported by Thinking Routines",
-			"Music & Performing Arts": "Music for Everyone!"
+			"Music & Performing Arts": "Music for Everyone - Building Empathy and Resilience"
 		},
 		"Special Student Development Programmes Offered": "At BTPS, we firmly believe that in order to fuel our students' minds, they must be actively involved in their own construction of knowledge."
 	},
@@ -313,7 +322,18 @@
 					"Boys' Brigade": "Bronze"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition(Sm)",
+					"Art - Category B": "Recognition(Sm)",
+					"Band-Brass": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze"
+				}
+			}
 		}
 	},
 	"postalCode": "598112"

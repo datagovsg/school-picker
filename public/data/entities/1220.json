@@ -72,17 +72,20 @@
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
+			"Art Club",
 			"Band - Brass",
-			"Chinese Calligraphy Club",
 			"Choir",
 			"Contemporary Dance",
 			"Indian Dance",
+			"Lion Dance Troupe",
+			"Malay Dance",
 			"String - Ensemble (Violin)"
 		],
 		"Clubs & Societies": [
 			"Edison's Club (Science & Robotics)",
 			"Green Club",
-			"Library"
+			"Library",
+			"Media Production House"
 		]
 	},
 	"SpecialProgrammes": {
@@ -100,6 +103,9 @@
 				"Development Award": "DA (National Education)"
 			},
 			"2017": {
+				"Development Award": "DA (National Education)"
+			},
+			"2018": {
 				"Development Award": "DA (National Education)"
 			},
 			"Sports & Games Competition": [
@@ -158,6 +164,26 @@
 					"category": "Football",
 					"subCategory": [
 						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Gymnastics (Artistic)",
+					"subCategory": [
+						"National",
 						"Boys",
 						"Senior"
 					],
@@ -254,6 +280,36 @@
 					"year": "2017",
 					"category": "Ensemble - Strings",
 					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -316,6 +372,26 @@
 					"year": "2017",
 					"category": "Scout",
 					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Brownies",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Silver"
 				}
 			]
 		}
@@ -338,8 +414,7 @@
 		"WC"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"studentCare": true,
 	"p1Registration": {

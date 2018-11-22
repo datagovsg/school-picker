@@ -21,13 +21,12 @@
 	"GeneralInformation": {
 		"Principal": "Mdm S Saroja",
 		"Vice Principal": [
-			"Mdm Tsai June Wah",
 			"Miss Wee Mei Yen Janice",
 			"Mr Quah Siew Kin"
 		],
 		"School Vision": "A Kent Ridgean has the Heart of a Saint, the Passion of an Inventor, and the Will of an Olympian.",
 		"School Mission": "Kent Ridge Secondary nurtures the heart, ignites the passion and strengthens the will of all Kent Ridgeans to become individuals of exemplary character.",
-		"School Philosophy, Culture and Ethos": "The hallmark of an education at Kent Ridge is the culture of care and excellence. Guided by our philosophy that 'Every Student Counts', our passionate and dedicated staff place our students at the centre of all that we do and spare no effort to instil the right values in them. This commitment to excellence has been recognised at the national level by the awarding of the President's Award for Teachers in 2013, the nation's highest award for teachers and the Caring Teacher Award in 2011. Our holistic curriculum has also been recognised by the awarding of the Best Practice (Student All Round Development) in 2015. Kent Ridge is proud of what we have achieved in nurturing our students to be exemplary individuals who have the Heart of a Saint, Passion of an Inventor and Will of an Olympian. We look forward to scaling greater heights as we continue to go 'Beyond Frontiers'. Kent Ridge offers many opportunities for our students to learn and grow through our rich array of programmes such as the Experiential Week, KR Hands-On Day (School VIA), Entrepreneurship Fair, Project Work, the Arts Programme, Inter-class games, Speak Up, Speak Out, Speak Right Oracy Programme, Shanghai Twinning Programme, Hong Kong Immersion Programme, Overseas Learning Journeys, Sports Electives, Applied Learning Programme in Robotics and Learning for Life Programme in Sports and Outdoor Education.",
+		"School Philosophy, Culture and Ethos": "The hallmark of an education at Kent Ridge is the culture of care and excellence. Guided by our philosophy that 'Every Student Counts', our passionate and dedicated staff place our students at the centre of all that we do and spare no effort to instil the right values in them. This commitment to excellence has been recognised at the national level by the awarding of the President's Award for Teachers in 2013, the nation's highest award for teachers and the Caring Teacher Award in 2010. Our holistic curriculum has also been recognised by the awarding of the Best Practice (Student All Round Development) in 2015. Kent Ridge is proud of what we have achieved in nurturing our students to be exemplary individuals who have the Heart of a Saint, Passion of an Inventor and Will of an Olympian. We look forward to scaling greater heights as we continue to go 'Beyond Frontiers'. Kent Ridge offers many opportunities for our students to learn and grow through our rich array of programmes such as the Experiential Week, KR Hands-On Day (School VIA), Entrepreneurship Fair, Project Work, the Arts Programme, Inter-class games, Speak Up, Speak Out, Speak Right Oracy Programme, Shanghai Twinning Programme, Hong Kong Immersion Programme, Overseas Learning Journeys, Sports Electives, Applied Learning Programme in Robotics and Learning for Life Programme in Sports and Outdoor Education.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay",
 		"Affiliated Schools": "Not Applicable"
@@ -46,6 +45,7 @@
 		"Combined Humanities (S,H)",
 		"Computer Applications",
 		"Design & Technology",
+		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
@@ -66,6 +66,7 @@
 		"Physical Education",
 		"Physics",
 		"Principles Of A/C",
+		"Principles Of Accounts",
 		"Project Work",
 		"Science (Phy, Chem)",
 		"Science (Syll T)",
@@ -102,13 +103,24 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"STEM": "Developing Computational Thinking through Robotics",
-			"Sports & Outdoor Education": "Outdoor Education for Development of Leadership Skills"
+			"Sports & Outdoor Education": "EVOKE!@KR (Educational Values of Olympism at Kent Ridge) through Sports and Outdoor Education"
 		},
 		"Special Student Development Programmes Offered": "At Kent Ridge, we are committed to providing a holistic education for all our students anchored on our school values of Fitness of Mind and Body; Integrity in Word and Deed; Respect for Self, Community and Environment and Excellence in All Our Endeavours. Students will have opportunities to take part in key programmes including: Character and Citizenship Education with a focus on personal and social life-skills; Learning for Life Programme (Sports and Outdoor Education); Applied Learning Programme (Robotics); Values-in-Action Programme; National Education; Student Leadership Development; Elective Modules; Advanced Elective Modules; Career Guidance; Internationalisation Programme; Subject-based Enrichment Modules; Family Matters! programmes; After School Engagement programmes."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"Sports & Games Competition": [],
+			"Sports & Games Competition": [
+				{
+					"year": "2018",
+					"category": "Sailing (Optimist)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				}
+			],
 			"SYF": [
 				{
 					"year": "2015",
@@ -167,6 +179,26 @@
 				},
 				{
 					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
 					"category": "Drama - English",
 					"award": "Accomplishment"
 				}
@@ -244,6 +276,26 @@
 				},
 				{
 					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "NPCC (Land)",
 					"award": "Silver"
 				}
@@ -365,8 +417,7 @@
 		"QT"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"id": "3619"
 }

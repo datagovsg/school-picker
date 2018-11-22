@@ -24,7 +24,7 @@
 			"Mr Kalvindar Singh"
 		],
 		"School Vision": "The First President School, an institution that nurtures Scholars, Sportsmen and Statesmen.",
-		"School Mission": "To nurture Curiosity, Creativity and Confidence in Yusoffians so that they will be Life-long Learners who Contribute to the Greater Good.",
+		"School Mission": "To nurture Curiosity, Creativity and Confidence in Yusoffians so that they will be Life-long Learners who contribute to the Greater Good.",
 		"School Philosophy, Culture and Ethos": "At Yusof Ishak Secondary School, we believe that every child can learn and deserves a holistic education. One of our key strategic thrusts is 'Bringing Out the Best in Every Child' and to imbue in them our school values of 'Resilience, Responsibility, Respect, Confidence, Compassion and Integrity'. Our first class team of staff endeavours to nurture our students towards emulating the attributes of our First President, to be 'Scholars, Sportsmen and Statesmen'.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -44,7 +44,7 @@
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
-		"Higher Tamil",
+		"Higher Malay",
 		"History",
 		"Humanities (Ss, Geography)",
 		"Humanities (Ss, History)",
@@ -193,6 +193,31 @@
 					"year": "2017",
 					"category": "Dance - Malay",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -238,6 +263,21 @@
 				},
 				{
 					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Girls)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "NPCC (Land)",
 					"award": "Gold"
 				}
@@ -360,5 +400,6 @@
 		"CK",
 		"CL"
 	],
+	"specialNeeds": [],
 	"id": "3307"
 }

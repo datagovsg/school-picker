@@ -5,10 +5,17 @@ const s3 = new AWS.S3({apiVersion: '2006-03-01', region: 'ap-southeast-1', crede
 const fs = require('fs')
 const zlib = require('zlib')
 
+const entityList = require('../../public/data/entityList.json')
+upload(entityList, 'entityList.json')
+
 const filenames = fs.readdirSync('public/data/entities/')
   .filter(file => file.match(/\.json$/))
 filenames.forEach(filename => {
   const entity = require('../../public/data/entities/' + filename)
+  upload(entity, 'entities/' + filename)
+})
+
+function upload (entity, filename) {
   zlib.gzip(JSON.stringify(entity), (err, buffer) => {
     if (err) console.error(err)
     else {
@@ -25,4 +32,4 @@ filenames.forEach(filename => {
       })
     }
   })
-})
+}

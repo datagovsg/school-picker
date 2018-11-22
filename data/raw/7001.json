@@ -24,12 +24,9 @@
 			"MISS CHOCK SIEW HWA",
 			"MDM YONG LEE HAR"
 		],
-		"School Vision": [
-			"Years 1-4: A Scholar, Officer and Gentleman ; Catalyst for Change, for God and Humanity. ",
-			"Years 5-6: A Scholar, Leader and Global Citizen ; Catalyst for Change, for God and Humanity."
-		],
+		"School Vision": "Years 1-4: A Scholar, Officer and Gentleman; Catalyst for Change, for God and Humanity. Years 5-6: A Scholar, Leader and Global Citizen; Catalyst for Change, for God and Humanity.",
 		"School Mission": "To be a beacon of truth and light, a world-class institution through the holistic development of our students",
-		"School Philosophy, Culture and Ethos": "Founded in 1886, our school's core purpose is to nurture our students to be catalysts for change with Godly values and robust character, equipped and willing to serve and lead in the family, nation and the global community. A Methodist institution, the school places a strong focus on all-rounded, values-centric development, anchored in a school environment of family and community. Every Year 1-4 student participates in 2 CCAs (a Uniformed Group and a Sports/ Club/Society/Performing Arts Group).",
+		"School Philosophy, Culture and Ethos": "Founded in 1886, our school's core purpose is to nurture our students to be catalysts for change with Godly values and robust character, equipped and willing to serve and lead in the family, nation and the global community. A Methodist institution, the school places a strong focus on all-rounded values-centric development, anchored in a school environment of family and community. Every Year 1-4 student participates in 2 CCAs (a Uniformed Group and a Sports/ Club/Society/Performing Arts Group).",
 		"Type of School": "INDEPENDENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"IP Partner Schools": "METHODIST GIRLS' SCHOOL (SECONDARY)",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -3139,7 +3136,282 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Development Award": "DA (National Education)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Canoeing",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"2nd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"4th",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing (Optimist)",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Strings": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Ncc (Air Boys)": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Ncc (Sea Boys)": "Gold",
+					"Ncdcc": "Gold",
+					"Npcc (Land)": "Gold",
+					"Scout": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		},
 		"Junior College": {
 			"2005": {},
@@ -4588,7 +4860,136 @@
 					"Ensemble - Strings": "Distinction"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Badminton",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Canoeing",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band-Brass Ensemble": "Distinction",
+					"Band-Wind Ensemble": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Strings": "Distinction"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

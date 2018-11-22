@@ -17,7 +17,10 @@
 	"bus": "7 , 184 , 282 ",
 	"GeneralInformation": {
 		"Principal": "MRS NG- TEO SOCK HUA",
-		"Vice Principal": "MDM HONG GAY LEE",
+		"Vice Principal": [
+			"MDM HONG GAY LEE",
+			"MRS LIM- FOO BOON CHING"
+		],
 		"Vice Principal (Admin)": "MR WINSTON TAN WEE SING",
 		"School Vision": "Our vision of being 'a vibrant school that inspires excellence' aspires our students as one who is rooted in values, innovative in thoughts and passionate in actions.",
 		"School Mission": "Our mission is 'to nurture confident and self-directed learners who exhibit social responsibility and character'.",
@@ -444,7 +447,20 @@
 					"Girls' Brigade": "Bronze"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Brownies": "Silver",
+					"Girls' Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "129857"

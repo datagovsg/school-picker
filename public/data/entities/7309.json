@@ -104,7 +104,7 @@
 		]
 	},
 	"SpecialProgrammes": {
-		"Special Student Development Programmes Offered": "Aligned with the WHEEL philosophy, and the development of 21st century competencies, one signature programme of the school is the Fairfield Learning Experience (FLEX) week. During this week, students are exposed to various aspects of holistic education outside the classroom: Social Awareness, Outdoor Education, Values-in Action and Educational and Career Guidance. The school also offers the 'Voice of a Fairsian' Oracy programme which prepares students to speak with confidence both in English as well as their Mother Tongue. Besides learning to be effective communicators, students also develop a personal voice with which they articulate, persuade and convince others. The Life Science Programme, Inter-disciplinary River Study Project, and Community Problem-Solving Project are other learner-centric academic programmes which enable our students to develop academic thinking and skills. Our Character & Citizenship Education Programme, as well as weekly chapel and daily devotions, emphasises values and lifeskills and provides opportunities for students to be a blessing to the community. To bring about a student-led school, we offer a comprehensive leadership training programme for all students--they learn to lead themselves and influence their peers.  More specific and specialised training is also provided to advance the leadership competencies of student leaders."
+		"Special Student Development Programmes Offered": "Aligned with the WHEEL philosophy, and the development of 21st century competencies, one signature programme of the school is the Fairfield Learning Experience (FLEX) week. During this week, students are exposed to various aspects of holistic education outside the classroom: Social Awareness, Outdoor Education, Values-in Action and Educational and Career Guidance. The school also offers the 'Voice of a Fairsian' oracy programme which prepares students to speak with confidence both in English as well as their Mother Tongue. Besides learning to be effective communicators, students also develop a personal voice with which they articulate, persuade and convince others. The Life Science Programme, Inter-disciplinary River Study Project, and Community Problem-Solving Project are other learner-centric academic programmes which enable our students to develop academic thinking and skills. Our Character & Citizenship Education Programme, as well as weekly chapel and daily devotions, emphasises values and lifeskills and provides opportunities for students to be a blessing to the community. To bring about a student-led school, we offer a comprehensive leadership training programme for all students--they learn to lead themselves and influence their peers.  More specific and specialised training is also provided to advance the leadership competencies of student leaders."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -119,6 +119,11 @@
 				"Outstanding Development Award": "ODA (Character Development)"
 			},
 			"2017": {
+				"School Distinction Awards": "SDA",
+				"Development Award": "DA (National Education)",
+				"Outstanding Development Award": "ODA (Character Development)"
+			},
+			"2018": {
 				"School Distinction Awards": "SDA",
 				"Development Award": "DA (National Education)",
 				"Outstanding Development Award": "ODA (Character Development)"
@@ -423,6 +428,126 @@
 						"'C' Div"
 					],
 					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Squash",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Squash",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
 				}
 			],
 			"SYF": [
@@ -498,6 +623,31 @@
 				},
 				{
 					"year": "2017",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
 					"category": "Ensemble - Guitar",
 					"award": "Accomplishment"
 				}
@@ -577,6 +727,31 @@
 					"year": "2017",
 					"category": "Red Cross",
 					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Sea)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Red Cross",
+					"award": "Gold"
 				}
 			]
 		}
@@ -695,8 +870,6 @@
 		"TN",
 		"CL"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "7309"
 }

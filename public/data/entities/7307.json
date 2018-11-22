@@ -41,8 +41,6 @@
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
 		"Computer Applications",
 		"Design & Technology",
 		"Elements Of Business Skills",
@@ -52,6 +50,8 @@
 		"Geography",
 		"Higher Chinese",
 		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
 		"Literature(E)",
 		"Malay",
 		"Mathematics",
@@ -91,7 +91,7 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"STEM": "Developing sustainable, safe and secure living spaces through Smart home systems",
+			"STEM": "Building Smart Homes with a Big Heart",
 			"Music & Performing Arts": "Learning through the ARTS"
 		},
 		"Special Student Development Programmes Offered": "A Building Learning Power approach complemented with elements of mindfulness is infused in the character education and academic curriculum.  Through direct instruction of key thinking competencies and basic mindfulness ideas, students are equipped with good habits and skills for more effective learning; and to solve challenges they may encounter with greater confidence.  The school's signature Applied Learning Programme in Smart Home and Assistive Technology is carried out with the support of Science Centre and IMDA.  This introduces students to sensor technology, electronics and simple coding in designing solutions for the modern home in aid of the elderly and disabled.  It is aligned to the school's values-focused orientation to enable students to play a part in contributing towards a compassionate and caring society. The school is developing another niche through its Learning through the Arts programme.  Student interest and skills in the aesthetics will be developed through experiencing music, art and drama with students as participants in enrichment workshops; and as performers in both school and public platforms. This will serve to strengthen their abilities for teamwork and self-expression. Those with the talent and passion can further develop themselves by joining our visual and performing arts CCAs - all of whom have attained high standards. Finally, there is also a whole school commitment in championing Reading Literacy in the young for personal growth, wisdom and excellence."
@@ -115,6 +115,16 @@
 					"subCategory": [
 						"National",
 						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
 						"'B' Div"
 					],
 					"award": "4th"
@@ -185,6 +195,26 @@
 					"year": "2017",
 					"category": "Dance - Chinese",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -246,6 +276,26 @@
 				{
 					"year": "2017",
 					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
 					"award": "Gold"
 				}
 			]
@@ -366,8 +416,6 @@
 		"MP",
 		"TP"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "7307"
 }

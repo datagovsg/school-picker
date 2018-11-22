@@ -4,7 +4,7 @@
 	"levels": "S",
 	"uen": " T07GS7112D",
 	"logo": "./Medias/Images/Schools/logos/tn_7112.jpg",
-	"website": "http://www.nanchiauhigh.moe.edu.sg",
+	"website": "https://nchs.edu.sg",
 	"address": "20, ANCHORVALE LINK ( 545079 )",
 	"telephone": [
 		"64897971"
@@ -12,7 +12,7 @@
 	"fax": [
 		"64897970"
 	],
-	"email": "NCHS@MOE.EDU.SG",
+	"email": "nchs@moe.edu.sg",
 	"mrt": "SENGKANG MRT, RENJONG LRT, TONGKANG LRT",
 	"bus": "43 , 83 , 85 , 109 , 156 , 159 , 161 , 163 , 372 ",
 	"GeneralInformation": {
@@ -62,7 +62,6 @@
 			"Badminton",
 			"Basketball",
 			"Table Tennis",
-			"Track & Field",
 			"Wushu"
 		],
 		"Uniformed Groups": [
@@ -99,8 +98,8 @@
 			"SAP"
 		],
 		"School Distinctive Programmes": {
-			"STEM": "Science Research Programme",
-			"Music & Performing Arts": "Literary Arts (Bilingual) -- Enhancing Expression, Creativity and Aesthetics Appreciation (ECAA) through the ARTS"
+			"STEM": "Electronics in Health Sciences and Health Care Technology",
+			"Music & Performing Arts": "Enhancing Expression, Creativity and Aesthetics Appreciation (ECAA) through the ARTS (Drama, Puppetry and Creative Lyrics Composition)"
 		},
 		"Special Student Development Programmes Offered": "Our SAP Bicultural Flagship Programme aims to nurture bicultural learners who can thrive in a rising Asia. They will develop strong cultural intelligence and be adept in the appreciation of Chinese and other cultures. "
 	},
@@ -667,7 +666,33 @@
 					"Scout (Unit 1)": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "ODA (National Education)",
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Distinction",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Gold",
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

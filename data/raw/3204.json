@@ -69,6 +69,7 @@
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF A/C",
+		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
@@ -111,7 +112,7 @@
 		"MOE Programmes": [
 			"ART ELECTIVE PROGRAMME"
 		],
-		"Special Student Development Programmes Offered": "The school offers a comprehensive range of distinctive programmes that complements our curriculum to provide BPians with a holistic learning experience.  The Code for Fun Programme is offered to all BPians to enhance their information and communication technology (ICT) skills so they will be able to navigate the changing digital landscape.  The Applied Science Programme provides an opportunity for all BPians to harness the knowledge they have learnt from different disciplines and apply it on an investigative research task that hones the inquiry and critical thinking skills and encourages them to pursue their passion in Science.  Under the Elective Programme in Malay Language in Secondary Schools (EMAS), BPians undergo a structured curriculum and local and overseas enrichment programmes to develop a deeper appreciation of the Malay Language and culture.  Through the Art Elective Programme, BPians hone and develop their aesthetic skills in various art forms including painting, ceramics, sculpturing, design digital art and mixed media.  Other special programmes to develop the desired qualities and competencies among BPians include the Leadership Development Programme, Cross-cultural Programme and Apprenticeship and Work Attachment Programmes."
+		"Special Student Development Programmes Offered": "The school offers a comprehensive range of distinctive programmes that complements our curriculum to provide BPians with a holistic learning experience.  The Code for Fun Programme (CFF) is offered to all BPians to enhance their information and communication technology (ICT) skills so they will be able to navigate the changing digital landscape.  The Applied Science Programme (ASP) provides an opportunity for all BPians to harness the knowledge they have learnt from different disciplines and apply it on an investigative research task that hones the inquiry and critical thinking skills and encourages them to pursue their passion in Science.  Under the Elective Programme in Malay Language in Secondary Schools (EMAS), BPians undergo a structured curriculum and local and overseas enrichment programmes to develop a deeper appreciation of the Malay Language and culture.  Through the Art Elective Programme (AEP), BPians hone and develop their aesthetic skills in various art forms including painting, ceramics, sculpturing, design digital art and mixed media.  Other special programmes to develop the desired qualities and competencies among BPians include the Leadership Development Programme, Cross-cultural Programme and Apprenticeship and Work Attachment Programmes."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1244,7 +1245,96 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"1st",
+						"3rd",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Accomplishment",
+					"Band-Display": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Drama - Chinese": "Commendation",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Gamelan": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Girl Guides": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Scout": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

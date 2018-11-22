@@ -20,8 +20,8 @@
 	"GeneralInformation": {
 		"Principal": "Mdm Neo Lay Wah",
 		"Vice Principal": [
-			"Ms Farah Aida Binte Rahmat",
-			"Mr Ho Fu Chew"
+			"Mr Ho Fu Chew",
+			"Mr Mohamed Imran B Mohamed Ihsan"
 		],
 		"School Vision": "A School that inspires individuals to be their best",
 		"School Mission": "To Instil a Lively Curiosity and Graciousness in Every Pupil",
@@ -200,6 +200,41 @@
 					"year": "2017",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -212,6 +247,11 @@
 					"year": "2017",
 					"category": "Brownies (Pack 1)",
 					"award": "Bronze"
+				},
+				{
+					"year": "2018",
+					"category": "Brownies",
+					"award": "Silver"
 				}
 			]
 		}
@@ -233,8 +273,7 @@
 		"CH"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"studentCare": true,
 	"p1Registration": {

@@ -31,6 +31,7 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART",
+		"ART NA LEVEL",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
@@ -60,8 +61,8 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Badminton (Boys Only)",
-			"Basketball (Boys And Girls)",
+			"Badminton",
+			"Basketball",
 			"Football",
 			"Netball",
 			"Softball (Girls Only)"
@@ -71,7 +72,7 @@
 			"Girls' Brigade",
 			"Ncc (Sea)",
 			"Npcc",
-			"St. John Brigade"
+			"St John Brigade"
 		],
 		"Visual and Performing Arts": [
 			"Band - Symphonic",
@@ -84,7 +85,7 @@
 			"Visual Arts"
 		],
 		"Clubs & Societies": [
-			"Infocomm Club",
+			"Infocomm",
 			"Robotics Club"
 		]
 	},
@@ -93,10 +94,10 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Languages & Humanities": "Global Citizenship Education through Critical Social Inquiry (GCE through CSI)",
+			"Languages & Humanities": "Global Citizenship Education through Critical Social Inquiry",
 			"Music & Performing Arts / Visual Arts & Design": "Arts for Life"
 		},
-		"Special Student Development Programmes Offered": "In nurturing motivated thinkers and inventive leaders, Riverside Secondary School considers student interests and talents, and provide for diverse opportunities within and beyond the classroom to experience learning in authentic settings. The school has customised its instructional curriculum to 'engage' students through creative approaches, 'enhance' their learning through differentiated teaching, 'empower' them to direct their own learning, 'enrich' their learning through our distinctive programmes and 'evaluate' their performance using multi-modal assessment. A range of pedagogies such as Multiple Intelligences, Problem-based Learning and Socratic Questioning are employed. Students also embark on engaging experiential learning activities such as field-based learning and investigative project work. Our Applied Learning Programme (ALP) - 'Global Citizenship Education through Critical Social Inquiry' - aims to nurture ethical leaders with a strong sense of purpose, discernment, compassion and empathy to create a better world for all. This programme includes customised lessons as well as activities for students to sharpen their innate sense of citizenry and develop a global identity, such as social debates, work-attachment and internationalisation programmes. 'Arts for Life,' our Learning for Life Programme (LLP) provides opportunities for our students to appreciate and experience local and global art-forms, cultures and traditions, and to develop a sensitivity to and respect for the world around them. We want them to be creative individuals with perceptual abilities and a wider repertoire of self-expression."
+		"Special Student Development Programmes Offered": "In nurturing motivated thinkers and inventive leaders, Riverside Secondary School considers student interests and talents, and provide for diverse opportunities within and beyond the classroom to experience learning in authentic settings. The school has customised its instructional curriculum to 'engage' students through creative approaches, 'enhance' their learning through differentiated teaching, 'empower' them to direct their own learning, 'enrich' their learning through our distinctive programmes and 'evaluate' their performance using multi-modal assessment. A range of pedagogies such as Multiple Intelligences, Problem-based Learning and Socratic Questioning are employed. Students also embark on engaging experiential learning activities such as field-based learning and investigative project work. Our Applied Learning Programme (ALP) - 'Global Citizenship Education through Critical Social Inquiry' - aims to nurture ethical leaders with a strong sense of purpose, discernment, compassion and empathy to create a better world for all. This programme includes customised lessons as well as activities for students to sharpen their innate sense of citizenry and develop a global identity, through social debates, work-attachment and internationalisation programmes. 'Arts for Life,' our Learning for Life Programme (LLP) provides opportunities for our students to appreciate and experience local and global art-forms, cultures and traditions, and to develop a sensitivity to and respect for the world around them. We want them to be creative individuals with perceptual abilities and a wider repertoire of self-expression."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -453,7 +454,28 @@
 					"St John Ambulance Brigade": "Bronze"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold",
+					"Ncc (Sea Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Silver"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

@@ -19,7 +19,7 @@
 	],
 	"bus": "51 , 139 , 186 , 970. ",
 	"GeneralInformation": {
-		"Principal": "Mdm Chew Bee Lay",
+		"Principal": "Mrs Lim Bee Lay",
 		"Vice Principal": [
 			"Miss Chan Yan Hoon",
 			"Mdm Noraini Bte Mansoor"
@@ -92,6 +92,21 @@
 					"year": "2016",
 					"category": "Art - Category A",
 					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Commendation"
 				}
 			],
 			"Best Unit Award": []
@@ -114,8 +129,7 @@
 		"CA"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"studentCare": true,
 	"p1Registration": {

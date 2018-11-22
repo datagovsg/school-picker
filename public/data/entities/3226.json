@@ -99,7 +99,7 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"STEM": "Fostering 21st Century Competencies through Design Thinking",
+			"STEM": "Health Sciences: Healthcare technologies for the elderly",
 			"Community & Youth Leadership": "Community and Youth Leadership in Hua Yi"
 		},
 		"Special Student Development Programmes Offered": "Since 1956, Hua Yi has developed a comprehensive values-based curriculum focussed on developing Hua Yians to be empathetic, resilient, passionate and glocal (global and local in perspective) citizens. Hua Yi's vibrant school heritage and culture provides a caring, authentic environment for students to participate in a wide range of quality programmes. Our Applied Learning Programme in Healthcare Technologies for the Elderly deepens awareness of healthcare issues facing the elderly in Singapore. It develops in students skills and innovative mindsets through learning journeys, elective modules and school-based experiences integrated across academic subjects. Our Learning for Life Programme in Community Youth Leadership develops in all Hua Yians a range of leadership and socio-emotional competencies through the Leadership Challenge Model and its 5 core leadership practices. Student leaders grow to become confident, responsible and socially aware, and have opportunities to serve beyond the school. These are combined with a range of exciting co-curricular experiences for all students, including a focus on our DSA talent areas of sport, student leadership and the performing and visual arts. Hua Yians have opportunities for cultural immersion in Thailand, Indonesia and Taiwan, and resources are set aside in a Talent Development Programme to ensure that students receive customised support to fulfil their potential. Hua Yi emphasises a student-centric curriculum, with school-wide programmes which develop a sense of belonging, joy of learning and culture of care. These includes our signature Start It Right! activities in January, colourful House programme, Level Learning Programmes and camps, Learning Fiesta, Montage school concert, Drop Everything and Read (DEAR), and semestral post-exam activities. These programmes are enriched by the sustained support of our passionate alumni and committed PSG, providing Hua Yians with a school experience that prepares them for life."
@@ -140,6 +140,26 @@
 						"Zone",
 						"Girls",
 						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
 					],
 					"award": "2nd"
 				}
@@ -284,6 +304,46 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -344,6 +404,26 @@
 				},
 				{
 					"year": "2017",
+					"category": "Red Cross",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
 					"category": "Red Cross",
 					"award": "Silver"
 				}
@@ -465,5 +545,6 @@
 		"TH",
 		"WC"
 	],
+	"specialNeeds": [],
 	"id": "3226"
 }

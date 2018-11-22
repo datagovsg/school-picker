@@ -99,7 +99,7 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"STEM": "Chemical and Life Sciences (Perfumery)",
-			"Community & Youth Leadership": "i-LEAD @ Bartley"
+			"Community & Youth Leadership": "i-LEAD @ Bartley (Leadership Experience and Development)"
 		},
 		"Special Student Development Programmes Offered": "The school's Learning for Life Programme (LLP) is on Community Youth Leadership. As part of the LLP, all Bartleyans undergo the Student Leadership Development Programme, coupled with Outdoor Experiential Learning, to nurture them to be courageous, optimistic and responsible leaders of self and for others. The 7 Habits of Highly Effective Youths (7 HEY) programme underpins the school's character development effort. Through this programme, students learn to live out the school's motto of Facta Non Verba (Deeds not Words). "
 	},
@@ -231,6 +231,31 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -293,6 +318,26 @@
 					"year": "2017",
 					"category": "Red Cross",
 					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Air)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Red Cross",
+					"award": "Silver"
 				}
 			]
 		}
@@ -414,8 +459,6 @@
 		"SG",
 		"CC"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3002"
 }

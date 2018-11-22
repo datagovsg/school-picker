@@ -106,7 +106,7 @@
 		"MOE Programmes": [
 			"Art Elective Programme"
 		],
-		"Special Student Development Programmes Offered": "Zhonghua signature programmes are integrated under 3 broad strands of education, namely: Science and Technology Education, Environmental and Sustainability Education and Glocal Perspective Education. Zhonghua is the South Zone Centre of Excellence for Science and students across all levels are given opportunities to discover the wonders of Science and its applications through experiential and student-centred learning activities. All our lower secondary students go through Design Thinking to equip every child with a problem-solving mindset, to come up with innovative solutions in the design of products to meet human-centric needs. Riding on the push for STEM education, our Robotics and Computing Programme has been integrated into our lower-secondary science and mathematics curricula for enhancing programming and creative problem-solving skills. Our Environmental and Sustainability Education prepares our students to be future-ready leaders who reflect and research on the challenges that the world faces through experiential and collaborative learning experiences that take them beyond the classroom. Our MOE Art Elective Programme (AEP) adopts the Lincoln Centre Education approach that develops students' capacities for imagination and enables them to realise their artistic potential through a rigorous 4-year programme. Complementing this, the Glocal Perspective Education nurtures students to be cultured, caring and global citizens with a 'think-global-act-local' education by providing them with a plethora of opportunities to engage in a range of cultural activities and global immersion opportunities. The Student Leadership Programme nurtures forward-looking leaders with integrity and commitment to serve the school, community and nation and provides tiered leadership training and experiences to all students to level up their leadership competencies. Our Talent Development Programme also provides programmes tailored to stretch the potential of selected students."
+		"Special Student Development Programmes Offered": "Zhonghua's signature programmes are integrated under 3 broad strands of education, namely: Science and Technology Education, Environmental and Sustainability Education and Glocal Perspective Education. Zhonghua is the South Zone Centre of Excellence for Science and students across all levels are given opportunities to discover the wonders of Science and its applications through experiential and student-centred learning activities. All lower secondary students go through the Design Thinking process to develop a problem-solving mindset and come up with innovative solutions to meet human-centric needs. Riding on the push for STEM education, our Robotics and Computing Programme and new Data Literacy module equip our students with creative problem-solving, analytical and programming skills. Our Environmental and Sustainability Education prepares our students to be future-ready leaders who reflect and research on the challenges that the world faces through experiential and collaborative learning experiences that take them beyond the classroom. Our MOE Art Elective Programme (AEP) adopts the Lincoln Centre Education approach that develops students' capacities for imagination and enables them to realise their artistic potential through a rigorous 4-year programme. Complementing this, the Glocal Perspective Education nurtures students to be cultured, caring and global citizens with a 'think-global-act-local' education by providing them with a plethora of opportunities to engage in a range of cultural activities and global immersion opportunities. The Student Leadership Programme nurtures forward-looking leaders with integrity and commitment to serve the school, community and nation and provides tiered leadership training and experiences to all students to level up their leadership competencies. Our Talent Development Programme also provides programmes tailored to stretch the potential of selected students."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -125,6 +125,9 @@
 				]
 			},
 			"2017": {
+				"School Distinction Awards": "SDA"
+			},
+			"2018": {
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
@@ -307,6 +310,56 @@
 						"'C' Div"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Gymnastics (Artistic)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Gymnastics (Trampoline)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -449,6 +502,51 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Wind Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -539,6 +637,36 @@
 				},
 				{
 					"year": "2017",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "St John Ambulance Brigade",
 					"award": "Gold"
 				}
@@ -660,8 +788,6 @@
 		"SE",
 		"TP"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3240"
 }

@@ -77,7 +77,7 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Music & Performing Arts": "ECLIP (Every Child Leads in Instrumental Performance)"
+			"Sports & Outdoor Education": "Every Child a Leader @ JPS (ECAL @ JPS)"
 		},
 		"Special Student Development Programmes Offered": "JPS is committed to giving each child a broad and deep foundation for a lifelong journey of learning.  Holistic education is about nurturing the whole child, developing in our children an enduring core of skills, dispositions and competencies, steeped in values and character, to enable them to thrive in the future workplace, and more importantly, lead purposeful and meaningful lives."
 	},
@@ -89,7 +89,18 @@
 			"2016": {
 				"Development Award": "PARTNERS (Merit)"
 			},
-			"Sports & Games Competition": [],
+			"Sports & Games Competition": [
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				}
+			],
 			"SYF": [
 				{
 					"year": "2015",
@@ -210,6 +221,51 @@
 					"year": "2017",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Brass Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Percussion Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -232,6 +288,11 @@
 					"year": "2017",
 					"category": "Scout",
 					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Bronze"
 				}
 			]
 		}
@@ -254,9 +315,7 @@
 		"CL",
 		"WI"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 210,

@@ -80,7 +80,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Sports & Outdoor Education": "Track and Field – Nurturing Confident Sportsmen of Good Character Grounded on Strong Values"
+			"Sports & Outdoor Education": "Character Through Sports"
 		},
 		"Special Student Development Programmes Offered": "At Gongshang Primary, we are committed to providing all students with a holistic education through our student-centric holistic curriculum. The school's Instructional Programmes are customised to cater to the needs of our students through a myriad of student-centred approaches and diverse learning experiences focusing on development of the 21st Century competencies. We are committed to providing our students an education in which academic learning is well-balanced with character building and co-curricular activities. The school's Learning for Life Programme (LLP), Character Through Sports, is drawn up based on a 6-year progressive programme outcome.  It provides all pupils with authentic learning experiences to hone their social emotional competencies to demonstrate the core values of responsibility, integrity, care, resilience, teamwork and harmony. This is done through 3 domains of learning, namely cognitive, affective and psychomotor. Through experiential and authentic learning, both local and overseas, these domains will be nurtured through the 3 main thrusts, that is, Sports & Games, Outdoor Education and Leadership to ensure pervasiveness and porosity. Anchored on the Character Through Sports Framework, the focus is based on a tiered approach, that is, catering to the entire cohort at lower primary (Primary 1 and 2), level specific customised approach at Primary 2 and 3, culminating to specialised and focused training for identified students at Primary 4 to 6. Customised programmes such as the cohort level camps at Primary 4 and Primary 6, Values-In-Action programmes and cross cultural experiences  reinforce the learning through providing opportunities for students to step out of their comfort zone to challenge themselves to be creative thinkers who are independent, resilient, respectful and are able to work collaboratively  in teams."
 	},
@@ -1344,7 +1344,133 @@
 					"Scout": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div"
+					],
+					[
+						"Track & Field",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div"
+					],
+					[
+						"Track & Field",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition",
+					"Dance - Chinese": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment",
+					"Ensemble - Handbell / Handchime": "Accomplishment",
+					"Ensemble - Strings": "Commendation"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "529176"

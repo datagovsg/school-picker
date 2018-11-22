@@ -76,6 +76,7 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
+			"Languages": "LEAPS (Learn, Engage, Articulate & Perform!)",
 			"Sports & Outdoor Education": "OLN SPARK (SPorts Active and Resilient Kids)"
 		},
 		"Special Student Development Programmes Offered": "Character: A series of six teacher-designed G.R.A.C.I.A. STAR booklets is used to inculcate the G.R.A.C.I.A values progressively from P1 to P6.  The booklets were developed in line with the school's V-LIVE (Vision realized through Love, Internalization, Values-based education and Engagement of stakeholders) framework for CCE. "
@@ -242,6 +243,46 @@
 						"Senior"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -344,6 +385,36 @@
 					"year": "2017",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -376,6 +447,16 @@
 					"year": "2017",
 					"category": "Brownies (Pack 2)",
 					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Brownies (Pack 2)",
+					"award": "Gold"
 				}
 			]
 		}
@@ -398,9 +479,7 @@
 		"SG",
 		"TP"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"p1Registration": {
 		"TOTAL VACANCY": 240,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,

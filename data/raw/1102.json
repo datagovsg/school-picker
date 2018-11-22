@@ -70,7 +70,7 @@
 		],
 		"School Distinctive Programmes": {
 			"Music & Performing Arts": "D'Aesthetics@Damai",
-			"Sports & Outdoor Education": "SPARKS@Play"
+			"Sports & Outdoor Education": "Damai Champions of Character (D'COACH) Programme"
 		},
 		"Special Student Development Programmes Offered": "Learning for Life Programme (LLP), Programme for Active Learning (PAL), Swimsafer Programme, Math Enrichment Programmes"
 	},
@@ -704,7 +704,73 @@
 					"Red Cross": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Floorball",
+						"4th",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"3rd",
+						"3rd",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "479226"

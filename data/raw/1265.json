@@ -50,7 +50,8 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Science": "Sustaining the Earth with Applied Solutions (SEAS)"
+			"Science": "Sustaining the Earth with Applied Solutions (SEAS)",
+			"Sports & Outdoor Education": "Joyful ExperienC.E. @ West Spring (ExperienC.E. – Experience Challenging Endeavours)"
 		},
 		"Special Student Development Programmes Offered": "The school believes in nurturing both the academic potential of our students and their character development. "
 	},
@@ -74,7 +75,13 @@
 					"Art - Category B": "Recognition"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Dance - International": "Accomplishment",
+					"Art - Category A": "Recognition"
+				}
+			}
 		}
 	},
 	"postalCode": "679946"

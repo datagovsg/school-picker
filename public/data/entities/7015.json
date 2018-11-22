@@ -95,7 +95,7 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"STEM": "WISE Saints Engineering Design Programme",
+			"STEM": "Saints Engineering Design Programme",
 			"Sports & Outdoor Education": "Saints Rugby for Life"
 		},
 		"Special Student Development Programmes Offered": "In St Andrew's Secondary, we develop Saints to be Servant Leaders, equipped with 21st Century competencies including critical thinking and grounded with WISE and TRUE values. Saints undertake a variety of Values-in-action projects to serve the community, both local and overseas. The school offers customised programmes to cater to students with varied interests and strengths. The RKS Adams programme stretches our Express students who are academically strong while the Francis Thomas programme nurtures students to be self-directed learners. The Jacob's Ladder programme engages students in the Normal (Academic) stream to build a strong learning disposition. The Marshall Plan develops students in the Normal Technical stream with the life-skills to harness their potential. At the Lower Secondary level our Applied Learning programme on Engineering Design equips Saints with problem solving skills using the Design Thinking process. Saints get to identify themselves as engineers and are inspired to creatively design solutions to authentic issues. In key programmes like the Young Scientist programme and the Oral History project, Saints learn and apply problem solving skills in real world contexts. At Upper Secondary level, Saints embark on project-based learning via the Elective subjects they pursue. This encourages discovery, exploratory learning and problem solving so that they can make sense of their world and are better prepared for work. Our distinctive Rugby for Life programme leverages on the school's long standing tradition in this rugged and disciplined sport."
@@ -114,6 +114,10 @@
 				"Outstanding Development Award": "ODA (Character Development)"
 			},
 			"2017": {
+				"School Distinction Awards": "SDA",
+				"Special Awards": "LHL Award for Innovation in the Normal Course"
+			},
+			"2018": {
 				"School Distinction Awards": "SDA",
 				"Special Awards": "LHL Award for Innovation in the Normal Course"
 			},
@@ -297,6 +301,66 @@
 						"'C' Div"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Taekwondo (Kyorugi)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Cricket",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -352,6 +416,26 @@
 				},
 				{
 					"year": "2017",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
 					"category": "Drama - English",
 					"award": "Distinction"
 				}
@@ -429,6 +513,31 @@
 				},
 				{
 					"year": "2017",
+					"category": "St John Ambulance Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "St John Ambulance Brigade",
 					"award": "Silver"
 				}
@@ -552,8 +661,6 @@
 		"SG",
 		"CC"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "7015"
 }

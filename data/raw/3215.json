@@ -102,7 +102,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Business & Entrepreneurship": "Excellence Through Business and Enterprise",
+			"Business & Entrepreneurship": "Business and Enterprise",
 			"Sports & Outdoor Education": "Sports for Life"
 		},
 		"Special Student Development Programmes Offered": "In line with the vision of a 'Good School', we believe in providing our students with rich, rigorous and diverse learning experiences. Besides motivating them with interesting, hands-on activities during instructional programmes, emphasis is also placed on Character and Citizenship Education via CCAs, Social Emotional Learning (SEL), National Education (NE), Assembly and Enrichment Programmes."
@@ -705,7 +705,74 @@
 					"Npcc (Land)": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Squash",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band-Wind Ensemble": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc (Land)": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

@@ -17,7 +17,10 @@
 	"bus": "3 , 4 , 8 , 9 , 12 , 17 , 18 , 19 , 21 , 28 , 29 , 34 , 37 , 38 , 39 , 59 , 81 , 291 , 293 , 518 , 552 ",
 	"GeneralInformation": {
 		"Principal": "MR LIM TSUN KHEE ALBERT",
-		"Vice Principal": "MDM TAN LAY GIN",
+		"Vice Principal": [
+			"MDM TAN LAY GIN",
+			"MR TEO KOK HONG"
+		],
 		"Vice Principal (Admin)": "MR TAN KOCK LEONG",
 		"School Vision": "An Icon of Excellence and the Pride of the Community.",
 		"School Mission": "Building Character, Expanding Minds, Shaping Lives.",
@@ -65,7 +68,6 @@
 		"Physical Sports": [
 			"Badminton",
 			"Basketball",
-			"Outdoor Adventure Club",
 			"Volleyball (Girls)",
 			"Wushu"
 		],
@@ -82,13 +84,13 @@
 			"Concert Band",
 			"English Drama",
 			"International Dance",
-			"Jam Band",
-			"Media Club",
 			"Photography Club"
 		],
 		"Clubs & Societies": [
 			"Infocomm And Robotics Club",
-			"International Chess"
+			"International Chess",
+			"Media Club",
+			"Outdoor Activities Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -1335,7 +1337,83 @@
 					"Scout (Unit 1)": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"4th",
+						"-",
+						"4th"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"3rd",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Strings": "Commendation"
+				},
+				"Best Unit Award": {
+					"Girl Guides": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

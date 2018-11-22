@@ -76,7 +76,7 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Interdisciplinary": "Innovations through Problem Solving Approaches",
+			"Science": "F.R.I.E.N.D of Earth",
 			"Music & Performing Arts": "ACE the Arts (Appreciate, Create, Explore to Excel)"
 		},
 		"Special Student Development Programmes Offered": "STRIVE@WVPS is a signature programme designed for our primary 3 to 6 pupils. It is a school-based modular CCA programme for P3 to P6. It aims to make schooling an exciting and enjoyable experience for pupils. It focuses on real-life experimental learning to develop pupils' character and values. It serves to broaden pupils' learning in authentic settings that can further challenge them to grow and develop. As pupils enjoy learning, they will be motivated and poised to strive for excellence cognitively, aesthetically, physically and socio-emotionally. "
@@ -250,6 +250,36 @@
 					"year": "2017",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -265,6 +295,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "Scout",
 					"award": "Gold"
 				}
@@ -288,9 +323,7 @@
 		"SK",
 		"CK"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 210,

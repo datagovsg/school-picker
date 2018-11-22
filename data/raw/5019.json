@@ -79,7 +79,7 @@
 		],
 		"School Distinctive Programmes": {
 			"Science": "Science and Environment Education @ OLQP (SEE @ OLQP)",
-			"Sports & Outdoor Education": "Character Lives In My Behaviour (CLIMB) Through Sports"
+			"Sports & Outdoor Education": "Character Lives In My Behaviour through sports (CLIMB)"
 		},
 		"Special Student Development Programmes Offered": "In 2016, the school was awarded the Best Practice Award for Student All-Round Development by MOE.  Our school's Applied Learning Programme, Science and Environment Education @ CHIJ OLQP' has a spiral approach, teaching our students' science and environment through experiential and applied learning. 'Character Lives In My Behaviour through Sports' is our Learning for Life Programme (LLP) where all students have opportunities to be engaged in physical activities to gain positive experiences through values-driven, student-centric physical education and sports programme. "
 	},
@@ -803,7 +803,71 @@
 					"Dance - International": "Accomplishment"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"2nd",
+						"1st"
+					],
+					[
+						"Softball",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment"
+				}
+			}
 		}
 	},
 	"postalCode": "679287"

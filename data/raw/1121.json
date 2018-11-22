@@ -55,7 +55,7 @@
 		],
 		"School Distinctive Programmes": {
 			"Science": "Science for Life @ HPPS",
-			"Sports & Outdoor Education": "Nurturing Talents Through Gymnastics"
+			"Sports & Outdoor Education": "Sports4Life @ HHPS"
 		},
 		"Special Student Development Programmes Offered": "1. The \"Character Education Programme\" seeks to imbue strong values in our students and develop in them a deep sense of belonging and rootedness to Singapore. Students learn about empathy and care for the environment and fellow citizens through VIA projects. 2. The \"Applied Learning Programme\" enables students to apply scientific skills and concepts in real-life situation through inquiry, while the IvP provides a unique opportunity for them to develop their problem-solving & inventive skills. 3. \"Sports4Life@HPPS\" aims to build character and instil values through sports and outdoor education. Another key feature of the LLP is the Sports Leaders Development Programme, which focuses on developing students in the physical and leadership domains. There is also a modular Gymnastics Programme for P1 and 2 students to develop their motor skills, and build flexibility, agility and strength - fundamental to the development of advanced motor skills. 4. In the \"Literature Programme\", students are taught how to be sensitive and empathetic towards others alongside with the appreciation and analysis of good language use. 5. The \"Programme for Active Learning\" exposes the lower primary students to varied & fun learning experiences in four domains - Sports & Games, Outdoor Education, Performing and Visual Arts - to nurture their socio-emotional competencies, curiosity, co-operative skills and confidence. 6. To prepare our students to have a global outlook, the school partners The Japanese School to arrange student and teacher exchanges as well as Homestay Programme for P5 students."
 	},
@@ -1711,7 +1711,186 @@
 					"Scout": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					],
+					[
+						"Badminton",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"4th",
+						"1st",
+						"2nd",
+						"2nd"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"3rd",
+						"4th",
+						"3rd"
+					],
+					[
+						"Tennis",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div"
+					],
+					[
+						"Track & Field",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div"
+					],
+					[
+						"Track & Field",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div"
+					],
+					[
+						"Golf",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Commendation",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Brownies": "Gold",
+					"Girls' Brigade": "Gold",
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "278790"

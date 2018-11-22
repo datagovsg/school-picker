@@ -110,7 +110,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Languages & Humanities": "Crestian Communicators of the 21st Century",
+			"Languages & Humanities": "Effective Communicators of the 21st Century",
 			"Music & Performing Arts": "Nurturing Crestian Leaders of Tomorrow through Music and the Performing Arts"
 		},
 		"Special Student Development Programmes Offered": "The school's Applied Learning Programme (ALP), Crestian Communicators of the 21st Century, aims to develop Crestians to be confident and effective communicators. All students learn effective oral and written communication through its NICE and SPICE programme and Spontaneous and Critical Writing Programme. Students also apply the skills learnt through storytelling, news reporting, broadcasting, drama and persuasive communication. Our public speaking programme trains our students to think on their feet and present lucid and sound arguments. These skills are important in today's globalised world."
@@ -808,7 +808,25 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Drama - English": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Ncc (Land Girls)": "Gold",
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

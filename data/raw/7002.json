@@ -36,8 +36,6 @@
 		"CHINESE",
 		"CHINESE B",
 		"CIVICS & MORAL EDUCATION",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
@@ -46,6 +44,8 @@
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MALAY B",
@@ -55,7 +55,8 @@
 		"PROJECT WORK",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
-		"SOCIAL STUDIES"
+		"SOCIAL STUDIES",
+		"SOCIAL STUDIES N(T)"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -88,7 +89,7 @@
 		],
 		"School Distinctive Programmes": {
 			"Languages & Humanities": "Speak English with grAce and Knowledge (SPEAK)",
-			"Community & Youth Leadership": "Student Leadership Programme"
+			"Community & Youth Leadership": "Community and Youth Leadership"
 		},
 		"Special Student Development Programmes Offered": "To realise the school's vision to produce 'Men and Women of Character and Learning, in the service of God and Community', the school's Montfortian Achievers' Programme and range of Co-Curricular Activities provide valuable opportunities for students to develop self-confidence, self-discipline and social-emotional competencies through experiential learning and Values-in-Action projects in the school and community. Students look forward to annual camps and overseas learning journeys as they provide opportunities to build team spirit, discover their latent strengths, build cultural awareness and start friendships which will last a life-time. The school's Applied Learning Programme (ALP), SPEAK (SPeak English with grAce and Knowledge), aims to develop a love and appreciation for the English Language, and hone students' language ability so that they are effective and proficient users of the language. Through the ALP, students at the lower secondary levels will experience a range of language genres such as poetry and drama, with the chance to showcase their talents through competitions and events. At upper secondary, students will gain mastery of the language through specialised training such as debate, drama and public speaking, with opportunities to apply their skills through competitions, events and attachments.  The school's Learning for Life Programme (LLP) aims to nurture and inspire students who are committed to serve their communities with empathy. Students will be exposed to authentic experiences of community issues and needs and empowered to make positive differences to the lives of others."
 	},
@@ -784,7 +785,67 @@
 					"Red Cross": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Development Award": "DA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Judo",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Commendation",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Commendation"
+				},
+				"Best Unit Award": {
+					"Girl Guides": "Silver",
+					"Ncc (Sea Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

@@ -44,7 +44,7 @@
 			"Dance - International"
 		],
 		"Clubs & Societies": [
-			"Infocom Club"
+			"Infocomm/Robotic Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -117,6 +117,26 @@
 					"year": "2017",
 					"category": "Ensemble - Guitar",
 					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
@@ -139,8 +159,7 @@
 		"CA"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"studentCare": true,
 	"p1Registration": {

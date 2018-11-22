@@ -79,7 +79,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Interdisciplinary": "Innovations through Problem Solving Approaches",
+			"Science": "F.R.I.E.N.D of Earth",
 			"Music & Performing Arts": "ACE the Arts (Appreciate, Create, Explore to Excel)"
 		},
 		"Special Student Development Programmes Offered": "STRIVE@WVPS is a signature programme designed for our primary 3 to 6 pupils. It is a school-based modular CCA programme for P3 to P6. It aims to make schooling an exciting and enjoyable experience for pupils. It focuses on real-life experimental learning to develop pupils' character and values. It serves to broaden pupils' learning in authentic settings that can further challenge them to grow and develop. As pupils enjoy learning, they will be motivated and poised to strive for excellence cognitively, aesthetically, physically and socio-emotionally. "
@@ -728,7 +728,19 @@
 					"Scout": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "677742"

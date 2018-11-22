@@ -87,7 +87,7 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Aesthetics": "Developing critical and inventive thinkers through visual communication",
-			"Community & Youth Leadership": "Developing Character and Leadership through Uniformed Groups"
+			"Community & Youth Leadership": "Developing Confident & Compassionate Student Leaders to Lead, Serve & Excel"
 		},
 		"Special Student Development Programmes Offered": "The School Distinctive Programmes consist of the 2 key programmes: Learning For Life programme (LLP) and Applied Learning Programme (ALP). To strengthen our efforts to develop all-rounded students and prepare students for the challenges of tomorrow, our school has a Learning For Life programme (LLP) which focuses on character and leadership development. Through training in specific skills and involvement in customised projects and activities, students acquire leadership skills and life-skills such as collaborating effectively with one another. To equip our students with critical and inventive thinking skills so as to prepare them for the opportunities in a fast-changing world, the school has embarked on the Applied Learning Programme (ALP) through Visual Communication which allows them to explore various possibilities of visual representations to bring across their intended message. The ALP aims to develop visual expression and language as well as stimulate the students' creativity through photography. Starting from 2017, our school has offered our Special Talent Programme, the Enhanced Art Programme (EAP) which develops talents and enhances experience in Art through exposing our students to new medium and providing them opportunities to learn and work alongside art professionals and communities. To enhance the development of our students, our school partners with University Town (NUS) to implement the U-Town Mentoring Programme and University Scholars Writing Mentorship Programme."
 	},
@@ -102,6 +102,10 @@
 				"Outstanding Development Award": "ODA (National Education)"
 			},
 			"2017": {
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "ODA (National Education)"
+			},
+			"2018": {
 				"Development Award": "DA (Character Development)",
 				"Outstanding Development Award": "ODA (National Education)"
 			},
@@ -196,6 +200,31 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -263,6 +292,26 @@
 					"year": "2017",
 					"category": "Scout (Unit 1)",
 					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Gold"
 				}
 			]
 		}
@@ -349,8 +398,6 @@
 		"TN",
 		"CL"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3507"
 }

@@ -109,13 +109,16 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Languages & Humanities": "Crestian Communicators of the 21st Century",
+			"Languages & Humanities": "Effective Communicators of the 21st Century",
 			"Music & Performing Arts": "Nurturing Crestian Leaders of Tomorrow through Music and the Performing Arts"
 		},
 		"Special Student Development Programmes Offered": "The school's Applied Learning Programme (ALP), Crestian Communicators of the 21st Century, aims to develop Crestians to be confident and effective communicators. All students learn effective oral and written communication through its NICE and SPICE programme and Spontaneous and Critical Writing Programme. Students also apply the skills learnt through storytelling, news reporting, broadcasting, drama and persuasive communication. Our public speaking programme trains our students to think on their feet and present lucid and sound arguments. These skills are important in today's globalised world."
 	},
 	"AchievementHistory": {
 		"Secondary": {
+			"2018": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course"
+			},
 			"Sports & Games Competition": [
 				{
 					"year": "2015",
@@ -278,6 +281,36 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -368,6 +401,36 @@
 				},
 				{
 					"year": "2017",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Girls)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "St John Ambulance Brigade",
 					"award": "Gold"
 				}
@@ -489,8 +552,6 @@
 		"CH",
 		"TM"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3613"
 }

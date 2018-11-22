@@ -17,7 +17,10 @@
 	"bus": "167 , 169 , 171 , 800 , 811 , 812 , 856 , 858 , 859 , 969 , 980 ",
 	"GeneralInformation": {
 		"Principal": "MISS CHEAH POH LIAN",
-		"Vice Principal": "MDM HO JUN- LYNN",
+		"Vice Principal": [
+			"MDM HO JUN- LYNN",
+			"MR ANDY MICKEY CHOONG TEK CHOY"
+		],
 		"Vice Principal (Admin)": "MR WONG WAI HON",
 		"School Vision": "Global Learners, Discerning Citizens",
 		"School Mission": "Nurturing Hearts and Minds",
@@ -73,7 +76,7 @@
 		],
 		"School Distinctive Programmes": {
 			"Languages": "J-YEAR (Jiemin- Young Editors And Reporters )",
-			"Music & Performing Arts/ Visual Arts & Design": "Through JPS Aesthetics – I Discover, I Possess, I Serve"
+			"Music & Performing Arts": "Aesthetics Alive"
 		},
 		"Special Student Development Programmes Offered": "Our Journalists in Making, an Applied Learning Programme, aims to develop our students in critical thinking, oral and written communication skills and build their confidence to speak and write on any chosen topic at the class, school or community level. Presentations during recess and at school events are platforms to build students' confidence. Students who would like to learn more about journalism can participate in the Journalists' Club where they learn more about being a journalist through workshops and platforms like reporting real-time news during school events."
 	},
@@ -220,7 +223,19 @@
 					"Ensemble - Angklung / Kulintang": "Distinction"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"SYF Arts Presentation": {
+					"Dance - Malay": "Accomplishment",
+					"Art - Category C": "Recognition",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Commendation",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Distinction"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "768515"

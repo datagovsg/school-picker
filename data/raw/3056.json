@@ -94,7 +94,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"STEM": "Authentic Learning through Health Sciences",
+			"STEM": "Environmental & Health Sciences",
 			"Sports & Outdoor Education": "Character, Citizenship and Leadership Development through Water Sports"
 		},
 		"Special Student Development Programmes Offered": "The school offers a range of programmes to support students' development.  These include:  1.  Applied Learning Programme (ALP) which caters to the aptitudes, skills and knowledge related to Science, Technology, Engineering and Mathematics (STEM).  Our STEM-ALP focuses on Environmental and Health Sciences.  This programme enhances students' competencies in problem solving, scientific inquiry, computational thinking and design thinking through a series of modules that expose students to advanced electronics, programming, healthcare, environmental knowledge as well as related innovative projects.  With this early exposure, students will have the opportunity to explore their interests and talents in careers in the related fields.  2.  Learning for Life Programme (LLP) which aims to build character, citizenship and leadership through water sports and water survival skills.  Students will have opportunities to attain a swimming certification and a Kayak 1-Star award, and enjoy experiences such as Dragon boating, flow-riding, scuba-diving, stand up paddling or windsurfing. Incorporated into the LLP are programmes/activities related to leadership training, life skills and Values-In-Action.  3.  Level-wide programmes including academic and National Education-related learning journeys; comprehensive Values-In-Action Programme as well as Sec 2 and Sec 3 cohort camps."
@@ -857,7 +857,69 @@
 					"St John Ambulance Brigade": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Canoeing",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Distinction",
+					"Band - Concert": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

@@ -93,6 +93,9 @@
 			"2017": {
 				"Development Award": "DA (Character Development)"
 			},
+			"2018": {
+				"Development Award": "DA (Character Development)"
+			},
 			"Sports & Games Competition": [
 				{
 					"year": "2015",
@@ -143,6 +146,16 @@
 						"Senior"
 					],
 					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -225,6 +238,36 @@
 					"year": "2017",
 					"category": "Ensemble - Handbell / Handchime",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -241,6 +284,11 @@
 				{
 					"year": "2017",
 					"category": "Brownies (Pack 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Brownies",
 					"award": "Gold"
 				}
 			]
@@ -263,8 +311,7 @@
 		"TP"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"studentCare": true,
 	"p1Registration": {

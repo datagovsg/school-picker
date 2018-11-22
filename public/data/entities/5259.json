@@ -19,11 +19,7 @@
 	"bus": "945",
 	"GeneralInformation": {
 		"Principal": "Miss Cecilia Lim Seok Cheng",
-		"Vice Principal": [
-			"Mr Andy Mickey Choong Tek Choy",
-			"Mrs Shanthi Suraj Nair"
-		],
-		"Vice Principal (Admin)": "Mr Chan Ken Yan Michael",
+		"Vice Principal": "Mrs Shanthi Suraj Nair",
 		"School Vision": "Caring Hearts, Passionate Learners; Lasallians in service of God, family and nation",
 		"School Mission": "Enabling our children to learn how to learn and to learn how to live,to become persons of integrity and persons for others in God's service",
 		"School Philosophy, Culture and Ethos": [
@@ -82,7 +78,7 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Visual Arts & Design": "The SAPS Visual Arts Programme for Lifelong Learning",
+			"Visual Arts & Design": "Visual Arts Programme for Active Learning (VAPAL)",
 			"Sports & Outdoor Education": "LEARN.PLAY.GROW – ‘Developing Character through Sports’ Programme"
 		},
 		"Special Student Development Programmes Offered": "To achieve our Mission and Vision, the required competencies, skills and attitudes are inculcated in our pupils through key programmes such as:"
@@ -199,6 +195,26 @@
 						"Junior"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -291,6 +307,36 @@
 					"year": "2017",
 					"category": "Dance - International",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -323,6 +369,16 @@
 					"year": "2017",
 					"category": "Scout",
 					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Brownies",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Gold"
 				}
 			]
 		}
@@ -345,9 +401,7 @@
 		"CK",
 		"CL"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 210,

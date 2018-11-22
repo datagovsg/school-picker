@@ -47,6 +47,9 @@
 		"MOE Programmes": [
 			"Not Available"
 		],
+		"School Distinctive Programmes": {
+			"Languages": "Holistic English Literacy Programme (HELP)"
+		},
 		"Special Student Development Programmes Offered": "Holistic English Literacy Program (HELP)"
 	},
 	"AchievementHistory": {
@@ -68,7 +71,11 @@
 					"Art - Category A": "Recognition"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition"
+				}
+			}
 		}
 	},
 	"postalCode": "828674"

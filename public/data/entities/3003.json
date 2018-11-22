@@ -99,7 +99,7 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"STEM": "Man and the Environment - Teaching 21st Century Competencies through Environmental Education",
+			"STEM": "Beattyians Think. Create. Innovate",
 			"Community & Youth Leadership": "Beatty's Leaders for Life Programme"
 		},
 		"Special Student Development Programmes Offered": "In Beatty Secondary, we develop students' talents, stretch their potential and prepare them for the future. We inculcate critical thinking and problem-solving skills in our students, develop their leadership qualities and provide opportunities for them to gain a global outlook. Anchored on strong values, we equip them with essential social skills as well as competencies. Our Applied Learning Programme known as \"Beattyians Think. Create. Innovate Programme\" enables Beattyians to develop 21st Century Competencies and apply them in real-life contexts. In line with Singapore's Smart Nation vision, the programme aims to develop digital literacy (basic programming and coding language) in students through computing knowledge and build their confidence in embracing future digital challenges. Design Thinking tools and processes are used to teach students to empathise with the needs of the target group, define problems and ideate creative solutions. Our Learning for Life Programme known as \"Beatty's Leaders for Life Programme\" equips Beattyians with leadership skills and creates students with a confident disposition through the Kouzes and Posner's Leadership Challenge model. Students learn and put into practice their leadership competencies guided by mentors. Students are led to embrace a global outlook through overseas cultural exchange programmes with schools from Japan, China and Vietnam. Our Character Development Programmes, which include Outdoor Adventure Camps and Values-in-Action programmes serve to imbibe sound values, develop strength of character and socio-emotional competencies in Beattyians. Our programmes hone character traits like resilience, teamwork, a greater sense of confidence and local rootedness. Beatty Secondary offers Direct School Admission to talented students who display competence and a keen interest in either Wushu or Canoeing. Beatty Secondary offers Higher Chinese and is a MOE designated Higher Chinese Centre."
@@ -126,6 +126,12 @@
 					"DA (National Education)"
 				]
 			},
+			"2018": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
 			"Sports & Games Competition": [
 				{
 					"year": "2017",
@@ -134,6 +140,16 @@
 						"National",
 						"Girls",
 						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Judo",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
 					],
 					"award": "4th"
 				}
@@ -248,6 +264,46 @@
 					"year": "2017",
 					"category": "Drama - English",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -334,6 +390,36 @@
 				{
 					"year": "2017",
 					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCDCC",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
 					"award": "Gold"
 				}
 			]
@@ -457,8 +543,7 @@
 		"CC"
 	],
 	"specialNeeds": [
-		"HL.Signing",
-		"Mild SEN"
+		"HL.Signing"
 	],
 	"id": "3003"
 }

@@ -89,7 +89,7 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"STEM": "Harnessing Energy for Real Life Applications",
+			"STEM": "Harnessing Energy to Live, Work and Play",
 			"Community & Youth Leadership": "Every Student a Leader"
 		},
 		"Special Student Development Programmes Offered": "The school's Holistic Education, Character and Citizenship Education (HDCCE) framework is designed based on 21st century learner competencies and the desired student outcomes of a confident person, self-directed learner, concerned citizen, and active contributor. The Global Thinkers Programme nurtures East Springians to be globally-conscious about international issues, developing a cosmopolitan mindset through experiencing the rich diversity of cultures. The school's Applied Learning Programme (ALP) on Harnessing Energy for Real Life Application, focuses on acquisition and application of scientific knowledge and skills in real life situations to work, live and play. This unique programme allows students to acquire and apply critical thinking skills and develop dispositions of an inquiring mind. The school also seeks to develop student leadership skills through our distinctive Community Youth Leadership (CYL) Programme under the Learning for Life Programme (LLP). The programme is designed for students to lead, inspire and remain centred on core values. The tiered approach equips student with fundamental and differentiated leadership skills through formal training and experiential learning opportunities. The school offers Direct School Admission(DSA) for her distinctive programme, CYL."
@@ -109,6 +109,9 @@
 				]
 			},
 			"2017": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course"
+			},
+			"2018": {
 				"Special Awards": "LHL Award for Innovation in the Normal Course"
 			},
 			"Sports & Games Competition": [
@@ -141,6 +144,16 @@
 						"'B' Div"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -228,6 +241,41 @@
 					"year": "2017",
 					"category": "Drama - English",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -305,6 +353,31 @@
 					"year": "2017",
 					"category": "St John Ambulance Brigade",
 					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCDCC",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Bronze"
+				},
+				{
+					"year": "2018",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
 				}
 			]
 		}
@@ -423,8 +496,6 @@
 		"PL",
 		"CH"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3609"
 }

@@ -19,7 +19,10 @@
 	"bus": "30 , 49 , 98 , 98A , 154 , 240 , 246 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Tan Yok Ching Ruby",
-		"Vice Principal": "Miss Tan Hui Min Deborah",
+		"Vice Principal": [
+			"Miss Tan Hui Min Deborah",
+			"Mdm Tay Su Chin (Zheng Suzhen)"
+		],
 		"Vice Principal (Admin)": "Miss Koh Mui Gek",
 		"School Vision": [
 			"Learn with Purpose",
@@ -64,6 +67,7 @@
 		"Humanities (Ss, History)",
 		"Humanities (Ss, Lit In Chinese)",
 		"Humanities (Ss, Lit In English)",
+		"Literature In Chinese",
 		"Literature(E)",
 		"Malay",
 		"Malay N(A)",
@@ -86,6 +90,7 @@
 	],
 	"Cca": {
 		"Physical Sports": [
+			"Badminton",
 			"Basketball",
 			"Cross Country",
 			"Dragon Boat",
@@ -116,8 +121,8 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Languages & Humanities": "Environmental Studies: An Inter-disciplinary Approach To Sustainable Living",
-			"Sports & Outdoor Education": "Sports For Life: Leading a Sporty and Sporting Lifestyle"
+			"Languages & Humanities": "Environmental Studies: An Inter-disciplinary Approach To Sustainable Urban Living",
+			"Sports & Outdoor Education": "Sporty at Heart, Sporting in Mind"
 		},
 		"Special Student Development Programmes Offered": "In JSS, we value every student, believing that they can contribute meaningfully to the society in all that they do. Our Special Programmes are designed to nurture their hearts and enrich their minds, for them to become contributing members of the society. "
 	},
@@ -143,6 +148,9 @@
 					"DA (Character Development)",
 					"DA (National Education)"
 				]
+			},
+			"2018": {
+				"Best Practice Awards": "BPA (Teaching and Learning)"
 			},
 			"Sports & Games Competition": [
 				{
@@ -404,6 +412,76 @@
 						"'C' Div"
 					],
 					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Cross Country",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -479,6 +557,31 @@
 				},
 				{
 					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
 					"category": "Drama - English",
 					"award": "Accomplishment"
 				}
@@ -557,6 +660,31 @@
 				{
 					"year": "2017",
 					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Red Cross",
+					"award": "Bronze"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
 					"award": "Gold"
 				}
 			]
@@ -677,5 +805,6 @@
 		"TH",
 		"WC"
 	],
+	"specialNeeds": [],
 	"id": "3211"
 }

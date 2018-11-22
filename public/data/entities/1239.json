@@ -19,10 +19,8 @@
 	"bus": "9 , 38 , 5 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Cheng Huey Teng",
-		"Vice Principal": [
-			"Mdm Tay Meng Hon",
-			"Mr Mohamed Imran B Mohamed Ihsan"
-		],
+		"Vice Principal": "Mdm Tay Meng Hon",
+		"Vice Principal (Admin)": "Mdm Tan Gek Sim Magella",
 		"School Vision": "Learners with Passion, Citizens of Honour",
 		"School Mission": "To instil the love for learning and nurture all-round individuals, grounded by values",
 		"School Philosophy, Culture and Ethos": [
@@ -217,6 +215,26 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Commendation"
 				}
 			],
 			"Best Unit Award": []
@@ -238,9 +256,7 @@
 		"PL",
 		"CH"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 180,

@@ -50,11 +50,20 @@
 		"Social Studies",
 		"Tamil"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Rugby"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Brass Band"
+		]
+	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Interdisciplinary": "Inquiry-based Learning Supported by Thinking Routines",
-			"Music & Performing Arts": "Music for Everyone!"
+			"Music & Performing Arts": "Music for Everyone - Building Empathy and Resilience"
 		},
 		"Special Student Development Programmes Offered": "At BTPS, we firmly believe that in order to fuel our students' minds, they must be actively involved in their own construction of knowledge."
 	},
@@ -172,6 +181,31 @@
 					"year": "2017",
 					"category": "Dance - International",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Brass",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -187,6 +221,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "Boys' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2018",
 					"category": "Boys' Brigade",
 					"award": "Bronze"
 				}
@@ -213,8 +252,7 @@
 		"CL"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"studentCare": true,
 	"p1Registration": {

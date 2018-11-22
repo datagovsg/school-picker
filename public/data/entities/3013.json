@@ -5,7 +5,7 @@
 	"uen": " T07GS3013A",
 	"logo": "./Medias/Images/Schools/logos/tn_3013.jpg",
 	"website": "http://www.tkgs.moe.edu.sg",
-	"address": "20, Dunman Lane (439272)",
+	"address": "2, Bedok South Road (469268)",
 	"telephone": [
 		"63441593",
 		"66441593 (from 2017)"
@@ -16,15 +16,14 @@
 	],
 	"email": "tkgs@moe.edu.sg",
 	"mrt": [
-		"Paya Lebar MRT",
-		"Dakota MRT"
+		"Bedok MRT"
 	],
-	"bus": "10 , 16 , 31 , 32 , 33 , 40 , 43 , 134 , 135 , 197 ",
+	"bus": "2 , 2A , 4N , 7 , 9 , 16 , 24 , 25 , 28 , 30 , 30E , 31 , 32 , 33 , 35 , 35M , 38 , 40 , 67 , 137 , 196 , 197 , 222 , 222B , 229 , 401 , 854 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Wong Yee Min Mary",
 		"Vice Principal": [
-			"Mr Low Ying Ning",
-			"Mdm Yehidaah Beevi D/o Shaik A"
+			"Mdm Yehidaah Beevi D/o Shaik A",
+			"Mr Low Ying Ning"
 		],
 		"Vice Principal (Admin)": "Mdm Koh Seok Lee Shirley",
 		"School Vision": "Accomplished young women of character and grace",
@@ -88,13 +87,13 @@
 			"Choir",
 			"Dance - International",
 			"Drama - English",
-			"Ensemble - String",
-			"Media Club"
+			"Ensemble - String"
 		],
 		"Clubs & Societies": [
 			"Interact Club",
 			"Library",
-			"Literary & Debating Society"
+			"Literary & Debating Society",
+			"Media Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -116,6 +115,11 @@
 				"Outstanding Development Award": "ODA (Character Development)"
 			},
 			"2017": {
+				"School Distinction Awards": "SDA",
+				"Development Award": "DA (National Education)",
+				"Outstanding Development Award": "ODA (Character Development)"
+			},
+			"2018": {
 				"School Distinction Awards": "SDA",
 				"Development Award": "DA (National Education)",
 				"Outstanding Development Award": "ODA (Character Development)"
@@ -340,6 +344,46 @@
 						"'C' Div"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Sailing (Optimist)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -437,6 +481,41 @@
 					"year": "2017",
 					"category": "Ensemble - Strings",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Strings",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -489,6 +568,21 @@
 					"year": "2017",
 					"category": "Red Cross",
 					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Bronze"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Red Cross",
+					"award": "Bronze"
 				}
 			]
 		}
@@ -527,7 +621,7 @@
 			"upperAffiliated": null
 		}
 	],
-	"postalCode": "439272",
+	"postalCode": "469268",
 	"coordinates": [
 		103.9270308,
 		1.3220391
@@ -544,5 +638,6 @@
 		"PL",
 		"TM"
 	],
+	"specialNeeds": [],
 	"id": "3013"
 }

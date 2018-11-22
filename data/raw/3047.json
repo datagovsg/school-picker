@@ -23,7 +23,7 @@
 		],
 		"School Vision": "A school of excellence that nurtures world-ready Bicultural Scholars who embrace tradition and are champions of society.",
 		"School Mission": "To nurture confident, creative and cultured students with a passion for learning.",
-		"School Philosophy, Culture and Ethos": "Nan Hua High School is founded on the Confucian values Li Yi Lian Chi Zhong Xiao Ren Ai. We take pride in our school heritage and believe in providing a student-centric, values-driven holistic education anchored on the four tenets of school culture -'Ren',Excellence,Learning and Collegiality. Our learning environment nurtures each child's talents and interests especially through our niche programmes, namely the SAP (Special Assistance Plan) & Biculture Programme, Performing Arts, and Environment Education. Our values education emphasises the development of each Nanhuarian as \"junzi\" or scholar in the Confucian context.",
+		"School Philosophy, Culture and Ethos": "Nan Hua High School is founded on the Confucian values Li Yi Lian Chi Zhong Xiao Ren Ai. We take pride in our school heritage and believe in providing a student-centric, values-driven holistic education anchored on the four tenets of school culture -'Ren', Excellence, Learning and Collegiality. Our learning environment nurtures each child's talents and interests especially through our niche programmes, namely the SAP (Special Assistance Plan) & Bicultural Programme, Performing Arts, and Environment Education. Our values education emphasises the development of each Nanhuarian as \"junzi\" or scholar in the Confucian context.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese",
@@ -56,7 +56,7 @@
 		"Physical Sports": [
 			"Athletics",
 			"Badminton",
-			"Basketball (Boys)",
+			"Basketball",
 			"Football (Boys)",
 			"Netball (Girls)",
 			"Softball (Girls)",
@@ -92,7 +92,7 @@
 		"MOE Programmes": [
 			"SAP"
 		],
-		"Special Student Development Programmes Offered": "The school's SAP and Biculture Programme emphasises the inculcation of school values and culture. In line with our school vision of developing bicultural scholars, our Biculture Programme nurtures our students to have bicultural perspectives; to understand the western and eastern ways of thinking and distil the best of both. In the curriculum, Secondary 1 students learn to appreciate Chinese culture and traditions. Translation and Interpretation as well as learning about Contemporary China enable Secondary 2 and 3 students to learn techniques of translation and the issues and trends in modern China respectively. The Biculture Week activities, Confucian Camp and celebration of the Mid-Autumn Festival are examples of opportunities for students to learn and live out values beyond the classroom."
+		"Special Student Development Programmes Offered": "The school's SAP and Bicultural Programme emphasises the inculcation of school values and culture. In line with our school vision of developing bicultural scholars, our Bicultural Programme nurtures students to have bicultural perspectives; to understand the western and eastern ways of thinking and distil the best of both. In the curriculum, Secondary 1 students learn to appreciate Chinese culture and traditions. Translation, Bicultural Studies as well as learning about Contemporary China enable Secondary 2 and 3 students to learn techniques of translation, discuss issues of bicultural interests as well as issues and trends in modern China respectively. The Bicultural Week activities, Confucius Camp and celebration of the Mid-Autumn Festival are examples of opportunities for students to learn and live out values beyond the classroom."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1314,7 +1314,119 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"3rd",
+						"2nd"
+					],
+					[
+						"Cross Country",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"3rd"
+					],
+					[
+						"Softball",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"2nd",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band - Concert": "Distinction",
+					"Band-Brass Ensemble": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Distinction",
+					"Drama - English": "Distinction",
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Harp": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Ncc (Land Girls)": "Gold",
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

@@ -84,7 +84,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"STEM": "Aeronautics for North Stars",
+			"STEM": "Aeronautics Applied Learning Programme",
 			"Community & Youth Leadership": "Inspired North Stars Inspire Actions"
 		},
 		"Special Student Development Programmes Offered": "We aim to establish our strengths in STEM (Science, Technology, Engineering & Math) education. Our Applied Learning Programme is Aeronautics and our Learning for Life Programme is Community and Youth Leadership. Our student development is centred on the STAR Programme- Seek out your strength (Understanding oneself, social emotional competencies, leadership development), Take responsibility (Responsibility to self/family/school/community/world through values education, Peer Support & Relationships Programme, Social Skills Training, values-in-action programme including Green Compass Programme (environmental projects), adoption of elderly homes, annual overseas service learning), Adopt an enterprising spirit (Developing entrepreneurial dare through academic/CCA competitions, interdisciplinary Project Work, outdoor education/adventure camps), Ready for the world (Educational/Career Guidance, Elective Modules and Advanced Elective Modules, local/overseas visits to educational/vocational institutions/industry, information/financial literacy, personal mastery). Departmental signature programmes include Science Outdoor Learning & Experience, EL Speech & Drama, MTL Oratorical Skills, Fun with Math, Craft & Technology 3D Design/Printing etc."
@@ -494,7 +494,67 @@
 					"Red Cross": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Band - Concert": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girl Guides": "Gold",
+					"Ncc (Air)": "Silver",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

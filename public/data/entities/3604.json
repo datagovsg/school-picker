@@ -20,8 +20,8 @@
 	"GeneralInformation": {
 		"Principal": "Mdm Ng Siew Bee",
 		"Vice Principal": [
-			"Mdm Nur Hidayani Ibrahim",
-			"Mdm Komathi D/o P Kesavan"
+			"Mdm Komathi D/o P Kesavan",
+			"Mdm Nur Hidayani Ibrahim"
 		],
 		"School Vision": "Every WRS Student is Worthy, Resilient and Selfless",
 		"School Mission": "Nurturing Self-Directed, Confident and Caring Learners",
@@ -205,6 +205,36 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -250,6 +280,21 @@
 				},
 				{
 					"year": "2017",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "St John Ambulance Brigade",
 					"award": "Gold"
 				}
@@ -369,5 +414,6 @@
 		"SB",
 		"SK"
 	],
+	"specialNeeds": [],
 	"id": "3604"
 }

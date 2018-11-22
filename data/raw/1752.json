@@ -83,6 +83,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
+			"Coding": "Multi-Literacy Programme (MLP)",
 			"Music & Performing Arts": "DANCE FEVER – Dance Aces Nurturing Cultural Expression For EVEry Riverlite"
 		},
 		"Special Student Development Programmes Offered": "(1) The focus of the Learning for Life Programme (LLP) is on mass participation. DANCE FEVER (Dance Appreciation Nurturing Cultural Expression For EVEry Riverlite) was reviewed and refined to encompass fitness and movement on top of cultural literacy. All students are exposed to a range of dance forms through a spiral progression of knowledge and skills training from basic level 1 to intermediate level 4. "
@@ -761,7 +762,80 @@
 					"Scout": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category C": "Recognition",
+					"Band-Brass": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Gold",
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "545092"

@@ -16,13 +16,10 @@
 	"mrt": [
 		"Boon Lay MRT"
 	],
-	"bus": "172 , 181 , 185 , 199 ",
+	"bus": "172 , 181 , 185 , 199 , 974 ",
 	"GeneralInformation": {
 		"Principal": "Mr Abdul Harris B Sumardi",
-		"Vice Principal": [
-			"Mr Ganesan S/o Raman",
-			"Miss Tan Ming Ming"
-		],
+		"Vice Principal": "Miss Tan Ming Ming",
 		"Vice Principal (Admin)": "Mr Kong Chee Chiew",
 		"School Vision": "Rooted in Character & Skills to Soar for the Nation.",
 		"School Mission": [
@@ -190,6 +187,31 @@
 					"year": "2017",
 					"category": "Ensemble - Guitar",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Mixed Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -255,6 +277,31 @@
 				},
 				{
 					"year": "2017",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
 					"category": "St John Ambulance Brigade",
 					"award": "Gold"
 				}
@@ -377,8 +424,7 @@
 		"WC"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"id": "3620"
 }

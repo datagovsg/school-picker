@@ -86,7 +86,7 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Interdisciplinary": "Applied Learning@NCPS through Project Work",
-			"Sports & Outdoor Education": "Enhancing physical, cognitive, moral and social growth through basketball"
+			"Community Service & Student Leadership": "Watch Me Soar (Student Leadership LLP - A Whole School Approach)"
 		},
 		"Special Student Development Programmes Offered": "The vision of becoming an 'innovative school' with 'future-ready leaders with values' provides the impetus for Student-centric 21st Century Competencies (21CC) Curriculum which includes programmes for academic and non-academic development of our students."
 	},
@@ -103,6 +103,9 @@
 				"School Distinction Awards": "SDA"
 			},
 			"2017": {
+				"School Distinction Awards": "SDA"
+			},
+			"2018": {
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
@@ -185,6 +188,16 @@
 						"Junior"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
 				}
 			],
 			"SYF": [
@@ -247,6 +260,26 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": []
@@ -273,8 +306,7 @@
 		"YS"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"studentCare": true,
 	"p1Registration": {

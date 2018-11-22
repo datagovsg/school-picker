@@ -88,7 +88,7 @@
 		],
 		"School Distinctive Programmes": {
 			"Languages & Humanities": "Critical & Inventive Thinking (CIT) thru Media Literacy",
-			"Community & Youth Leadership": "Student Leadership (StL) and ViA"
+			"Community & Youth Leadership": "Developing Community Leaders through VIA and Outdoor Education"
 		},
 		"Special Student Development Programmes Offered": "Our ALP niche - Critical and Inventive Thinking through Media Literacy -  empowers students by developing their critical lens as responsible and active consumers and producers of information. Through authentic projects based in the community (Sec 1 Geographical Investigation, Sec 2 Community Concerns project, Sec 3 Social Documentary production), students develop thinking and collaborative skills, become confident communicators, and market ideas to authentic audiences, while gaining a deeper understanding of concepts through application. IT skills are developed through the elective coding programme, school-initiated PEARL project which facilitates access to independent & collaborative learning tools in ICT, and Micro-bits explorations in Science. In addition, Elective Modules and Advanced Elective Modules are mounted regularly for exploration of student talents. Our LLP niche encompasses Values in Action projects (teacher-facilitated at Lower Sec., student-initiated at Upper Sec.) which develop empathy and civic-consciousness, Outdoor Education programmes (Sec 1 Orienteering, Sec 2 Dragon boating, Sec 3 Adventure Camp) which develop resilience, and Leadership Development. The LLP strengthens student minds, bodies, and hearts, and develops in them strong direction to lead purposeful lives through meaningful and challenging pursuits. A wide range of CCAs and academic subjects are offered to cater to student abilities and interests, and classroom learning is complemented by abundant out-of-classroom learning experiences, expertly facilitated by our caring teachers."
 	},
@@ -919,7 +919,63 @@
 					"Npcc (Land)": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girls' Brigade": "Silver",
+					"Ncc (Sea Boys)": "Gold",
+					"Npcc (Land)": "Silver"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

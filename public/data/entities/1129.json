@@ -73,7 +73,7 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Community Service & Student Leadership": "Every Bendemeerian, A Leader who Cares and Shares",
+			"Community Service & Student Leadership": "Developing Bendemeerians to be Confident Leaders, Rooted in Values",
 			"Music & Performing Arts": "Bendemeer’s TEMPO (Towards Enhancement of Music and Performing Arts Opportunities)"
 		},
 		"Special Student Development Programmes Offered": "Bendemeer Primary believes in the holistic development of pupils and using BLOOM as our guiding principle, we aim to provide opportunities for all students to achieve and excel. BLOOM stands for:"
@@ -208,6 +208,36 @@
 						"Senior"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
 				}
 			],
 			"SYF": [
@@ -275,6 +305,31 @@
 					"year": "2017",
 					"category": "Dance - Malay",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -329,8 +384,7 @@
 		"CA"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"studentCare": true,
 	"p1Registration": {

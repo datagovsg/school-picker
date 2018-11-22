@@ -86,7 +86,7 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"ICT & Media": "Media Whiz Kids!",
+			"ICT & Media": "Media Whiz Kids! Nurturing Confident and Media Literate Communicators",
 			"Community Service & Student Leadership": "I-LEAD, I-SERVE – Leadership through and as Service"
 		},
 		"Special Student Development Programmes Offered": "Teck Whye Primary's Applied Learning Programme (ALP) is entitled 'Media Whiz Kids!', a media and media literacy-based programme. The programme aims to enable our students to apply the knowledge and skills acquired in Languages, Technology, Art and Music to authentic and meaningful contexts.  Specialised media programmes will support those with talents and a keen interest through our various CCAs such as the Infocomm Club, iDesign Club, and Speech and Drama Club. The ALP is intended to develop confident students who can put across their thoughts and ideas verbally and in written form in both digital and non-digital platforms, and are able to harness relevant tools and media to enhance communication. Programming to promote computational thinking will also be introduced to students as part of this ALP."
@@ -133,6 +133,16 @@
 						"'A' Div"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -185,6 +195,26 @@
 					"year": "2017",
 					"category": "Dance - Malay",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -205,6 +235,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
 					"category": "Scout",
 					"award": "Silver"
 				}
@@ -228,9 +263,7 @@
 		"TH",
 		"WC"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 180,

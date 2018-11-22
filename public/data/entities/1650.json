@@ -19,7 +19,10 @@
 	"bus": "7 , 184 , 282 ",
 	"GeneralInformation": {
 		"Principal": "Mrs Ng Teo Sock Hua",
-		"Vice Principal": "Mdm Hong Gay Lee",
+		"Vice Principal": [
+			"Mdm Hong Gay Lee",
+			"Mrs Lim Foo Boon Ching"
+		],
 		"Vice Principal (Admin)": "Mr Winston Tan Wee Sing",
 		"School Vision": "Our vision of being 'a vibrant school that inspires excellence' aspires our students as one who is rooted in values, innovative in thoughts and passionate in actions.",
 		"School Mission": "Our mission is 'to nurture confident and self-directed learners who exhibit social responsibility and character'.",
@@ -237,6 +240,31 @@
 					"year": "2017",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -269,6 +297,21 @@
 					"year": "2017",
 					"category": "Girls' Brigade",
 					"award": "Bronze"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2018",
+					"category": "Brownies",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
+					"award": "Gold"
 				}
 			]
 		}
@@ -289,9 +332,7 @@
 		"JE",
 		"QT"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 240,

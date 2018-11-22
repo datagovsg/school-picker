@@ -12,15 +12,12 @@
 	"fax": [
 		"67488980"
 	],
-	"email": "GMPS@moe.edu.sg",
+	"email": "GMSP@moe.edu.sg",
 	"mrt": "Aljunied",
 	"bus": "80 , 134 , 155 ",
 	"GeneralInformation": {
 		"Principal": "MDM JENNIFER HAN ENG JUAN",
-		"Vice Principal": [
-			"MR YAK BENG WEI",
-			"MDM SEAH BEE HUI"
-		],
+		"Vice Principal": "MDM SEAH BEE HUI",
 		"Vice Principal (Admin)": "MISS NG BEE KENG",
 		"School Vision": "Self-Directed Learner, Compassionate Leader and Responsible and Useful Citizen.",
 		"School Mission": "A school of excellence where students and staff grow in wisdom, stature and in favour with God and man.",
@@ -57,7 +54,6 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"ICT": "Using ICT to develop the 21st Century Learner",
 			"Community Service & Student Leadership": "GM Earth Warriors Environment Education (EE): To Develop Student Leaders who Empathise, Enrich and Empower"
 		},
 		"Special Student Development Programmes Offered": "\"GM Earth Warriors Environment Education (EE)\" is our Learning for Life Programme (LLP).  It serves to inculcate in the students the sense of responsibility to the society through student advocacy for environmental issues that are close to their hearts.  Students imbibe key values such respect and compassion as they learn to be Compassionate leaders and Useful and Responsible Citizens."
@@ -815,7 +811,65 @@
 					"Girls' Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"1st",
+						"4th",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment",
+					"Ensemble - Handbell / Handchime": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "389706"

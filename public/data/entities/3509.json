@@ -26,10 +26,10 @@
 			"Mr Quek Choon Hsiong"
 		],
 		"Vice Principal (Admin)": "Mr Zainal Abidin Bin Mahmood",
-		"School Vision": "Compassionate Leaders, Critical Thinkers.",
+		"School Vision": "Critical Thinkers. Thoughtful Leaders.",
 		"School Mission": "Nurturing individuals to learn with passion and lead with purpose",
 		"School Philosophy, Culture and Ethos": [
-			"Since 1959, Serangoon Garden Secondary School (SGS) has enjoyed the trust and confidence of the community for close to 60 years.  The SGS brand of education is known and valued for nurturing SGSians through a strong culture of compassion epitomised by respect and care for each other augmented with innovative future-ready curricula. Through this, many SGSians have had their lives transformed. Our distinguished alumni have exemplified the vision of \"Compassionate Leaders, Critical Thinkers\", displaying their abilities to navigate the complexities and ambiguities of the future while guided by the school values of Perseverance, Respect, Integrity, Diligence and Empathy (P.R.I.D.E). Some of the PRIDE of SGS include national Football coach Fandi Ahmad and local entrepreneur Mr Francis Ng (owner, House of Seafood) and many more.",
+			"Since 1959, Serangoon Garden Secondary School (SGS) has enjoyed the trust and confidence of the community for close to 60 years.  The SGS brand of education is known and valued for nurturing SGSians through a strong culture of compassion epitomised by respect and care for each other augmented with innovative future-ready curricula. Through this, many SGSians have had their lives transformed. Our distinguished alumni have exemplified the vision of \"Critical Thinkers. Thoughtful Leaders\" displaying their abilities to navigate the complexities and ambiguities of the future while guided by the school values of Perseverance, Respect, Integrity, Diligence and Empathy (P.R.I.D.E). Some of the PRIDE of SGS include national Football coach Fandi Ahmad and local entrepreneur Mr Francis Ng (owner, House of Seafood) and many more.",
 			"In our journey of growing future-ready compassionate and contributing citizens, the school has committed ourselves deeply to finding new ways to harness the strength of innovative pedagogies. These include the incorporation of Thinking Routines, Design Thinking approaches and leveraging the affordances of technology to enable SGSians to have greater autonomy and choices in their own learning. Varied channels and opportunities are aplenty for SGSians through the Level Signature programmes (including overseas trips) and co-curricular activities (CCAs) to realise their fullest potential through authentic learning."
 		],
 		"Type of School": "Government School / Co-ed School / Single Session",
@@ -106,6 +106,9 @@
 			"2017": {
 				"Special Awards": "LHL Award for Innovation in the Normal Course"
 			},
+			"2018": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course"
+			},
 			"Sports & Games Competition": [
 				{
 					"year": "2015",
@@ -136,6 +139,26 @@
 						"'C' Div"
 					],
 					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -228,6 +251,36 @@
 					"year": "2017",
 					"category": "Drama - English",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -320,6 +373,36 @@
 					"year": "2017",
 					"category": "Red Cross",
 					"award": "Bronze"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Red Cross",
+					"award": "Gold"
 				}
 			]
 		}
@@ -439,8 +522,6 @@
 		"SE",
 		"TP"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3509"
 }

@@ -23,10 +23,10 @@
 			"Mdm Chua Leng Yin",
 			"Miss Yap Foon Lyn"
 		],
-		"School Vision": "A Learning School with a GIVER3S Heart",
+		"School Vision": "Learning School GIVER3S Heart",
 		"School Mission": "To nurture thinking individuals and gracious citizens",
 		"School Philosophy, Culture and Ethos": [
-			"The school's vision of 'A Learning School with a GIVER3S Heart' is progressively realized through the strategic thrusts of Achieving Academic Excellence, Developing Character & Active Citizenry, Developing Staff Capacity and Forging Partnerships. They guide the school in its commitment towards the creation of school experiences that are memorable, enriching and inspiring. ",
+			"The school's vision of 'A Learning School with a GIVER3S Heart' is progressively realized through the strategic thrusts of Nurturing Self-directed and confident learners, Developing Exemplary Character & Active Citizenry, Building Quality Staff and Forging Partnerships. They guide the school in its commitment towards the creation of school experiences that are memorable, enriching and inspiring. ",
 			"This is in line with the school's mission 'To nurture thinking individuals and gracious citizens' and we are anchored and guided by the school GIVER3S values of: Graciousness, Integrity, Versatility, Empathy, Responsibility, Respect, Resilience and Sincerity. ",
 			"The school also builds on a culture of care and collaboration for staff."
 		],
@@ -60,10 +60,10 @@
 	"Cca": {
 		"Physical Sports": [
 			"Badminton",
-			"Boys' Basketball",
+			"Basketball Boys",
 			"Floorball",
+			"Football",
 			"Rope Skipping",
-			"Soccer",
 			"Table Tennis",
 			"Taekwondo",
 			"Volleyball",
@@ -247,6 +247,56 @@
 						"Senior"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -314,6 +364,31 @@
 					"year": "2017",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -346,6 +421,16 @@
 					"year": "2017",
 					"category": "Girls' Brigade",
 					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
+					"award": "Gold"
 				}
 			]
 		}
@@ -366,9 +451,7 @@
 		"SI",
 		"CA"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 210,

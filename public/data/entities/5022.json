@@ -12,17 +12,14 @@
 	"fax": [
 		"67488980"
 	],
-	"email": "GMPS@moe.edu.sg",
+	"email": "GMSP@moe.edu.sg",
 	"mrt": [
 		"Aljunied MRT"
 	],
 	"bus": "80 , 134 , 155 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Jennifer Han Eng Juan",
-		"Vice Principal": [
-			"Mr Yak Beng Wei",
-			"Mdm Seah Bee Hui"
-		],
+		"Vice Principal": "Mdm Seah Bee Hui",
 		"Vice Principal (Admin)": "Miss Ng Bee Keng",
 		"School Vision": "Self-Directed Learner, Compassionate Leader and Responsible and Useful Citizen.",
 		"School Mission": "A school of excellence where students and staff grow in wisdom, stature and in favour with God and man.",
@@ -56,7 +53,6 @@
 	"Cca": {},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"ICT": "Using ICT to develop the 21st Century Learner",
 			"Community Service & Student Leadership": "GM Earth Warriors Environment Education (EE): To Develop Student Leaders who Empathise, Enrich and Empower"
 		},
 		"Special Student Development Programmes Offered": "\"GM Earth Warriors Environment Education (EE)\" is our Learning for Life Programme (LLP).  It serves to inculcate in the students the sense of responsibility to the society through student advocacy for environmental issues that are close to their hearts.  Students imbibe key values such respect and compassion as they learn to be Compassionate leaders and Useful and Responsible Citizens."
@@ -219,6 +215,46 @@
 						"Senior"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -301,6 +337,31 @@
 					"year": "2017",
 					"category": "Ensemble - Handbell / Handchime",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -333,6 +394,16 @@
 					"year": "2017",
 					"category": "Girls' Brigade",
 					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
+					"award": "Gold"
 				}
 			]
 		}
@@ -354,9 +425,7 @@
 		"MP",
 		"TP"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 270,

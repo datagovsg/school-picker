@@ -17,7 +17,10 @@
 	"bus": "181 , 502 & 243 ",
 	"GeneralInformation": {
 		"Principal": "MR NG YEOW LING",
-		"Vice Principal": "MISS TRACY TAN I- LIAN",
+		"Vice Principal": [
+			"MS TRACY TAN I- LIAN",
+			"MRS RUTH TAI MEI FEN"
+		],
 		"Vice Principal (Admin)": "MR CHIN HONG FAI HUMPHREY",
 		"School Vision": "A positive institution in Jurong West that inspires the community to lead meaningful and engaged lives",
 		"School Mission": "To provide positive education that nurtures thriving teachers and flourishing pupils",
@@ -105,7 +108,66 @@
 					"Girls' Brigade": "Bronze"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Wushu",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band-Brass Ensemble": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girls' Brigade": "Bronze"
+				}
+			}
 		}
 	},
 	"postalCode": "649188"

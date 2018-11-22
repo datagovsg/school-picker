@@ -86,7 +86,7 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"STEM": "Real World Learning through Electronics Education",
+			"STEM": "Real World Learning through Electronics",
 			"Sports & Outdoor Education": "Sports, Active LIving and Values Education (Sports A.L.I.V.E!)"
 		},
 		"Special Student Development Programmes Offered": "Through our Applied Learning Programme, 'Real World Learning Through Electronics', we provide opportunities for our students to engage in authentic tasks and to acquire 21st Century Competencies.  Students will learn and understand concepts and issues related to electronics, and work in teams to apply concepts learnt to solve electronic-related tasks.   The infusion of Electronics Education into the curriculum is designed to achieve synergistic learning outcomes for students.  The school's Sports A.Li.V.E! programme seeks to engage all students in sports and physical activities while equipping them with the knowledge, skills and competencies to enjoy and promote a healthy lifestyle. Students who show keen interest and talent in sports are further developed through its sports leadership and talent development programmes.  The Whole School Approach to Effective Communication (WSA-EC) aims to nurture World-Ready Youths who are life-long readers, critical thinkers and confident communicators through exposure, experience and reflection. Students can look forward to a vibrant learning environment filled with novels, poetry, drama, theme-based reading, oral presentations and writing programmes designed to equip them with the competencies to communicate well and excel in a globalised world."
@@ -179,6 +179,26 @@
 						"'C' Div"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -214,6 +234,21 @@
 				},
 				{
 					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
 				}
@@ -267,6 +302,21 @@
 				{
 					"year": "2017",
 					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
 					"award": "Gold"
 				}
 			]
@@ -363,5 +413,6 @@
 		"TH",
 		"WC"
 	],
+	"specialNeeds": [],
 	"id": "3060"
 }

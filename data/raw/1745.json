@@ -16,7 +16,7 @@
 	"mrt": "Yew Tee MRT",
 	"bus": "Bus No 307 , 302 ",
 	"GeneralInformation": {
-		"Principal": "MRS LOH MENG HAR",
+		"Principal": "MDM LEONG MENG HAR",
 		"Vice Principal": [
 			"MR GAN KOK SOON SIMON",
 			"MISS TAY SZE LENG"
@@ -979,7 +979,71 @@
 					"Scout": "Bronze"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"4th",
+						"1st",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					],
+					[
+						"Taekwondo (Poomsae)",
+						"-",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Dance - International": "Distinction",
+					"Ensemble - Handbell / Handchime": "Distinction",
+					"Ensemble - Harmonica": "Accomplishment"
+				}
+			}
 		}
 	},
 	"postalCode": "689189"

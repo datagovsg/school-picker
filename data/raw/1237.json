@@ -69,7 +69,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Music & Performing Arts": "Mind, Body and Soul Programme"
+			"Music & Performing Arts": "Mind, Body and Soul"
 		},
 		"Special Student Development Programmes Offered": "Learning for Life Programme (Music & Performing Arts) - MBS : Engaging the Mind, Moving the Body, Touching the Soul"
 	},
@@ -328,7 +328,14 @@
 					"Scout": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Development Award": "DA (Character Development)",
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment"
+				}
+			}
 		}
 	},
 	"postalCode": "528907"

@@ -19,10 +19,7 @@
 	"bus": "74 , 74E , 88 , 101 , 147 , 147A , 161 ",
 	"GeneralInformation": {
 		"Principal": "Mr Mark Gerard Minjoot",
-		"Vice Principal": [
-			"Mr Koh Lip Kang",
-			"Mr Lee Thuan Sim"
-		],
+		"Vice Principal": "Mr Lee Thuan Sim",
 		"Vice Principal (Admin)": "Mr Cheong Wing Fook Melvin",
 		"School Vision": "A Man for Others - a Scholar, Sportsman, Gentleman and Leader",
 		"School Mission": "Montfort is a Catholic School. Guided by our Montfortian values and spirituality, we nurture each individual to realize his potential and inspire him to be a Man for Others.",
@@ -96,7 +93,7 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"STEM": "Made In Montfort – Design, Code, Make",
-			"Sports & Outdoor Education": "Student Leadership through Outdoor Adventure & Sports Programme"
+			"Sports & Outdoor Education": "Student Leadership through Outdoor Adventure & Sports"
 		},
 		"Special Student Development Programmes Offered": "Underlying Montfort Secondary's teaching and learning approach is the belief that boys learn better when we adopt Boy-Centric Teaching (BCT) strategies. Translated into classroom delivery, this would mean that teachers now incorporate novelty, movement and relevance into their lessons. The Applied Learning Programme (ALP) in Information Systems Technology & Design that was recently introduced aims to provide our students with foundational skills in this frontier learning domain. The development of leadership and character is another vital part of our Montfortian Education.  We do this through our flagship Montfort Values Plus (MVP) programme that is aligned to MOE's CCE curriculum and supported by a tiered Values-in-Action Programme for our boys from Secondary 1 through 5. Montfort's Learning for Life Programme (LLP) is centred on Leadership Development through Sports (Badminton, Softball & Football) & Outdoor Education, where our boys hone their leadership skills through various class, CCA and school activities, embarking on community and school projects based on the Kouzes & Posner Leadership Challenge Model. For our Catholic boys, we have programmes catered for them including Religious & Moral Education lessons and regular Eucharistic celebrations.  The school also provides opportunities for the students to appreciate the Arts through our 3 \"E\" Approach (Exposure, Expression & Excellence). All Secondary 1 students can look forward to participating in arts, music and theatre workshops organised by the Performing Arts CCAs."
 	},
@@ -115,6 +112,12 @@
 				]
 			},
 			"2017": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
+			"2018": {
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)"
@@ -210,6 +213,46 @@
 						"'C' Div"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Softball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -257,6 +300,26 @@
 					"year": "2017",
 					"category": "Drama - English",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
 				}
 			],
 			"Best Unit Award": [
@@ -318,6 +381,26 @@
 				{
 					"year": "2017",
 					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCDCC",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
 					"award": "Gold"
 				}
 			]
@@ -440,8 +523,7 @@
 		"TP"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"id": "7011"
 }

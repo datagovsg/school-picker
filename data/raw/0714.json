@@ -18,8 +18,8 @@
 	"GeneralInformation": {
 		"Principal": "MDM CHEANG MEI HENG",
 		"Vice Principal": [
-			"MR BOY ENG SENG",
-			"MR POH CHUN LECK"
+			"MR POH CHUN LECK",
+			"MR TAY JUNCHENG ADRIAN"
 		],
 		"Vice Principal (Admin)": "MR MOHAMAD AMRAN SHAH BIN ABD RAHIM",
 		"School Vision": "Every Eunoian a Youth with Purpose, Thinker with Heart, Leader with Courage",
@@ -99,6 +99,7 @@
 			"Netball (Girls)",
 			"Softball",
 			"Squash",
+			"Swimming",
 			"Table Tennis",
 			"Tennis",
 			"Track & Field",
@@ -148,7 +149,50 @@
 					"Dance - International": "Distinction"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Hockey",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - English": "Distinction"
+				}
+			}
 		}
 	},
 	"L1R5History": {

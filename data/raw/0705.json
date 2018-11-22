@@ -61,7 +61,6 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Air Rifle / Shooting",
 			"Badminton",
 			"Basketball",
 			"Climbing Club",
@@ -69,6 +68,7 @@
 			"Frisbee",
 			"Hockey",
 			"Netball",
+			"Shooting",
 			"Squash",
 			"Table Tennis",
 			"Tennis",
@@ -1022,7 +1022,84 @@
 					"Ensemble - Harmonica": "Distinction"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Badminton",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"4th",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Accomplishment",
+					"Ensemble - Harmonica": "Distinction"
+				}
+			}
 		}
 	},
 	"L1R5History": {

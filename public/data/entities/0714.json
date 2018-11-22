@@ -21,8 +21,8 @@
 	"GeneralInformation": {
 		"Principal": "Mdm Cheang Mei Heng",
 		"Vice Principal": [
-			"Mr Boy Eng Seng",
-			"Mr Poh Chun Leck"
+			"Mr Poh Chun Leck",
+			"Mr Tay Juncheng Adrian"
 		],
 		"Vice Principal (Admin)": "Mr Mohamad Amran Shah Bin Abd Rahim",
 		"School Vision": "Every Eunoian a Youth with Purpose, Thinker with Heart, Leader with Courage",
@@ -102,6 +102,7 @@
 			"Netball (Girls)",
 			"Softball",
 			"Squash",
+			"Swimming",
 			"Table Tennis",
 			"Tennis",
 			"Track & Field",
@@ -133,7 +134,28 @@
 	},
 	"AchievementHistory": {
 		"Junior College": {
-			"Sports & Games Competition": [],
+			"Sports & Games Competition": [
+				{
+					"year": "2018",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "3rd"
+				}
+			],
 			"SYF": [
 				{
 					"year": "2017",
@@ -143,6 +165,21 @@
 				{
 					"year": "2017",
 					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
 					"award": "Distinction"
 				}
 			],
@@ -203,5 +240,6 @@
 		"TN",
 		"CL"
 	],
+	"specialNeeds": [],
 	"id": "0714"
 }

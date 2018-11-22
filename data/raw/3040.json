@@ -16,9 +16,8 @@
 	"mrt": "BUKIT BATOK MRT",
 	"bus": "173 , 189 , 990 ",
 	"GeneralInformation": {
-		"Principal": "MR VASUTHEVAN S/O K RAMAMURTHY",
+		"Principal": "MR KEVIN ANG",
 		"Vice Principal": [
-			"MR WONG WOEN LONG",
 			"MISS WONG KAH WAI SHIRLEY",
 			"MR ANG CHERN KWANG KYRIS"
 		],
@@ -65,13 +64,11 @@
 			"Badminton",
 			"Floorball",
 			"Hockey",
-			"Softball",
 			"Table Tennis",
 			"Track & Field",
 			"Volleyball"
 		],
 		"Uniformed Groups": [
-			"Boys' Brigade",
 			"Girls' Brigade",
 			"Ncc (Land)",
 			"Npcc"
@@ -79,14 +76,12 @@
 		"Visual and Performing Arts": [
 			"Band - Military",
 			"Choir",
-			"Dance - Chinese",
-			"Dance - Modern",
+			"Dance - International",
 			"Drama - English",
 			"Media Club"
 		],
 		"Clubs & Societies": [
 			"Environmental Club",
-			"Health And Fitness Club",
 			"Infocom Club",
 			"Singapore Youth Flying Club"
 		]
@@ -97,9 +92,9 @@
 		],
 		"School Distinctive Programmes": {
 			"STEM": "Clean Energy and Environmental Technology",
-			"Music & Performing Arts": "Learning the Arts, Living the Values -- Character Education through Drama"
+			"Music & Performing Arts": "Learning the Arts, Living the Values"
 		},
-		"Special Student Development Programmes Offered": "Learning at BVSS is centred on providing an exciting range of learning experiences to develop students' passions and prepare them to be future ready. Every Secondary 1 learner will be allocated a Chromebook to allow for 1-to-1 Personal Learning Device (PLD) enabled learning. BVSS believes in developing students who take ownership of their learning and collaborate effectively with others. BVSS focuses on Science, Technology, Engineering and Math (STEM) Education and the school's Applied Learning Programme on Clean Energy and Environmental Technology comes alive with fun-filled hands on activities. In Secondary 1, students build solar cars and race them. Secondary 2 students learn to assemble a water-sensing robot that can test the purity of water, which they put to test in the school's eco-garden. In Secondary 3, they attend STEM workshops organised by polytechnics. This is part of the school's Junior OUtstanding Leaders in Energy for Sustainability (JOULES) Programme which aims to inculcate students with the knowledge and experience in the area of environment and sustainable energy as well as emphasizing the development of environmental student leadership. Drama class is offered to all lower Secondary students as part of the school's Learning the Arts, Living the Values - Character Education through Drama- Learning for Life Programme. The curriculum is co-designed with professional artistes and students learn drama techniques including improvisation and role-playing. Drama helps students develop confidence and gives them a dramatic, yet safe outlet to express themselves. All lower secondary students go through Coding and Computational Thinking Infused (CACTUS) Curriculum. They are introduced to the world of coding, robots and technology through fun and engaging hands-on learning experiences. CACTUS is designed to develop students' computational thinking, problem-solving and logical thinking skills."
+		"Special Student Development Programmes Offered": "Learning at BVSS is centred on providing an exciting range of learning experiences to develop students' passions and prepare them to be future ready. Every Secondary 1 learner will be allocated a Chromebook to allow for 1-to-1 Personal Learning Device enabled learning. BVSS believes in developing students who take ownership of their learning and collaborate effectively with others. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -399,7 +394,21 @@
 					"Npcc (Land)": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

@@ -17,7 +17,10 @@
 	"bus": "410 , 13 , 56 , 57 , 59 , 88 , 93 , 157 , 163 ",
 	"GeneralInformation": {
 		"Principal": "MR LIM HOCK CHUAN ALVIN",
-		"Vice Principal": "MR FATHUL RAHMAN BIN KAMSANI",
+		"Vice Principal": [
+			"MR FATHUL RAHMAN BIN KAMSANI",
+			"MR KOH LIP KANG"
+		],
 		"Vice Principal (Admin)": "MR ANBALAGAN S/O THANGARAJAH",
 		"School Vision": "An engaged learner today, a life-long learner tomorrow.",
 		"School Mission": "GYSS - A place where learning is an enjoyable and sustainable journey.",
@@ -690,7 +693,77 @@
 					"Red Cross": "Bronze"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"2nd",
+						"2nd",
+						"-"
+					],
+					[
+						"Cross Country",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Commendation"
+				},
+				"Best Unit Award": {
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Silver"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {
