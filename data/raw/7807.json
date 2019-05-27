@@ -24,7 +24,7 @@
 		"Vice Principal (Admin)": "MR LAU KHAI MENG",
 		"School Vision": "Every student equipped to lead a fulfilling life.",
 		"School Mission": "A community committed to provide an engaging learning experience in a safe and caring environment so as to nurture, develop and prepare every student for work and life.",
-		"School Philosophy, Culture and Ethos": "Our school's name, Spectra, represents the school's philosophy of recognising the spectrum of talents and strengths of our students. It signifies our belief that every child is different and unique. It is our goal to expand the potential of our students. We provide multiple platforms to help every student shine to the brightest. We envision a caring school culture that is affirmative and leverages the strengths of our students. There will be room for students to make mistakes, learn from them and grow, and to become special persons who make a difference to the lives of others. Our school motto, \"Together We Can\", exemplifies the \"kampung\" spirit of togetherness and collective effort. It signals our commitment to working with parents and partners to nurture and develop our students. Hence, we envision our school to be a close-knit community. We see ourselves becoming a self-sustaining and nurturing eco-system that brings out the best in those who work, study and play here.",
+		"School Philosophy, Culture and Ethos": "Our school's name, Spectra, represents the school's philosophy of recognising the spectrum of talents and strengths of our students. It signifies our belief that every child is different and unique. It is our goal to expand the potential of our students. We provide multiple platforms to help every student shine to the brightest. We envision a caring school culture that is affirmative and leverages the strengths of our students. There will be room for students to make mistakes, learn from them and grow, and to become special persons who make a difference to the lives of others. Our school motto, \"Together We Can\", exemplifies the \"kampung\" spirit of togetherness and collective effort. It signals our commitment to working with parents and partners to nurture and develop our students. Hence, we envision our school to be a close-knit community. We see ourselves becoming a self-sustaining and nurturing eco-system that brings out the best in those who work, study and play here.  At the end of Sec 4, our students will graduate with the GCE 'N' Level Certificate and the ITE Skills Subject Certificate (ISSC).",
 		"Type of School": "SPECIALISED SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -77,7 +77,7 @@
 		"MOE Programmes": [
 			"Not Available"
 		],
-		"Special Student Development Programmes Offered": "The school's customized Instructional Curriculum is supported by a 1- to -1 computing programme.  In addition, the school offers Vocational Taster Modules in the areas of Retail, Hospitality, Mechanical Design & Automation, Coding & Connectivity as well as Mobile Web Applications in the lower secondary curriculum.  The students will study two of these modules and will attain the ITE Skills Subject Certification (ISSC) at the upper secondary level.  Students will also have opportunities for industry work experience in their upper secondary years.  There is a strong emphasis on Character Development of students in the school that aims to build students' confidence and social-emotional competencies.  Milestone programmes include \"I Believe\", a four-year character development programme, Equine-Assisted Learning (EQUAL), Garden-Based Service Learning Programme, Bonding Camp, Adventure Camp, Outward Bound and Cohort Overseas Cultural Immersion Programmes.  Customised programmes include Swimming, Bowling, Inline Skating, Guitar, Music Production,  Basic Song Writing & Process Drama and Champions Programme."
+		"Special Student Development Programmes Offered": "The school's customized Instructional Curriculum is supported by a 1- to -1 computing programme.  The school offers the ITE Skills Subject Certificate (ISSC) as part of the upper secondary curriculum.  As part of the ISSC, students can specialise in two out of five Skills Subjects: (1) Mechanical Design & Automation, (2) Culinary & Restaurant Operations, (3) Retail & e-Commerce, (4) Internet of Things (IoT) Applications, and (5) Mobile Web Applications.  Students will also have opportunities for an Industry Experiential Programme as part of the ISSC.  In addition, the school offers Taster Modules in the above-mentioned ISSC Skills Subjects in the lower secondary curriculum.  There is a strong emphasis on Character Development of students in the school that aims to build students' confidence and social-emotional competencies.  Milestone programmes include \"I Believe\", a four-year character development programme, Equine-Assisted Learning (EQUAL), Garden-Based Service Learning Programme, Bonding Camp, Adventure Camp, Outward Bound and Cohort Overseas Cultural Immersion Programmes.  Customised programmes include Swimming, Bowling, Inline Skating, Guitar, Music Production,  Basic Song Writing & Process Drama and Champions Programme."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -192,7 +192,63 @@
 					"Ensemble - Angklung / Kulintang": "Accomplishment"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Girl Guides": "Bronze",
+					"Ncdcc": "Bronze"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

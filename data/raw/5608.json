@@ -71,11 +71,6 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Interdisciplinary": [
-				"C",
-				null,
-				" at KCS  - Chess for Critical Thinking, Chess for Confidence Building, and Chess for All"
-			],
 			"Community Service & Student Leadership": "Student Voice & Advocacy (SVA) @ KCS"
 		},
 		"Special Student Development Programmes Offered": "Learning for Life Programme (LLP): Student Voice Advocacy@KCS"
@@ -802,7 +797,67 @@
 					"Scout": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Development Award": "DA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"4th",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Girls' Brigade": "Silver",
+					"Red Cross": "Gold",
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "319580"

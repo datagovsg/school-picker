@@ -26,9 +26,9 @@
 			"Mr Keith Tan"
 		],
 		"Vice Principal (Admin)": "Miss See Pei Loo",
-		"School Vision": "The premier school of Leaders of Honour",
-		"School Mission": "To nurture our students to Care, to Serve, and to Lead",
-		"School Philosophy, Culture and Ethos": "In Dunman High School, we view the twin pillars of a rigorous curriculum and character development as fundamental to the education of our students. This educational ethos is influenced by Confucian philosophy, where the Head, Heart and Hands are important in developing all-round individuals and Leaders of Honour who are knowledgeable, with a heart to care for and serve others within and beyond the school community.",
+		"School Vision": "The Premier School of Leaders of Honour",
+		"School Mission": "To Nurture Our Students to Care, to Serve, and to Lead",
+		"School Philosophy, Culture and Ethos": "In Dunman High School, we view the twin pillars of a rigorous curriculum and character development as fundamental to the education of our students. This educational ethos is influenced by Confucian philosophy, where the Head, Heart and Hands are important in developing all-round individuals and knowledgeable Leaders of Honour with a heart to care for and serve others within and beyond the school community.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese",
@@ -36,18 +36,25 @@
 	},
 	"SubjectOffered": [
 		"Active Citizenry Education",
-		"Art For AEP",
+		"Additional Mathematics",
 		"Biology",
 		"Chemistry",
+		"English Language",
+		"French",
 		"General Science",
 		"Geography",
+		"German",
 		"H1 Art",
+		"H1 Biology",
+		"H1 Chemistry",
 		"H1 Chinese Language",
 		"H1 Economics",
+		"H1 French Language",
 		"H1 General Paper",
 		"H1 General Studies In Chinese",
 		"H1 Geography",
 		"H1 History",
+		"H1 Japanese Language",
 		"H1 Literature In English",
 		"H1 Mathematics",
 		"H1 Physics",
@@ -60,27 +67,34 @@
 		"H2 Computing",
 		"H2 Economics",
 		"H2 English Language And Linguistics",
+		"H2 French Language",
 		"H2 Further Mathematics",
 		"H2 Geography",
+		"H2 German Language",
 		"H2 History",
+		"H2 Japanese Language",
 		"H2 Literature In English",
+		"H2 Mathematics",
+		"H2 Music",
 		"H2 Physics",
+		"H2 Spanish",
 		"H2 Translation (Chinese)",
 		"H3 Chinese Language & Literature",
 		"H3 Economics",
 		"H3 Essentials Of Modern Physics",
 		"H3 Geography",
 		"H3 History",
+		"H3 Literature In English",
 		"H3 Mathematics",
+		"H3 Music",
 		"H3 Pharmaceutical Chemistry",
 		"H3 Proteomics",
 		"Higher Chinese",
 		"Higher Music",
-		"Higher Music Programme",
 		"History",
 		"Humanities (Ss, Geography)",
 		"Humanities (Ss, History)",
-		"Language Arts",
+		"Japanese",
 		"Literature In Chinese",
 		"Literature(E)",
 		"Malay (Special Programme)",
@@ -89,6 +103,7 @@
 		"Mathematics 2",
 		"Music (MEP)",
 		"Physics",
+		"Spanish",
 		"Thinking And Research Skills Programme"
 	],
 	"Cca": {
@@ -97,8 +112,9 @@
 			"Air Rifle/Shooting",
 			"Badminton",
 			"Basketball",
+			"Bowling (Junior High)",
 			"Bowling (Senior High)",
-			"Golf (Senior High)",
+			"Golf (Junior High)",
 			"Golf(Senior High)",
 			"Netball (Senior High)",
 			"Sailing (Senior High)",
@@ -106,6 +122,7 @@
 			"Softball",
 			"Softball (Girls)",
 			"Table Tennis",
+			"Taekwondo (Junior High)",
 			"Taekwondo (Senior High)",
 			"Tennis (Senior High)",
 			"Track & Field",
@@ -139,15 +156,10 @@
 		"Clubs & Societies": [
 			"Community Service Club",
 			"Community Service Club (Senior High)",
-			"Environment Club (Senior High)",
-			"Environment Club(Senior High)",
 			"Infocomm Club",
-			"International & Strategic Affairs Council (Senior High)",
 			"Japanese Cultural Club (Senior High)",
 			"Library Society",
-			"Mass Communication Society",
 			"Mathematics & Science Programme (Mathematics)",
-			"Mathematics Society (Senior High)",
 			"Oratorical Society",
 			"Oratorical Society (Senior High)",
 			"Pa Crew",
@@ -741,6 +753,176 @@
 						"'C' Div"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -888,6 +1070,51 @@
 					"year": "2017",
 					"category": "Ensemble - Strings",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Strings",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -968,6 +1195,26 @@
 				},
 				{
 					"year": "2017",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Bronze"
+				},
+				{
+					"year": "2018",
 					"category": "St John Ambulance Brigade",
 					"award": "Gold"
 				}
@@ -1153,6 +1400,36 @@
 						"'A' Div"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Shooting (Air Pistol)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -1265,6 +1542,31 @@
 					"year": "2017",
 					"category": "Ensemble - Strings",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - Chinese (2nd Entry)",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Strings",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": []
@@ -1322,5 +1624,6 @@
 		"TP",
 		"CA"
 	],
+	"specialNeeds": [],
 	"id": "3101"
 }

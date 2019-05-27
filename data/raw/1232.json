@@ -808,7 +808,74 @@
 					"Ensemble - Handbell / Handchime": "Accomplishment"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Gamelan": "Distinction",
+					"Ensemble - Handbell / Handchime": "Accomplishment"
+				}
+			}
 		}
 	},
 	"postalCode": "659243"

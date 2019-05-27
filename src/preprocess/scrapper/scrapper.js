@@ -28,8 +28,8 @@ export default function scrap (endpoint, options) {
 
 function getUrl (page, query) {
   let url = page
-    ? 'http://sis.moe.gov.sg/Pages/SchoolDetails/' + page + '.aspx'
-    : 'http://sis.moe.gov.sg/SchoolDetails.aspx'
+    ? 'https://sis.moe.gov.sg/Pages/SchoolDetails/' + page + '.aspx'
+    : 'https://sis.moe.gov.sg/SchoolDetails.aspx'
   if (query) {
     url += '?' + Object.keys(query).map(key => key + '=' + query[key]).join('&')
   }

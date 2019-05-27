@@ -19,14 +19,10 @@
 	"bus": "302",
 	"GeneralInformation": {
 		"Principal": "Mr Goh Soon Hoe",
-		"Principal-Designate": "MISS TAN HWEE PIN",
-		"Vice Principal": [
-			"Mr Lee Han Hwa",
-			"Mr Christopher Thomas"
-		],
+		"Vice Principal": "Mr Christopher Thomas",
 		"Vice Principal (Admin)": "Mr Loh Kah Hong",
 		"School Vision": "Leaders with a Heart to Serve. Thinkers with the Drive to Excel.",
-		"School Mission": "Serving with heart, values and purposes to bring out the best in every child.",
+		"School Mission": "Serving with heart, values and purpose to bring out the best in every child.",
 		"School Philosophy, Culture and Ethos": "Guided by the school philosophy -  teaching with passion and conviction, every child can learn, developing each child holistically, and preparing students for future challenges, Kranji Secondary builds a shared vision that is values-driven and student-centric. The school believes that through fostering a culture of learning, innovation and excellence, students will be confident leaders with a heart to serve and thinkers with the drive to excel.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -37,6 +33,8 @@
 		"Art",
 		"Art Na Level",
 		"Art Nt Level",
+		"Biology",
+		"Chemistry",
 		"Chinese",
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
@@ -87,7 +85,7 @@
 		],
 		"Clubs & Societies": [
 			"Debate",
-			"Ecos",
+			"Environment Service Learning (Ecos)",
 			"K-Production Technical",
 			"Media Innovation"
 		]
@@ -95,7 +93,7 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Interdisciplinary": "Nurturing Communities of Reflective and Independent Learners through Thinking Curriculum",
-			"Community & Youth Leadership": "Nurturing a Leader in Every Kranjian"
+			"Community & Youth Leadership": "Nurturing a Leader in Every Kranjian through Community and Youth Leadership"
 		},
 		"Special Student Development Programmes Offered": "In Kranji Secondary School, we provide a myriad of opportunities and platforms for Kranjians to learn and grow as leaders in support of our vision in developing \"Leaders with a heart to serve and thinkers with the drive to excel\". "
 	},
@@ -130,6 +128,9 @@
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
 				"Development Award": "DA (National Education)",
 				"Outstanding Development Award": "ODA (Character Development)"
+			},
+			"2018": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course"
 			},
 			"Sports & Games Competition": [
 				{
@@ -179,6 +180,16 @@
 						"Zone",
 						"Girls",
 						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
 					],
 					"award": "4th"
 				}
@@ -258,6 +269,31 @@
 					"year": "2017",
 					"category": "Drama - English",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -333,6 +369,31 @@
 				},
 				{
 					"year": "2017",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "St John Ambulance Brigade",
 					"award": "Gold"
 				}
@@ -455,7 +516,6 @@
 		"WC"
 	],
 	"specialNeeds": [
-		"Mild SEN",
 		"PD"
 	],
 	"id": "3065"

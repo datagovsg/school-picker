@@ -430,6 +430,116 @@
 						"'A' Div"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Fencing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Fencing",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Shooting (Air Pistol)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -515,6 +625,31 @@
 				},
 				{
 					"year": "2017",
+					"category": "Ensemble - Guitar",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
 					"category": "Ensemble - Guitar",
 					"award": "Commendation"
 				}
@@ -613,5 +748,6 @@
 		"CH",
 		"TM"
 	],
+	"specialNeeds": [],
 	"id": "0712"
 }

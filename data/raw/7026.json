@@ -1165,7 +1165,93 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Handbell / Handchime": "Distinction",
+					"Ensemble - Harp": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girls' Brigade": "Gold",
+					"Npcc (Land)": "Bronze",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

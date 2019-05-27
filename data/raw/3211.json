@@ -17,7 +17,10 @@
 	"bus": "30 , 49 , 98 , 98A , 154 , 240 , 246 ",
 	"GeneralInformation": {
 		"Principal": "MDM TAN YOK CHING RUBY",
-		"Vice Principal": "MISS TAN HUI MIN DEBORAH",
+		"Vice Principal": [
+			"MISS TAN HUI MIN DEBORAH",
+			"MDM TAY SU- CHIN (ZHENG SUZHEN)"
+		],
 		"Vice Principal (Admin)": "MISS KOH MUI GEK",
 		"School Vision": [
 			"Learn with Purpose",
@@ -62,6 +65,7 @@
 		"HUMANITIES (SS, HISTORY)",
 		"HUMANITIES (SS, LIT IN CHINESE)",
 		"HUMANITIES (SS, LIT IN ENGLISH)",
+		"LITERATURE IN CHINESE",
 		"LITERATURE(E)",
 		"MALAY",
 		"MALAY N(A)",
@@ -84,6 +88,7 @@
 	],
 	"Cca": {
 		"Physical Sports": [
+			"Badminton",
 			"Basketball",
 			"Cross Country",
 			"Dragon Boat",
@@ -117,8 +122,8 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Languages & Humanities": "Environmental Studies: An Inter-disciplinary Approach To Sustainable Living",
-			"Sports & Outdoor Education": "Sports For Life: Leading a Sporty and Sporting Lifestyle"
+			"Languages & Humanities": "Environmental Studies: An Inter-disciplinary Approach To Sustainable Urban Living",
+			"Sports & Outdoor Education": "Sporty at Heart, Sporting in Mind"
 		},
 		"Special Student Development Programmes Offered": "In JSS, we value every student, believing that they can contribute meaningfully to the society in all that they do. Our Special Programmes are designed to nurture their hearts and enrich their minds, for them to become contributing members of the society. "
 	},
@@ -1066,7 +1071,91 @@
 					"Scout (Unit 1)": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Best Practice Awards": "BPA (Teaching and Learning)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"2nd",
+						"-",
+						"2nd",
+						"3rd"
+					],
+					[
+						"Cross Country",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Girl Guides": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Bronze",
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

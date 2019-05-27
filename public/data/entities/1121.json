@@ -58,7 +58,7 @@
 		],
 		"School Distinctive Programmes": {
 			"Science": "Science for Life @ HPPS",
-			"Sports & Outdoor Education": "Nurturing Talents Through Gymnastics"
+			"Sports & Outdoor Education": "Sports4Life @ HHPS"
 		},
 		"Special Student Development Programmes Offered": "1. The \"Character Education Programme\" seeks to imbue strong values in our students and develop in them a deep sense of belonging and rootedness to Singapore. Students learn about empathy and care for the environment and fellow citizens through VIA projects. 2. The \"Applied Learning Programme\" enables students to apply scientific skills and concepts in real-life situation through inquiry, while the IvP provides a unique opportunity for them to develop their problem-solving & inventive skills. 3. \"Sports4Life@HPPS\" aims to build character and instil values through sports and outdoor education. Another key feature of the LLP is the Sports Leaders Development Programme, which focuses on developing students in the physical and leadership domains. There is also a modular Gymnastics Programme for P1 and 2 students to develop their motor skills, and build flexibility, agility and strength - fundamental to the development of advanced motor skills. 4. In the \"Literature Programme\", students are taught how to be sensitive and empathetic towards others alongside with the appreciation and analysis of good language use. 5. The \"Programme for Active Learning\" exposes the lower primary students to varied & fun learning experiences in four domains - Sports & Games, Outdoor Education, Performing and Visual Arts - to nurture their socio-emotional competencies, curiosity, co-operative skills and confidence. 6. To prepare our students to have a global outlook, the school partners The Japanese School to arrange student and teacher exchanges as well as Homestay Programme for P5 students."
 	},
@@ -71,6 +71,9 @@
 				"School Distinction Awards": "SDA"
 			},
 			"2017": {
+				"School Distinction Awards": "SDA"
+			},
+			"2018": {
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
@@ -433,6 +436,186 @@
 						"'D' Div"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Gymnastics (Artistic)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Gymnastics (Artistic)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'D' Div"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -515,6 +698,36 @@
 					"year": "2017",
 					"category": "Ensemble - Strings",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -572,6 +785,26 @@
 					"year": "2017",
 					"category": "Scout",
 					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Brownies",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Gold"
 				}
 			]
 		}
@@ -595,15 +828,26 @@
 		"TN",
 		"CL"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 300,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
 		"VACANCY FOR PHASE 1": 260,
-		"NO. OF APPLICANTS IN PHASE 1": 160
+		"NO. OF APPLICANTS IN PHASE 1": 160,
+		"PLACES TAKEN UP TO PHASE 1": 159,
+		"VACANCY FOR PHASE 2A1": 101,
+		"NO. OF APPLICANTS IN PHASE 2A1": 110,
+		"PLACES TAKEN UP TO PHASE 2A1": 260,
+		"VACANCY FOR PHASE 2A2": 0,
+		"NO. OF APPLICANTS IN PHASE 2A2": 0,
+		"PLACES TAKEN UP TO PHASE 2A2": 259,
+		"VACANCY FOR PHASE 2B": 21,
+		"NO. OF APPLICANTS IN PHASE 2B": 19,
+		"PLACES TAKEN UP TO PHASE 2B": 275,
+		"VACANCY FOR PHASE 2C": 25,
+		"NO. OF APPLICANTS IN PHASE 2C": 35,
+		"PLACES TAKEN UP TO PHASE 2C": 300
 	},
 	"id": "1121"
 }

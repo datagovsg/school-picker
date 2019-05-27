@@ -92,6 +92,9 @@
 			"2017": {
 				"Development Award": "DA (Character Development)"
 			},
+			"2018": {
+				"Development Award": "DA (Character Development)"
+			},
 			"Sports & Games Competition": [
 				{
 					"year": "2015",
@@ -302,6 +305,66 @@
 						"'D' Div"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'D' Div"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -404,6 +467,36 @@
 					"year": "2017",
 					"category": "Dance - International",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
 				}
 			],
 			"Best Unit Award": []
@@ -427,15 +520,29 @@
 		"TM"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 240,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
 		"VACANCY FOR PHASE 1": 200,
-		"NO. OF APPLICANTS IN PHASE 1": 42
+		"NO. OF APPLICANTS IN PHASE 1": 42,
+		"PLACES TAKEN UP TO PHASE 1": 42,
+		"VACANCY FOR PHASE 2A1": 158,
+		"NO. OF APPLICANTS IN PHASE 2A1": 6,
+		"PLACES TAKEN UP TO PHASE 2A1": 48,
+		"VACANCY FOR PHASE 2A2": 152,
+		"NO. OF APPLICANTS IN PHASE 2A2": 13,
+		"PLACES TAKEN UP TO PHASE 2A2": 59,
+		"VACANCY FOR PHASE 2B": 91,
+		"NO. OF APPLICANTS IN PHASE 2B": 18,
+		"PLACES TAKEN UP TO PHASE 2B": 75,
+		"VACANCY FOR PHASE 2C": 165,
+		"NO. OF APPLICANTS IN PHASE 2C": 79,
+		"PLACES TAKEN UP TO PHASE 2C": 154,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 86,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 64
 	},
 	"id": "5011"
 }

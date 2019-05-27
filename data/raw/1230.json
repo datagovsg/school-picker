@@ -805,7 +805,66 @@
 					"Scout": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"3rd",
+						"2nd",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Accomplishment",
+					"Ensemble - Guzheng": "Commendation"
+				},
+				"Best Unit Award": {
+					"Brownies": "Silver",
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "469317"

@@ -16,7 +16,7 @@
 	"mrt": [
 		"Kembangan MRT"
 	],
-	"bus": "4N , 13 , 16 , 31 , 36 , 43 , 47 , 48 , 55 , 134 , 135 , 150 , 196 , 196E , 197 , 763 , 853# ",
+	"bus": "4N , 13 , 16 , 31 , 36 , 43 , 47 , 48 , 55 , 134 , 135 , 150 , 196 , 196E , 197 , 763 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Chan Gek San Patricia",
 		"Vice Principal": "Mdm Ong Bee Hoon",
@@ -91,10 +91,10 @@
 		],
 		"Clubs & Societies": [
 			"Cabin Club",
-			"Debate Society",
+			"Debate Club",
 			"Entrepreneur Club",
 			"Ijym",
-			"Infocomm Club"
+			"Media Communications Club (Previously Infocomm Club)"
 		]
 	},
 	"SpecialProgrammes": {
@@ -117,6 +117,9 @@
 				"School Distinction Awards": "SDA"
 			},
 			"2017": {
+				"School Distinction Awards": "SDA"
+			},
+			"2018": {
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
@@ -165,6 +168,16 @@
 					"category": "Badminton",
 					"subCategory": [
 						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
 						"Girls",
 						"'C' Div"
 					],
@@ -266,6 +279,46 @@
 					"year": "2017",
 					"category": "Drama - English",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Brass Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Wind Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -312,6 +365,16 @@
 				{
 					"year": "2017",
 					"category": "St John Ambulance Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCDCC",
 					"award": "Bronze"
 				}
 			]
@@ -432,8 +495,7 @@
 		"CA"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"id": "7008"
 }

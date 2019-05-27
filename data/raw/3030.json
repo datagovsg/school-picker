@@ -23,7 +23,7 @@
 		],
 		"School Vision": "A school known for nurturing leaders of character and intellect.",
 		"School Mission": "To provide a nurturing, challenging and inclusive environment for every Temasekian to be developed into a caring leader with exemplary character and academic excellence, and a socially responsible youth with global awareness.",
-		"School Philosophy, Culture and Ethos": "In Temasek Secondary School, we are firmly guided by our Motto, \"We Care\". It underpins our teachers' belief and directs their approach in caring for and knowing each individual Temasekian well so that the students can be developed to the best of their abilities. In caring for our students, we ensure that they receive an education that empowers them to master their own learning and excel academically. More fundamentally, we care to systematically provide for the development of Temasekians' moral character and vital life-skills such as critical thinking, problem-solving, communication and leadership skills that enable them to adapt flexibly and rise to challenges in the future. We also design and implement with care, purposeful and engaging experiences for students to learn about various cultural, social and global issues, while guiding them to empathise with others, so that they will act on what is good and right for the family, school, community and nation.",
+		"School Philosophy, Culture and Ethos": "In Temasek Secondary School, we are firmly guided by our Motto, \"We Care\". It underpins our teachers' belief and directs their approach in caring for and knowing each individual Temasekian well so that the students can be developed to the best of their abilities. In caring for our students,we ensure that they receive an education that empowers them to master their own learning and excel academically. More fundamentally, we care to systematically provide for the development of Temasekians' moral character and vital life-skills such as critical thinking, problem-solving, communication and leadership skills that enable them to adapt flexibly and rise to challenges in the future. We also design and implement with care, purposeful and engaging experiences for students to learn about various cultural, social and global issues, while guiding them to empathise with others, so that they will act on what is good and right for the family, school, community and nation.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -93,7 +93,7 @@
 		"MOE Programmes": [
 			"Not Available"
 		],
-		"Special Student Development Programmes Offered": "Our school's distinctiveness is founded on four signature programmes; iLEAD@TMS, ii) Cross- Cultural Awareness (C2A), iii) the Temasek Ignis Programme (TIP) and iv) niche CCA opportunities. LEAD@TMS offers student leaders the opportunity to develop values, competencies and knowledge through a customised student leadership programme. Based on their interests and talents, students are formally appointed into one of the five leadership groups where they lead in various school-level and community-based activities. Additionally, to successfully navigate a culturally diverse world, all student leaders are developed in C2A to deepen their understanding of other cultures and strengthen their global perspective.  C2A is also made available to all lower secondary students via Project Culture which piques their curiosity to learn about the similarities and difference between cultures, as well as Camp Culture, which enable students to delve deeper into cultural issues after visiting various religious sites. Beyond leadership and culture, TMS also has a talent development programme known as TIP. This programme caters to students who demonstrate strong intellectual curiosity and personal drive. With the purpose to develop independent learners, confident thinkers and innovators, 'TIPpers' are stretched to further hone academic skills and student leadership ability. Finally, school distinctiveness is also captured through four niche CCAs- Canoeing, Shooting, Drama or Choir, which aim to nurture gifts in sports and the aesthetics; in the process, instilling a sense of commitment, self-reliance and a spirit of service to others."
+		"Special Student Development Programmes Offered": "Our school's distinctiveness is founded on four signature programmes; i) LEAD@TMS, ii) Cross-Cultural Awareness (C2A), iii) the Temasek Ignis Programme (TIP) and iv) niche CCA opportunities.LEAD@TMS offers student leaders the opportunity to develop values, competencies and knowledge through a customised student leadership programme. Based on their interests and talents, students are formally appointed into one of the five leadership groups where they lead in various school-level and community-based activities. Additionally, to successfully navigate a culturally diverse world, all student leaders are developed in C2A to deepen their understanding of other cultures and strengthen their global perspective.C2A is also made available to all lower secondary students via Project Culture which piques their curiosity to learn about the similarities and difference between cultures, as well as Camp Culture, which enable students to delve deeper into cultural issues after visiting various religious sites. Beyond leadership and culture, TMS also has a talent development programme known as TIP. This programme caters to students who demonstrate strong intellectual curiosity and personal drive. With the purpose to develop independent learners, confident thinkers and innovators, 'TIPpers' are stretched to further hone academic skills and student leadership ability. Finally, school distinctiveness is also captured through four niche CCAs- Canoeing, Shooting, Drama or Choir, which aim to nurture gifts in sports and the aesthetics; in the process, instilling a sense of commitment, self-reliance and a spirit of service to others."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1031,7 +1031,67 @@
 					"Npcc (Land)": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Canoeing",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - English": "Distinction"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Ncdcc": "Gold",
+					"Npcc (Land)": "Silver"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

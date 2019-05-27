@@ -73,7 +73,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Community Service & Student Leadership": "Every Bendemeerian, A Leader who Cares and Shares",
+			"Community Service & Student Leadership": "Developing Bendemeerians to be Confident Leaders, Rooted in Values",
 			"Music & Performing Arts": "Bendemeer’s TEMPO (Towards Enhancement of Music and Performing Arts Opportunities)"
 		},
 		"Special Student Development Programmes Offered": "Bendemeer Primary believes in the holistic development of pupils and using BLOOM as our guiding principle, we aim to provide opportunities for all students to achieve and excel. BLOOM stands for:"
@@ -968,7 +968,72 @@
 					"Scout": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"4th",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Accomplishment"
+				}
+			}
 		}
 	},
 	"postalCode": "339948"

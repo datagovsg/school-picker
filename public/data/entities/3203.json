@@ -54,7 +54,6 @@
 		"Food And Consumer Education",
 		"Food Studies, N Level",
 		"Geography",
-		"Higher Chinese",
 		"History",
 		"Literature(E)",
 		"Malay",
@@ -175,6 +174,26 @@
 						"'B' Div"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -232,6 +251,21 @@
 					"year": "2017",
 					"category": "Drama - English",
 					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -277,6 +311,21 @@
 				},
 				{
 					"year": "2017",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "St John Ambulance Brigade",
 					"award": "Gold"
 				}
@@ -397,8 +446,6 @@
 		"SI",
 		"CA"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3203"
 }

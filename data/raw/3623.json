@@ -642,7 +642,80 @@
 					"Red Cross": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Cross Country",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Gamelan": "Distinction",
+					"Ensemble - Guitar": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Ncdcc": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

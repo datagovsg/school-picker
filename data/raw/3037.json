@@ -40,6 +40,7 @@
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
+		"ELECTRONICS",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"FOOD AND CONSUMER EDUCATION",
@@ -48,6 +49,7 @@
 		"HISTORY",
 		"LITERATURE(E)",
 		"MALAY",
+		"MALAY (SPECIAL PROGRAMME)",
 		"MATHEMATICS",
 		"MUSIC",
 		"MUSIC NT LEVEL",
@@ -69,17 +71,17 @@
 			"Girl Guides",
 			"Ncc (Land) (Boys)",
 			"Npcc",
-			"St. John Brigade"
+			"St John Brigade"
 		],
 		"Visual and Performing Arts": [
 			"Art Club",
+			"Band - Concert",
 			"Dance Dynamics",
 			"English Drama",
 			"Malay Dance",
 			"Modern Chinese Dance",
 			"Photo And Video Club",
-			"Show Choir",
-			"Wind Ensemble"
+			"Show Choir"
 		],
 		"Clubs & Societies": [
 			"Infocomm Club",
@@ -92,10 +94,10 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"STEM": "Creative Engineering : Inter-disciplinary Authentic Problem Solving",
+			"STEM": "Creative Engineering: Inter-disciplinary Authentic Problem Solving",
 			"Music & Performing Arts / Visual Arts & Design": "Creative Expressions: Expressing creatively through visual and performing arts (Arts Education)"
 		},
-		"Special Student Development Programmes Offered": "The school offers a Learning for Life Programme (LLP) titled 'Creative Expressions: Character Development Through Visual and Performing Arts'. By actively involving students in artistic exposure, artistic creation, and artistic outreach, our LLP forms a core component of the school's co-curriculum. Learning through the arts, our students will embody intellectual curiosity in art-making, tenacity in their learning attitude, and steadfast values in collaborative endeavours. Above all, Tampinesians should grow through our LLP to become individuals of good character who are responsible to family, community, and nation. To promote applied learning in the academic domain, the school has an Applied Learning Programme (ALP) in 'Creative Engineering: Inter-disciplinary Authentic Problem Solving'. The school has integrated problem solving into the disciplines of Science, Technology, Engineering and Mathematics (STEM). Since 2017, the school has introduced Maker Faire as a CCA and from 2019 the subject, Electronics into the upper secondary curriculum to extend the interests of students in STEM."
+		"Special Student Development Programmes Offered": "The school offers a Learning for Life Programme (LLP) titled 'Creative Expressions: Character Development Through Visual and Performing Arts'. By actively involving students in artistic exposure, artistic creation and artistic outreach, our LLP forms a core component of the school's co-curriculum. Learning through the arts, our students will embody intellectual curiosity in art-making, tenacity in their learning attitude and steadfast values in collaborative endeavours. Above all, Tampinesians should grow through our LLP to become individuals of good character who are responsible to family, community and nation. To promote applied learning in the academic domain, the school has an Applied Learning Programme (ALP) in 'Creative Engineering: Inter-disciplinary Authentic Problem Solving'. The school has integrated problem solving into the disciplines of Science, Technology, Engineering and Mathematics (STEM). Since 2017, the school has introduced Maker Faire as a CCA and from 2019 the subject, Electronics, will be introduced into the upper secondary curriculum to extend the interests of students in STEM."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -584,7 +586,80 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girl Guides": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Silver"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

@@ -106,13 +106,24 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Languages & Humanities": "Developing Confident & Competent Communicators through Oracy Skills Programme",
-			"Music & Performing Arts": "Performing Arts : “iACE@Juying” ( I Appreciate, I Create, I Exhibit at Juying)"
+			"Music & Performing Arts": "Performing Arts : “iACE@Juying” (I Appreciate, I Create, I Exhibit at Juying)"
 		},
 		"Special Student Development Programmes Offered": "Applied Learning Programme (ALP) in Oracy: Develops students to be competent and confident communicators. Students undergo a tiered oracy programme from Tier 1 for all classes (Stand & Deliver), Tier 2 (TED-Talks) to Tier 2+ (Talent development in journalistic skills such as roving reporters and student emcees). A Speakers' Corner, a podium set up on a stage in the canteen, allows students to confidently address their schoolmates on various issues."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"Sports & Games Competition": [],
+			"Sports & Games Competition": [
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				}
+			],
 			"SYF": [
 				{
 					"year": "2015",
@@ -178,6 +189,31 @@
 					"year": "2017",
 					"category": "Drama - English",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -208,6 +244,16 @@
 				},
 				{
 					"year": "2017",
+					"category": "NCDCC",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Sea)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
 					"category": "NCDCC",
 					"award": "Gold"
 				}
@@ -329,5 +375,6 @@
 		"TH",
 		"WC"
 	],
+	"specialNeeds": [],
 	"id": "3066"
 }

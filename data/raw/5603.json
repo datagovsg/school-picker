@@ -1045,7 +1045,97 @@
 					"Scout": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"3rd"
+					],
+					[
+						"Wushu",
+						"3rd",
+						"2nd",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band-Brass": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "529067"

@@ -14,17 +14,18 @@
 	],
 	"email": "wdl_ss@moe.edu.sg",
 	"mrt": [
-		"Marsiling MRT"
+		"Marsiling MRT",
+		"Woodlands MRT"
 	],
 	"bus": "913 , 913E , 178 , 856 , 903 ",
 	"GeneralInformation": {
 		"Principal": "Miss Tan Ke Xin",
 		"Vice Principal": [
-			"Mdm Loh Soi Hong Michelle",
-			"Mdm Masayu Binte Mahmud"
+			"Mdm Masayu Binte Mahmud",
+			"Mr Chen Bing Hong"
 		],
-		"School Vision": "Every Woodlander a Gift to Society",
-		"School Mission": "Nurturing Enduring Hearts and Creative Minds Ready to Serve the Society",
+		"School Vision": "Every Woodlander a Gift to Society.",
+		"School Mission": "Nurturing Enduring Hearts and Creative Minds Ready to Serve Society.",
 		"School Philosophy, Culture and Ethos": "A School Distinction Award and Singapore Quality Class school, the school is committed to achieving its mission, Nurturing Enduring Hearts and Creative Minds Ready to Serve Society. Through the school motto 'Wisdom and Truth', the school seeks to imbue in each student the school values, represented in the acronym GR2EAT, which stands for: Growth, Respect, Resilience, Empathy, Appreciation and Trustworthiness. The school strongly believes that quality staff, and strong partnerships with alumni, parents, community and educational partners are the foundation for organisational excellence. The students' many achievements in the Academics, Sports, Performing Arts and Uniformed Groups are a testament to the impact of our programmes and commitment in equipping them with the values, skills and knowledge to excel even when students may or may not have the background or prerequisites. The school's best practices on Teaching & Learning, Student-all-round Development, Character & Citizenship education and Staff Well-being & Development signifies that the school is committed in grooming our students to be confident and ready for the ever changing economic and social landscape.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -33,39 +34,50 @@
 	"SubjectOffered": [
 		"Additional Mathematics",
 		"Art",
+		"Art Na Level",
+		"Art Nt Level",
+		"Art 'O' Level",
 		"Basic Chinese",
 		"Basic Malay",
 		"Basic Tamil",
-		"Biology",
 		"Chemistry",
 		"Chinese",
 		"Chinese B",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
-		"Combined Humanities (SS,LC)",
-		"Combined Humanities (SS,LM)",
-		"Combined Humanities (SS,LT)",
+		"Chinese N(A)",
 		"Computer Applications",
 		"Design & Technology",
 		"Elements Of Business Skills",
 		"English Language",
+		"English Language (Syll A)",
+		"English Language (Syll T)",
+		"Food & Nutrition",
 		"Food And Consumer Education",
 		"Higher Chinese",
 		"Higher Malay",
 		"Higher Tamil",
-		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In Chinese)",
+		"Humanities (Ss, Lit In Malay)",
+		"Humanities (Ss, Lit In Tamil)",
 		"Literature(E)",
 		"Malay",
-		"Malay B",
+		"Malay N(A)",
 		"Mathematics",
+		"Mathematics (Syllabus A)",
+		"Mathematics (Syllabus T)",
 		"Music",
 		"Physical Education",
 		"Physics",
 		"Principles Of Accounts",
+		"Science",
 		"Science (Chem, Bio)",
 		"Science (Phy, Chem)",
 		"Science (Syll T)",
-		"Tamil"
+		"Social Studies N(T)",
+		"Tamil",
+		"Tamil B",
+		"Tamil N(A)"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -86,6 +98,7 @@
 		"Visual and Performing Arts": [
 			"Art Club",
 			"Band - Concert",
+			"Dance - International",
 			"Drama - English"
 		],
 		"Clubs & Societies": [
@@ -97,7 +110,7 @@
 			"STEM": "Real Food, Real Science",
 			"Community & Youth Leadership": "Active Glocal Citizens Programme"
 		},
-		"Special Student Development Programmes Offered": "The school runs two distinctive school programmes in the Applied Learning Programme entitled \"Real Food, Real Science\" and the Learning for Life Programme entitled \"Active Glocal Citizens\". "
+		"Special Student Development Programmes Offered": "The school runs two distinctive school programmes in the Applied Learning Programme entitled \"Real Food, Real Science\" and the Learning for Life Programme entitled \"Glocal Citizenship Programme\". "
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -111,6 +124,9 @@
 				"School Distinction Awards": "SDA"
 			},
 			"2017": {
+				"School Distinction Awards": "SDA"
+			},
+			"2018": {
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
@@ -243,6 +259,16 @@
 						"'C' Div"
 					],
 					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -345,6 +371,36 @@
 					"year": "2017",
 					"category": "Ensemble - Guitar",
 					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - Multi-Lingual",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Commendation"
 				}
 			],
 			"Best Unit Award": [
@@ -420,6 +476,31 @@
 				},
 				{
 					"year": "2017",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Bronze"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "St John Ambulance Brigade",
 					"award": "Gold"
 				}
@@ -539,8 +620,6 @@
 		"SB",
 		"SK"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3041"
 }

@@ -128,6 +128,36 @@
 						"'B' Div"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Cross Country",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -225,6 +255,41 @@
 					"year": "2017",
 					"category": "Ensemble - Guitar",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Gamelan",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -287,6 +352,26 @@
 					"year": "2017",
 					"category": "Red Cross",
 					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCDCC",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Red Cross",
+					"award": "Gold"
 				}
 			]
 		}
@@ -404,5 +489,6 @@
 		"SB",
 		"SK"
 	],
+	"specialNeeds": [],
 	"id": "3623"
 }

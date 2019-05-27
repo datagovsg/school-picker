@@ -301,6 +301,66 @@
 						"Senior"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -393,6 +453,36 @@
 					"year": "2017",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -442,14 +532,26 @@
 		"WC"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"p1Registration": {
 		"TOTAL VACANCY": 210,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
 		"VACANCY FOR PHASE 1": 170,
-		"NO. OF APPLICANTS IN PHASE 1": 82
+		"NO. OF APPLICANTS IN PHASE 1": 82,
+		"PLACES TAKEN UP TO PHASE 1": 82,
+		"VACANCY FOR PHASE 2A1": 88,
+		"NO. OF APPLICANTS IN PHASE 2A1": 0,
+		"PLACES TAKEN UP TO PHASE 2A1": 82,
+		"VACANCY FOR PHASE 2A2": 88,
+		"NO. OF APPLICANTS IN PHASE 2A2": 12,
+		"PLACES TAKEN UP TO PHASE 2A2": 94,
+		"VACANCY FOR PHASE 2B": 58,
+		"NO. OF APPLICANTS IN PHASE 2B": 14,
+		"PLACES TAKEN UP TO PHASE 2B": 107,
+		"VACANCY FOR PHASE 2C": 103,
+		"NO. OF APPLICANTS IN PHASE 2C": 164,
+		"PLACES TAKEN UP TO PHASE 2C": 210
 	},
 	"id": "1244"
 }

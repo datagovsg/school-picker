@@ -1137,7 +1137,69 @@
 					"Scout": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Brownies": "Bronze",
+					"Girls' Brigade": "Gold",
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "319252"

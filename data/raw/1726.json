@@ -85,6 +85,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
+			"Interdisciplinary": "ThINKabits",
 			"Community Service & Student Leadership": "Environmental Education"
 		},
 		"Special Student Development Programmes Offered": "Nurturing Curiosity, Instilling Empathy for the environment"
@@ -472,7 +473,17 @@
 					"Scout": "Bronze"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment"
+				}
+			}
 		}
 	},
 	"postalCode": "649037"

@@ -152,6 +152,26 @@
 						"'B' Div"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Golf",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Golf",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -229,6 +249,31 @@
 					"year": "2017",
 					"category": "Drama - English",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -274,6 +319,21 @@
 				},
 				{
 					"year": "2017",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "St John Ambulance Brigade",
 					"award": "Gold"
 				}
@@ -395,8 +455,6 @@
 		"CH",
 		"TM"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "7031"
 }

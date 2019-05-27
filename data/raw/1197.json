@@ -17,7 +17,10 @@
 	"bus": "30 , 51 , 78 , 143 , 285 ",
 	"GeneralInformation": {
 		"Principal": "MDM MAY TAN MUI GEE",
-		"Vice Principal": "MDM CHAN SIN LI, CINDY",
+		"Vice Principal": [
+			"MDM CHAN SIN LI, CINDY",
+			"MR WONG WOEN LONG"
+		],
 		"School Vision": "An Achieving School with a Caring Environment",
 		"School Mission": "Developing a community of life-long learners, leaders of character and socially responsible global citizens",
 		"School Philosophy, Culture and Ethos": [
@@ -933,7 +936,79 @@
 					"Scout": "Bronze"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-"
+					],
+					[
+						"Volleyball",
+						"2nd",
+						"1st",
+						"2nd",
+						"3rd",
+						"1st",
+						"1st",
+						"2nd",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Best Unit Award": {
+					"Brownies": "Silver",
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "128104"

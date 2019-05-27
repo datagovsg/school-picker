@@ -482,7 +482,25 @@
 					"Scout": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold",
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "768960"

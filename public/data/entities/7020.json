@@ -111,6 +111,9 @@
 			"2017": {
 				"School Distinction Awards": "SDA"
 			},
+			"2018": {
+				"School Distinction Awards": "SDA"
+			},
 			"Sports & Games Competition": [
 				{
 					"year": "2015",
@@ -631,6 +634,166 @@
 						"'C' Div"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Canoeing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Canoeing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Fencing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Fencing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Gymnastics (Trampoline)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Judo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Sailing (Byte)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -728,6 +891,36 @@
 					"year": "2017",
 					"category": "Ensemble - Guitar",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -805,6 +998,31 @@
 					"year": "2017",
 					"category": "St John Ambulance Brigade",
 					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Air Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
 				}
 			]
 		},
@@ -813,6 +1031,9 @@
 				"School Distinction Awards": "SDA"
 			},
 			"2017": {
+				"School Distinction Awards": "SDA"
+			},
+			"2018": {
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [],
@@ -999,5 +1220,6 @@
 		"TP",
 		"CA"
 	],
+	"specialNeeds": [],
 	"id": "7020"
 }

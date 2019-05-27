@@ -17,11 +17,7 @@
 	"bus": "945",
 	"GeneralInformation": {
 		"Principal": "MISS CECILIA LIM SEOK CHENG",
-		"Vice Principal": [
-			"MR ANDY MICKEY CHOONG TEK CHOY",
-			"MRS SHANTHI SURAJ NAIR"
-		],
-		"Vice Principal (Admin)": "MR CHAN KEN YAN MICHAEL",
+		"Vice Principal": "MRS SHANTHI SURAJ NAIR",
 		"School Vision": "Caring Hearts, Passionate Learners; Lasallians in service of God, family and nation",
 		"School Mission": "Enabling our children to learn how to learn and to learn how to live,to become persons of integrity and persons for others in God's service",
 		"School Philosophy, Culture and Ethos": [
@@ -83,7 +79,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Visual Arts & Design": "The SAPS Visual Arts Programme for Lifelong Learning",
+			"Visual Arts & Design": "Visual Arts Programme for Active Learning (VAPAL)",
 			"Sports & Outdoor Education": "LEARN.PLAY.GROW – ‘Developing Character through Sports’ Programme"
 		},
 		"Special Student Development Programmes Offered": "To achieve our Mission and Vision, the required competencies, skills and attitudes are inculcated in our pupils through key programmes such as:"
@@ -717,7 +713,66 @@
 					"Scout": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition(Sm)",
+					"Art - Category C": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Brownies": "Gold",
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "659401"

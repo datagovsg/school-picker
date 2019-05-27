@@ -821,7 +821,89 @@
 					"Red Cross": "Bronze"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"2nd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st"
+					],
+					[
+						"Tenpin Bowling",
+						"-",
+						"-",
+						"4th",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Gamelan": "Distinction",
+					"Ensemble - Handbell / Handchime": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Brownies": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "427072"

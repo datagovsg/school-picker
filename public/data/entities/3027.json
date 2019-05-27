@@ -21,8 +21,7 @@
 		"Principal": "Miss Pauline Fun Kar Whye",
 		"Vice Principal": [
 			"Miss Azlinda Bte Samsudin",
-			"Miss Tan Po Chin",
-			"Mr Chen Bing Hong"
+			"Miss Tan Po Chin"
 		],
 		"School Vision": "A Value-Added, Quality School",
 		"School Mission": "Build Character, Develop Leaders of Tomorrow (who will) Serve with Conviction",
@@ -100,9 +99,9 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Interdisciplinary": "Project S.H.I.N.E -- An Integrated Student-Centred and Holistic Programme that Develops Innovation and Nurtures Empathy",
-			"Sports & Outdoor Education": "SHAPE @ BDS: A School of Healthy And Physically Educated Enthusiasts Students who are Healthy And Physically Educated for life"
+			"Sports & Outdoor Education": "SHAPE @ BDS: A School of Healthy And Physically Educated Enthusiasts"
 		},
-		"Special Student Development Programmes Offered": "ALP Project S.H.I.N.E. aims to bring about active student learning through the progressive development of 21st CC and skills such as critical thinking, creativity, innovation and collaborating learning. It is an interdisciplinary programme. The curriculum design involves the use of experiential and inquiry learning through the Design Thinking approach. The integration with subjects such as Science, FCE and Design and Technology allows students to see the relevance of what they are learning and apply them in the Design Challenge given. This curriculum is further enhanced with partnerships with tertiary institutions and enhanced elective modules to allow students to be aware of possible career opportunities. LLP Shape@BDS aims to develop students into healthy and physically educated enthusiasts for life through Sports and Outdoor Activities. Students experience active programmes from Sec 1 to 5 to develop their Social Emotional Learning and develop Confidence and Resilience. Each level takes on a thematic Active Sport for Life: Sec 1 Swimmers for Life (Water Confidence), Sec 2 Outdoors for Life (Kayaking and Water Sports); Sec 3 Active Movers for Life (Outdoor Expeditions) and Sec 4/5 Fitness Enthusiasts for Life (Recreational Sports and Fitness Activities)."
+		"Special Student Development Programmes Offered": "ALP Project S.H.I.N.E. aims to bring about active student learning through the progressive development of 21st century skills such as critical thinking, creativity, innovation and collaborative learning. The curriculum design involves the use of"
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -245,6 +244,36 @@
 					"year": "2017",
 					"category": "Dance - Chinese",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -337,6 +366,31 @@
 					"year": "2017",
 					"category": "St John Ambulance Brigade",
 					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCDCC",
+					"award": "Bronze"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Silver"
 				}
 			]
 		}
@@ -450,8 +504,7 @@
 	],
 	"specialNeeds": [
 		"VI",
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"id": "3027"
 }

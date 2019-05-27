@@ -60,7 +60,7 @@
 		],
 		"School Distinctive Programmes": {
 			"Interdisciplinary": "E3 Reasoning (Enable, Enrich and Empower) @ Concord",
-			"Sports & Outdoor Education": "Values-Based Learning through Outdoor Education"
+			"Sports & Outdoor Education": "Outdoor Education@Concord"
 		},
 		"Special Student Development Programmes Offered": "Approved and endorsed by MOE since 2014, the school leverages its Applied Learning Programme(E3 Reasoning) and Learning for Life Programme(Outdoor Education) to nurture holistic learners who are New-World Ready."
 	},
@@ -872,7 +872,64 @@
 					"Scout": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Sepak Takraw",
+						"4th",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "689814"

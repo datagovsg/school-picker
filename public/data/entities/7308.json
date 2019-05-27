@@ -43,16 +43,13 @@
 		"Exercise And Sports Science",
 		"Food & Nutrition",
 		"Food And Consumer Education",
-		"Geography",
 		"Higher Chinese",
-		"History",
 		"Humanities (Ss, Geography)",
 		"Humanities (Ss, History)",
 		"Literature(E)",
 		"Malay",
 		"Mathematics",
 		"Music Nt Level",
-		"Music 'O' Level",
 		"Oecie Economics (GCEO)",
 		"Physics",
 		"Principles Of Accounts",
@@ -92,7 +89,7 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"STEM": "Forensic & Pharmaceutical Science",
-			"Community & Youth Leadership": "PHS Student Leadership Development Programme"
+			"Community & Youth Leadership": "Community Youth Leadership"
 		},
 		"Special Student Development Programmes Offered": "The school leverages on its Learning for Life Programme (LLP) to support its vision to develop students to be 'Promise-Keepers, Hope-Builders and Servant-Leaders'. All students will undergo customised LLP modules which are based on the Servant-Leadership model by Robert Greenleaf. In tandem with the school's Character First Programme, PHS seeks to harness the potential in every student to be the best that he/she can be. For Community Youth Leadership (CYL), the focus is on providing students with opportunities to be leaders of empathy as they lead in serving the community with a purpose. These programmes collectively develop the mental, physical and emotional wellness to give our students a firm foundation from which they can optimise their performance in their academic pursuit, CCAs and other school activities. The school's Applied Learning Programme (ALP) in Forensic & Pharmaceutical Science seeks to engage and excite our students in the learning of Science and enable students to experience how Science is applied in real life.  Through forensic science, the ALP taps on students' interest in learning the Science behind crime scene processing, through an array of hands-on activities.  Students will also be taught to appreciate the ethics behind forensic science."
 	},
@@ -113,6 +110,13 @@
 				"Outstanding Development Award": "Outstanding PARTNERS"
 			},
 			"2017": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Outstanding Development Award": "Outstanding PARTNERS"
+			},
+			"2018": {
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)"
@@ -409,6 +413,116 @@
 						"'C' Div"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
 				}
 			],
 			"SYF": [
@@ -511,6 +625,36 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -588,6 +732,31 @@
 					"year": "2017",
 					"category": "NPCC (Land)",
 					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Sea)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCDCC",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Silver"
 				}
 			]
 		}
@@ -707,8 +876,6 @@
 		"CC",
 		"YS"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "7308"
 }

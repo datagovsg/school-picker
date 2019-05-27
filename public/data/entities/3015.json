@@ -59,8 +59,12 @@
 		"Geography",
 		"Higher Chinese",
 		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In English)",
 		"Literature(E)",
 		"Malay",
+		"Malay B",
 		"Malay N(A)",
 		"Mathematics",
 		"Mathematics (Syllabus A)",
@@ -72,7 +76,6 @@
 		"Science",
 		"Science (Chem, Bio)",
 		"Science (Phy, Chem)",
-		"Science (Syll T)",
 		"Social Studies",
 		"Tamil",
 		"Tamil N(A)"
@@ -95,10 +98,8 @@
 		"Visual and Performing Arts": [
 			"Choir",
 			"Concert Band",
+			"Dance - International",
 			"English Drama",
-			"Indian Dance",
-			"Malay Dance",
-			"Modern Dance",
 			"Photographic Society"
 		],
 		"Clubs & Societies": [
@@ -214,6 +215,36 @@
 						"'B' Div"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Gymnastics (Trampoline)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Gymnastics (Trampoline)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -331,6 +362,41 @@
 					"year": "2017",
 					"category": "Drama - English",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -406,6 +472,31 @@
 				},
 				{
 					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
 					"category": "NPCC (Land)",
 					"award": "Gold"
 				}
@@ -510,8 +601,6 @@
 		"CC",
 		"TP"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3015"
 }

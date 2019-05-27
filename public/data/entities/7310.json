@@ -21,7 +21,10 @@
 	"bus": "3 , 4 , 8 , 9 , 12 , 17 , 18 , 19 , 21 , 28 , 29 , 34 , 37 , 38 , 39 , 59 , 81 , 291 , 293 , 518 , 552 ",
 	"GeneralInformation": {
 		"Principal": "Mr Lim Tsun Khee Albert",
-		"Vice Principal": "Mdm Tan Lay Gin",
+		"Vice Principal": [
+			"Mdm Tan Lay Gin",
+			"Mr Teo Kok Hong"
+		],
 		"Vice Principal (Admin)": "Mr Tan Kock Leong",
 		"School Vision": "An Icon of Excellence and the Pride of the Community.",
 		"School Mission": "Building Character, Expanding Minds, Shaping Lives.",
@@ -69,7 +72,6 @@
 		"Physical Sports": [
 			"Badminton",
 			"Basketball",
-			"Outdoor Adventure Club",
 			"Volleyball (Girls)",
 			"Wushu"
 		],
@@ -86,13 +88,13 @@
 			"Concert Band",
 			"English Drama",
 			"International Dance",
-			"Jam Band",
-			"Media Club",
 			"Photography Club"
 		],
 		"Clubs & Societies": [
 			"Infocomm And Robotics Club",
-			"International Chess"
+			"International Chess",
+			"Media Club",
+			"Outdoor Activities Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -111,6 +113,9 @@
 				"School Distinction Awards": "SDA"
 			},
 			"2017": {
+				"School Distinction Awards": "SDA"
+			},
+			"2018": {
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
@@ -363,6 +368,56 @@
 						"'C' Div"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -490,6 +545,51 @@
 					"year": "2017",
 					"category": "Ensemble - Strings",
 					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Strings",
+					"award": "Commendation"
 				}
 			],
 			"Best Unit Award": [
@@ -562,6 +662,26 @@
 					"year": "2017",
 					"category": "Scout (Unit 1)",
 					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Gold"
 				}
 			]
 		}
@@ -680,8 +800,6 @@
 		"PL",
 		"CH"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "7310"
 }

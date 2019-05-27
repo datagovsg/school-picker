@@ -214,9 +214,60 @@
 					"year": "2017",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Brass Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Percussion Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
 				}
 			],
-			"Best Unit Award": []
+			"Best Unit Award": [
+				{
+					"year": "2018",
+					"category": "Brownies",
+					"award": "Bronze"
+				},
+				{
+					"year": "2018",
+					"category": "Red Cross",
+					"award": "Silver"
+				}
+			]
 		}
 	},
 	"postalCode": "148812",
@@ -235,15 +286,28 @@
 		"TN",
 		"CL"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 240,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
 		"VACANCY FOR PHASE 1": 200,
-		"NO. OF APPLICANTS IN PHASE 1": 48
+		"NO. OF APPLICANTS IN PHASE 1": 48,
+		"PLACES TAKEN UP TO PHASE 1": 48,
+		"VACANCY FOR PHASE 2A1": 152,
+		"NO. OF APPLICANTS IN PHASE 2A1": 0,
+		"PLACES TAKEN UP TO PHASE 2A1": 48,
+		"VACANCY FOR PHASE 2A2": 152,
+		"NO. OF APPLICANTS IN PHASE 2A2": 16,
+		"PLACES TAKEN UP TO PHASE 2A2": 64,
+		"VACANCY FOR PHASE 2B": 88,
+		"NO. OF APPLICANTS IN PHASE 2B": 0,
+		"PLACES TAKEN UP TO PHASE 2B": 64,
+		"VACANCY FOR PHASE 2C": 176,
+		"NO. OF APPLICANTS IN PHASE 2C": 45,
+		"PLACES TAKEN UP TO PHASE 2C": 109,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 131,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 42
 	},
 	"id": "1621"
 }

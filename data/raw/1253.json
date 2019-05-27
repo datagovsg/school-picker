@@ -508,7 +508,65 @@
 					"Scout": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Softball",
+						"1st",
+						"3rd",
+						"4th",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "544974"

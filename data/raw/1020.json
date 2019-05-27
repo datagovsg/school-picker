@@ -930,7 +930,79 @@
 					"Scout": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Development Award": "DA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Dance - Malay": "Distinction",
+					"Art - Category B": "Recognition",
+					"Band-Brass Ensemble": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Distinction"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Gold",
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "679676"

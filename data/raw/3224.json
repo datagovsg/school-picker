@@ -95,7 +95,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"STEM": "Materials Science",
+			"STEM": "Exploring Possibilities in Materials Science",
 			"Music & Performing Arts": "Music & Performing Arts"
 		},
 		"Special Student Development Programmes Offered": "The school's Student Development (SD) Programme aims to help every student to find and work towards their aspirations."
@@ -754,7 +754,70 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Mixed Ensemble": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girls' Brigade": "Bronze",
+					"Ncc (Land Boys)": "Gold",
+					"Ncdcc": "Silver",
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

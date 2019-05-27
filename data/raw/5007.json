@@ -77,6 +77,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
+			"Languages": "LEAPS (Learn, Engage, Articulate & Perform!)",
 			"Sports & Outdoor Education": "OLN SPARK (SPorts Active and Resilient Kids)"
 		},
 		"Special Student Development Programmes Offered": "Character: A series of six teacher-designed G.R.A.C.I.A. STAR booklets is used to inculcate the G.R.A.C.I.A values progressively from P1 to P6.  The booklets were developed in line with the school's V-LIVE (Vision realized through Love, Internalization, Values-based education and Engagement of stakeholders) framework for CCE. "
@@ -852,7 +853,77 @@
 					"Brownies (Pack 2)": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"2nd",
+						"3rd"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Gold",
+					"Brownies (Pack 2)": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "534793"

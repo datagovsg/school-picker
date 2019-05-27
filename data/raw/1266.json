@@ -16,7 +16,7 @@
 	"mrt": "Redhill Station  Tiong Bahru Station",
 	"bus": "51 , 139 , 186 , 970. ",
 	"GeneralInformation": {
-		"Principal": "MDM CHEW BEE LAY",
+		"Principal": "MRS LIM BEE LAY",
 		"Vice Principal": [
 			"MISS CHAN YAN HOON",
 			"MDM NORAINI BTE MANSOOR"
@@ -102,7 +102,13 @@
 				}
 			},
 			"2017": {},
-			"2018": {}
+			"2018": {
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Choir": "Distinction",
+					"Dance - International": "Commendation"
+				}
+			}
 		}
 	},
 	"postalCode": "159016"

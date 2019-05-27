@@ -651,7 +651,84 @@
 					"Red Cross": "Bronze"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Development Award": "DA (National Education)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-"
+					],
+					[
+						"",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div"
+					],
+					[
+						"Golf",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Harmonica": "Distinction"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Bronze"
+				}
+			}
 		}
 	},
 	"postalCode": "545091"

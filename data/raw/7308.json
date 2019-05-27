@@ -41,16 +41,13 @@
 		"EXERCISE AND SPORTS SCIENCE",
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
-		"GEOGRAPHY",
 		"HIGHER CHINESE",
-		"HISTORY",
 		"HUMANITIES (SS, GEOGRAPHY)",
 		"HUMANITIES (SS, HISTORY)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
 		"MUSIC NT LEVEL",
-		"MUSIC 'O' LEVEL",
 		"OECIE ECONOMICS (GCEO)",
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
@@ -93,7 +90,7 @@
 		],
 		"School Distinctive Programmes": {
 			"STEM": "Forensic & Pharmaceutical Science",
-			"Community & Youth Leadership": "PHS Student Leadership Development Programme"
+			"Community & Youth Leadership": "Community Youth Leadership"
 		},
 		"Special Student Development Programmes Offered": "The school leverages on its Learning for Life Programme (LLP) to support its vision to develop students to be 'Promise-Keepers, Hope-Builders and Servant-Leaders'. All students will undergo customised LLP modules which are based on the Servant-Leadership model by Robert Greenleaf. In tandem with the school's Character First Programme, PHS seeks to harness the potential in every student to be the best that he/she can be. For Community Youth Leadership (CYL), the focus is on providing students with opportunities to be leaders of empathy as they lead in serving the community with a purpose. These programmes collectively develop the mental, physical and emotional wellness to give our students a firm foundation from which they can optimise their performance in their academic pursuit, CCAs and other school activities. The school's Applied Learning Programme (ALP) in Forensic & Pharmaceutical Science seeks to engage and excite our students in the learning of Science and enable students to experience how Science is applied in real life.  Through forensic science, the ALP taps on students' interest in learning the Science behind crime scene processing, through an array of hands-on activities.  Students will also be taught to appreciate the ethics behind forensic science."
 	},
@@ -1184,7 +1181,96 @@
 					"Npcc (Land)": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Outstanding Development Award": "Outstanding PARTNERS",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"2nd",
+						"-",
+						"4th"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"4th",
+						"-",
+						"1st",
+						"1st"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold",
+					"Ncc (Sea)": "Gold",
+					"Ncdcc": "Silver",
+					"Npcc (Land)": "Silver"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

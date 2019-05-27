@@ -21,7 +21,6 @@
 		"Principal": "MDM FIONA YEO SU LING",
 		"Vice Principal": [
 			"MISS YEO TECK WOON",
-			"MRS EUNICE LIM",
 			"MR LOH CHIH HUI",
 			"MS BAEY EE-LYN"
 		],
@@ -90,16 +89,15 @@
 			"Choir",
 			"Dance Society",
 			"Eldds",
+			"Lds",
 			"String Orchestra",
 			"Symphonic Band",
-			"Visual Arts Club"
+			"Visual Art Club"
 		],
 		"Clubs & Societies": [
-			"Chij Youth Mission",
 			"Chinese Cultural Society",
 			"Clcc Performing Arts",
 			"Debate Society",
-			"Green Club",
 			"Library",
 			"Library Society",
 			"Little Reporters",
@@ -3388,7 +3386,276 @@
 					"Brownies (Pack 2)": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					],
+					[
+						"Cross Country",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Rhythmic)",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"1st"
+					],
+					[
+						"Track & Field",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-"
+					],
+					[
+						"Cross Country",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Rhythmic)",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-"
+					],
+					[
+						"Track & Field",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition(Sm)",
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Bronze",
+					"Brownies (Pack 2)": "Silver"
+				}
+			}
 		},
 		"Secondary": {
 			"2005": {
@@ -5484,7 +5751,159 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"3rd",
+						"3rd"
+					],
+					[
+						"Cross Country",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Rhythmic)",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"3rd"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"4th",
+						"3rd",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					],
+					[
+						"Track & Field",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Distinction",
+					"Drama - English": "Distinction",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Girl Guides": "Gold",
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

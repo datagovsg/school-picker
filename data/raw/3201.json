@@ -17,7 +17,10 @@
 	"bus": "980 , 167 , 169 , 800 , 811 , 812 , 965 , 969 , 858 , 856 , 859 ",
 	"GeneralInformation": {
 		"Principal": "MISS CHEW ING LIM",
-		"Vice Principal": "DR CHUA PUAY HUAT",
+		"Vice Principal": [
+			"DR CHUA PUAY HUAT",
+			"MR YAO ZHIXUAN TERENCE"
+		],
 		"School Vision": "Every AI student, a young lady or gentleman who cares, learns and excels for AI and for nation",
 		"School Mission": "To grow students with strength of character, nurture inquiring and disciplined minds, inspire courage to lead and serve",
 		"School Philosophy, Culture and Ethos": [
@@ -1111,7 +1114,90 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"3rd",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girl Guides": "Silver",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Scout": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

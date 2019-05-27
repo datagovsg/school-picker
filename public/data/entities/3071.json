@@ -66,9 +66,9 @@
 		"Mathematics (Syllabus T)",
 		"Physical Education",
 		"Physics",
-		"Science",
 		"Science (Chem, Bio)",
-		"Science (Phy, Chem)"
+		"Science (Phy, Chem)",
+		"Science (Syll T)"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -282,6 +282,36 @@
 						"'C' Div"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -399,6 +429,41 @@
 					"year": "2017",
 					"category": "Ensemble - Strings",
 					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - Chinese",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Strings",
+					"award": "Commendation"
 				}
 			],
 			"Best Unit Award": [
@@ -461,6 +526,26 @@
 					"year": "2017",
 					"category": "St John Ambulance Brigade",
 					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "St John Ambulance Brigade",
+					"award": "Silver"
 				}
 			]
 		}
@@ -583,8 +668,6 @@
 		"SG",
 		"YS"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3071"
 }

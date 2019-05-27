@@ -22,9 +22,9 @@
 			"MR KEITH TAN"
 		],
 		"Vice Principal (Admin)": "MISS SEE PEI LOO",
-		"School Vision": "The premier school of Leaders of Honour",
-		"School Mission": "To nurture our students to Care, to Serve, and to Lead",
-		"School Philosophy, Culture and Ethos": "In Dunman High School, we view the twin pillars of a rigorous curriculum and character development as fundamental to the education of our students. This educational ethos is influenced by Confucian philosophy, where the Head, Heart and Hands are important in developing all-round individuals and Leaders of Honour who are knowledgeable, with a heart to care for and serve others within and beyond the school community.",
+		"School Vision": "The Premier School of Leaders of Honour",
+		"School Mission": "To Nurture Our Students to Care, to Serve, and to Lead",
+		"School Philosophy, Culture and Ethos": "In Dunman High School, we view the twin pillars of a rigorous curriculum and character development as fundamental to the education of our students. This educational ethos is influenced by Confucian philosophy, where the Head, Heart and Hands are important in developing all-round individuals and knowledgeable Leaders of Honour with a heart to care for and serve others within and beyond the school community.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese",
@@ -32,18 +32,25 @@
 	},
 	"SubjectOffered": [
 		"ACTIVE CITIZENRY EDUCATION",
-		"ART FOR AEP",
+		"ADDITIONAL MATHEMATICS",
 		"BIOLOGY",
 		"CHEMISTRY",
+		"ENGLISH LANGUAGE",
+		"FRENCH",
 		"GENERAL SCIENCE",
 		"GEOGRAPHY",
+		"GERMAN",
 		"H1 ART",
+		"H1 BIOLOGY",
+		"H1 CHEMISTRY",
 		"H1 CHINESE LANGUAGE",
 		"H1 ECONOMICS",
+		"H1 FRENCH LANGUAGE",
 		"H1 GENERAL PAPER",
 		"H1 GENERAL STUDIES IN CHINESE",
 		"H1 GEOGRAPHY",
 		"H1 HISTORY",
+		"H1 JAPANESE LANGUAGE",
 		"H1 LITERATURE IN ENGLISH",
 		"H1 MATHEMATICS",
 		"H1 PHYSICS",
@@ -56,27 +63,34 @@
 		"H2 COMPUTING",
 		"H2 ECONOMICS",
 		"H2 ENGLISH LANGUAGE AND LINGUISTICS",
+		"H2 FRENCH LANGUAGE",
 		"H2 FURTHER MATHEMATICS",
 		"H2 GEOGRAPHY",
+		"H2 GERMAN LANGUAGE",
 		"H2 HISTORY",
+		"H2 JAPANESE LANGUAGE",
 		"H2 LITERATURE IN ENGLISH",
+		"H2 MATHEMATICS",
+		"H2 MUSIC",
 		"H2 PHYSICS",
+		"H2 SPANISH",
 		"H2 TRANSLATION (CHINESE)",
 		"H3 CHINESE LANGUAGE & LITERATURE",
 		"H3 ECONOMICS",
 		"H3 ESSENTIALS OF MODERN PHYSICS",
 		"H3 GEOGRAPHY",
 		"H3 HISTORY",
+		"H3 LITERATURE IN ENGLISH",
 		"H3 MATHEMATICS",
+		"H3 MUSIC",
 		"H3 PHARMACEUTICAL CHEMISTRY",
 		"H3 PROTEOMICS",
 		"HIGHER CHINESE",
 		"HIGHER MUSIC",
-		"HIGHER MUSIC PROGRAMME",
 		"HISTORY",
 		"HUMANITIES (SS, GEOGRAPHY)",
 		"HUMANITIES (SS, HISTORY)",
-		"LANGUAGE ARTS",
+		"JAPANESE",
 		"LITERATURE IN CHINESE",
 		"LITERATURE(E)",
 		"MALAY (SPECIAL PROGRAMME)",
@@ -85,6 +99,7 @@
 		"MATHEMATICS 2",
 		"MUSIC (MEP)",
 		"PHYSICS",
+		"SPANISH",
 		"THINKING AND RESEARCH SKILLS PROGRAMME"
 	],
 	"Cca": {
@@ -93,8 +108,9 @@
 			"Air Rifle/Shooting",
 			"Badminton",
 			"Basketball",
+			"Bowling (Junior High)",
 			"Bowling (Senior High)",
-			"Golf (Senior High)",
+			"Golf (Junior High)",
 			"Golf(Senior High)",
 			"Netball (Senior High)",
 			"Sailing (Senior High)",
@@ -102,6 +118,7 @@
 			"Softball",
 			"Softball (Girls)",
 			"Table Tennis",
+			"Taekwondo (Junior High)",
 			"Taekwondo (Senior High)",
 			"Tennis (Senior High)",
 			"Track & Field",
@@ -135,15 +152,10 @@
 		"Clubs & Societies": [
 			"Community Service Club",
 			"Community Service Club (Senior High)",
-			"Environment Club (Senior High)",
-			"Environment Club(Senior High)",
 			"Infocomm Club",
-			"International & Strategic Affairs Council (Senior High)",
 			"Japanese Cultural Club (Senior High)",
 			"Library Society",
-			"Mass Communication Society",
 			"Mathematics & Science Programme (Mathematics)",
-			"Mathematics Society (Senior High)",
 			"Oratorical Society",
 			"Oratorical Society (Senior High)",
 			"Pa Crew",
@@ -1772,7 +1784,115 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"3rd",
+						"-",
+						"4th",
+						"-",
+						"2nd",
+						"2nd",
+						"1st",
+						"1st"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"3rd",
+						"3rd",
+						"-",
+						"3rd",
+						"1st",
+						"1st",
+						"2nd"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"3rd",
+						"-",
+						"3rd"
+					],
+					[
+						"Wushu",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Distinction",
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Strings": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girl Guides": "Gold",
+					"Npcc (Land)": "Gold",
+					"Scout": "Bronze",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		},
 		"Junior College": {
 			"2005": {},
@@ -2436,7 +2556,59 @@
 					"Ensemble - Strings": "Distinction"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Dance - International": "Accomplishment",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - Chinese (2nd Entry)": "Commendation",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Strings": "Distinction"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

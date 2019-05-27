@@ -42,7 +42,7 @@
 			"Dance - International"
 		],
 		"Clubs & Societies": [
-			"Infocom Club"
+			"Infocomm/Robotic Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -149,7 +149,14 @@
 					"Ensemble - Guitar": "Commendation"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guitar": "Accomplishment"
+				}
+			}
 		}
 	},
 	"postalCode": "088256"

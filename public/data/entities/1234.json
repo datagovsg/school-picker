@@ -161,6 +161,21 @@
 					"year": "2017",
 					"category": "Ensemble - Harmonica",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Harmonica",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -193,6 +208,16 @@
 					"year": "2017",
 					"category": "Girls' Brigade",
 					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
+					"award": "Gold"
 				}
 			]
 		}
@@ -215,10 +240,7 @@
 		"TP",
 		"CA"
 	],
-	"specialNeeds": [
-		"PD",
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"id": "1234"
 }

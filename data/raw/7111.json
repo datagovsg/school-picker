@@ -25,10 +25,10 @@
 			"MR TAN CHING HUAT",
 			"MR TAN KIM KOON"
 		],
-		"Vice Principal (Admin)": "MR KUEK JOO LENG",
+		"Vice Principal (Admin)": "MR TAN KOK KWANG",
 		"School Vision": "Every Marist, a Gentleman of Faith, Vision and Service.",
 		"School Mission": "The holistic development of each Marist that blends faith, culture and life with respect to his human dignity.",
-		"School Philosophy, Culture and Ethos": "Maris Stella High School is an autonomous all-boys Catholic school committed to educating Marists holistically and anchored in the Marist values. As one of the first SAP schools in Singapore, our SAP programme, the Br Chanel Programme, named after our Founding Principal, is designed to realise his vision of nurturing bicultural Marists as we seek to educate them to exhibit bicultural sensitivity, steep in traditional Chinese values with a global outlook, ready to serve society. As an all-boys school, we adopt a boy-centred approach focussing on sports, outdoor education, the Sciences and ICT in our school-wide programmes, whilst supporting individual interests of Marists, to bring out the best in them. We further inculcate our school motto of Diligence, Determination, Loyalty and Dedication, and Courage, and Marist Values in Marists so that they are equipped with the attitudes and competencies to become contributing members of society. Caring teachers and strong programmes geared towards building school spirit anchor the learning experiences of Marists.",
+		"School Philosophy, Culture and Ethos": "Maris Stella High School is an autonomous all-boys Catholic school committed to educating Marists holistically and anchored in the Marist values. As one of the first SAP schools in Singapore, our SAP programme, the Br. Chanel Programme, named after our Founding Principal, is designed to realise his vision of nurturing bicultural Marists as we seek to educate them to exhibit bicultural sensitivity, steep in traditional Chinese values with a global outlook, ready to serve society. As an all-boys school, we adopt a boy-centred approach focussing on sports, outdoor education, the Sciences and ICT in our school-wide programmes, whilst supporting individual interests of Marists, to bring out the best in them. We further inculcate our school motto of Diligence, Determination, Loyalty and Dedication, and Courage, and Marist Values in Marists, so that they are equipped with the attitudes and competencies to become contributing members of society. Caring teachers and strong programmes geared towards building school spirit anchor the learning experiences of Marists.",
 		"Type of School": "GOVERNMENT-AIDED SCH / BOYS' SCHOOL / SINGLE SESSION",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese",
@@ -60,6 +60,7 @@
 		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
+		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)"
@@ -77,10 +78,10 @@
 			"Wushu"
 		],
 		"Uniformed Groups": [
-			"Cub Scouts",
+			"Cub Scout",
 			"Ncc (Sea)",
 			"Npcc",
-			"Scouts",
+			"Scout",
 			"St. John Brigade"
 		],
 		"Visual and Performing Arts": [
@@ -107,7 +108,7 @@
 		"School Distinctive Programmes": {
 			"Sports & Outdoor Education": "The Marist Sports & Life Skills Experience"
 		},
-		"Special Student Development Programmes Offered": "The Marcellin Programme, anchored in Marist values is a 10-year programme which seeks to build the character and values in Marists. The main components of the programme expose students to authentic learning experiences to hone their preparation for the unknown future and the application of their own learning to be of service within the school and to the wider community, undergirded by values education."
+		"Special Student Development Programmes Offered": "The Marcellin Programme, anchored in Marist values, is a 10-year programme which seeks to build the character and values in Marists. The main components of the programme expose students to authentic learning experiences to hone their preparation for the unknown future and the application of their own learning to be of service within the school and to the wider community, undergirded by values education.  The Bicultural Marists Programme nurtures bilingual Marists who are able to relate to others in both English and Mandarin effectively. The Student Immersion in Twinning Schools in Xi'An offers students an experience of student life in Xi'An and the use of the Chinese language in an authentic environment. The customised Cultural Appreciation Programme nurtures the interest of Marists in Chinese culture.  As an all-boys school, the Learning for Life Programme in Outdoor Education and Sports offer experiences via P3 Camp, P4 Exploratory Camp and P5 Adventure Camp, and are extended into the Sec 1 Orientation Camp, Sec 2 Adventure Camp, and Sec 3 Outward Bound Camp. These platforms are customised to develop Marists into rugged individuals who are resilient in the face of challenges.  The cognitive enrichment activities extend the students' learning from the primary to the secondary levels. These include the E2K Programme, Singapore Mathematics and Science Olympiad, Science Research Programme, Leadership Development Programme, Public Speaking Programme, School Ambassadors to develop Effective Communicators, Digital Video Production and Scratch Programming. These complement classroom learning and also serve as platforms for the application of classroom learning."
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -2078,7 +2079,184 @@
 					"Scout": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Poomsae)",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Poomsae)",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band-Brass Ensemble": "Accomplishment",
+					"Ensemble - Strings": "Commendation"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			}
 		},
 		"Secondary": {
 			"2005": {
@@ -3386,7 +3564,122 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Poomsae)",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Drama - Chinese": "Distinction"
+				},
+				"Best Unit Award": {
+					"Ncc (Sea Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Scout": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

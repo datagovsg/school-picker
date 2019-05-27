@@ -82,7 +82,7 @@
 		],
 		"School Distinctive Programmes": {
 			"Languages": "Nurturing Confident Communicators",
-			"Music & Performing Arts": "Expanding Borders through Music"
+			"Music & Performing Arts": "Developing Creativity Through Collaborative Music Making"
 		},
 		"Special Student Development Programmes Offered": "ALP: Nurture Confident Communicators"
 	},
@@ -1758,7 +1758,139 @@
 					"Girls' Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					],
+					[
+						"Gymnastics (Rhythmic)",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"2nd"
+					],
+					[
+						"",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div"
+					],
+					[
+						"Swimming",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div"
+					],
+					[
+						"Golf",
+						"-",
+						"1st",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Ensemble - Strings": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girls' Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "289072"

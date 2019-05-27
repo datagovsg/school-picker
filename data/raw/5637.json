@@ -80,7 +80,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Languages": "Competent, Confident and Respectful Communicators"
+			"Languages": "Confident,Competent and Respectful Communicators"
 		},
 		"Special Student Development Programmes Offered": "Applied Learning Programme: Competent, Confident and Respectful Communicators"
 	},
@@ -1116,7 +1116,94 @@
 					"Ensemble - Handbell / Handchime": "Distinction"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div"
+					],
+					[
+						"Track & Field",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Ensemble - Handbell / Handchime": "Accomplishment",
+					"Art - Category A": "Recognition"
+				}
+			}
 		}
 	},
 	"postalCode": "424821"

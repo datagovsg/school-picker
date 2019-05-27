@@ -92,6 +92,9 @@
 			"2017": {
 				"School Distinction Awards": "SDA"
 			},
+			"2018": {
+				"School Distinction Awards": "SDA"
+			},
 			"Sports & Games Competition": [
 				{
 					"year": "2015",
@@ -224,6 +227,36 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -239,6 +272,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
 					"category": "Scout",
 					"award": "Silver"
 				}
@@ -262,15 +300,27 @@
 		"CH"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 210,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
 		"VACANCY FOR PHASE 1": 170,
-		"NO. OF APPLICANTS IN PHASE 1": 77
+		"NO. OF APPLICANTS IN PHASE 1": 77,
+		"PLACES TAKEN UP TO PHASE 1": 77,
+		"VACANCY FOR PHASE 2A1": 93,
+		"NO. OF APPLICANTS IN PHASE 2A1": 0,
+		"PLACES TAKEN UP TO PHASE 2A1": 77,
+		"VACANCY FOR PHASE 2A2": 93,
+		"NO. OF APPLICANTS IN PHASE 2A2": 24,
+		"PLACES TAKEN UP TO PHASE 2A2": 101,
+		"VACANCY FOR PHASE 2B": 55,
+		"NO. OF APPLICANTS IN PHASE 2B": 3,
+		"PLACES TAKEN UP TO PHASE 2B": 103,
+		"VACANCY FOR PHASE 2C": 107,
+		"NO. OF APPLICANTS IN PHASE 2C": 115,
+		"PLACES TAKEN UP TO PHASE 2C": 210
 	},
 	"id": "1201"
 }

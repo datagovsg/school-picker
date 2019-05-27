@@ -78,7 +78,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Music & Performing Arts": "Thoughtful Learning through the Arts"
+			"Visual Arts & Design": "Thoughtful Learning through the Arts"
 		},
 		"Special Student Development Programmes Offered": "The school believes in the holistic education of every child and that each pupil should achieve Wisdom and Grace by the time they leave West Grove."
 	},
@@ -840,7 +840,77 @@
 					"Scout": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"2nd",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Brownies": "Silver",
+					"Girls' Brigade": "Silver",
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "649223"

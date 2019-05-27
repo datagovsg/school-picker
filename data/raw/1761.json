@@ -18,10 +18,7 @@
 	"bus": "SBS Transit Services 82 , 85 , 86 , 88 , 119 , 136 , 163 , 372 ",
 	"GeneralInformation": {
 		"Principal": "MRS LOH ANGELINE",
-		"Vice Principal": [
-			"MR JASBIR SINGH",
-			"MDM SEET CAROLINE"
-		],
+		"Vice Principal": "MR JASBIR SINGH",
 		"School Vision": "Confident . Cultured .  Aspiring Learners",
 		"School Mission": "To Build Character, Nurture Minds and Strive for Excellence",
 		"School Philosophy, Culture and Ethos": [
@@ -76,9 +73,9 @@
 			"Choir",
 			"Drama - English",
 			"Guitar Ensemble",
-			"Modern Art Club",
 			"Tap Dance",
-			"Violin"
+			"Violin",
+			"Visual Art Club"
 		],
 		"Clubs & Societies": [
 			"Library",
@@ -644,7 +641,73 @@
 					"Scout": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Ensemble - Guitar": "Accomplishment",
+					"Ensemble - Strings": "Commendation"
+				}
+			}
 		}
 	},
 	"postalCode": "545088"

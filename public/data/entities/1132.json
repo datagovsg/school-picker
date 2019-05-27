@@ -20,7 +20,11 @@
 	"bus": "157 (from Boon Lay Interchange) , or 185 ",
 	"GeneralInformation": {
 		"Principal": "Mrs Jennifer Pang Chee Chyn",
-		"Vice Principal": "Mdm Poon Gek Hong",
+		"Vice Principal": [
+			"Mdm Poon Gek Hong",
+			"Mr Ganesan S/o Raman"
+		],
+		"Vice Principal (Admin)": "Mr Tham Peng Seng",
 		"School Vision": [
 			"Nurturing Pupils who C.A.R.E to succeed",
 			"C.A.R.E represents:",
@@ -73,8 +77,8 @@
 		"Visual and Performing Arts": [
 			"Chinese Cultural Dance",
 			"Choir",
+			"Hip Hop Dance",
 			"Malay Cultural Dance",
-			"Modern Dance",
 			"Samba Percussion",
 			"Young Artist Club"
 		],
@@ -252,6 +256,56 @@
 						"Senior"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -329,6 +383,31 @@
 					"year": "2017",
 					"category": "Dance - Malay",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -344,6 +423,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "Red Cross",
 					"award": "Gold"
 				}
@@ -367,15 +451,28 @@
 		"TH",
 		"WC"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 240,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
 		"VACANCY FOR PHASE 1": 200,
-		"NO. OF APPLICANTS IN PHASE 1": 72
+		"NO. OF APPLICANTS IN PHASE 1": 72,
+		"PLACES TAKEN UP TO PHASE 1": 72,
+		"VACANCY FOR PHASE 2A1": 128,
+		"NO. OF APPLICANTS IN PHASE 2A1": 0,
+		"PLACES TAKEN UP TO PHASE 2A1": 72,
+		"VACANCY FOR PHASE 2A2": 128,
+		"NO. OF APPLICANTS IN PHASE 2A2": 9,
+		"PLACES TAKEN UP TO PHASE 2A2": 82,
+		"VACANCY FOR PHASE 2B": 79,
+		"NO. OF APPLICANTS IN PHASE 2B": 0,
+		"PLACES TAKEN UP TO PHASE 2B": 82,
+		"VACANCY FOR PHASE 2C": 158,
+		"NO. OF APPLICANTS IN PHASE 2C": 89,
+		"PLACES TAKEN UP TO PHASE 2C": 171,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 69,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 53
 	},
 	"id": "1132"
 }

@@ -5,7 +5,7 @@
 	"uen": " T07GS3013A",
 	"logo": "./Medias/Images/Schools/logos/tn_3013.jpg",
 	"website": "http://www.tkgs.moe.edu.sg",
-	"address": "20, DUNMAN LANE ( 439272 )",
+	"address": "2, Bedok South Road ( 469268 )",
 	"telephone": [
 		"63441593",
 		"66441593 (from 2017)"
@@ -15,13 +15,13 @@
 		"64409187(from 2017)"
 	],
 	"email": "tkgs@moe.edu.sg",
-	"mrt": "DAKOTA MRT, PAYA LEBAR MRT",
-	"bus": "10 , 16 , 31 , 32 , 33 , 40 , 43 , 134 , 135 , 197 ",
+	"mrt": "BEDOK MRT",
+	"bus": "2 , 2A , 4N , 7 , 9 , 16 , 24 , 25 , 28 , 30 , 30E , 31 , 32 , 33 , 35 , 35M , 38 , 40 , 67 , 137 , 196 , 197 , 222 , 222B , 229 , 401 , 854 ",
 	"GeneralInformation": {
 		"Principal": "MDM WONG YEE MIN MARY",
 		"Vice Principal": [
-			"MR LOW YING NING",
-			"MDM YEHIDAAH BEEVI D/O SHAIK A"
+			"MDM YEHIDAAH BEEVI D/O SHAIK A",
+			"MR LOW YING NING"
 		],
 		"Vice Principal (Admin)": "MDM KOH SEOK LEE SHIRLEY",
 		"School Vision": "Accomplished young women of character and grace",
@@ -85,13 +85,13 @@
 			"Choir",
 			"Dance - International",
 			"Drama - English",
-			"Ensemble - String",
-			"Media Club"
+			"Ensemble - String"
 		],
 		"Clubs & Societies": [
 			"Interact Club",
 			"Library",
-			"Literary & Debating Society"
+			"Literary & Debating Society",
+			"Media Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -1388,7 +1388,104 @@
 					"Red Cross": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Development Award": "DA (National Education)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-"
+					],
+					[
+						"Sailing (Optimist)",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - English": "Distinction",
+					"Ensemble - Strings": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girl Guides": "Bronze",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Bronze"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1491,5 +1588,5 @@
 			]
 		}
 	},
-	"postalCode": "439272"
+	"postalCode": "469268"
 }

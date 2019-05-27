@@ -128,6 +128,12 @@
 					"DA (National Education)"
 				]
 			},
+			"2018": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				]
+			},
 			"Sports & Games Competition": [
 				{
 					"year": "2015",
@@ -258,6 +264,46 @@
 						"'C' Div"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Canoeing",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Taekwondo (Kyorugi)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -328,6 +374,36 @@
 				},
 				{
 					"year": "2017",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
 					"category": "Drama - English",
 					"award": "Distinction"
 				}
@@ -421,6 +497,36 @@
 				{
 					"year": "2017",
 					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
 					"award": "Gold"
 				}
 			]
@@ -540,8 +646,6 @@
 		"SI",
 		"CA"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3006"
 }

@@ -18,8 +18,8 @@
 	"GeneralInformation": {
 		"Principal": "MRS CLARA LIM-TAN",
 		"Vice Principal": [
-			"MISS YEE SIEW MEI EMILY",
-			"MRS TAY-LEE LI THENG"
+			"MRS TAY-LEE LI THENG",
+			"MISS ONG PEI FEN JAMIE"
 		],
 		"School Vision": "A Vibrant and Connected Community that Aspires, Learns and Leads",
 		"School Mission": "Together, we build an inviting and enriched environment to nurture passionate learners, creative thinkers and caring leaders.",
@@ -76,7 +76,11 @@
 		],
 		"School Distinctive Programmes": {
 			"ICT & Media": "The 3E Experience @ YNPS: Nurturing Future-Ready 21st Century Learners",
-			"Sports & Outdoor Education": "Fitness, Character and Leadership through Sports Excellence in Table-tennis"
+			"Sports & Outdoor Education": [
+				"GOal GR",
+				null,
+				"IT – Character Development through Sports @ Yu Neng Primary"
+			]
 		},
 		"Special Student Development Programmes Offered": "The well-rounded 6-year curriculum is designed to provide every student the opportunity to grow the joy of learning, demonstrate thinking and creativity, and nurture leadership skills. A variety of pedagogical approaches are adopted to engage the mind, heart and hands of the students. The school's vibrant learning environment, supported by ICT, extends learning beyond the classrooms and lends a leading edge for our students in the knowledge-driven society. "
 	},
@@ -1058,7 +1062,98 @@
 					"Scout": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Development Award": "DA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"4th",
+						"3rd",
+						"3rd"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Commendation",
+					"Dance - International": "Commendation",
+					"Dance - Malay": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Distinction"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "469623"

@@ -36,7 +36,18 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"Sports & Games Competition": [],
+			"Sports & Games Competition": [
+				{
+					"year": "2018",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				}
+			],
 			"SYF": [
 				{
 					"year": "2015",
@@ -62,6 +73,16 @@
 					"year": "2017",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
@@ -85,5 +106,6 @@
 		"SK",
 		"CK"
 	],
+	"specialNeeds": [],
 	"id": "7804"
 }

@@ -1023,7 +1023,66 @@
 					"Scout": "Bronze"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Bronze"
+				}
+			}
 		}
 	},
 	"postalCode": "757714"

@@ -19,11 +19,7 @@
 	"bus": "4 , 8 , 18 , 19 , 21 , 37 , 38 , 81 ",
 	"GeneralInformation": {
 		"Principal": "Miss Lau Wan Sze",
-		"Vice Principal": [
-			"Mr Lan Mingjun",
-			"Mr Teo Kok Hong",
-			"Mr Goh Wai Min, Jason"
-		],
+		"Vice Principal": "Mr Goh Wai Min, Jason",
 		"School Vision": "Leader of Self, Person of Influence",
 		"School Mission": "To cultivate good, useful citizens and independent learners with a passion for excellence.",
 		"School Philosophy, Culture and Ethos": "At East View Secondary, we pride ourselves on understanding our students' needs, abilities, interests and talents. With this understanding, we strive to nurture our students through a total curriculum comprising academic learning and character development. At the end of four to five years in East View, every student will be developed as a 'Leader of Self' and a 'Person of Influence'. Our academic programme centres on providing a disciplined and conducive learning environment that encourages creative teaching and engaged learning. We believe that every student can learn given the right motivation and guidance. Therefore, we combine customised level programmes aimed at imparting study skills and developing independent learning with close monitoring to stretch and support every learner, regardless of their starting points. Our co-curricular programme hinges on imparting the knowledge, skills and values important for every East Viewian to meet the challenges of the future. We want to mould future ready learners with the right values who will give back to society and the nation even after they have left school. In East View, parents are our key partners in supporting students. We sustain a close collaboration with the EV Parent Support Group to help every student achieve his or her personal best in both academic and co-curricular domains. All this would only be possible with the enthusiasm and commitment of the dedicated school staff who go above and beyond the call of duty to build rapport, lend support and care for every student under their charge.",
@@ -108,7 +104,7 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"STEM": "21st Century Innovators through Health Science",
-			"Community & Youth Leadership": "Character and Youth Leadership Through Service"
+			"Community & Youth Leadership": "Community and Youth Leadership through Service"
 		},
 		"Special Student Development Programmes Offered": "Character Education at East View is anchored on the school values of Integrity, Resilience, Responsibility, Respect and Compassion and focuses on developing in students the 7 Habits of Highly Effective Teens and GRIT, which comprises Growth Mindset, Resilience, Initiative and Tenacity. We believe the 7 Habits and GRIT are life skills that will help our students succeed. Through explicit instruction, school-based structures such as target-setting and review, and integration in academic and co-curricular activities, East Viewians have the opportunity to practise the 7 Habits, GRIT and model the school values regularly. Our Learning for Life Programme, Character and Youth Leadership through Service, allows students to experience a structured service learning programme where they contribute meaningfully to school and community. Our Applied Learning Programme, 21st Century Innovators through Health Science, prepares students for the future through the learning and application of skills, concepts and knowledge related to health science."
 	},
@@ -214,6 +210,26 @@
 						"'B' Div"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Judo",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -286,6 +302,26 @@
 					"year": "2017",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Mixed Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -341,6 +377,21 @@
 				},
 				{
 					"year": "2017",
+					"category": "St John Ambulance Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
 					"category": "St John Ambulance Brigade",
 					"award": "Silver"
 				}
@@ -429,5 +480,6 @@
 		"PL",
 		"CH"
 	],
+	"specialNeeds": [],
 	"id": "3237"
 }

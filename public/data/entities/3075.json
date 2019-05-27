@@ -4,7 +4,7 @@
 	"levels": "S",
 	"uen": " T10GS0002F",
 	"logo": "./Medias/Images/Schools/logos/tn_3075.jpg",
-	"website": "http://edgefieldsec.moe.edu.sg",
+	"website": "http://www.edgefieldsec.moe.edu.sg",
 	"address": "36, Punggol Field (828814)",
 	"telephone": [
 		"68839511"
@@ -23,9 +23,10 @@
 			"Mr Tan Chai Hok",
 			"Mdm Lim Puay Kheng"
 		],
+		"Vice Principal (Admin)": "Mr Yeo See One",
 		"School Vision": "Collaborative Innovators, Compassionate Leaders",
 		"School Mission": "Growing Minds, Glowing Hearts",
-		"School Philosophy, Culture and Ethos": "At Edgefield, we believe in nurturing our students to be 'Future Ready'. Framed by Five Minds for the Future, our curriculum nurtures Innovators who collaborate actively with others to design and develop creative solutions to problems, and are resilient in facing setbacks and challenges. They are also Compassionate Leaders who are inclusive, with the moral courage to do what is right in contributing positively to the society. Built by a dedicated team of experienced educators, and equipped with the newest facilities and the latest technologies, the Edgefield Community prides itself for its curriculum innovation in providing the ideal learning environment and experiences for our students. As Lao Tzu says \"A journey of a thousand miles begins with a single step\", Edgefield Secondary School looks forward to this educational partnership with you and your child in 2019.",
+		"School Philosophy, Culture and Ethos": "At Edgefield, we believe in nurturing our students to be 'Future Ready'. Framed by Five Minds for the Future, our curriculum nurtures Innovators who collaborate actively with others to design and develop creative solutions to problems, and are resilient in facing setbacks and challenges. They are also Compassionate Leaders who are inclusive, with the moral courage to do what is right in contributing positively to the society. Built by a dedicated team of experienced educators, equipped with the newest facilities and powered by meaningful use of technologies, the Edgefield Community prides itself for its curriculum innovation in providing the ideal learning environment and experiences for our students. As Lao Tzu says \"A journey of a thousand miles begins with a single step\", Edgefield Secondary School looks forward to this educational partnership with you and your child in 2019.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -105,7 +106,7 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Business & Entrepreneurship": "Growing the Entrepreneurial Mindset (GEM)",
-			"Sports & Outdoor Education": "Character Education Through Taekwondo"
+			"Sports & Outdoor Education": "Character Education Through Sports (Anchored on Taekwondo)"
 		},
 		"Special Student Development Programmes Offered": "(1) Applied Learning Programme (ALP) - \"Growing the Entrepreneurial Mindset (GEM)\". The programme inculcates in students entrepreneurial traits such as resilience, alertness to opportunities, creativity, and hone their skills in financial/ business management, marketing and advanced problem solving. (2) Learning for Life Programme (LLP) - \"Character Education through Sports anchored on Taekwondo\". Besides developing healthy bodies and self-defence life skill, students develop positive values such as resilience, courage, self-reliance, quick thinking and respect for others. (3) Future Ready Programme: Challenge-Based Learning (Mini-Challenges), Experiential Learning (Electives & Learning Journeys), Scenario Based Learning (Future Scenarios), Assessment in 21st Century Competencies (4) School Wide Programme: Thinking and Research Programme (includes Analytical Thinking Skills, Creative Problem Solving); ICT via Apple Education Programme; Language Arts Programme (including READ@Edgefield, Speech and Drama, Storytelling, Film Appreciation and Creative Writing), MTL Enrichment Programme (Heritage Trails, Xin Yao Appreciation, Malay Puppetry);Conversational Chinese, Malay and Third Language; Journalism and Broadcasting, PrimeTime@Edgefield (contemporary issues), (5) Other Specific Programmes: Internationalization Programme, Edgefield Scholar / Talent Development Programme, Applied Science Programme, Leadership Development Programme (based on Kouzes and Posner The Leadership Challenge Model), Outward Bound Singapore, Sustainable Development, Tan Kah Kee Young Inventors' Programme."
 	},
@@ -221,6 +222,36 @@
 						"'C' Div"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
 				}
 			],
 			"SYF": [
@@ -313,6 +344,36 @@
 					"year": "2017",
 					"category": "Ensemble - Harmonica",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Harmonica",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -379,6 +440,26 @@
 				{
 					"year": "2017",
 					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides (Coy 2)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Sea)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
 					"award": "Gold"
 				}
 			]
@@ -498,8 +579,7 @@
 		"SE"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"id": "3075"
 }

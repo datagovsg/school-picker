@@ -13,16 +13,16 @@
 		"62691774"
 	],
 	"email": "wdl_ss@moe.edu.sg",
-	"mrt": "MARSILING MRT",
+	"mrt": "MARSILING MRT, WOODLANDS MRT",
 	"bus": "913 , 913E , 178 , 856 , 903 ",
 	"GeneralInformation": {
 		"Principal": "MISS TAN KE XIN",
 		"Vice Principal": [
-			"MDM LOH SOI HONG MICHELLE",
-			"MDM MASAYU BINTE MAHMUD"
+			"MDM MASAYU BINTE MAHMUD",
+			"MR CHEN BING HONG"
 		],
-		"School Vision": "Every Woodlander a Gift to Society",
-		"School Mission": "Nurturing Enduring Hearts and Creative Minds Ready to Serve the Society",
+		"School Vision": "Every Woodlander a Gift to Society.",
+		"School Mission": "Nurturing Enduring Hearts and Creative Minds Ready to Serve Society.",
 		"School Philosophy, Culture and Ethos": "A School Distinction Award and Singapore Quality Class school, the school is committed to achieving its mission, Nurturing Enduring Hearts and Creative Minds Ready to Serve Society. Through the school motto 'Wisdom and Truth', the school seeks to imbue in each student the school values, represented in the acronym GR2EAT, which stands for: Growth, Respect, Resilience, Empathy, Appreciation and Trustworthiness. The school strongly believes that quality staff, and strong partnerships with alumni, parents, community and educational partners are the foundation for organisational excellence. The students' many achievements in the Academics, Sports, Performing Arts and Uniformed Groups are a testament to the impact of our programmes and commitment in equipping them with the values, skills and knowledge to excel even when students may or may not have the background or prerequisites. The school's best practices on Teaching & Learning, Student-all-round Development, Character & Citizenship education and Staff Well-being & Development signifies that the school is committed in grooming our students to be confident and ready for the ever changing economic and social landscape.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -31,39 +31,50 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART",
+		"ART NA LEVEL",
+		"ART NT LEVEL",
+		"ART 'O' LEVEL",
 		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BASIC TAMIL",
-		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
 		"CHINESE B",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
-		"COMBINED HUMANITIES (SS,LC)",
-		"COMBINED HUMANITIES (SS,LM)",
-		"COMBINED HUMANITIES (SS,LT)",
+		"CHINESE N(A)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
+		"ENGLISH LANGUAGE (SYLL A)",
+		"ENGLISH LANGUAGE (SYLL T)",
+		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
 		"HIGHER TAMIL",
-		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN CHINESE)",
+		"HUMANITIES (SS, LIT IN MALAY)",
+		"HUMANITIES (SS, LIT IN TAMIL)",
 		"LITERATURE(E)",
 		"MALAY",
-		"MALAY B",
+		"MALAY N(A)",
 		"MATHEMATICS",
+		"MATHEMATICS (SYLLABUS A)",
+		"MATHEMATICS (SYLLABUS T)",
 		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
+		"SCIENCE",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
-		"TAMIL"
+		"SOCIAL STUDIES N(T)",
+		"TAMIL",
+		"TAMIL B",
+		"TAMIL N(A)"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -84,6 +95,7 @@
 		"Visual and Performing Arts": [
 			"Art Club",
 			"Band - Concert",
+			"Dance - International",
 			"Drama - English"
 		],
 		"Clubs & Societies": [
@@ -98,7 +110,7 @@
 			"STEM": "Real Food, Real Science",
 			"Community & Youth Leadership": "Active Glocal Citizens Programme"
 		},
-		"Special Student Development Programmes Offered": "The school runs two distinctive school programmes in the Applied Learning Programme entitled \"Real Food, Real Science\" and the Learning for Life Programme entitled \"Active Glocal Citizens\". "
+		"Special Student Development Programmes Offered": "The school runs two distinctive school programmes in the Applied Learning Programme entitled \"Real Food, Real Science\" and the Learning for Life Programme entitled \"Glocal Citizenship Programme\". "
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1023,7 +1035,70 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Sepak Takraw",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Drama - Multi-Lingual": "Accomplishment",
+					"Ensemble - Guitar": "Commendation"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girl Guides": "Bronze",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

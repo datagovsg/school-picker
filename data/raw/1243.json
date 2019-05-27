@@ -1058,7 +1058,93 @@
 					"Ensemble - Guzheng": "Accomplishment"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)",
+					"Outstanding PARTNERS"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Floorball",
+						"-",
+						"2nd",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Poomsae)",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				}
+			}
 		}
 	},
 	"postalCode": "518968"

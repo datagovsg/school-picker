@@ -128,7 +128,6 @@
 		],
 		"Clubs & Societies": [
 			"Astronomy Club",
-			"Bizclub",
 			"Chinese Society",
 			"Debates",
 			"Earth Watch",
@@ -1938,7 +1937,114 @@
 					"Ensemble - Guzheng": "Accomplishment"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Floorball",
+						"3rd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"4th",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"3rd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"4th",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment",
+					"Ensemble - Harmonica": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment",
+					"Art - Category C": "Recognition(Sm)",
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Distinction",
+					"Drama - English": "Accomplishment"
+				}
+			}
 		}
 	},
 	"L1R5History": {

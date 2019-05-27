@@ -200,6 +200,31 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -227,6 +252,21 @@
 					"year": "2017",
 					"category": "Scout",
 					"award": "Bronze"
+				},
+				{
+					"year": "2018",
+					"category": "Brownies",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Red Cross",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Bronze"
 				}
 			]
 		}
@@ -249,15 +289,26 @@
 		"SG",
 		"TP"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 210,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
 		"VACANCY FOR PHASE 1": 170,
-		"NO. OF APPLICANTS IN PHASE 1": 80
+		"NO. OF APPLICANTS IN PHASE 1": 80,
+		"PLACES TAKEN UP TO PHASE 1": 80,
+		"VACANCY FOR PHASE 2A1": 90,
+		"NO. OF APPLICANTS IN PHASE 2A1": 0,
+		"PLACES TAKEN UP TO PHASE 2A1": 80,
+		"VACANCY FOR PHASE 2A2": 90,
+		"NO. OF APPLICANTS IN PHASE 2A2": 54,
+		"PLACES TAKEN UP TO PHASE 2A2": 133,
+		"VACANCY FOR PHASE 2B": 39,
+		"NO. OF APPLICANTS IN PHASE 2B": 21,
+		"PLACES TAKEN UP TO PHASE 2B": 153,
+		"VACANCY FOR PHASE 2C": 57,
+		"NO. OF APPLICANTS IN PHASE 2C": 82,
+		"PLACES TAKEN UP TO PHASE 2C": 210
 	},
 	"id": "1724"
 }

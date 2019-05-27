@@ -14,13 +14,10 @@
 	],
 	"email": "WESTWOOD_SS@MOE.EDU.SG",
 	"mrt": "BOON LAY MRT",
-	"bus": "172 , 181 , 185 , 199 ",
+	"bus": "172 , 181 , 185 , 199 , 974 ",
 	"GeneralInformation": {
 		"Principal": "MR ABDUL HARRIS B SUMARDI",
-		"Vice Principal": [
-			"MR GANESAN S/O RAMAN",
-			"MISS TAN MING MING"
-		],
+		"Vice Principal": "MISS TAN MING MING",
 		"Vice Principal (Admin)": "MR KONG CHEE CHIEW",
 		"School Vision": "Rooted in Character & Skills to Soar for the Nation.",
 		"School Mission": [
@@ -367,7 +364,22 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Mixed Ensemble": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Silver",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

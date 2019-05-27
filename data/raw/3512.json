@@ -955,7 +955,92 @@
 					"Scout (Unit 1)": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Floorball",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Band-Display": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - Chinese": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Choir": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girl Guides": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Ncc (Sea Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

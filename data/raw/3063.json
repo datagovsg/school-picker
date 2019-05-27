@@ -114,8 +114,8 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"STEM": "Science in Health and Wellness – An Interdisciplinary Approach",
-			"Sports & Outdoor Education": "Sports for Life"
+			"STEM": "In Heath We Thrive - Connecting the Science and Skills of Health and Wellness",
+			"Sports & Outdoor Education": "Sports for Life - Character Education through Sports Exposure, Sports Empowerment and Sports Excellence"
 		},
 		"Special Student Development Programmes Offered": "At Jurongville Secondary School, we believe in preparing our students for life. The school envisions each student to be a concerned citizen and a"
 	},
@@ -1038,7 +1038,81 @@
 					"Girl Guides (Coy 1)": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Distinction"
+				},
+				"Best Unit Award": {
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Gold",
+					"Boys' Brigade": "Gold",
+					"Girl Guides": "Gold",
+					"Ncc (Land Boys)": "Silver"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

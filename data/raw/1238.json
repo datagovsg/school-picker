@@ -68,14 +68,15 @@
 		],
 		"Visual and Performing Arts": [
 			"Art Club",
-			"Chinese Dance"
+			"Chinese Dance",
+			"Dance - International"
 		],
 		"Clubs & Societies": [
 			"Debate",
 			"Infocomm Club",
 			"International Chess",
-			"Kids Cook",
-			"Science Club"
+			"Science Club",
+			"Young Inventors' Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -1070,7 +1071,96 @@
 					"Dance - Malay": "Accomplishment"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"-",
+						"3rd",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"-",
+						"3rd",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition(Sm)",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze"
+				}
+			}
 		}
 	},
 	"postalCode": "659762"

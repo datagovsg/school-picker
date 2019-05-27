@@ -63,12 +63,10 @@
 			"Choir",
 			"Dance - Chinese",
 			"Dance - Malay",
-			"New Media Club",
-			"Ukulele Club",
+			"String Ensemble Club",
 			"Visual Arts Club"
 		],
 		"Clubs & Societies": [
-			"English Language Drama And Debate Society",
 			"Library",
 			"Robotics & Innovation Club"
 		]
@@ -76,7 +74,7 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Science": "Stimulating Senses Through Science (S3)",
-			"Community Service & Student Leadership": "Beacons At Your Service (BAYS) Programme"
+			"Community Service & Student Leadership": "Beacons At Your Service"
 		},
 		"Special Student Development Programmes Offered": "> Literature Appreciation Programme "
 	},
@@ -179,6 +177,31 @@
 					"year": "2017",
 					"category": "Dance - Malay",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -194,6 +217,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
 					"category": "Scout",
 					"award": "Silver"
 				}
@@ -217,14 +245,27 @@
 		"SK",
 		"CK"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"p1Registration": {
 		"TOTAL VACANCY": 240,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
 		"VACANCY FOR PHASE 1": 200,
-		"NO. OF APPLICANTS IN PHASE 1": 76
+		"NO. OF APPLICANTS IN PHASE 1": 76,
+		"PLACES TAKEN UP TO PHASE 1": 76,
+		"VACANCY FOR PHASE 2A1": 124,
+		"NO. OF APPLICANTS IN PHASE 2A1": 0,
+		"PLACES TAKEN UP TO PHASE 2A1": 76,
+		"VACANCY FOR PHASE 2A2": 124,
+		"NO. OF APPLICANTS IN PHASE 2A2": 10,
+		"PLACES TAKEN UP TO PHASE 2A2": 85,
+		"VACANCY FOR PHASE 2B": 78,
+		"NO. OF APPLICANTS IN PHASE 2B": 1,
+		"PLACES TAKEN UP TO PHASE 2B": 85,
+		"VACANCY FOR PHASE 2C": 155,
+		"NO. OF APPLICANTS IN PHASE 2C": 70,
+		"PLACES TAKEN UP TO PHASE 2C": 153,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 87,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 20
 	},
 	"id": "1249"
 }

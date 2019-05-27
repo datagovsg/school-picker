@@ -754,7 +754,20 @@
 					"Scout": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "529426"

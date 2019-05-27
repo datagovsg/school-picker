@@ -18,9 +18,9 @@
 	"GeneralInformation": {
 		"Principal": "MISS OH SEE MOEY",
 		"Vice Principal": "MDM HASLINDAH BTE BAHROM",
-		"School Vision": "A knowledge playground where individualised learning is experienced and friendships developed",
-		"School Mission": "To nurture our pupils into resilient, innovative and enterprising learners to be the pride of our nation",
-		"School Philosophy, Culture and Ethos": "We believe that 'Every Child Matters' and we centre our Teaching and Learning on this philosophy. We are guided by our school values of Respect for All, Integrity our Core, Synergy for Success, Courage to Explore, and Commitment to Excellence in our interactions and our decision-making.",
+		"School Vision": "Leaders of Character, championing Service and Excellence",
+		"School Mission": "To nurture future-ready students, anchored on values",
+		"School Philosophy, Culture and Ethos": "We believe that 'Every Child Matters' and we centre our Teaching and Learning on this philosophy. We are guided by our school values of Respect for All, Responsibility in Actions, Resilience in Adversity, Integrity Our Core, Care for Community and Harmony in Diversity in our interactions and our decision-making.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -777,7 +777,63 @@
 					"Scout": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"1st",
+						"3rd",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Guzheng": "Commendation"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "519524"

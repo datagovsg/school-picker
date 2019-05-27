@@ -107,7 +107,7 @@
 			"Integrated Programme - Dual Track School (offers both IP and O Levels)",
 			"Music Elective Programme"
 		],
-		"Special Student Development Programmes Offered": "MGS is a dual-track school with the O-level track and an Integrated Programme leading to the International Baccalaureate Diploma in Anglo-Chinese School (Independent). Programmes include the Music Elective Programme (MEP), Sophia Blackmore Academy (SBA) - an in-house scholastic O-Level programme, 1:1 Learning, Robotics, Code4Life, STEM Curriculum and Science Mentorship Programme. Other school-based programmes include Reality Outside Classrooms (ROCs), GEL Curriculum, Education and Career Guidance, Community Service and Advocacy, Arts Appreciation, Outdoor Education, Swimming Programme and Student Leadership Training."
+		"Special Student Development Programmes Offered": "MGS is a dual-track school with the O-Level track and an Integrated Programme leading to the International Baccalaureate Diploma in Anglo-Chinese School (Independent). Programmes include the Music Elective Programme (MEP), Sophia Blackmore Academy (SBA) - an in-house scholastic O-Level programme, 1:1 Learning, Robotics, Code4Life, STEM Curriculum and Science Mentorship Programme. Other school-based programmes include Reality Outside Classrooms (ROCs), GEL Curriculum, Education and Career Guidance, Community Service and Advocacy, Arts Appreciation, Outdoor Education, Swimming Programme and Student Leadership Training."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -124,6 +124,9 @@
 				"School Distinction Awards": "SDA"
 			},
 			"2017": {
+				"School Distinction Awards": "SDA"
+			},
+			"2018": {
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
@@ -546,6 +549,146 @@
 						"'C' Div"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Golf",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Softball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Softball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Squash",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Squash",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -678,6 +821,51 @@
 					"year": "2017",
 					"category": "Ensemble - Strings",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Strings",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -723,6 +911,21 @@
 				},
 				{
 					"year": "2017",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides (Coy 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides (Coy 2)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "Girls' Brigade",
 					"award": "Gold"
 				}

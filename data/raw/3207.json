@@ -13,7 +13,7 @@
 		"67842164"
 	],
 	"email": "DUNMAN_SS@MOE.EDU.SG",
-	"mrt": "TAMPINES EAST MRT Station (Downtown Line)",
+	"mrt": "TAMPINES EAST MRT",
 	"bus": "28 , 29 , 293 ",
 	"GeneralInformation": {
 		"Principal": "MR SURESH S/O BALAKRISHNAN",
@@ -1279,7 +1279,93 @@
 					"Scout (Unit 1)": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"4th",
+						"-",
+						"4th",
+						"1st",
+						"1st",
+						"4th",
+						"2nd"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"1st",
+						"2nd"
+					],
+					[
+						"Volleyball",
+						"4th",
+						"-",
+						"2nd",
+						"-",
+						"2nd",
+						"4th",
+						"1st",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - English": "Distinction",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Ncc (Air Boys)": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Silver",
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

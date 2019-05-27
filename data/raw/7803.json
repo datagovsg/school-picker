@@ -64,8 +64,7 @@
 			"Entrepreneur Club",
 			"Gardening Club",
 			"It & Media Club",
-			"Ripples",
-			"Students' Council"
+			"Ripples"
 		]
 	},
 	"SpecialProgrammes": {
@@ -364,7 +363,54 @@
 					]
 				]
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-"
+					]
+				]
+			}
 		}
 	},
 	"PsleAggregateHistory": {

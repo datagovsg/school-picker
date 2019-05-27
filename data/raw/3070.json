@@ -89,7 +89,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"STEM": "School-wide Environment Education",
+			"STEM": "Environment Education",
 			"Community & Youth Leadership": "Serving with values and good habits, developing the 21st century gentlemen/ ladies"
 		},
 		"Special Student Development Programmes Offered": "We believe in inculcating a love for reading across different disciplines through our school-wide morning Reading Programme to enhance exposure and interest in the different subject domains. We rolled out 1-to-1 Computing with Google Chromebooks in 2014 to equip our students with 21st Century skills and to promote self-directed and collaborative learning. The school was designated as a Google Reference School by Google Singapore in 2017. We embarked on our Applied Learning Programme  on Environmental Education in 2016. This distinctive programme helps our students connect academic knowledge with the real world. In the same year, we also started our Learning for Life Programme on Community Youth Leadership where we structured our Values-In-Action programmes to provide platforms for our students to demonstrate the school values of Propriety, Righteousness, Integrity, and Self-Respect. Sec 1 students would draw up proposals to improve the school environment; Sec 2 students spread environmental conservation messages as HDB Heartland Ambassadors and connect with the community by leading in learning journeys to Punggol Ecotown; Sec 3 students conduct service learning activities locally  and the Sec 4/5 students mentor their juniors in fund raising for Singapore Heart Foundation and Boy's Town flag day."
@@ -890,7 +890,69 @@
 					"Scout (Unit 1)": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"4th",
+						"3rd",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Bronze",
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

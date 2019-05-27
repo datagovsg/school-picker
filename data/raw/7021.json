@@ -12,6 +12,7 @@
 	"fax": [
 		"64666709"
 	],
+	"email": "stmargaretss@moe.edu.sg",
 	"mrt": "FARRER ROAD MRT",
 	"bus": "48 , 93 , 153 , 165 , 174 , 186 , 855 , 961 ",
 	"GeneralInformation": {
@@ -72,7 +73,7 @@
 			"Girl Guides",
 			"Girls' Brigade",
 			"Npcc",
-			"Singapore Red Cross Society"
+			"Red Cross Youth"
 		],
 		"Visual and Performing Arts": [
 			"Band - Symphonic",
@@ -1346,7 +1347,128 @@
 					"Red Cross": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th"
+					],
+					[
+						"Fencing",
+						"-",
+						"-",
+						"4th",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"3rd"
+					],
+					[
+						"Tenpin Bowling",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Drama - Multi-Lingual": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Girl Guides": "Gold",
+					"Girls' Brigade": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

@@ -66,8 +66,7 @@
 			"Entrepreneur Club",
 			"Gardening Club",
 			"It & Media Club",
-			"Ripples",
-			"Students' Council"
+			"Ripples"
 		]
 	},
 	"SpecialProgrammes": {
@@ -116,6 +115,16 @@
 						"'C' Div"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
 				}
 			],
 			"SYF": [],
@@ -140,5 +149,6 @@
 		"TP",
 		"CA"
 	],
+	"specialNeeds": [],
 	"id": "7803"
 }

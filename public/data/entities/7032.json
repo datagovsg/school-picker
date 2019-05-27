@@ -49,7 +49,6 @@
 		"English Language",
 		"Food & Nutrition",
 		"Food And Consumer Education",
-		"Food Studies, N Level",
 		"Geography",
 		"History",
 		"Humanities (Ss, Geography)",
@@ -59,6 +58,7 @@
 		"Malay",
 		"Malay B",
 		"Mathematics",
+		"Mobile Robotics",
 		"Music",
 		"Physical Education",
 		"Physics",
@@ -485,6 +485,146 @@
 						"'C' Div"
 					],
 					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Golf",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Waterpolo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "1st"
 				}
 			],
 			"SYF": [
@@ -572,6 +712,36 @@
 					"year": "2017",
 					"category": "Drama - English (2nd Entry)",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English (2nd Entry)",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Percussion Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Sectional Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -633,6 +803,26 @@
 				{
 					"year": "2017",
 					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Sea Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
 					"award": "Gold"
 				}
 			]
@@ -754,8 +944,6 @@
 		"TP",
 		"CA"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "7032"
 }

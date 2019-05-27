@@ -1052,7 +1052,78 @@
 					"Scout": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"3rd",
+						"4th"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"4th",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Harmonica": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "618310"

@@ -68,14 +68,15 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Badminton (Boys)",
-			"Floorball (Boys)",
+			"Badminton",
+			"Floorball",
 			"Netball",
 			"Volleyball (Boys)"
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
 			"Girls' Brigade",
+			"National Civil Defence Cadet Corps",
 			"Ncc (Sea)",
 			"Npcc"
 		],
@@ -99,7 +100,7 @@
 			"Aesthetics": "Digital Media in Visual Arts",
 			"Community & Youth Leadership": "Active Holistic Health Advocates (AHHAs) Championing Efforts towards a Healthier Community"
 		},
-		"Special Student Development Programmes Offered": "Canberra Secondary offers a rigorous academic programme and a comprehensive range of Character and Citizenship Education (CCE) programmes that are well-aligned to MOE's Framework for 21st CC skills. "
+		"Special Student Development Programmes Offered": "Canberra Secondary offers a rigorous academic programme and a comprehensive range of Character and Citizenship Education (CCE) programmes that are well-aligned to MOE's Framework for 21st CC skills. The school develops students to be grateful, respectful and compassionate, by providing students opportunities to serve the community alongside teachers on a regular basis as part of their CCA programme. Furthermore, our Global Canberran Programme, involving Secondary Three students, aims to inculcate the value of compassion through active contribution to the global community. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -585,7 +586,69 @@
 					"St John Ambulance Brigade": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold",
+					"Ncc (Sea)": "Silver",
+					"Npcc (Land)": "Bronze",
+					"St John Ambulance Brigade": "Silver"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

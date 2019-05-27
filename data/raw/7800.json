@@ -18,7 +18,6 @@
 	"GeneralInformation": {
 		"Principal": "MR TAN TECK HOCK",
 		"Vice Principal": [
-			"MR. CHUA CHOON SENG",
 			"MISS LOW YING XIU",
 			"MR HO BENG KIAT",
 			"MR DANNY CHEW POH HUAT"
@@ -1905,7 +1904,164 @@
 					]
 				]
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"1st",
+						"1st",
+						"1st",
+						"1st",
+						"1st",
+						"1st",
+						"1st",
+						"1st"
+					],
+					[
+						"Fencing",
+						"1st",
+						"2nd",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"1st",
+						"3rd",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"3rd",
+						"4th",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"2nd",
+						"1st",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"3rd",
+						"-",
+						"4th",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				]
+			}
 		},
 		"Junior College": {
 			"2005": {},
@@ -2122,7 +2278,66 @@
 					]
 				]
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Fencing",
+						"3rd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					]
+				]
+			}
 		}
 	},
 	"PsleAggregateHistory": {

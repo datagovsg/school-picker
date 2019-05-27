@@ -95,7 +95,7 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"STEM": "“We are what we eat; and what we do” – Knowing Better; Living Healthier; Transforming Lives",
-			"Community & Youth Leadership": "Becoming Persons for Others – Leadership through, and for, the Community"
+			"Community & Youth Leadership": "Becoming Persons for Others – Leadership through and for the Community"
 		},
 		"Special Student Development Programmes Offered": "The school leverages on its Learning for Life Programme (LLP) - Becoming Person for Others; Leadership Through and For the Community - to develop character traits and leadership skills of Peicaians as responsible citizens of the future. Students are empowered to plan and implement charity drives for their financial needy peers, health-enhancing and well-being programmes for senior citizens and other social leadership activities for the wider community. The second distinctive programme for PCSS, the Applied Learning Programme (ALP) in Food, Health and Sports Science aims to expose Peicaians to experiential learning in food processing, food technology, fitness, lifestyle and healthcare. Together with our student leadership framework, we hope to mould Peicaians of Character who truly live up to the school vision of Critical Minds, Compassionate Hearts."
 	},
@@ -217,6 +217,31 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Brass Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Wind Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -277,6 +302,26 @@
 				},
 				{
 					"year": "2017",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Sea)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "St John Ambulance Brigade",
 					"award": "Gold"
 				}
@@ -390,8 +435,6 @@
 		"SE",
 		"TP"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3232"
 }

@@ -73,13 +73,13 @@
 		],
 		"Clubs & Societies": [
 			"Infocomm Club",
-			"Service Library Club"
+			"Service Learning Club"
 		]
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Aesthetics": "Applied Learning in Visual Arts",
-			"Sports & Outdoor Education": "LLP in Character Education Through Sports"
+			"Aesthetics": "Applied Learning in Art",
+			"Sports & Outdoor Education": "Character Education through Sports Awareness, Commitment and Empowerment (SpACE)"
 		},
 		"Special Student Development Programmes Offered": "NBSS actively applies questioning techniques as a key pedagogical approach to get students to reflect and acquire knowledge. The school offers Talent Development Programme (TDP) for students who show keen interest and potential in cognitive development. As part of the programme, students hone their communication and presentation skills, and gain increased exposure through participation in local and international academic competitions. Students also develop creative academic games and organise competitions for primary school students in the area of English Language, Mathematics and Science. The school uses the Pyramid of Success (PoS) as a key frame for character formation, anchored on the development of moral and performance character traits in every student. Aligned to this, the school's Learning for Life Programme (LLP) is \"Character Education through Sports\" where students learn to play a variety of sports, are given exposure to varied roles in different sports and exercise character traits of PoS. The school offers both Applied Learning Programme (ALP) in Art and Enhanced Art Programme (EAP). Through these, students acquire both breadth and depth of art learning in media such as drawing and painting, character and fashion design, visual communications, ceramic art and digital media. Signature programmes include the annual art exhibition and overseas study trip, an Art CCA and the Art Talent Development Programme (ATDP). Students regularly interact and work with practitioners through artist talks, student-practitioner collaborative projects and the unprecedented Learn to Curate Programme developed in collaboration with the National Gallery Singapore."
 	},
@@ -156,6 +156,36 @@
 						"Zone",
 						"Girls",
 						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Sepak Takraw",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
 					],
 					"award": "4th"
 				}
@@ -260,6 +290,36 @@
 					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -320,6 +380,26 @@
 				},
 				{
 					"year": "2017",
+					"category": "St John Ambulance Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "St John Ambulance Brigade",
 					"award": "Gold"
 				}
@@ -443,8 +523,6 @@
 		"CC",
 		"SM"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3214"
 }

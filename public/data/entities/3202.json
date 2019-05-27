@@ -97,7 +97,7 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"STEM": "ENERGISE (Energy in Environmental Science and Sustainable Education)",
+			"STEM": "Broadrick Entrepreneurship in STEM",
 			"Community & Youth Leadership": "Confidence And REsilience (CARE) though Aesthetics, Community and Youth Leadership"
 		},
 		"Special Student Development Programmes Offered": "We are recognised by MOE for \"Entrepreneurship in STEM\", which is an applied learning programme that help our students to become inquisitive leaders, critical and creative thinkers who embrace the spirit of creativity and enterprise."
@@ -180,6 +180,26 @@
 						"'B' Div"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -235,6 +255,26 @@
 				},
 				{
 					"year": "2017",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
 					"category": "Drama - English",
 					"award": "Distinction"
 				}
@@ -299,6 +339,26 @@
 					"year": "2017",
 					"category": "Red Cross",
 					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Red Cross",
+					"award": "Silver"
 				}
 			]
 		}
@@ -418,8 +478,6 @@
 		"MP",
 		"TP"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3202"
 }

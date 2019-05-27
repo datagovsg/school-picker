@@ -21,7 +21,8 @@
 		"Principal": "Mrs Karen Tay",
 		"Vice Principal": [
 			"Miss Teo Geok Sian",
-			"Miss Phua Ai Ling Adeline"
+			"Miss Phua Ai Ling Adeline",
+			"Mdm Rachel Ang Lay Koon"
 		],
 		"Vice Principal (Admin)": "Miss Kesavan Paula Anne",
 		"School Vision": "A Woman of Distinction",
@@ -59,7 +60,6 @@
 		"Geography",
 		"Higher Art",
 		"Higher Chinese",
-		"Higher Tamil",
 		"History",
 		"Humanities (Ss, Geography)",
 		"Humanities (Ss, History)",
@@ -91,6 +91,7 @@
 			"Basketball",
 			"Gymnastics (Rhythmic)",
 			"Netball",
+			"Squash",
 			"Ten-Pin Bowling",
 			"Tennis"
 		],
@@ -128,6 +129,9 @@
 				"School Distinction Awards": "SDA"
 			},
 			"2017": {
+				"School Distinction Awards": "SDA"
+			},
+			"2018": {
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
@@ -410,6 +414,96 @@
 						"'B' Div"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Gymnastics (Rhythmic)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Gymnastics (Rhythmic)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -532,6 +626,36 @@
 					"year": "2017",
 					"category": "Ensemble - Guitar",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -564,6 +688,16 @@
 					"year": "2017",
 					"category": "Red Cross",
 					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Red Cross",
+					"award": "Silver"
 				}
 			]
 		}
@@ -677,8 +811,6 @@
 		"SG",
 		"CC"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "7004"
 }

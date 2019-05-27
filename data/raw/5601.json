@@ -67,7 +67,6 @@
 			"Symphonic Band"
 		],
 		"Clubs & Societies": [
-			"Chinese Tea Appreciation",
 			"Debating Club",
 			"Environmental & Science Club",
 			"Homec Club",
@@ -905,7 +904,68 @@
 					"Scout": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band - Concert": "Distinction",
+					"Band-Percussion Ensemble": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "408931"

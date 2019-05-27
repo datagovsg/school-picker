@@ -82,7 +82,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Innovation & Enterprise": "EPIC -  Empowering Pupils to Innovate for Community (Fun Ideas Serious Solutions)"
+			"Innovation & Enterprise": "EPIC -  Empowering Pupils to Innovate for the Community"
 		},
 		"Special Student Development Programmes Offered": "The school's Applied Learning Programme is innovation and enterprise which is called EPIC - Empowering Pupils to Innovate for Community.  The tagline for this programme is Fun Ideas Serious Solutions. Through the school-based innovation curriculum, all P1-P6 students are progressively taught critical thinking, creative thinking, problem-solving and decision-making skills through Project Work. To enable the students to authentically apply their learning, the school integrates Project Work with Values-in-Action (VIA) programme. For our students who are inclined towards innovation, the school has established an Innovation Club to provide intensive training and exposure to competitions to hone their innovation skills. Students create products and embark on projects that help solve community issues. "
 	},
@@ -882,7 +882,68 @@
 					"Scout": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Hockey",
+						"4th",
+						"3rd",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Brownies": "Gold",
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "529392"

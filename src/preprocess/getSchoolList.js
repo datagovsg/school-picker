@@ -1,10 +1,9 @@
 import fs from 'fs'
 import axios from 'axios'
 
-const url = 'http://sis.moe.gov.sg/WebServices/SchoolService.asmx/getChosenSchoolByEducationLevel'
+const url = 'https://sis.moe.gov.sg/WebServices/SchoolService.asmx/getChosenSchoolByEducationLevel'
 
 const options = {
-  method: 'POST',
   headers: {
     'Accept': 'application/json',
     'Content-Type': 'application/json'

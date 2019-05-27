@@ -854,7 +854,76 @@
 					"Girls' Brigade": "Bronze"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Softball",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"3rd",
+						"2nd",
+						"1st",
+						"1st"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition(Sm)",
+					"Choir": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girls' Brigade": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "538882"

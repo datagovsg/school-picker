@@ -92,9 +92,9 @@
 			"International Dance"
 		],
 		"Clubs & Societies": [
-			"Games And Recreation Club",
 			"Library",
 			"Robotics Club",
+			"Scrabble Club",
 			"Weiqi Club"
 		]
 	},
@@ -165,6 +165,16 @@
 						"Senior"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -262,6 +272,41 @@
 					"year": "2017",
 					"category": "Ensemble - Guitar",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": []
@@ -286,15 +331,26 @@
 		"CC",
 		"SM"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 210,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
 		"VACANCY FOR PHASE 1": 170,
-		"NO. OF APPLICANTS IN PHASE 1": 64
+		"NO. OF APPLICANTS IN PHASE 1": 64,
+		"PLACES TAKEN UP TO PHASE 1": 63,
+		"VACANCY FOR PHASE 2A1": 107,
+		"NO. OF APPLICANTS IN PHASE 2A1": 0,
+		"PLACES TAKEN UP TO PHASE 2A1": 63,
+		"VACANCY FOR PHASE 2A2": 107,
+		"NO. OF APPLICANTS IN PHASE 2A2": 28,
+		"PLACES TAKEN UP TO PHASE 2A2": 91,
+		"VACANCY FOR PHASE 2B": 60,
+		"NO. OF APPLICANTS IN PHASE 2B": 0,
+		"PLACES TAKEN UP TO PHASE 2B": 91,
+		"VACANCY FOR PHASE 2C": 119,
+		"NO. OF APPLICANTS IN PHASE 2C": 159,
+		"PLACES TAKEN UP TO PHASE 2C": 210
 	},
 	"id": "1223"
 }

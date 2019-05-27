@@ -4,7 +4,7 @@
 	"levels": "S",
 	"uen": " T07GS3222C",
 	"logo": "./Medias/Images/Schools/logos/tn_3222.jpg",
-	"website": "http://www.yiochukangsec.moe.edu.sg/",
+	"website": "http://www.yiochukangsec.moe.edu.sg",
 	"address": "3063, Ang Mo Kio Avenue 5 (569868)",
 	"telephone": [
 		"64560669"
@@ -51,7 +51,6 @@
 		"Food Studies, N Level",
 		"Geography",
 		"Higher Chinese",
-		"Higher Malay",
 		"History",
 		"Literature(E)",
 		"Malay",
@@ -76,8 +75,7 @@
 			"Badminton (Boys & Girls)",
 			"Basketball (Boys)",
 			"Floorball (Boys)",
-			"Netball",
-			"Volleyball (Boys)"
+			"Netball"
 		],
 		"Uniformed Groups": [
 			"National Police Cadet Corps",
@@ -102,9 +100,9 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"STEM": "Developing inquiring minds and creative learners through Arduino",
-			"Music & Performing Arts": "Character Development through the Arts, Media and Design"
+			"Music & Performing Arts": "Growing Character Leadership through Arts, Media and Design"
 		},
-		"Special Student Development Programmes Offered": "The school's Learning for Life Programme (LLP) aims to grow strong character and leadership through Arts, Media & Design. The programme features the YCK Arts Foundation classes that provide a wide range of opportunities for creative expression in singing, dance, drama, and playing an instrument. Through the design of these activities, students develop confidence, nurture a deeper appreciation of the arts and acquire important collaborative and people skills to lead self and others. Beyond the performing arts, the LLP also has talent development programmes to take the students deeper into creative areas related to technology such as Short-Film Production, and Interior Design. The school offers an Applied Learning Programme (ALP) to nurture inquiring minds and inventive thinkers through technology. In this programme, students are introduced to the world of STEM in the form of Embedded Electronics, learning to develop innovative ideas and integrated solutions for real-life problems in the community. The ALP gives students opportunities to explore the connections between problem-solving skills needed in the real world and academic knowledge related to Science, Technology, Engineering and Mathematics (STEM). Importantly,the ALP encourages students to stay curious and learn about how technology can be applied in new ways to improve the quality of life around us."
+		"Special Student Development Programmes Offered": "The school's Learning for Life Programme (LLP) aims to grow strong character and leadership through Arts, Media and Design. The programme features the YCK Arts Foundation classes that provide a wide range of opportunities for creative expression in Modern Dance, Drama, Music (Rock & Pop), as well as Short Film Production and Interior Design. Through the design of these activities, students develop confidence, nurture a deeper appreciation of the arts and acquire important collaborative and people skills to lead self and others. Beyond the performing arts, the LLP also has talent development programmes to take the students deeper into creative areas related to technology such as animation. The school offers an Applied Learning Programme (ALP) to nurture inquiring minds and inventive thinkers through technology. In this programme, students are introduced to the world of STEM in the form of Embedded Electronics, learning to develop innovative ideas and integrated solutions for real-life problems in the community. The ALP gives students opportunities to explore the connections between problem-solving skills needed in the real world and academic knowledge related to Science, Technology, Engineering and Mathematics (STEM). Importantly, the ALP encourages students to stay curious and learn about how technology can be applied in new ways to improve the quality of life around us."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -119,6 +117,9 @@
 				"Special Awards": "LHL Award for Innovation in the Normal Course"
 			},
 			"2017": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course"
+			},
+			"2018": {
 				"Special Awards": "LHL Award for Innovation in the Normal Course"
 			},
 			"Sports & Games Competition": [],
@@ -222,6 +223,41 @@
 					"year": "2017",
 					"category": "Drama - English",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -267,6 +303,21 @@
 				},
 				{
 					"year": "2017",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCDCC",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
 					"category": "Red Cross",
 					"award": "Gold"
 				}
@@ -381,8 +432,7 @@
 		"YS"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"id": "3222"
 }

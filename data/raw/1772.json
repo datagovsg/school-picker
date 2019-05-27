@@ -18,6 +18,7 @@
 	"GeneralInformation": {
 		"Principal": "MR CHIA SEE CHEW ALBERT",
 		"Vice Principal": "MRS TAN SIEW HONG",
+		"Vice Principal (Admin)": "MS TUNG AI JUI",
 		"School Vision": "A Leader. A Keen Learner. A Friend.",
 		"School Mission": "To inspire Clementians to lead with integrity, strive for excellence and be kind to all.",
 		"School Philosophy, Culture and Ethos": [
@@ -68,9 +69,9 @@
 			"Dance - Malay"
 		],
 		"Clubs & Societies": [
-			"Cheerleading Club",
 			"Infocom Club",
-			"Library"
+			"Library",
+			"Street Dance"
 		]
 	},
 	"SpecialProgrammes": {
@@ -736,7 +737,62 @@
 					"Dance - Malay": "Distinction"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"4th",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				}
+			}
 		}
 	},
 	"postalCode": "129903"

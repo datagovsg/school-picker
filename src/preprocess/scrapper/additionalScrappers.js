@@ -3,50 +3,49 @@ import cheerio from 'cheerio'
 import {html2json} from 'html2json'
 
 export function scrapSpecialNeeds () {
-  const url = 'https://www.moe.gov.sg/education/programmes/resources-to-support-mainstream-students-with-special-needs'
+  const url = 'https://www.moe.gov.sg/education/special-education/mainstream-schools'
   return axios.get(url, {responseType: 'text'})
-    .then(res => res.data)
-    .then(html => {
-      html = html.replace(/\r?\n|\r/g, '').replace(/>\s+</g, '><')
-
-      const tables = [
-        html.match(/<table>.*<\/table>/)[0],
-        ...html.match(/<table id="table-1".*?<\/table>/g)
-      ]
-
-      const jsons = tables.map(html2json)
-      return parseSpecialNeeds(jsons)
-    })
-    .catch(err => {
-      console.error(err.stack)
-    })
+    .then(res => cheerio.load(res.data))
+    .then(parseSpecialNeeds)
+    .catch(console.error)
 }
 
-function parseSpecialNeeds ([handicap, ...tables]) {
-  const result = {secondary: {}, handicap: []}
-  tables.forEach(table => {
-    table.child[0].child[0].child.slice(1)
-      .map(c => c.child.slice(-6))
-      .map(c => c.map(c => c.child[0].text))
-      .forEach(row => {
-        const key = row[1]
-        const value = []
-        if (row[2].indexOf('Signing') > -1) value.push('HL.Signing')
-        else if (row[2].indexOf('Oral') > -1) value.push('HL.Oral')
-        if (row[3] !== '&nbsp;') value.push('VI')
-        if (row[4] !== '&nbsp;') value.push('PD')
-        if (row[5] !== '&nbsp;') value.push('Mild SEN')
-        if (value.length > 0) result.secondary[key] = value
-      })
-  })
-  handicap
-    .child[0].child[0].child.slice(1)
-    .map(c => c.child.map(c => c.child[0].text))
-    .forEach(row => {
-      const key = row[0].toUpperCase().replace(/ +/g, ' ')
-      result.handicap.push(key)
-    })
+function parseSpecialNeeds ($) {
+  const result = {}
 
+  function supportType (text) {
+    if (/Hearing Loss.*Signing/.test(text)) return 'HL.Signing'
+    if (/Hearing Loss.*Oral/.test(text)) return 'HL.Oral'
+    if (/Visual Impairment/.test(text)) return 'VI'
+  }
+
+  const $table1 = $('#Provisions-and-Support-in-Mainstream-Schools')
+    .nextAll('table').eq(0)
+  const $table2 = $('#List-of-Mainstream-Primary-Schools-with-Barrier-Free-Accessibility')
+    .nextAll('table').eq(0)
+  const $table3 = $('#List-of-Mainstream-Secondary-Schools-and-Junior-Colleges-Centralised-Institute-with-Barrier-Free-Accessibility')
+    .nextAll('table').eq(0)
+  $table1.find('tr').slice(1).each(function () {
+    const $tds = $(this).find('td')
+    const group = $tds.eq(0).text().trim().replace(/\s+/g, ' ')
+    const schools = $tds.eq(1).find('a').each(function () {
+      const school = $(this).text().trim().toUpperCase()
+      result[school] = result[school] || []
+      result[school].push(supportType(group))
+    })
+  })
+  $table2.find('tr').slice(1).each(function () {
+    const $tds = $(this).find('td')
+    const school = $tds.last().text().trim().toUpperCase()
+    result[school] = result[school] || []
+    result[school].push('PD')
+  })
+  $table3.find('tr').slice(1).each(function () {
+    const $tds = $(this).find('td')
+    const school = $tds.last().text().trim().toUpperCase()
+    result[school] = result[school] || []
+    result[school].push('PD')
+  })
   return result
 }
 
@@ -61,9 +60,7 @@ export function scrapStudentCare () {
       const json = html2json(table)
       return parseStudentCare(json)
     })
-    .catch(err => {
-      console.error(err.stack)
-    })
+    .catch(console.error)
 }
 
 function parseStudentCare (table) {
@@ -83,9 +80,7 @@ export function scrapRelocatedSchools () {
       const json = html2json(table)
       return parseRelocatedSchools(json)
     })
-    .catch(err => {
-      console.error(err.stack)
-    })
+    .catch(console.error)
 }
 
 function parseRelocatedSchools (table) {
@@ -118,9 +113,7 @@ export function scrapMergerSchools () {
       const json = html2json(table)
       return parseMergerSchools(json)
     })
-    .catch(err => {
-      console.error(err.stack)
-    })
+    .catch(console.error)
 }
 
 function parseMergerSchools (table) {
@@ -153,9 +146,7 @@ export function scrapNewSchools () {
       const json = html2json(table)
       return parseNewSchools(json)
     })
-    .catch(err => {
-      console.error(err.stack)
-    })
+    .catch(console.error)
 }
 
 function parseNewSchools (table) {
@@ -171,9 +162,7 @@ export function scrapVacancies () {
   return axios.get(url, {responseType: 'text'})
     .then(res => cheerio.load(res.data))
     .then(parseVacancies)
-    .catch(err => {
-      console.error(err.stack)
-    })
+    .catch(console.error)
 }
 
 function parseVacancies ($) {

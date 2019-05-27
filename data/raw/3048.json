@@ -395,7 +395,23 @@
 					"Girls' Brigade": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold",
+					"Ncc (Air)": "Gold",
+					"Npcc (Land)": "Bronze",
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

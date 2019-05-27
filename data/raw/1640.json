@@ -433,7 +433,22 @@
 					"Scout": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition(Sm)",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Brownies": "Gold",
+					"Red Cross": "Gold",
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "649930"

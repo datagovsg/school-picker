@@ -4,7 +4,7 @@
 	"levels": "S",
 	"uen": " T07GS3231A",
 	"logo": "./Medias/Images/Schools/logos/tn_3231.jpg",
-	"website": "http://www.pingyisec.moe.edu.sg",
+	"website": "https://pingyisec.moe.edu.sg/",
 	"address": "61, CHAI CHEE STREET ( 468980 )",
 	"telephone": [
 		"64489580"
@@ -33,8 +33,6 @@
 		"ART",
 		"CHEMISTRY",
 		"CHINESE",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"ENGLISH LANGUAGE",
@@ -42,6 +40,9 @@
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"MALAY",
 		"MATHEMATICS",
 		"MUSIC",
@@ -836,7 +837,25 @@
 					"Npcc (Land)": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)",
+					"Outstanding PARTNERS"
+				],
+				"SYF Arts Presentation": {
+					"Band-Display-Percussion Ensemble": "Accomplishment",
+					"Band-Percussion Ensemble": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Ncc (Land)": "Gold",
+					"Npcc (Land)": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

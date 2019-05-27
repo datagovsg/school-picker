@@ -52,6 +52,7 @@
 	"Cca": {
 		"Physical Sports": [
 			"Football",
+			"Modular Sports",
 			"Sepak Takraw",
 			"Volleyball"
 		],
@@ -990,7 +991,76 @@
 					"Scout": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "556095"

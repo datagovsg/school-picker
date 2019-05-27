@@ -209,6 +209,56 @@
 						"Junior"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -301,6 +351,41 @@
 					"year": "2017",
 					"category": "Ensemble - Handbell / Handchime",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Gamelan",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -330,15 +415,28 @@
 		"CK",
 		"CL"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 210,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
 		"VACANCY FOR PHASE 1": 170,
-		"NO. OF APPLICANTS IN PHASE 1": 39
+		"NO. OF APPLICANTS IN PHASE 1": 39,
+		"PLACES TAKEN UP TO PHASE 1": 39,
+		"VACANCY FOR PHASE 2A1": 131,
+		"NO. OF APPLICANTS IN PHASE 2A1": 0,
+		"PLACES TAKEN UP TO PHASE 2A1": 39,
+		"VACANCY FOR PHASE 2A2": 131,
+		"NO. OF APPLICANTS IN PHASE 2A2": 15,
+		"PLACES TAKEN UP TO PHASE 2A2": 54,
+		"VACANCY FOR PHASE 2B": 78,
+		"NO. OF APPLICANTS IN PHASE 2B": 0,
+		"PLACES TAKEN UP TO PHASE 2B": 54,
+		"VACANCY FOR PHASE 2C": 156,
+		"NO. OF APPLICANTS IN PHASE 2C": 44,
+		"PLACES TAKEN UP TO PHASE 2C": 98,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 112,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 18
 	},
 	"id": "1232"
 }

@@ -70,17 +70,20 @@
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
+			"Art Club",
 			"Band - Brass",
-			"Chinese Calligraphy Club",
 			"Choir",
 			"Contemporary Dance",
 			"Indian Dance",
+			"Lion Dance Troupe",
+			"Malay Dance",
 			"String - Ensemble (Violin)"
 		],
 		"Clubs & Societies": [
 			"Edison's Club (Science & Robotics)",
 			"Green Club",
-			"Library"
+			"Library",
+			"Media Production House"
 		]
 	},
 	"SpecialProgrammes": {
@@ -950,7 +953,80 @@
 					"Scout": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Development Award": "DA (National Education)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Brownies": "Silver",
+					"Girls' Brigade": "Gold",
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "649332"

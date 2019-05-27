@@ -92,8 +92,7 @@
 			"Choir",
 			"Dance - Chinese",
 			"Dance - Malay",
-			"Drama - English",
-			"Photographic Society"
+			"Drama - English"
 		],
 		"Clubs & Societies": [
 			"Info Communication Club",
@@ -103,7 +102,7 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Humanities": "Minds for the Future – First Cultivating the Disciplined and Synthesising Mind",
-			"Community & Youth Leadership": "Dare to Serve -- QUEST Leadership Development"
+			"Community & Youth Leadership": "Community & Youth Leadership"
 		},
 		"Special Student Development Programmes Offered": "The school sets out to prepare our students to be Future-Ready by equipping them with the skill-sets and mind-sets to navigate the uncertainties ahead. With this in mind, the school embarked on an Applied Learning Programme (ALP) which focuses on cultivating Disciplined and Synthesising Minds (based on Howard Gardner's 5 Minds for the Future) through investigative thinking. The emphasis is on the application of thinking skills, connecting knowledge across subject disciplines and applying these skills in authentic settings. The ALP lays a strong foundation in our students so that they will gain a competitive edge in the future. In line with the school's motto 'Dare to Serve', the school's Learning for Life Programme (LLP) focuses on Community Youth Leadership. The LLP aims to grow our students to be leaders who are aware of the needs of the community, championing and advocating for them. Through school programmes, such as the annual Quest Learning Festival, leadership development programmes and overseas immersion programmes, students are provided with meaningful learning experiences for them to grow as a Community Youth Leader. The school leverages on the National Youth Achievement Award (NYAA) to achieve its mission to nurture a leader for tomorrow, anchored in values and committed to serve.  The programme develops self-reliance, perseverance, personal responsibility and responsibility to society and nation. Our students will attain NYAA Bronze Award with many going on to achieve the Silver Award. Our other accolades include the sustained LOTUS Award for our pervasive Green Efforts and the sustained achievements of our various CCA Groups. To promote the Joy of Learning and Innovation in our students, the school started the Makers' Club in 2017 to allow students to exercise their creativity and apply their skills and knowledge."
 	},
@@ -135,6 +134,46 @@
 						"'C' Div"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -227,6 +266,31 @@
 					"year": "2017",
 					"category": "Drama - English",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -303,6 +367,31 @@
 				{
 					"year": "2017",
 					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
 					"award": "Gold"
 				}
 			]
@@ -423,8 +512,7 @@
 		"CL"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"id": "3508"
 }

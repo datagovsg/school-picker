@@ -92,7 +92,7 @@
 		],
 		"School Distinctive Programmes": {
 			"Interdisciplinary": "Skilling the Mind; Empowering the Thinking",
-			"Music & Performing Arts": "My Story, My Stage – Acquiring an identity and voice as one shares his stories, imagines and explores."
+			"Music & Performing Arts": "My Story, My Stage"
 		},
 		"Special Student Development Programmes Offered": "Our two distinctive programmes: Learning for Life Programme (LLP) and Applied Learning Programme (ALP) were awarded by MOE in 2014 and 2016 respectively. "
 	},
@@ -771,7 +771,20 @@
 					"Scout": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Commendation",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Guitar": "Accomplishment",
+					"Ensemble - Handbell / Handchime": "Accomplishment",
+					"Ensemble - Strings": "Commendation",
+					"Dance - International": "Commendation"
+				}
+			}
 		}
 	},
 	"postalCode": "769026"

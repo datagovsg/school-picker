@@ -105,6 +105,9 @@
 			"2017": {
 				"Development Award": "DA (Character Development)"
 			},
+			"2018": {
+				"Development Award": "DA (Character Development)"
+			},
 			"Sports & Games Competition": [
 				{
 					"year": "2015",
@@ -215,6 +218,46 @@
 						"'B' Div"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
 				}
 			],
 			"SYF": [
@@ -317,6 +360,31 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -377,6 +445,26 @@
 				},
 				{
 					"year": "2017",
+					"category": "Red Cross",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
 					"category": "Red Cross",
 					"award": "Silver"
 				}
@@ -502,8 +590,7 @@
 		"YS"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"id": "3607"
 }

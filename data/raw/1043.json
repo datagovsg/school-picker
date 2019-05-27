@@ -89,7 +89,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"ICT & Media": "Media Whiz Kids!",
+			"ICT & Media": "Media Whiz Kids! Nurturing Confident and Media Literate Communicators",
 			"Community Service & Student Leadership": "I-LEAD, I-SERVE – Leadership through and as Service"
 		},
 		"Special Student Development Programmes Offered": "Teck Whye Primary's Applied Learning Programme (ALP) is entitled 'Media Whiz Kids!', a media and media literacy-based programme. The programme aims to enable our students to apply the knowledge and skills acquired in Languages, Technology, Art and Music to authentic and meaningful contexts.  Specialised media programmes will support those with talents and a keen interest through our various CCAs such as the Infocomm Club, iDesign Club, and Speech and Drama Club. The ALP is intended to develop confident students who can put across their thoughts and ideas verbally and in written form in both digital and non-digital platforms, and are able to harness relevant tools and media to enhance communication. Programming to promote computational thinking will also be introduced to students as part of this ALP."
@@ -774,7 +774,74 @@
 					"Scout": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div"
+					],
+					[
+						"Track & Field",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "688261"

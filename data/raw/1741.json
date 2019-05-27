@@ -75,7 +75,7 @@
 		],
 		"Clubs & Societies": [
 			"Environmental Club",
-			"Infocom Club"
+			"Infocomm Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -83,7 +83,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Music & Performing Arts": "Fitness and Graciousness Through Dance"
+			"Music & Performing Arts": "Graciousness and Fitness Through Dance"
 		},
 		"Special Student Development Programmes Offered": "The wide range of Co-Curricular Activities (CCA) in our school forms a key pillar of our students' character development. All our CCA set high targets and work towards them relentlessly as a team. Through their participation, students are significantly developed in teamwork, confidence and resilience. Many students have distinguished themselves and won honours in various competitions."
 	},
@@ -1064,7 +1064,77 @@
 					"Boys' Brigade": "Bronze"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girls' Brigade": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "649076"

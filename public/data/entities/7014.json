@@ -24,8 +24,8 @@
 			"Mdm Ho Hui Ping"
 		],
 		"School Vision": "To be an asset to the country by developing capable women of character and relevance.",
-		"School Mission": "To develop each pupil's character and abilities to her fullest potential according to her individual pace and aspiration, so as to prepare her for meaningful roles in the community.",
-		"School Philosophy, Culture and Ethos": "The SCGS education philosophy stems from our strong belief in providing a holistic and balanced education founded on a bedrock of timeless values and rich heritage. Our environment which offers the warmth and stability of a strong family fosters excellence and achievement based on every pupil's personal needs, interests and aptitude. We add colour, character and richness to the learning experience.",
+		"School Mission": "To inspire and develop every student to fulfil her fullest potential, according to her individual pace and aspiration, so as to prepare her for meaningful roles in the community.",
+		"School Philosophy, Culture and Ethos": "The SCGS education philosophy stems from our strong belief in providing a holistic and balanced education founded on a bedrock of timeless values and rich heritage. Our environment which offers the warmth and stability of a strong family fosters excellence and achievement based on every student's personal needs, interests and aptitude. We add colour, character and richness to the learning experience.",
 		"Type of School": "Independent School / Girls' School / Single Session",
 		"IP Partner Schools": [
 			"Catholic High School",
@@ -600,6 +600,156 @@
 						"'C' Div"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Gymnastics (Artistic)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Gymnastics (Artistic)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Gymnastics (Trampoline)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Squash",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Squash",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -737,6 +887,51 @@
 					"year": "2017",
 					"category": "Choir",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Strings",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -807,6 +1002,26 @@
 				},
 				{
 					"year": "2017",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Girls)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "Red Cross",
 					"award": "Gold"
 				}
@@ -897,5 +1112,6 @@
 		"TP",
 		"CA"
 	],
+	"specialNeeds": [],
 	"id": "7014"
 }

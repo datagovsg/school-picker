@@ -85,6 +85,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
+			"Coding": "Computational Thinking in Mathematics",
 			"Community Service & Student Leadership": "I-LEAD – A Whole School Student Leadership Development Programme"
 		},
 		"Special Student Development Programmes Offered": "I-LEAD is our Learning for Life Programme (LLP) that focuses on student leadership for the entire cohort. I-LEAD at Horizon is the central focus of our initiatives and programmes. It is our intention for all students to experience I-LEAD during their daily experiences and lessons through the common language that the teachers and peers use and via practising the skills of being a self-leader."
@@ -328,7 +329,74 @@
 					"Scout": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					],
+					[
+						"Tenpin Bowling",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guitar": "Commendation"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "828819"

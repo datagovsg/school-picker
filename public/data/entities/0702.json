@@ -172,6 +172,9 @@
 			"2017": {
 				"School Distinction Awards": "SDA"
 			},
+			"2018": {
+				"School Distinction Awards": "SDA"
+			},
 			"Sports & Games Competition": [
 				{
 					"year": "2015",
@@ -202,6 +205,26 @@
 						"'C' Div"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
@@ -244,6 +267,26 @@
 					"year": "2017",
 					"category": "Ensemble - Guitar",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
@@ -256,6 +299,9 @@
 				"School Distinction Awards": "SDA"
 			},
 			"2017": {
+				"School Distinction Awards": "SDA"
+			},
+			"2018": {
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
@@ -378,6 +424,66 @@
 						"'A' Div"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Shooting (Air Rifle)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Waterpolo",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -520,6 +626,51 @@
 					"year": "2017",
 					"category": "Dance - International",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English (2nd Entry)",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Strings",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": []
@@ -650,5 +801,6 @@
 		"PL",
 		"TM"
 	],
+	"specialNeeds": [],
 	"id": "0702"
 }

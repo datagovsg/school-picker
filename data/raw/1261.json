@@ -47,7 +47,11 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Music & Performing Arts/ Visual Arts & Design": "ICAR2E THROUGH THE ARTS"
+			"Music & Performing Arts": [
+				"ICAR",
+				null,
+				"E THROUGH THE ARTS"
+			]
 		},
 		"Special Student Development Programmes Offered": "Speech & Drama"
 	},
@@ -90,7 +94,17 @@
 					"Dance - International": "Accomplishment"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment"
+				}
+			}
 		}
 	},
 	"postalCode": "797636"

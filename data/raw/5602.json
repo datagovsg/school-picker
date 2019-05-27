@@ -84,7 +84,7 @@
 		],
 		"School Distinctive Programmes": {
 			"Languages": "Bilingual Media Studies (BMS) Programme",
-			"Sports & Outdoor Education": "Building Character Through Volleyball"
+			"Community Service & Student Leadership": "Pei Chun Leaders Programme (PCLP)"
 		},
 		"Special Student Development Programmes Offered": "SAP Flagship Programme - Chinese History and Culture Programme  "
 	},
@@ -1189,7 +1189,114 @@
 					"Scout": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": "DA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"2nd",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"3rd",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"3rd",
+						"2nd",
+						"2nd"
+					],
+					[
+						"",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div"
+					],
+					[
+						"Swimming",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Brownies": "Gold",
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "319133"

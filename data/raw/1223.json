@@ -90,9 +90,9 @@
 			"International Dance"
 		],
 		"Clubs & Societies": [
-			"Games And Recreation Club",
 			"Library",
 			"Robotics Club",
+			"Scrabble Club",
 			"Weiqi Club"
 		]
 	},
@@ -802,7 +802,63 @@
 					"Ensemble - Guitar": "Accomplishment"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Hockey",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition(Sm)",
+					"Art - Category B": "Recognition(Sm)",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Accomplishment",
+					"Ensemble - Guitar": "Distinction"
+				}
+			}
 		}
 	},
 	"postalCode": "768680"

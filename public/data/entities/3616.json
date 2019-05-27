@@ -132,6 +132,9 @@
 					"DA (National Education)"
 				]
 			},
+			"2018": {
+				"Best Practice Awards": "BPA (Staff Well-Being)"
+			},
 			"Sports & Games Competition": [
 				{
 					"year": "2016",
@@ -222,6 +225,16 @@
 						"'C' Div"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -304,6 +317,36 @@
 					"year": "2017",
 					"category": "Drama - Multi-Lingual",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - Multi-Lingual",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -351,6 +394,21 @@
 					"year": "2017",
 					"category": "Red Cross",
 					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
 				}
 			]
 		}

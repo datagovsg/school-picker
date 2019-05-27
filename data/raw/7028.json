@@ -17,10 +17,7 @@
 	"bus": "53 , 54 , 56 , 410G , 410W ",
 	"GeneralInformation": {
 		"Principal": "MDM ELSIE JEREMIAH",
-		"Vice Principal": [
-			"MR TAN CHE CHUEN TIMOTHY",
-			"MR TAN ENG HONG JONATHAN"
-		],
+		"Vice Principal": "MR TAN CHE CHUEN TIMOTHY",
 		"Vice Principal (Admin)": "MR TIN CHEE KUANG EDMUND",
 		"School Vision": "Every KCPian a Servant Leader & Scholar",
 		"School Mission": "We provide a conducive and nurturing Christian environment for the holistic development of every child through high engagement in, achievement through, and enjoyment of learning.",
@@ -95,8 +92,8 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Languages & Humanities": "A.W.A.R.E (Media Literacy)[Appreciate, Aware, Action, Reach and Evaluate]",
-			"Community & Youth Leadership": "KCPSS Student Leadership Development Programme"
+			"Languages & Humanities": "Participate, Access/ Analyse, Create, Evaluate (P.A.C.E) in KCPSS Media Literacy Programme",
+			"Community & Youth Leadership": "Every KCPian a Servant Leader"
 		},
 		"Special Student Development Programmes Offered": "The school offers a Learning for Life programme (LLP) in the area of Community and Youth Leadership (CYL). This is a whole-school approach to develop every KCPian as a Servant Leader through the progression from leadership of self, to leadership of others at various impact levels. It is designed to evoke empathy and inculcate a spirit of service while developing the 21st century competencies of critical and inventive thinking. The development of 21st century competencies is reinforced through the school's  Applied Learning Programme (ALP) in Media Literacy. This programme, which is anchored on the English Language and Literature curriculum, is designed to develop in students' communication, collaboration and information skills. Students will inquire into how the media and society shape each other, and analyse the benefits and challenges that different media platforms present to society today."
 	},
@@ -759,7 +756,81 @@
 					"Npcc (Land)": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Commendation",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides": "Gold",
+					"Girls' Brigade": "Gold",
+					"Ncdcc": "Gold",
+					"Npcc (Land)": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

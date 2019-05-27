@@ -19,7 +19,8 @@
 		"Principal": "MR HANAFI B ASMORE",
 		"Vice Principal": [
 			"MR YAP MENG HONG",
-			"MR HO SENG TAT SUNNY"
+			"MR HO SENG TAT SUNNY",
+			"MISS KAREN YAW LI LING"
 		],
 		"Vice Principal (Admin)": "MDM LIM BEE TIN",
 		"School Vision": "A Gracious Community of Confident and Innovative Life-Long Learners.",
@@ -888,7 +889,71 @@
 					"Girls' Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Hockey",
+						"1st",
+						"-",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Accomplishment",
+					"Ensemble - Guzheng": "Commendation"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "538787"

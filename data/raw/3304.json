@@ -112,7 +112,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"STEM": "Swiss Applied Sciences Programme",
+			"STEM": "Applied Sciences for Sustainable Development",
 			"Community & Youth Leadership": "Swiss Thoughtful Leadership Programme"
 		},
 		"Special Student Development Programmes Offered": "Swiss Cottage delivers a Total Curriculum covering a comprehensive Student Development Programme, a rigorous Instructional Programme and two Distinctive Programmes: Swiss Thoughtful Leadership Programme (TLP) and Applied Sciences for Sustainable Development Programme. The TLP integrates Student Leadership, Values in-Action (VIA), and our school-based Glocal (global and local) Perspectives programmes. It provides our students with the knowledge, skills and values to explore and embark on possible VIA or social action projects. The Applied Sciences for Sustainable Development Programme aims to equip our students with specialised scientific skills and knowledge through the curriculum and authentic learning platforms such as VIA and research projects, attachment opportunities and mentoring by our teachers or industry/academia partners. The Student Development Programme includes the core CCE and student well-being programmes, a wide range of CCAs, enrichment and talent development programmes to broaden our students' world view and hone their unique strengths. The Instructional Programme provides a broad-based and rigorous foundation for post-secondary education. We implement academic enrichment programmes across to develop students' 21st century competencies. These include the Horizons Programme (overseas cultural immersion trip), Future Problem Solving Programme, Maths Olympiad and Science Talent Development programmes."
@@ -618,7 +618,92 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Commendation"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girl Guides": "Gold",
+					"Ncc (Air)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Scout": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

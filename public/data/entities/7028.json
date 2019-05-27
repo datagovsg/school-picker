@@ -19,10 +19,7 @@
 	"bus": "53 , 54 , 56 , 410G , 410W ",
 	"GeneralInformation": {
 		"Principal": "Mdm Elsie Jeremiah",
-		"Vice Principal": [
-			"Mr Tan Che Chuen Timothy",
-			"Mr Tan Eng Hong Jonathan"
-		],
+		"Vice Principal": "Mr Tan Che Chuen Timothy",
 		"Vice Principal (Admin)": "Mr Tin Chee Kuang Edmund",
 		"School Vision": "Every KCPian a Servant Leader & Scholar",
 		"School Mission": "We provide a conducive and nurturing Christian environment for the holistic development of every child through high engagement in, achievement through, and enjoyment of learning.",
@@ -94,8 +91,8 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Languages & Humanities": "A.W.A.R.E (Media Literacy)[Appreciate, Aware, Action, Reach and Evaluate]",
-			"Community & Youth Leadership": "KCPSS Student Leadership Development Programme"
+			"Languages & Humanities": "Participate, Access/ Analyse, Create, Evaluate (P.A.C.E) in KCPSS Media Literacy Programme",
+			"Community & Youth Leadership": "Every KCPian a Servant Leader"
 		},
 		"Special Student Development Programmes Offered": "The school offers a Learning for Life programme (LLP) in the area of Community and Youth Leadership (CYL). This is a whole-school approach to develop every KCPian as a Servant Leader through the progression from leadership of self, to leadership of others at various impact levels. It is designed to evoke empathy and inculcate a spirit of service while developing the 21st century competencies of critical and inventive thinking. The development of 21st century competencies is reinforced through the school's  Applied Learning Programme (ALP) in Media Literacy. This programme, which is anchored on the English Language and Literature curriculum, is designed to develop in students' communication, collaboration and information skills. Students will inquire into how the media and society shape each other, and analyse the benefits and challenges that different media platforms present to society today."
 	},
@@ -135,6 +132,36 @@
 				},
 				{
 					"year": "2017",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Shooting (Air Pistol)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
 					"category": "Table Tennis",
 					"subCategory": [
 						"Zone",
@@ -249,6 +276,41 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -324,6 +386,31 @@
 				},
 				{
 					"year": "2017",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCDCC",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "NPCC (Land)",
 					"award": "Gold"
 				}
@@ -412,8 +499,6 @@
 		"CC",
 		"TP"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "7028"
 }

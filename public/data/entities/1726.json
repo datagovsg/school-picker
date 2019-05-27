@@ -84,6 +84,7 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
+			"Interdisciplinary": "ThINKabits",
 			"Community Service & Student Leadership": "Environmental Education"
 		},
 		"Special Student Development Programmes Offered": "Nurturing Curiosity, Instilling Empathy for the environment"
@@ -187,6 +188,41 @@
 					"year": "2017",
 					"category": "Dance - Malay",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -230,15 +266,28 @@
 		"TH",
 		"WC"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 180,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
 		"VACANCY FOR PHASE 1": 140,
-		"NO. OF APPLICANTS IN PHASE 1": 18
+		"NO. OF APPLICANTS IN PHASE 1": 18,
+		"PLACES TAKEN UP TO PHASE 1": 18,
+		"VACANCY FOR PHASE 2A1": 122,
+		"NO. OF APPLICANTS IN PHASE 2A1": 0,
+		"PLACES TAKEN UP TO PHASE 2A1": 18,
+		"VACANCY FOR PHASE 2A2": 122,
+		"NO. OF APPLICANTS IN PHASE 2A2": 1,
+		"PLACES TAKEN UP TO PHASE 2A2": 19,
+		"VACANCY FOR PHASE 2B": 81,
+		"NO. OF APPLICANTS IN PHASE 2B": 0,
+		"PLACES TAKEN UP TO PHASE 2B": 19,
+		"VACANCY FOR PHASE 2C": 161,
+		"NO. OF APPLICANTS IN PHASE 2C": 18,
+		"PLACES TAKEN UP TO PHASE 2C": 37,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 143,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 26
 	},
 	"id": "1726"
 }

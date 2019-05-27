@@ -28,18 +28,6 @@ import {defaultYearRange} from './constants'
 //   fs.writeFileSync('data/studentCare.json', JSON.stringify(json, null, '\t'))
 // })
 
-// scrapRelocatedSchools().then(json => {
-//   fs.writeFileSync('data/relocatedSchools.json', JSON.stringify(json, null, '\t'))
-// })
-
-// scrapMergerSchools().then(json => {
-//   fs.writeFileSync('data/mergerSchools.json', JSON.stringify(json, null, '\t'))
-// })
-
-// scrapNewSchools().then(json => {
-//   fs.writeFileSync('data/newSchools.json', JSON.stringify(json, null, '\t'))
-// })
-
 scrapVacancies().then(json => {
   const vacancies = require('../../../data/vacancies.json')
   Object.keys(json).forEach(key => {

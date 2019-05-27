@@ -26,7 +26,7 @@
 		],
 		"School Vision": "Every Brooksian a Champion, Impacting the Community.",
 		"School Mission": "To empower Brooksians to develop a passion for learning, strong moral values and a keen sense of duty and community.",
-		"School Philosophy, Culture and Ethos": "Our school motto, Soaring Yet Rooted, challenges our students to SOAR to greater heights whilst staying ROOTED in strong values and to be motivated to excel, lead and serve. We aim for all students to strive for their very best in whatever they do and always be grateful to the people who have helped them in their journey. The school aims to imbue in every Brooksian our core values of Graciousness, Integrity, Fortitude, Teamwork, Empathy and Discipline (GIFTED) in their Brooksian education experience. Guided by this core mission, our purpose is to make a conscious effort to design a plethora of deep learning experiences and quality interactions within the school and beyond for our students to explore, and thereby discover and ultimately maximise their potential.",
+		"School Philosophy, Culture and Ethos": "Our school motto, Soaring Yet Rooted, challenges our students to SOAR to greater heights whilst staying ROOTED in strong values and to be motivated to excel, lead and serve. We aim for all students to strive for their very best in whatever they do and always be grateful to the people who have helped them in their journey. The school aims to imbue in every Brooksian our core values of Graciousness, Integrity, Fortitude, Teamwork, Empathy and Discipline (G.I.F.T.E.D) in their Brooksian education experience. Guided by this core mission, our purpose is to make a conscious effort to design a plethora of deep learning experiences and quality interactions within the school and beyond for our students to explore, and thereby discover and ultimately maximise their potential.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -99,7 +99,7 @@
 			"STEM": "Northbrooks Aerospace Programme (Applied Learning In Aerospace)",
 			"Sports & Outdoor Education": "Northbrooks Outdoor Education: Adventure, Character, Environment (A.C.E.) Programme"
 		},
-		"Special Student Development Programmes Offered": "The school offers a variety of programmes to widen the students' learning experiences for greater development in cognitive, physical and aesthetic domains. The school's distinctive Applied Learning Programme (ALP) in Aerospace provides our students an edge when applying for aerospace-related courses which in turn opens a career pathway for them in the rapidly growing aerospace industry. All Lower Secondary students are equipped with basic knowledge in aerospace topics and essential STEM skills. Students who demonstrate passion in this field would be further engaged in related external programmes. Our Learning for Life Programme (LLP) in Outdoor Education which is known as A.C.E (Adventure, Character, Environment) aims to develop character, inculcate values of grit and resilience and build leadership traits in all students, as they learn adventure skills such as orienteering as well as cultivate an appreciation for the environment. Students who excel at the various adventure skills may have the opportunity to participate in various competitions. In addition, the Stained Glass Art Programme empowers the students to express their creativity and develop their spirit of innovation. As the making of stained glass artwork requires skill and patience, students working in teams will develop fortitude while learning to value each other's strengths. Northbrooks offers a range of VIA opportunities for all students.  All students take part in Recyclatron, an annual recycling activity which allows students to spread the message of recycling.  The Secondary Two students undergo a learning journey to VWOs to learn the fundamentals of Service Learning.  This culminates in the Secondary Three student-initiated service learning project. The Whole-School Approach to Effective Communication (WSA-EC) aims to build students' competencies in communicating in English by raising students' interest and motivation in reading and speaking good English through specific learning activities."
+		"Special Student Development Programmes Offered": "The school offers a variety of programmes to widen the students' learning experiences for greater development in cognitive, social-moral, leadership, physical and aesthetic domains. The school's distinctive Applied Learning Programme (ALP) in Aerospace, together with many related partners, provides our students an edge when applying for aerospace-related courses which in turn opens a career pathway for them in the rapidly growing aerospace industry. All Lower Secondary students are equipped with basic knowledge in aerospace topics and essential STEM skills. Our Learning for Life Programme (LLP) in Outdoor Education which is known as A.C.E (Adventure-Character-Environment) aims to develop character, inculcate values of grit and resilience and build leadership traits in all students, as they learn adventure skills such as orienteering as well as cultivate an appreciation for the environment. Students who excel at the various adventure skills may have the opportunity to participate in various competitions. In addition, the Stained Glass Art Programme empowers the students to express their creativity and develop their spirit of innovation. As the making of stained glass artwork requires skill and patience, students working in teams will develop fortitude while learning to value each other's strengths. Northbrooks offers a range of Values-in-Action opportunities for all students.  All students take part in Recyclatron, an annual recycling activity which allows students to spread the message of recycling.  The Secondary Two students undergo a learning journey to VWOs to learn the fundamentals of Service Learning.  This culminates in the Secondary Three student-initiated service learning project. The Whole-School Approach to Effective Communication (WSA-EC) aims to build students' competencies in communicating in English by raising students' interest and motivation in reading and speaking good English through specific learning activities."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -119,6 +119,16 @@
 						"'C' Div"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -196,6 +206,31 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -271,6 +306,26 @@
 				},
 				{
 					"year": "2017",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Air Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
 					"category": "Red Cross",
 					"award": "Gold"
 				}
@@ -394,8 +449,6 @@
 		"CC",
 		"SM"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3612"
 }

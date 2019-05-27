@@ -79,8 +79,7 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Sports & Outdoor Education": "Learn, Love, Lead through Sports (3L Sports)",
-			"Music & Performing Arts": "Ethnic Music Appreciation and Talent Development through Angklung, Kulintang and Gamelan Ensemble"
+			"Sports & Outdoor Education": "Learn, Love, Lead through Sports (3L Sports)"
 		},
 		"Special Student Development Programmes Offered": "The school's LLP is in Sports, and the objectives of this LLP are: "
 	},
@@ -120,6 +119,26 @@
 						"Senior"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -227,6 +246,31 @@
 					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Gamelan",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -269,6 +313,16 @@
 					"year": "2017",
 					"category": "Girls' Brigade",
 					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
+					"award": "Gold"
 				}
 			]
 		}
@@ -290,10 +344,7 @@
 		"MP",
 		"TP"
 	],
-	"specialNeeds": [
-		"PD",
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"id": "1619"
 }

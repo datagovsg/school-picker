@@ -174,7 +174,80 @@
 					"Choir": "Accomplishment"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Floorball",
+						"-",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Distinction",
+					"Ensemble - Gamelan": "Distinction"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Ncdcc": "Silver",
+					"Red Cross": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

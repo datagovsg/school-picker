@@ -52,10 +52,9 @@
 		"Physical Sports": [
 			"Badminton",
 			"Basketball",
+			"Football",
 			"Hockey",
 			"Netball",
-			"Soccer",
-			"Taekwondo",
 			"Track & Field"
 		],
 		"Uniformed Groups": [
@@ -67,7 +66,7 @@
 			"Choir",
 			"Dance - Indian",
 			"Dance- Chinese",
-			"Malay Aesthetics"
+			"Dance- Malay Aesthetics"
 		],
 		"Clubs & Societies": [
 			"Health And Fitness Club"
@@ -474,7 +473,65 @@
 					"Scout": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "648368"

@@ -14,7 +14,7 @@
 	],
 	"email": "bbss@moe.edu.sg",
 	"mrt": "BUKIT BATOK MRT",
-	"bus": "66 , 157 , 174 , 174E , 178 , 506 , 941 ",
+	"bus": "66 , 157 , 174 , 174E , 178 , 506 , 941 , 991 ",
 	"GeneralInformation": {
 		"Principal": "MR PHUA HUAT CHUAN",
 		"Vice Principal": [
@@ -88,13 +88,13 @@
 		"Visual and Performing Arts": [
 			"Chinese Orchestra",
 			"Concert Band",
-			"Eldds",
+			"Eldds (Drama & Debate)",
 			"Malay Dance",
 			"Modern Dance",
 			"Show Choir"
 		],
 		"Clubs & Societies": [
-			"Media Club",
+			"Media & Photography Club",
 			"Pa Club"
 		]
 	},
@@ -104,9 +104,9 @@
 		],
 		"School Distinctive Programmes": {
 			"STEM": "Developing Proactive Problem-Solvers who care for our World through STEM",
-			"Community & Youth Leadership": "Developing Community Youth Leadership through Values-in-Action"
+			"Community & Youth Leadership": "Developing Community Youth Leadership through VIA - Journey to Become RESPECTful Leaders"
 		},
-		"Special Student Development Programmes Offered": "As the foundational programme to deliver the school mission, we adopted Arthur L. Costa's Habits of Mind (HOM) since 2003 to inculcate in BBSSians thinking dispositions. After the explicit teaching of these dispositions via activity-based HOM lessons, every student should habitually practice HOM daily to be equipped for future challenges as self-directed life-long learners. When applied academically, for example, dispositions such as \"Gathering Data through All Senses\" and \"Thinking Flexibly\" improve the quality of data collection and analysis of findings from geography field trips. Our Learning for Life Programme (LLP) is the Community Youth Leadership (CYL) Programme which aims to nurture RESPECTful Leaders who are self-directed in serving the community with abundance mentality. This programme integrates the twin pillars of Leadership Development and Values In Action (VIA) to provide BBSSians with leadership training experiences and opportunities to organise community-wide events like Project Mi and Blood Donation Drive, and participate in overseas service learning expeditions like Project Heartwork. Such projects aim to develop dispositions like \"Listening with Understanding and Empathy\" and \"Questioning and Problem Posing\". Our Applied Learning Programme (ALP) is in the area of embedded electronics which builds upon the fundamentals of Science, Technology, Engineering and Mathematics (STEM) to develop BBSSians as proactive problem-solvers who care for the world. Focusing on the application of sensor technologies and mBOT robots to simple real-life problems, lower sec students learn to develop prototype solutions and interested upper sec students go on to collaborate with school partners to design solutions, participate in competitions, job shadowing and attend STEM related elective modules. By cultivating their joy of learning, students developed the disposition of \"Remaining open to Continuous Learning\" which will prepare the students well for the future."
+		"Special Student Development Programmes Offered": "To deliver the school mission, we adopted Arthur L. Costa's Habits of Mind (HOM) since 2003 to inculcate in BBSSians thinking dispositions. These dispositions are taught explicitly via activity-based lessons and every student would habitually practise HOM daily so as to prepare them for future challenges as self-directed learners. Our students possess the strength of character to do well academically and in their CCAs, thus actualising our school vision of providing quality holistic education. This is delivered through our LLP, Community Youth Leadership Programme, which aims to nurture RESPECTful Leaders who are self-directed in serving the community with abundance mentality. It integrates the twin pillars of Leadership Development and Values In Action (VIA) to provide BBSSians with leadership training experiences and opportunities to organise community-wide events like Blood Donation Drive, and overseas service learning expeditions as part of our Internationalisation Programme. Such projects aim to develop dispositions like \"Listening with Understanding and Empathy\" and \"Questioning and Problem Posing\". Our ALP is in the area of embedded electronics which builds upon our strength in Science, Technology, Engineering and Mathematics (STEM) to develop BBSSians as proactive problem-solvers by focusing on the application of sensor technologies, coding and mBOT robots to simple real-life scenarios. Our students' innate abilities are cultivated through our Talent Development Programme where we facilitate many student-initiated interest groups like aesthetic performances by dance groups and singers, mind games get-together with Scrabble and Rubik's Cube, technology-driven enthusiasts through drones and robotics, and communication via radio DJ shows and history. All these holistic experiences cultivate students' joy of learning thus developing their disposition of \"Remaining open to Continuous Learning\" which will prepare the students well for the future."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -522,7 +522,27 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Development Award": "DA (National Education)",
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides": "Gold",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Ncc (Sea)": "Gold",
+					"Npcc (Land)": "Bronze"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

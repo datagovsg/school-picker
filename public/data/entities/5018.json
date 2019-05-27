@@ -70,6 +70,7 @@
 	"Cca": {},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
+			"Coding": "Developing Future Ready Monfortians: I Dream, I Believe, I Make",
 			"Sports & Outdoor Education": "Character Matters: Developing Montfortians with CHRISTE values through sports"
 		},
 		"Special Student Development Programmes Offered": "Montfort Junior School is an all-boys institution of learning and we focus on providing a boys centric educational experience. Believing that boys learn differently, our teaching and learning program, facilities and resources are designed with Boys Centric Education (BCE) in mind. Our programs are designed to facilitate peer learning, encourage movement, be experiential in nature and differentiated to meet individual's needs. Programs are designed to stretch the potential as well as support learning needs."
@@ -196,6 +197,56 @@
 						"Senior"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -248,6 +299,21 @@
 					"year": "2017",
 					"category": "Ensemble - Strings",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
@@ -271,15 +337,28 @@
 		"SG",
 		"TP"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 120,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
 		"VACANCY FOR PHASE 1": 80,
-		"NO. OF APPLICANTS IN PHASE 1": 12
+		"NO. OF APPLICANTS IN PHASE 1": 12,
+		"PLACES TAKEN UP TO PHASE 1": 12,
+		"VACANCY FOR PHASE 2A1": 68,
+		"NO. OF APPLICANTS IN PHASE 2A1": 3,
+		"PLACES TAKEN UP TO PHASE 2A1": 15,
+		"VACANCY FOR PHASE 2A2": 65,
+		"NO. OF APPLICANTS IN PHASE 2A2": 9,
+		"PLACES TAKEN UP TO PHASE 2A2": 24,
+		"VACANCY FOR PHASE 2B": 48,
+		"NO. OF APPLICANTS IN PHASE 2B": 15,
+		"PLACES TAKEN UP TO PHASE 2B": 38,
+		"VACANCY FOR PHASE 2C": 82,
+		"NO. OF APPLICANTS IN PHASE 2C": 43,
+		"PLACES TAKEN UP TO PHASE 2C": 79,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 41,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 46
 	},
 	"id": "5018"
 }

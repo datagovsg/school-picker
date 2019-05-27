@@ -54,10 +54,9 @@
 		"Physical Sports": [
 			"Badminton",
 			"Basketball",
+			"Football",
 			"Hockey",
 			"Netball",
-			"Soccer",
-			"Taekwondo",
 			"Track & Field"
 		],
 		"Uniformed Groups": [
@@ -69,7 +68,7 @@
 			"Choir",
 			"Dance - Indian",
 			"Dance- Chinese",
-			"Malay Aesthetics"
+			"Dance- Malay Aesthetics"
 		],
 		"Clubs & Societies": [
 			"Health And Fitness Club"
@@ -128,6 +127,16 @@
 						"Zone",
 						"Boys",
 						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
 					],
 					"award": "1st"
 				}
@@ -222,6 +231,36 @@
 					"year": "2017",
 					"category": "Dance - Malay",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -239,6 +278,11 @@
 					"year": "2017",
 					"category": "Scout",
 					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Gold"
 				}
 			]
 		}
@@ -260,15 +304,26 @@
 		"TH",
 		"WC"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 210,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
 		"VACANCY FOR PHASE 1": 170,
-		"NO. OF APPLICANTS IN PHASE 1": 87
+		"NO. OF APPLICANTS IN PHASE 1": 87,
+		"PLACES TAKEN UP TO PHASE 1": 87,
+		"VACANCY FOR PHASE 2A1": 83,
+		"NO. OF APPLICANTS IN PHASE 2A1": 0,
+		"PLACES TAKEN UP TO PHASE 2A1": 87,
+		"VACANCY FOR PHASE 2A2": 83,
+		"NO. OF APPLICANTS IN PHASE 2A2": 11,
+		"PLACES TAKEN UP TO PHASE 2A2": 98,
+		"VACANCY FOR PHASE 2B": 56,
+		"NO. OF APPLICANTS IN PHASE 2B": 20,
+		"PLACES TAKEN UP TO PHASE 2B": 118,
+		"VACANCY FOR PHASE 2C": 92,
+		"NO. OF APPLICANTS IN PHASE 2C": 105,
+		"PLACES TAKEN UP TO PHASE 2C": 210
 	},
 	"id": "1753"
 }

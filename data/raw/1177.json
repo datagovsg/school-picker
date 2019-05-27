@@ -72,6 +72,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
+			"Coding": "Future Skills Programme",
 			"Community Service & Student Leadership": "Greenova - To nurture, innovative, responsible, young environmentalists who love and care for the environment"
 		},
 		"Special Student Development Programmes Offered": "Programmes that build the Confident Person"
@@ -568,7 +569,63 @@
 					"Scout": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"3rd",
+						"3rd",
+						"-",
+						"2nd",
+						"4th",
+						"1st",
+						"1st"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Dance - Indian": "Distinction",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "797701"

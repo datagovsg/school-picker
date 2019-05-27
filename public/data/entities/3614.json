@@ -17,7 +17,7 @@
 		"Chinese Garden MRT",
 		"Lakeside MRT"
 	],
-	"bus": "49 , 98 , 99 , 157 , 180 , 185 , 187 , 198 , 334 , 335 , 502 ",
+	"bus": "49 , 98 , 99 , 157 , 180 , 185 , 187 , 198 , 334 , 335 , 502 , 657 ",
 	"GeneralInformation": {
 		"Principal": "Miss Foong Lai Leong",
 		"Vice Principal": "Mr Sim How Chong",
@@ -32,6 +32,8 @@
 	"SubjectOffered": [
 		"Additional Mathematics",
 		"Art",
+		"Art Na Level",
+		"Art 'O' Level",
 		"Biology",
 		"Chemistry",
 		"Chinese",
@@ -52,6 +54,7 @@
 		"Mathematics",
 		"Music",
 		"Physics",
+		"Principles Of Accounts",
 		"Science",
 		"Science (Phy, Chem)",
 		"Social Studies N(T)"
@@ -289,6 +292,46 @@
 						"'C' Div"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'C' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Table Tennis",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -411,6 +454,41 @@
 					"year": "2017",
 					"category": "Drama - English",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -472,6 +550,26 @@
 				{
 					"year": "2017",
 					"category": "Scout (Unit 1)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
 					"award": "Gold"
 				}
 			]
@@ -592,5 +690,6 @@
 		"TH",
 		"WC"
 	],
+	"specialNeeds": [],
 	"id": "3614"
 }

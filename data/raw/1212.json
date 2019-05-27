@@ -17,7 +17,7 @@
 	"bus": "42",
 	"GeneralInformation": {
 		"Principal": "MDM LOE LAI PINK",
-		"Vice Principal": "MR KEONG WEN HAN",
+		"Vice Principal": "MDM ADILA ONG KIM LUAN",
 		"Vice Principal (Admin)": "MDM ONG SEOW PENG",
 		"School Vision": "We Learn, We Grow, We Achieve",
 		"School Mission": [
@@ -541,7 +541,73 @@
 					"Scout": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Floorball",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Bronze"
+				}
+			}
 		}
 	},
 	"postalCode": "458436"

@@ -32,6 +32,6 @@ export function indexSchoolData () {
     result.push(forwardIndex[key])
   })
 
-  fs.writeFileSync('public/data/entityList.json', JSON.stringify(result))
+  fs.writeFileSync('public/data/entityList.json', JSON.stringify(result.filter(entity => entity.coordinates)))
   return result
 }

@@ -50,7 +50,6 @@
 		"English Language (Syll A)",
 		"English Language (Syll T)",
 		"Food And Consumer Education",
-		"Food Studies, N Level",
 		"Higher Chinese",
 		"Higher Tamil",
 		"Literature(E)",
@@ -188,6 +187,16 @@
 						"'C' Div"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'B' Div"
+					],
+					"award": "1st"
 				}
 			],
 			"SYF": [
@@ -248,6 +257,26 @@
 				},
 				{
 					"year": "2017",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
 					"category": "Ensemble - Guitar",
 					"award": "Accomplishment"
 				}
@@ -327,6 +356,26 @@
 					"year": "2017",
 					"category": "St John Ambulance Brigade",
 					"award": "Bronze"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Silver"
 				}
 			]
 		}
@@ -446,8 +495,6 @@
 		"TH",
 		"WC"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3403"
 }

@@ -16,7 +16,7 @@
 	"mrt": [
 		"Dover MRT"
 	],
-	"bus": "14 , 74 , 105 , 106 , 147 , 166 ",
+	"bus": "14 , 74 , 105 , 106 , 147 , 166 , 185 ",
 	"GeneralInformation": {
 		"Principal": "Mrs Linda Chan",
 		"Vice Principal": "Mrs Chew Eu Jin Nee Lim Wai Lee",
@@ -24,7 +24,7 @@
 		"School Vision": "A global leader in transforming learning",
 		"School Mission": "To nurture passionate innovators who improve society through real-world applications of science and technology",
 		"School Philosophy, Culture and Ethos": [
-			"The School of Science and Technology, Singapore (SST) is a Specialised Independent School that offers a distinctive 4-year GCE O-Level programme with an integrated approach to applied learning. Learning in SST is multi-faceted as students gain a strong foundation of key academic concepts in Science, Technology, Art, Engineering and Mathematics (STEM). The school-wide leverage on Information Communication Technology (ICT) greatly enhances the learning environment and provides the extended learning resources and networks that the digital natives have come to expect. As a FutureSchool, SST aims to be a forerunner in using ICT to support educational programmes and enhance the delivery of its specialised curriculum.",
+			"The School of Science and Technology, Singapore (SST) is a Specialised Independent School that offers a distinctive 4-year GCE O-Level programme with an integrated approach to applied learning. Learning in SST is multi-faceted as students gain a strong foundation of key academic concepts in Science, Technology, Art, Engineering and Mathematics (STEM). The school-wide leverage on Information Communication Technology (ICT) greatly enhances the learning environment and provides the extended learning resources and networks that the digital natives have come to expect. As a forerunner in applied learning and ICT, SST strives to provide a strong all-round programme for students to explore the frontiers of sicence and technology education.",
 			"SST caters to students who learn best in an active applied learning environment, where conceptual understandings and transference of disciplinary content knowledge and skills are fostered through cognitively demanding hands-on applications set in real world situations. Sound affective, character and leadership education, national education, and entrepreneurial programmes serve to equip students with the skills and competencies crucial for success in the 21st century and nurture the values-driven and community-responsible person and leader.",
 			"This concurrent emphasis on non-academic curricular ensures the cultivation of invaluable life skills and work competencies such as resilience, responsible risk-taking, innovation and entrepreneurial mindset, effective teamwork and communication, and dynamic leadership."
 		],
@@ -36,13 +36,14 @@
 		"Additional Mathematics",
 		"Art, Design, Media And Technology",
 		"As-biotechnology",
-		"As-fundamentals Of Electronics",
-		"As-media Studies(el)",
+		"As-design Studies",
 		"Biology",
 		"Chemistry",
 		"Chinese",
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
+		"Computing",
+		"Electronics",
 		"English Language",
 		"Higher Chinese",
 		"Higher Malay",
@@ -63,8 +64,7 @@
 			"Fencing",
 			"Floorball",
 			"Football",
-			"Taekwondo",
-			"Wushu"
+			"Taekwondo"
 		],
 		"Uniformed Groups": [
 			"Scouts"
@@ -82,7 +82,7 @@
 		]
 	},
 	"SpecialProgrammes": {
-		"Special Student Development Programmes Offered": "The SST Student Development Programme envisions all its students to be lifelong learners of character who are active local and global citizens and dynamic leaders in service of humanity."
+		"Special Student Development Programmes Offered": "SST offers a distinctive 4-year secondary programme for university-bound students who want a solid academic foundation, particularly in Science, Technology, Engineering, Aesthetics and Mathematics (STEAM) and immersion in real world applications."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -168,12 +168,37 @@
 					"year": "2017",
 					"category": "Ensemble - Guitar",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
 				{
 					"year": "2017",
 					"category": "Scout (Unit 1)",
+					"award": "Bronze"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
 					"award": "Bronze"
 				}
 			]
@@ -196,5 +221,6 @@
 		"TN",
 		"CL"
 	],
+	"specialNeeds": [],
 	"id": "7805"
 }

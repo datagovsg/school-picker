@@ -87,7 +87,7 @@
 		],
 		"School Distinctive Programmes": {
 			"Interdisciplinary": "Applied Learning@NCPS through Project Work",
-			"Sports & Outdoor Education": "Enhancing physical, cognitive, moral and social growth through basketball"
+			"Community Service & Student Leadership": "Watch Me Soar (Student Leadership LLP - A Whole School Approach)"
 		},
 		"Special Student Development Programmes Offered": "The vision of becoming an 'innovative school' with 'future-ready leaders with values' provides the impetus for Student-centric 21st Century Competencies (21CC) Curriculum which includes programmes for academic and non-academic development of our students."
 	},
@@ -934,7 +934,61 @@
 					"Ensemble - Guzheng": "Accomplishment"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Wushu",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				}
+			}
 		}
 	},
 	"postalCode": "545080"

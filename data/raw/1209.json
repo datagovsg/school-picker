@@ -60,7 +60,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Interdisciplinary": "Developing Creative and Critical Thinkers",
+			"Interdisciplinary": "Developing Thinkers, Collaborators and Communicators",
 			"Music & Performing Arts": "Nurturing Values and Character through Aesthetics"
 		},
 		"Special Student Development Programmes Offered": "In alignment to the aspiration for our students, our programmes will focus on the holistic education of Bukit Viewians. In particular, our niche programmes - (1) 'Nurturing Values and Character through Aesthetics' programme which serves to nurture confidence and resilience in our students through the arts, and to develop their social awareness and management; and (2) 'Developing Thinkers, Collaborators & Communicators' Programme' which aims to equip students with critical and inventive thinking skills and dispositions."
@@ -255,7 +255,64 @@
 					"Ensemble - Angklung / Kulintang": "Distinction"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Distinction"
+				}
+			}
 		}
 	},
 	"postalCode": "659634"

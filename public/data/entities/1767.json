@@ -23,6 +23,7 @@
 			"Mrs Nur Fatimah Frauder",
 			"Mdm Kong Yee Loon"
 		],
+		"Vice Principal (Admin)": "Mr Ng Wee Ming Dennis",
 		"School Vision": "Becoming a global STAGE to grow World-ready Talents & People.",
 		"School Mission": "To empower every individual, nurture talents and groom leaders.",
 		"School Philosophy, Culture and Ethos": "We believe in developing a Gem in every Wellingtonian. Each Gem has unique qualities that can sparkle under any light source.  Hence we dedicate ourselves to provide a global stage for our Gems so that they can practise what we call \"Learning by doing, doing until we become\". We believe that each unique Gem can be shaped and nurtured to excel in character through the experiential approach to learning. Character is shaped through habitual practices of right values.  As a Wellington Gem, each child will take initiative to act to meet the needs of the world around them. This is why we define leadership as 'taking the initiative to make a difference to the people around us!' Our aim is that by the time each Gem leaves Wellington Primary, he or she would have left a positive mark somewhere in Sembawang, in Singapore or the world.",
@@ -160,6 +161,36 @@
 						"Senior"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
 				}
 			],
 			"SYF": [
@@ -297,6 +328,51 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Brass Ensemble",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -339,6 +415,21 @@
 					"year": "2017",
 					"category": "Scout",
 					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girls' Brigade",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Silver"
 				}
 			]
 		}
@@ -359,15 +450,28 @@
 		"SM",
 		"YS"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 240,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
 		"VACANCY FOR PHASE 1": 200,
-		"NO. OF APPLICANTS IN PHASE 1": 69
+		"NO. OF APPLICANTS IN PHASE 1": 69,
+		"PLACES TAKEN UP TO PHASE 1": 69,
+		"VACANCY FOR PHASE 2A1": 131,
+		"NO. OF APPLICANTS IN PHASE 2A1": 1,
+		"PLACES TAKEN UP TO PHASE 2A1": 70,
+		"VACANCY FOR PHASE 2A2": 130,
+		"NO. OF APPLICANTS IN PHASE 2A2": 7,
+		"PLACES TAKEN UP TO PHASE 2A2": 77,
+		"VACANCY FOR PHASE 2B": 82,
+		"NO. OF APPLICANTS IN PHASE 2B": 1,
+		"PLACES TAKEN UP TO PHASE 2B": 77,
+		"VACANCY FOR PHASE 2C": 163,
+		"NO. OF APPLICANTS IN PHASE 2C": 99,
+		"PLACES TAKEN UP TO PHASE 2C": 176,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 64,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 21
 	},
 	"id": "1767"
 }

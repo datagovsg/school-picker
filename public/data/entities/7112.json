@@ -4,7 +4,7 @@
 	"levels": "S",
 	"uen": " T07GS7112D",
 	"logo": "./Medias/Images/Schools/logos/tn_7112.jpg",
-	"website": "http://www.nanchiauhigh.moe.edu.sg",
+	"website": "https://nchs.edu.sg",
 	"address": "20, Anchorvale Link (545079)",
 	"telephone": [
 		"64897971"
@@ -12,7 +12,7 @@
 	"fax": [
 		"64897970"
 	],
-	"email": "NCHS@MOE.EDU.SG",
+	"email": "nchs@moe.edu.sg",
 	"mrt": [
 		"Sengkang MRT"
 	],
@@ -64,7 +64,6 @@
 			"Badminton",
 			"Basketball",
 			"Table Tennis",
-			"Track & Field",
 			"Wushu"
 		],
 		"Uniformed Groups": [
@@ -101,8 +100,8 @@
 			"SAP"
 		],
 		"School Distinctive Programmes": {
-			"STEM": "Science Research Programme",
-			"Music & Performing Arts": "Literary Arts (Bilingual) -- Enhancing Expression, Creativity and Aesthetics Appreciation (ECAA) through the ARTS"
+			"STEM": "Electronics in Health Sciences and Health Care Technology",
+			"Music & Performing Arts": "Enhancing Expression, Creativity and Aesthetics Appreciation (ECAA) through the ARTS (Drama, Puppetry and Creative Lyrics Composition)"
 		},
 		"Special Student Development Programmes Offered": "Our SAP Bicultural Flagship Programme aims to nurture bicultural learners who can thrive in a rising Asia. They will develop strong cultural intelligence and be adept in the appreciation of Chinese and other cultures. "
 	},
@@ -127,6 +126,15 @@
 				"Outstanding Development Award": "ODA (National Education)"
 			},
 			"2017": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "ODA (National Education)"
+			},
+			"2018": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": [
 					"BPA (Student All-Round Development)",
@@ -292,6 +300,56 @@
 					"year": "2017",
 					"category": "Ensemble - Strings",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -354,6 +412,26 @@
 					"year": "2017",
 					"category": "Scout (Unit 1)",
 					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Land Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Scout",
+					"award": "Gold"
 				}
 			]
 		}
@@ -412,5 +490,6 @@
 		"SG",
 		"YS"
 	],
+	"specialNeeds": [],
 	"id": "7112"
 }

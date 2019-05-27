@@ -109,7 +109,7 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"STEM": "Eco-sustainability through Inquiry-Based Learning",
-			"Sports & Outdoor Education": "VALOUR - Values and ChAracter BuiLding through OUtdoor CuRriculum"
+			"Sports & Outdoor Education": "Values and Character Building through Outdoor Curriculum (VALOUR)"
 		},
 		"Special Student Development Programmes Offered": "It is the aspiration of the school that all Marsilians graduate as dynamic, confident and caring learners who are skilled in the 21st century competencies and care for self, family, nation and beyond. We believe these qualities can be developed through our distinctive programmes which complement our forward looking curriculum that caters to students' interests, strengths, abilities and learning styles.  A recipient of the 2012 President's Award for the Environment, MSS proudly offers its Applied Learning Programme (ALP) - Eco-sustainability through Inquiry-Based Learning - in the fields of Science, Technology, Engineering and Mathematics (STEM). The ALP seeks to imbue in students a Design Thinking mindset and provide a robust interdisciplinary curriculum for students to engage in critical inquiry, hands-on research and field investigations to apply scientific principles in authentic situations. Our Learning for Life Programme (LLP) - Values And Leadership development through Outdoor cURriculum (VALOUR) - offers unique learning opportunities incorporating adventure and leadership skills which enhance students' self-esteem, self-confidence, independence and socio-emotional competencies. All students are given the opportunity to take up cross-stream subjects as well as Elective Modules and Advanced Elective Modules conducted at the Institutes of Technical Education and the Polytechnics respectively. Some of these modules explore the ALP and LLP in greater depth. Our Normal Technical students are offered Retail Operations, an Applied Learning subject. Students may also look forward to attaining the National Youth Achievement Award (Silver) through participation in outdoor adventure camps and various student leadership enrichment activities."
 	},
@@ -118,7 +118,28 @@
 			"2015": {
 				"Development Award": "DA (Character Development)"
 			},
-			"Sports & Games Competition": [],
+			"Sports & Games Competition": [
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "3rd"
+				}
+			],
 			"SYF": [
 				{
 					"year": "2015",
@@ -219,6 +240,41 @@
 					"year": "2017",
 					"category": "Drama - English",
 					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Mixed Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": [
@@ -266,6 +322,26 @@
 					"year": "2017",
 					"category": "Red Cross",
 					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Boys' Brigade",
+					"award": "Bronze"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Sea Boys)",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Red Cross",
+					"award": "Bronze"
 				}
 			]
 		}
@@ -383,8 +459,6 @@
 		"SB",
 		"SK"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"id": "3615"
 }

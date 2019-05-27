@@ -68,7 +68,7 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Music & Performing Arts": "Mind, Body and Soul Programme"
+			"Music & Performing Arts": "Mind, Body and Soul"
 		},
 		"Special Student Development Programmes Offered": "Learning for Life Programme (Music & Performing Arts) - MBS : Engaging the Mind, Moving the Body, Touching the Soul"
 	},
@@ -93,6 +93,9 @@
 					"DA (Character Development)",
 					"DA (National Education)"
 				]
+			},
+			"2018": {
+				"Development Award": "DA (Character Development)"
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
@@ -128,6 +131,21 @@
 				},
 				{
 					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
 					"category": "Dance - International",
 					"award": "Accomplishment"
 				}
@@ -172,9 +190,7 @@
 		"PL",
 		"CH"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"id": "1237"
 }

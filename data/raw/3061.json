@@ -19,7 +19,6 @@
 		"Principal": "MDM BETTY CHANG",
 		"Vice Principal": [
 			"MRS NG MONG KHENG",
-			"MDM KRISHNAN MALATHI",
 			"MDM LEE CHUI ENG"
 		],
 		"School Vision": "Resilient Achievers, Responsible Citizens.  Peirceans will rise above challenges to stretch their potential.  They have a sense of belonging to school and nation; and seek to serve others.",
@@ -93,8 +92,8 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Business & Entrepreneurship": "Nurturing Entrepreneurs through a vibrant Business & Entrepreneurship Development Programme",
-			"Community & Youth Leadership": "Nurturing Leaders with the heart to serve through a vibrant Community Leadership Programme"
+			"Languages": "Broadcast Journalism",
+			"Community & Youth Leadership": "Community & Youth Leadership"
 		},
 		"Special Student Development Programmes Offered": "The school offers the Applied Learning Programme (ALP) and Learning for Life Programme (LLP) which provide students with learning experiences beyond the formal instructional curriculum. The school's ALP, Broadcast Journalism, allows students to apply English Language skills from various genres in an authentic setting. All lower secondary students go through the programme where they hone their language skills as they engage in scripting, storyboarding and video-making. Students also acquire related ICT skills progressively. The programme promotes the use of the language skills to communicate and serve the community. Students also gain insights into possible careers in the fields of media and journalism. The LLP focusses on developing community leaders with the heart to serve through Uniformed Groups and leadership development programmes. It leverages on the strength of the school in Uniformed Groups (UGs) to provide UG experiences for non-UG students. It aims to develop leadership skills progressively in all students; beginning with personal and community leadership and culminating in executive leadership. All students will acquire basic leadership competencies, social emotional skills and values to become community leaders.  In all, the school is committed to nurturing resilient learners with skills and values for effective communication and gracious citizens with the heart to serve."
 	},
@@ -751,7 +750,67 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Development Award": "DA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - Multi-Lingual": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Silver",
+					"Scout": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

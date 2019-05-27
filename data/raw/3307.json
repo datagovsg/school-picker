@@ -22,7 +22,7 @@
 			"MR KALVINDAR SINGH"
 		],
 		"School Vision": "The First President School, an institution that nurtures Scholars, Sportsmen and Statesmen.",
-		"School Mission": "To nurture Curiosity, Creativity and Confidence in Yusoffians so that they will be Life-long Learners who Contribute to the Greater Good.",
+		"School Mission": "To nurture Curiosity, Creativity and Confidence in Yusoffians so that they will be Life-long Learners who contribute to the Greater Good.",
 		"School Philosophy, Culture and Ethos": "At Yusof Ishak Secondary School, we believe that every child can learn and deserves a holistic education. One of our key strategic thrusts is 'Bringing Out the Best in Every Child' and to imbue in them our school values of 'Resilience, Responsibility, Respect, Confidence, Compassion and Integrity'. Our first class team of staff endeavours to nurture our students towards emulating the attributes of our First President, to be 'Scholars, Sportsmen and Statesmen'.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -42,7 +42,7 @@
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
-		"HIGHER TAMIL",
+		"HIGHER MALAY",
 		"HISTORY",
 		"HUMANITIES (SS, GEOGRAPHY)",
 		"HUMANITIES (SS, HISTORY)",
@@ -751,7 +751,20 @@
 					"Npcc (Land)": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Commendation",
+					"Choir": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Ncc (Land Girls)": "Gold",
+					"Npcc (Land)": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

@@ -52,7 +52,6 @@
 		"FOOD AND CONSUMER EDUCATION",
 		"FOOD STUDIES, N LEVEL",
 		"GEOGRAPHY",
-		"HIGHER CHINESE",
 		"HISTORY",
 		"LITERATURE(E)",
 		"MALAY",
@@ -784,7 +783,64 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Floorball",
+						"1st",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Drama - English": "Commendation",
+					"Dance - International": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Scout": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

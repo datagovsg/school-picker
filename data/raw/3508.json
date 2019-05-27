@@ -89,8 +89,7 @@
 			"Choir",
 			"Dance - Chinese",
 			"Dance - Malay",
-			"Drama - English",
-			"Photographic Society"
+			"Drama - English"
 		],
 		"Clubs & Societies": [
 			"Info Communication Club",
@@ -103,7 +102,7 @@
 		],
 		"School Distinctive Programmes": {
 			"Humanities": "Minds for the Future – First Cultivating the Disciplined and Synthesising Mind",
-			"Community & Youth Leadership": "Dare to Serve -- QUEST Leadership Development"
+			"Community & Youth Leadership": "Community & Youth Leadership"
 		},
 		"Special Student Development Programmes Offered": "The school sets out to prepare our students to be Future-Ready by equipping them with the skill-sets and mind-sets to navigate the uncertainties ahead. With this in mind, the school embarked on an Applied Learning Programme (ALP) which focuses on cultivating Disciplined and Synthesising Minds (based on Howard Gardner's 5 Minds for the Future) through investigative thinking. The emphasis is on the application of thinking skills, connecting knowledge across subject disciplines and applying these skills in authentic settings. The ALP lays a strong foundation in our students so that they will gain a competitive edge in the future. In line with the school's motto 'Dare to Serve', the school's Learning for Life Programme (LLP) focuses on Community Youth Leadership. The LLP aims to grow our students to be leaders who are aware of the needs of the community, championing and advocating for them. Through school programmes, such as the annual Quest Learning Festival, leadership development programmes and overseas immersion programmes, students are provided with meaningful learning experiences for them to grow as a Community Youth Leader. The school leverages on the National Youth Achievement Award (NYAA) to achieve its mission to nurture a leader for tomorrow, anchored in values and committed to serve.  The programme develops self-reliance, perseverance, personal responsibility and responsibility to society and nation. Our students will attain NYAA Bronze Award with many going on to achieve the Silver Award. Our other accolades include the sustained LOTUS Award for our pervasive Green Efforts and the sustained achievements of our various CCA Groups. To promote the Joy of Learning and Innovation in our students, the school started the Makers' Club in 2017 to allow students to exercise their creativity and apply their skills and knowledge."
 	},
@@ -639,7 +638,79 @@
 					"Scout (Unit 1)": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Girl Guides": "Silver",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Gold",
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

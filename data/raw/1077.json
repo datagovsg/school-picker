@@ -1242,7 +1242,88 @@
 					"Scout": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"1st",
+						"2nd",
+						"2nd",
+						"3rd"
+					],
+					[
+						"",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div"
+					],
+					[
+						"Golf",
+						"1st",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category C": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				},
+				"Best Unit Award": {
+					"Brownies": "Silver",
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "555855"

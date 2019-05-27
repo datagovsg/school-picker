@@ -18,8 +18,8 @@
 	"GeneralInformation": {
 		"Principal": "MDM NEO LAY WAH",
 		"Vice Principal": [
-			"MS FARAH AIDA BINTE RAHMAT",
-			"MR HO FU CHEW"
+			"MR HO FU CHEW",
+			"MR MOHAMED IMRAN B MOHAMED IHSAN"
 		],
 		"School Vision": "A School that inspires individuals to be their best",
 		"School Mission": "To Instil a Lively Curiosity and Graciousness in Every Pupil",
@@ -861,7 +861,20 @@
 					"Brownies (Pack 1)": "Bronze"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Distinction",
+					"Dance - Malay": "Distinction"
+				},
+				"Best Unit Award": {
+					"Brownies": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "529565"

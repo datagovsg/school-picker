@@ -14,7 +14,7 @@
 	],
 	"email": "chijktcs@moe.edu.sg",
 	"mrt": "KEMBANGAN MRT",
-	"bus": "4N , 13 , 16 , 31 , 36 , 43 , 47 , 48 , 55 , 134 , 135 , 150 , 196 , 196E , 197 , 763 , 853# ",
+	"bus": "4N , 13 , 16 , 31 , 36 , 43 , 47 , 48 , 55 , 134 , 135 , 150 , 196 , 196E , 197 , 763 ",
 	"GeneralInformation": {
 		"Principal": "MDM CHAN GEK SAN PATRICIA",
 		"Vice Principal": "MDM ONG BEE HOON",
@@ -89,10 +89,10 @@
 		],
 		"Clubs & Societies": [
 			"Cabin Club",
-			"Debate Society",
+			"Debate Club",
 			"Entrepreneur Club",
 			"Ijym",
-			"Infocomm Club"
+			"Media Communications Club (Previously Infocomm Club)"
 		]
 	},
 	"SpecialProgrammes": {
@@ -984,7 +984,69 @@
 					"St John Ambulance Brigade": "Bronze"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Floorball",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band-Brass Ensemble": "Distinction",
+					"Band-Wind Ensemble": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Girl Guides": "Gold",
+					"Ncdcc": "Bronze"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

@@ -110,7 +110,6 @@
 			"Environmental Science Society",
 			"First Aid Club",
 			"Interact Club",
-			"Legion Of Mary",
 			"Nexus Society",
 			"Oratorical Society",
 			"St Vincent De Paul Society",
@@ -951,7 +950,47 @@
 					"Ensemble - Guzheng": "Distinction"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Judo",
+						"4th",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Distinction",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				}
+			}
 		}
 	},
 	"L1R5History": {

@@ -105,7 +105,7 @@
 			"Integrated Programme - Dual Track School (offers both IP and O Levels)",
 			"MUSIC ELECTIVE PROGRAMME"
 		],
-		"Special Student Development Programmes Offered": "MGS is a dual-track school with the O-level track and an Integrated Programme leading to the International Baccalaureate Diploma in Anglo-Chinese School (Independent). Programmes include the Music Elective Programme (MEP), Sophia Blackmore Academy (SBA) - an in-house scholastic O-Level programme, 1:1 Learning, Robotics, Code4Life, STEM Curriculum and Science Mentorship Programme. Other school-based programmes include Reality Outside Classrooms (ROCs), GEL Curriculum, Education and Career Guidance, Community Service and Advocacy, Arts Appreciation, Outdoor Education, Swimming Programme and Student Leadership Training."
+		"Special Student Development Programmes Offered": "MGS is a dual-track school with the O-Level track and an Integrated Programme leading to the International Baccalaureate Diploma in Anglo-Chinese School (Independent). Programmes include the Music Elective Programme (MEP), Sophia Blackmore Academy (SBA) - an in-house scholastic O-Level programme, 1:1 Learning, Robotics, Code4Life, STEM Curriculum and Science Mentorship Programme. Other school-based programmes include Reality Outside Classrooms (ROCs), GEL Curriculum, Education and Career Guidance, Community Service and Advocacy, Arts Appreciation, Outdoor Education, Swimming Programme and Student Leadership Training."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -1833,7 +1833,137 @@
 					"Girls' Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Golf",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					],
+					[
+						"Softball",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Choir": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - English": "Distinction",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Handbell / Handchime": "Accomplishment",
+					"Ensemble - Strings": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girl Guides (Coy 1)": "Gold",
+					"Girl Guides (Coy 2)": "Gold",
+					"Girls' Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

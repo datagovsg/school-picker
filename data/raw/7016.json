@@ -13,7 +13,7 @@
 		"64490162"
 	],
 	"email": "sacss@moe.edu.sg",
-	"mrt": "BEDOK MRT",
+	"mrt": "BEDOK MRT, BEDOK RESERVOIR MRT",
 	"bus": "17",
 	"GeneralInformation": {
 		"Principal": "MDM MAK LAI YING",
@@ -601,7 +601,22 @@
 					"St John Ambulance Brigade": "Bronze"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Band-Percussion Ensemble": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - Multi-Lingual": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Distinction",
+					"Ensemble - Guitar": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Girl Guides": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

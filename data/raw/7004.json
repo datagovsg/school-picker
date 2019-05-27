@@ -19,7 +19,8 @@
 		"Principal": "MRS KAREN TAY",
 		"Vice Principal": [
 			"MISS TEO GEOK SIAN",
-			"MISS PHUA AI LING ADELINE"
+			"MISS PHUA AI LING ADELINE",
+			"MDM RACHEL ANG LAY KOON"
 		],
 		"Vice Principal (Admin)": "MISS KESAVAN PAULA ANNE",
 		"School Vision": "A Woman of Distinction",
@@ -57,7 +58,6 @@
 		"GEOGRAPHY",
 		"HIGHER ART",
 		"HIGHER CHINESE",
-		"HIGHER TAMIL",
 		"HISTORY",
 		"HUMANITIES (SS, GEOGRAPHY)",
 		"HUMANITIES (SS, HISTORY)",
@@ -89,6 +89,7 @@
 			"Basketball",
 			"Gymnastics (Rhythmic)",
 			"Netball",
+			"Squash",
 			"Ten-Pin Bowling",
 			"Tennis"
 		],
@@ -1415,7 +1416,111 @@
 					"Red Cross": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					],
+					[
+						"Gymnastics (Rhythmic)",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					],
+					[
+						"Tennis",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girl Guides": "Silver",
+					"Red Cross": "Silver"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

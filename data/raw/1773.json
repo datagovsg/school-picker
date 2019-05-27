@@ -61,7 +61,6 @@
 			"Floorball",
 			"Football",
 			"Hockey",
-			"House",
 			"Netball"
 		],
 		"Uniformed Groups": [
@@ -1014,7 +1013,86 @@
 					"Scout": "Bronze"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guitar": "Accomplishment",
+					"Choir": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Bronze"
+				}
+			}
 		}
 	},
 	"postalCode": "467353"

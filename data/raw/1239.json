@@ -17,10 +17,8 @@
 	"bus": "9 , 38 , 5 ",
 	"GeneralInformation": {
 		"Principal": "MDM CHENG HUEY TENG",
-		"Vice Principal": [
-			"MDM TAY MENG HON",
-			"MR MOHAMED IMRAN B MOHAMED IHSAN"
-		],
+		"Vice Principal": "MDM TAY MENG HON",
+		"Vice Principal (Admin)": "MDM TAN GEK SIM MAGELLA",
 		"School Vision": "Learners with Passion, Citizens of Honour",
 		"School Mission": "To instil the love for learning and nurture all-round individuals, grounded by values",
 		"School Philosophy, Culture and Ethos": [
@@ -740,7 +738,14 @@
 					"Ensemble - Guzheng": "Accomplishment"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Ensemble - Guitar": "Commendation"
+				}
+			}
 		}
 	},
 	"postalCode": "529896"

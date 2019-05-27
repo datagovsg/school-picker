@@ -110,7 +110,7 @@
 		],
 		"School Distinctive Programmes": {
 			"Languages & Humanities": "The Art of Communication through Theatre and Debates",
-			"Community & Youth Leadership": "Thinking for Life: Lifelong Learning Using the Future Problem Solving Model"
+			"Community & Youth Leadership": "Buidling Critical and Creative Thinking through Future-Problem Solving"
 		},
 		"Special Student Development Programmes Offered": "Our Applied Learning Programme (ALP), 'The Art of Communication through Theatre and Debates', uses a values-centred approach to deepen our girls' creativity, reflective-thinking and communication skills via a layered curriculum that integrates the arts, the languages and the humanities.  Through the analysis of social issues and the validation of aesthetics skills, this ALP supports our aim to nurture articulate and confident students who are women of integrity.  Our Learning for Life Programme (LLP), Thinking for Life Using the Future Problem Solving Model (FPSM), aims to broaden students' critical and creative thinking skills through the active discussion and engagement of the community in issues and problems that students have identified.  This approach seeks to deepen students' perspective-taking skills, empathy and social entrepreneurship to prepare them for active, engaged citizenship in a global world.  In line with SJC's emphasis on Performance and Moral Character-Building, SJC's Differentiated Leadership Programme is adapted from the Kouzes and Posner's Leadership Challenge Model and MacGregor's Everyday Leadership Model to ensure that every SJCian has extensive opportunities to develop her leadership skills to develop strong moral values."
 	},
@@ -1085,7 +1085,81 @@
 					"St John Ambulance Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"2nd"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - Multi-Lingual": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Distinction",
+					"Ensemble - Guitar": "Accomplishment",
+					"Ensemble - Handbell / Handchime": "Distinction"
+				},
+				"Best Unit Award": {
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Gold",
+					"Girl Guides": "Gold"
+				}
+			}
 		}
 	},
 	"PsleAggregateHistory": {

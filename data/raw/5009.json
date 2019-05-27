@@ -19,7 +19,7 @@
 		"Principal": "MISS NEO PHEI TZE PATSY",
 		"Vice Principal": [
 			"MR THAM KINE CHUEN THOMAS",
-			"MDM SNG YEE YEE JOSEPHINE"
+			"MDM JOSEPHINE"
 		],
 		"School Vision": "Home of Servant Leaders who bring Life to the Nations",
 		"School Mission": [
@@ -1282,7 +1282,107 @@
 					"Scout": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rugby",
+						"4th",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div"
+					],
+					[
+						"Swimming",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div",
+						"'C' Div",
+						"'D' Div"
+					],
+					[
+						"Swimming",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Scout": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "359337"

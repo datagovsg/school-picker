@@ -21,10 +21,10 @@
 			"MDM CHUA LENG YIN",
 			"MISS YAP FOON LYN"
 		],
-		"School Vision": "A Learning School with a GIVER3S Heart",
+		"School Vision": "Learning School GIVER3S Heart",
 		"School Mission": "To nurture thinking individuals and gracious citizens",
 		"School Philosophy, Culture and Ethos": [
-			"The school's vision of 'A Learning School with a GIVER3S Heart' is progressively realized through the strategic thrusts of Achieving Academic Excellence, Developing Character & Active Citizenry, Developing Staff Capacity and Forging Partnerships. They guide the school in its commitment towards the creation of school experiences that are memorable, enriching and inspiring. ",
+			"The school's vision of 'A Learning School with a GIVER3S Heart' is progressively realized through the strategic thrusts of Nurturing Self-directed and confident learners, Developing Exemplary Character & Active Citizenry, Building Quality Staff and Forging Partnerships. They guide the school in its commitment towards the creation of school experiences that are memorable, enriching and inspiring. ",
 			"This is in line with the school's mission 'To nurture thinking individuals and gracious citizens' and we are anchored and guided by the school GIVER3S values of: Graciousness, Integrity, Versatility, Empathy, Responsibility, Respect, Resilience and Sincerity. ",
 			"The school also builds on a culture of care and collaboration for staff."
 		],
@@ -58,10 +58,10 @@
 	"Cca": {
 		"Physical Sports": [
 			"Badminton",
-			"Boys' Basketball",
+			"Basketball Boys",
 			"Floorball",
+			"Football",
 			"Rope Skipping",
-			"Soccer",
 			"Table Tennis",
 			"Taekwondo",
 			"Volleyball",
@@ -664,7 +664,76 @@
 					"Girls' Brigade": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"3rd",
+						"4th"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "169485"

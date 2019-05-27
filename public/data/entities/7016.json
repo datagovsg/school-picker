@@ -14,7 +14,8 @@
 	],
 	"email": "sacss@moe.edu.sg",
 	"mrt": [
-		"Bedok MRT"
+		"Bedok MRT",
+		"Bedok Reservoir MRT"
 	],
 	"bus": "17",
 	"GeneralInformation": {
@@ -115,6 +116,9 @@
 				"School Distinction Awards": "SDA"
 			},
 			"2017": {
+				"School Distinction Awards": "SDA"
+			},
+			"2018": {
 				"School Distinction Awards": "SDA"
 			},
 			"Sports & Games Competition": [
@@ -239,6 +243,46 @@
 					"year": "2017",
 					"category": "Ensemble - Guitar",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Percussion Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - Multi-Lingual",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -266,6 +310,11 @@
 					"year": "2017",
 					"category": "St John Ambulance Brigade",
 					"award": "Bronze"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Gold"
 				}
 			]
 		}
@@ -386,9 +435,7 @@
 		"TM"
 	],
 	"specialNeeds": [
-		"HL.Oral",
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"id": "7016"
 }

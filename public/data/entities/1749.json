@@ -149,6 +149,26 @@
 						"Senior"
 					],
 					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Boys",
+						"Senior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Football",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "1st"
 				}
 			],
 			"SYF": [
@@ -271,6 +291,41 @@
 					"year": "2017",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": [
@@ -286,6 +341,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "Scout",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
 					"category": "Scout",
 					"award": "Silver"
 				}
@@ -309,15 +369,26 @@
 		"CH",
 		"TM"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 180,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
 		"VACANCY FOR PHASE 1": 140,
-		"NO. OF APPLICANTS IN PHASE 1": 94
+		"NO. OF APPLICANTS IN PHASE 1": 94,
+		"PLACES TAKEN UP TO PHASE 1": 94,
+		"VACANCY FOR PHASE 2A1": 46,
+		"NO. OF APPLICANTS IN PHASE 2A1": 0,
+		"PLACES TAKEN UP TO PHASE 2A1": 94,
+		"VACANCY FOR PHASE 2A2": 46,
+		"NO. OF APPLICANTS IN PHASE 2A2": 15,
+		"PLACES TAKEN UP TO PHASE 2A2": 108,
+		"VACANCY FOR PHASE 2B": 36,
+		"NO. OF APPLICANTS IN PHASE 2B": 25,
+		"PLACES TAKEN UP TO PHASE 2B": 133,
+		"VACANCY FOR PHASE 2C": 47,
+		"NO. OF APPLICANTS IN PHASE 2C": 59,
+		"PLACES TAKEN UP TO PHASE 2C": 180
 	},
 	"id": "1749"
 }

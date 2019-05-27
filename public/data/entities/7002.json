@@ -38,8 +38,6 @@
 		"Chinese",
 		"Chinese B",
 		"Civics & Moral Education",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
 		"Computer Applications",
 		"Design & Technology",
 		"Elements Of Business Skills",
@@ -48,6 +46,8 @@
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
 		"Literature(E)",
 		"Malay",
 		"Malay B",
@@ -57,7 +57,8 @@
 		"Project Work",
 		"Science (Chem, Bio)",
 		"Science (Phy, Chem)",
-		"Social Studies"
+		"Social Studies",
+		"Social Studies N(T)"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -87,7 +88,7 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Languages & Humanities": "Speak English with grAce and Knowledge (SPEAK)",
-			"Community & Youth Leadership": "Student Leadership Programme"
+			"Community & Youth Leadership": "Community and Youth Leadership"
 		},
 		"Special Student Development Programmes Offered": "To realise the school's vision to produce 'Men and Women of Character and Learning, in the service of God and Community', the school's Montfortian Achievers' Programme and range of Co-Curricular Activities provide valuable opportunities for students to develop self-confidence, self-discipline and social-emotional competencies through experiential learning and Values-in-Action projects in the school and community. Students look forward to annual camps and overseas learning journeys as they provide opportunities to build team spirit, discover their latent strengths, build cultural awareness and start friendships which will last a life-time. The school's Applied Learning Programme (ALP), SPEAK (SPeak English with grAce and Knowledge), aims to develop a love and appreciation for the English Language, and hone students' language ability so that they are effective and proficient users of the language. Through the ALP, students at the lower secondary levels will experience a range of language genres such as poetry and drama, with the chance to showcase their talents through competitions and events. At upper secondary, students will gain mastery of the language through specialised training such as debate, drama and public speaking, with opportunities to apply their skills through competitions, events and attachments.  The school's Learning for Life Programme (LLP) aims to nurture and inspire students who are committed to serve their communities with empathy. Students will be exposed to authentic experiences of community issues and needs and empowered to make positive differences to the lives of others."
 	},
@@ -111,6 +112,9 @@
 					"DA (National Education)"
 				]
 			},
+			"2018": {
+				"Development Award": "DA (Character Development)"
+			},
 			"Sports & Games Competition": [
 				{
 					"year": "2015",
@@ -131,6 +135,16 @@
 						"'B' Div"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Judo",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'C' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -208,6 +222,26 @@
 					"year": "2017",
 					"category": "Drama - English",
 					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Commendation"
 				}
 			],
 			"Best Unit Award": [
@@ -258,6 +292,26 @@
 				},
 				{
 					"year": "2017",
+					"category": "Red Cross",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "Girl Guides",
+					"award": "Silver"
+				},
+				{
+					"year": "2018",
+					"category": "NCC (Sea Boys)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
+					"category": "NPCC (Land)",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "Red Cross",
 					"award": "Gold"
 				}
@@ -380,8 +434,7 @@
 		"CK"
 	],
 	"specialNeeds": [
-		"PD",
-		"Mild SEN"
+		"PD"
 	],
 	"id": "7002"
 }

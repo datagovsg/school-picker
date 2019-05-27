@@ -81,7 +81,7 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Science": "Science and Environment Education @ OLQP (SEE @ OLQP)",
-			"Sports & Outdoor Education": "Character Lives In My Behaviour (CLIMB) Through Sports"
+			"Sports & Outdoor Education": "Character Lives In My Behaviour through sports (CLIMB)"
 		},
 		"Special Student Development Programmes Offered": "In 2016, the school was awarded the Best Practice Award for Student All-Round Development by MOE.  Our school's Applied Learning Programme, Science and Environment Education @ CHIJ OLQP' has a spiral approach, teaching our students' science and environment through experiential and applied learning. 'Character Lives In My Behaviour through Sports' is our Learning for Life Programme (LLP) where all students have opportunities to be engaged in physical activities to gain positive experiences through values-driven, student-centric physical education and sports programme. "
 	},
@@ -190,6 +190,56 @@
 						"Senior"
 					],
 					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2018",
+					"category": "Netball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2018",
+					"category": "Softball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -252,6 +302,26 @@
 					"year": "2017",
 					"category": "Dance - International",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
@@ -274,14 +344,27 @@
 		"SK",
 		"CK"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"p1Registration": {
 		"TOTAL VACANCY": 180,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
 		"VACANCY FOR PHASE 1": 140,
-		"NO. OF APPLICANTS IN PHASE 1": 37
+		"NO. OF APPLICANTS IN PHASE 1": 37,
+		"PLACES TAKEN UP TO PHASE 1": 37,
+		"VACANCY FOR PHASE 2A1": 103,
+		"NO. OF APPLICANTS IN PHASE 2A1": 0,
+		"PLACES TAKEN UP TO PHASE 2A1": 37,
+		"VACANCY FOR PHASE 2A2": 103,
+		"NO. OF APPLICANTS IN PHASE 2A2": 14,
+		"PLACES TAKEN UP TO PHASE 2A2": 51,
+		"VACANCY FOR PHASE 2B": 65,
+		"NO. OF APPLICANTS IN PHASE 2B": 18,
+		"PLACES TAKEN UP TO PHASE 2B": 69,
+		"VACANCY FOR PHASE 2C": 111,
+		"NO. OF APPLICANTS IN PHASE 2C": 70,
+		"PLACES TAKEN UP TO PHASE 2C": 139,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 41,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 43
 	},
 	"id": "5019"
 }

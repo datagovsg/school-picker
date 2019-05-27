@@ -19,12 +19,12 @@
 		"Principal": "MDM RABIATHUL BAZRIYA D/O ABU BAKAR",
 		"Vice Principal": [
 			"MDM YEO SIAU YEN",
-			"MR MUHAMAD NIZAM B ABDULLAH"
+			"MRS EUNICE LIM"
 		],
-		"School Vision": "A vibrant school which inspires passion in learning and commitment towards excellence.",
+		"School Vision": "A vibrant school which inspires passion in learning and purposeful living.",
 		"School Mission": "To nurture thinking individuals who are confident and self-directed learners with shared values and are active contributors to society.",
 		"School Philosophy, Culture and Ethos": [
-			"The school's vision is to be a vibrant school which inspires passion in learning and commitment towards excellence. We seek to achieve our vision through our mission of nurturing thinking individuals who are confident and self-directed learners with shared values and are active contributors to society. Our shared values are represented by the acronym, IDEAS, which stands for:",
+			"The school's vision is to be a vibrant school which inspires passion in learning and purposeful living. We seek to achieve our vision through our mission of nurturing thinking individuals who are confident and self-directed learners with shared values and are active contributors to society. Our shared values are represented by the acronym, IDEAS, which stands for:",
 			"Integrity our Core",
 			"Dare to Innovate",
 			"Excellence our Quest",
@@ -61,26 +61,17 @@
 	"Cca": {
 		"Physical Sports": [
 			"Badminton",
-			"Basketball",
 			"Netball",
-			"Soccer",
-			"Table Tennis"
+			"Soccer"
 		],
 		"Uniformed Groups": [
 			"Scouts & Girls Scouts"
 		],
 		"Visual and Performing Arts": [
-			"Angklung",
-			"Art And Craft Club",
 			"Chinese Dance",
 			"Chinese Orchestra",
-			"English Drama Club",
 			"Indian Dance",
 			"Malay Dance"
-		],
-		"Clubs & Societies": [
-			"Infocomm Club",
-			"Weiqi Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -1104,7 +1095,64 @@
 					"Scout": "Silver"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			}
 		}
 	},
 	"postalCode": "738908"

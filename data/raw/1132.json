@@ -17,7 +17,11 @@
 	"bus": "157 (from Boon Lay Interchange) , or 185 ",
 	"GeneralInformation": {
 		"Principal": "MRS JENNIFER PANG CHEE CHYN",
-		"Vice Principal": "MDM POON GEK HONG",
+		"Vice Principal": [
+			"MDM POON GEK HONG",
+			"MR GANESAN S/O RAMAN"
+		],
+		"Vice Principal (Admin)": "MR THAM PENG SENG",
 		"School Vision": [
 			"Nurturing Pupils who C.A.R.E to succeed",
 			"C.A.R.E represents:",
@@ -70,8 +74,8 @@
 		"Visual and Performing Arts": [
 			"Chinese Cultural Dance",
 			"Choir",
+			"Hip Hop Dance",
 			"Malay Cultural Dance",
-			"Modern Dance",
 			"Samba Percussion",
 			"Young Artist Club"
 		],
@@ -615,7 +619,86 @@
 					"Red Cross": "Gold"
 				}
 			},
-			"2018": {}
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					],
+					[
+						"Volleyball",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"3rd",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Gold"
+				}
+			}
 		}
 	},
 	"postalCode": "648347"

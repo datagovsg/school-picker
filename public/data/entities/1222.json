@@ -79,7 +79,7 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Sports & Outdoor Education": "Track and Field – Nurturing Confident Sportsmen of Good Character Grounded on Strong Values"
+			"Sports & Outdoor Education": "Character Through Sports"
 		},
 		"Special Student Development Programmes Offered": "At Gongshang Primary, we are committed to providing all students with a holistic education through our student-centric holistic curriculum. The school's Instructional Programmes are customised to cater to the needs of our students through a myriad of student-centred approaches and diverse learning experiences focusing on development of the 21st Century competencies. We are committed to providing our students an education in which academic learning is well-balanced with character building and co-curricular activities. The school's Learning for Life Programme (LLP), Character Through Sports, is drawn up based on a 6-year progressive programme outcome.  It provides all pupils with authentic learning experiences to hone their social emotional competencies to demonstrate the core values of responsibility, integrity, care, resilience, teamwork and harmony. This is done through 3 domains of learning, namely cognitive, affective and psychomotor. Through experiential and authentic learning, both local and overseas, these domains will be nurtured through the 3 main thrusts, that is, Sports & Games, Outdoor Education and Leadership to ensure pervasiveness and porosity. Anchored on the Character Through Sports Framework, the focus is based on a tiered approach, that is, catering to the entire cohort at lower primary (Primary 1 and 2), level specific customised approach at Primary 2 and 3, culminating to specialised and focused training for identified students at Primary 4 to 6. Customised programmes such as the cohort level camps at Primary 4 and Primary 6, Values-In-Action programmes and cross cultural experiences  reinforce the learning through providing opportunities for students to step out of their comfort zone to challenge themselves to be creative thinkers who are independent, resilient, respectful and are able to work collaboratively  in teams."
 	},
@@ -99,6 +99,9 @@
 				"Best Practice Awards": "BPA (Staff Well-Being)",
 				"Development Award": "DA (National Education)",
 				"Outstanding Development Award": "ODA (Character Development)"
+			},
+			"2018": {
+				"Best Practice Awards": "BPA (Staff Well-Being)"
 			},
 			"Sports & Games Competition": [
 				{
@@ -240,6 +243,76 @@
 						"'C' Div"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Badminton",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Basketball",
+					"subCategory": [
+						"Zone",
+						"Girls",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Junior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Rope Skipping",
+					"subCategory": [
+						"Zone",
+						"Boys",
+						"Senior"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'B' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2018",
+					"category": "Track & Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'D' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
@@ -337,6 +410,41 @@
 					"year": "2017",
 					"category": "Ensemble - Strings",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Strings",
+					"award": "Commendation"
 				}
 			],
 			"Best Unit Award": [
@@ -352,6 +460,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "Scout",
+					"award": "Gold"
+				},
+				{
+					"year": "2018",
 					"category": "Scout",
 					"award": "Gold"
 				}
@@ -374,14 +487,25 @@
 		"PL",
 		"CH"
 	],
-	"specialNeeds": [
-		"Mild SEN"
-	],
+	"specialNeeds": [],
 	"p1Registration": {
 		"TOTAL VACANCY": 210,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
 		"VACANCY FOR PHASE 1": 170,
-		"NO. OF APPLICANTS IN PHASE 1": 106
+		"NO. OF APPLICANTS IN PHASE 1": 106,
+		"PLACES TAKEN UP TO PHASE 1": 106,
+		"VACANCY FOR PHASE 2A1": 64,
+		"NO. OF APPLICANTS IN PHASE 2A1": 28,
+		"PLACES TAKEN UP TO PHASE 2A1": 134,
+		"VACANCY FOR PHASE 2A2": 36,
+		"NO. OF APPLICANTS IN PHASE 2A2": 42,
+		"PLACES TAKEN UP TO PHASE 2A2": 169,
+		"VACANCY FOR PHASE 2B": 21,
+		"NO. OF APPLICANTS IN PHASE 2B": 16,
+		"PLACES TAKEN UP TO PHASE 2B": 184,
+		"VACANCY FOR PHASE 2C": 26,
+		"NO. OF APPLICANTS IN PHASE 2C": 58,
+		"PLACES TAKEN UP TO PHASE 2C": 210
 	},
 	"id": "1222"
 }
